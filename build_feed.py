@@ -5,7 +5,7 @@ import feedparser
 from urllib.parse import urlparse
 
 NOW = datetime.now(timezone.utc)
-CUTOFF = NOW - timedelta(days=3)
+CUTOFF = NOW - timedelta(days=10)
 
 def clean(text):
     if not text: return ""
