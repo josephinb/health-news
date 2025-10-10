@@ -1,8 +1,16 @@
 {
-  "generated_at": "2025-10-10T06:51:57.783529+00:00",
+  "generated_at": "2025-10-10T07:53:51.842784+00:00",
   "window_days": 3,
-  "count": 45,
+  "count": 56,
   "items": [
+    {
+      "title": "Studium reloaded: Digital lernen im Pharmaziestudium",
+      "summary_de": "Mini-Podcasts statt Protokolle oder virtuelle Szenarien in Apotheken und Krankenh&auml;usern: Verschiedene Universit&auml;ten zeigen, wie vielf&auml;ltig digitale Lernangebote im Pharmaziestudium sein k&ouml;nnen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/digital-lernen-im-pharmaziestudium-159479/",
+      "published_at": "2025-10-10T07:00:00+00:00",
+      "type": "News"
+    },
     {
       "title": "Gegen Falschinformationen: »InfoCure« will digitale Gesundheitsinformationen stärken",
       "summary_de": "Eine aktuelle Umfrage der Bertelsmann Stiftung zeigt, dass die Mehrheit der Befragten die Seriosit&auml;t und Qualit&auml;t von Online-Informationen zu Gesundheitsthemen anzweifelt. Mit einer internationalen Initiative will die Stiftung dem entgegenwirken.",
@@ -25,6 +33,14 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/praevention-muss-ins-bewusstsein-der-bevoelkerung-ruecken-159523/",
       "published_at": "2025-10-09T16:00:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Erstmeldung Arzneimittel: Carbamazepin Aristo 600 mg Retardtabletten pU: Aristo Pharma GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2025-10-09T15:56:05+00:00",
       "type": "News"
     },
     {
@@ -129,6 +145,14 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/warken-erwaegt-hoehere-zuzahlungen-fuer-arzneimittel-159503/",
       "published_at": "2025-10-09T10:30:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "vdek fordert abgesenkten Steuersatz für Arzneimittel",
+      "summary_de": "Am 8. Oktober 2025 fand die 1. Lesung im Bundestag zum Steueränderungsgesetz statt. Eine zentrale Maßnahme ist die Senkung der Mehrwertsteuer in der Gastronomie auf sieben Prozent. Die Ersatzkassen fordern eine entsprechende Absenkung auch für Arzneimittel, wie vdek-Vorstandsvorsitzende Ulrike Elsner betont.",
+      "source_name": "vdek - Verband der Ersatzkassen e. V.",
+      "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/mehrwertsteuer-arzneimittel-steueraenderungsgesetz.html",
+      "published_at": "2025-10-09T09:50:02+00:00",
       "type": "News"
     },
     {
@@ -268,19 +292,19 @@
       "type": "News"
     },
     {
+      "title": "Fünf Jahre DiGA: Einigkeit beim vdek-Zukunftsforum 2025",
+      "summary_de": "Seit fünf Jahren sind digitale Gesundheitsanwendungen (DiGA) in der Versorgung. Aus diesem Anlass veranstaltete der Verband der Ersatzkassen e. V. (vdek) am 7. Oktober 2025 ein vdek-Zukunftsforum. Dort debattierten Fachexperten darüber, welche Erkenntnisse „5 Jahre DiGA“ liefern und welche Herausforderungen die digitale Versorgung der Zukunft mit sich bringt.",
+      "source_name": "vdek - Verband der Ersatzkassen e. V.",
+      "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/zukunftsforum-5-jahre-diga-versorgung-gesundheitskompetenz.html",
+      "published_at": "2025-10-08T12:52:42+00:00",
+      "type": "News"
+    },
+    {
       "title": "Krankenhausreform : Kabinett billigt Nachbesserungen",
       "summary_de": "Die schon besiegelte Neuaufstellung der Krankenh&auml;user soll noch an einigen Stellen ge&auml;ndert werden. Nach einigem Gezerre sind die Pl&auml;ne erneut auf dem Weg.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/kabinett-billigt-nachbesserungen-159480/",
       "published_at": "2025-10-08T12:45:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Demenzrisiko: Langes passives Sitzen schadet dem Gehirn",
-      "summary_de": "Vielsitzer haben ein h&ouml;heres Demenzrisiko. Das gilt besonders f&uuml;r Menschen, die viel Zeit vor dem Fernseher verbringen, wie k&uuml;rzlich eine Metaanalyse gezeigt hat.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/langes-passives-sitzen-schadet-dem-gehirn-159474/",
-      "published_at": "2025-10-08T12:30:00+00:00",
       "type": "News"
     },
     {
@@ -308,11 +332,35 @@
       "type": "News"
     },
     {
+      "title": "Gesetz zur Befugniserweiterung und Entbürokratisierung in der Pflege",
+      "summary_de": "Am 8. Oktober 2025 wird der Gesundheitsausschuss des Deutschen Bundestages über den Entwurf für ein „Gesetz zur Befugniserweiterung und Entbürokratisierung in der Pflege“ beraten. Das Gesetz bleibe in manchen Teilen hinter seinen eigenen Ansprüchen zurück, kritisiert vdek-Vorstandsvorsitzende Ulrike Elsner.",
+      "source_name": "vdek - Verband der Ersatzkassen e. V.",
+      "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/gesetz-befugniserweiterung-entbuerokratisierung-pflege.html",
+      "published_at": "2025-10-07T12:30:07+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Therapietreue stärken: vdek verleiht Zukunftspreis 2025",
+      "summary_de": "„Therapietreue in der Behandlung fördern“ war das Thema des diesjährigen Zukunftspreises, den der Verband der Ersatzkassen e. V. (vdek) jedes Jahr vergibt. Am 7. Oktober 2025 wurden die drei Preisträger im Rahmen des „vdek-Zukunftsforums“ mit dem vdek-Zukunftspreis 2025 ausgezeichnet.",
+      "source_name": "vdek - Verband der Ersatzkassen e. V.",
+      "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/vdek-zukunftspreis-gewinner-2025-therapietreue.html",
+      "published_at": "2025-10-07T10:37:17+00:00",
+      "type": "News"
+    },
+    {
       "title": "Artificial intelligence‐based algorithms for the diagnosis of retinopathy of prematurity",
       "summary_de": "Artificial intelligence‐based algorithms for the diagnosis of retinopathy of prematurity",
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016047",
       "published_at": "2025-10-07T00:00:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Verbesserung der datengestützten QS: IQTIG schlägt Monitoring auf Basis von Sozial- und Abrechnungsdaten vor",
+      "summary_de": "Berlin, 6. Oktober 2025 - Das IQTIG hat seinen Abschlussbericht „Entwicklung und Anwendung eines Konzepts zur kontinuierlichen und systematischen Identifizierung von relevanten Qualitätsdefiziten und Verbesserungspotenzialen“ veröffentlicht. Grundlage war eine Beauftragung durch den Gemeinsamen Bundesausschuss (G-BA) vom 12. Mai 2023. Die Beauftragung stellt einen weiteren Schritt zur Umsetzung des Beschlusses vom 19. April 2022 („Eckpunktebeschluss“) zur Weiterentwicklung der datengestützten gesetzlichen Qualitätssicherung …",
+      "source_name": "Pressemitteilungen | IQTIG",
+      "source_url": "https://iqtig.org/presse/pressemitteilungen/news/verbesserung-der-datengestuetzten-qs-iqtig-schlaegt-monitoring-auf-basis-von-sozial-und-abrechnungsdaten-vor/",
+      "published_at": "2025-10-06T08:03:08+00:00",
       "type": "News"
     },
     {
@@ -340,6 +388,14 @@
       "type": "News"
     },
     {
+      "title": "vdek und KV Bayerns fordern rasche Reformen der Notfallversorgung und des Rettungsdienstes",
+      "summary_de": "Der Verband der Ersatzkassen e. V. (vdek) und die Kassenärztliche Vereinigung Bayerns (KVB) fordern die Politik auf, die geplante Notfallreform und die Reform des Rettungsdienstes rasch anzugehen. „Die Reform ist überfällig, die Probleme müssen dringend gelöst werden”, erklärten Ulrike Elsner, Vorstandsvorsitzende des vdek, und Dr. Christian Pfeiffer, Vorstandsvorsitzender der KVB.",
+      "source_name": "vdek - Verband der Ersatzkassen e. V.",
+      "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/vdek-kv-bayerns-reformen-notfallversorgung-rettungsdienst.html",
+      "published_at": "2025-10-02T13:35:40+00:00",
+      "type": "News"
+    },
+    {
       "title": "Interventions for preventing dengue: a mapping review",
       "summary_de": "Interventions for preventing dengue: a mapping review",
       "source_name": "Cochrane Library RSS feed.",
@@ -356,11 +412,43 @@
       "type": "News"
     },
     {
+      "title": "Berufsanerkennung für ausländische Pflegekräfte",
+      "summary_de": "Das Bundeskabinett hat das „Gesetz zur Beschleunigung der Anerkennungsverfahren ausländischer Berufsqualifikationen in Heilberufen“ beschlossen. Ersatzkassen, Arbeitgebende und Pflegekräfte bedauern, dass das Gesetz bislang nicht die Anerkennung ausländischer Pflegekräfte vereinfacht.",
+      "source_name": "vdek - Verband der Ersatzkassen e. V.",
+      "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/berufsanerkennung-auslaendische-pflegekraefte.html",
+      "published_at": "2025-10-01T14:08:11+00:00",
+      "type": "News"
+    },
+    {
+      "title": "ersatzkasse magazin. (5. Ausgabe 2025): Zukunft der Gesundheitskompetenz",
+      "summary_de": "Ein versierter Umgang mit Gesundheitsinformationen wird in der digitalen Informationsgesellschaft immer wichtiger. In der Gesundheitspolitik stehen zahlreiche Mammutaufgaben an, hierzu haben wir Simone Borchardt (CDU) und Dr. Christos Pantazis (SPD) im Interview befragt. Weitere Themen im neuen ersatzkasse magazi. sind die Notfallreform und aktuelle Entwicklungen in der Pflege.",
+      "source_name": "vdek - Verband der Ersatzkassen e. V.",
+      "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/ersatzkasse-magazin-2025-05-zukunft-gesundheitskompetenz-borchardt-pantazis.html",
+      "published_at": "2025-10-01T12:56:59+00:00",
+      "type": "News"
+    },
+    {
+      "title": "IQTIG veranstaltet in Düsseldorf 2. Regionalkonferenz zum Verfahren QS ambulante Psychotherapie",
+      "summary_de": "Berlin, 1. Oktober 2025 - Am Montag, dem 27. Oktober 2025 (14.00 bis 17.30 Uhr) veranstaltet das IQTIG die zweite Regionalkonferenz zur regionalen Erprobung des Qualitätssicherungsverfahrens Ambulante psychotherapeutische Versorgung gesetzlich Krankenversicherter (QS ambulante Psychotherapie). Eingeladen sind die an der regionalen Erprobung in Nordrhein-Westfalen teilnehmenden Psychotherapeutinnen und Psychotherapeuten, weitere Verfahrensteilnehmerinnen und Verfahrensteilnehmer sowie die erweiterte Fachöffentlichkeit.",
+      "source_name": "Pressemitteilungen | IQTIG",
+      "source_url": "https://iqtig.org/presse/pressemitteilungen/news/iqtig-veranstaltet-in-duesseldorf-2-regionalkonferenz-zum-verfahren-qs-ambulante-psychotherapie/",
+      "published_at": "2025-10-01T06:40:00+00:00",
+      "type": "News"
+    },
+    {
       "title": "gemeinsame Pressemitteilung: Versicherungsfremde Leistungen konsequent aus Beitragsfinanzierung streichen!",
       "summary_de": "Appell der gemeinsamen Selbstverwaltung von GKV und KBV an die Bundesregierung: „Wir brauchen dringend eine saubere Abgrenzung zwischen staatlicher Daseinsvorsorge und den Aufgaben der gesetzlichen Kranken- und der sozialen Pflegeversicherung“, so Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes.",
       "source_name": "GKV-SV Presseinformationen",
       "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2124864.jsp",
       "published_at": "2025-09-30T13:14:59+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Zentrale Prüfstelle Prävention mit neuer Website",
+      "summary_de": "Präventionskurse werden von der Zentralen Prüfstelle Prävention zertifiziert, damit die Kosten durch die gesetzlichen Krankenkassen übernommen werden können. Zum 1. Oktober hat die Zentrale Prüfstelle ihre Website umfassend neugestaltet, um die Anbieter von Präventionskursen bei der Zertifizierung noch besser und zielgenauer zu unterstützen.",
+      "source_name": "vdek - Verband der Ersatzkassen e. V.",
+      "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/zentrale-pruefstelle-praevention-neue-website.html",
+      "published_at": "2025-09-30T13:04:33+00:00",
       "type": "News"
     }
   ]
