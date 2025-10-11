@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-10-11T03:01:50.382071+00:00",
+  "generated_at": "2025-10-11T06:42:37.630606+00:00",
   "window_days": 3,
-  "count": 56,
+  "count": 55,
   "items": [
     {
       "title": "Treuhand Dialog: Fixumfrust oder Chancenort Apotheke?",
@@ -68,6 +68,14 @@
       "type": "News"
     },
     {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Endemeldung Arzneimittel: Eremfat i.v. 300mg pU: Esteve Pharmaceuticals GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2025-10-10T11:32:09+00:00",
+      "type": "News"
+    },
+    {
       "title": "Versender im Vergleich: Günther Jauch schlägt Doc Morris",
       "summary_de": "Doc Morris hinkt beim Wachstum Konkurrent Redcare hinterher. Nicht zuletzt liege dies am Redcare-Werbedeal&nbsp; mit TV-Moderator G&uuml;nther Jauch, meinen Analysten. Im Rx-Markt z&auml;hlten Produkt und Preis kaum &ndash; anders als publikumswirksame Werbung. Redcare erreiche damit die wichtigen Zielgruppen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -113,14 +121,6 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/gematik-prueft-massnahmen-gegen-medisign-159526/",
       "published_at": "2025-10-10T08:14:08+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Endemeldung Arzneimittel: Saxenda 6 mg/ml Injektionsl&#246sung in Fertigpen - OP(5x3ml) pU: Novo Nordisk A/S",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2025-10-10T07:02:06+00:00",
       "type": "News"
     },
     {
@@ -441,14 +441,6 @@
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/ersatzkasse-magazin-2025-05-zukunft-gesundheitskompetenz-borchardt-pantazis.html",
       "published_at": "2025-10-01T12:56:59+00:00",
-      "type": "News"
-    },
-    {
-      "title": "IQTIG veranstaltet in Düsseldorf 2. Regionalkonferenz zum Verfahren QS ambulante Psychotherapie",
-      "summary_de": "Berlin, 1. Oktober 2025 - Am Montag, dem 27. Oktober 2025 (14.00 bis 17.30 Uhr) veranstaltet das IQTIG die zweite Regionalkonferenz zur regionalen Erprobung des Qualitätssicherungsverfahrens Ambulante psychotherapeutische Versorgung gesetzlich Krankenversicherter (QS ambulante Psychotherapie). Eingeladen sind die an der regionalen Erprobung in Nordrhein-Westfalen teilnehmenden Psychotherapeutinnen und Psychotherapeuten, weitere Verfahrensteilnehmerinnen und Verfahrensteilnehmer sowie die erweiterte Fachöffentlichkeit.",
-      "source_name": "Pressemitteilungen | IQTIG",
-      "source_url": "https://iqtig.org/presse/pressemitteilungen/news/iqtig-veranstaltet-in-duesseldorf-2-regionalkonferenz-zum-verfahren-qs-ambulante-psychotherapie/",
-      "published_at": "2025-10-01T06:40:00+00:00",
       "type": "News"
     }
   ]
