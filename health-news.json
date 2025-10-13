@@ -1,8 +1,24 @@
 {
-  "generated_at": "2025-10-13T03:32:23.565764+00:00",
+  "generated_at": "2025-10-13T06:53:34.483665+00:00",
   "window_days": 3,
   "count": 48,
   "items": [
+    {
+      "title": "Tierbewegung: Hunde planen, Katzen experimentieren",
+      "summary_de": "Warum l&auml;uft der Hund immer dieselbe Strecke, w&auml;hrend die Katze jeden Tag neue Abenteuer sucht? Diese Alltagsfrage hat nun eine wissenschaftliche Antwort bekommen, die bisherige Annahmen auf den Kopf stellt.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/hunde-planen-katzen-experimentieren-159415/",
+      "published_at": "2025-10-13T06:00:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Bundesarbeitsgericht : Kein Anspruch auf Gehaltsabrechnung in Papierform",
+      "summary_de": "Eine Gehaltsabrechnung muss nicht zwingend in Papierform vorliegen. Arbeitgeber d&uuml;rfen sie auch ausschlie&szlig;lich digital zur Verf&uuml;gung stellen. Das bekr&auml;ftigt nun ein Urteil des Bundesarbeitsgerichts.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/kein-anspruch-auf-gehaltsabrechnung-in-papierform-159517/",
+      "published_at": "2025-10-13T05:00:00+00:00",
+      "type": "News"
+    },
     {
       "title": "Treuhand Dialog: Fixumfrust oder Chancenort Apotheke?",
       "summary_de": "Ohne Honorarerh&ouml;hung stehen die Apotheken weiter vor wirtschaftlichen Herausforderungen. Bei den Betriebsergebnissen erwartet die Treuhand Hannover allenfalls eine Seitw&auml;rtsbewegung. Doch engagierte Apothekerinnen und Apotheker offenbarten beim &raquo;Treuhand Dialog&laquo; auch Hoffnung &ndash; und wollen sich unabh&auml;ngiger machen von der Politik.",
@@ -69,7 +85,7 @@
     },
     {
       "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Endemeldung Arzneimittel: Eremfat i.v. 300mg pU: Esteve Pharmaceuticals GmbH",
+      "summary_de": "Typ: Endemeldung Arzneimittel: Eremfat i.v. 300mg pU: Riemser Pharma GmbH",
       "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
       "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
       "published_at": "2025-10-10T11:32:09+00:00",
@@ -252,27 +268,11 @@
       "type": "News"
     },
     {
-      "title": "BVDVA: Cannabis-Versandverbot »nicht im Sinne der Apotheken«",
-      "summary_de": "Die Bundesregierung hat sich darauf verst&auml;ndigt, Onlineverordnung und -versand von Medizinalcannabis zu verbieten. Der Bundesverband Deutscher Versandapotheken (BVDVA) findet, dass das Verbot &raquo;&uuml;bers Ziel hinausschie&szlig;t&laquo;. Er setzt auf das parlamentarische Verfahren.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/cannabis-versandverbot-nicht-im-sinne-der-apotheken-159510/",
-      "published_at": "2025-10-09T11:30:00+00:00",
-      "type": "News"
-    },
-    {
       "title": "Meldung: Forschungsdatenzentrum ist ein Meilenstein für das Gesundheitswesen",
       "summary_de": "„Mit der Eröffnung des Forschungsdatenzentrums ist ein Meilenstein für die Transparenz im Gesundheitswesen erreicht worden. Die gesetzliche Krankenversicherung schafft dafür die Basis, zum einen durch das Bereitstellen ihrer umfassenden Abrechnungsdaten und zum anderen dadurch, dass sie das Forschungsdatenzentrum derzeit fast vollständig finanziert“, so Stefanie Stoff-Ahnis auf der heutigen Pressekonferenz, bei der die Bundesgesundheitsministerin gemeinsam mit dem GKV-Spitzenverband, Vertreterinnen und Vertretern …",
       "source_name": "GKV-SV Presseinformationen",
       "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2132224.jsp",
       "published_at": "2025-10-09T10:39:07+00:00",
-      "type": "News"
-    },
-    {
-      "title": "GKV in der Krise : Warken erwägt höhere Zuzahlungen für Arzneimittel",
-      "summary_de": "Laut Medienberichten erw&auml;gt Gesundheitsministerin Nina Warken (CDU), die Zuzahlungen f&uuml;r Medikamente und Krankenhausbehandlungen um 50 Prozent zu erh&ouml;hen. Auf der Bundespressekonferenz best&auml;tigte Warken, dass man entsprechende Schritte pr&uuml;fe.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/warken-erwaegt-hoehere-zuzahlungen-fuer-arzneimittel-159503/",
-      "published_at": "2025-10-09T10:30:00+00:00",
       "type": "News"
     },
     {
