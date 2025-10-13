@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-10-12T21:25:34.163713+00:00",
+  "generated_at": "2025-10-13T03:32:23.565764+00:00",
   "window_days": 3,
-  "count": 50,
+  "count": 48,
   "items": [
     {
       "title": "Treuhand Dialog: Fixumfrust oder Chancenort Apotheke?",
@@ -284,22 +284,6 @@
       "type": "News"
     },
     {
-      "title": "Progestagens for pain symptoms associated with endometriosis",
-      "summary_de": "Progestagens for pain symptoms associated with endometriosis",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002122.pub3",
-      "published_at": "2025-10-09T00:00:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Intraperitoneal chemotherapy for gastric cancer",
-      "summary_de": "Intraperitoneal chemotherapy for gastric cancer",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015698.pub2",
-      "published_at": "2025-10-09T00:00:00+00:00",
-      "type": "News"
-    },
-    {
       "title": "Acupuncture for the treatment of infantile colic",
       "summary_de": "Acupuncture for the treatment of infantile colic",
       "source_name": "Cochrane Library RSS feed.",
@@ -312,6 +296,22 @@
       "summary_de": "Pharmacotherapy for hypertension in adults 60 years or older",
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000028.pub4",
+      "published_at": "2025-10-09T00:00:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Intraperitoneal chemotherapy for gastric cancer",
+      "summary_de": "Intraperitoneal chemotherapy for gastric cancer",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015698.pub2",
+      "published_at": "2025-10-09T00:00:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Progestagens for pain symptoms associated with endometriosis",
+      "summary_de": "Progestagens for pain symptoms associated with endometriosis",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002122.pub3",
       "published_at": "2025-10-09T00:00:00+00:00",
       "type": "News"
     },
@@ -385,22 +385,6 @@
       "source_name": "GKV-SV Presseinformationen",
       "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2128512.jsp",
       "published_at": "2025-10-06T08:01:20+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Continuous glucose monitoring systems for adolescents and adults living with type 2 diabetes mellitus",
-      "summary_de": "Continuous glucose monitoring systems for adolescents and adults living with type 2 diabetes mellitus",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016111",
-      "published_at": "2025-10-03T00:00:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Medical interventions for fungal keratitis",
-      "summary_de": "Medical interventions for fungal keratitis",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016304",
-      "published_at": "2025-10-03T00:00:00+00:00",
       "type": "News"
     }
   ]
