@@ -1,8 +1,56 @@
 {
-  "generated_at": "2025-10-14T13:42:58.011098+00:00",
+  "generated_at": "2025-10-14T15:40:17.094017+00:00",
   "window_days": 3,
   "count": 52,
   "items": [
+    {
+      "title": "UN: Deutschland gibt 2,5 Millionen Euro für Aids-Programm",
+      "summary_de": "Mit dem R&uuml;ckzug der USA aus internationalen Organisationen wird auch f&uuml;r viele Gesundheitsprojekte das Geld knapp. Die Bundesregierung will ein wichtiges Programm weiter unterst&uuml;tzen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/deutschland-gibt-25-millionen-euro-fuer-aids-programm-159622/",
+      "published_at": "2025-10-14T14:46:08+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Berlin: Warnung vor gefälschten Oxycodon- und Xanax-Tabletten",
+      "summary_de": "Die Berliner Polizei warnt vor gef&auml;hrlichen Medikamentenf&auml;lschungen, die derzeit in der Hauptstadt und bundesweit im Umlauf sind. Betroffen sind insbesondere Tabletten mit der Aufschrift &raquo;Oxycodon&laquo; und &raquo;Xanax&laquo;, die auf den ersten Blick echt wirken.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/warnung-vor-gefaelschten-oxycodon-und-xanax-tabletten-159621/",
+      "published_at": "2025-10-14T14:20:08+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Regulatorische T-Zellen: Potente Sensibelchen in der Klinik",
+      "summary_de": "Regulatorische T-Zellen (T reg ) sind durch die Bekanntgabe der diesj&auml;hrigen Medizin-Nobelpreistr&auml;ger schlagartig bekannt geworden. Diese speziellen T-Zellen wirken den sehr viel h&auml;ufigeren Effektor-T-Zellen entgegen. Sie therapeutisch zu nutzen, ist schwierig &ndash; aber nicht unm&ouml;glich.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/potente-sensibelchen-in-der-klinik-159589/",
+      "published_at": "2025-10-14T14:20:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Katastrophenschutz: Dobrindt: Gut vorbereitet mit Hausapotheke und Notfallplan",
+      "summary_de": "Bundesinnenminister Alexander Dobrindt (CSU) fordert, den Katastrophenschutz st&auml;rker ins &ouml;ffentliche Bewusstsein zu r&uuml;cken, und r&auml;t unter anderem zu einer gut funktionierenden Hausapotheke.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/dobrindt-gut-vorbereitet-mit-hausapotheke-und-notfallplan-159619/",
+      "published_at": "2025-10-14T14:15:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Ministerin Gerlach: Impfaufruf aus Bayern – auch in Apotheken",
+      "summary_de": "Bayerns Gesundheitsministerin Judith Gerlach (CSU) hat sich gegen Grippe impfen lassen und ruft die Menschen auf, es ihr gleichzutun &ndash; auch in Apotheken. Vorsorge sei nicht nur f&uuml;r Risikogruppen wichtig.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/impfaufruf-aus-bayern-auch-in-apotheken-159617/",
+      "published_at": "2025-10-14T14:00:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Endemeldung Arzneimittel: Nepresol pU: TEOFARMA S.R.L.",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2025-10-14T13:53:45+00:00",
+      "type": "News"
+    },
     {
       "title": "Pharmaunternehmen: Kartellamt erlaubt Kauf von Curevac durch Biontech",
       "summary_de": "Das Mainzer Pharmaunternehmen Biontech darf den Rivalen Curevac aus T&uuml;bingen &uuml;bernehmen. Das Bundeskartellamt sieht den Wettbewerb nicht gef&auml;hrdet und hat daher keine Bedenken gegen die geplante &Uuml;bernahme.",
@@ -73,14 +121,6 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/massenhaft-rx-arzneimittel-ohne-rezept-abgegeben-159602/",
       "published_at": "2025-10-14T09:22:09+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: Sympal injekt 50 mg Injektions-/Infusionsl&#246sung pU: BERLIN-CHEMIE Aktiengesellschaft",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2025-10-14T09:17:29+00:00",
       "type": "News"
     },
     {
@@ -244,46 +284,6 @@
       "type": "News"
     },
     {
-      "title": "Kartentausch: Medisign meldet »erhebliche Fortschritte«",
-      "summary_de": "Die Gematik hat Medisign unter Beobachtung gestellt. Doch der Anbieter versichert gegen&uuml;ber der PZ, dass der Kartentausch bis zum 1. Dezember abgeschlossen werden kann.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/medisign-meldet-erhebliche-fortschritte-159553/",
-      "published_at": "2025-10-13T10:00:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Immunflucht: Escape-Strategie von Knochenmetastasen entdeckt",
-      "summary_de": "Zahlreiche Krebsarten bilden Knochenmetastasen aus. Diese sind nur schwer zu behandeln. Der Ursache daf&uuml;r ist eine amerikanisch-chinesische Arbeitsgruppe nun auf die Spur gekommen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/escape-strategie-von-knochenmetastasen-entdeckt-159541/",
-      "published_at": "2025-10-13T08:30:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Kassen und Krankenhäuser: Sparpläne: Warken kündigt Ausnahmezustand an",
-      "summary_de": "Bundesgesundheitsministerin Nina Warken (CDU) will zwei Milliarden Euro einsparen, um die Krankenkassen zu entlasten. Dazu setzt sie bei den Krankenh&auml;usern und bei der Verwaltung der Kassen an. In dieser Woche tagt das Kabinett dazu &ndash; und der Sch&auml;tzerkreis verk&uuml;ndet seine Prognose.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/sparplaene-warken-kuendigt-ausnahmezustand-an-159546/",
-      "published_at": "2025-10-13T07:00:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Tierbewegung: Hunde planen, Katzen experimentieren",
-      "summary_de": "Warum l&auml;uft der Hund immer dieselbe Strecke, w&auml;hrend die Katze jeden Tag neue Abenteuer sucht? Diese Alltagsfrage hat nun eine wissenschaftliche Antwort bekommen, die bisherige Annahmen auf den Kopf stellt.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/hunde-planen-katzen-experimentieren-159415/",
-      "published_at": "2025-10-13T06:00:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Bundesarbeitsgericht : Kein Anspruch auf Gehaltsabrechnung in Papierform",
-      "summary_de": "Eine Gehaltsabrechnung muss nicht zwingend in Papierform vorliegen. Arbeitgeber d&uuml;rfen sie auch ausschlie&szlig;lich digital zur Verf&uuml;gung stellen. Das bekr&auml;ftigt nun ein Urteil des Bundesarbeitsgerichts.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/kein-anspruch-auf-gehaltsabrechnung-in-papierform-159517/",
-      "published_at": "2025-10-13T05:00:00+00:00",
-      "type": "News"
-    },
-    {
       "title": "Prognostic factors predicting an unprovoked seizure recurrence in children and adults following a first unprovoked seizure",
       "summary_de": "Prognostic factors predicting an unprovoked seizure recurrence in children and adults following a first unprovoked seizure",
       "source_name": "Cochrane Library RSS feed.",
@@ -324,14 +324,6 @@
       "type": "News"
     },
     {
-      "title": "Pharmacotherapy for hypertension in adults 60 years or older",
-      "summary_de": "Pharmacotherapy for hypertension in adults 60 years or older",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000028.pub4",
-      "published_at": "2025-10-09T00:00:00+00:00",
-      "type": "News"
-    },
-    {
       "title": "Intraperitoneal chemotherapy for gastric cancer",
       "summary_de": "Intraperitoneal chemotherapy for gastric cancer",
       "source_name": "Cochrane Library RSS feed.",
@@ -344,6 +336,14 @@
       "summary_de": "Progestagens for pain symptoms associated with endometriosis",
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002122.pub3",
+      "published_at": "2025-10-09T00:00:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Pharmacotherapy for hypertension in adults 60 years or older",
+      "summary_de": "Pharmacotherapy for hypertension in adults 60 years or older",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000028.pub4",
       "published_at": "2025-10-09T00:00:00+00:00",
       "type": "News"
     },
