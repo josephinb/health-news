@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-13T21:25:33.480838+00:00",
+  "generated_at": "2025-10-14T03:11:21.062013+00:00",
   "window_days": 3,
   "count": 49,
   "items": [
@@ -36,6 +36,14 @@
       "type": "News"
     },
     {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Erstmeldung Arzneimittel: Thiamazol 5mg Henning pU: Sanofi-Aventis Deutschland GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2025-10-13T14:16:12+00:00",
+      "type": "News"
+    },
+    {
       "title": "Treuhand Dialog: Wie die »NextGen« die Apothekenreform retten will",
       "summary_de": "Die n&auml;chste Generation der Standesvertretung steht vor gro&szlig;en Herausforderungen: Der Druck auf den Markt von au&szlig;en w&auml;chst, die Politik tut nichts oder zu wenig, um die Apotheke vor Ort zu st&auml;rken. Die Frage steht im Raum: Wann ist der richtige Zeitpunkt, lauter zu werden?",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -49,14 +57,6 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/warken-tauscht-sich-ueber-critical-medicines-act-aus-159583/",
       "published_at": "2025-10-13T13:58:08+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: &#196nderungsmeldung Arzneimittel: Ferrlecit 62,5 mg pU: Sanofi-Aventis Deutschland GmbH",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2025-10-13T13:42:54+00:00",
       "type": "News"
     },
     {
