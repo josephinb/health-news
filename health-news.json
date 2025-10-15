@@ -1,8 +1,16 @@
 {
-  "generated_at": "2025-10-14T21:27:32.784091+00:00",
+  "generated_at": "2025-10-15T03:15:16.611227+00:00",
   "window_days": 3,
   "count": 52,
   "items": [
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Erstmeldung Arzneimittel: Oxygesic Dispersa akut 5 mg pU: Mundipharma Gesellschaft mit beschr&#228nkter Haftung - Gesch&#228ftsanschrift -",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2025-10-14T21:16:53+00:00",
+      "type": "News"
+    },
     {
       "title": "Warken kündigt Reformen an: »Es wird alles auf den Prüfstand gestellt. Es gibt keine Denkverbote.«",
       "summary_de": "Bundesgesundheitsministerin Nina Warken (CDU) will das deutsche Gesundheitssystem resilienter machen. Dabei sieht sie die Arzneimittelversorgung als wichtigen Faktor und will die Apotheken mit einer Reform st&auml;rken. Gleichzeitig k&uuml;ndigte die Ministerin angesichts klammer Kassen &raquo;einschneidende Reformen&laquo; an.",
@@ -57,14 +65,6 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/impfaufruf-aus-bayern-auch-in-apotheken-159617/",
       "published_at": "2025-10-14T14:00:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Endemeldung Arzneimittel: Nepresol pU: TEOFARMA S.R.L.",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2025-10-14T13:53:45+00:00",
       "type": "News"
     },
     {
