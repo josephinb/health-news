@@ -1,8 +1,64 @@
 {
-  "generated_at": "2025-10-15T09:37:45.861807+00:00",
+  "generated_at": "2025-10-15T13:45:17.022134+00:00",
   "window_days": 3,
-  "count": 52,
+  "count": 55,
   "items": [
+    {
+      "title": "Krebspatienten: Einsamkeit als Sterberisiko",
+      "summary_de": "Krebs ist nicht nur k&ouml;rperlich, sondern auch psychisch eine sehr belastende Erkrankung. Eine Metaanalyse zeigt nun: M&uuml;ssen Patienten diese Belastung allein durchstehen, sterben sie eher als Patienten, die &uuml;ber ein st&uuml;tzendes soziales Umfeld verf&uuml;gen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/einsamkeit-als-sterberisiko-159648/",
+      "published_at": "2025-10-15T12:30:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "GKV-Finanzen: Sparpläne stehen, Honorar »im Blick«",
+      "summary_de": "Das Bundeskabinett hat gr&uuml;nes Licht f&uuml;r die Sparpl&auml;ne des Bundesgesundheitsministeriums (BMG) gegeben. Die Ministerinnen und Minister beschlossen Ma&szlig;nahmen, die die Gesetzliche Krankenversicherung (GKV) um insgesamt zwei Milliarden Euro entlasten sollen. Die Honorarerh&ouml;hung f&uuml;r Apotheken nehme man &raquo;in den Blick&laquo;.&nbsp;&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/sparplaene-stehen-honorar-im-blick-159652/",
+      "published_at": "2025-10-15T11:10:08+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Beiträge: Kassenchef Blatt sieht Sparpläne als »Notnagel«",
+      "summary_de": "Die Kassen sollen entlastet werden &ndash; und dazu sollen unter anderem die Kassen selbst beitragen, auch wenn den Hauptteil am Sparpaket der Krankenhaussektor tr&auml;gt. Der Vorstandsvorsitzende des GKV-Spitzenverbands, Oliver Blatt, begr&uuml;&szlig;t die Pl&auml;ne, sieht aber auch Hersteller und &Auml;rzte in der Pflicht.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/kassenchef-blatt-sieht-sparplaene-als-notnagel-159649/",
+      "published_at": "2025-10-15T10:12:08+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Preis appelliert an Warken: Voraussetzung für höheres Fixum geschaffen",
+      "summary_de": "Bundesgesundheitsministerin Nina Warken will im Gesundheitssystem Milliarden einsparen, um die Krankenkassen zu entlasten. ABDA-Pr&auml;sident Thomas Preis setzt darauf, dass nach dem Sparprogramm Geld f&uuml;r die versprochene Honorarerh&ouml;hung der Apotheken zur Verf&uuml;gung steht.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/voraussetzung-fuer-hoeheres-fixum-geschaffen-159647/",
+      "published_at": "2025-10-15T10:00:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Seitenstechen bis Krampf: Was bei Sport-Wehwehchen hilft",
+      "summary_de": "Wenn beim Joggen die Wade krampft, der Kopf schmerzt oder es in den Seiten sticht, fragen sich Hobby-Sportler: Was ist da los &ndash; und was hilft? Zwei Experten geben Antworten.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/was-bei-sport-wehwehchen-hilft-159639/",
+      "published_at": "2025-10-15T10:00:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Blutvergiftung durch Staphylokokken: Dalbavancin vereinfacht Standardtherapie",
+      "summary_de": "Der Nachweis von Staphylococcus aureus im Blut ist immer ein Alarmzeichen. Die Betroffenen erwartet eine langwierige Antibiotikatherapie. Eine neue Untersuchung legt nahe, dass Dalbavancin das Therapieregime vereinfachen kann.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/dalbavancin-vereinfacht-standardtherapie-159636/",
+      "published_at": "2025-10-15T09:00:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Endemeldung Arzneimittel: Carbamazepin AL 200 retard pU: ALIUD PHARMA GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2025-10-15T08:58:21+00:00",
+      "type": "News"
+    },
     {
       "title": "Krankschreibung : Warken offen für lockere Regeln",
       "summary_de": "Der Chef darf ab dem ersten Krankheitstag ein &auml;rztliches Attest verlangen. Diese Regel zu &auml;ndern, k&ouml;nnte &Auml;rzte entlasten. Gesundheitsministerin Nina Warken (CDU) zeigt sich offen f&uuml;r die Idee, sieht aber keinen kurzfristigen Handlungsbedarf.&nbsp;",
@@ -44,14 +100,6 @@
       "type": "News"
     },
     {
-      "title": "Neue Rechtsform: TGL ist eingetragener Verein",
-      "summary_de": "Die Tarifgemeinschaft der Apothekenleiter (TGL) Nordrhein ist jetzt ein eingetragener Verein. Die neue Rechtsform sorge f&uuml;r mehr Rechtssicherheit, transparentere Strukturen und nicht zuletzt auch eine bessere Au&szlig;enwirkung, teilte der Arbeitgeberverband mit.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/tgl-ist-eingetragener-verein-159625/",
-      "published_at": "2025-10-15T05:00:00+00:00",
-      "type": "News"
-    },
-    {
       "title": "Vom Schmuckstück zum Lebensretter: Edle Elemente im Einsatz gegen Krankheiten",
       "summary_de": "Gold, Platin und Diamanten gl&auml;nzen l&auml;ngst nicht mehr nur als Schmuck. In der Medizin bek&auml;mpfen sie Krebs, helfen bei Diagnosen und retten ungeborene Kinder. Forscher nutzen die Materialen, um Therapien pr&auml;ziser und vertr&auml;glicher zu machen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -60,11 +108,35 @@
       "type": "News"
     },
     {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: durazepam 50 mg forte pU: Mylan Germany GmbH",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2025-10-15T04:56:36+00:00",
+      "title": "Neue Rechtsform: TGL ist eingetragener Verein",
+      "summary_de": "Die Tarifgemeinschaft der Apothekenleiter (TGL) Nordrhein ist jetzt ein eingetragener Verein. Die neue Rechtsform sorge f&uuml;r mehr Rechtssicherheit, transparentere Strukturen und nicht zuletzt auch eine bessere Au&szlig;enwirkung, teilte der Arbeitgeberverband mit.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/tgl-ist-eingetragener-verein-159625/",
+      "published_at": "2025-10-15T05:00:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Immunoglobulin for myasthenia gravis",
+      "summary_de": "Immunoglobulin for myasthenia gravis",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013801.pub2",
+      "published_at": "2025-10-15T00:00:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Simple hysterectomy with pelvic lymphadenectomy versus radical hysterectomy with pelvic lymphadenectomy for women with stage IA2‐IB1 cervical cancer",
+      "summary_de": "Simple hysterectomy with pelvic lymphadenectomy versus radical hysterectomy with pelvic lymphadenectomy for women with stage IA2‐IB1 cervical cancer",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012335.pub2",
+      "published_at": "2025-10-15T00:00:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Pharmacological and non‐pharmacological treatments for impulsive‐compulsive behaviors in Parkinson's disease",
+      "summary_de": "Pharmacological and non‐pharmacological treatments for impulsive‐compulsive behaviors in Parkinson's disease",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015046.pub2",
+      "published_at": "2025-10-15T00:00:00+00:00",
       "type": "News"
     },
     {
@@ -212,43 +284,11 @@
       "type": "News"
     },
     {
-      "title": "Erste AG-Ergebnisse: Pflegegrade sollen bleiben, aber auf den Prüfstand",
-      "summary_de": "Wie l&auml;sst sich die Pflegeversicherung nachhaltig reformieren? Unl&auml;ngst gab es dazu Spekulationen um die Abschaffung von Pflegegrad 1. Dies ist vom Tisch, wie erste Zwischenergebnisse der&nbsp; Bund-L&auml;nder-Arbeitsgruppe &raquo;Zukunftspakt Pflege&laquo; zeigen. Die Strukturen sollen aber vereinfacht und fokussiert werden.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/pflegegrade-sollen-bleiben-aber-auf-den-pruefstand-159594/",
-      "published_at": "2025-10-14T07:46:08+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Diskussionsrunde: Warum Brustkrebs-Früherkennung neu gedacht werden muss",
-      "summary_de": "In einer Expertenrunde des &raquo;Tagesspiegel&laquo; wurde deutlich: Bei der Fr&uuml;herkennung von Brustkrebs braucht es ein Umdenken &ndash; weg von pauschalen L&ouml;sungen hin zu individuell zugeschnittenen Strategien.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/warum-brustkrebs-frueherkennung-neu-gedacht-werden-muss-159586/",
-      "published_at": "2025-10-14T07:00:00+00:00",
-      "type": "News"
-    },
-    {
       "title": "vdek zum „kleinen Sparpaket“ in der GKV",
       "summary_de": "Das neue „kleine Sparpaket“ der Bundesregierung ist ein erster Schritt zur Ausgabenbegrenzung in der GKV. Doch ohne stärkere Koppelung der Ausgaben an die Einnahmen – etwa bei Arzneimitteln – werden die Beiträge weiter steigen. Auch die Rücklagen der Kassen sind noch zu niedrig.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/kleines-sparpaket-gkv.html",
       "published_at": "2025-10-14T06:57:09+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Langsamer Altern: Vier Aminosäuren machen den Unterschied",
-      "summary_de": "Nacktmulle werden etwa f&uuml;nfmal so alt wie M&auml;use oder Ratten. Daher werden diese Tiere in der Forschung als Modell f&uuml;r Langlebigkeit eingesetzt. Chinesische Forschende k&ouml;nnten die Ursache f&uuml;r das erstaunlich lange Leben der Nacktmulle gefunden haben.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/vier-aminosaeuren-machen-den-unterschied-159580/",
-      "published_at": "2025-10-14T06:00:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Neurowissenschaft: Optimismus ist im Gehirn sichtbar",
-      "summary_de": "Optimisten gelten als zufriedener mit ihren Beziehungen und pflegen oft ein gro&szlig;es soziales Netzwerk. Warum ist das so? Forschende haben eine Erkl&auml;rung gefunden. Und hoffen nun, unter anderem Einsamkeit besser zu verstehen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/optimismus-ist-im-gehirn-sichtbar-159414/",
-      "published_at": "2025-10-14T05:00:00+00:00",
       "type": "News"
     },
     {
@@ -265,22 +305,6 @@
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006404.pub5",
       "published_at": "2025-10-14T00:00:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Änderungsantrag: Mehr Durchgriffsrechte für die Gematik",
-      "summary_de": "Die Bundesregierung will die Rolle der Gematik bei Sicherung und Weiterentwicklung der digitalen Gesundheitsinfrastruktur rechtlich klarer fassen. Mehr Befugnisse soll die Gematik zum Beispiel bei St&ouml;rungen oder bei der Gefahrenabwehr bekommen.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/mehr-durchgriffsrechte-fuer-die-gematik-159581/",
-      "published_at": "2025-10-13T16:00:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "IGV: Mehr internationale Vernetzung im Fall einer Pandemie",
-      "summary_de": "Der Gesundheitsausschuss des Bundestags hat heute mit Expertinnen und Experten &uuml;ber die Aktualisierung der internationalen Pandemie-Vorschriften beraten. Zentrale Themen waren dabei die nationale Souver&auml;nit&auml;t, die internationale Solidarit&auml;t sowie die Unabh&auml;ngigkeit der WHO.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/mehr-internationale-vernetzung-im-fall-einer-pandemie-159585/",
-      "published_at": "2025-10-13T15:00:00+00:00",
       "type": "News"
     },
     {
@@ -332,18 +356,18 @@
       "type": "News"
     },
     {
-      "title": "Progestagens for pain symptoms associated with endometriosis",
-      "summary_de": "Progestagens for pain symptoms associated with endometriosis",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002122.pub3",
-      "published_at": "2025-10-09T00:00:00+00:00",
-      "type": "News"
-    },
-    {
       "title": "Pharmacotherapy for hypertension in adults 60 years or older",
       "summary_de": "Pharmacotherapy for hypertension in adults 60 years or older",
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000028.pub4",
+      "published_at": "2025-10-09T00:00:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Progestagens for pain symptoms associated with endometriosis",
+      "summary_de": "Progestagens for pain symptoms associated with endometriosis",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002122.pub3",
       "published_at": "2025-10-09T00:00:00+00:00",
       "type": "News"
     },
