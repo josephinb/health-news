@@ -1,8 +1,24 @@
 {
-  "generated_at": "2025-10-16T13:39:44.322186+00:00",
+  "generated_at": "2025-10-16T15:38:58.724890+00:00",
   "window_days": 3,
   "count": 56,
   "items": [
+    {
+      "title": "Herpes-Infektion: Pritelivir – Arzneistoff mit neuem Wirkprinzip",
+      "summary_de": "Pritelivir hat in einer Phase-III-Studie &uuml;berzeugen k&ouml;nnen. Die Studie untersuchte Wirksamkeit und Sicherheit des Wirkstoffs bei immungeschw&auml;chten Patienten mit refrakt&auml;ren Herpes-simplex-Virus (HSV)-Infektionen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/pritelivir-arzneistoff-mit-neuem-wirkprinzip-159683/",
+      "published_at": "2025-10-16T13:30:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Erstmeldung Arzneimittel: Diprogenta pU: Organon Healthcare GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2025-10-16T13:06:41+00:00",
+      "type": "News"
+    },
     {
       "title": "Fünf Jahre DiGA: Einigkeit beim vdek-Zukunftsforum 2025",
       "summary_de": "Seit fünf Jahren sind digitale Gesundheitsanwendungen (DiGA) in der Versorgung. Aus diesem Anlass veranstaltete der Verband der Ersatzkassen e. V. (vdek) am 7. Oktober 2025 ein vdek-Zukunftsforum. Dort debattierten Fachexperten darüber, welche Erkenntnisse „5 Jahre DiGA“ liefern und welche Herausforderungen die digitale Versorgung der Zukunft mit sich bringt.",
@@ -44,18 +60,18 @@
       "type": "News"
     },
     {
-      "title": "Wachstumsziele: Merck setzt auf seltene Krankheiten und KI-Chips",
-      "summary_de": "Seltene Tumore im Fokus, KI-Chips als Chance: Merck will mit frischen Ideen und neuem Chef den Umsatz steigern. Doch das gro&szlig;e Umsatzziel bleibt au&szlig;er Reichweite.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/merck-setzt-auf-seltene-krankheiten-und-ki-chips-159672/",
-      "published_at": "2025-10-16T09:30:00+00:00",
-      "type": "News"
-    },
-    {
       "title": "Todesursachen-Statistik: Mehr Demenz-Todesfälle in Deutschland",
       "summary_de": "Immer mehr Menschen in Deutschland sterben an Demenz. Besonders betroffen sind Frauen, doch bei M&auml;nnern steigt die Zahl besonders stark. H&auml;ufigste Todesursachen bleiben Herz-Kreislauf-Erkrankungen und Krebs.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/mehr-demenz-todesfaelle-in-deutschland-159678/",
+      "published_at": "2025-10-16T09:30:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Wachstumsziele: Merck setzt auf seltene Krankheiten und KI-Chips",
+      "summary_de": "Seltene Tumore im Fokus, KI-Chips als Chance: Merck will mit frischen Ideen und neuem Chef den Umsatz steigern. Doch das gro&szlig;e Umsatzziel bleibt au&szlig;er Reichweite.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/merck-setzt-auf-seltene-krankheiten-und-ki-chips-159672/",
       "published_at": "2025-10-16T09:30:00+00:00",
       "type": "News"
     },
@@ -97,14 +113,6 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/psilocybin-wurde-doppelt-erfunden-159659/",
       "published_at": "2025-10-16T07:00:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: &#196nderungsmeldung Arzneimittel: NovoMix 30 FlexPen 100 I.E./ml Injektionssuspension in Fertigspritze - OP(10x3ml) pU: Novo Nordisk A/S",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2025-10-16T06:07:10+00:00",
       "type": "News"
     },
     {
@@ -272,14 +280,6 @@
       "summary_de": "Gold, Platin und Diamanten gl&auml;nzen l&auml;ngst nicht mehr nur als Schmuck. In der Medizin bek&auml;mpfen sie Krebs, helfen bei Diagnosen und retten ungeborene Kinder. Forscher nutzen die Materialen, um Therapien pr&auml;ziser und vertr&auml;glicher zu machen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/edle-elemente-im-einsatz-gegen-krankheiten-159442/",
-      "published_at": "2025-10-15T05:00:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Neue Rechtsform: TGL ist eingetragener Verein",
-      "summary_de": "Die Tarifgemeinschaft der Apothekenleiter (TGL) Nordrhein ist jetzt ein eingetragener Verein. Die neue Rechtsform sorge f&uuml;r mehr Rechtssicherheit, transparentere Strukturen und nicht zuletzt auch eine bessere Au&szlig;enwirkung, teilte der Arbeitgeberverband mit.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/tgl-ist-eingetragener-verein-159625/",
       "published_at": "2025-10-15T05:00:00+00:00",
       "type": "News"
     },
