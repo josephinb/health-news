@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-15T21:27:57.870050+00:00",
+  "generated_at": "2025-10-16T03:13:51.197514+00:00",
   "window_days": 3,
   "count": 57,
   "items": [
@@ -25,6 +25,14 @@
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/gkv-schaetzerkreis-prognose-2025-2026-zusatzbeitrag.html",
       "published_at": "2025-10-15T15:47:42+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Erstmeldung Arzneimittel: Berlinsulin H Normal 3 ml Pen pU: Lilly Deutschland Gesellschaft mit beschr&#228nkter Haftung",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2025-10-15T14:25:11+00:00",
       "type": "News"
     },
     {
@@ -113,14 +121,6 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/dalbavancin-vereinfacht-standardtherapie-159636/",
       "published_at": "2025-10-15T09:00:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Endemeldung Arzneimittel: Carbamazepin AL 200 retard pU: ALIUD PHARMA GmbH",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2025-10-15T08:58:21+00:00",
       "type": "News"
     },
     {
