@@ -1,8 +1,64 @@
 {
-  "generated_at": "2025-10-17T13:19:46.550651+00:00",
+  "generated_at": "2025-10-17T15:33:07.785252+00:00",
   "window_days": 3,
   "count": 53,
   "items": [
+    {
+      "title": "Referentenentwurf: Apothekenreform sieht neun pDL vor",
+      "summary_de": "Aktuell k&ouml;nnen Apotheken f&uuml;nf pharmazeutische Dienstleistungen (pDL) anbieten, die sie auch verg&uuml;tet bekommen. Mit der Apothekenreform, die nun im Entwurf vorliegt, soll die Zahl auf neun pDL steigen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/apothekenreform-sieht-neun-pdl-vor-159717/",
+      "published_at": "2025-10-17T14:52:08+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Apothekenreform: So plant das BMG die PTA-Vertretung",
+      "summary_de": "Das Bundesgesundheitsministerium h&auml;lt an der geplanten PTA-Vertretung fest. Im jetzt vorliegenden Referentenentwurf werden die Vorgaben f&uuml;r die Weiterbildung genauer definiert und die Ma&szlig;nahme an sich begr&uuml;ndet.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/so-plant-das-bmg-die-pta-vertretung-159716/",
+      "published_at": "2025-10-17T14:22:08+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Epigenetik: Chronische Fatigue im Blut nachweisen",
+      "summary_de": "Das chronische Ersch&ouml;pfungssyndrom ME/CFS ist schwer zu greifen. Noch gibt es keinen Biomarker oder Bluttest f&uuml;r die Diagnose. Jetzt berichten Forschende &uuml;ber einen vielversprechenden Ansatz, bei der es um &raquo;verformte&laquo; DNA geht.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/chronische-fatigue-im-blut-nachweisen-159712/",
+      "published_at": "2025-10-17T14:20:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Referentenentwurf: Null Euro sind keine halbe Miete",
+      "summary_de": "Der Referentenentwurf zur Apothekenreform liegt vor. &Uuml;berraschungen gibt es dabei nicht.&nbsp;Die geplanten Erleichterungen und zus&auml;tzlichen Aufgaben f&uuml;r Apotheken sind nett, werden aber keine einzige Apotheke retten, kommentiert PZ-Chefredakteur Alexander M&uuml;ller.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/null-euro-sind-keine-halbe-miete-159715/",
+      "published_at": "2025-10-17T14:12:42+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Bronchiektasen: Erster Arzneistoff für chronische Lungenerkrankung in Sicht",
+      "summary_de": "Die Europ&auml;ische Arzneimittelagentur hat das erste Arzneimittel zur Behandlung von Bronchiektasen, die nicht durch zystische Fibrose verursacht werden, zur Zulassung empfohlen. Profitieren k&ouml;nnten bis zu drei Millionen Patienten in der EU.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/erster-arzneistoff-fuer-chronische-lungenerkrankung-in-sicht-159713/",
+      "published_at": "2025-10-17T14:00:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Erstmeldung Arzneimittel: L-Thyroxin Henning 50 pU: Sanofi-Aventis Deutschland GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2025-10-17T13:40:22+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Verhütung: »Pille für den Mann« kann viele Probleme lösen",
+      "summary_de": "In einem gemeinsamen Schreiben fordern der EU-Abgeordnete Peter Liese (CDU) und die EU-Vizepr&auml;sidentin Katarina Barley (SPD), dass sich die EU aktiv bei der Entwicklung der sogenannten &raquo;Pille f&uuml;r den Mann&laquo; einsetzt.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/pille-fuer-den-mann-kann-viele-probleme-loesen-159707/",
+      "published_at": "2025-10-17T13:30:00+00:00",
+      "type": "News"
+    },
     {
       "title": "BMG legt Apothekenreform vor: Kein Honorar, PTA-Vertretung für 20 Tage",
       "summary_de": "Das Bundesgesundheitsministerium hat die Ma&szlig;nahmen f&uuml;r die Apothekenreform vorgelegt. Wie erwartet, ist zun&auml;chst keine Honorarerh&ouml;hung vorgesehen. Die schon in den Eckpunkten vorgestellte PTA-Vertretung soll auf 20 Tage im Jahr begrenzt werden.",
@@ -25,14 +81,6 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/einsamkeit-erkennen-und-bewaeltigen-159700/",
       "published_at": "2025-10-17T09:30:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: Levemir 100 I.E. Injektionsl&#246sung in Fertigpen - OP(10x3ml)(FlexPen) pU: Novo Nordisk A/S",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2025-10-17T09:19:18+00:00",
       "type": "News"
     },
     {
@@ -220,59 +268,11 @@
       "type": "News"
     },
     {
-      "title": "Temperaturkontrolle: Kippels als »Makler« zwischen Apotheke und Großhandel",
-      "summary_de": "Eine zu niedrige Verg&uuml;tung, Lieferengp&auml;sse und ein unfairer Wettbewerb mit dem Versandhandel &ndash; das sind aus Sicht des Phagro die gemeinsamen Themen von Apotheken und Gro&szlig;handel. Beim parlamentarischen Abend des Gro&szlig;handlesverbands riet BMG-Staatssekret&auml;r Georg Kippels dazu, die Versender zu &uuml;berf&uuml;hren. Beim Honorar hielt er sich bedeckt.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/kippels-als-makler-zwischen-apotheke-und-grosshandel-159669/",
-      "published_at": "2025-10-15T17:40:08+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Alter: Männerhirne schrumpfen stärker",
-      "summary_de": "Doppelt so viele Frauen wie M&auml;nner erkranken an Alzheimer-Demenz. Die Ursachen hierf&uuml;r sind unklar. Forschende stellen jetzt fest: An der altersabh&auml;ngigen Abnahme des Gehirnvolumens liegt es nicht, denn die ist bei M&auml;nnern sogar st&auml;rker als bei Frauen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/maennerhirne-schrumpfen-staerker-159656/",
-      "published_at": "2025-10-15T16:00:00+00:00",
-      "type": "News"
-    },
-    {
       "title": "GKV-Schätzerkreis prognostiziert Finanzentwicklung",
       "summary_de": "Der GKV-Schätzerkreis hat am 15. Oktober 2025 seine Prognosen zur GKV-Finanzentwicklung 2025 und 2026 veröffentlicht. Dazu erklärt vdek-Vorstandsvorsitzende Ulrike Elsner: „Die Politik darf die Finanzsituation nicht schönreden: Viele Krankenkassen werden Anfang 2026 erneut ihre Zusatzbeitragssätze erhöhen müssen.”",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/gkv-schaetzerkreis-prognose-2025-2026-zusatzbeitrag.html",
       "published_at": "2025-10-15T15:47:42+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Schätzerkreis uneins über Ausgaben: 2,9 Prozent Zusatzbeitrag erwartet",
-      "summary_de": "Der Sch&auml;tzerkreis erwartet einen durchschnittlichen Zusatzbeitrag von 2,9 Prozent f&uuml;r das kommende Jahr. Das Gremium tagte gestern und heute und legte seine Berechnungen vor. Uneins ist das Gremium bei den prognostizierten Ausgaben f&uuml;r 2026.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/29-prozent-zusatzbeitrag-erwartet-159662/",
-      "published_at": "2025-10-15T14:02:08+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Gesetzentwurf: Grüne wollen Botendienste in Notfallreform einbinden",
-      "summary_de": "Nach Pl&auml;nen der Gr&uuml;nen-Bundestagsfraktion sollen Apotheken-Botendienste eine Rolle bei der geplanten Notfallreform spielen. Akutleitstellen sollen diese aktivieren k&ouml;nnen, um immobile Patienten schnell mit Arzneimitteln zu versorgen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/gruene-wollen-botendienste-in-notfallreform-einbinden-159658/",
-      "published_at": "2025-10-15T14:00:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Freie Apothekerschaft: »Borchardt steht an der Seite der Apotheken«",
-      "summary_de": "Am Montagabend hat der Verein Freie Apothekerschaft (FA) Simone Borchardt, die gesundheitspolitische Sprecherin der Union, getroffen. Die CDU-Politikerin habe sich sehr interessiert die Probleme der Apotheken angeh&ouml;rt.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/borchardt-steht-an-der-seite-der-apotheken-159660/",
-      "published_at": "2025-10-15T13:30:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Umfrage: Gesundheitswesen unzureichend auf Hitze vorbereitet",
-      "summary_de": "Eine neue Umfrage zeigt, dass die meisten Menschen in Deutschland gesundheitliche Gefahren durch starke Hitze ernst nehmen. Gleichzeitig sagt nur eine Minderheit, dass das Gesundheitswesen gut auf extrem hohe Temperaturen vorbereitet ist.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/gesundheitswesen-unzureichend-auf-hitze-vorbereitet-159653/",
-      "published_at": "2025-10-15T13:00:00+00:00",
       "type": "News"
     },
     {
