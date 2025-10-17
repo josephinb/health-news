@@ -1,11 +1,51 @@
 {
-  "generated_at": "2025-10-17T09:33:27.824694+00:00",
+  "generated_at": "2025-10-17T13:19:46.550651+00:00",
   "window_days": 3,
-  "count": 55,
+  "count": 53,
   "items": [
     {
+      "title": "BMG legt Apothekenreform vor: Kein Honorar, PTA-Vertretung für 20 Tage",
+      "summary_de": "Das Bundesgesundheitsministerium hat die Ma&szlig;nahmen f&uuml;r die Apothekenreform vorgelegt. Wie erwartet, ist zun&auml;chst keine Honorarerh&ouml;hung vorgesehen. Die schon in den Eckpunkten vorgestellte PTA-Vertretung soll auf 20 Tage im Jahr begrenzt werden.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/kein-honorar-pta-vertretung-fuer-20-tage-159708/",
+      "published_at": "2025-10-17T10:48:08+00:00",
+      "type": "News"
+    },
+    {
+      "title": "PZ Nachgefragt : KI-Akademie für Apotheken – endlich starten",
+      "summary_de": "K&uuml;nstliche Intelligenz ist aktuell in aller Munde. Doch wie lassen sich KI-Anwendungen im Apothekenalltag nutzen? Welche Chancen gibt es und wo lauern Fallstricke?&nbsp; Dar&uuml;ber spricht KI-Experte Marc Kriesten in der neuen Folge PZ Nachgefragt.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/ki-akademie-fuer-apotheken-endlich-starten-159704/",
+      "published_at": "2025-10-17T10:00:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Anzeichen, Ursachen, Hilfe: Einsamkeit erkennen und bewältigen",
+      "summary_de": "Das schmerzliche Gef&uuml;hl, nicht wirklich verbunden zu sein, kann krank machen und das Wohlbefinden stark beeintr&auml;chtigen. Eine Psychologin nennt Strategien, die helfen k&ouml;nnen, wieder N&auml;he und Lebensfreude zu empfinden.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/einsamkeit-erkennen-und-bewaeltigen-159700/",
+      "published_at": "2025-10-17T09:30:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Erstmeldung Arzneimittel: Levemir 100 I.E. Injektionsl&#246sung in Fertigpen - OP(10x3ml)(FlexPen) pU: Novo Nordisk A/S",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2025-10-17T09:19:18+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Abkommen mit Trump-Regierung: Merck-Produkte von US-Zöllen befreit",
+      "summary_de": "Merck kommt Donald Trump entgegen und bietet k&uuml;nftig Behandlungen zur k&uuml;nstlichen Befruchtung in den USA deutlich g&uuml;nstiger an. Mit dem Deal werden Merck-Produkte von Pharmaz&ouml;llen befreit.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/merck-produkte-von-us-zoellen-befreit-159702/",
+      "published_at": "2025-10-17T09:12:08+00:00",
+      "type": "News"
+    },
+    {
       "title": "Gemeinsamer Bundesausschuss: Zusatznutzen für Concizumab bei Hämophilie B mit Hemmkörpern",
-      "summary_de": "Der Gemeinsame Bundesausschuss (G-BA) hat Concizumab (Alhemo&reg;) einen betr&auml;chtliche Zusatznutzen bescheinigt &ndash; allerdings nur bei H&auml;mophilie B, obwohl der Antik&ouml;rper auch bei H&auml;mophilie A zugelassen ist.",
+      "summary_de": "Der Gemeinsame Bundesausschuss (G-BA) hat Concizumab (Alhemo&reg;) einen betr&auml;chtlichen Zusatznutzen bescheinigt &ndash; allerdings nur bei H&auml;mophilie B, obwohl der Antik&ouml;rper auch bei H&auml;mophilie A zugelassen ist.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/zusatznutzen-fuer-concizumab-bei-haemophilie-b-mit-hemmkoerpern-159691/",
       "published_at": "2025-10-17T08:30:00+00:00",
@@ -73,14 +113,6 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/pritelivir-arzneistoff-mit-neuem-wirkprinzip-159683/",
       "published_at": "2025-10-16T13:30:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: Diprogenta pU: Organon Healthcare GmbH",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2025-10-16T13:06:41+00:00",
       "type": "News"
     },
     {
@@ -252,38 +284,6 @@
       "type": "News"
     },
     {
-      "title": "Krebspatienten: Einsamkeit als Sterberisiko",
-      "summary_de": "Krebs ist nicht nur k&ouml;rperlich, sondern auch psychisch eine sehr belastende Erkrankung. Eine Metaanalyse zeigt nun: M&uuml;ssen Patienten diese Belastung allein durchstehen, sterben sie eher als Patienten, die &uuml;ber ein st&uuml;tzendes soziales Umfeld verf&uuml;gen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/einsamkeit-als-sterberisiko-159648/",
-      "published_at": "2025-10-15T12:30:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "GKV-Finanzen: Sparpläne stehen, Honorar »im Blick«",
-      "summary_de": "Das Bundeskabinett hat gr&uuml;nes Licht f&uuml;r die Sparpl&auml;ne des Bundesgesundheitsministeriums (BMG) gegeben. Die Ministerinnen und Minister beschlossen Ma&szlig;nahmen, die die Gesetzliche Krankenversicherung (GKV) um insgesamt zwei Milliarden Euro entlasten sollen. Die Honorarerh&ouml;hung f&uuml;r Apotheken nehme man &raquo;in den Blick&laquo;.&nbsp;&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/sparplaene-stehen-honorar-im-blick-159652/",
-      "published_at": "2025-10-15T11:10:08+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Beiträge: Kassenchef Blatt sieht Sparpläne als »Notnagel«",
-      "summary_de": "Die Kassen sollen entlastet werden &ndash; und dazu sollen unter anderem die Kassen selbst beitragen, auch wenn den Hauptteil am Sparpaket der Krankenhaussektor tr&auml;gt. Der Vorstandsvorsitzende des GKV-Spitzenverbands, Oliver Blatt, begr&uuml;&szlig;t die Pl&auml;ne, sieht aber auch Hersteller und &Auml;rzte in der Pflicht.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/kassenchef-blatt-sieht-sparplaene-als-notnagel-159649/",
-      "published_at": "2025-10-15T10:12:08+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Seitenstechen bis Krampf: Was bei Sport-Wehwehchen hilft",
-      "summary_de": "Wenn beim Joggen die Wade krampft, der Kopf schmerzt oder es in den Seiten sticht, fragen sich Hobby-Sportler: Was ist da los &ndash; und was hilft? Zwei Experten geben Antworten.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/was-bei-sport-wehwehchen-hilft-159639/",
-      "published_at": "2025-10-15T10:00:00+00:00",
-      "type": "News"
-    },
-    {
       "title": "Immunoglobulin for myasthenia gravis",
       "summary_de": "Immunoglobulin for myasthenia gravis",
       "source_name": "Cochrane Library RSS feed.",
@@ -425,22 +425,6 @@
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012886.pub3",
       "published_at": "2025-10-08T00:00:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Gesetz zur Befugniserweiterung und Entbürokratisierung in der Pflege",
-      "summary_de": "Am 8. Oktober 2025 wird der Gesundheitsausschuss des Deutschen Bundestages über den Entwurf für ein „Gesetz zur Befugniserweiterung und Entbürokratisierung in der Pflege“ beraten. Das Gesetz bleibe in manchen Teilen hinter seinen eigenen Ansprüchen zurück, kritisiert vdek-Vorstandsvorsitzende Ulrike Elsner.",
-      "source_name": "vdek - Verband der Ersatzkassen e. V.",
-      "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/gesetz-befugniserweiterung-entbuerokratisierung-pflege.html",
-      "published_at": "2025-10-07T12:30:07+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Therapietreue stärken: vdek verleiht Zukunftspreis 2025",
-      "summary_de": "„Therapietreue in der Behandlung fördern“ war das Thema des diesjährigen Zukunftspreises, den der Verband der Ersatzkassen e. V. (vdek) jedes Jahr vergibt. Am 7. Oktober 2025 wurden die drei Preisträger im Rahmen des „vdek-Zukunftsforums“ mit dem vdek-Zukunftspreis 2025 ausgezeichnet.",
-      "source_name": "vdek - Verband der Ersatzkassen e. V.",
-      "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/vdek-zukunftspreis-gewinner-2025-therapietreue.html",
-      "published_at": "2025-10-07T10:37:17+00:00",
       "type": "News"
     }
   ]
