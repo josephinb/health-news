@@ -1,8 +1,16 @@
 {
-  "generated_at": "2025-10-17T21:28:05.459965+00:00",
+  "generated_at": "2025-10-18T03:04:04.605461+00:00",
   "window_days": 3,
-  "count": 53,
+  "count": 52,
   "items": [
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: &#196nderungsmeldung Arzneimittel: Xylocain Gel 2% pU: Aspen Pharma Trading Limited",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2025-10-17T19:57:36+00:00",
+      "type": "News"
+    },
     {
       "title": "Entschließung: Länder fordern Stärkung der Pharmaindustrie",
       "summary_de": "Bessere Rahmenbedingungen und weniger B&uuml;rokratie: Der Bundesrat fordert von der Regierung konkrete Initiativen zur St&auml;rkung des Pharmaziestandorts Deutschland. Dazu hat die L&auml;nderkammer heute eine Entschlie&szlig;ung gefasst.",
@@ -65,14 +73,6 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/erster-arzneistoff-fuer-chronische-lungenerkrankung-in-sicht-159713/",
       "published_at": "2025-10-17T14:00:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: L-Thyroxin Henning 50 pU: Sanofi-Aventis Deutschland GmbH",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2025-10-17T13:40:22+00:00",
       "type": "News"
     },
     {
@@ -417,14 +417,6 @@
       "source_name": "GKV-SV Presseinformationen",
       "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2131264.jsp",
       "published_at": "2025-10-08T06:51:37+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Work‐break interventions for preventing musculoskeletal symptoms and disorders in healthy workers",
-      "summary_de": "Work‐break interventions for preventing musculoskeletal symptoms and disorders in healthy workers",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012886.pub3",
-      "published_at": "2025-10-08T00:00:00+00:00",
       "type": "News"
     }
   ]
