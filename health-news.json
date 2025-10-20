@@ -1,8 +1,32 @@
 {
-  "generated_at": "2025-10-20T06:52:30.819084+00:00",
+  "generated_at": "2025-10-20T09:38:39.615620+00:00",
   "window_days": 3,
   "count": 42,
   "items": [
+    {
+      "title": "Intensive Wahrnehmung: Hochsensibel – wie Betroffene im Alltag ihre Stärke finden",
+      "summary_de": "&raquo;Hochsensibel&laquo; ist ein Begriff, der immer h&auml;ufiger f&auml;llt. Aber was bedeutet das? Wie Hochsensibilit&auml;t entsteht, was Betroffenen hilft mit intensiven Eindr&uuml;cken umzugehen &ndash; und wie sie sie nutzen k&ouml;nnen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/hochsensibel-wie-betroffene-im-alltag-ihre-staerke-finden-159730/",
+      "published_at": "2025-10-20T09:00:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Moderne Wundversorgung: 3,6 Millionen Packungen für Kassenpatienten",
+      "summary_de": "Moderne Wundauflagen leisten einen wichtigen Beitrag in der Versorgung von Patienten mit chronischen Wunden und gewinnen zunehmend an Bedeutung. Das zeigt eine neue Auswertung des Deutschen Arzneipr&uuml;fungsinstituts (DAPI).",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/36-millionen-packungen-fuer-kassenpatienten-159722/",
+      "published_at": "2025-10-20T08:00:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Reaktion auf Reformpläne: PTA: Vertreten bedeutet nicht Leiten",
+      "summary_de": "Weiterqualifizierte PTA sollen nach der Vorstellung des Bundesgesundheitsministeriums (BMG) zeitweise die Apothekenleitung vertreten k&ouml;nnen. Der Bundesverband PTA (BVpta) begr&uuml;&szlig;t die Pl&auml;ne als &raquo;wichtiges Signal&laquo;, betont aber auch, dass es weiterhin klare Abgrenzungen geben m&uuml;sse.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/pta-vertreten-bedeutet-nicht-leiten-159731/",
+      "published_at": "2025-10-20T07:16:08+00:00",
+      "type": "News"
+    },
     {
       "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
       "summary_de": "Typ: &#196nderungsmeldung Arzneimittel: Hydrocortison PANPHARMA 250 mg pU: PANPHARMA GmbH",
@@ -12,18 +36,18 @@
       "type": "News"
     },
     {
-      "title": "Beobachtungsstudie: SGLT-2-Hemmer könnten vor Autoimmunerkrankungen schützen",
-      "summary_de": "In einer Beobachtungsstudie traten rheumatische Autoimmunerkrankungen bei Erwachsenen mit Typ-2-Diabetes unter der Einnahme von SGLT-2-Hemmern seltener auf als unter der Therapie mit Sulfonylharnstoffen. Dies deutet auf einen m&ouml;glichen Schutzeffekt hin.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/sglt-2-hemmer-koennten-vor-autoimmunerkrankungen-schuetzen-159714/",
-      "published_at": "2025-10-20T05:00:00+00:00",
-      "type": "News"
-    },
-    {
       "title": "Import- und Rabattarzneimittel: Urteil setzt Maßstäbe für Retaxgefahr",
       "summary_de": "Bei der Arzneimittelabgabe m&uuml;ssen Apotheken Rabattvertr&auml;ge und Importarzneimittel bevorzugt ber&uuml;cksichtigen. Ansonsten drohen Retaxationen. Wann Ausnahmen von dieser rechtlichen Vorgabe m&ouml;glich sind, hat nun das Landessozialgericht Sachsen-Anhalt entschieden.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/urteil-setzt-massstaebe-fuer-retaxgefahr-159721/",
+      "published_at": "2025-10-20T05:00:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Beobachtungsstudie: SGLT-2-Hemmer könnten vor Autoimmunerkrankungen schützen",
+      "summary_de": "In einer Beobachtungsstudie traten rheumatische Autoimmunerkrankungen bei Erwachsenen mit Typ-2-Diabetes unter der Einnahme von SGLT-2-Hemmern seltener auf als unter der Therapie mit Sulfonylharnstoffen. Dies deutet auf einen m&ouml;glichen Schutzeffekt hin.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/sglt-2-hemmer-koennten-vor-autoimmunerkrankungen-schuetzen-159714/",
       "published_at": "2025-10-20T05:00:00+00:00",
       "type": "News"
     },
@@ -121,14 +145,6 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/kein-honorar-pta-vertretung-fuer-20-tage-159708/",
       "published_at": "2025-10-17T10:48:08+00:00",
-      "type": "News"
-    },
-    {
-      "title": "PZ Nachgefragt : KI-Akademie für Apotheken – endlich starten",
-      "summary_de": "K&uuml;nstliche Intelligenz ist aktuell in aller Munde. Doch wie lassen sich KI-Anwendungen im Apothekenalltag nutzen? Welche Chancen gibt es und wo lauern Fallstricke?&nbsp; Dar&uuml;ber spricht KI-Experte Marc Kriesten in der neuen Folge PZ Nachgefragt.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/ki-akademie-fuer-apotheken-endlich-starten-159704/",
-      "published_at": "2025-10-17T10:00:00+00:00",
       "type": "News"
     },
     {
@@ -249,22 +265,6 @@
       "source_name": "GKV-SV Presseinformationen",
       "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2135593.jsp",
       "published_at": "2025-10-16T10:53:10+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Wirtschaftszahlen : Krise trifft auch deutsche Pharmaindustrie",
-      "summary_de": "Der deutschen Wirtschaft geht es nicht gut. Das zeigen auch die neuen Zahlen des Bundeswirtschaftsministeriums f&uuml;r das dritte Quartal 2025. Die anhaltende Krise macht dabei auch vor der Pharmaindustrie nicht halt.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/krise-trifft-auch-deutsche-pharmaindustrie-159671/",
-      "published_at": "2025-10-16T10:30:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Todesursachen-Statistik: Mehr Demenz-Todesfälle in Deutschland",
-      "summary_de": "Immer mehr Menschen in Deutschland sterben an Demenz. Besonders betroffen sind Frauen, doch bei M&auml;nnern steigt die Zahl besonders stark. H&auml;ufigste Todesursachen bleiben Herz-Kreislauf-Erkrankungen und Krebs.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/mehr-demenz-todesfaelle-in-deutschland-159678/",
-      "published_at": "2025-10-16T09:30:00+00:00",
       "type": "News"
     },
     {
