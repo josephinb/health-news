@@ -1,22 +1,46 @@
 {
-  "generated_at": "2025-10-20T03:38:05.709341+00:00",
+  "generated_at": "2025-10-20T06:52:30.819084+00:00",
   "window_days": 3,
   "count": 42,
   "items": [
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: &#196nderungsmeldung Arzneimittel: Hydrocortison PANPHARMA 250 mg pU: PANPHARMA GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2025-10-20T05:08:35+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Beobachtungsstudie: SGLT-2-Hemmer könnten vor Autoimmunerkrankungen schützen",
+      "summary_de": "In einer Beobachtungsstudie traten rheumatische Autoimmunerkrankungen bei Erwachsenen mit Typ-2-Diabetes unter der Einnahme von SGLT-2-Hemmern seltener auf als unter der Therapie mit Sulfonylharnstoffen. Dies deutet auf einen m&ouml;glichen Schutzeffekt hin.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/sglt-2-hemmer-koennten-vor-autoimmunerkrankungen-schuetzen-159714/",
+      "published_at": "2025-10-20T05:00:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Import- und Rabattarzneimittel: Urteil setzt Maßstäbe für Retaxgefahr",
+      "summary_de": "Bei der Arzneimittelabgabe m&uuml;ssen Apotheken Rabattvertr&auml;ge und Importarzneimittel bevorzugt ber&uuml;cksichtigen. Ansonsten drohen Retaxationen. Wann Ausnahmen von dieser rechtlichen Vorgabe m&ouml;glich sind, hat nun das Landessozialgericht Sachsen-Anhalt entschieden.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/urteil-setzt-massstaebe-fuer-retaxgefahr-159721/",
+      "published_at": "2025-10-20T05:00:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Sozialverhalten: Mitgefühl ist ansteckend",
+      "summary_de": "Wer glaubt, dass andere empathisch sind, f&uuml;hlt sich selbst wohler &ndash; und hat mehr Freunde. Und mehr noch. Wie eine Studie der Universit&auml;t Stanford zeigte, machen uns auch mitf&uuml;hlende Smartphone-Nachrichten sogar sozialer.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/mitgefuehl-ist-ansteckend-159711/",
+      "published_at": "2025-10-20T05:00:00+00:00",
+      "type": "News"
+    },
     {
       "title": "Vaginalsekret: Gesundes Mikrobiom sorgt für Balance",
       "summary_de": "Vaginaler Ausfluss ist ein Oberbegriff f&uuml;r alle Fl&uuml;ssigkeiten, die unabh&auml;ngig von der Menstruation aus der Vagina flie&szlig;en. Ver&auml;nderungen des Sekrets k&ouml;nnen Beschwerden verursachen. Eine empathische Beratung in der Apotheke ist wichtig.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/gesundes-mikrobiom-sorgt-fuer-balance-159674/",
       "published_at": "2025-10-19T06:00:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: &#196nderungsmeldung Arzneimittel: Xylocain Gel 2% pU: Aspen Pharma Trading Limited",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2025-10-17T19:57:36+00:00",
       "type": "News"
     },
     {
@@ -241,30 +265,6 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/mehr-demenz-todesfaelle-in-deutschland-159678/",
       "published_at": "2025-10-16T09:30:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Wachstumsziele: Merck setzt auf seltene Krankheiten und KI-Chips",
-      "summary_de": "Seltene Tumore im Fokus, KI-Chips als Chance: Merck will mit frischen Ideen und neuem Chef den Umsatz steigern. Doch das gro&szlig;e Umsatzziel bleibt au&szlig;er Reichweite.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/merck-setzt-auf-seltene-krankheiten-und-ki-chips-159672/",
-      "published_at": "2025-10-16T09:30:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Doc-Morris-Quartalszahlen: Beim E-Rezept weiter hinter den Erwartungen",
-      "summary_de": "Doc Morris verzeichnet im dritten Quartal mehr Rx-Umsatz, die Nachfrage beim E-Rezept bleibt aber hinter den Erwartungen zur&uuml;ck. Konzerntochter Teleclinic ziert mit guten Ums&auml;tzen die B&uuml;cher, das Management verschlankt sich.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/beim-e-rezept-weiter-hinter-den-erwartungen-159677/",
-      "published_at": "2025-10-16T09:12:08+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Gebärmutterschleimhaut: Weniger fruchtbar nach Anwendung der Spirale?",
-      "summary_de": "Eine d&auml;nische Kohortenstudie liefert Hinweise darauf, dass die Geb&auml;rmutterschleimhaut (Endometrium) bei ehemaligen Tr&auml;gerinnen einer Hormonspirale h&auml;ufiger d&uuml;nner bleibt als nach dem Absetzen anderer hormoneller Verh&uuml;tungsmittel.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/weniger-fruchtbar-nach-anwendung-der-spirale-159665/",
-      "published_at": "2025-10-16T09:00:00+00:00",
       "type": "News"
     },
     {
