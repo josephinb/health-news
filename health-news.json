@@ -1,8 +1,24 @@
 {
-  "generated_at": "2025-10-21T13:46:05.424194+00:00",
+  "generated_at": "2025-10-21T15:36:29.217064+00:00",
   "window_days": 3,
   "count": 44,
   "items": [
+    {
+      "title": "Wackliges Friedensabkommen: Hoffnung auf Medikamente für Gaza",
+      "summary_de": "Nach dem Waffenstillstand zwischen Israel und der Terrororganisation Hamas wird &uuml;ber die Zukunft des Gazastreifens diskutiert. Deutsche Hilfsorganisationen hoffen auf einen m&ouml;glichst unkomplizierten Weg, um Medikamente zu liefern.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/hoffnung-auf-medikamente-fuer-gaza-159801/",
+      "published_at": "2025-10-21T14:28:08+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Apothekenreform : Niedrigere Hürden für Filialleitung und Zweigapotheken",
+      "summary_de": "Im Rahmen der Apothekenreform will die Bundesregierung die Vorschriften f&uuml;r den Betrieb von Zweig- und Filialapotheken lockern. K&uuml;nftig sollen beispielsweise zwei in Teilzeit besch&auml;ftigte Apotheker gemeinsam eine Filiale leiten d&uuml;rfen.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/niedrigere-huerden-fuer-filialleitung-und-zweigapotheken-159796/",
+      "published_at": "2025-10-21T14:00:00+00:00",
+      "type": "News"
+    },
     {
       "title": "Erdnussallergien vermeiden: Empfehlung zur frühen Allergenexposition hat sich bewährt",
       "summary_de": "Seit 2015 wird in den USA in Leitlinien empfohlen, bereits S&auml;uglinge mit Erdnussallergenen zu exponieren, um das Risiko f&uuml;r eine Allergie zu senken. Jetzt wurde untersucht, wie sinnvoll diese Empfehlung ist.",
@@ -17,6 +33,14 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/cannabis-soll-weiter-legal-bleiben-159793/",
       "published_at": "2025-10-21T12:50:08+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Erstmeldung Arzneimittel: Timonil Saft pU: Desitin Arzneimittel GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2025-10-21T12:11:37+00:00",
       "type": "News"
     },
     {
@@ -57,14 +81,6 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/rsv-impfung-wirkt-auch-bei-immunschwaeche-159779/",
       "published_at": "2025-10-21T09:30:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: Dopegyt-Tabletten pU: Cheplapharm Arzneimittel GmbH",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2025-10-21T09:15:45+00:00",
       "type": "News"
     },
     {
@@ -240,22 +256,6 @@
       "summary_de": "In einer Beobachtungsstudie traten rheumatische Autoimmunerkrankungen bei Erwachsenen mit Typ-2-Diabetes unter der Einnahme von SGLT-2-Hemmern seltener auf als unter der Therapie mit Sulfonylharnstoffen. Dies deutet auf einen m&ouml;glichen Schutzeffekt hin.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/sglt-2-hemmer-koennten-vor-autoimmunerkrankungen-schuetzen-159714/",
-      "published_at": "2025-10-20T05:00:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Sozialverhalten: Mitgefühl ist ansteckend",
-      "summary_de": "Wer glaubt, dass andere empathisch sind, f&uuml;hlt sich selbst wohler &ndash; und hat mehr Freunde. Und mehr noch. Wie eine Studie der Universit&auml;t Stanford zeigte, machen uns auch mitf&uuml;hlende Smartphone-Nachrichten sogar sozialer.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/mitgefuehl-ist-ansteckend-159711/",
-      "published_at": "2025-10-20T05:00:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Import- und Rabattarzneimittel: Urteil setzt Maßstäbe für Retaxgefahr",
-      "summary_de": "Bei der Arzneimittelabgabe m&uuml;ssen Apotheken Rabattvertr&auml;ge und Importarzneimittel bevorzugt ber&uuml;cksichtigen. Ansonsten drohen Retaxationen. Wann Ausnahmen von dieser rechtlichen Vorgabe m&ouml;glich sind, hat nun das Landessozialgericht Sachsen-Anhalt entschieden.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/urteil-setzt-massstaebe-fuer-retaxgefahr-159721/",
       "published_at": "2025-10-20T05:00:00+00:00",
       "type": "News"
     },
