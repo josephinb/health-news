@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-21T03:16:20.625754+00:00",
+  "generated_at": "2025-10-21T06:50:33.063900+00:00",
   "window_days": 3,
   "count": 44,
   "items": [
@@ -33,6 +33,14 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/ein-symptom-viele-moegliche-ursachen-159756/",
       "published_at": "2025-10-20T14:20:00+00:00",
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Endemeldung Arzneimittel: Atorvastatin Micro Labs 80 mg Filmtabletten pU: Micro Labs GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2025-10-20T14:06:22+00:00",
       "type": "News"
     },
     {
@@ -105,14 +113,6 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/personalwechsel-im-phoenix-vorstand-159737/",
       "published_at": "2025-10-20T11:00:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Endemeldung Arzneimittel: Angusta 25 Mikrogramm Tabletten pU: Norgine B.V.",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2025-10-20T10:58:48+00:00",
       "type": "News"
     },
     {
