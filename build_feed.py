@@ -31,6 +31,7 @@ KW = {
         r"\b(versorgung|qualitätsbericht|qualitätsindikator|leitlinie|notfall|intensiv|pflege)\b",
         r"\b(krankenhausstruktur|ambulantisierung|wartezeit|kapazität|betten)\b",
     ],
+    # Radiologie: KEIN alleinstehendes "ir"
     "Radiologie": [
         r"\b(radiolog\w+|imaging|bildgebung|bildgebend|diagnostikbildgebung)\b",
         r"\b(röntgen|roentgen|mammograf\w+)\b",
@@ -38,7 +39,7 @@ KW = {
         r"\b(mr[ -]?t|mri|mr-?tomograph\w+|magnetresonanztomograph\w+)\b",
         r"\b(ultraschall|sonograph\w+|pocus)\b",
         r"\b(nuklearmedizin|radiopharm\w*|radiotracer|szintigraph\w+)\b",
-        r"\b(angiograph\w+|interventionelle\s*radiologie|ir)\b",
+        r"\b(angiograph\w+|interventionelle\s*radiologie)\b",  # <— kein "|ir"
         r"\b(dicoms?|pacs|ris|kontrastmittel|gadolinium)\b",
         r"\b(strahlen(schutz|therapie)|dosis|dose management)\b",
         r"\b(teleradiologie|befundung|bildarchiv)\b",
@@ -55,16 +56,18 @@ HEALTH_POS = re.compile(
     re.I
 )
 
-# Radiologie-Positiv (strenger, muss für Kategorie „Radiologie“ matchen)
+# Radiologie-Positiv: muss für die Kategorie matchen
 RAD_POS = re.compile(
     r"\b(radiolog\w+|bildgebung|imaging|mrt|mr[ -]?t|ct|pet-?ct|ultraschall|sonograph\w+|"
     r"nuklearmedizin|radiopharm\w*|dicom|pacs|kontrastmittel|angiograph\w+|teleradiologie|befundung)\b",
     re.I
 )
 
-# Radiologie-Negativ (ausschließen offensichtlichen Off-Topic)
+# Radiologie-Negativ: filtert Off-Topic wie Kleidung, Sport, Verkehr
 RAD_NEG = re.compile(
-    r"\b(jacke|jacken|allwetter|mode|fashion|outfit|fußball|bundesliga|reisebericht|verkehr|straßensperrung)\b",
+    r"\b(jacke|jacken|allwetter|mode|fashion|outfit|kollektion|rabatt|deal|"
+    r"fußball|bundesliga|tennis|handball|reisebericht|urlaub|"
+    r"verkehr|straßensperrung|stau|umleitung)\b",
     re.I
 )
 
@@ -90,7 +93,7 @@ DOMAIN_HINTS = {
     "edqm.eu": ["Europa"], "health.ec.europa.eu": ["Europa"],
     "digital.nhs.uk": ["Europa"], "gov.uk": ["Europa"],
     "hra.nhs.uk": ["Europa"], "nihr.ac.uk": ["Europa"],
-    # Radiologie orientierte Quellen
+    # Radiologie-orientierte Quellen
     "diagnosticimaging.com": ["Radiologie"],
     "auntminnie.com": ["Radiologie"],
     "auntminnieeurope.com": ["Radiologie"],
@@ -182,7 +185,7 @@ def classify(title, summary, link):
     for cat, patterns in KW.items():
         if any(re.search(p, txt, flags=re.I) for p in patterns):
             cats.add(cat)
-    # Radiologie-GATE: Nur zulassen, wenn klar radiologisch und kein Off-Topic
+    # Radiologie-GATE: nur behalten, wenn klar radiologisch UND kein Off-Topic
     if "Radiologie" in cats:
         if RAD_NEG.search(txt) or not RAD_POS.search(txt):
             cats.discard("Radiologie")
