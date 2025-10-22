@@ -15,53 +15,59 @@ KW = {
         r"\b(randomisiert|kohorte|studie|review|metaanalyse|preprint|placebo)\b",
         r"\b(rct|trial|odds ratio|hazard ratio|p-?wert)\b",
     ],
-    "Gesetz": [
+    # NEU: Gesundheitspolitik ersetzt "Gesetz"
+    "Gesundheitspolitik": [
+        r"\b(gesundheitspolitik|gesundheitspolitisch)\b",
         r"\b(gesetz|gesetzesänderung|referentenentwurf|kabinettsbeschluss|verordnung)\b",
-        r"\b(bundesrat|bundestag|sgb|richtlinie|beschluss des g\-ba|festbetrag|erstattung)\b",
+        r"\b(bundesrat|bundestag|sgb|richtlinie|verfahrensordnung|g-?ba|iqwig)\b",
+        r"\b(gkv|gesetzliche\s+krankenversicherung|beitragssatz|festbetrag|erstattung|erweiterter\s*bewertungsausschuss)\b",
     ],
     "Wirtschaft": [
         r"\b(umsatz|kosten|ausgaben|finanz|beitragssatz|vergütung|budget|markt|preis|lieferengpass)\b",
-        r"\b(investition|gewinn|verlust|prognose|erstattungsbetrag)\b",
+        r"\b(investition|gewinn|verlust|prognose|erstattungsbetrag|finanzierung)\b",
     ],
     "Versorgung": [
         r"\b(versorgung|qualitätsbericht|qualitätsindikator|leitlinie|notfall|intensiv|pflege)\b",
         r"\b(krankenhausstruktur|ambulantisierung|wartezeit|kapazität|betten)\b",
     ],
-    # deutlich erweitert
     "Radiologie": [
         r"\b(radiolog\w+|imaging|bildgebung|bildgebend|diagnostikbildgebung)\b",
-        r"\b(röntgen|roentgen|mammografie|mammographie)\b",
+        r"\b(röntgen|roentgen|mammograf\w+)\b",
         r"\b(ct|pet-?ct|spect|cbct)\b",
-        r"\b(mr[ -]?t|mri|mr-?tomographie|magnetresonanztomographie)\b",
-        r"\b(ultraschall|sonographie|point-of-care\s*ultrasound|pocus)\b",
-        r"\b(nuklearmedizin|radiopharm\w*|radiotracer|szintigraphie)\b",
-        r"\b(angiographie|interventionelle\s*radiologie|ir)\b",
+        r"\b(mr[ -]?t|mri|mr-?tomograph\w+|magnetresonanztomograph\w+)\b",
+        r"\b(ultraschall|sonograph\w+|pocus)\b",
+        r"\b(nuklearmedizin|radiopharm\w*|radiotracer|szintigraph\w+)\b",
+        r"\b(angiograph\w+|interventionelle\s*radiologie|ir)\b",
         r"\b(dicoms?|pacs|ris|kontrastmittel|gadolinium)\b",
         r"\b(strahlen(schutz|therapie)|dosis|dose management)\b",
         r"\b(teleradiologie|befundung|bildarchiv)\b",
-        r"\b(radiographer|radiotechnolog(e|in)|sonographer)\b",
-        r"\b(sar|artefakt\w*|artifact\w*)\b"
     ],
     "Europa": [r"\b(europa|eu|european|europaweit|eu-weit)\b"],
 }
 
-# Health-Gate (um Radiologie erweitert)
+# Health-Gate für Google-News/General Media
 HEALTH_POS = re.compile(
     r"\b(gesundheit|medizin|krankheit|patient|arzt|ärzt|pflege|krankenhaus|klinik|"
     r"apotheke|pharma|arznei|impf|therap|diagnos|prävent|g-?ba|iqwig|pe[ij]|bfarm|"
     r"gkv|krankenkasse|versorg|leitlinie|infektion|epidemi|public health|"
-    r"radiolog|bildgebung|imaging|mrt|ct|ultraschall|nuklearmedizin|pacs|dicom)\b",
+    r"gesundheitspolitik|radiolog|bildgebung|imaging|mrt|ct|ultraschall|nuklearmedizin|pacs|dicom)\b",
     re.I
 )
 
 GENERAL_MEDIA = {"zeit.de","spiegel.de","tagesschau.de","faz.net","sueddeutsche.de","handelsblatt.com"}
 
+# Domain-Hinweise → Gesundheitspolitik statt Gesetz
 DOMAIN_HINTS = {
-    # DE
     "medrxiv.org": ["Studie"], "pubmed.ncbi.nlm.nih.gov": ["Studie"],
-    "g-ba.de": ["Gesetz","Versorgung"], "bundesgesundheitsministerium.de": ["Gesetz"],
-    "anwendungen.pharmnet-bund.de": ["Wirtschaft"], "destatis.de": ["Wirtschaft"],
-    "iqtig.org": ["Versorgung"], "divi.de": ["Versorgung"],
+    "g-ba.de": ["Gesundheitspolitik","Versorgung"],
+    "bundesgesundheitsministerium.de": ["Gesundheitspolitik"],
+    "anwendungen.pharmnet-bund.de": ["Wirtschaft"],
+    "destatis.de": ["Wirtschaft"],
+    "iqtig.org": ["Versorgung"],
+    "divi.de": ["Versorgung"],
+    "gkv-spitzenverband.de": ["Gesundheitspolitik","Wirtschaft"],
+    "vdek.com": ["Gesundheitspolitik"],
+    "kbs.de": ["Gesundheitspolitik"],
     # Europa/UK
     "ema.europa.eu": ["Europa"], "efsa.europa.eu": ["Europa"],
     "edqm.eu": ["Europa"], "health.ec.europa.eu": ["Europa"],
@@ -75,7 +81,6 @@ GENERIC_TITLE_PATTERNS = [
     re.compile(r"^\s*news\s*$", re.I),
 ]
 
-# ---------- Utils ----------
 def norm_host(h: str) -> str:
     h = (h or "").lower()
     return h[4:] if h.startswith("www.") else h
@@ -95,7 +100,7 @@ def parse_time(entry):
     if not t: return None
     try:
         from time import struct_time
-        if hasattr(t, "tm_year"):  # struct_time
+        if hasattr(t, "tm_year"):
             return datetime(t.tm_year, t.tm_mon, t.tm_mday, t.tm_hour, t.tm_min, t.tm_sec, tzinfo=timezone.utc)
         return datetime(*t[:6], tzinfo=timezone.utc)
     except Exception:
@@ -147,8 +152,8 @@ def classify(title, summary, link):
         if any(re.search(p, txt, flags=re.I) for p in patterns): cats.add(cat)
     if not cats and any(k in (host or "") for k in ["aerzteblatt.de","pharmazeutische-zeitung.de","vdek.com","gkv-spitzenverband.de","kbs.de"]):
         cats.add("Wirtschaft")
-    # Radiologie hoch priorisieren, damit sie als Hauptkategorie erscheinen kann
-    order = ["Gesetz","Studie","Radiologie","Versorgung","Wirtschaft","Europa"]
+    # Reihenfolge: Politik klar getrennt von Wirtschaft
+    order = ["Gesundheitspolitik","Studie","Radiologie","Versorgung","Wirtschaft","Europa"]
     main = next((c for c in order if c in cats), "News")
     tags = sorted(cats - {main})
     return main, tags
