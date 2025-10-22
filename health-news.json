@@ -1,8 +1,18 @@
 {
-  "generated_at": "2025-10-22T08:28:48.860853+00:00",
+  "generated_at": "2025-10-22T08:35:44.755990+00:00",
   "window_days": 30,
   "count": 1548,
   "items": [
+    {
+      "title": "[MI] NHS e-Referral Service Open Data October 2019 to September 2025",
+      "summary_de": "This data shows weekly data on referrals, bookings and appointment slot issues (ASIs) performed through e-RS. Appointment slot issues are where there are no slots available for booking at the time of search, and the case enters a process for the provider to resolve. These data are being made available to allow for their use in public health enabling more …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhs-e-referral-service-open-data/current",
+      "published_at": "2025-10-22T08:20:19+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Side effects from drug interactions to be predicted by AI before reaching patients",
       "summary_de": "The MHRA leads three new government-backed projects using AI-driven approaches to make medicines safer and bring treatments to patients more quickly.",
@@ -15212,16 +15222,6 @@
       "source_url": "https://iqtig.org/presse/pressemitteilungen/news/iqtig-veroeffentlicht-aktualisierte-liste-von-zertifikaten-und-siegeln-fuer-den-bundes-klinik-atlas/",
       "published_at": "2025-09-29T12:03:00+00:00",
       "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Primary Care Network Workforce, 31 August 2025",
-      "summary_de": "Primary Care Networks were created in July 2019 to provide accessible and integrated primary, mental health, and community care for patients. The bulk of the PCN workforce consists of Direct Patient Care staff, funded by the Additional Roles Reimbursement Scheme (ARRS), and each PCN has the flexibility and autonomy to determine which roles are required to meet the specific needs …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/primary-care-network-workforce/31-august-2025",
-      "published_at": "2025-09-29T11:23:04+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
