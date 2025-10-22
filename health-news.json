@@ -1,14 +1,16 @@
 {
-  "generated_at": "2025-10-22T06:53:49.131298+00:00",
-  "window_days": 3,
-  "count": 45,
+  "generated_at": "2025-10-22T08:09:09.565643+00:00",
+  "window_days": 14,
+  "count": 53,
   "items": [
     {
-      "title": "Pharmaziestudentinnen: TrainingWeekend »Female Leadership« geht in die zweite Runde",
-      "summary_de": "&raquo;Ich mach mir die Welt, wie sie mir gef&auml;llt&laquo; &ndash; unter diesem Pippi-Langstrumpf-Motto stand das zweite &raquo;Female Leadership TrainingWeekend&laquo;, das vom 2. bis zum 5. Oktober in Marburg stattfand.",
+      "title": "Wandelanleihe: Doc Morris feilt an Finanzstruktur",
+      "summary_de": "Doc Morris hat eine neue Wandelanleihe &uuml;ber knapp 50 Millionen Franken platziert. Mit dem frischen Kapital will das Unternehmen eine &auml;ltere Anleihe vorzeitig zur&uuml;ckkaufen &ndash; und damit seine Finanzstruktur verbessern.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/trainingweekend-female-leadership-geht-in-die-zweite-runde-159600/",
-      "published_at": "2025-10-22T06:00:00+00:00",
+      "source_url": "https://www.pharmazeutische-zeitung.de/doc-morris-feilt-an-finanzstruktur-159811/",
+      "published_at": "2025-10-22T07:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -17,6 +19,18 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/essen-steuert-denken-und-fuehlen-159645/",
       "published_at": "2025-10-22T06:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pharmaziestudentinnen: TrainingWeekend »Female Leadership« geht in die zweite Runde",
+      "summary_de": "&raquo;Ich mach mir die Welt, wie sie mir gef&auml;llt&laquo; &ndash; unter diesem Pippi-Langstrumpf-Motto stand das zweite &raquo;Female Leadership TrainingWeekend&laquo;, das vom 2. bis zum 5. Oktober in Marburg stattfand.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/trainingweekend-female-leadership-geht-in-die-zweite-runde-159600/",
+      "published_at": "2025-10-22T06:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -25,6 +39,8 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/wenn-algorithmen-den-puls-fuehlen-159620/",
       "published_at": "2025-10-22T05:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -32,7 +48,9 @@
       "summary_de": "Immediate or early skin‐to‐skin contact for mothers and their healthy newborn infants",
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003519.pub5",
-      "published_at": "2025-10-22T00:01:00+00:00",
+      "published_at": "2025-10-22T00:00:00+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
@@ -41,6 +59,8 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/dm-sieht-otc-versand-als-sortimentserweiterung-159802/",
       "published_at": "2025-10-21T17:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -49,6 +69,8 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/preis-verspricht-massiven-politischen-widerstand-159805/",
       "published_at": "2025-10-21T15:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -57,6 +79,8 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/loesen-sie-ihr-versprechen-aus-dem-koalitionsvertrag-jetzt-ein-159806/",
       "published_at": "2025-10-21T15:02:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -65,6 +89,8 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/hoffnung-auf-medikamente-fuer-gaza-159801/",
       "published_at": "2025-10-21T14:28:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -73,6 +99,8 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/niedrigere-huerden-fuer-filialleitung-und-zweigapotheken-159796/",
       "published_at": "2025-10-21T14:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -81,6 +109,8 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/empfehlung-zur-fruehen-allergenexposition-hat-sich-bewaehrt-159794/",
       "published_at": "2025-10-21T13:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -89,6 +119,8 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/cannabis-soll-weiter-legal-bleiben-159793/",
       "published_at": "2025-10-21T12:50:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -97,6 +129,8 @@
       "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
       "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
       "published_at": "2025-10-21T12:11:37+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -105,6 +139,8 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/anhoerung-zur-apothekenreform-am-6-november-159791/",
       "published_at": "2025-10-21T11:00:09+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -113,6 +149,8 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/wissen-zum-fieberkrampf-159782/",
       "published_at": "2025-10-21T11:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -121,6 +159,8 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/gesundheitsrisiko-sextoy-159778/",
       "published_at": "2025-10-21T10:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -129,6 +169,8 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/ema-empfiehlt-zulassung-von-rilzabrutinib-159780/",
       "published_at": "2025-10-21T10:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -137,7 +179,9 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/rsv-impfung-wirkt-auch-bei-immunschwaeche-159779/",
       "published_at": "2025-10-21T09:30:00+00:00",
-      "type": "News"
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "Ersatzkassen: Mehrkostenübernahme bei Salbutamol",
@@ -145,6 +189,8 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/mehrkostenuebernahme-bei-salbutamol-159781/",
       "published_at": "2025-10-21T09:06:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -153,6 +199,8 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/so-bleiben-apothekenteams-belastbar-159635/",
       "published_at": "2025-10-21T09:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -161,6 +209,8 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/kostenfreies-aktionspaket-fuer-apotheken-159765/",
       "published_at": "2025-10-21T08:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -169,6 +219,8 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/steckbrief-sulfasalazin-159710/",
       "published_at": "2025-10-21T07:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -177,6 +229,8 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/genetische-schluesselfaktoren-fuer-kritischen-konsum-159760/",
       "published_at": "2025-10-20T16:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -185,6 +239,8 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/verhandlungen-ab-835-euro-skonti-frei-159764/",
       "published_at": "2025-10-20T15:28:08+00:00",
+      "category": "Gesetz",
+      "tags": [],
       "type": "News"
     },
     {
@@ -193,6 +249,8 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/mehr-als-1-milliarde-e-rezepte-eingeloest-159763/",
       "published_at": "2025-10-20T15:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -201,6 +259,8 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/ein-symptom-viele-moegliche-ursachen-159756/",
       "published_at": "2025-10-20T14:20:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -209,7 +269,9 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/china-koennte-deutschland-erpressen-159753/",
       "published_at": "2025-10-20T14:00:00+00:00",
-      "type": "News"
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "Kassenverband zu Reformplänen: »Rabattsystematik darf nicht geschwächt werden«",
@@ -217,6 +279,8 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/rabattsystematik-darf-nicht-geschwaecht-werden-159754/",
       "published_at": "2025-10-20T13:45:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -225,6 +289,8 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/leitlinie-aktualisiert-symptomfreiheit-als-ziel-159509/",
       "published_at": "2025-10-20T13:30:00+00:00",
+      "category": "Versorgung",
+      "tags": [],
       "type": "News"
     },
     {
@@ -233,6 +299,8 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/rap-song-bringt-zahnarzt-praxis-bewerberinnen-159740/",
       "published_at": "2025-10-20T12:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -241,6 +309,8 @@
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/gesetz-weiterentwicklung-apothekenversorgung-rabattsystematik.html",
       "published_at": "2025-10-20T12:25:05+00:00",
+      "category": "Gesetz",
+      "tags": [],
       "type": "News"
     },
     {
@@ -249,6 +319,8 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/hausaerzte-sehen-patientensicherheit-in-gefahr-159746/",
       "published_at": "2025-10-20T12:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -257,14 +329,8 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/polizei-und-apotheken-gegen-gefaelschte-rezepte-159742/",
       "published_at": "2025-10-20T11:30:00+00:00",
-      "type": "News"
-    },
-    {
-      "title": "Reformpläne: Warten auf die Details zur Verhandlungslösung",
-      "summary_de": "Die Apothekenreform nimmt Kontur an. Bei der umstrittenen PTA-Vertretungsbefugnis wird es laut Referentenentwurf zwar bleiben, auch bei der vorl&auml;ufigen Honorarabsage. Mehr Kompetenzen f&uuml;r die Apotheken sind aber vorgesehen &ndash; mit m&ouml;glichen Einsparoptionen&nbsp;f&uuml;r die Kassen.&nbsp;Zur geplanten Verhandlungsl&ouml;sung halten diese sich noch bedeckt.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/warten-auf-die-details-zur-verhandlungsloesung-159748/",
-      "published_at": "2025-10-20T11:28:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -273,6 +339,8 @@
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002042.pub6",
       "published_at": "2025-10-20T00:00:00+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
@@ -281,6 +349,8 @@
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/zukunftsforum-5-jahre-diga-versorgung-gesundheitskompetenz.html",
       "published_at": "2025-10-16T13:04:31+00:00",
+      "category": "Versorgung",
+      "tags": [],
       "type": "News"
     },
     {
@@ -289,6 +359,8 @@
       "source_name": "GKV-SV Presseinformationen",
       "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2135593.jsp",
       "published_at": "2025-10-16T10:53:10+00:00",
+      "category": "Versorgung",
+      "tags": [],
       "type": "News"
     },
     {
@@ -297,6 +369,8 @@
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/gkv-schaetzerkreis-prognose-2025-2026-zusatzbeitrag.html",
       "published_at": "2025-10-15T15:47:42+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -305,6 +379,8 @@
       "source_name": "GKV-SV Presseinformationen",
       "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2135104.jsp",
       "published_at": "2025-10-15T12:43:03+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -313,6 +389,8 @@
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015046.pub2",
       "published_at": "2025-10-15T00:00:00+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
@@ -321,6 +399,8 @@
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013801.pub2",
       "published_at": "2025-10-15T00:00:00+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
@@ -329,6 +409,8 @@
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012335.pub2",
       "published_at": "2025-10-15T00:00:00+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
@@ -337,6 +419,8 @@
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/zukunftspakt-pflege-spv-pflegeversicherung.html",
       "published_at": "2025-10-14T11:56:55+00:00",
+      "category": "Versorgung",
+      "tags": [],
       "type": "News"
     },
     {
@@ -345,6 +429,8 @@
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/kleines-sparpaket-gkv.html",
       "published_at": "2025-10-14T06:57:09+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -353,6 +439,8 @@
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016231",
       "published_at": "2025-10-14T00:00:00+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
@@ -361,6 +449,88 @@
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006404.pub5",
       "published_at": "2025-10-14T00:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Duct‐to‐mucosa versus other types of pancreaticojejunostomy for the prevention of postoperative pancreatic fistula following pancreaticoduodenectomy",
+      "summary_de": "Duct‐to‐mucosa versus other types of pancreaticojejunostomy for the prevention of postoperative pancreatic fistula following pancreaticoduodenectomy",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013462.pub3",
+      "published_at": "2025-10-10T00:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Prognostic factors predicting an unprovoked seizure recurrence in children and adults following a first unprovoked seizure",
+      "summary_de": "Prognostic factors predicting an unprovoked seizure recurrence in children and adults following a first unprovoked seizure",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013848.pub2",
+      "published_at": "2025-10-10T00:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Meldung: Forschungsdatenzentrum ist ein Meilenstein für das Gesundheitswesen",
+      "summary_de": "„Mit der Eröffnung des Forschungsdatenzentrums ist ein Meilenstein für die Transparenz im Gesundheitswesen erreicht worden. Die gesetzliche Krankenversicherung schafft dafür die Basis, zum einen durch das Bereitstellen ihrer umfassenden Abrechnungsdaten und zum anderen dadurch, dass sie das Forschungsdatenzentrum derzeit fast vollständig finanziert“, so Stefanie Stoff-Ahnis auf der heutigen Pressekonferenz, bei der die Bundesgesundheitsministerin gemeinsam mit dem GKV-Spitzenverband, Vertreterinnen und Vertretern …",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2132224.jsp",
+      "published_at": "2025-10-09T10:39:07+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "vdek fordert abgesenkten Steuersatz für Arzneimittel",
+      "summary_de": "Am 8. Oktober 2025 fand die 1. Lesung im Bundestag zum Steueränderungsgesetz statt. Eine zentrale Maßnahme ist die Senkung der Mehrwertsteuer in der Gastronomie auf sieben Prozent. Die Ersatzkassen fordern eine entsprechende Absenkung auch für Arzneimittel, wie vdek-Vorstandsvorsitzende Ulrike Elsner betont.",
+      "source_name": "vdek - Verband der Ersatzkassen e. V.",
+      "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/mehrwertsteuer-arzneimittel-steueraenderungsgesetz.html",
+      "published_at": "2025-10-09T09:50:02+00:00",
+      "category": "Gesetz",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Acupuncture for the treatment of infantile colic",
+      "summary_de": "Acupuncture for the treatment of infantile colic",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016305",
+      "published_at": "2025-10-09T00:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Progestagens for pain symptoms associated with endometriosis",
+      "summary_de": "Progestagens for pain symptoms associated with endometriosis",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002122.pub3",
+      "published_at": "2025-10-09T00:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pharmacotherapy for hypertension in adults 60 years or older",
+      "summary_de": "Pharmacotherapy for hypertension in adults 60 years or older",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000028.pub4",
+      "published_at": "2025-10-09T00:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Intraperitoneal chemotherapy for gastric cancer",
+      "summary_de": "Intraperitoneal chemotherapy for gastric cancer",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015698.pub2",
+      "published_at": "2025-10-09T00:00:00+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     }
   ]
