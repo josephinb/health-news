@@ -1,6 +1,32 @@
 # build_feed.py
 import json, re, os
 from datetime import datetime, timedelta, timezone
+import requests
+from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode
+
+def norm_host(h: str) -> str:
+    h = (h or "").lower()
+    return h[4:] if h.startswith("www.") else h
+
+def resolve_google(url: str) -> str:
+    if not url or "news.google.com" not in url:
+        return url
+    try:
+        r = requests.get(url, allow_redirects=True, timeout=8,
+                         headers={"User-Agent": "Mozilla/5.0"})
+        return r.url or url
+    except Exception:
+        return url
+
+def strip_tracking(url: str) -> str:
+    try:
+        p = urlparse(url)
+        q = [(k, v) for k, v in parse_qsl(p.query, keep_blank_values=True)
+             if not k.lower().startswith("utm_") and k.lower() not in {"fbclid","gclid","mc_cid","mc_eid"}]
+        return urlunparse((p.scheme, p.netloc, p.path, p.params, urlencode(q), ""))  # Fragment raus
+    except Exception:
+        return url
+
 import feedparser
 from urllib.parse import urlparse
 
