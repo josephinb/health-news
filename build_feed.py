@@ -8,7 +8,6 @@ NOW = datetime.now(timezone.utc)
 WINDOW_DAYS = 30
 CUTOFF = NOW - timedelta(days=WINDOW_DAYS)
 
-# Schlagwort-Heuristiken
 KW = {
     "Studie": [
         r"\b(randomisiert|kohorte|studie|review|metaanalyse|preprint|placebo)\b",
@@ -31,7 +30,6 @@ KW = {
     ],
 }
 
-# Domain-Hinweise (Suffix-Matching, inkl. Subdomains)
 DOMAIN_HINTS = {
     # DE
     "medrxiv.org": ["Studie"],
@@ -47,7 +45,7 @@ DOMAIN_HINTS = {
     "ecdc.europa.eu": ["Europa"],
     "efsa.europa.eu": ["Europa"],
     "edqm.eu": ["Europa"],
-    "ec.europa.eu": ["Europa"],
+    "ec.europa.eu": ["Europa"],          # Eurostat
     "health.ec.europa.eu": ["Europa"],
     # WHO + UK
     "who.int": ["Europa"],
@@ -57,17 +55,23 @@ DOMAIN_HINTS = {
     "nihr.ac.uk": ["Europa"],
 }
 
+GENERIC_TITLE_PATTERNS = [
+    re.compile(r"^\s*dataset:?\s*updated\s*data\s*$", re.I),
+    re.compile(r"^\s*updated\s*data\s*$", re.I),
+    re.compile(r"^\s*news\s*$", re.I),
+]
+
 def norm_host(h: str) -> str:
     h = (h or "").lower()
     return h[4:] if h.startswith("www.") else h
 
-def clean(text):
+def clean(text: str) -> str:
     if not text: return ""
     text = re.sub(r"<[^>]+>", " ", text)
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
-def summarize(txt, max_words=60):
+def summarize(txt: str, max_words=60) -> str:
     w = txt.split()
     return txt if len(w) <= max_words else " ".join(w[:max_words]) + " …"
 
@@ -79,19 +83,38 @@ def parse_time(e):
 
 def to_iso(dt): return dt.astimezone(timezone.utc).isoformat()
 
+def looks_generic(title: str) -> bool:
+    t = (title or "").strip()
+    if not t: return True
+    return any(pat.match(t) for pat in GENERIC_TITLE_PATTERNS)
+
+def better_title(host: str, title: str, summary: str, source_name: str) -> str:
+    """
+    Ersetzt generische Titel (z. B. Eurostat 'Dataset: updated data') durch
+    eine sinnvollere Headline aus der Summary. Fallback mit Source-Präfix.
+    """
+    if not looks_generic(title):
+        return title
+    # bevorzugt ersten Satz aus der Summary
+    s = (summary or "").strip()
+    if s:
+        first_sentence = re.split(r"(?<=[.!?])\s", s, maxsplit=1)[0]
+        if len(first_sentence) >= 20:
+            return first_sentence[:140]
+    # letzter Fallback
+    host_short = host.split(":")[0]
+    return f"{source_name or host_short}: Update"
+
 def classify(title, summary, link):
     txt = f"{title} {summary}".lower()
     host = norm_host(urlparse(link or "").hostname)
     cats = set()
-    # Domain-Suffix-Hinweise
     for suf, vals in DOMAIN_HINTS.items():
         if host and host.endswith(suf):
             cats.update(vals)
-    # Keywords
     for cat, patterns in KW.items():
         if any(re.search(p, txt, flags=re.I) for p in patterns):
             cats.add(cat)
-    # Fallback
     if not cats and any(k in (host or "") for k in [
         "aerzteblatt.de","pharmazeutische-zeitung.de","vdek.com",
         "gkv-spitzenverband.de","kbs.de"
@@ -120,9 +143,11 @@ for url in feeds:
     for e in d.entries:
         dt = parse_time(e)
         if not dt or dt < CUTOFF: continue
-        title = clean(e.get("title",""))[:240]
+        raw_title = clean(e.get("title",""))[:240]
         link = e.get("link","")
-        summary_raw = clean(e.get("summary","") or e.get("description","") or title)
+        summary_raw = clean(e.get("summary","") or e.get("description","") or raw_title)
+        host = norm_host(urlparse(link or "").hostname or "")
+        title = better_title(host, raw_title, summary_raw, source_name)[:240]
         summary = summarize(summary_raw, 60)
         category, tags = classify(title, summary, link)
         items.append({
@@ -136,10 +161,8 @@ for url in feeds:
             "type": "Studie" if category=="Studie" else "News"
         })
 
-# Sortieren + Duplikate entfernen
 items = dedupe(sorted(items, key=lambda x: x["published_at"], reverse=True))
 
-# JSON schreiben
 os.makedirs("public", exist_ok=True)
 with open("public/health-news.json", "w", encoding="utf-8") as f:
     json.dump({
