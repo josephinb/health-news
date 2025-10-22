@@ -1,8 +1,18 @@
 {
-  "generated_at": "2025-10-22T10:12:10.992832+00:00",
+  "generated_at": "2025-10-22T10:26:16.628914+00:00",
   "window_days": 42,
-  "count": 256,
+  "count": 288,
   "items": [
+    {
+      "title": "Welche Immunzellen sich bei einer Infektion vermehren – News - Deutsches Ärzteblatt",
+      "summary_de": "Welche Immunzellen sich bei einer Infektion vermehren – News &nbsp;&nbsp; Deutsches Ärzteblatt",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaU9qWHdXSnF4ZllvcVJnRlJUSTAtUWFuWGFfckpnREdDdUUzSFJCekNuTENkZ0dSb0I0QmhoeEpCbFdDUERQQUw0THVsai1sdW01cUZ1WG1QWWU5czdCZEl6V0JCRUxUbGJ5cVdweGtjcVk5VUM4c3JSeVY5QUVsRnljeFZJcG94WTVvYnpfTkdpVGFwNk1EczlvWHYxN3VILVpPTkNPYWxtTjdPOHROeHB5TU02YmxHelpPODJ2Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-22T10:25:20+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
       "summary_de": "Typ: Erstmeldung Arzneimittel: Quetiapin Accord 400 mg Retardtabletten pU: Accord Healthcare B.V.",
@@ -60,16 +70,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY2h1S054LVRPRFdzeHp2X2lzbVFjVThzZmw1LUJOb3FjdFZ5OGljNUJjOExUclFzcF9tU0UyeWIycXprb2lZZmx1ckE5TkpQWUdSVWhOODVGWUhjOU1wYWd2UmlDc2JjeEdZenpaUE9uOXg1YWtTLVZlb0FFaW9jcURPZGZoVTk0clRsSDBqS2pSVDAx?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-22T07:55:11+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "FC CT Cartrade Lendorf: Neue Allwetterjacken für den Nachwuchs - MeinBezirk.at",
-      "summary_de": "FC CT Cartrade Lendorf: Neue Allwetterjacken für den Nachwuchs &nbsp;&nbsp; MeinBezirk.at",
-      "source_name": "\"radiologie OR \"bildgebung\" OR MRT OR CT\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQamdKNEtubzJhcTF1ai1wdGc4V1U0QnFzWWRYZkVMdTF4TXh3dUcxb05rb2I4bjZfQnBBTUNxQTh2VVRYaUd3UVAzcTdqVzdjdHAteHUyRUJCTWdYWW9NRzF6OHVpOTVDcGpQRUtYY2MtaUNtVU9FZXlsVXlpWUc4N3F6aXhNYXM5NHdOSWptWmRwaE5lMEJF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-22T07:41:48+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -154,6 +154,16 @@
       "type": "Studie"
     },
     {
+      "title": "Riboflavin supplements for blood pressure lowering in adults",
+      "summary_de": "Riboflavin supplements for blood pressure lowering in adults",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015464.pub2",
+      "published_at": "2025-10-22T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "Klinik für Kardiologie - HEK",
       "summary_de": "Klinik für Kardiologie &nbsp;&nbsp; HEK",
       "source_name": "\"site:hek.de\" - Google News",
@@ -196,7 +206,7 @@
     {
       "title": "Praxisbezogene Fortbildung Klinikum bietet Austausch für Medizinische Technologen für Radiolog - Lüneburg Aktuell",
       "summary_de": "Praxisbezogene Fortbildung Klinikum bietet Austausch für Medizinische Technologen für Radiolog &nbsp;&nbsp; Lüneburg Aktuell",
-      "source_name": "\"radiologie OR radiolog* OR \"Bildgebung\" OR MRT OR CT OR Ultraschall OR \"interventionelle Radiologie\"\" - Google News",
+      "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZUhXU25Pd2FOTVAxWDZKTlNYT3g1SmFYR1hIVXVHcmtZYWhPWVZFU3B1UVZkZkd4cG1fcXlPTGlrRlc1Y0xxLXBUT0xvNmloVTNQR19fR0tEZXZqeXJPbVdlcXltZFY3RUNmdWxkaHlZZlZITmdlb2xOeTd2akxacXkwZ19vUkpmdVVlNTNndFJidF9udkR0cnJQR1MtdzM1Y0pSbmJKUE5pOFZqRFpYeVNuV2RIdjFDUlNCd0k2TXhFSVlFbFpfVHF6a1B0UlRXTUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-21T20:17:12+00:00",
       "category": "News",
@@ -204,12 +214,22 @@
       "type": "News"
     },
     {
-      "title": "Heilende Physik: Von CERN-Beschleunigern bis zu CT-Scans - unicaradio.it",
-      "summary_de": "Heilende Physik: Von CERN-Beschleunigern bis zu CT-Scans &nbsp;&nbsp; unicaradio.it",
-      "source_name": "\"radiologie OR \"bildgebung\" OR MRT OR CT\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3hNYmI1ZmlBa3JLWmJvZUFVZEVpd0Z1N0sya2hyaXRKZWF3LTh1S0FVWXBMREhvUkVpRWZ4RFBDVk1DdzN1dmlabFFtRURaVk4xa2Z6ZXRpakVtdlMtMGdQN3FRSGRXZWlWUHBkMjRVcnVGSFhJaHFOdDVkRmdkbWF3WkFIandKOXkxSU9JTlNGMk1NTDREU3pLdGswUDJGRHgw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-21T17:28:13+00:00",
+      "title": "Maintaining Quality Standards for Breast Imaging Amid Rising Imaging Volumes: An Interview with Deepa Sheth, MD",
+      "summary_de": "In a recent interview, Deepa Sheth, M.D., discussed the rising incidence of breast cancer, key considerations in supplemental imaging for women with dense breasts and use of the CIVIE RadPod platform to facilitate consistent quality and imaging reads by fellowship-trained breast radiologists.",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/maintaining-quality-standards-breast-imaging-rising-imaging-volumes-interview-deepa-sheth-md",
+      "published_at": "2025-10-21T19:25:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Consider global lung features on LDCT to improve cancer risk prediction",
+      "summary_de": "Integrating these features into a lung cancer prediction model 'addresses key limitations of existing approaches,' researchers...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15769846/consider-global-lung-features-on-ldct-to-improve-cancer-risk-prediction",
+      "published_at": "2025-10-21T17:40:26+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -230,6 +250,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/preis-verspricht-massiven-politischen-widerstand-159805/",
       "published_at": "2025-10-21T15:30:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Private equity firms set to acquire Hologic in $18 billion deal",
+      "summary_de": "In a blockbuster deal valued at up to $18.3 billion, women's health firm Hologic has agreed to be acquired by Blackstone and TPG...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15769830/private-equity-firms-set-to-acquire-hologic-in-18-billion-deal",
+      "published_at": "2025-10-21T15:11:26+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -300,6 +330,16 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-breast-and-cosmetic-implant-registry/jan24-dec24",
       "published_at": "2025-10-21T12:49:24+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "MRI-Based Deep Learning for Lymph Node Metastasis Detection in Colorectal Cancer: What a New Meta-Analysis Reveals",
+      "summary_de": "Deep learning assessment of MRI offered a 24 percent higher sensitivity than radiologist interpretation for detecting lymph node metastasis in patients with colorectal cancer, according to a new meta-analysis.",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/mri-based-deep-learning-lymph-node-metastasis-detection-colorectal-cancer-meta-analysis-",
+      "published_at": "2025-10-21T12:38:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -454,6 +494,16 @@
       "type": "News"
     },
     {
+      "title": "MRI predicts diabetes in obese patients",
+      "summary_de": "Researchers found a dose-response relationship between MRI-derived liver proton density fat fraction and abnormal glucose metabolism...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15769856/mri-predicts-diabetes-in-obese-patients",
+      "published_at": "2025-10-21T06:52:19+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Psychologie im Alltag - Sozialer Akku leer? So kommt man wieder in Balance - Gesundheit - SZ.de",
       "summary_de": "Psychologie im Alltag - Sozialer Akku leer? So kommt man wieder in Balance - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -472,6 +522,28 @@
       "category": "News",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Can a Generative AI Platform Enhance Workflow Triage and Efficiency in Radiology?",
+      "summary_de": "Through the use of a multimodal system, Viz Assist provides generative AI summaries of patient histories that may ehance care coordination and facilitate more timely interventions.",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/generative-ai-platform-enhance-workflow-triage-efficiency-radiology-",
+      "published_at": "2025-10-20T19:45:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "New PSMA PET Research Shows Merits of Pluvicto in Metastatic Hormone-Sensitive Prostate Cancer (mHSPC)",
+      "summary_de": "Pluvicto in combination with the standard of care led to a 28 percent reduction in the risk of radiographic progression or death in patients with metastatic hormone-sensitive prostate cancer (mHSPC), according to results from the phase III PSMAddition trial presented at the European Society for Medical Oncology (ESMO) conference.",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/psma-pet-research-pluvicto-metastatic-hormone-sensitive-prostate-cancer-mhspc-",
+      "published_at": "2025-10-20T17:01:00+00:00",
+      "category": "Studie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "Studie"
     },
     {
       "title": "Cannabis: Genetische Schlüsselfaktoren für (kritischen) Konsum",
@@ -510,6 +582,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/ein-symptom-viele-moegliche-ursachen-159756/",
       "published_at": "2025-10-20T14:20:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Häusliche Krankenpflege: Neue Regelungen in G-BA-Richtlinie – News - Deutsches Ärzteblatt",
+      "summary_de": "Häusliche Krankenpflege: Neue Regelungen in G-BA-Richtlinie – News &nbsp;&nbsp; Deutsches Ärzteblatt",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOTc4WEhDNmZhWjZtaGVVTzhwSTZDdVlBSHhhelcwWmVVTWlfQ1ZtX2lfUkN4bzlMUnhkT2RzOC1vR0JYYUMyYVVzQnI3bkJlcmM1RGFjQ0g3Q1EwTjBFWHIydGJUcGdPZWsyN2RfUGl4a0ZNS0hCTUVPazYxUENWX2Rqbkh3NlRsdEx3WkJpWUdNZ3NTb2VUS1VpRHlmRmhxY3FXUDhLVXRvX3A3dXY2czlfcF9JWFNVdWVqRV9xYVhBMm1KS0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-20T14:17:29+00:00",
+      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -564,11 +646,51 @@
       "type": "News"
     },
     {
+      "title": "Radiology Recredentialing: Who is Being Served?",
+      "summary_de": "Seemingly over the top efforts for recredentialing of radiologists may have an adverse impact on a facility’s retention and recruitment.",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/radiology-recredentialing-who-is-being-served-",
+      "published_at": "2025-10-20T11:51:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
       "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-20T11:07:09+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Medicare revises temporary claims hold",
+      "summary_de": "In a new column, Rebecca Farrington of Healthcare Administrative Partners shares an update on the Medicare 10-day claims hold...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/practice-management/legislation/article/15769803/healthcare-administrative-partners-medicare-revises-temporary-claims-hold",
+      "published_at": "2025-10-20T09:11:35+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "LLMs show promise in interventional radiology education",
+      "summary_de": "DeepSeek-V3 and ChatGPT-4o showed strong performance in answering patient questions related to interventional radiology procedures...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/interventional/article/15769792/llms-show-promise-in-interventional-radiology-education",
+      "published_at": "2025-10-20T08:40:08+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Cardiac POCUS training leads to success for neonatal transport teams",
+      "summary_de": "Training leads to successful image acquisition and congenital heart disease diagnosis in infants for transport team members.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ultrasound/article/15769784/cardiac-pocus-training-leads-to-success-for-neonatal-transport-teams",
+      "published_at": "2025-10-20T08:20:10+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -694,6 +816,26 @@
       "type": "News"
     },
     {
+      "title": "Diagnostic Imaging's Weekly Scan: October 12 — October 18",
+      "summary_de": "Catch up on the top radiology content of the past week.",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/diagnostic-imaging-weekly-scan-october-12-october-18",
+      "published_at": "2025-10-18T15:38:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "FDA Approves Iron-Based Contrast Agent for Brain MRI",
+      "summary_de": "The iron-based brain MRI contrast agent Ferabright (ferumoxytol injection) is indicated for adult patients with known or suspected malignant neoplasms.",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/fda-approves-iron-based-contrast-agent-brain-mri",
+      "published_at": "2025-10-18T12:20:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gesundheitspolitik: Hausärzteverband kritisiert geplante Apothekenreform - DIE ZEIT",
       "summary_de": "Gesundheitspolitik: Hausärzteverband kritisiert geplante Apothekenreform &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
@@ -712,6 +854,18 @@
       "category": "News",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Week in Review: Minnies semifinalists | NPPs in radiology | Preop breast MRI",
+      "summary_de": "The announcement of the Minnies 2025 semifinalists and a feature on nonphysician practitioners in radiology took center stage...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15769687/week-in-review-minnies-semifinalists-npps-in-radiology-preop-breast-mri",
+      "published_at": "2025-10-18T07:00:00+00:00",
+      "category": "Studie",
+      "tags": [
+        "Radiologie"
+      ],
+      "type": "Studie"
     },
     {
       "title": "Gesundheit: Organspenden in Hamburg steigen geringfügig - DIE ZEIT",
@@ -744,12 +898,42 @@
       "type": "News"
     },
     {
+      "title": "Mammography Study Shows Elevated Future Breast Cancer Risk with Initial Concordance of Radiologist and AI Interpretation",
+      "summary_de": "Concordant mammography detection of breast cancer by radiologists and AI had over a threefold higher likelihood of future incidental breast cancer in comparison to positive radiologist assessment and negative AI evaluation, according to new research involving over 82,000 women.",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/mammography-study-elevated-breast-cancer-risk-concordance-radiologist-ai-interpretation",
+      "published_at": "2025-10-17T18:36:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Low breast cancer screening prevalence tied to socioeconomic factors",
+      "summary_de": "Geographic trends show that low cancer screening participation is linked to socioeconomic disadvantages.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15769663/low-breast-cancer-screening-prevalence-tied-to-socioeconomic-factors",
+      "published_at": "2025-10-17T17:46:52+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Borderline products: how to tell if your product is a medicine",
       "summary_de": "How the MHRA makes decisions on what is a medicinal product (borderline products).",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
       "source_url": "https://www.gov.uk/guidance/borderline-products-how-to-tell-if-your-product-is-a-medicine",
       "published_at": "2025-10-17T15:04:08+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "FDA Clears Updated AI-Powered Software for Chest CT Lung Assessment",
+      "summary_de": "The AI-enabled LungQ® 4 software reportedly offers enhanced segmentation of peripheral airways and estimates of chronic perfusion deficits based on analysis of chest CT scans.",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/fda-updated-ai-powered-software-chest-ct-lung-assessment",
+      "published_at": "2025-10-17T14:25:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -796,7 +980,7 @@
     {
       "title": "Techniker Krankenkasse erwartet Beitragsanstieg um 0,3 Prozentpunkte – News - Deutsches Ärzteblatt",
       "summary_de": "Techniker Krankenkasse erwartet Beitragsanstieg um 0,3 Prozentpunkte – News &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie OR MRT OR CT\" - Google News",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQUk3WGV6TVJ4MDVMZjRra1JSOGl5RUdiUmxsaVpJMjlBYTRMX3laNFF4aE1acEpTYTZkY1V1aDNXTmFOc1RYRlItX2ZrY2lfYTdVVUNKUUJYWWNhcTNHb1AzaFlTZ2FneWtUZnFKTUs5VzNDMURsT1IxMW1STnk5aDlIY1gyUERUOFh4cnRVSTRmYWY0bjdGTDd4SWxXa0N4N2c0NEY5bUExQVBFcFJkeWNzT2p0NDlPcV9xVC1BQ19hb2J4SUwwcHV4NXBNbWN3ZFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-17T10:25:47+00:00",
       "category": "News",
@@ -884,6 +1068,28 @@
       "type": "News"
     },
     {
+      "title": "Bone-RADS improves accuracy for junior, attending physicans",
+      "summary_de": "ACR's Bone-RADS led to improved diagnostic accuracy for junior and attending physicians, but lower accuracy for senior physicians...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15769678/bonerads-improves-accuracy-for-junior-attending-physicans",
+      "published_at": "2025-10-17T08:10:40+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "MRI, CT, ultrasound biomarkers help identify Crohn disease strictures",
+      "summary_de": "The findings of a review published in Radiographics could help clinicians determine the best treatment for the disease.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15769661/mri-ct-ultrasound-biomarkers-help-identify-crohn-disease-strictures",
+      "published_at": "2025-10-17T06:05:36+00:00",
+      "category": "Studie",
+      "tags": [
+        "Radiologie"
+      ],
+      "type": "Studie"
+    },
+    {
       "title": "Psychische Gesundheit: Psychisch belasteter denn je - DIE ZEIT",
       "summary_de": "Psychische Gesundheit: Psychisch belasteter denn je &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -896,10 +1102,20 @@
     {
       "title": "Nobelpreis für Physiologie und Medizin: Wer die Killer kontrolliert - Deutsches Ärzteblatt",
       "summary_de": "Nobelpreis für Physiologie und Medizin: Wer die Killer kontrolliert &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie OR MRT OR CT\" - Google News",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNem9wa1RwMW1hOEt4VWdFdUZSblp1M0w0SWpyNjRBTmhyMjBfcXFzdkNoNHRLUGQtOFhaS1hhcmtMOTl6cllFaFJBZFNhSUVvRS1qLU91TGVKMm5xQTlpRDB2czRhak5XNnR5S1d4UFZUNk9hLS1sZHo5SDJkNDVBcWNJOFRRTExaWFRQWUo4S09RTW9ZUTQtck90aWZVNGd4WGtRYTlGV1ZHa3JOcHFyeUlaUVgyVmI3blg5b2p2SkQ1cGlBa1BOdHV1VGJoMWlXX3Nidw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-16T22:03:52+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "FDA Clears CT-Based AI Software for Assessment of Aortic Aneurysms",
+      "summary_de": "Facilitating timely detection and follow-up management of patients with aortic aneurysms, the PRAEVAorta2 software reportedly enables automated measurement of aortic diameters on computed tomography (CT) scans.",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/fda-clears-ct-based-ai-software-assessment-aortic-aneurysms",
+      "published_at": "2025-10-16T19:39:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -916,10 +1132,20 @@
     {
       "title": "TVM Capital Life Science Portfoliounternehmen Smart Reporting übernimmt Fluency for Imaging - VC Magazin",
       "summary_de": "TVM Capital Life Science Portfoliounternehmen Smart Reporting übernimmt Fluency for Imaging &nbsp;&nbsp; VC Magazin",
-      "source_name": "\"radiologie OR radiolog* OR \"Bildgebung\" OR MRT OR CT OR Ultraschall OR \"interventionelle Radiologie\"\" - Google News",
+      "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMXB0ZEFYWmRjYjBDRGVRaVFxMHItZkNzd1czamVMekFxeXNkdmlrN3A1WWhDLUZuTXdpdEhLekZkVmRlUzREakFaZjRBT0R1UnIwaVY1eDB3a19ZYnEydy01ek12UjNULVZEQ1RnT2I4NEZvdVA3b2pOYzZrc1B2bWR0VzdvbjFWX3dLZzlSSUMwVjBLc2xnRjJYbnMtcmRSdm41VmpvcGNkOWVLaFdMWERVengxd2dDVUVNWlhJVVpVcy1wNURxQ1RmX1drYUw4VVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-16T16:59:06+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "What a New Meta-Analysis Reveals About the PI-RADS v2.1 System for Prostate MRI",
+      "summary_de": "While a new meta-analysis of the PI-RADS v2.1 criteria showed 96 percent and 88 percent sensitivity rates for PI-RADS category &gt; 3 and PI-RADS category &gt; 4 assessments respectively, researchers noted a high risk of bias in 29 percent of the reviewed studies.",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/meta-analysis-pi-rads-v2-1-system-prostate-mri",
+      "published_at": "2025-10-16T16:43:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -966,21 +1192,21 @@
       "type": "News"
     },
     {
-      "title": "Longevity-Medizin: Wie Andrea Maier das Altern neu definiert - FAZ",
-      "summary_de": "Longevity-Medizin: Wie Andrea Maier das Altern neu definiert &nbsp;&nbsp; FAZ",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVNTN3JHOXhGSGVmemFZVW8xckpzNWg1dWhtZE1SQk1GNVlrWnNRdGN2MDFkbnVsWWUyVU04NWplajR1M1JvT0FqampiSXZDOFpqb0ZVQVRONC1HN0o5NEM2UlRpMklCN3hkblpNLW9iT1piY29taEJwaDFQa2o3eDBvX1lJakpLaXBFd2xtV1I2VDBLeEtRT19LOUxJSXhWdThqY1FnSmxJbGdFVklXcTVrQ04?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-16T11:53:47+00:00",
+      "title": "GE HealthCare Unveils Enhancements to Venue Point-of-Care Ultrasound Systems",
+      "summary_de": "New enhancements for the Venue POCUS devices include automated labeling of anatomical landmarks with Nerveblox to facilitate 12 common peripheral nerve blocks and contrast-enhanced ultrasound geared to abdominal injury assessments.",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/ge-healthcare-enhancements-venue-point-of-care-ultrasound-systems",
+      "published_at": "2025-10-16T11:56:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Krankenkasse für ein gesünderes Leben | BARMER - Barmer",
-      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-16T11:34:48+00:00",
+      "title": "Longevity-Medizin: Wie Andrea Maier das Altern neu definiert - FAZ",
+      "summary_de": "Longevity-Medizin: Wie Andrea Maier das Altern neu definiert &nbsp;&nbsp; FAZ",
+      "source_name": "\"site:faz.net medizin\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVNTN3JHOXhGSGVmemFZVW8xckpzNWg1dWhtZE1SQk1GNVlrWnNRdGN2MDFkbnVsWWUyVU04NWplajR1M1JvT0FqampiSXZDOFpqb0ZVQVRONC1HN0o5NEM2UlRpMklCN3hkblpNLW9iT1piY29taEJwaDFQa2o3eDBvX1lJakpLaXBFd2xtV1I2VDBLeEtRT19LOUxJSXhWdThqY1FnSmxJbGdFVklXcTVrQ04?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-16T11:53:47+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1129,11 +1355,31 @@
       "type": "News"
     },
     {
+      "title": "Current Perspectives on Prostate Cancer and Emerging Theranostic Agents, Part 2",
+      "summary_de": "In the second part of a recent interview, Emmanuel S. Antonarakis, M.D. discusses PSMA PET agents in current trials and cell surface proteins that may offer targeting utility in prostate cancer imaging beyond PSMA.",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/current-perspectives-prostate-cancer-emerging-theranostic-agents-part-2",
+      "published_at": "2025-10-15T20:48:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Langlebigkeit: Wie das Organalter unsere Gesundheit vorhersagt - DIE ZEIT",
       "summary_de": "Langlebigkeit: Wie das Organalter unsere Gesundheit vorhersagt &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRXdHTFhtdWJrWl93cHVwbHhkNFNaUFJQc2JWNjk1U3RDeWM1c1pjbFVLWWhQQ1U1ZzBOT3pVSnlIQVozNWRnZTgxUzF3X1pKWlgxQW1nbmJmR2t3U1VwTnRvTjRWeGtxWXlaMGt2SXJLY3VqdGl4SUF5T1JMdGUyVGdRRUhacXVudnZhT2wxWUVCdU42Z3VYYzZXaHVIdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-15T18:30:32+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Klinik Stellenangebote in Neuruppin (35) - ärztestellen",
+      "summary_de": "Klinik Stellenangebote in Neuruppin (35) &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Xb1hXTjNxRFM2WGFtSnE5U3QyMUJaYWJCTDU3RmJwRk9NRDEtZ0x5ZW1lRUY1eXBVSFYyTXVPaDJCMWFkRnlRamJOckJNWjJpdWE0dHUwM1FVdk9GbWtJRFRMSnRHYmkyQ3U1OXpwSy02cHAxQkFKMER3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-15T18:18:52+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1145,6 +1391,16 @@
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/gkv-schaetzerkreis-prognose-2025-2026-zusatzbeitrag.html",
       "published_at": "2025-10-15T15:47:42+00:00",
       "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Study: PSMA PET/CT Leads to Metastatic Staging Changes in 25 Percent of Patients with Newly Diagnosed High-Risk PCa",
+      "summary_de": "In the 160-patient study comparing 18F-PSMA 1007 PET/CT and 18F-NaF PET/CT, the use of 18F-PSMA PET/CT led to 38 patients being restaged as having more advanced prostate cancer.",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/study-psma-pet-ct-metastatic-staging-changes-25-percent-patients-newly-diagnosed-high-risk-pca",
+      "published_at": "2025-10-15T15:35:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1241,16 +1497,6 @@
       "type": "News"
     },
     {
-      "title": "Schwangerschaftsdiabetes: Ursachen und Symptome - DAK-Gesundheit",
-      "summary_de": "Schwangerschaftsdiabetes: Ursachen und Symptome &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa1Z0NUxWdnhleE1oTmc0MkN0eHhPaHJfdUVyVzRYRlhfZ1JwRGZvMXlFVjFEd3otT1hsMEhPQjZfa1dlaHc2WS16UWx5cDVuZ3BObWVuZG92YmN5ZzgxTWFYREQ4ZVVyU0dtNnB6Vko0VkJTeENkaXU2cEdnRFVXYXdfV1JCR3VWRVlGTHYtUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-15T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Pharmacological and non‐pharmacological treatments for impulsive‐compulsive behaviors in Parkinson's disease",
       "summary_de": "Pharmacological and non‐pharmacological treatments for impulsive‐compulsive behaviors in Parkinson's disease",
       "source_name": "Cochrane Library RSS feed.",
@@ -1311,6 +1557,16 @@
       "type": "News"
     },
     {
+      "title": "Can the Emerging InteleHeart Platform Facilitate Improved Efficiency with Cardiology and Radiology?",
+      "summary_de": "Through enhanced data interoperability and access to patient histories, the cloud-based InteleHeart may facilitate better communication and workflow efficiencies for radiologists and cardiologists.",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/emerging-inteleheart-platform-facilitate-improved-efficiency-cardiology-radiology-",
+      "published_at": "2025-10-14T16:18:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Field Safety Notices: 6 October to 10 October 2025",
       "summary_de": "List of Field Safety Notices from 6 October to 10 October 2025.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1353,6 +1609,16 @@
       "type": "News"
     },
     {
+      "title": "Assessing the Utility of mpMRI for Enhancing Diagnostic Clarity with Suspicious Calcifications from Mammography Exams",
+      "summary_de": "While dynamic contrast enhanced breast MRI may help reduce biopsies for suspicious calcifications on mammograms, quantitative MRI features and diffusion-weighted imaging (DWI) may not provide additional diagnostic benefit in these cases, according to a new study.",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/assessing-mpmri-enhancing-diagnostic-clarity-suspicious-calcifications-mammography-exams",
+      "published_at": "2025-10-14T11:55:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Fehlzeiten-Report der AOK: Wie ist es um die Gesundheit der Arbeitnehmer bestellt? - Handelsblatt",
       "summary_de": "Fehlzeiten-Report der AOK: Wie ist es um die Gesundheit der Arbeitnehmer bestellt? &nbsp;&nbsp; Handelsblatt",
       "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
@@ -1375,20 +1641,10 @@
     {
       "title": "Ärztin / Arzt (d/w/m) Pädiatrische Radiologie - ärztestellen",
       "summary_de": "Ärztin / Arzt (d/w/m) Pädiatrische Radiologie &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie OR MRT OR CT\" - Google News",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT0tlVVBqNXhzMjEwbEhUQWFMQUNiR1hVTlgzTm1KNDg5Q2JuTGxMWGY3OHY0d1lhNzBrMnJ1aE53RVhaZm9ES24yUEJrOWNwRG9ta3ZCdU1ET2xUbm1vOTk0RU9zTWM2ek5MOWFONC0wV3Ewd3k1LU9PRF9SQ2pQeF9JWUM5WUpOQ25TdFRfYzhaMUdPLTduUmFtM3hUYTdUbUZWQg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-14T07:41:46+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Was sind Pheromone? - DAK-Gesundheit",
-      "summary_de": "Was sind Pheromone? &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSlBPSTgxU1RMUFpkalAwckdSeVBEbE94MzB3eWpRX3hfOWJpRXE2eEZmMTNfVFRkZzZ3bVhvTTctRUlLVzFPTUFlMHE0THRtZEd2MWx2cHRDVXhUX1lqSElmMFc1NFp2b3FPUkZ5NmNiRVpFcWR5bkNFZXNJRGNSSGQzZlRwSlA5MjN1MU9yN3ZWQUxRb21WQU5yN0tGczhpZ21SeHNwbUU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-14T07:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1402,16 +1658,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Schneller und smarter: Neue Technik für die Zukunft der Herz-Bildgebung - healthcare-in-europe.com",
-      "summary_de": "Schneller und smarter: Neue Technik für die Zukunft der Herz-Bildgebung &nbsp;&nbsp; healthcare-in-europe.com",
-      "source_name": "\"radiologie OR \"bildgebung\" OR MRT OR CT\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9adll1R0hFaTVoSXJVSzVSdHhHUVFLUUJjVXVHTXdYbzZzMEJ1eFVmbDYyYWFJNlZZN2tiREstVllOM29LalZtb2kybjdnOXFQVXg1NWZTbDVWemtMTnVzVm1xOGZ6NGpndWdMd2d0ZmJZS0tmVGNIUml4NWF2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-14T04:19:50+00:00",
-      "category": "Radiologie",
-      "tags": [],
       "type": "News"
     },
     {
@@ -1445,6 +1691,16 @@
       "type": "Studie"
     },
     {
+      "title": "Can AI-Enhanced Radiomics Improve Differentiation of Pulmonary Nodules on Chest CT?",
+      "summary_de": "A deep learning AI platform, which incorporated radiomic features including CT attenuation metrics, demonstrated a 93.6 percent AUC for detecting invasive adenocarcinoma on chest CT.",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/ai-enhanced-radiomics-differentiation-pulmonary-nodules-chest-ct-",
+      "published_at": "2025-10-13T16:40:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Scientists at EFSA further strengthen co-ordination of food and feed additive evaluations",
       "summary_de": "Two of EFSA’s Scientific Panels have both concluded that the colour Patent Blue V (E 131) is not a safety concern for people or animals when used as a food or feed additive at current levels of use. Under EU legislation in the food and feed areas, EFSA is required to operate under different regulatory frameworks with separate data requirements. …",
       "source_name": "EFSA | News",
@@ -1455,12 +1711,72 @@
       "type": "News"
     },
     {
+      "title": "The Overabundance of Variables in Radiology",
+      "summary_de": "The unforeseen impact of multiple variables has a way of wrecking any formal analysis of different compensation offers in radiology.",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/overabundance-variables-in-radiology",
+      "published_at": "2025-10-13T11:48:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Radiologie MVZ Medizinische Fakultät der Universität Augsburg Klinik Stellenangebote in Hessen - ärztestellen",
+      "summary_de": "Radiologie MVZ Medizinische Fakultät der Universität Augsburg Klinik Stellenangebote in Hessen &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbjRDSXR1dm41bnNGbTJjNUwwZWJUY2pVZjZMWlJYczFfV3oyWHZHOFBpZmk4RFl3V0pjWjJnelpaRkZyWFEtRW0tMG1CN3NvUjJjeVkyWnJnemIyaU1PV1NLY1FnYjRCZFYxMkd1TWVQVXozYkRWSUFUYnlpLXZtNmV5T3oyYy10VHpmOVIwNURfc1dfUDgxQ2s4dWNkZkRleXpncldlZWt3TE9SeHZxVFNqNmw4Q2FCa3BXQ2xoUFpDR2x1ckE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-12T15:55:57+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Diagnostic Imaging's Weekly Scan: October 5 — October 11",
+      "summary_de": "Catch up on the top radiology content of the past week.",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/diagnostic-imaging-weekly-scan-october-5-october-11",
+      "published_at": "2025-10-11T15:17:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "What New Research Reveals About Preoperative Breast MRI",
+      "summary_de": "Women who had an MRI prior to undergoing surgery for newly diagnosed breast cancer were 18 percent more likely to have a mastectomy, according to newly published research.",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/what-new-research-reveals-about-preoperative-breast-mri",
+      "published_at": "2025-10-10T17:14:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Meeting highlights from the Committee for Veterinary Medicinal Products (CVMP) 7-9 October 2025",
       "summary_de": "CVMP opinions on veterinary medicinal productsThe Committee adopted by&nbsp;consensus a positive opinion for a marketing authorisation from Zoetis Belgium&nbsp;for Lenivia…",
       "source_name": "News and press releases",
       "source_url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-veterinary-medicinal-products-cvmp-7-9-october-2025",
       "published_at": "2025-10-10T12:00:00+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Current Insights on Interoperability, Enterprise Imaging and AI Integration in Radiology",
+      "summary_de": "In a recent interview, Morris Panner offered his perspective on cultural hurdles to interoperability in health care, emerging trends with enterprise imaging and an answer first approach to integrating AI in radiology.",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/current-insights-interoperability-enterprise-imaging-ai-integration-radiology",
+      "published_at": "2025-10-10T10:50:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Bewegungsspiele für draußen - DAK-Gesundheit",
+      "summary_de": "Bewegungsspiele für draußen &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONW1Ya0wwcXF2T2o3QVpreUw5cmdyT2RmMHRwZ3lDVWd6cldyaE1WNHRqa2NRQ3FOdHJUUTlfRkZRUWF0SUk1djVqN29xd2dVZlA3RUhTRW9XQnpDalNveElJN3N2RjZad1lLQWw2ZUtSSExvdFNjcURUM05Gc2hUVzhoQUZfZ2l6djVTSEJFSVVFM1dNMlQtR2pyd2RraEJfLXhz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-10T07:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1495,6 +1811,16 @@
       "type": "Studie"
     },
     {
+      "title": "Study Suggests Benefits of CT-Based AI in Detecting and Managing Patients with Aortic Abdominal Aneurysm",
+      "summary_de": "In a study involving over 500 patients, researchers noted that the CT-based AI software led to a 24 percent increase of evaluations for aortic abdominal aneurysms within six months of detection.",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/study-benefits-ct-based-ai-detecting-managing-patients-with-aortic-abdominal-aneurysm",
+      "published_at": "2025-10-09T16:29:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "[MI] GP Contract Services - England, 2025-26",
       "summary_de": "The GP Contract Services publication provides data relating to the delivery of primary care services across England, agreed within the GP contract(s) between NHS England and the British Medical Association's (BMA) General Practitioners Committee (GPC). These data are primarily used for payment and management information purposes as well as for wider usage to help support commissioning, planning and policy decisions. …",
       "source_name": "Publication Feed",
@@ -1514,6 +1840,16 @@
       "tags": [
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "FDA Clears CT-Based AI For Detection of Mitral Annular Calcification",
+      "summary_de": "The AI-powered Bunkerhill MAC software reportedly facilitates chest CT detection and quantification of mitral annular calcification, which has been linked to higher cardiovascular risk and related mortality.",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/fda-ct-based-ai-detection-mitral-annular-calcification",
+      "published_at": "2025-10-09T10:33:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
       "type": "News"
     },
     {
@@ -1837,6 +2173,36 @@
       "type": "Studie"
     },
     {
+      "title": "A Closer Look at the Mammo Enhance Heart Program: An Interview with Arthy Saravanan, MD",
+      "summary_de": "In a recent interview, Arthy Saravanan, M.D., discussed the recent launch of the Mammo Enhance Heart program from Radiology Partners and its potential impact in facilitating dual screening for breast cancer and cardiovascular risk.",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/closer-look-mammo-enhance-heart-program-interview-arthy-saravanan-md",
+      "published_at": "2025-10-08T23:25:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Viz.ai Launches ECG Platform to Streamline Workflow for Patients with Acute Coronary Syndrome",
+      "summary_de": "The AI-powered Viz ACS platform may facilitate improved communication between clinicians and more rapid treatment for cases involving acute coronary syndrome.",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/viz-ai-ecg-platform-streamline-workflow-acute-coronary-syndrome",
+      "published_at": "2025-10-08T20:31:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Nine Takeaways from New Consensus on Abdominal Photon-Counting CT Protocols in Adults",
+      "summary_de": "Based on survey findings and subsequent voting from radiologists at nine facilities, the Society of Abdominal Radiology has issued new consensus recommendations on the use of adult abdominal photon-counting CT.",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/nine-takeaways-new-consensus-abdominal-photon-counting-ct-protocols-adults",
+      "published_at": "2025-10-08T17:16:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Young People with Type 2 Diabetes, 2023-24",
       "summary_de": "The Young People with Type 2 Diabetes audit aims to document the number of people with type 2 diabetes up to the age of 40 years, their patient characteristics and the diabetes care they receive. This is important because adverse diabetes and cardiovascular outcomes are more common in people who develop type 2 diabetes at an earlier age and it …",
       "source_name": "Publication Feed",
@@ -1881,6 +2247,16 @@
       "type": "Studie"
     },
     {
+      "title": "CT Study Shows No Significant Difference in Long-Term Outcomes Between Surveillance and Surgery for Ground-Glass Nodules",
+      "summary_de": "Researchers found comparable 10-year overall survival rates for people who had computed tomography (CT) surveillance (94.7 percent) and those who had surgery for ground-glass nodules (97.6 percent), according to a new prospective study involving over 680 participants.",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/ct-study-no-difference-long-term-outcomes-surveillance-surgery-ground-glass-nodules",
+      "published_at": "2025-10-07T17:10:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gesetz zur Befugniserweiterung und Entbürokratisierung in der Pflege",
       "summary_de": "Am 8. Oktober 2025 wird der Gesundheitsausschuss des Deutschen Bundestages über den Entwurf für ein „Gesetz zur Befugniserweiterung und Entbürokratisierung in der Pflege“ beraten. Das Gesetz bleibe in manchen Teilen hinter seinen eigenen Ansprüchen zurück, kritisiert vdek-Vorstandsvorsitzende Ulrike Elsner.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -1890,6 +2266,16 @@
       "tags": [
         "Versorgung"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Current Perspectives on Prostate Cancer and Emerging Theranostic Agents, Part 1",
+      "summary_de": "In a recent interview, Emmanuel S. Antonarakis, M.D. discussed contributing factors to the recent American Cancer Society report about rising prostate cancer incidence and offered insights about the potential role of the radioligand agent 177Lu-PSMA-I&amp;T for patients with mCRPC.",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/current-perspectives-prostate-cancer-emerging-theranostic-agents-part-1",
+      "published_at": "2025-10-07T11:56:00+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
@@ -1933,6 +2319,26 @@
       "type": "Studie"
     },
     {
+      "title": "Mammography Research: Can Adjunctive AI for DBT Provide Insight into Tumor Biology with Breast Cancer?",
+      "summary_de": "In a recent interview, Manisha Bahl, M.D., discussed new research showing significant associations between AI detection and the histologic grade and lymph node status of breast cancer.",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/mammography-research-adjunctive-ai-dbt-insight-into-tumor-biology-breast-cancer-",
+      "published_at": "2025-10-06T17:11:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Ruling Out Logic in the Radiology Reading Room",
+      "summary_de": "Have you seen a fair share of laundry list R/Os from referring docs?",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/ruling-out-logic-in-the-radiology-reading-room",
+      "published_at": "2025-10-06T14:39:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Verbesserung der datengestützten QS: IQTIG schlägt Monitoring auf Basis von Sozial- und Abrechnungsdaten vor",
       "summary_de": "Berlin, 6. Oktober 2025 - Das IQTIG hat seinen Abschlussbericht „Entwicklung und Anwendung eines Konzepts zur kontinuierlichen und systematischen Identifizierung von relevanten Qualitätsdefiziten und Verbesserungspotenzialen“ veröffentlicht. Grundlage war eine Beauftragung durch den Gemeinsamen Bundesausschuss (G-BA) vom 12. Mai 2023. Die Beauftragung stellt einen weiteren Schritt zur Umsetzung des Beschlusses vom 19. April 2022 („Eckpunktebeschluss“) zur Weiterentwicklung der datengestützten gesetzlichen Qualitätssicherung …",
       "source_name": "Pressemitteilungen | IQTIG",
@@ -1954,16 +2360,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Plötzlicher Herztod: 3D-Bildgebung liefert mögliche Ursache - Universität Freiburg",
-      "summary_de": "Plötzlicher Herztod: 3D-Bildgebung liefert mögliche Ursache &nbsp;&nbsp; Universität Freiburg",
-      "source_name": "\"radiologie OR \"bildgebung\" OR MRT OR CT\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMzNSNmhhRURRZ1BuNEZMZnZ2RDV5Rmxsc01KMklwTjN6elJ3amRjWlNnQXplbUJGSWdVMVlZNWtLTDlwOVZuVlZLR0dRTWZHZjBkMmZiMjRVajQ5MTJRUU9jV2tBQllMZGVaWlNZRG5IcDFKQXVYWmtTOHRqOXIzd0Y2VHFKZlA0dTNXaE9n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-06T07:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
       "type": "News"
     },
     {
@@ -2037,6 +2433,16 @@
       "type": "News"
     },
     {
+      "title": "Andexanet alfa: IQWiG sieht »ausschließlich negative Effekte« - Pharmazeutische Zeitung",
+      "summary_de": "Andexanet alfa: IQWiG sieht »ausschließlich negative Effekte« &nbsp;&nbsp; Pharmazeutische Zeitung",
+      "source_name": "\"site:pharmazeutische-zeitung.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdWk2Z3pPU0lCUW9oS0ZTczQ4YXYzd1Y3bGYxSzAwQWRUSXBNYlc2V2FLbU55T2hMaUdxbzlUUDVndDdxOTFxam1nTUk2YmZxa1VjblQ0N05YUUVIUTltS1UyZkYzSlJjVkpJMlRzWjVUcWFhbkxqcWcwbnkyZF9ORTFPVVpkeUpIdS05SjhGZG5EYkhBVmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-02T08:30:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "App TK-Coach - das smarte Komplettpaket für ein besseres Wohlbefinden - Techniker Krankenkasse",
       "summary_de": "App TK-Coach - das smarte Komplettpaket für ein besseres Wohlbefinden &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
@@ -2079,7 +2485,7 @@
     {
       "title": "Den anstehenden Wandel in der Radiologie und Nuklearmedizin mitgestalten - healthcare-in-europe.com",
       "summary_de": "Den anstehenden Wandel in der Radiologie und Nuklearmedizin mitgestalten &nbsp;&nbsp; healthcare-in-europe.com",
-      "source_name": "\"radiologie OR radiolog* OR \"Bildgebung\" OR MRT OR CT OR Ultraschall OR \"interventionelle Radiologie\"\" - Google News",
+      "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmRPTmEyeUNjcU11NlBsNTNIOHhTVFBuaTNfcTBMcl9qUkZLZVowSlBheEdkbEpNZ0R4Y3pWTHV6cG1hSnp3QU9BY3lfNjVWRXFpLWpnZFRwSWluV2t3djRmX2ZmZEl5cjFRUGNSTmk1amRmN0w1T18zQzBhdHpTTG1uMXFNa1Z3d2N0QVd4V09qQXBfWm1kbWpXT1luTUFsT052N2Y3QUtYUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-01T09:12:19+00:00",
       "category": "Radiologie",
@@ -2129,26 +2535,6 @@
       "type": "News"
     },
     {
-      "title": "Alzheimer-Krankheit: Lecanemab im Handel - Pharmazeutische Zeitung",
-      "summary_de": "Alzheimer-Krankheit: Lecanemab im Handel &nbsp;&nbsp; Pharmazeutische Zeitung",
-      "source_name": "\"site:pharmazeutische-zeitung.de radiologie OR MRT OR CT\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR1hpMnRqNlZoWlV3SXNSd1VyLUR4Y1lqcmVmUnpmVkN4Qmx4VHpwRDdUU3FjVzkweEZYSTQ3R1dRVFBLYXVidEp6LUdaTGtOLUp4aW1GX2hwMUY2VW15WURKZnRlTHIwRmtTcV9FNnJCeGxqY3hYNWZBMDRCcHE2b0k4NndXRHlIWHNQczRXcHN0ZGhxMi1aUGI2aXloWjBtOHZHR3NkbEpZZjFteXVESjZoTQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-09-30T05:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Alzheimer-Krankheit: Lecanemab im Handel - Pharmazeutische Zeitung",
-      "summary_de": "Alzheimer-Krankheit: Lecanemab im Handel &nbsp;&nbsp; Pharmazeutische Zeitung",
-      "source_name": "\"site:pharmazeutische-zeitung.de radiologie OR MRT OR CT\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTk9NQzRxdTZSUDA5bGg4NHhJQnRfZTlGRWFhV1BFZjdsYmR0SEdjNGlNVWVOMnZtcHkzWXNlNjh2LW5kVEZDQ2ZTTG45SUlPR0p4YWY5ZnlRR1JHQm1vOG1tOVFrd2VXRWZqUVZGaTk4QmRpeS1TTnhKUHZPM0R3WXpGLS1VbDU4c2JtaXQ2UEF1WTY0dm9yd3o0cjFiNm5CR3ZUYXZibVFIWmItM3dpM2Y3b1FhTFU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-09-30T05:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Dose reduction and discontinuation of conventional synthetic disease‐modifying anti‐rheumatic drugs (DMARDs) for people with rheumatoid arthritis or psoriatic arthritis in remission or low disease activity",
       "summary_de": "Dose reduction and discontinuation of conventional synthetic disease‐modifying anti‐rheumatic drugs (DMARDs) for people with rheumatoid arthritis or psoriatic arthritis in remission or low disease activity",
       "source_name": "Cochrane Library RSS feed.",
@@ -2171,7 +2557,7 @@
     {
       "title": "Doppelfacharzt (m/w/d) für Nuklearmedizin und Radiologie - ärztestellen",
       "summary_de": "Doppelfacharzt (m/w/d) für Nuklearmedizin und Radiologie &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie OR MRT OR CT\" - Google News",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT1NtWFIwUC0xN1V3ckpxY2x2aGhscEVwSVlvaGtoM2Y2aks0NDh0Mnh3YVlWTXZleFRYWU83cTFrTEktNEtXVUJ1TzhXSS1sZVE5RWlIbkMyZHp0V3BGeDJhcFdDb3dwQWh5Zk5KMHpZTGJSWklfVFRpejRpd1dDbmdBU2doZWd2WWpNQ2tmNFB2YnA5d0NjR3lGT2hxT2NRSTN1ZnZmMmgtd0JxbnE3QU9ILU4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-09-29T13:17:27+00:00",
       "category": "Radiologie",
@@ -2299,26 +2685,6 @@
       "type": "Studie"
     },
     {
-      "title": "Therapie mit Lecanemab: Zusätzliches MRT vor dritter Infusion nötig – News - Deutsches Ärzteblatt",
-      "summary_de": "Therapie mit Lecanemab: Zusätzliches MRT vor dritter Infusion nötig – News &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie OR MRT OR CT\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWnJtYXg1RkZoMm1WZEJDYVhMdndRRnk1dk5GOXJiSkVETFl0T0ZIbXk2YmZJZ2ZPZE5qRlI4Sm9nZXJXb1E3VlJtOFhaQmxnOGJ5T3BfMkhqOHFHXzJfN0VLVjIyT21Ua0h5WE5tWGZjckJGQVB1clJLOXNUZWNmQ1dPVEgxbzljUEw4NGU4ZjZKVVNSYjltb2dkenVUNWhmVHpvMmdwRlVRREN5VmNnVmtjazhVTE1seVpjaUR5ZHhhcEQ3b1k5cDBWOTdpWW1z?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-09-26T07:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Rote-Hand-Brief: Früher ins MRT unter Lecanemab - Pharmazeutische Zeitung",
-      "summary_de": "Rote-Hand-Brief: Früher ins MRT unter Lecanemab &nbsp;&nbsp; Pharmazeutische Zeitung",
-      "source_name": "\"site:pharmazeutische-zeitung.de radiologie OR MRT OR CT\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZV9UXy05M0gxSExCcEVQVmVWMFdqbm1fbEV0bDFkZ0dSQ194Rlhjcm11ano3N2pDTDc1WFkyNVJxcmtEV21oVmtyTWNzczdqSHFJWXEzN0M0d1hTQUpiLWlBRG9XQXBncElvcjJHaFF5cGhRZ0c5cURkNUdFRURIVTBmZzE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-09-26T07:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "NHS App Management Information - August 2025",
       "summary_de": "This publication provides information about the number of users and usage for the NHS App, and for features that are available through the NHS App. Data are included for the following measures, at ICB and national granularity: - NHS App monthly logins: The volume of NHS App sessions recorded over a calendar month. - NHS App monthly unique user logins: …",
       "source_name": "Publication Feed",
@@ -2327,26 +2693,6 @@
       "category": "Europa",
       "tags": [],
       "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Simmern - Barmer",
-      "summary_de": "BARMER Krankenkasse in Simmern &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUWdwTkVlOEZ2VW4wWk1yM0NpaHlTUm9xNkZZa0VPS3dvTmg3bW4zZWRkQUdQV1FzalUwYmtVbGNoY3Z4QVdPMVBEZnVLNUdMSW9Za1dmQ3VnaTFjSjUyQkIwWTh2Y2lsLU9Tb294a21iQUhTMzdBSGtudmc1ZXUxd2w1b01Wc1RIOThZdzZmdVJzSnBESDg0X0h6d3cyUk5tTlF6X1ljWlhTOFcwa1h6cG5ybE9VVk9nSEQ0amwydEN0SlVjYjdn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-09-25T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Once‐ or twice‐daily thoracic radiation in limited‐stage small‐cell lung cancer treated with concurrent chemoradiotherapy",
-      "summary_de": "Once‐ or twice‐daily thoracic radiation in limited‐stage small‐cell lung cancer treated with concurrent chemoradiotherapy",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016084",
-      "published_at": "2025-09-25T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
     },
     {
       "title": "New co-chairs elected for working parties for healthcare professionals and for patients and consumers",
@@ -2379,16 +2725,6 @@
       "type": "News"
     },
     {
-      "title": "Vereinfachtes MRT erkennt Prostatakarzinom zuverlässig – News - Deutsches Ärzteblatt",
-      "summary_de": "Vereinfachtes MRT erkennt Prostatakarzinom zuverlässig – News &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie OR MRT OR CT\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU05JdXRlSWtaVEJIaVhQbkpUa1QwYkN6Vzd2WXJlMnhPdmJTa1JLMFk3WVRENnVFQTFIQWtxSHRXRnk4VVQ5czR1STlkalhHS001QUVIeGRFZElHdDJoTkdFM3k1b1owNjhTczBnOHFJQXNVeFlkS1h4eEFhamY5b1BBT1p1OUFnU2FmbTBsRmgzWVQ0RTFoT2N0SHBuYXlzaWw0a2NmYjU1TUt1U1M5RnJVWFdsUXZqS2VhTXBMVW8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-09-24T07:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "[MI] Learning Disabilities Health Check Scheme, England, August 2025",
       "summary_de": "The learning disabilities health check scheme is designed to encourage practices to identify all patients aged 14 and over with learning disabilities, to maintain a learning disabilities 'health check' register and offer them an annual health check, which will include producing a health action plan.The learning disabilities health check scheme is one of a number of GP enhanced services. Enhanced …",
       "source_name": "Publication Feed",
@@ -2401,7 +2737,7 @@
     {
       "title": "Leitende/r Ärztin/Arzt 80-100%, Radiologie - ärztestellen",
       "summary_de": "Leitende/r Ärztin/Arzt 80-100%, Radiologie &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie OR MRT OR CT\" - Google News",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeWtmaUhLdXFzZF9jQ01IN01TQk1obVlYZnlSd2JpODI4VEJEeEwyU1BETXpkOXY2RGdTWVp3cjdJVC0tSF9sTmF0a0hRSGRCTkRKTkU1bTVBQUFNVmpWMEtadHVDU3dnQktQT3o1clF1aDRISlVlSVh3U2RKYmhpWkdobVlOVVpXekNZc2JsVXhaTUk3dUZzTHJKWU41SFZ0SHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-09-23T14:26:23+00:00",
       "category": "Radiologie",
@@ -2435,16 +2771,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTGdRc0RnOFRXcUF5aTFheGI4a0lXU2dyWkczWjd5QTBVT2JZUGlIZVdRUmxIRzdmWVpNd19UanhrLVF4ZnExcUFiMm40dDZtVmlGRi1KR2dSOTFkV2htMWJFdHdOS2ttb3pyRXAtVW95QXdOWTVtRVUxa0FHVkxIN3hGaHRvWUNpTGNzbkQzSXNOVmF2M2lXNm1FVTB4Z1hRdzZUdEgzUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-09-23T07:00:00+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "CT-Screenings mit Labortests finden häufig Krebs bei Betroffenen mit unspezifischen Symptomen - Deutsches Ärzteblatt",
-      "summary_de": "CT-Screenings mit Labortests finden häufig Krebs bei Betroffenen mit unspezifischen Symptomen &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie OR MRT OR CT\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPajN4SWJJR0tYOUZGZ2xZcHFmdktNTS1vbHEwbGZfUDZUSzYzdEtadWkxSDdkZ2ZLTzZHRkJXYTIzZWNDb01IcjVIaWNFR2x0YXlOQzZKUXhMRTdqMUo0N0NNUE8zaDRQTk9lS1ZiLThJbnlVSEdDS1Bxc09Mam1wWHpQN0lyaVAxTFFJRnktWFlWSmJsZ2t1SXlEdGhyTWhiaWZUd1NBdDM5RXM2UEJ4eG1Yb1M4RklwWDJ0NHRJYk9LZnFSaUxJMzJCb2VpWlotdHZEd0I4QXV0RzZMaktHODQySFl5RXczRjd3Xzg3cEcxbllX?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-09-23T07:00:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -2489,12 +2815,12 @@
       "type": "News"
     },
     {
-      "title": "Neuer Meilenstein für die Radiologie am Allgemeinen Krankenhaus Celle - celleheute.de",
-      "summary_de": "Neuer Meilenstein für die Radiologie am Allgemeinen Krankenhaus Celle &nbsp;&nbsp; celleheute.de",
-      "source_name": "\"radiologie OR radiolog* OR \"Bildgebung\" OR MRT OR CT OR Ultraschall OR \"interventionelle Radiologie\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPelk5S0x4cGtWbTI1VVFpYXpGRWl2ZURmbG1OYnVjM21tMTVGVkt6UHRxZXNQQkt4MHo1cTJYRkZkTlJOWHpKMWE5eUhMNEJjVGZQUkdpSHlEMHM1Z1J5QVhNX2FkTnU2aEc4b2VPdWtWaFEzWXhaR2U3bWFxZ3VOZFRIQzNGY29UWkExeGRqaWZjSlNZcnBDMDUxYWJrZWtEVjN4d3NRZnI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-09-18T07:00:00+00:00",
-      "category": "Radiologie",
+      "title": "Gesundheitsmythen: Was ist dran? - DAK-Gesundheit",
+      "summary_de": "Gesundheitsmythen: Was ist dran? &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OSHEzQTVhWVZjV29zQV9mOERCT1AwcU9GbmxoclBNa2dUX3pIOVZzbTFibmluYjgzM1I5eWJyYVJtaXgtZnkxeVZ6Y1RvcFYyclFzUVBJWWdyb0tNRWk3NE1YMVduTFhjSHlXclBza0k1WFVCQUJQdDNZVGM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-09-17T12:16:17+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2601,10 +2927,5 @@
       "type": "News"
     }
   ],
-  "errors": [
-    "FeedError: http://cdn.auntminnie.com/rss/rss.aspx            # AuntMinnie (global) :contentReference[oaicite:0]{index=0} :: InvalidURL(\"URL can't contain control characters. '/rss/rss.aspx            ' (found at least ' ')\")",
-    "FeedError: https://www.diagnosticimaging.com/rss             # DiagnosticImaging RSS :contentReference[oaicite:1]{index=1} :: InvalidURL(\"URL can't contain control characters. '/rss             ' (found at least ' ')\")",
-    "FeedError: https://medicalxpress.com/rss-feed/medicalxpress/radiology-imaging-news/   # MedicalXpress Radiology & Imaging :contentReference[oaicite:2]{index=2} :: InvalidURL(\"URL can't contain control characters. '/rss-feed/medicalxpress/radiology-imaging-news/   ' (found at least ' ')\")",
-    "FeedError: https://news.google.com/rss/search?q=site:myesr.org+OR+site:app.myesr.org+Radiology&hl=en&gl=DE&ceid=DE:en  :contentReference[oaicite:3]{index=3} :: InvalidURL(\"URL can't contain control characters. '/rss/search?q=site:myesr.org+OR+site:app.myesr.org+Radiology&hl=en&gl=DE&ceid=DE:en  :contentReference[oaicite:3]{index=3}' (found at least ' ')\")"
-  ]
+  "errors": []
 }
