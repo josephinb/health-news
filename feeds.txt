@@ -59,3 +59,14 @@ https://news.google.com/rss/search?q=site:pharmazeutische-zeitung.de+radiologie+
 
 # Optional Europa (falls gewünscht)
 https://news.google.com/rss/search?q=site:myesr.org+OR+site:app.myesr.org+Radiology&hl=en&gl=DE&ceid=DE:en  :contentReference[oaicite:3]{index=3}
+
+https://news.google.com/rss/search?q=site:healthcare-in-europe.com+radiolog*+OR+MRT+OR+CT&hl=de&gl=DE&ceid=DE:de
+https://news.google.com/rss/search?q=site:hl-live.de+radiolog*+OR+MRT+OR+CT&hl=de&gl=DE&ceid=DE:de
+https://news.google.com/rss/search?q=site:pressebox.de+radiolog*+OR+MRT+OR+CT&hl=de&gl=DE&ceid=DE:de
+https://news.google.com/rss/search?q=site:johanniter.de+radiolog*+OR+MRT+OR+CT&hl=de&gl=DE&ceid=DE:de
+https://news.google.com/rss/search?q=site:rp-online.de+radiolog*+OR+MRT+OR+CT&hl=de&gl=DE&ceid=DE:de
+https://news.google.com/rss/search?q=site:kvberlin.de+radiolog*+OR+MRT+OR+CT&hl=de&gl=DE&ceid=DE:de
+
+# Allgemein Radiologie (breit, aber durch Server-Gate sauber gefiltert)
+https://news.google.com/rss/search?q=radiologie+OR+radiolog*+OR+%22Bildgebung%22+OR+MRT+OR+CT+OR+Ultraschall+OR+%22interventionelle+Radiologie%22&hl=de&gl=DE&ceid=DE:de
+
