@@ -5,14 +5,13 @@ import feedparser
 import requests
 from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode
 
-# -------- Konfiguration --------
+# ---------- Konfiguration ----------
 NOW = datetime.now(timezone.utc)
 WINDOW_DAYS = 42
 CUTOFF = NOW - timedelta(days=WINDOW_DAYS)
+PER_FEED_TIMEOUT = 12
 
-PER_FEED_TIMEOUT = 12  # Sekunden für Google-Redirect-Auflösung
-
-# -------- Heuristiken --------
+# ---------- Heuristiken ----------
 KW = {
     "Studie": [
         r"\b(randomisiert|kohorte|studie|review|metaanalyse|preprint|placebo)\b",
@@ -47,11 +46,25 @@ KW = {
     "Europa": [r"\b(europa|eu|european|europaweit|eu-weit)\b"],
 }
 
+# Health-Gate für Google-News/General Media
 HEALTH_POS = re.compile(
     r"\b(gesundheit|medizin|krankheit|patient|arzt|ärzt|pflege|krankenhaus|klinik|"
     r"apotheke|pharma|arznei|impf|therap|diagnos|prävent|g-?ba|iqwig|pe[ij]|bfarm|"
     r"gkv|krankenkasse|versorg|leitlinie|infektion|epidemi|public health|"
     r"gesundheitspolitik|radiolog|bildgebung|imaging|mrt|ct|ultraschall|nuklearmedizin|pacs|dicom)\b",
+    re.I
+)
+
+# Radiologie-Positiv (strenger, muss für Kategorie „Radiologie“ matchen)
+RAD_POS = re.compile(
+    r"\b(radiolog\w+|bildgebung|imaging|mrt|mr[ -]?t|ct|pet-?ct|ultraschall|sonograph\w+|"
+    r"nuklearmedizin|radiopharm\w*|dicom|pacs|kontrastmittel|angiograph\w+|teleradiologie|befundung)\b",
+    re.I
+)
+
+# Radiologie-Negativ (ausschließen offensichtlichen Off-Topic)
+RAD_NEG = re.compile(
+    r"\b(jacke|jacken|allwetter|mode|fashion|outfit|fußball|bundesliga|reisebericht|verkehr|straßensperrung)\b",
     re.I
 )
 
@@ -73,19 +86,21 @@ DOMAIN_HINTS = {
     "pubmed.ncbi.nlm.nih.gov": ["Studie"],
     "cochranelibrary.com": ["Studie"],
     # Europa/UK
-    "ema.europa.eu": ["Europa"],
-    "efsa.europa.eu": ["Europa"],
-    "edqm.eu": ["Europa"],
-    "health.ec.europa.eu": ["Europa"],
-    "digital.nhs.uk": ["Europa"],
-    "gov.uk": ["Europa"],
-    "hra.nhs.uk": ["Europa"],
-    "nihr.ac.uk": ["Europa"],
-    # Radiologie
+    "ema.europa.eu": ["Europa"], "efsa.europa.eu": ["Europa"],
+    "edqm.eu": ["Europa"], "health.ec.europa.eu": ["Europa"],
+    "digital.nhs.uk": ["Europa"], "gov.uk": ["Europa"],
+    "hra.nhs.uk": ["Europa"], "nihr.ac.uk": ["Europa"],
+    # Radiologie orientierte Quellen
     "diagnosticimaging.com": ["Radiologie"],
     "auntminnie.com": ["Radiologie"],
     "auntminnieeurope.com": ["Radiologie"],
     "medicalxpress.com": ["Radiologie"],
+    "healthcare-in-europe.com": ["Radiologie"],
+    "hl-live.de": ["Radiologie"],
+    "pressebox.de": ["Radiologie"],
+    "johanniter.de": ["Radiologie"],
+    "rp-online.de": ["Radiologie"],
+    "kvberlin.de": ["Radiologie"],
 }
 
 GENERIC_TITLE_PATTERNS = [
@@ -94,7 +109,7 @@ GENERIC_TITLE_PATTERNS = [
     re.compile(r"^\s*news\s*$", re.I),
 ]
 
-# -------- Utils --------
+# ---------- Utils ----------
 def norm_host(h):
     h = (h or "").lower()
     return h[4:] if h.startswith("www.") else h
@@ -113,7 +128,6 @@ def parse_time(entry):
     t = entry.get("published_parsed") or entry.get("updated_parsed")
     if not t: return None
     try:
-        # t kann struct_time, tuple oder obj sein
         y, m, d, H, M, S = t[:6]
         return datetime(y, m, d, H, M, S, tzinfo=timezone.utc)
     except Exception:
@@ -160,12 +174,22 @@ def classify(title, summary, link):
     txt = f"{title} {summary}".lower()
     host = norm_host(urlparse(link or "").hostname)
     cats = set()
+    # Domainhinweise
     for suf, vals in DOMAIN_HINTS.items():
-        if host and host.endswith(suf): cats.update(vals)
+        if host and host.endswith(suf):
+            cats.update(vals)
+    # Keyword-Hits
     for cat, patterns in KW.items():
-        if any(re.search(p, txt, flags=re.I) for p in patterns): cats.add(cat)
+        if any(re.search(p, txt, flags=re.I) for p in patterns):
+            cats.add(cat)
+    # Radiologie-GATE: Nur zulassen, wenn klar radiologisch und kein Off-Topic
+    if "Radiologie" in cats:
+        if RAD_NEG.search(txt) or not RAD_POS.search(txt):
+            cats.discard("Radiologie")
+    # Fallback
     if not cats and any(k in (host or "") for k in ["aerzteblatt.de","pharmazeutische-zeitung.de","vdek.com","gkv-spitzenverband.de","kbs.de"]):
         cats.add("Wirtschaft")
+    # Reihenfolge
     order = ["Gesundheitspolitik","Studie","Radiologie","Versorgung","Wirtschaft","Europa"]
     main = next((c for c in order if c in cats), "News")
     tags = sorted(cats - {main})
@@ -179,24 +203,18 @@ def dedupe(items):
         seen.add(key); out.append(it)
     return out
 
-# -------- Pipeline --------
+# ---------- Pipeline ----------
 errors = []
-feeds_path = "feeds.txt"
-if not os.path.exists(feeds_path):
-    print("ERROR: feeds.txt nicht gefunden", file=sys.stderr)
-    sys.exit(1)
+if not os.path.exists("feeds.txt"):
+    print("ERROR: feeds.txt nicht gefunden", file=sys.stderr); sys.exit(1)
 
-with open(feeds_path, encoding="utf-8") as f:
+with open("feeds.txt", encoding="utf-8") as f:
     feeds = [l.strip() for l in f if l.strip() and not l.startswith("#")]
 
 items = []
-
 for url in feeds:
     try:
         d = feedparser.parse(url)
-        if d.bozo:
-            # Feedparser meldet Parsing-Fehler, trotzdem weiter versuchen
-            pass
         source_name = d.feed.get("title", url)
         for e in d.entries:
             try:
@@ -246,7 +264,7 @@ out = {
     "window_days": WINDOW_DAYS,
     "count": len(items),
     "items": items,
-    "errors": errors[:50]  # bis zu 50 Fehler fürs Debugging im Output sichtbar
+    "errors": errors[:50],
 }
 with open("public/health-news.json", "w", encoding="utf-8") as f:
     json.dump(out, f, ensure_ascii=False, indent=2)
