@@ -58,7 +58,7 @@ GENERAL_MEDIA = {"zeit.de","spiegel.de","tagesschau.de","faz.net","sueddeutsche.
 
 # Domain-Hinweise → Gesundheitspolitik statt Gesetz
 DOMAIN_HINTS = {
-    "medrxiv.org": ["Studie"], "pubmed.ncbi.nlm.nih.gov": ["Studie"],
+    # Deutschland / Politik / Versorgung
     "g-ba.de": ["Gesundheitspolitik","Versorgung"],
     "bundesgesundheitsministerium.de": ["Gesundheitspolitik"],
     "anwendungen.pharmnet-bund.de": ["Wirtschaft"],
@@ -68,12 +68,24 @@ DOMAIN_HINTS = {
     "gkv-spitzenverband.de": ["Gesundheitspolitik","Wirtschaft"],
     "vdek.com": ["Gesundheitspolitik"],
     "kbs.de": ["Gesundheitspolitik"],
-    # Europa/UK
-    "ema.europa.eu": ["Europa"], "efsa.europa.eu": ["Europa"],
-    "edqm.eu": ["Europa"], "health.ec.europa.eu": ["Europa"],
-    "digital.nhs.uk": ["Europa"], "gov.uk": ["Europa"],
-    "hra.nhs.uk": ["Europa"], "nihr.ac.uk": ["Europa"],
+    # Studien / Europa
+    "medrxiv.org": ["Studie"],
+    "pubmed.ncbi.nlm.nih.gov": ["Studie"],
+    "ema.europa.eu": ["Europa"],
+    "efsa.europa.eu": ["Europa"],
+    "edqm.eu": ["Europa"],
+    "health.ec.europa.eu": ["Europa"],
+    "digital.nhs.uk": ["Europa"],
+    "gov.uk": ["Europa"],
+    "hra.nhs.uk": ["Europa"],
+    "nihr.ac.uk": ["Europa"],
+    # Radiologie: als Kategorie markieren
+    "diagnosticimaging.com": ["Radiologie"],
+    "auntminnie.com": ["Radiologie"],
+    "auntminnieeurope.com": ["Radiologie"],
+    "medicalxpress.com": ["Radiologie"],
 }
+
 
 GENERIC_TITLE_PATTERNS = [
     re.compile(r"^\s*dataset:?\s*updated\s*data\s*$", re.I),
