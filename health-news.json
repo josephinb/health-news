@@ -1,8 +1,18 @@
 {
-  "generated_at": "2025-10-22T09:57:48.197654+00:00",
+  "generated_at": "2025-10-22T10:12:00.798258+00:00",
   "window_days": 42,
-  "count": 254,
+  "count": 259,
   "items": [
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Erstmeldung Arzneimittel: Quetiapin Accord 400 mg Retardtabletten pU: Accord Healthcare B.V.",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2025-10-22T09:43:34+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "CYP2D6-Mutation: Tamoxifen plus Endoxifen überzeugt in Studie",
       "summary_de": "Eine neue Studie liefert Hinweise, dass die zus&auml;tzliche Gabe von niedrig dosiertem Endoxifen die Tamoxifen-Therapie bei Frauen verbessert, die den aktiven Metaboliten aufgrund einer CYP2D6-Mutation nur eingeschr&auml;nkt bilden k&ouml;nnen.&nbsp;",
@@ -29,16 +39,6 @@
       "source_name": "Publication Feed",
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhs-e-referral-service-open-data/current",
       "published_at": "2025-10-22T08:20:19+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Side effects from drug interactions to be predicted by AI before reaching patients",
-      "summary_de": "The MHRA leads three new government-backed projects using AI-driven approaches to make medicines safer and bring treatments to patients more quickly.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/side-effects-from-drug-interactions-to-be-predicted-by-ai-before-reaching-patients",
-      "published_at": "2025-10-22T08:02:28+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
@@ -174,11 +174,31 @@
       "type": "News"
     },
     {
+      "title": "Side effects from drug interactions to be predicted by AI before reaching patients",
+      "summary_de": "The MHRA leads three new government-backed projects using AI-driven approaches to make medicines safer and bring treatments to patients more quickly.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/news/side-effects-from-drug-interactions-to-be-predicted-by-ai-before-reaching-patients",
+      "published_at": "2025-10-21T23:00:00+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gruselig-Lecker - Wenn's in der Brotdose spukt: Würstchenspinnen für Halloween - Gesundheit - SZ.de",
       "summary_de": "Gruselig-Lecker - Wenn's in der Brotdose spukt: Würstchenspinnen für Halloween - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSUN3b0xMaWR1dk1OYl9NR3dkVWxlai1VME4xR3BmdzRkUXcwM1FvdmdBUXdyVEpiZXkzeU9wWlZIWDFLTFFpZkxwNjQ1ZkJRVTdZV0FWbVlCZzFOSTE2MHVILVpBZkszZDNkR2k5RzgxVHRmamdMZUJMc2tFdmM4VmVHTXA1WmF6UDJkN1dXQmNGbFBqNFh4Vkd3aHFIYlhadzRpTE9IYVVyQXkwcEdMWUdwMGh2ZklqZ1VxVEpYNXd1UW0zRDR5Y2tLam5YSVdZOVY4aV9JSzJZX0tIaWVoLTNzeHRYZjdnRDVyWGZHaEtyNDdaWFFGNEFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-21T22:05:05+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Praxisbezogene Fortbildung Klinikum bietet Austausch für Medizinische Technologen für Radiolog - Lüneburg Aktuell",
+      "summary_de": "Praxisbezogene Fortbildung Klinikum bietet Austausch für Medizinische Technologen für Radiolog &nbsp;&nbsp; Lüneburg Aktuell",
+      "source_name": "\"radiologie OR radiolog* OR \"Bildgebung\" OR MRT OR CT OR Ultraschall OR \"interventionelle Radiologie\"\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZUhXU25Pd2FOTVAxWDZKTlNYT3g1SmFYR1hIVXVHcmtZYWhPWVZFU3B1UVZkZkd4cG1fcXlPTGlrRlc1Y0xxLXBUT0xvNmloVTNQR19fR0tEZXZqeXJPbVdlcXltZFY3RUNmdWxkaHlZZlZITmdlb2xOeTd2akxacXkwZ19vUkpmdVVlNTNndFJidF9udkR0cnJQR1MtdzM1Y0pSbmJKUE5pOFZqRFpYeVNuV2RIdjFDUlNCd0k2TXhFSVlFbFpfVHF6a1B0UlRXTUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-21T20:17:12+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -294,16 +314,6 @@
       "type": "News"
     },
     {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: Timonil Saft pU: Desitin Arzneimittel GmbH",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2025-10-21T12:11:37+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "BMG: Anhörung zur Apothekenreform am 6. November",
       "summary_de": "Die Apothekenreform geht nun in die entscheidende Phase: Das Bundesgesundheitsministerium (BMG) hat die betroffenen Verb&auml;nde zur Anh&ouml;rung der entsprechenden Referentenentw&uuml;rfe eingeladen. Der Termin soll am 6. November in Berlin stattfinden. Die Frist zur Stellungnahme endet einen Tag sp&auml;ter.&nbsp;",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -320,6 +330,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/wissen-zum-fieberkrampf-159782/",
       "published_at": "2025-10-21T11:00:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Medizinische Klinik III - Klinik für Kardiologie - HERZ ZENTRUM WESTFALEN - HEK",
+      "summary_de": "Medizinische Klinik III - Klinik für Kardiologie - HERZ ZENTRUM WESTFALEN &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOblNBR2lZSy1tU19Jcnpldnk3dEFJWi1CRzVPSm9QMlM2Z1B2SmlvMkFBaG1EV1pxWEhoN3FEVEhiNUwxNkpiR2ZaUkoxLV8tTy15ajNER0tMelFDUjRaUTlFaHZVdzBzTFNBYmNCTjFJYXZuOU1vSVB0Y2szdU9xLUN0cTlkbWx6OFJjMnBJRjFPZDA0S05GY01LcDVqeHd6bEhqeGcxX29IaEJDVE9BcWJTckM2b0M0OHg4ZE90U0U5YUZubDdYRURRRi1xc1VFOWxMRXZMTk1Fd2FZNXlPWmJiWDZaYnpmeEJfMlBVcDJ2eEo5TG9YMGUwcGJZVG9TYVdXZW11YlkzOHJa?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-21T10:32:53+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -390,16 +410,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/so-bleiben-apothekenteams-belastbar-159635/",
       "published_at": "2025-10-21T09:00:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Klinik für Pneumologie, Internistische Intensiv- und Beatmungsmedizin - HEK",
-      "summary_de": "Klinik für Pneumologie, Internistische Intensiv- und Beatmungsmedizin &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQcUlJZUtKVnROOS1OQnEtc1g0djZmNXBfeHFMdTNXNHRJN3hyYUZxd005ZHh5WHA3Y2tGY2ZPanY2TlNiYjRKMF9ReDVwM2xnY3E2MzBSSHByWXFCTW9CU0drOTU5ejlpSlAzYUE0UjZLcGtoN0lUT2ZvYXBiTG1sd29YTUR6TzRSaWt1YXJndG4wemdBVkZpdzI0RXNkU0gxUV9aMHhva01kN3IyUkN1UU9sTUpMNkhnMzFDal9neVF6TVk4T0FteFJDSVVSRElJWlhmVE83ODhMN1Q2bUhHeWFtNE5RZXowU1JaZG5sTjVuSmdaVDV2WEVFMk9DUnJXSTJPem1xRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-21T08:53:56+00:00",
-      "category": "Versorgung",
       "tags": [],
       "type": "News"
     },
@@ -500,6 +510,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/ein-symptom-viele-moegliche-ursachen-159756/",
       "published_at": "2025-10-20T14:20:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Häusliche Krankenpflege: Neue Regelungen in G-BA-Richtlinie – News - Deutsches Ärzteblatt",
+      "summary_de": "Häusliche Krankenpflege: Neue Regelungen in G-BA-Richtlinie – News &nbsp;&nbsp; Deutsches Ärzteblatt",
+      "source_name": "\"site:aerzteblatt.de radiologie OR MRT OR CT\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOTc4WEhDNmZhWjZtaGVVTzhwSTZDdVlBSHhhelcwWmVVTWlfQ1ZtX2lfUkN4bzlMUnhkT2RzOC1vR0JYYUMyYVVzQnI3bkJlcmM1RGFjQ0g3Q1EwTjBFWHIydGJUcGdPZWsyN2RfUGl4a0ZNS0hCTUVPazYxUENWX2Rqbkh3NlRsdEx3WkJpWUdNZ3NTb2VUS1VpRHlmRmhxY3FXUDhLVXRvX3A3dXY2czlfcF9JWFNVdWVqRV9xYVhBMm1KS0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-20T14:17:29+00:00",
+      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -659,16 +679,6 @@
       "source_name": "\"site:hek.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOTk9XSkxxMTdDY0dHMTE0MnhIRjk3ZWJmLWhJa0U2WmQ4M2JrUzF2ZVl0amlvc2pkVkxUZ1ptTUFjWjlKTUUydFlYeVdNTnVrLWNoY3hiSUpGMGlrQXNVU0JOLUIwT3dETE9ha3ZVYU5qenViZ29pbFdncU0yYUFJaGpUU3dyVzF1cHJWYXJVQ1NUR0FUV0RsazNLb0YwdkFzbFl5bjNLZmJSX2xrSHRDVmdXMTctSUk5aHAwN3JDTFpjNXB1NWhSU3JZMW8zQ3kyWnJMc2h3ODhTRmRQQjJISmlUdms2ZVl3a0tEN3BuQkhFUGdtaEdfYUFuZ29Hb0tmZlpzRTFIUUUwWE0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-18T22:54:57+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Klinik für Palliativmedizin - HEK",
-      "summary_de": "Klinik für Palliativmedizin &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaUMtUC04b21ma1EyVVNrVWFTVVVRQ2p4NEVWdl85NHUyclpWWEF3aDJRU0pTblRZY0wwTDVuaUJHQ2FqSVlxeWo0bk92d0JGTVdhUmlBbURoNGJJTkRBb2dJN0kzaFZibW50QkNzXzVFZ0RyVENIbEFnRldjcDZ1VFNiVWlCWkxxOU8tZ3ZGeUQ4T3NXZHAxOW5ZNDFGLVZWNTBsdjFnMkQ2LUo3WHdqVDREWm5nY3M?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-18T20:09:22+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -914,6 +924,16 @@
       "type": "News"
     },
     {
+      "title": "TVM Capital Life Science Portfoliounternehmen Smart Reporting übernimmt Fluency for Imaging - VC Magazin",
+      "summary_de": "TVM Capital Life Science Portfoliounternehmen Smart Reporting übernimmt Fluency for Imaging &nbsp;&nbsp; VC Magazin",
+      "source_name": "\"radiologie OR radiolog* OR \"Bildgebung\" OR MRT OR CT OR Ultraschall OR \"interventionelle Radiologie\"\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMXB0ZEFYWmRjYjBDRGVRaVFxMHItZkNzd1czamVMekFxeXNkdmlrN3A1WWhDLUZuTXdpdEhLekZkVmRlUzREakFaZjRBT0R1UnIwaVY1eDB3a19ZYnEydy01ek12UjNULVZEQ1RnT2I4NEZvdVA3b2pOYzZrc1B2bWR0VzdvbjFWX3dLZzlSSUMwVjBLc2xnRjJYbnMtcmRSdm41VmpvcGNkOWVLaFdMWERVengxd2dDVUVNWlhJVVpVcy1wNURxQ1RmX1drYUw4VVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-16T16:59:06+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Variations to marketing authorisations (MAs)",
       "summary_de": "How the MHRA processes variations to marketing authorisations.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -961,6 +981,16 @@
       "source_name": "\"site:faz.net medizin\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVNTN3JHOXhGSGVmemFZVW8xckpzNWg1dWhtZE1SQk1GNVlrWnNRdGN2MDFkbnVsWWUyVU04NWplajR1M1JvT0FqampiSXZDOFpqb0ZVQVRONC1HN0o5NEM2UlRpMklCN3hkblpNLW9iT1piY29taEJwaDFQa2o3eDBvX1lJakpLaXBFd2xtV1I2VDBLeEtRT19LOUxJSXhWdThqY1FnSmxJbGdFVklXcTVrQ04?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-16T11:53:47+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Krankenkasse für ein gesünderes Leben | BARMER - Barmer",
+      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-16T11:34:48+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1231,6 +1261,16 @@
       "type": "News"
     },
     {
+      "title": "Gehört die Zahnversiegelung bei Kindern zur Vorsorgeuntersuchung? - DAK-Gesundheit",
+      "summary_de": "Gehört die Zahnversiegelung bei Kindern zur Vorsorgeuntersuchung? &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM0RuMzZNN05Uc3VEYm1MRHhIVWtHVWtld2hjRHVDbGd3X3F6aThxSVJNbEJQX1h0UE90dmI5YlpWdkxza3I1YU95cUVuRUR2VVRYV2toYVppM2tBUElXeTJYazN5T0NkZ3ZDeHZPQ2VMdkg3X0g0bExVWVBKVHNaMi03R3dYSHFYUkpXZnJrTGVrNWl0S21pNDU1MW9uTnNU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-15T09:11:15+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Pharmacological and non‐pharmacological treatments for impulsive‐compulsive behaviors in Parkinson's disease",
       "summary_de": "Pharmacological and non‐pharmacological treatments for impulsive‐compulsive behaviors in Parkinson's disease",
       "source_name": "Cochrane Library RSS feed.",
@@ -1267,16 +1307,6 @@
       "source_url": "https://www.gov.uk/government/news/the-new-innovative-licensing-and-access-pathway-welcomes-first-investigational-products",
       "published_at": "2025-10-14T23:01:01+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Inkontinenz: Diese Maßnahmen helfen - DAK-Gesundheit",
-      "summary_de": "Inkontinenz: Diese Maßnahmen helfen &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVhMOHdoeHBBWHVMNVlKYzFjWWtULW1ka3liYmRCZDFtZ3dKZ1pFMHZPb1hyU3hMM092Ry0wNWpKNXlwVTh6QWQ2QzRmNDk1VmoyTTItMENqNFRXSnNuNWtqWnRpZjVHWEVnODZFM3dOV0RLQ1YwZGwzc2pEanR4OElVUWs2djRyX0taOEszZnBoRE1qRkNN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-14T21:56:57+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1373,20 +1403,10 @@
       "type": "News"
     },
     {
-      "title": "Wie entsteht Scheidenpilz? - DAK-Gesundheit",
-      "summary_de": "Wie entsteht Scheidenpilz? &nbsp;&nbsp; DAK-Gesundheit",
+      "title": "Das Toxische Schocksyndrom – alles über die Tamponkrankheit - DAK-Gesundheit",
+      "summary_de": "Das Toxische Schocksyndrom – alles über die Tamponkrankheit &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZm9EWVRXN2hpSGRrdzNTYkd4S2JwSlZFcU14a1p6UFVtclNzbXJVai1zZkViWVdPSHFXSzMwN2JlU0ZsX1ZSM1hyRkZOeDFXcElicVM1QXpzZXM3aGRheXMtNWVKRjdQbWxBMUE0VXVzMW5tRFppUlFhc0hROHFPSkFSUzVham95enV6VHMwckdrRFZkWWk3LXhYNTBGYzlTZ1B1ekdNbkZuS05sV3BUeHU5djNndTVJYmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-14T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Wie richte ich die Digitalpost ein? - DAK-Gesundheit",
-      "summary_de": "Wie richte ich die Digitalpost ein? &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORTUxd1lTYVJIcGtyRk14ZE42QWN3cEhKUmc5OUV6eFF1TXJOOGlzS0EzZ1p5R1J2SndZTE5FUDJFRFFpZnlFc2tyWXBXRlJvOGowUVZwd2Ftb1FvemRvQk1QNFhtcm94MTVybzNjR0ZraWZnN3MweV9xeWdpelpVS2N1ZFhzS0E5OFlrRTROdEZmQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeGZRMXRta0d0ZWVQRGxySDFCWk9lLWJyZVFEQUVmRFJIZUw2c1BxbmtpZnhnWVAxTUpjOGcybjZ2LW50empreGlrSVdlSDhJTE52d1hJTU43ZVA0U2M3bmo3MU1UMUxpQnlDVGJrcjdLQmpUSUJMMDZVT002enZuNVc4bVZZaGZqTkNCVzZqWGs2Q242UDRDZlpBRDlROGwwMThhS0ZlclRhRG9BZEhCY2s2RzN4Zll0eVNra3BFUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-14T07:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -1445,6 +1465,16 @@
       "type": "News"
     },
     {
+      "title": "Radiologie MVZ Medizinische Fakultät der Universität Augsburg Klinik Stellenangebote in Hessen - ärztestellen",
+      "summary_de": "Radiologie MVZ Medizinische Fakultät der Universität Augsburg Klinik Stellenangebote in Hessen &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie OR MRT OR CT\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbjRDSXR1dm41bnNGbTJjNUwwZWJUY2pVZjZMWlJYczFfV3oyWHZHOFBpZmk4RFl3V0pjWjJnelpaRkZyWFEtRW0tMG1CN3NvUjJjeVkyWnJnemIyaU1PV1NLY1FnYjRCZFYxMkd1TWVQVXozYkRWSUFUYnlpLXZtNmV5T3oyYy10VHpmOVIwNURfc1dfUDgxQ2s4dWNkZkRleXpncldlZWt3TE9SeHZxVFNqNmw4Q2FCa3BXQ2xoUFpDR2x1ckE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-12T15:55:57+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Meeting highlights from the Committee for Veterinary Medicinal Products (CVMP) 7-9 October 2025",
       "summary_de": "CVMP opinions on veterinary medicinal productsThe Committee adopted by&nbsp;consensus a positive opinion for a marketing authorisation from Zoetis Belgium&nbsp;for Lenivia…",
       "source_name": "News and press releases",
@@ -1455,12 +1485,12 @@
       "type": "News"
     },
     {
-      "title": "Bewegungsspiele für draußen - DAK-Gesundheit",
-      "summary_de": "Bewegungsspiele für draußen &nbsp;&nbsp; DAK-Gesundheit",
+      "title": "Yoga-Kurs: Wir beteiligen uns an den Kosten - DAK-Gesundheit",
+      "summary_de": "Yoga-Kurs: Wir beteiligen uns an den Kosten &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONW1Ya0wwcXF2T2o3QVpreUw5cmdyT2RmMHRwZ3lDVWd6cldyaE1WNHRqa2NRQ3FOdHJUUTlfRkZRUWF0SUk1djVqN29xd2dVZlA3RUhTRW9XQnpDalNveElJN3N2RjZad1lLQWw2ZUtSSExvdFNjcURUM05Gc2hUVzhoQUZfZ2l6djVTSEJFSVVFM1dNMlQtR2pyd2RraEJfLXhz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS21JamVBbFJVTVU5aEREY3ZNVUpiUGhMVU9udTFwREIzVDNvbnBIWVZSaDRVQjBhQWVDajQ1bkJHSjFrSDlGSzBDM2hlbnJNRS1KbjIxRDNWV1JCWGFPWXlsemNzOE1maFBlcm13WGVCbGk3bDNKM0ZZSTA1Q0xJV1F4ZGhmNUhnTDFIT3FLTnRsZnR1a0NwaThHNUUzN0RxQXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-10T07:00:00+00:00",
-      "category": "News",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -1913,16 +1943,6 @@
       "type": "News"
     },
     {
-      "title": "Vortrag: Gesund & fit: Das Minimax Prinzip! - DAK-Gesundheit",
-      "summary_de": "Vortrag: Gesund & fit: Das Minimax Prinzip! &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNThoUkcxUlFsS2FQdkNOTXhVVkNtdFMtWURkdTJmVkd0dW03REhOdUJBZDZVZjZhU05wR2ttTXIxdVBZYWZWSnF2dGg5dWlOZXNxYmhYV2JLT05vdWNEZk5jVHNsUENld0tGbDJFUnRfOUJ6MDNxVEpPaUUwUm1DMUx2ZUljT0t6dHdVdA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-07T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheitspolitik: So sollen Kliniken auf den Krisenfall vorbereitet werden - DIE ZEIT",
       "summary_de": "Gesundheitspolitik: So sollen Kliniken auf den Krisenfall vorbereitet werden &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
@@ -2083,6 +2103,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUzVpMk5xb3J2eENUYzNVd2xnMmRPZzZYTGJVLUcxUGhfWDAyRTFMOWZrS2Q1SXRxampsRVU4QWNyMXF6TVJDeWlHSzlkbmFreXhLb0o2WWtMU0ZDeFg3aW9VWkNEXzN3anpjb3R6cEFGZHExakN1MXFxRGQtLVQ1bUkyb0NWVWlDRzNUYUZXZ1BGVHRfaFNUWWhiUnFKNEtDbGFmVlFXOGlTdFN0VXRUUFBtTEpEUDJTUDJpS0dGUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-01T13:42:56+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Den anstehenden Wandel in der Radiologie und Nuklearmedizin mitgestalten - healthcare-in-europe.com",
+      "summary_de": "Den anstehenden Wandel in der Radiologie und Nuklearmedizin mitgestalten &nbsp;&nbsp; healthcare-in-europe.com",
+      "source_name": "\"radiologie OR radiolog* OR \"Bildgebung\" OR MRT OR CT OR Ultraschall OR \"interventionelle Radiologie\"\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmRPTmEyeUNjcU11NlBsNTNIOHhTVFBuaTNfcTBMcl9qUkZLZVowSlBheEdkbEpNZ0R4Y3pWTHV6cG1hSnp3QU9BY3lfNjVWRXFpLWpnZFRwSWluV2t3djRmX2ZmZEl5cjFRUGNSTmk1amRmN0w1T18zQzBhdHpTTG1uMXFNa1Z3d2N0QVd4V09qQXBfWm1kbWpXT1luTUFsT052N2Y3QUtYUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-01T09:12:19+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -2329,6 +2359,16 @@
       "type": "News"
     },
     {
+      "title": "Hausmittel gegen Übelkeit: Tipps & Maßnahmen - DAK-Gesundheit",
+      "summary_de": "Hausmittel gegen Übelkeit: Tipps & Maßnahmen &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdS1ScGtXZEZkYzkyeVZPM3pfSzdneGpkZVZHbzVqckNJb2V1TW56TVF5ZkxDZjNrOElCZG0yWmw0b3lIWk1zXzBQbm05VEd2ZHlzbWV4a09zLUJBQ1pJYlgyQUNac0NkUXlLS0p4SVFMVVZnTjdqeWgzbGpWNVItTWRBSVJJeXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-09-25T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Once‐ or twice‐daily thoracic radiation in limited‐stage small‐cell lung cancer treated with concurrent chemoradiotherapy",
       "summary_de": "Once‐ or twice‐daily thoracic radiation in limited‐stage small‐cell lung cancer treated with concurrent chemoradiotherapy",
       "source_name": "Cochrane Library RSS feed.",
@@ -2475,6 +2515,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQkNCM01NRWZMdWRxYTlybXMxY2hQXzdaR0dsbDU3YTNSal9sNWRqaHlIM18tRGJuY014NVI4Q1hvd2hDcUJHbVRxYnZ6a0F5RG4xS0ZPM2pZbGJwcVpidl9xeTFJaE5LcjBtLU1zVVhncUxMUGt2WF9YdVpoSmlJSUNmd3BIa1I3bEF0X3d6R2tLa0tKRlpIdks2Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-09-18T09:56:27+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Neuer Meilenstein für die Radiologie am Allgemeinen Krankenhaus Celle - celleheute.de",
+      "summary_de": "Neuer Meilenstein für die Radiologie am Allgemeinen Krankenhaus Celle &nbsp;&nbsp; celleheute.de",
+      "source_name": "\"radiologie OR radiolog* OR \"Bildgebung\" OR MRT OR CT OR Ultraschall OR \"interventionelle Radiologie\"\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPelk5S0x4cGtWbTI1VVFpYXpGRWl2ZURmbG1OYnVjM21tMTVGVkt6UHRxZXNQQkt4MHo1cTJYRkZkTlJOWHpKMWE5eUhMNEJjVGZQUkdpSHlEMHM1Z1J5QVhNX2FkTnU2aEc4b2VPdWtWaFEzWXhaR2U3bWFxZ3VOZFRIQzNGY29UWkExeGRqaWZjSlNZcnBDMDUxYWJrZWtEVjN4d3NRZnI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-09-18T07:00:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
