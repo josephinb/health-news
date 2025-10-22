@@ -6,7 +6,7 @@ import requests
 from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode
 
 NOW = datetime.now(timezone.utc)
-WINDOW_DAYS = 14
+WINDOW_DAYS = 30
 CUTOFF = NOW - timedelta(days=WINDOW_DAYS)
 
 # Schlagwort-Heuristiken
