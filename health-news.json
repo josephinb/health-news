@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-22T09:40:30.990987+00:00",
+  "generated_at": "2025-10-22T09:41:43.465076+00:00",
   "window_days": 14,
   "count": 175,
   "items": [
@@ -439,7 +439,7 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/verhandlungen-ab-835-euro-skonti-frei-159764/",
       "published_at": "2025-10-20T15:28:08+00:00",
-      "category": "Gesetz",
+      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -509,7 +509,7 @@
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/gesetz-weiterentwicklung-apothekenversorgung-rabattsystematik.html",
       "published_at": "2025-10-20T12:25:05+00:00",
-      "category": "Gesetz",
+      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -660,6 +660,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxONGtxY0lIR0MtTmJzOUJFdFItTTJOcW0zNGtBcnI1ZXk0TlgzYWd5YnBXREw4cTlwTzV6TWdPUy1laG9ha0F2b29jS0RYaFRRdUpheTdfazlpZm1XS19hTHBnOTFiN1BTdWxwaC1fMHZlMHJoWVlsV0V5NjNRSUcyNnJlZ05kZ0lQc1BEb0FkMlRUTk9QTmtXWFVodk5laGNIT1JvSWFqM3hhZzB2Q21zS0hJM2dlRi1nQk1Ha2dYWElCRHg0ZnRQWjRod1d1bWNhRTRjVFJxaFRzd1pLVGFpSEtFRXRiOHlVc0RoV1J3bENwRHlTWC1mOW9EdXlDcVAyc1JrQl93X0ZiUTNhbjF2ZHZJSmF4d3ExNlV6QmNSY2tLNGJnN1R2eVhQTks?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-18T17:43:44+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheitspolitik: Hausärzteverband kritisiert geplante Apothekenreform - DIE ZEIT",
+      "summary_de": "Gesundheitspolitik: Hausärzteverband kritisiert geplante Apothekenreform &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOGtlYW96ZXpObFFpZG9UdUhTcENWVEo5WUx0dnRWbU1XTzlueDB6NWhrMGs5ak4xekJaMy1TNzJYUktVWGtld1hhY3dYcFdNWFBWVldUbm9fQlgtYmh6dVF2dTBCd3lNdmp4TU0tanlPcGpOVkdobVVEWXNYeGRZdTAwV2V2bzcxdG9YNWI5NW84R2JodjdjTWdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-18T11:15:23+00:00",
+      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -879,8 +889,10 @@
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/zukunftsforum-5-jahre-diga-versorgung-gesundheitskompetenz.html",
       "published_at": "2025-10-16T13:04:31+00:00",
-      "category": "Versorgung",
-      "tags": [],
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung"
+      ],
       "type": "News"
     },
     {
@@ -919,8 +931,11 @@
       "source_name": "GKV-SV Presseinformationen",
       "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2135593.jsp",
       "published_at": "2025-10-16T10:53:10+00:00",
-      "category": "Versorgung",
-      "tags": [],
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -1059,7 +1074,7 @@
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/gkv-schaetzerkreis-prognose-2025-2026-zusatzbeitrag.html",
       "published_at": "2025-10-15T15:47:42+00:00",
-      "category": "Wirtschaft",
+      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -1069,7 +1084,7 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcFYwY2Vaejh4SXo1NzNpUS11ZF81UDB6dEVhOXIzRFp2bDZMX2dKcVZiUG5fX050MXZodmh6UFk0UnR5VURHbktyWUE3anhTTXVXQWlUbDExa2RkRnhhY3hDQm5jSmdLbFUxdzNST3ZCWlM2S2xpaUlQdFFGUUZiSEJPS3otTVZQcnkybzZtakVQdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-15T14:31:51+00:00",
-      "category": "News",
+      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -1109,8 +1124,10 @@
       "source_name": "GKV-SV Presseinformationen",
       "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2135104.jsp",
       "published_at": "2025-10-15T12:43:03+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -1120,16 +1137,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbTZhTEh2MlVXbmV5aU1tZ0REODJwSDZZT3ZmcVdLdXBhN0VjdnFqU0ViQlF4UFFLa0owdUl0SlJWM05ESXpkN1lOUWx3TjA5X1Jmdm12ZmI4Wms4b1dIaVdnODdKUFJidGV3aTlHejJDZ0dOc0lyQ19OVjhZSEZYZ1ZYcEJhYVRjeC1mYWpGTnVFLTR1TzFnMGJmcjRLOEpRWGtSTWhWYWtmMFVtZjJhX29ZYVBKYllrRUl0dTNGTFpkTGdVUC02NzlZaktnd21sWHhBeEdkYU5sOVN5M0U0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-15T12:05:56+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit: Kommission: EU plant kein Verbot von Filterzigaretten - DIE ZEIT",
-      "summary_de": "Gesundheit: Kommission: EU plant kein Verbot von Filterzigaretten &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNEo0amZ3TWxsTGZOUzBfczAzY3BWbXJsc21wcVZScl9iMU9vbXRsUkYtQ25ab0N0YVhuZ1lrTkF6RGNoSmJFa2JyN2xJTGRjSlB0cVRfVVF3d216QjJuSnlrUW1iSFhrSTV3VnNQay13TWdNVWhuSE94VXZYWmd5anNYYzNCeDZaY0R3RDVSRUZQdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-15T11:52:28+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -1269,8 +1276,10 @@
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/zukunftspakt-pflege-spv-pflegeversicherung.html",
       "published_at": "2025-10-14T11:56:55+00:00",
-      "category": "Versorgung",
-      "tags": [],
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung"
+      ],
       "type": "News"
     },
     {
@@ -1299,8 +1308,10 @@
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/kleines-sparpaket-gkv.html",
       "published_at": "2025-10-14T06:57:09+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -1409,8 +1420,10 @@
       "source_name": "GKV-SV Presseinformationen",
       "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2132224.jsp",
       "published_at": "2025-10-09T10:39:07+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -1419,7 +1432,7 @@
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/mehrwertsteuer-arzneimittel-steueraenderungsgesetz.html",
       "published_at": "2025-10-09T09:50:02+00:00",
-      "category": "Gesetz",
+      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
