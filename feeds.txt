@@ -23,7 +23,6 @@ https://www.hra.nhs.uk/about-us/news-updates/rss/
 https://www.nihr.ac.uk/news/rss.xml
 https://www.pei.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/pei-aktuell.xml
 https://www.bfarm.de/SharedDocs/RSS/RSS_Feeds/DE/RSS-Meldungen/RSS-Meldungen-Startseite.xml
-
 https://news.google.com/rss/search?q=site:tk.de&hl=de&gl=DE&ceid=DE:de
 https://news.google.com/rss/search?q=site:barmer.de&hl=de&gl=DE&ceid=DE:de
 https://news.google.com/rss/search?q=site:dak.de&hl=de&gl=DE&ceid=DE:de
@@ -31,42 +30,27 @@ https://news.google.com/rss/search?q=site:ikk-classic.de&hl=de&gl=DE&ceid=DE:de
 https://news.google.com/rss/search?q=site:hkk.de&hl=de&gl=DE&ceid=DE:de
 https://news.google.com/rss/search?q=site:hek.de&hl=de&gl=DE&ceid=DE:de
 https://news.google.com/rss/search?q=site:kkh.de&hl=de&gl=DE&ceid=DE:de
-
 https://news.google.com/rss/search?q=site:tagesschau.de+gesundheit&hl=de&gl=DE&ceid=DE:de
 https://news.google.com/rss/search?q=site:spiegel.de+gesundheit&hl=de&gl=DE&ceid=DE:de
 https://news.google.com/rss/search?q=site:zeit.de+gesundheit&hl=de&gl=DE&ceid=DE:de
 https://news.google.com/rss/search?q=site:faz.net+medizin&hl=de&gl=DE&ceid=DE:de
 https://news.google.com/rss/search?q=site:sueddeutsche.de+gesundheit&hl=de&gl=DE&ceid=DE:de
 https://news.google.com/rss/search?q=site:handelsblatt.com+gesundheitswirtschaft&hl=de&gl=DE&ceid=DE:de
-
 https://news.google.com/rss/search?q=site:zeit.de+Forschung+Gesundheit&hl=de&gl=DE&ceid=DE:de
 https://news.google.com/rss/search?q=site:zeit.de+%22Gesundheitspolitik%22&hl=de&gl=DE&ceid=DE:de
 https://news.google.com/rss/search?q=site:zeit.de+%22gesetzliche+Krankenversicherung%22&hl=de&gl=DE&ceid=DE:de
-
 https://news.google.com/rss/search?q=site:tagesschau.de+%22Gesundheitspolitik%22&hl=de&gl=DE&ceid=DE:de
 https://news.google.com/rss/search?q=site:spiegel.de+%22Gesundheitspolitik%22&hl=de&gl=DE&ceid=DE:de
 https://news.google.com/rss/search?q=site:handelsblatt.com+%22Gesundheitspolitik%22+ODER+Gesundheitswirtschaft&hl=de&gl=DE&ceid=DE:de
-
-# Radiologie-spezifisch
-http://cdn.auntminnie.com/rss/rss.aspx            # AuntMinnie (global) :contentReference[oaicite:0]{index=0}
-https://www.diagnosticimaging.com/rss             # DiagnosticImaging RSS :contentReference[oaicite:1]{index=1}
-https://medicalxpress.com/rss-feed/medicalxpress/radiology-imaging-news/   # MedicalXpress Radiology & Imaging :contentReference[oaicite:2]{index=2}
-
-# Radiologie über Google News (DE)
-https://news.google.com/rss/search?q=radiologie+OR+%22bildgebung%22+OR+MRT+OR+CT&hl=de&gl=DE&ceid=DE:de
-https://news.google.com/rss/search?q=site:aerzteblatt.de+radiologie+OR+MRT+OR+CT&hl=de&gl=DE&ceid=DE:de
-https://news.google.com/rss/search?q=site:pharmazeutische-zeitung.de+radiologie+OR+MRT+OR+CT&hl=de&gl=DE&ceid=DE:de
-
-# Optional Europa (falls gewünscht)
-https://news.google.com/rss/search?q=site:myesr.org+OR+site:app.myesr.org+Radiology&hl=en&gl=DE&ceid=DE:en  :contentReference[oaicite:3]{index=3}
-
-https://news.google.com/rss/search?q=site:healthcare-in-europe.com+radiolog*+OR+MRT+OR+CT&hl=de&gl=DE&ceid=DE:de
-https://news.google.com/rss/search?q=site:hl-live.de+radiolog*+OR+MRT+OR+CT&hl=de&gl=DE&ceid=DE:de
-https://news.google.com/rss/search?q=site:pressebox.de+radiolog*+OR+MRT+OR+CT&hl=de&gl=DE&ceid=DE:de
-https://news.google.com/rss/search?q=site:johanniter.de+radiolog*+OR+MRT+OR+CT&hl=de&gl=DE&ceid=DE:de
-https://news.google.com/rss/search?q=site:rp-online.de+radiolog*+OR+MRT+OR+CT&hl=de&gl=DE&ceid=DE:de
-https://news.google.com/rss/search?q=site:kvberlin.de+radiolog*+OR+MRT+OR+CT&hl=de&gl=DE&ceid=DE:de
-
-# Allgemein Radiologie (breit, aber durch Server-Gate sauber gefiltert)
-https://news.google.com/rss/search?q=radiologie+OR+radiolog*+OR+%22Bildgebung%22+OR+MRT+OR+CT+OR+Ultraschall+OR+%22interventionelle+Radiologie%22&hl=de&gl=DE&ceid=DE:de
-
+http://cdn.auntminnie.com/rss/rss.aspx
+https://www.diagnosticimaging.com/rss
+https://medicalxpress.com/rss-feed/medicalxpress/radiology-imaging-news/
+https://news.google.com/rss/search?q=radiologie&hl=de&gl=DE&ceid=DE:de
+https://news.google.com/rss/search?q=site:aerzteblatt.de+radiologie&hl=de&gl=DE&ceid=DE:de
+https://news.google.com/rss/search?q=site:pharmazeutische-zeitung.de+radiologie&hl=de&gl=DE&ceid=DE:de
+https://news.google.com/rss/search?q=site:healthcare-in-europe.com+radiologie&hl=de&gl=DE&ceid=DE:de
+https://news.google.com/rss/search?q=site:hl-live.de+radiologie&hl=de&gl=DE&ceid=DE:de
+https://news.google.com/rss/search?q=site:pressebox.de+radiologie&hl=de&gl=DE&ceid=DE:de
+https://news.google.com/rss/search?q=site:johanniter.de+radiologie&hl=de&gl=DE&ceid=DE:de
+https://news.google.com/rss/search?q=site:rp-online.de+radiologie&hl=de&gl=DE&ceid=DE:de
+https://news.google.com/rss/search?q=site:kvberlin.de+radiologie&hl=de&gl=DE&ceid=DE:de
