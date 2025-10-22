@@ -1,39 +1,15 @@
 # build_feed.py
 import json, re, os
 from datetime import datetime, timedelta, timezone
+import feedparser
 import requests
 from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode
 
-def norm_host(h: str) -> str:
-    h = (h or "").lower()
-    return h[4:] if h.startswith("www.") else h
-
-def resolve_google(url: str) -> str:
-    if not url or "news.google.com" not in url:
-        return url
-    try:
-        r = requests.get(url, allow_redirects=True, timeout=8,
-                         headers={"User-Agent": "Mozilla/5.0"})
-        return r.url or url
-    except Exception:
-        return url
-
-def strip_tracking(url: str) -> str:
-    try:
-        p = urlparse(url)
-        q = [(k, v) for k, v in parse_qsl(p.query, keep_blank_values=True)
-             if not k.lower().startswith("utm_") and k.lower() not in {"fbclid","gclid","mc_cid","mc_eid"}]
-        return urlunparse((p.scheme, p.netloc, p.path, p.params, urlencode(q), ""))  # Fragment raus
-    except Exception:
-        return url
-
-import feedparser
-from urllib.parse import urlparse
-
 NOW = datetime.now(timezone.utc)
-WINDOW_DAYS = 30
+WINDOW_DAYS = 14
 CUTOFF = NOW - timedelta(days=WINDOW_DAYS)
 
+# Schlagwort-Heuristiken
 KW = {
     "Studie": [
         r"\b(randomisiert|kohorte|studie|review|metaanalyse|preprint|placebo)\b",
@@ -56,6 +32,7 @@ KW = {
     ],
 }
 
+# Domain-Hinweise (Suffix-Matching inkl. Subdomains)
 DOMAIN_HINTS = {
     # DE
     "medrxiv.org": ["Studie"],
@@ -115,32 +92,51 @@ def looks_generic(title: str) -> bool:
     return any(pat.match(t) for pat in GENERIC_TITLE_PATTERNS)
 
 def better_title(host: str, title: str, summary: str, source_name: str) -> str:
-    """
-    Ersetzt generische Titel (z. B. Eurostat 'Dataset: updated data') durch
-    eine sinnvollere Headline aus der Summary. Fallback mit Source-Präfix.
-    """
+    # Ersetzt generische Titel (z. B. Eurostat 'Dataset: updated data')
     if not looks_generic(title):
         return title
-    # bevorzugt ersten Satz aus der Summary
     s = (summary or "").strip()
     if s:
         first_sentence = re.split(r"(?<=[.!?])\s", s, maxsplit=1)[0]
         if len(first_sentence) >= 20:
             return first_sentence[:140]
-    # letzter Fallback
-    host_short = host.split(":")[0]
+    host_short = (host or "").split(":")[0]
     return f"{source_name or host_short}: Update"
+
+def resolve_google(url: str) -> str:
+    # Löst news.google.com-Links zum Publisher auf
+    if not url or "news.google.com" not in url:
+        return url
+    try:
+        r = requests.get(url, allow_redirects=True, timeout=8,
+                         headers={"User-Agent": "Mozilla/5.0"})
+        return r.url or url
+    except Exception:
+        return url
+
+def strip_tracking(url: str) -> str:
+    # Entfernt UTM/Tracking-Parameter
+    try:
+        p = urlparse(url)
+        q = [(k, v) for k, v in parse_qsl(p.query, keep_blank_values=True)
+             if not k.lower().startswith("utm_") and k.lower() not in {"fbclid","gclid","mc_cid","mc_eid"}]
+        return urlunparse((p.scheme, p.netloc, p.path, p.params, urlencode(q), ""))  # ohne Fragment
+    except Exception:
+        return url
 
 def classify(title, summary, link):
     txt = f"{title} {summary}".lower()
     host = norm_host(urlparse(link or "").hostname)
     cats = set()
+    # Domain-Suffix-Hinweise
     for suf, vals in DOMAIN_HINTS.items():
         if host and host.endswith(suf):
             cats.update(vals)
+    # Keyword-Hits
     for cat, patterns in KW.items():
         if any(re.search(p, txt, flags=re.I) for p in patterns):
             cats.add(cat)
+    # Fallback
     if not cats and any(k in (host or "") for k in [
         "aerzteblatt.de","pharmazeutische-zeitung.de","vdek.com",
         "gkv-spitzenverband.de","kbs.de"
@@ -169,13 +165,18 @@ for url in feeds:
     for e in d.entries:
         dt = parse_time(e)
         if not dt or dt < CUTOFF: continue
+
         raw_title = clean(e.get("title",""))[:240]
-        link = e.get("link","")
+        raw_link = e.get("link","")
+        # Google-News → Original, Tracking entfernen
+        link = strip_tracking(resolve_google(raw_link))
+
         summary_raw = clean(e.get("summary","") or e.get("description","") or raw_title)
         host = norm_host(urlparse(link or "").hostname or "")
         title = better_title(host, raw_title, summary_raw, source_name)[:240]
         summary = summarize(summary_raw, 60)
         category, tags = classify(title, summary, link)
+
         items.append({
             "title": title,
             "summary_de": summary,
@@ -187,8 +188,10 @@ for url in feeds:
             "type": "Studie" if category=="Studie" else "News"
         })
 
+# Sortieren + Duplikate entfernen
 items = dedupe(sorted(items, key=lambda x: x["published_at"], reverse=True))
 
+# JSON schreiben
 os.makedirs("public", exist_ok=True)
 with open("public/health-news.json", "w", encoding="utf-8") as f:
     json.dump({
