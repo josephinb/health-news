@@ -6,10 +6,10 @@ import requests
 from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode
 
 NOW = datetime.now(timezone.utc)
-WINDOW_DAYS = 30
+WINDOW_DAYS = 14
 CUTOFF = NOW - timedelta(days=WINDOW_DAYS)
 
-# Schlagwort-Heuristiken
+# ---------- Heuristiken ----------
 KW = {
     "Studie": [
         r"\b(randomisiert|kohorte|studie|review|metaanalyse|preprint|placebo)\b",
@@ -27,12 +27,26 @@ KW = {
         r"\b(versorgung|qualitätsbericht|qualitätsindikator|leitlinie|notfall|intensiv|pflege)\b",
         r"\b(krankenhausstruktur|ambulantisierung|wartezeit|kapazität|betten)\b",
     ],
-    "Europa": [
-        r"\b(europa|eu|european|europaweit|eu-weit)\b"
-    ],
+    "Europa": [r"\b(europa|eu|european|europaweit|eu-weit)\b"],
 }
 
-# Domain-Hinweise (Suffix-Matching inkl. Subdomains)
+# Health-Positivliste (muss matchen für Google-News & General-Media)
+HEALTH_POS = re.compile(
+    r"\b("
+    r"gesundheit|medizin|krankheit|patient|arzt|ärzt|pflege|krankenhaus|klinik|"
+    r"apotheke|pharma|arznei|impf|therap|diagnos|prävent|g-?ba|iqwig|pe[ij]|bfarm|"
+    r"gkv|krankenkasse|versorg|leitlinie|infektion|epidemi|public health"
+    r")\b",
+    re.I
+)
+
+# Allgemeine Medien-Domains: nur behalten, wenn HEALTH_POS greift
+GENERAL_MEDIA = {
+    "zeit.de", "spiegel.de", "tagesschau.de", "faz.net", "sueddeutsche.de",
+    "handelsblatt.com"
+}
+
+# Domain-Hinweise (Suffix-Matching)
 DOMAIN_HINTS = {
     # DE
     "medrxiv.org": ["Studie"],
@@ -45,10 +59,8 @@ DOMAIN_HINTS = {
     "divi.de": ["Versorgung"],
     # Europa
     "ema.europa.eu": ["Europa"],
-    "ecdc.europa.eu": ["Europa"],
     "efsa.europa.eu": ["Europa"],
     "edqm.eu": ["Europa"],
-    "ec.europa.eu": ["Europa"],          # Eurostat
     "health.ec.europa.eu": ["Europa"],
     # WHO + UK
     "who.int": ["Europa"],
@@ -64,6 +76,7 @@ GENERIC_TITLE_PATTERNS = [
     re.compile(r"^\s*news\s*$", re.I),
 ]
 
+# ---------- Utils ----------
 def norm_host(h: str) -> str:
     h = (h or "").lower()
     return h[4:] if h.startswith("www.") else h
@@ -74,131 +87,4 @@ def clean(text: str) -> str:
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
-def summarize(txt: str, max_words=60) -> str:
-    w = txt.split()
-    return txt if len(w) <= max_words else " ".join(w[:max_words]) + " …"
-
-def parse_time(e):
-    for k in ["published_parsed", "updated_parsed"]:
-        t = getattr(e, k, None)
-        if t: return datetime(*t[:6], tzinfo=timezone.utc)
-    return None
-
-def to_iso(dt): return dt.astimezone(timezone.utc).isoformat()
-
-def looks_generic(title: str) -> bool:
-    t = (title or "").strip()
-    if not t: return True
-    return any(pat.match(t) for pat in GENERIC_TITLE_PATTERNS)
-
-def better_title(host: str, title: str, summary: str, source_name: str) -> str:
-    # Ersetzt generische Titel (z. B. Eurostat 'Dataset: updated data')
-    if not looks_generic(title):
-        return title
-    s = (summary or "").strip()
-    if s:
-        first_sentence = re.split(r"(?<=[.!?])\s", s, maxsplit=1)[0]
-        if len(first_sentence) >= 20:
-            return first_sentence[:140]
-    host_short = (host or "").split(":")[0]
-    return f"{source_name or host_short}: Update"
-
-def resolve_google(url: str) -> str:
-    # Löst news.google.com-Links zum Publisher auf
-    if not url or "news.google.com" not in url:
-        return url
-    try:
-        r = requests.get(url, allow_redirects=True, timeout=8,
-                         headers={"User-Agent": "Mozilla/5.0"})
-        return r.url or url
-    except Exception:
-        return url
-
-def strip_tracking(url: str) -> str:
-    # Entfernt UTM/Tracking-Parameter
-    try:
-        p = urlparse(url)
-        q = [(k, v) for k, v in parse_qsl(p.query, keep_blank_values=True)
-             if not k.lower().startswith("utm_") and k.lower() not in {"fbclid","gclid","mc_cid","mc_eid"}]
-        return urlunparse((p.scheme, p.netloc, p.path, p.params, urlencode(q), ""))  # ohne Fragment
-    except Exception:
-        return url
-
-def classify(title, summary, link):
-    txt = f"{title} {summary}".lower()
-    host = norm_host(urlparse(link or "").hostname)
-    cats = set()
-    # Domain-Suffix-Hinweise
-    for suf, vals in DOMAIN_HINTS.items():
-        if host and host.endswith(suf):
-            cats.update(vals)
-    # Keyword-Hits
-    for cat, patterns in KW.items():
-        if any(re.search(p, txt, flags=re.I) for p in patterns):
-            cats.add(cat)
-    # Fallback
-    if not cats and any(k in (host or "") for k in [
-        "aerzteblatt.de","pharmazeutische-zeitung.de","vdek.com",
-        "gkv-spitzenverband.de","kbs.de"
-    ]):
-        cats.add("Wirtschaft")
-    order = ["Gesetz","Studie","Versorgung","Wirtschaft","Europa"]
-    main = next((c for c in order if c in cats), "News")
-    tags = sorted(cats - {main})
-    return main, tags
-
-def dedupe(items):
-    seen, out = set(), []
-    for it in items:
-        key = (it["source_url"], it["title"].lower())
-        if key in seen: continue
-        seen.add(key); out.append(it)
-    return out
-
-# Feeds laden
-feeds = [l.strip() for l in open("feeds.txt", encoding="utf-8") if l.strip() and not l.startswith("#")]
-items = []
-
-for url in feeds:
-    d = feedparser.parse(url)
-    source_name = d.feed.get("title", url)
-    for e in d.entries:
-        dt = parse_time(e)
-        if not dt or dt < CUTOFF: continue
-
-        raw_title = clean(e.get("title",""))[:240]
-        raw_link = e.get("link","")
-        # Google-News → Original, Tracking entfernen
-        link = strip_tracking(resolve_google(raw_link))
-
-        summary_raw = clean(e.get("summary","") or e.get("description","") or raw_title)
-        host = norm_host(urlparse(link or "").hostname or "")
-        title = better_title(host, raw_title, summary_raw, source_name)[:240]
-        summary = summarize(summary_raw, 60)
-        category, tags = classify(title, summary, link)
-
-        items.append({
-            "title": title,
-            "summary_de": summary,
-            "source_name": source_name,
-            "source_url": link,
-            "published_at": to_iso(dt),
-            "category": category,
-            "tags": tags,
-            "type": "Studie" if category=="Studie" else "News"
-        })
-
-# Sortieren + Duplikate entfernen
-items = dedupe(sorted(items, key=lambda x: x["published_at"], reverse=True))
-
-# JSON schreiben
-os.makedirs("public", exist_ok=True)
-with open("public/health-news.json", "w", encoding="utf-8") as f:
-    json.dump({
-        "generated_at": to_iso(NOW),
-        "window_days": WINDOW_DAYS,
-        "count": len(items),
-        "items": items
-    }, f, ensure_ascii=False, indent=2)
-
-print(f"Wrote {len(items)} items in last {WINDOW_DAYS} days")
+def summarize(txt: str, m
