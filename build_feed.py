@@ -5,10 +5,10 @@ import feedparser
 from urllib.parse import urlparse
 
 NOW = datetime.now(timezone.utc)
-WINDOW_DAYS = 14
+WINDOW_DAYS = 30
 CUTOFF = NOW - timedelta(days=WINDOW_DAYS)
 
-# Schlüsselwörter für grobe Klassifikation
+# Schlagwort-Heuristiken
 KW = {
     "Studie": [
         r"\b(randomisiert|kohorte|studie|review|metaanalyse|preprint|placebo)\b",
@@ -31,30 +31,35 @@ KW = {
     ],
 }
 
-# Domain-Hinweise (überstimmen oft die KW)
+# Domain-Hinweise (Suffix-Matching, inkl. Subdomains)
 DOMAIN_HINTS = {
     # DE
-    "medrxiv.org": ["Studie"], "pubmed.ncbi.nlm.nih.gov": ["Studie"],
-    "g-ba.de": ["Gesetz","Versorgung"],
+    "medrxiv.org": ["Studie"],
+    "pubmed.ncbi.nlm.nih.gov": ["Studie"],
+    "g-ba.de": ["Gesetz", "Versorgung"],
     "bundesgesundheitsministerium.de": ["Gesetz"],
     "anwendungen.pharmnet-bund.de": ["Wirtschaft"],
     "destatis.de": ["Wirtschaft"],
     "iqtig.org": ["Versorgung"],
     "divi.de": ["Versorgung"],
-    # EU/Europa
+    # Europa
     "ema.europa.eu": ["Europa"],
     "ecdc.europa.eu": ["Europa"],
     "efsa.europa.eu": ["Europa"],
     "edqm.eu": ["Europa"],
     "ec.europa.eu": ["Europa"],
     "health.ec.europa.eu": ["Europa"],
-    # WHO + UK-Öffentlich
-    "who.int": ["Europa"],  # global, aber für EU-Relevanz ok
+    # WHO + UK
+    "who.int": ["Europa"],
     "digital.nhs.uk": ["Europa"],
     "gov.uk": ["Europa"],
     "hra.nhs.uk": ["Europa"],
     "nihr.ac.uk": ["Europa"],
 }
+
+def norm_host(h: str) -> str:
+    h = (h or "").lower()
+    return h[4:] if h.startswith("www.") else h
 
 def clean(text):
     if not text: return ""
@@ -76,13 +81,18 @@ def to_iso(dt): return dt.astimezone(timezone.utc).isoformat()
 
 def classify(title, summary, link):
     txt = f"{title} {summary}".lower()
-    host = urlparse(link or "").hostname or ""
-    cats = set(DOMAIN_HINTS.get(host, []))
+    host = norm_host(urlparse(link or "").hostname)
+    cats = set()
+    # Domain-Suffix-Hinweise
+    for suf, vals in DOMAIN_HINTS.items():
+        if host and host.endswith(suf):
+            cats.update(vals)
+    # Keywords
     for cat, patterns in KW.items():
         if any(re.search(p, txt, flags=re.I) for p in patterns):
             cats.add(cat)
-    # Fallback Heuristik
-    if not cats and any(k in host for k in [
+    # Fallback
+    if not cats and any(k in (host or "") for k in [
         "aerzteblatt.de","pharmazeutische-zeitung.de","vdek.com",
         "gkv-spitzenverband.de","kbs.de"
     ]):
@@ -126,10 +136,10 @@ for url in feeds:
             "type": "Studie" if category=="Studie" else "News"
         })
 
-# Sortieren und Duplikate raus
+# Sortieren + Duplikate entfernen
 items = dedupe(sorted(items, key=lambda x: x["published_at"], reverse=True))
 
-# Schreiben
+# JSON schreiben
 os.makedirs("public", exist_ok=True)
 with open("public/health-news.json", "w", encoding="utf-8") as f:
     json.dump({
