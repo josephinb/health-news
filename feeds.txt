@@ -47,3 +47,15 @@ https://news.google.com/rss/search?q=site:tagesschau.de+%22Gesundheitspolitik%22
 https://news.google.com/rss/search?q=site:spiegel.de+%22Gesundheitspolitik%22&hl=de&gl=DE&ceid=DE:de
 https://news.google.com/rss/search?q=site:handelsblatt.com+%22Gesundheitspolitik%22+ODER+Gesundheitswirtschaft&hl=de&gl=DE&ceid=DE:de
 
+# Radiologie-spezifisch
+http://cdn.auntminnie.com/rss/rss.aspx            # AuntMinnie (global) :contentReference[oaicite:0]{index=0}
+https://www.diagnosticimaging.com/rss             # DiagnosticImaging RSS :contentReference[oaicite:1]{index=1}
+https://medicalxpress.com/rss-feed/medicalxpress/radiology-imaging-news/   # MedicalXpress Radiology & Imaging :contentReference[oaicite:2]{index=2}
+
+# Radiologie über Google News (DE)
+https://news.google.com/rss/search?q=radiologie+OR+%22bildgebung%22+OR+MRT+OR+CT&hl=de&gl=DE&ceid=DE:de
+https://news.google.com/rss/search?q=site:aerzteblatt.de+radiologie+OR+MRT+OR+CT&hl=de&gl=DE&ceid=DE:de
+https://news.google.com/rss/search?q=site:pharmazeutische-zeitung.de+radiologie+OR+MRT+OR+CT&hl=de&gl=DE&ceid=DE:de
+
+# Optional Europa (falls gewünscht)
+https://news.google.com/rss/search?q=site:myesr.org+OR+site:app.myesr.org+Radiology&hl=en&gl=DE&ceid=DE:en  :contentReference[oaicite:3]{index=3}
