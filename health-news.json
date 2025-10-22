@@ -1,8 +1,28 @@
 {
-  "generated_at": "2025-10-22T09:41:43.465076+00:00",
-  "window_days": 14,
-  "count": 175,
+  "generated_at": "2025-10-22T09:57:48.197654+00:00",
+  "window_days": 42,
+  "count": 254,
   "items": [
+    {
+      "title": "CYP2D6-Mutation: Tamoxifen plus Endoxifen überzeugt in Studie",
+      "summary_de": "Eine neue Studie liefert Hinweise, dass die zus&auml;tzliche Gabe von niedrig dosiertem Endoxifen die Tamoxifen-Therapie bei Frauen verbessert, die den aktiven Metaboliten aufgrund einer CYP2D6-Mutation nur eingeschr&auml;nkt bilden k&ouml;nnen.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/tamoxifen-plus-endoxifen-ueberzeugt-in-studie-159815/",
+      "published_at": "2025-10-22T09:04:09+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Zeitumstellung: Möglichen Schlafstörungen vorbeugen",
+      "summary_de": "Die Zeitumstellung schenkt Ihnen zwar eine zus&auml;tzliche Stunde, aber auch Augenringe und M&uuml;digkeit an den Tagen danach? Eine Schlafmedizinerin nennt drei Tipps, die jetzt helfen k&ouml;nnen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/moeglichen-schlafstoerungen-vorbeugen-159812/",
+      "published_at": "2025-10-22T09:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "[MI] NHS e-Referral Service Open Data October 2019 to September 2025",
       "summary_de": "This data shows weekly data on referrals, bookings and appointment slot issues (ASIs) performed through e-RS. Appointment slot issues are where there are no slots available for booking at the time of search, and the case enters a process for the provider to resolve. These data are being made available to allow for their use in public health enabling more …",
@@ -44,6 +64,16 @@
       "type": "News"
     },
     {
+      "title": "FC CT Cartrade Lendorf: Neue Allwetterjacken für den Nachwuchs - MeinBezirk.at",
+      "summary_de": "FC CT Cartrade Lendorf: Neue Allwetterjacken für den Nachwuchs &nbsp;&nbsp; MeinBezirk.at",
+      "source_name": "\"radiologie OR \"bildgebung\" OR MRT OR CT\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQamdKNEtubzJhcTF1ai1wdGc4V1U0QnFzWWRYZkVMdTF4TXh3dUcxb05rb2I4bjZfQnBBTUNxQTh2VVRYaUd3UVAzcTdqVzdjdHAteHUyRUJCTWdYWW9NRzF6OHVpOTVDcGpQRUtYY2MtaUNtVU9FZXlsVXlpWUc4N3F6aXhNYXM5NHdOSWptWmRwaE5lMEJF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-22T07:41:48+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Wandelanleihe: Doc Morris feilt an Finanzstruktur",
       "summary_de": "Doc Morris hat eine neue Wandelanleihe &uuml;ber knapp 50 Millionen Franken platziert. Mit dem frischen Kapital will das Unternehmen eine &auml;ltere Anleihe vorzeitig zur&uuml;ckkaufen &ndash; und damit seine Finanzstruktur verbessern.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -64,20 +94,20 @@
       "type": "News"
     },
     {
-      "title": "Ernährung und Gene: Essen steuert Denken und Fühlen",
-      "summary_de": "Was wir essen, steuert die Leistung unseres Gehirns. Bestimmte N&auml;hrstoffe steigern Konzentration, Ged&auml;chtnis und geistige Fitness. Wer seine Ern&auml;hrung gezielt ausw&auml;hlt, kann sein Risiko f&uuml;r kognitive Einschr&auml;nkungen senken, schreibt die Neurowissenschaftlerin&nbsp;Dr. Manuela Macedonia in ihrem Kochbuch.&nbsp;",
+      "title": "Pharmaziestudentinnen: TrainingWeekend »Female Leadership« geht in die zweite Runde",
+      "summary_de": "&raquo;Ich mach mir die Welt, wie sie mir gef&auml;llt&laquo; &ndash; unter diesem Pippi-Langstrumpf-Motto stand das zweite &raquo;Female Leadership TrainingWeekend&laquo;, das vom 2. bis zum 5. Oktober in Marburg stattfand.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/essen-steuert-denken-und-fuehlen-159645/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/trainingweekend-female-leadership-geht-in-die-zweite-runde-159600/",
       "published_at": "2025-10-22T06:00:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Pharmaziestudentinnen: TrainingWeekend »Female Leadership« geht in die zweite Runde",
-      "summary_de": "&raquo;Ich mach mir die Welt, wie sie mir gef&auml;llt&laquo; &ndash; unter diesem Pippi-Langstrumpf-Motto stand das zweite &raquo;Female Leadership TrainingWeekend&laquo;, das vom 2. bis zum 5. Oktober in Marburg stattfand.",
+      "title": "Ernährung und Gene: Essen steuert Denken und Fühlen",
+      "summary_de": "Was wir essen, steuert die Leistung unseres Gehirns. Bestimmte N&auml;hrstoffe steigern Konzentration, Ged&auml;chtnis und geistige Fitness. Wer seine Ern&auml;hrung gezielt ausw&auml;hlt, kann sein Risiko f&uuml;r kognitive Einschr&auml;nkungen senken, schreibt die Neurowissenschaftlerin&nbsp;Dr. Manuela Macedonia in ihrem Kochbuch.&nbsp;",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/trainingweekend-female-leadership-geht-in-die-zweite-runde-159600/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/essen-steuert-denken-und-fuehlen-159645/",
       "published_at": "2025-10-22T06:00:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
@@ -119,9 +149,9 @@
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003519.pub5",
       "published_at": "2025-10-22T00:00:00+00:00",
-      "category": "News",
+      "category": "Studie",
       "tags": [],
-      "type": "News"
+      "type": "Studie"
     },
     {
       "title": "Klinik für Kardiologie - HEK",
@@ -150,6 +180,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSUN3b0xMaWR1dk1OYl9NR3dkVWxlai1VME4xR3BmdzRkUXcwM1FvdmdBUXdyVEpiZXkzeU9wWlZIWDFLTFFpZkxwNjQ1ZkJRVTdZV0FWbVlCZzFOSTE2MHVILVpBZkszZDNkR2k5RzgxVHRmamdMZUJMc2tFdmM4VmVHTXA1WmF6UDJkN1dXQmNGbFBqNFh4Vkd3aHFIYlhadzRpTE9IYVVyQXkwcEdMWUdwMGh2ZklqZ1VxVEpYNXd1UW0zRDR5Y2tLam5YSVdZOVY4aV9JSzJZX0tIaWVoLTNzeHRYZjdnRDVyWGZHaEtyNDdaWFFGNEFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-21T22:05:05+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Heilende Physik: Von CERN-Beschleunigern bis zu CT-Scans - unicaradio.it",
+      "summary_de": "Heilende Physik: Von CERN-Beschleunigern bis zu CT-Scans &nbsp;&nbsp; unicaradio.it",
+      "source_name": "\"radiologie OR \"bildgebung\" OR MRT OR CT\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3hNYmI1ZmlBa3JLWmJvZUFVZEVpd0Z1N0sya2hyaXRKZWF3LTh1S0FVWXBMREhvUkVpRWZ4RFBDVk1DdzN1dmlabFFtRURaVk4xa2Z6ZXRpakVtdlMtMGdQN3FRSGRXZWlWUHBkMjRVcnVGSFhJaHFOdDVkRmdkbWF3WkFIandKOXkxSU9JTlNGMk1NTDREU3pLdGswUDJGRHgw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-21T17:28:13+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -284,16 +324,6 @@
       "type": "News"
     },
     {
-      "title": "Medizinische Klinik III - Klinik für Kardiologie - HERZ ZENTRUM WESTFALEN - HEK",
-      "summary_de": "Medizinische Klinik III - Klinik für Kardiologie - HERZ ZENTRUM WESTFALEN &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOblNBR2lZSy1tU19Jcnpldnk3dEFJWi1CRzVPSm9QMlM2Z1B2SmlvMkFBaG1EV1pxWEhoN3FEVEhiNUwxNkpiR2ZaUkoxLV8tTy15ajNER0tMelFDUjRaUTlFaHZVdzBzTFNBYmNCTjFJYXZuOU1vSVB0Y2szdU9xLUN0cTlkbWx6OFJjMnBJRjFPZDA0S05GY01LcDVqeHd6bEhqeGcxX29IaEJDVE9BcWJTckM2b0M0OHg4ZE90U0U5YUZubDdYRURRRi1xc1VFOWxMRXZMTk1Fd2FZNXlPWmJiWDZaYnpmeEJfMlBVcDJ2eEo5TG9YMGUwcGJZVG9TYVdXZW11YlkzOHJa?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-21T10:32:53+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Vibratoren, Dildos & Co: Gesundheitsrisiko Sextoy",
       "summary_de": "Schadstoffe, Sicherheitsm&auml;ngel und neugierige Apps machen den Einsatz von Vibratoren, Dildos und Analplugs zum Teil bedenklich. Nur wenige Produkte erf&uuml;llen die Sicherheitsstandards, wie die Stiftung Warentest herausfand.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -360,6 +390,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/so-bleiben-apothekenteams-belastbar-159635/",
       "published_at": "2025-10-21T09:00:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Klinik für Pneumologie, Internistische Intensiv- und Beatmungsmedizin - HEK",
+      "summary_de": "Klinik für Pneumologie, Internistische Intensiv- und Beatmungsmedizin &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQcUlJZUtKVnROOS1OQnEtc1g0djZmNXBfeHFMdTNXNHRJN3hyYUZxd005ZHh5WHA3Y2tGY2ZPanY2TlNiYjRKMF9ReDVwM2xnY3E2MzBSSHByWXFCTW9CU0drOTU5ejlpSlAzYUE0UjZLcGtoN0lUT2ZvYXBiTG1sd29YTUR6TzRSaWt1YXJndG4wemdBVkZpdzI0RXNkU0gxUV9aMHhva01kN3IyUkN1UU9sTUpMNkhnMzFDal9neVF6TVk4T0FteFJDSVVSRElJWlhmVE83ODhMN1Q2bUhHeWFtNE5RZXowU1JaZG5sTjVuSmdaVDV2WEVFMk9DUnJXSTJPem1xRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-21T08:53:56+00:00",
+      "category": "Versorgung",
       "tags": [],
       "type": "News"
     },
@@ -514,26 +554,6 @@
       "type": "News"
     },
     {
-      "title": "Apothekenreform: Hausärzte sehen Patientensicherheit in Gefahr",
-      "summary_de": "Die &Auml;rzteschaft &uuml;bt seit Wochen scharfe Kritik an der geplanten Apothekenreform. Gegen&uuml;ber den Zeitungen der Funke Mediengruppe bezeichnete der Hauptgesch&auml;ftsf&uuml;hrer des Haus&auml;rzteverbandes,&nbsp;Markus Beier, die geplanten Befugnisse f&uuml;r Apotheker als Gefahr f&uuml;r die Patientensicherheit.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/hausaerzte-sehen-patientensicherheit-in-gefahr-159746/",
-      "published_at": "2025-10-20T12:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Wachsendes Problem : Polizei und Apotheken gegen gefälschte Rezepte",
-      "summary_de": "Gef&auml;lschte Rezepte f&uuml;r Abnehmspritzen besch&auml;ftigen immer wieder Polizei und Apotheken. Der hessische Apothekerkammerpr&auml;sident warnt vor Risiken &ndash; und erkl&auml;rt, wie er und seine Kollegen Betrugsversuche erkennen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/polizei-und-apotheken-gegen-gefaelschte-rezepte-159742/",
-      "published_at": "2025-10-20T11:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
       "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
@@ -579,9 +599,9 @@
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002042.pub6",
       "published_at": "2025-10-20T00:00:00+00:00",
-      "category": "News",
+      "category": "Studie",
       "tags": [],
-      "type": "News"
+      "type": "Studie"
     },
     {
       "title": "Abschwellende Wirkstoffe - Nasenspray-Abhängigkeit: Wie komme ich davon los? - Gesundheit - SZ.de",
@@ -639,6 +659,16 @@
       "source_name": "\"site:hek.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOTk9XSkxxMTdDY0dHMTE0MnhIRjk3ZWJmLWhJa0U2WmQ4M2JrUzF2ZVl0amlvc2pkVkxUZ1ptTUFjWjlKTUUydFlYeVdNTnVrLWNoY3hiSUpGMGlrQXNVU0JOLUIwT3dETE9ha3ZVYU5qenViZ29pbFdncU0yYUFJaGpUU3dyVzF1cHJWYXJVQ1NUR0FUV0RsazNLb0YwdkFzbFl5bjNLZmJSX2xrSHRDVmdXMTctSUk5aHAwN3JDTFpjNXB1NWhSU3JZMW8zQ3kyWnJMc2h3ODhTRmRQQjJISmlUdms2ZVl3a0tEN3BuQkhFUGdtaEdfYUFuZ29Hb0tmZlpzRTFIUUUwWE0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-18T22:54:57+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Klinik für Palliativmedizin - HEK",
+      "summary_de": "Klinik für Palliativmedizin &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaUMtUC04b21ma1EyVVNrVWFTVVVRQ2p4NEVWdl85NHUyclpWWEF3aDJRU0pTblRZY0wwTDVuaUJHQ2FqSVlxeWo0bk92d0JGTVdhUmlBbURoNGJJTkRBb2dJN0kzaFZibW50QkNzXzVFZ0RyVENIbEFnRldjcDZ1VFNiVWlCWkxxOU8tZ3ZGeUQ4T3NXZHAxOW5ZNDFGLVZWNTBsdjFnMkQ2LUo3WHdqVDREWm5nY3M?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-18T20:09:22+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -764,6 +794,16 @@
       "type": "News"
     },
     {
+      "title": "Techniker Krankenkasse erwartet Beitragsanstieg um 0,3 Prozentpunkte – News - Deutsches Ärzteblatt",
+      "summary_de": "Techniker Krankenkasse erwartet Beitragsanstieg um 0,3 Prozentpunkte – News &nbsp;&nbsp; Deutsches Ärzteblatt",
+      "source_name": "\"site:aerzteblatt.de radiologie OR MRT OR CT\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQUk3WGV6TVJ4MDVMZjRra1JSOGl5RUdiUmxsaVpJMjlBYTRMX3laNFF4aE1acEpTYTZkY1V1aDNXTmFOc1RYRlItX2ZrY2lfYTdVVUNKUUJYWWNhcTNHb1AzaFlTZ2FneWtUZnFKTUs5VzNDMURsT1IxMW1STnk5aDlIY1gyUERUOFh4cnRVSTRmYWY0bjdGTDd4SWxXa0N4N2c0NEY5bUExQVBFcFJkeWNzT2p0NDlPcV9xVC1BQ19hb2J4SUwwcHV4NXBNbWN3ZFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-17T10:25:47+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "First treatment for serious chronic lung disease",
       "summary_de": "EMA has recommended granting a marketing authorisation in the European Union (EU) for Brinsupri&nbsp;(brensocatib) 25 mg tablets, for the treatment of non-cystic fibrosis…",
       "source_name": "News and press releases",
@@ -854,6 +894,16 @@
       "type": "News"
     },
     {
+      "title": "Nobelpreis für Physiologie und Medizin: Wer die Killer kontrolliert - Deutsches Ärzteblatt",
+      "summary_de": "Nobelpreis für Physiologie und Medizin: Wer die Killer kontrolliert &nbsp;&nbsp; Deutsches Ärzteblatt",
+      "source_name": "\"site:aerzteblatt.de radiologie OR MRT OR CT\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNem9wa1RwMW1hOEt4VWdFdUZSblp1M0w0SWpyNjRBTmhyMjBfcXFzdkNoNHRLUGQtOFhaS1hhcmtMOTl6cllFaFJBZFNhSUVvRS1qLU91TGVKMm5xQTlpRDB2czRhak5XNnR5S1d4UFZUNk9hLS1sZHo5SDJkNDVBcWNJOFRRTExaWFRQWUo4S09RTW9ZUTQtck90aWZVNGd4WGtRYTlGV1ZHa3JOcHFyeUlaUVgyVmI3blg5b2p2SkQ1cGlBa1BOdHV1VGJoMWlXX3Nidw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-16T22:03:52+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "AI tools that could detect diseases earlier selected for next phase of MHRA’s ‘AI Airlock’ programme",
       "summary_de": "Seven emerging AI healthcare technologies have been selected for the second phase of the MHRA’s AI Airlock programme.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -870,6 +920,16 @@
       "source_url": "https://www.gov.uk/guidance/variations-to-marketing-authorisations-mas",
       "published_at": "2025-10-16T16:11:34+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Grippe: Das sollten Sie über die Infektionskrankheit wissen - DAK-Gesundheit",
+      "summary_de": "Grippe: Das sollten Sie über die Infektionskrankheit wissen &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNTRlUEhCYURad0NTeHJyckVwMzd2bzFlYU1jTW1YTFlyejdPenV6VUdrdzNPVFhRUXI5NXEwdjJKYVdfOWFLS3pjLXVuU3hFcF96RTRQVklDUDZpc3d3MXU5eVdwWmR0aXV5SXFwMDJzQUx6QzRDMVNScmgxTHp2QVJQRlk4SGdDOW1zUUF6Y2FIZXRCSklZS2w2RWVLSllVdzNmTVdYQzY4WXpsVkM1R1J3VVFGd0hlZ1pSUS1BMmZHRE9uRHJOV0lRMUQ5U3E5WGczdHVGdnl5TDFP?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-16T13:54:37+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -901,16 +961,6 @@
       "source_name": "\"site:faz.net medizin\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVNTN3JHOXhGSGVmemFZVW8xckpzNWg1dWhtZE1SQk1GNVlrWnNRdGN2MDFkbnVsWWUyVU04NWplajR1M1JvT0FqampiSXZDOFpqb0ZVQVRONC1HN0o5NEM2UlRpMklCN3hkblpNLW9iT1piY29taEJwaDFQa2o3eDBvX1lJakpLaXBFd2xtV1I2VDBLeEtRT19LOUxJSXhWdThqY1FnSmxJbGdFVklXcTVrQ04?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-16T11:53:47+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Krankenkasse für ein gesünderes Leben | BARMER - Barmer",
-      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-16T11:34:48+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1186,9 +1236,9 @@
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015046.pub2",
       "published_at": "2025-10-15T00:00:00+00:00",
-      "category": "News",
+      "category": "Studie",
       "tags": [],
-      "type": "News"
+      "type": "Studie"
     },
     {
       "title": "Immunoglobulin for myasthenia gravis",
@@ -1196,9 +1246,9 @@
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013801.pub2",
       "published_at": "2025-10-15T00:00:00+00:00",
-      "category": "News",
+      "category": "Studie",
       "tags": [],
-      "type": "News"
+      "type": "Studie"
     },
     {
       "title": "Simple hysterectomy with pelvic lymphadenectomy versus radical hysterectomy with pelvic lymphadenectomy for women with stage IA2‐IB1 cervical cancer",
@@ -1206,9 +1256,9 @@
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012335.pub2",
       "published_at": "2025-10-15T00:00:00+00:00",
-      "category": "News",
+      "category": "Studie",
       "tags": [],
-      "type": "News"
+      "type": "Studie"
     },
     {
       "title": "The new Innovative Licensing and Access Pathway welcomes first investigational products",
@@ -1217,6 +1267,16 @@
       "source_url": "https://www.gov.uk/government/news/the-new-innovative-licensing-and-access-pathway-welcomes-first-investigational-products",
       "published_at": "2025-10-14T23:01:01+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Inkontinenz: Diese Maßnahmen helfen - DAK-Gesundheit",
+      "summary_de": "Inkontinenz: Diese Maßnahmen helfen &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVhMOHdoeHBBWHVMNVlKYzFjWWtULW1ka3liYmRCZDFtZ3dKZ1pFMHZPb1hyU3hMM092Ry0wNWpKNXlwVTh6QWQ2QzRmNDk1VmoyTTItMENqNFRXSnNuNWtqWnRpZjVHWEVnODZFM3dOV0RLQ1YwZGwzc2pEanR4OElVUWs2djRyX0taOEszZnBoRE1qRkNN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-14T21:56:57+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1303,6 +1363,36 @@
       "type": "News"
     },
     {
+      "title": "Ärztin / Arzt (d/w/m) Pädiatrische Radiologie - ärztestellen",
+      "summary_de": "Ärztin / Arzt (d/w/m) Pädiatrische Radiologie &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie OR MRT OR CT\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT0tlVVBqNXhzMjEwbEhUQWFMQUNiR1hVTlgzTm1KNDg5Q2JuTGxMWGY3OHY0d1lhNzBrMnJ1aE53RVhaZm9ES24yUEJrOWNwRG9ta3ZCdU1ET2xUbm1vOTk0RU9zTWM2ek5MOWFONC0wV3Ewd3k1LU9PRF9SQ2pQeF9JWUM5WUpOQ25TdFRfYzhaMUdPLTduUmFtM3hUYTdUbUZWQg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-14T07:41:46+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Wie entsteht Scheidenpilz? - DAK-Gesundheit",
+      "summary_de": "Wie entsteht Scheidenpilz? &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZm9EWVRXN2hpSGRrdzNTYkd4S2JwSlZFcU14a1p6UFVtclNzbXJVai1zZkViWVdPSHFXSzMwN2JlU0ZsX1ZSM1hyRkZOeDFXcElicVM1QXpzZXM3aGRheXMtNWVKRjdQbWxBMUE0VXVzMW5tRFppUlFhc0hROHFPSkFSUzVham95enV6VHMwckdrRFZkWWk3LXhYNTBGYzlTZ1B1ekdNbkZuS05sV3BUeHU5djNndTVJYmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-14T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Wie richte ich die Digitalpost ein? - DAK-Gesundheit",
+      "summary_de": "Wie richte ich die Digitalpost ein? &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORTUxd1lTYVJIcGtyRk14ZE42QWN3cEhKUmc5OUV6eFF1TXJOOGlzS0EzZ1p5R1J2SndZTE5FUDJFRFFpZnlFc2tyWXBXRlJvOGowUVZwd2Ftb1FvemRvQk1QNFhtcm94MTVybzNjR0ZraWZnN3MweV9xeWdpelpVS2N1ZFhzS0E5OFlrRTROdEZmQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-14T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "vdek zum „kleinen Sparpaket“ in der GKV",
       "summary_de": "Das neue „kleine Sparpaket“ der Bundesregierung ist ein erster Schritt zur Ausgabenbegrenzung in der GKV. Doch ohne stärkere Koppelung der Ausgaben an die Einnahmen – etwa bei Arzneimitteln – werden die Beiträge weiter steigen. Auch die Rücklagen der Kassen sind noch zu niedrig.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -1330,9 +1420,9 @@
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016231",
       "published_at": "2025-10-14T00:00:00+00:00",
-      "category": "News",
+      "category": "Studie",
       "tags": [],
-      "type": "News"
+      "type": "Studie"
     },
     {
       "title": "Pyronaridine‐artesunate for treating uncomplicated Plasmodium falciparum malaria",
@@ -1340,9 +1430,9 @@
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006404.pub5",
       "published_at": "2025-10-14T00:00:00+00:00",
-      "category": "News",
+      "category": "Studie",
       "tags": [],
-      "type": "News"
+      "type": "Studie"
     },
     {
       "title": "Scientists at EFSA further strengthen co-ordination of food and feed additive evaluations",
@@ -1355,22 +1445,22 @@
       "type": "News"
     },
     {
-      "title": "Testosteronmangel: Ursachen, Symptome und Hilfe - DAK-Gesundheit",
-      "summary_de": "Testosteronmangel: Ursachen, Symptome und Hilfe &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNblpPdk1tNUY0NHNQTm5XcGlWWjNxM2tUQlRMeWNwQlVTdkFRcGJ2RXdneUJPSDB3QUdRUGY4VkxFVHVDN3BJQlpnaFJyNlBicV9OU1h5Nk9oWFJ0ME9XLUpjQ2g4RHhBeW0tWEtOR0xwQW1OS0M2LVlJYUU4bGdPUE10YjhZcjJpWHNhVW9KeXQ3WWdlWlN6U21DU3hTaF9rTVdFbA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-13T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Meeting highlights from the Committee for Veterinary Medicinal Products (CVMP) 7-9 October 2025",
       "summary_de": "CVMP opinions on veterinary medicinal productsThe Committee adopted by&nbsp;consensus a positive opinion for a marketing authorisation from Zoetis Belgium&nbsp;for Lenivia…",
       "source_name": "News and press releases",
       "source_url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-veterinary-medicinal-products-cvmp-7-9-october-2025",
       "published_at": "2025-10-10T12:00:00+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Bewegungsspiele für draußen - DAK-Gesundheit",
+      "summary_de": "Bewegungsspiele für draußen &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONW1Ya0wwcXF2T2o3QVpreUw5cmdyT2RmMHRwZ3lDVWd6cldyaE1WNHRqa2NRQ3FOdHJUUTlfRkZRUWF0SUk1djVqN29xd2dVZlA3RUhTRW9XQnpDalNveElJN3N2RjZad1lLQWw2ZUtSSExvdFNjcURUM05Gc2hUVzhoQUZfZ2l6djVTSEJFSVVFM1dNMlQtR2pyd2RraEJfLXhz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-10T07:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1390,9 +1480,9 @@
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013462.pub3",
       "published_at": "2025-10-10T00:00:00+00:00",
-      "category": "News",
+      "category": "Studie",
       "tags": [],
-      "type": "News"
+      "type": "Studie"
     },
     {
       "title": "Prognostic factors predicting an unprovoked seizure recurrence in children and adults following a first unprovoked seizure",
@@ -1400,9 +1490,9 @@
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013848.pub2",
       "published_at": "2025-10-10T00:00:00+00:00",
-      "category": "News",
+      "category": "Studie",
       "tags": [],
-      "type": "News"
+      "type": "Studie"
     },
     {
       "title": "[MI] GP Contract Services - England, 2025-26",
@@ -1707,24 +1797,14 @@
       "type": "News"
     },
     {
-      "title": "Informationen für Arbeitgeber: Beitragssätze 2025 - DAK-Gesundheit",
-      "summary_de": "Informationen für Arbeitgeber: Beitragssätze 2025 &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVk9pVUFJLXo1dlFMd2VMRkxBZjgxLUhaVm13ek11VGxvdXhWejBmSTRvSEUzcVl5Y2xWSURFUEg2QnZ6cXlpNDZ2UGU0M054T1daLXUxSFd3VVRZdmRWcUozZHNtdlEzWXJ2Y0xnMUZtQ0NaVVhDOE1XemVkWnFYYmd3U2tPMWRtMFZyak9hTlBpbmxGVVlZQmljVnFRbHpqU3o1TVdKQnlXVzNEUGxoc1dzTTRadmdQTFptSlFFOExIZnBZVVIxTy1HUVpiVDhJNkVaY2ZkaTJSQlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-09T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Acupuncture for the treatment of infantile colic",
       "summary_de": "Acupuncture for the treatment of infantile colic",
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016305",
       "published_at": "2025-10-09T00:00:00+00:00",
-      "category": "News",
+      "category": "Studie",
       "tags": [],
-      "type": "News"
+      "type": "Studie"
     },
     {
       "title": "Progestagens for pain symptoms associated with endometriosis",
@@ -1732,9 +1812,9 @@
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002122.pub3",
       "published_at": "2025-10-09T00:00:00+00:00",
-      "category": "News",
+      "category": "Studie",
       "tags": [],
-      "type": "News"
+      "type": "Studie"
     },
     {
       "title": "Pharmacotherapy for hypertension in adults 60 years or older",
@@ -1742,9 +1822,9 @@
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000028.pub4",
       "published_at": "2025-10-09T00:00:00+00:00",
-      "category": "News",
+      "category": "Studie",
       "tags": [],
-      "type": "News"
+      "type": "Studie"
     },
     {
       "title": "Intraperitoneal chemotherapy for gastric cancer",
@@ -1752,9 +1832,9 @@
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015698.pub2",
       "published_at": "2025-10-09T00:00:00+00:00",
-      "category": "News",
+      "category": "Studie",
       "tags": [],
-      "type": "News"
+      "type": "Studie"
     },
     {
       "title": "Young People with Type 2 Diabetes, 2023-24",
@@ -1765,6 +1845,746 @@
       "category": "Europa",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Pressemitteilung: Die Planungskompetenz für Krankenhäuser zeigt sich im Status Quo",
+      "summary_de": "Heute steht der Gesetzentwurf des Krankenhausreformanpassungsgesetzes (KHAG) im Bundeskabinett auf der Tagesordnung. Mit Blick auf die geplante Anpassung der Krankenhausreform sagte Stefanie Stoff-Ahnis, stellvertretende Vorstandsvorsitzende des GKV-Spitzenverbandes: „Die Bundesländer berufen sich auf ihre Planungskompetenz, zahlen aber seit über 50 Jahren nicht einmal ihre gesetzlich vorgesehenen Investitionen für ihre Krankenhäuser. Es ist Zeit, auf Bundesebene die Verantwortung zu übernehmen und nicht …",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2130752.jsp",
+      "published_at": "2025-10-08T07:00:11+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Meldung: Wer soll das bezahlen?",
+      "summary_de": "Im Interview mit dem Magazin forum des Medizinischen Dienstes äußert sich Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes zu den Reformbemühungen in der sozialen Pflegeversicherung: „Wir sind nicht zufrieden mit der Art und Weise, in der sich die Politik aktuell um das Thema kümmert.“",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2131264.jsp",
+      "published_at": "2025-10-08T06:51:37+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Work‐break interventions for preventing musculoskeletal symptoms and disorders in healthy workers",
+      "summary_de": "Work‐break interventions for preventing musculoskeletal symptoms and disorders in healthy workers",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012886.pub3",
+      "published_at": "2025-10-08T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Gesetz zur Befugniserweiterung und Entbürokratisierung in der Pflege",
+      "summary_de": "Am 8. Oktober 2025 wird der Gesundheitsausschuss des Deutschen Bundestages über den Entwurf für ein „Gesetz zur Befugniserweiterung und Entbürokratisierung in der Pflege“ beraten. Das Gesetz bleibe in manchen Teilen hinter seinen eigenen Ansprüchen zurück, kritisiert vdek-Vorstandsvorsitzende Ulrike Elsner.",
+      "source_name": "vdek - Verband der Ersatzkassen e. V.",
+      "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/gesetz-befugniserweiterung-entbuerokratisierung-pflege.html",
+      "published_at": "2025-10-07T12:30:07+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Therapietreue stärken: vdek verleiht Zukunftspreis 2025",
+      "summary_de": "„Therapietreue in der Behandlung fördern“ war das Thema des diesjährigen Zukunftspreises, den der Verband der Ersatzkassen e. V. (vdek) jedes Jahr vergibt. Am 7. Oktober 2025 wurden die drei Preisträger im Rahmen des „vdek-Zukunftsforums“ mit dem vdek-Zukunftspreis 2025 ausgezeichnet.",
+      "source_name": "vdek - Verband der Ersatzkassen e. V.",
+      "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/vdek-zukunftspreis-gewinner-2025-therapietreue.html",
+      "published_at": "2025-10-07T10:37:17+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Community Services Statistics, July 2025",
+      "summary_de": "This is a monthly report on publicly funded community services for people of all ages using data from the Community Services Data Set (CSDS) reported in England for July 2025. It has been developed to help achieve better outcomes and provide data that will be used to commission services in a way that improves health, reduces inequalities, and supports service …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/community-services-statistics-for-children-young-people-and-adults/july-2025",
+      "published_at": "2025-10-07T08:31:01+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Vortrag: Gesund & fit: Das Minimax Prinzip! - DAK-Gesundheit",
+      "summary_de": "Vortrag: Gesund & fit: Das Minimax Prinzip! &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNThoUkcxUlFsS2FQdkNOTXhVVkNtdFMtWURkdTJmVkd0dW03REhOdUJBZDZVZjZhU05wR2ttTXIxdVBZYWZWSnF2dGg5dWlOZXNxYmhYV2JLT05vdWNEZk5jVHNsUENld0tGbDJFUnRfOUJ6MDNxVEpPaUUwUm1DMUx2ZUljT0t6dHdVdA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-07T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheitspolitik: So sollen Kliniken auf den Krisenfall vorbereitet werden - DIE ZEIT",
+      "summary_de": "Gesundheitspolitik: So sollen Kliniken auf den Krisenfall vorbereitet werden &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbVVGWnk0V3FoWXVUSnU4ZHNJZnRxTjRjZ2lOaHk5bGZhQ202Tnd3Z0cwRXVFLVVQNUNZV0hKc1pLWHRlWk1lY0xOZ1htaWdTdVFVSlp6R1R5VnJ0eUFZQUJ2emFUbHhzd051UzhoUEpwM29LcjFEOTlmX2dkM3BNS1JGM3hPZVh3NHJtOHB2SGhFX0Y3QkpN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-07T07:00:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Artificial intelligence‐based algorithms for the diagnosis of retinopathy of prematurity",
+      "summary_de": "Artificial intelligence‐based algorithms for the diagnosis of retinopathy of prematurity",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016047",
+      "published_at": "2025-10-07T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Verbesserung der datengestützten QS: IQTIG schlägt Monitoring auf Basis von Sozial- und Abrechnungsdaten vor",
+      "summary_de": "Berlin, 6. Oktober 2025 - Das IQTIG hat seinen Abschlussbericht „Entwicklung und Anwendung eines Konzepts zur kontinuierlichen und systematischen Identifizierung von relevanten Qualitätsdefiziten und Verbesserungspotenzialen“ veröffentlicht. Grundlage war eine Beauftragung durch den Gemeinsamen Bundesausschuss (G-BA) vom 12. Mai 2023. Die Beauftragung stellt einen weiteren Schritt zur Umsetzung des Beschlusses vom 19. April 2022 („Eckpunktebeschluss“) zur Weiterentwicklung der datengestützten gesetzlichen Qualitätssicherung …",
+      "source_name": "Pressemitteilungen | IQTIG",
+      "source_url": "https://iqtig.org/presse/pressemitteilungen/news/verbesserung-der-datengestuetzten-qs-iqtig-schlaegt-monitoring-auf-basis-von-sozial-und-abrechnungsdaten-vor/",
+      "published_at": "2025-10-06T08:03:08+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Meldung: Sofortige Kostenbremse für stabile Beiträge",
+      "summary_de": "„Es ist noch nicht zu spät, die Beiträge stabil zu halten“, sagte Oliver Blatt im Interview mit der dpa, in dem er auch Vorschläge für stabile Kassenfinanzen und einen digitalen Wegweiser für schnellere Arzttermine macht.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2128512.jsp",
+      "published_at": "2025-10-06T08:01:20+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Plötzlicher Herztod: 3D-Bildgebung liefert mögliche Ursache - Universität Freiburg",
+      "summary_de": "Plötzlicher Herztod: 3D-Bildgebung liefert mögliche Ursache &nbsp;&nbsp; Universität Freiburg",
+      "source_name": "\"radiologie OR \"bildgebung\" OR MRT OR CT\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMzNSNmhhRURRZ1BuNEZMZnZ2RDV5Rmxsc01KMklwTjN6elJ3amRjWlNnQXplbUJGSWdVMVlZNWtLTDlwOVZuVlZLR0dRTWZHZjBkMmZiMjRVajQ5MTJRUU9jV2tBQllMZGVaWlNZRG5IcDFKQXVYWmtTOHRqOXIzd0Y2VHFKZlA0dTNXaE9n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-06T07:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "EMA Management Board: highlights of October 2025 meeting",
+      "summary_de": "EMA mid-year report 2025EMA presented results and achievements of its operations for the first half of 2025. Between January and June, applications for new medicines (orphan…",
+      "source_name": "News and press releases",
+      "source_url": "https://www.ema.europa.eu/en/news/ema-management-board-highlights-october-2025-meeting",
+      "published_at": "2025-10-03T12:46:31+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 29 September - 2 October 2025",
+      "summary_de": "At its monthly meeting, EMA’s safety committee (PRAC) carried out its broad range of responsibilities, which cover all aspects of the risk management of the use of medicines:…, Agenda Agenda of the PRAC meeting 29 September - 2 October 2025Draft…, PRAC statistics: October 2025 , PRAC statistics: October 2025 English (EN) (100.81 KB - PDF)First…, Glossary Safety signal assessments. A …",
+      "source_name": "News and press releases",
+      "source_url": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-29-september-2-october-2025",
+      "published_at": "2025-10-03T10:00:00+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Continuous glucose monitoring systems for adolescents and adults living with type 2 diabetes mellitus",
+      "summary_de": "Continuous glucose monitoring systems for adolescents and adults living with type 2 diabetes mellitus",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016111",
+      "published_at": "2025-10-03T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Medical interventions for fungal keratitis",
+      "summary_de": "Medical interventions for fungal keratitis",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016304",
+      "published_at": "2025-10-03T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "vdek und KV Bayerns fordern rasche Reformen der Notfallversorgung und des Rettungsdienstes",
+      "summary_de": "Der Verband der Ersatzkassen e. V. (vdek) und die Kassenärztliche Vereinigung Bayerns (KVB) fordern die Politik auf, die geplante Notfallreform und die Reform des Rettungsdienstes rasch anzugehen. „Die Reform ist überfällig, die Probleme müssen dringend gelöst werden”, erklärten Ulrike Elsner, Vorstandsvorsitzende des vdek, und Dr. Christian Pfeiffer, Vorstandsvorsitzender der KVB.",
+      "source_name": "vdek - Verband der Ersatzkassen e. V.",
+      "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/vdek-kv-bayerns-reformen-notfallversorgung-rettungsdienst.html",
+      "published_at": "2025-10-02T13:35:40+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Advice on end-of-year submission dates for type I variations in 2025",
+      "summary_de": "EMA is advising marketing authorisation holders to submit individual type IA and type IAIN variations and super-groupings for 2025 no later than 21 November 2025. This will…",
+      "source_name": "News and press releases",
+      "source_url": "https://www.ema.europa.eu/en/news/advice-end-year-submission-dates-type-i-variations-2025",
+      "published_at": "2025-10-02T09:55:12+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Access to crisis care via NHS 111 - Mental Health, August 2025",
+      "summary_de": "This publication introduces a newly established data collection for demand and call handling data items related to accessing crisis care via the NHS111 'select MH option'. This data will provide important insights into how accessible the crisis care system is helping to identify any gaps or inefficiencies. Additionally, the data will be used to support demand and capacity planning across …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/access-to-crisis-care-via-nhs-111---mental-health/august-2025",
+      "published_at": "2025-10-02T08:58:35+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "App TK-Coach - das smarte Komplettpaket für ein besseres Wohlbefinden - Techniker Krankenkasse",
+      "summary_de": "App TK-Coach - das smarte Komplettpaket für ein besseres Wohlbefinden &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkZyRm1YUW1YOFhMUWZQaV9rTzRvQl96bFo2YkM0dkdTOTJMOUxtUXdOOVZMNklqQjdOSnFrZ1JaZHVDd21YSzQ2VWlZbUFyZGNsSDlIb19EeExZTVhQcUthUnpaUlc4eGROTkdtSURsanVwUER0MTZEREtyakJnN21XZkhQR1d1TGwtNC1uVlpLdE50NTI0X1N6WFFmcWJSNVhEQW0xS1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-02T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Interventions for preventing dengue: a mapping review",
+      "summary_de": "Interventions for preventing dengue: a mapping review",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016299",
+      "published_at": "2025-10-02T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Effectiveness of SARS‐CoV‐2 testing strategies in reducing COVID‐19 cases, hospitalisations, and deaths",
+      "summary_de": "Effectiveness of SARS‐CoV‐2 testing strategies in reducing COVID‐19 cases, hospitalisations, and deaths",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016192.pub2",
+      "published_at": "2025-10-02T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Hörakustiker/-in (m/w/d) Schwerpunkt Hilsmittelmanagement - DAK-Gesundheit",
+      "summary_de": "Hörakustiker/-in (m/w/d) Schwerpunkt Hilsmittelmanagement &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUzVpMk5xb3J2eENUYzNVd2xnMmRPZzZYTGJVLUcxUGhfWDAyRTFMOWZrS2Q1SXRxampsRVU4QWNyMXF6TVJDeWlHSzlkbmFreXhLb0o2WWtMU0ZDeFg3aW9VWkNEXzN3anpjb3R6cEFGZHExakN1MXFxRGQtLVQ1bUkyb0NWVWlDRzNUYUZXZ1BGVHRfaFNUWWhiUnFKNEtDbGFmVlFXOGlTdFN0VXRUUFBtTEpEUDJTUDJpS0dGUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-01T13:42:56+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Proposed Dispensing Feescales for GMS Contractors, England and Wales - 2025, October release",
+      "summary_de": "This report details the new dispensing feescales for General Medical Service (GMS) contractors in England and Wales from 1 October 2025.",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/proposed-dispensing-feescales-for-gms/proposed-dispensing-feescales-for-gms-contractors-england-and-wales---2025-october-release",
+      "published_at": "2025-10-01T08:31:01+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "IQTIG veranstaltet in Düsseldorf 2. Regionalkonferenz zum Verfahren QS ambulante Psychotherapie",
+      "summary_de": "Berlin, 1. Oktober 2025 - Am Montag, dem 27. Oktober 2025 (14.00 bis 17.30 Uhr) veranstaltet das IQTIG die zweite Regionalkonferenz zur regionalen Erprobung des Qualitätssicherungsverfahrens Ambulante psychotherapeutische Versorgung gesetzlich Krankenversicherter (QS ambulante Psychotherapie). Eingeladen sind die an der regionalen Erprobung in Nordrhein-Westfalen teilnehmenden Psychotherapeutinnen und Psychotherapeuten, weitere Verfahrensteilnehmerinnen und Verfahrensteilnehmer sowie die erweiterte Fachöffentlichkeit.",
+      "source_name": "Pressemitteilungen | IQTIG",
+      "source_url": "https://iqtig.org/presse/pressemitteilungen/news/iqtig-veranstaltet-in-duesseldorf-2-regionalkonferenz-zum-verfahren-qs-ambulante-psychotherapie/",
+      "published_at": "2025-10-01T06:40:00+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Provisional Accident and Emergency Quality Indicators for England, August 2025, by provider",
+      "summary_de": "Provisional Accident and Emergency Quality Indicators for England, August 2025, by providerThe measures included in this publication report on data coverage in ECDS compared with the emergency monthly situation reports MSitAE published by NHS England and NHS Improvement. They also report statistics for total time in A&amp;E, time to assessment, time to treatment, A&amp;E attendances that left before treatment and …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/provisional-accident-and-emergency-quality-indicators-for-england/august-2025-by-provider",
+      "published_at": "2025-09-30T14:22:05+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "gemeinsame Pressemitteilung: Versicherungsfremde Leistungen konsequent aus Beitragsfinanzierung streichen!",
+      "summary_de": "Appell der gemeinsamen Selbstverwaltung von GKV und KBV an die Bundesregierung: „Wir brauchen dringend eine saubere Abgrenzung zwischen staatlicher Daseinsvorsorge und den Aufgaben der gesetzlichen Kranken- und der sozialen Pflegeversicherung“, so Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2124864.jsp",
+      "published_at": "2025-09-30T13:14:59+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Alzheimer-Krankheit: Lecanemab im Handel - Pharmazeutische Zeitung",
+      "summary_de": "Alzheimer-Krankheit: Lecanemab im Handel &nbsp;&nbsp; Pharmazeutische Zeitung",
+      "source_name": "\"site:pharmazeutische-zeitung.de radiologie OR MRT OR CT\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR1hpMnRqNlZoWlV3SXNSd1VyLUR4Y1lqcmVmUnpmVkN4Qmx4VHpwRDdUU3FjVzkweEZYSTQ3R1dRVFBLYXVidEp6LUdaTGtOLUp4aW1GX2hwMUY2VW15WURKZnRlTHIwRmtTcV9FNnJCeGxqY3hYNWZBMDRCcHE2b0k4NndXRHlIWHNQczRXcHN0ZGhxMi1aUGI2aXloWjBtOHZHR3NkbEpZZjFteXVESjZoTQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-09-30T05:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Alzheimer-Krankheit: Lecanemab im Handel - Pharmazeutische Zeitung",
+      "summary_de": "Alzheimer-Krankheit: Lecanemab im Handel &nbsp;&nbsp; Pharmazeutische Zeitung",
+      "source_name": "\"site:pharmazeutische-zeitung.de radiologie OR MRT OR CT\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTk9NQzRxdTZSUDA5bGg4NHhJQnRfZTlGRWFhV1BFZjdsYmR0SEdjNGlNVWVOMnZtcHkzWXNlNjh2LW5kVEZDQ2ZTTG45SUlPR0p4YWY5ZnlRR1JHQm1vOG1tOVFrd2VXRWZqUVZGaTk4QmRpeS1TTnhKUHZPM0R3WXpGLS1VbDU4c2JtaXQ2UEF1WTY0dm9yd3o0cjFiNm5CR3ZUYXZibVFIWmItM3dpM2Y3b1FhTFU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-09-30T05:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Dose reduction and discontinuation of conventional synthetic disease‐modifying anti‐rheumatic drugs (DMARDs) for people with rheumatoid arthritis or psoriatic arthritis in remission or low disease activity",
+      "summary_de": "Dose reduction and discontinuation of conventional synthetic disease‐modifying anti‐rheumatic drugs (DMARDs) for people with rheumatoid arthritis or psoriatic arthritis in remission or low disease activity",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015900",
+      "published_at": "2025-09-30T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Pharmacotherapies for cannabis use disorder",
+      "summary_de": "Pharmacotherapies for cannabis use disorder",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008940.pub4",
+      "published_at": "2025-09-30T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Doppelfacharzt (m/w/d) für Nuklearmedizin und Radiologie - ärztestellen",
+      "summary_de": "Doppelfacharzt (m/w/d) für Nuklearmedizin und Radiologie &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie OR MRT OR CT\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT1NtWFIwUC0xN1V3ckpxY2x2aGhscEVwSVlvaGtoM2Y2aks0NDh0Mnh3YVlWTXZleFRYWU83cTFrTEktNEtXVUJ1TzhXSS1sZVE5RWlIbkMyZHp0V3BGeDJhcFdDb3dwQWh5Zk5KMHpZTGJSWklfVFRpejRpd1dDbmdBU2doZWd2WWpNQ2tmNFB2YnA5d0NjR3lGT2hxT2NRSTN1ZnZmMmgtd0JxbnE3QU9ILU4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-09-29T13:17:27+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "IQTIG veröffentlicht aktualisierte Liste von Zertifikaten und Siegeln für den Bundes-Klinik-Atlas",
+      "summary_de": "Berlin, 29. September 2025 - Das IQTIG hat eine aktualisierte Liste von Zertifikaten und Qualitätssiegeln aus dem Bereich der stationären Gesundheitsversorgung, die im Bundes-Klinik-Atlas des Bundesgesundheitsministeriums (BMG) abgebildet werden, veröffentlicht. Nach der zweiten Bewertungsrunde dieses Jahres hat das IQTIG weitere 27 Zertifikate als aussagekräftig bewertet. Damit sind insgesamt 84 Zertifikate und Qualitätssiegel vom IQTIG gelistet.",
+      "source_name": "Pressemitteilungen | IQTIG",
+      "source_url": "https://iqtig.org/presse/pressemitteilungen/news/iqtig-veroeffentlicht-aktualisierte-liste-von-zertifikaten-und-siegeln-fuer-den-bundes-klinik-atlas/",
+      "published_at": "2025-09-29T12:03:00+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "NHS Workforce Statistics - June 2025 (Including selected preliminary statistics for July 2025)",
+      "summary_de": "This report shows monthly numbers of NHS Hospital and Community Health Services (HCHS) staff working in NHS Trusts and other core organisations in England (excluding primary care staff). Data are available as headcount and full-time equivalents and for all months from 30 September 2009 onwards.These data are a summary of the validated data extracted from the NHS HR and Payroll …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-workforce-statistics/june-2025",
+      "published_at": "2025-09-29T11:20:38+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "NHS Talking Therapies, for anxiety and depression, Annual reports, 2024-25",
+      "summary_de": "This statistical release is the annual report on the NHS Talking Therapies programme from 1st April 2024 to 31st March 2025. NHS Talking Therapies is run by the NHS in England and offers NICE-approved therapies for treating people with anxiety or depression.The publication contains analyses on activity, waiting times and outcomes such as recovery in 2024-25. In addition, the report …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-talking-therapies-for-anxiety-and-depression-annual-reports/2024-25",
+      "published_at": "2025-09-29T11:17:16+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "NHS Sickness Absence Rates, May 2025",
+      "summary_de": "This report shows monthly sickness absence rates of NHS Hospital and Community Health Services (HCHS) staff working in NHS Trusts and other core organisations and NHS Support Organisations and Central Bodies. Data is presented by NHS England region, ICS area, organisation, organisation type, staff group and reason for sickness absence. We welcome feedback on the methodology and tables within this …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-sickness-absence-rates/may-2025",
+      "published_at": "2025-09-29T11:15:36+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Hospital Accident & Emergency Activity, 2024-25",
+      "summary_de": "This publication looks at Accident and Emergency activity in England for the financial year 2024-25. It describes NHS accident and emergency activity and performance in hospitals in England. The data sources for this publication are the Emergency Care Data Set (ECDS) and the aggregate Monthly Situation Reports (MSitAE) relating to A&amp;E attendances and emergency admissions in NHS hospitals, minor injury …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/hospital-accident--emergency-activity/2024-25",
+      "published_at": "2025-09-29T11:13:55+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "General Practice Workforce, 31 August 2025",
+      "summary_de": "The General Practice Workforce series of Official Statistics presents a snapshot of the primary care general practice workforce. A snapshot statistic relates to the situation at a specific date, which for these workforce statistics is now the last calendar day each month.This monthly snapshot reflects the general practice workforce at 31 August 2025. These statistics present full-time equivalent (FTE) and …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/general-and-personal-medical-services/31-august-2025",
+      "published_at": "2025-09-29T11:12:29+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Appointments in General Practice, August 2025",
+      "summary_de": "The aim of the publication is to inform users about activity and usage of GP appointments historically and how primary care is impacted by seasonal pressures, such as winter. NHS England publishes this information to support winter preparedness and provide information about some activity within primary care. The publication covers historic appointments, marked as attended or did not attend, from …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/august-2025",
+      "published_at": "2025-09-29T11:10:38+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "[MI] Rapid Cancer Registration Data",
+      "summary_de": "Rapid Cancer Registration Data (RCRD) provides a quick, indicative source of cancer data. It is provided to support the planning and provision of cancer services. The data is based on a rapid processing of cancer registration data sources, in particular on Cancer Outcomes and Services Dataset (COSD) information. In comparison, National Cancer Registration Data (NCRD) relies on additional data sources, …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-rapid-cancer-registration-data/current/current",
+      "published_at": "2025-09-29T10:08:33+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "A path to better include patients’ perspectives in the regulation of medicines",
+      "summary_de": "EMA has published a draft reflection paper on patient experience data for public consultation. These are data directly reflecting patients’ experience or preferences on…",
+      "source_name": "News and press releases",
+      "source_url": "https://www.ema.europa.eu/en/news/path-better-include-patients-perspectives-regulation-medicines",
+      "published_at": "2025-09-29T08:26:28+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Strategischer Einkäufer IT u. SGB-Leistungen (m/w/d) - DAK-Gesundheit",
+      "summary_de": "Strategischer Einkäufer IT u. SGB-Leistungen (m/w/d) &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeDYtaHVROUNZb0lGOVk1TC1MaENBT1RsNnFnT0tnRHROcC12QXNkY2lMdGU4TGtIRUs1S2NPYWJWLU04eU5XMHFzRjRUbmxndE5CSS1FLThqMC0ycjJBWU5oeThvVFBuQjVVVGY3RkNhYVlnVUQ3Y2dvUWxQQ3lTZFpvVTRMcF9ZV1lLLTMwMUUzeUtyQ1BfRmlrNm90T3RfVERUdEFTcHdNbjNsbjBKM1o0Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-09-29T08:04:45+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Antibiotic prophylaxis for corneal abrasion",
+      "summary_de": "Antibiotic prophylaxis for corneal abrasion",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014617.pub3",
+      "published_at": "2025-09-29T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Efficacy and safety of respiratory syncytial virus vaccines",
+      "summary_de": "Efficacy and safety of respiratory syncytial virus vaccines",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016131",
+      "published_at": "2025-09-29T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Therapie mit Lecanemab: Zusätzliches MRT vor dritter Infusion nötig – News - Deutsches Ärzteblatt",
+      "summary_de": "Therapie mit Lecanemab: Zusätzliches MRT vor dritter Infusion nötig – News &nbsp;&nbsp; Deutsches Ärzteblatt",
+      "source_name": "\"site:aerzteblatt.de radiologie OR MRT OR CT\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWnJtYXg1RkZoMm1WZEJDYVhMdndRRnk1dk5GOXJiSkVETFl0T0ZIbXk2YmZJZ2ZPZE5qRlI4Sm9nZXJXb1E3VlJtOFhaQmxnOGJ5T3BfMkhqOHFHXzJfN0VLVjIyT21Ua0h5WE5tWGZjckJGQVB1clJLOXNUZWNmQ1dPVEgxbzljUEw4NGU4ZjZKVVNSYjltb2dkenVUNWhmVHpvMmdwRlVRREN5VmNnVmtjazhVTE1seVpjaUR5ZHhhcEQ3b1k5cDBWOTdpWW1z?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-09-26T07:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Rote-Hand-Brief: Früher ins MRT unter Lecanemab - Pharmazeutische Zeitung",
+      "summary_de": "Rote-Hand-Brief: Früher ins MRT unter Lecanemab &nbsp;&nbsp; Pharmazeutische Zeitung",
+      "source_name": "\"site:pharmazeutische-zeitung.de radiologie OR MRT OR CT\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZV9UXy05M0gxSExCcEVQVmVWMFdqbm1fbEV0bDFkZ0dSQ194Rlhjcm11ano3N2pDTDc1WFkyNVJxcmtEV21oVmtyTWNzczdqSHFJWXEzN0M0d1hTQUpiLWlBRG9XQXBncElvcjJHaFF5cGhRZ0c5cURkNUdFRURIVTBmZzE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-09-26T07:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "NHS App Management Information - August 2025",
+      "summary_de": "This publication provides information about the number of users and usage for the NHS App, and for features that are available through the NHS App. Data are included for the following measures, at ICB and national granularity: - NHS App monthly logins: The volume of NHS App sessions recorded over a calendar month. - NHS App monthly unique user logins: …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-app-statistics/august-2025",
+      "published_at": "2025-09-25T13:44:16+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Once‐ or twice‐daily thoracic radiation in limited‐stage small‐cell lung cancer treated with concurrent chemoradiotherapy",
+      "summary_de": "Once‐ or twice‐daily thoracic radiation in limited‐stage small‐cell lung cancer treated with concurrent chemoradiotherapy",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016084",
+      "published_at": "2025-09-25T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "New co-chairs elected for working parties for healthcare professionals and for patients and consumers",
+      "summary_de": "EMA’s Patients and Consumer Working Party (PCWP) has elected Marco Greco of the…, Marco Greco is a lawyer by training and has extensive advocacy experience. He is a longstanding PCWP member and has served two terms for both the Pharmacovigilance Risk…, \"The PCWP is a model of how patients can meaningfully contribute to the work of EMA, ensuring the patient …",
+      "source_name": "News and press releases",
+      "source_url": "https://www.ema.europa.eu/en/news/new-co-chairs-elected-working-parties-healthcare-professionals-patients-consumers",
+      "published_at": "2025-09-24T11:00:00+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "More and more Europeans know how EU food safety works, says latest citizen survey",
+      "summary_de": "These findings and a wealth of additional results on what drives food choices in Europe are available in the new “ 2025 Eurobarometer Survey on Food Safety in the EU ”. EFSA conducts the survey every 3 years, which this year includes both the 27 EU Member States and 7 EU Candidate Countries at the same time. See the summary …",
+      "source_name": "EFSA | News",
+      "source_url": "https://www.efsa.europa.eu/en/news/more-and-more-europeans-know-how-eu-food-safety-works-says-latest-citizen-survey",
+      "published_at": "2025-09-24T08:57:33+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Arzt bequem von zu Hause aus sprechen: Videosprechstunde wird immer häufiger genutzt - tagesschau.de",
+      "summary_de": "Arzt bequem von zu Hause aus sprechen: Videosprechstunde wird immer häufiger genutzt &nbsp;&nbsp; tagesschau.de",
+      "source_name": "\"site:tagesschau.de \"Gesundheitspolitik\"\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTGFpYWtPaTNmVEdsZURPYTBod0tRMkp6eF9Vd1NYNm9ORDVGR2ZpazJKUTdwc0tYQ01qMXlYTExvVklJc3hMNkJUTnlLMlY4MlhzS3VNZTBuSzZHUTJQMTVnakhWTVFuR21uXzFFSEZwM0RiTnJnOXFVdDNhbFV0ZzRmNExoYWNUSkpNN18tVFBiTmdFSTF6M0xZQjRuZWZrQjU3RnR3SDF0eFBXUmJQSmxuby1JNWd4OEVpRlhnbTlIVjdoSnUxbGVfVUdpcXNk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-09-24T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Vereinfachtes MRT erkennt Prostatakarzinom zuverlässig – News - Deutsches Ärzteblatt",
+      "summary_de": "Vereinfachtes MRT erkennt Prostatakarzinom zuverlässig – News &nbsp;&nbsp; Deutsches Ärzteblatt",
+      "source_name": "\"site:aerzteblatt.de radiologie OR MRT OR CT\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU05JdXRlSWtaVEJIaVhQbkpUa1QwYkN6Vzd2WXJlMnhPdmJTa1JLMFk3WVRENnVFQTFIQWtxSHRXRnk4VVQ5czR1STlkalhHS001QUVIeGRFZElHdDJoTkdFM3k1b1owNjhTczBnOHFJQXNVeFlkS1h4eEFhamY5b1BBT1p1OUFnU2FmbTBsRmgzWVQ0RTFoT2N0SHBuYXlzaWw0a2NmYjU1TUt1U1M5RnJVWFdsUXZqS2VhTXBMVW8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-09-24T07:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "[MI] Learning Disabilities Health Check Scheme, England, August 2025",
+      "summary_de": "The learning disabilities health check scheme is designed to encourage practices to identify all patients aged 14 and over with learning disabilities, to maintain a learning disabilities 'health check' register and offer them an annual health check, which will include producing a health action plan.The learning disabilities health check scheme is one of a number of GP enhanced services. Enhanced …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/learning-disabilities-health-check-scheme/england-august-2025",
+      "published_at": "2025-09-23T22:28:08+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Leitende/r Ärztin/Arzt 80-100%, Radiologie - ärztestellen",
+      "summary_de": "Leitende/r Ärztin/Arzt 80-100%, Radiologie &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie OR MRT OR CT\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeWtmaUhLdXFzZF9jQ01IN01TQk1obVlYZnlSd2JpODI4VEJEeEwyU1BETXpkOXY2RGdTWVp3cjdJVC0tSF9sTmF0a0hRSGRCTkRKTkU1bTVBQUFNVmpWMEtadHVDU3dnQktQT3o1clF1aDRISlVlSVh3U2RKYmhpWkdobVlOVVpXekNZc2JsVXhaTUk3dUZzTHJKWU41SFZ0SHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-09-23T14:26:23+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "New targets for clinical trials in Europe",
+      "summary_de": "The European Commission (EC), the Heads of Medicines Agencies (HMA) and EMA have jointly developed two new targets for clinical trials, to monitor progress against the ambition…",
+      "source_name": "News and press releases",
+      "source_url": "https://www.ema.europa.eu/en/news/new-targets-clinical-trials-europe",
+      "published_at": "2025-09-23T10:55:56+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Use of paracetamol during pregnancy unchanged in the EU",
+      "summary_de": "In the EU, paracetamol (also known as acetaminophen) can be used for reducing pain or fever during pregnancy if clinically needed. There is currently no new evidence that would…, “Paracetamol remains an important option to treat pain or fever in pregnant women. Our advice is based on a rigorous assessment of the available scientific data and we…, As included in …",
+      "source_name": "News and press releases",
+      "source_url": "https://www.ema.europa.eu/en/news/use-paracetamol-during-pregnancy-unchanged-eu",
+      "published_at": "2025-09-23T10:15:00+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "US-Gesundheitspolitik: Trump zieht ohne Belege Verbindung zwischen Schmerzmittel und Autismus - DIE ZEIT",
+      "summary_de": "US-Gesundheitspolitik: Trump zieht ohne Belege Verbindung zwischen Schmerzmittel und Autismus &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTGdRc0RnOFRXcUF5aTFheGI4a0lXU2dyWkczWjd5QTBVT2JZUGlIZVdRUmxIRzdmWVpNd19UanhrLVF4ZnExcUFiMm40dDZtVmlGRi1KR2dSOTFkV2htMWJFdHdOS2ttb3pyRXAtVW95QXdOWTVtRVUxa0FHVkxIN3hGaHRvWUNpTGNzbkQzSXNOVmF2M2lXNm1FVTB4Z1hRdzZUdEgzUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-09-23T07:00:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "CT-Screenings mit Labortests finden häufig Krebs bei Betroffenen mit unspezifischen Symptomen - Deutsches Ärzteblatt",
+      "summary_de": "CT-Screenings mit Labortests finden häufig Krebs bei Betroffenen mit unspezifischen Symptomen &nbsp;&nbsp; Deutsches Ärzteblatt",
+      "source_name": "\"site:aerzteblatt.de radiologie OR MRT OR CT\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPajN4SWJJR0tYOUZGZ2xZcHFmdktNTS1vbHEwbGZfUDZUSzYzdEtadWkxSDdkZ2ZLTzZHRkJXYTIzZWNDb01IcjVIaWNFR2x0YXlOQzZKUXhMRTdqMUo0N0NNUE8zaDRQTk9lS1ZiLThJbnlVSEdDS1Bxc09Mam1wWHpQN0lyaVAxTFFJRnktWFlWSmJsZ2t1SXlEdGhyTWhiaWZUd1NBdDM5RXM2UEJ4eG1Yb1M4RklwWDJ0NHRJYk9LZnFSaUxJMzJCb2VpWlotdHZEd0I4QXV0RzZMaktHODQySFl5RXczRjd3Xzg3cEcxbllX?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-09-23T07:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Klinik für Allgemein- und Viszeralchirurgie Lörrach - HEK",
+      "summary_de": "Klinik für Allgemein- und Viszeralchirurgie Lörrach &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVmpTdHNrRWRReEt3T3QwZ2JKbHlBNjJGYXE1U0g3TlEyc0pmcEpxQ29JMnFtc2F1R2poaC14LS16eXd4bG9sT2NROUpxSmxkVWc2UzdHNXVmUHhGeFlsaFFjUS12TzlqbUJDeGd2QmdLd3FTWE8zZ3NMbTFLY2VCbFVEVFNwUzh3YU9ZQ0lCSHhpSHI0TVgxSV9sSVZmclFlOFVRRDd6cW1POTFXT1VOVVUtZW45czl6dm5sZVpmdWpncnE3cTd1R0x3bmIyc1VvMTNxenlBY2g5UXdYbzh1U3ZoSjhsS2VpQ2RJZ3BGQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-09-22T20:38:33+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "New variations guidelines to streamline lifecycle management of medicines",
+      "summary_de": "EMA welcomes the publication of the European Commission’s (EC) new Variations Guidelines, which streamline the lifecycle management of medicines (see EC news). These guidelines…",
+      "source_name": "News and press releases",
+      "source_url": "https://www.ema.europa.eu/en/news/new-variations-guidelines-streamline-lifecycle-management-medicines",
+      "published_at": "2025-09-22T12:07:00+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "European Donation Day 2025 – Celebrating life-saving organ, tissue and cell donation",
+      "summary_de": "European Donation Day 2025 – Celebrating life-saving organ, tissue and cell donation",
+      "source_name": "European Directorate for the Quality of Medicines & HealthCare (EDQM) - All EDQM press releases",
+      "source_url": "https://www.edqm.eu/en/w/european-donation-day-2025-celebrating-life-saving-organ-tissue-and-cell-donation?redirect=%2Fen%2Fedqm%2Fabout%2Fpress-releases%2F-%2Fasset_publisher%2F3Y7QATe0fKTC%2Frss",
+      "published_at": "2025-09-18T12:35:00+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Kundenberater/-in (m/w/d) in Offenbach - DAK-Gesundheit",
+      "summary_de": "Kundenberater/-in (m/w/d) in Offenbach &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQkNCM01NRWZMdWRxYTlybXMxY2hQXzdaR0dsbDU3YTNSal9sNWRqaHlIM18tRGJuY014NVI4Q1hvd2hDcUJHbVRxYnZ6a0F5RG4xS0ZPM2pZbGJwcVpidl9xeTFJaE5LcjBtLU1zVVhncUxMUGt2WF9YdVpoSmlJSUNmd3BIa1I3bEF0X3d6R2tLa0tKRlpIdks2Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-09-18T09:56:27+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "gemeinsame Pressemitteilung: Anstieg der Honorare in der ambulanten Versorgung – für 2026 auf ein Plus von 2,8 Prozent geeinigt",
+      "summary_de": "Heute hat der Bewertungsausschuss (BA), bestehend aus jeweils drei Vertreterinnen und Vertretern der Kassenärztlichen Bundesvereinigung (KBV) und des GKV-Spitzenverbandes, in den jährlichen Finanzierungsverhandlungen eine Erhöhung des Orientierungswertes (OW) um 2,8 Prozent beschlossen. Der OW bestimmt die Preise für ärztliche und psychotherapeutische Leistungen.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2117120.jsp",
+      "published_at": "2025-09-17T10:01:38+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Episode 32 – Data vs stereotypes: what Europeans eat",
+      "summary_de": "What do Europeans eat? We’re talking data - why it’s crucial for healthy diets. Join us as we test stereotypes and learn why we may start wearing data chips on our teeth!",
+      "source_name": "EFSA | News",
+      "source_url": "https://www.efsa.europa.eu/en/podcast/episode-32-data-vs-stereotypes-what-europeans-eat",
+      "published_at": "2025-09-17T09:30:41+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Meldung: Zuzahlungen lösen keine Strukturprobleme",
+      "summary_de": "„Warum wird immer zuerst über höhere Zuzahlungen gesprochen, statt die Probleme grundlegend anzugehen? Die strukturellen Probleme unseres Gesundheitssystems können wir nicht dadurch lösen, dass wir für kranke Menschen die Zuzahlungen erhöhen\", so Stefanie Stoff-Ahnis, stellvertretende Vorstandsvorsitzende des GKV-Spitzenverbandes, mit Blick auf die aktuelle Diskussion über höhere Zuzahlungen.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2116608.jsp",
+      "published_at": "2025-09-16T14:37:32+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "#NoBirdFlu: clear communications for better biosecurity",
+      "summary_de": "The #NoBirdFlu toolkit , launched to coincide with the start of the new migratory season in Europe, aims to raise awareness about the importance of applying simple biosecurity steps, particularly on small and medium-sized farms. By adopting these measures, farmers will help to protect animal and public health, ensure food production stability, and minimize disruptions to trade. “The launch of …",
+      "source_name": "EFSA | News",
+      "source_url": "https://www.efsa.europa.eu/en/news/nobirdflu-clear-communications-better-biosecurity",
+      "published_at": "2025-09-15T08:58:15+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Leitung Fachzentrum Entgeltersatzleistungen (m/w/d) - DAK-Gesundheit",
+      "summary_de": "Leitung Fachzentrum Entgeltersatzleistungen (m/w/d) &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWDZUc3FNcEl0TXlLVGVVNTVwRS03ak9Lb1ozRnQ0THNOVXpBZXlJSnB0M3VGY1NfdXh1aXNhSGNXZmNqd1Jvbk9vRVZpNDBsTU56ZEFkV1dJemtzYTEtSlFqVGxmVnRkcnpZdFN3UU95WFFZVjhJeFdDRElvTWx4b21jMHJuZmE1anJQdV9DcUxkUWRLSTdhM2lvd3hya3FKeDZROE4xeXBzVEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-09-15T06:36:41+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pressemitteilung: FinanzKommission kann Sofortmaßnahmen nicht ersetzen",
+      "summary_de": "„Es ist ein gutes und wichtiges Signal, dass die Kommission ihre Arbeit ein Jahr früher als im Koalitionsvertrag vorgesehen aufnimmt, so Stefanie Stoff-Ahnis, stellvertretende Vorstandsvorsitzende des GKV-Spitzenverbandes, anlässlich der heutigen Vorstellung der Mitglieder der „FinanzKommission Gesundheit“ und von dessen Arbeitsauftrag.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2114752.jsp",
+      "published_at": "2025-09-12T08:48:23+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Pressemitteilung: 10-Milliarden-Klage gegen Unterfinanzierung der GKV beschlossen",
+      "summary_de": "In Deutschland erhalten erwerbsfähige Personen vom Staat Bürgergeld nach dem SGB II (Grundsicherung für Arbeitssuchende), wenn sie hilfebedürftig sind. Hilfebedürftig bedeutet, dass ihr Einkommen unter dem Existenzminimum liegt und sie den Lebensunterhalt nicht ausreichend aus eigenen Mitteln bestreiten können. Das Bürgergeld ist eine staatliche, steuerfinanzierte Fürsorgeleistung zur Sicherung des Existenzminimums. Dazu gehört auch die Sicherung der gesundheitlichen Versorgung.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2112896.jsp",
+      "published_at": "2025-09-11T11:45:33+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheitspolitik: Krankenkassen kündigen Milliardenklage gegen den Bund an - DIE ZEIT",
+      "summary_de": "Gesundheitspolitik: Krankenkassen kündigen Milliardenklage gegen den Bund an &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYV95ZmxWcWViWnJmUmU3WXpNSUQ4eGpwVWdFOFRiWmktVVdZVEhrcHJ3V2cwVWwxRmp4RHpXNG40WVpOVnVPWERLVzNGNnhWTTBkeWdqcWxFTHduejVnNEIzWG15Rzl3SWxlOWIzWUpFbWJKeFgzdk95OC00SldmcUZQSnhvSWVkRGpnZjNfSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-09-11T07:00:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Meldung: Strukturreformen statt GKV-Basistarif",
+      "summary_de": "\"Wir brauchen keine Diskussion um Tarife in der GKV, sondern vielmehr durchgreifende Strukturreformen, um die Ausgaben bei den Krankenkassen nachhaltig in den Griff zu bekommen\", so Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, in einer ersten Reaktion auf den Vorschlag, künftig einen GKV-Basistarif für alle anzubieten.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2112832.jsp",
+      "published_at": "2025-09-10T11:06:27+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
     }
+  ],
+  "errors": [
+    "FeedError: http://cdn.auntminnie.com/rss/rss.aspx            # AuntMinnie (global) :contentReference[oaicite:0]{index=0} :: InvalidURL(\"URL can't contain control characters. '/rss/rss.aspx            ' (found at least ' ')\")",
+    "FeedError: https://www.diagnosticimaging.com/rss             # DiagnosticImaging RSS :contentReference[oaicite:1]{index=1} :: InvalidURL(\"URL can't contain control characters. '/rss             ' (found at least ' ')\")",
+    "FeedError: https://medicalxpress.com/rss-feed/medicalxpress/radiology-imaging-news/   # MedicalXpress Radiology & Imaging :contentReference[oaicite:2]{index=2} :: InvalidURL(\"URL can't contain control characters. '/rss-feed/medicalxpress/radiology-imaging-news/   ' (found at least ' ')\")",
+    "FeedError: https://news.google.com/rss/search?q=site:myesr.org+OR+site:app.myesr.org+Radiology&hl=en&gl=DE&ceid=DE:en  :contentReference[oaicite:3]{index=3} :: InvalidURL(\"URL can't contain control characters. '/rss/search?q=site:myesr.org+OR+site:app.myesr.org+Radiology&hl=en&gl=DE&ceid=DE:en  :contentReference[oaicite:3]{index=3}' (found at least ' ')\")"
   ]
 }
