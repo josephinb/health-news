@@ -8,6 +8,7 @@ NOW = datetime.now(timezone.utc)
 WINDOW_DAYS = 14
 CUTOFF = NOW - timedelta(days=WINDOW_DAYS)
 
+# Schlüsselwörter für grobe Klassifikation
 KW = {
     "Studie": [
         r"\b(randomisiert|kohorte|studie|review|metaanalyse|preprint|placebo)\b",
@@ -23,19 +24,36 @@ KW = {
     ],
     "Versorgung": [
         r"\b(versorgung|qualitätsbericht|qualitätsindikator|leitlinie|notfall|intensiv|pflege)\b",
-        r"\b(krankenhausstruktur|ambulantisierung|wart(e)?zeit|kapazität|betten)\b",
+        r"\b(krankenhausstruktur|ambulantisierung|wartezeit|kapazität|betten)\b",
+    ],
+    "Europa": [
+        r"\b(europa|eu|european|europaweit|eu-weit)\b"
     ],
 }
 
+# Domain-Hinweise (überstimmen oft die KW)
 DOMAIN_HINTS = {
-    "medrxiv.org": ["Studie"],
-    "pubmed.ncbi.nlm.nih.gov": ["Studie"],
+    # DE
+    "medrxiv.org": ["Studie"], "pubmed.ncbi.nlm.nih.gov": ["Studie"],
     "g-ba.de": ["Gesetz","Versorgung"],
     "bundesgesundheitsministerium.de": ["Gesetz"],
     "anwendungen.pharmnet-bund.de": ["Wirtschaft"],
     "destatis.de": ["Wirtschaft"],
     "iqtig.org": ["Versorgung"],
     "divi.de": ["Versorgung"],
+    # EU/Europa
+    "ema.europa.eu": ["Europa"],
+    "ecdc.europa.eu": ["Europa"],
+    "efsa.europa.eu": ["Europa"],
+    "edqm.eu": ["Europa"],
+    "ec.europa.eu": ["Europa"],
+    "health.ec.europa.eu": ["Europa"],
+    # WHO + UK-Öffentlich
+    "who.int": ["Europa"],  # global, aber für EU-Relevanz ok
+    "digital.nhs.uk": ["Europa"],
+    "gov.uk": ["Europa"],
+    "hra.nhs.uk": ["Europa"],
+    "nihr.ac.uk": ["Europa"],
 }
 
 def clean(text):
@@ -49,7 +67,7 @@ def summarize(txt, max_words=60):
     return txt if len(w) <= max_words else " ".join(w[:max_words]) + " …"
 
 def parse_time(e):
-    for k in ["published_parsed","updated_parsed"]:
+    for k in ["published_parsed", "updated_parsed"]:
         t = getattr(e, k, None)
         if t: return datetime(*t[:6], tzinfo=timezone.utc)
     return None
@@ -63,12 +81,13 @@ def classify(title, summary, link):
     for cat, patterns in KW.items():
         if any(re.search(p, txt, flags=re.I) for p in patterns):
             cats.add(cat)
+    # Fallback Heuristik
     if not cats and any(k in host for k in [
         "aerzteblatt.de","pharmazeutische-zeitung.de","vdek.com",
         "gkv-spitzenverband.de","kbs.de"
     ]):
         cats.add("Wirtschaft")
-    order = ["Gesetz","Studie","Versorgung","Wirtschaft"]
+    order = ["Gesetz","Studie","Versorgung","Wirtschaft","Europa"]
     main = next((c for c in order if c in cats), "News")
     tags = sorted(cats - {main})
     return main, tags
@@ -81,6 +100,7 @@ def dedupe(items):
         seen.add(key); out.append(it)
     return out
 
+# Feeds laden
 feeds = [l.strip() for l in open("feeds.txt", encoding="utf-8") if l.strip() and not l.startswith("#")]
 items = []
 
@@ -106,14 +126,17 @@ for url in feeds:
             "type": "Studie" if category=="Studie" else "News"
         })
 
+# Sortieren und Duplikate raus
 items = dedupe(sorted(items, key=lambda x: x["published_at"], reverse=True))
 
+# Schreiben
 os.makedirs("public", exist_ok=True)
-with open("public/health-news.json","w",encoding="utf-8") as f:
+with open("public/health-news.json", "w", encoding="utf-8") as f:
     json.dump({
         "generated_at": to_iso(NOW),
         "window_days": WINDOW_DAYS,
         "count": len(items),
         "items": items
     }, f, ensure_ascii=False, indent=2)
+
 print(f"Wrote {len(items)} items in last {WINDOW_DAYS} days")
