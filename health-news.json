@@ -1,8 +1,18 @@
 {
-  "generated_at": "2025-10-24T03:10:02.118083+00:00",
+  "generated_at": "2025-10-24T06:49:43.463161+00:00",
   "window_days": 42,
-  "count": 278,
+  "count": 277,
   "items": [
+    {
+      "title": "Scharf Collection: Diagnose Täuschung – wenn Kunst mit Wahrnehmung spielt",
+      "summary_de": "Von der Pariser Halbwelt des 19. Jahrhunderts bis zu digitalen Katzenmythen. In einigen Werken der Scharf Collection wird deutlich, wie d&uuml;nn die Grenze zwischen Beobachtung und Illusion ist &ndash; etwa in der Kunst von Toulouse-Lautrec und Martin Eder.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/diagnose-taeuschung-wenn-kunst-mit-wahrnehmung-spielt-159845/",
+      "published_at": "2025-10-24T05:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Gesundheit: Grippesaison hat begonnen - Corona-Infektionen nehmen zu - DIE ZEIT",
       "summary_de": "Gesundheit: Grippesaison hat begonnen - Corona-Infektionen nehmen zu &nbsp;&nbsp; DIE ZEIT",
@@ -22,6 +32,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: &#196nderungsmeldung Arzneimittel: Mivacron 10mg pU: Aspen Pharma Trading Limited",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2025-10-23T20:18:06+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Verdacht auf Geflügelpest - Vogelgrippe bei toter Kanadagans in Essen nachgewiesen - Gesundheit - SZ.de",
@@ -76,16 +96,6 @@
       "type": "News"
     },
     {
-      "title": "Zwei Menschen in Deutschland nach Ehec-Infektion gestorben – News - Deutsches Ärzteblatt",
-      "summary_de": "Zwei Menschen in Deutschland nach Ehec-Infektion gestorben – News &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOHFtcTE0Nnl0OGhLQWlUdV9IdDJOLVlZQ2Mycm9EQ3hRLXc4Q0VmWHdXeDRBMVhnRlloVUtRU2ZxRXRhWmozQllzZmJrSkV3N2VfcV9GdXVJZFRUVXpGM3dQR0JDVDgzbHBUdTZoTnFEb29XTUZwUmRod0dzRnkxcDZXX0JvcnZxSmVpYVhHTWRLNXBTeXRQekZUUDlFWUJzZjJSMnI4MV9EOVkwX0xMd1M4VTNqdUF0X0l2LXE0aXBkZy1SaXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-23T15:33:39+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Atemwegserkrankungen: Grippe, Corona, Erkältung – Wichtiges zur aktuellen Saison",
       "summary_de": "Grippe, Corona oder doch nur eine Erk&auml;ltung? Derzeit sind viele Erreger unterwegs. Wie Menschen mit Symptomen sich verhalten sollten und was die Zahlen sagen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -102,16 +112,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRHBSRUFFWTVtNWpUY21IaE5YM245QXF4a05YQVpIMXh4NjZnT1ZmUEo4aXpTNndqdmJaNFB0Q0pWb1I4VUdmcDJ2QXk1NFlkTmdFbmgyQU1KWGVuM1VWV2Z6Qjd5NG5vRDU5UzNaRzVIR0lFZlBRUFAxQ1ZKSURUT1JLa1NDVE8zN1FsRDVXVlZKdXJhdmVSbnhCN3JnVVJHSE95QVNGZ2pwU1BQZkRQaWRYakhKTy1laHBXODd5bFdsQVM2QXNXQV83Yk5BUUhuZlgyaTJaWDZXb0h5d1A4WXl6Q0s5NHlmXzdlZExR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-23T14:39:25+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: &#196nderungsmeldung Arzneimittel: Tavor 2,5 mg Expidet pU: Pfizer Pharma GmbH",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2025-10-23T14:28:54+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -528,6 +528,16 @@
       "type": "News"
     },
     {
+      "title": "andere Gebiete GeRN® Gesellschaft für Radiologie und Nuklearmedizin GbR, Stellenangebote in Baden-Württemberg - ärztestellen",
+      "summary_de": "andere Gebiete GeRN® Gesellschaft für Radiologie und Nuklearmedizin GbR, Stellenangebote in Baden-Württemberg &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcWJzbnM5TFFIXzYxeGp4VUJQcWZUZGVaSjlNVzEzR3ZnNUVfLWREdHZpUU5PV3czSGtVd0I2OS1fRU5NcjlLcmtvVlNkQ0dxUXpYYmVmRHdZbmhyT2I3T0ZNR1BUb3BiR3NqdjlHZkZfTXdQekJvR1dpLXplOXA3TW9hY0NyLVlSRV9zVUNZdkE5MjQtSl92cXhYdTc4bXhFUDZoRFZBT09xZmU4eG9SWGI1bF9mcHNFOUpZbDJfQ3V6TzRmOGNIOF94OXRzSHc4cV9VYy1wMnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-23T02:07:44+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Was es mit Miley Cyrus’ »musikalischer Medizin« im neuen »Avatar«-Film auf sich hat - Spiegel",
       "summary_de": "Was es mit Miley Cyrus’ »musikalischer Medizin« im neuen »Avatar«-Film auf sich hat &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
@@ -574,16 +584,6 @@
       "source_url": "https://www.diagnosticimaging.com/view/study-emerging-radiotherapeutic-agent-treatment-gastroenteropancreatic-neuroendocrine-tumors",
       "published_at": "2025-10-22T20:16:00+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Sachsen-Anhalt: Krankenkasse klagt über Rekordschaden durch Abrechnungsbetrug - tagesschau.de",
-      "summary_de": "Sachsen-Anhalt: Krankenkasse klagt über Rekordschaden durch Abrechnungsbetrug &nbsp;&nbsp; tagesschau.de",
-      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ3RWS1RqVnNORm1NWXNPWTJTY0VuY0RvSUswR1U1bVVMVWpOeVpTelF4b3QyQmdYeFZNSHM1OXlXN3l6bHRSNUQwWENXUmV0dTh2MXh0cGltOWtnbUJJWXo5Y1ZLWGpIMlVLdTVjWVhEbHEtNS1LSkozcm95eEpRSllNUndjcVhZdHl2VWlyMmF3SFNabDZ3cFg5MFI1ZjRQNi1jSEU3NXhWdzhPUkRzUnEyNEFfT09tQzVsd0N4X1hVSjFGOFRYU3dWYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-22T19:31:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -768,16 +768,6 @@
       "type": "News"
     },
     {
-      "title": "CAFM-Datenmanager / Administrator (m/w/d), MAX-DELBRÜCK-CENTRUM FÜR MOLEKULARE MEDIZIN - FAZ Stellenmarkt",
-      "summary_de": "CAFM-Datenmanager / Administrator (m/w/d), MAX-DELBRÜCK-CENTRUM FÜR MOLEKULARE MEDIZIN &nbsp;&nbsp; FAZ Stellenmarkt",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVUhMVjA1c3lrS3pyMmtfYzJTMW9GUHRzM1pUc0VzSlZvdEQ2Ry1ObnU0NVl6ODhRWGJySTdEVGFnaXNOQ0k0TnZyTTl6bkQ5SGNvZ0NPUlBFd0QtaUdjOUtEcW9VellUdGZLQUVGbTJxWVBCamdEODNHUkpUMjRvdUVUbkEyYlNmZVptYXRwYTl4RjhLa3U2Vg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-22T11:46:32+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Großbritannien: Supermarktkette Morrisons schließt vier Apotheken",
       "summary_de": "Morrisons, eine der gr&ouml;&szlig;ten Supermarktketten in Gro&szlig;britannien, wird im Rahmen einer gro&szlig;en Umstrukturierung mindestens vier Apotheken schlie&szlig;en. Dies teilte das Unternehmen zu Beginn dieser Woche mit. Zudem erw&auml;gt es den Verkauf einiger weiterer Apotheken.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -906,16 +896,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/doc-morris-feilt-an-finanzstruktur-159811/",
       "published_at": "2025-10-22T07:30:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Mehr als 1,33 Milliarden Euro für Gesundheit und Pflege der Menschen in Berlin - DAK-Gesundheit",
-      "summary_de": "Mehr als 1,33 Milliarden Euro für Gesundheit und Pflege der Menschen in Berlin &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWC1pV3R4dXR1OXBSOE1PNm5RZGlqZmNOb3hGaGJSTk85NkxaSENvVGtueXVDcHRuUEZEYlpMYkpNY0Z5ZUQ4LXZ3YUhldEE0bXN3eDA4bHk4N3A1R3dVakxVMHNiSUU0VWk1aFlnOEl3cHd3V0lQQjBRZEFOajVOVUFzNjZBV183djJYVDhnQ0RvU2JTemNwS28zdG5aUUpTM1FhS2dCa0VRSGNmSXFZQmJNU1JCZ25YaFZjaE1xcVRwMzJsR1dsV2M5QThCbndqYnVKbzJycE9mLWxUbUtvWDhvSzdDYlFzd1ZaaDZvTmhZOUc1ZGs4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-22T07:25:11+00:00",
-      "category": "Versorgung",
       "tags": [],
       "type": "News"
     },
@@ -1050,16 +1030,6 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspläne: dm sieht OTC-Versand als »Sortimentserweiterung«",
-      "summary_de": "dm verzeichnet weiter ein Umsatzplus in Deutschland und Europa. Dass der Karlsruher Drogist neuerdings in den Gesundheitsmarkt vordringt, sieht dm-Chef Christoph Werner als folgerichtigen Schritt angesichts &raquo;erstarrter&laquo; Strukturen und neuer Bed&uuml;rfnisse.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/dm-sieht-otc-versand-als-sortimentserweiterung-159802/",
-      "published_at": "2025-10-21T17:00:00+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "EMA partners with content creators to promote safe and responsible use of GLP-1 medicines",
       "summary_de": "EMA has launched its first social media campaign working with content creators. The #HealthNotHype campaign aims to raise awareness about the safe and responsible use of GLP-1…, “#HealthNotHype is about passing the message that GLP-1 receptor agonists are not magic solutions for weight loss. Like all medicines, they have benefits and risks and…, Partnering with content creatorsThe Agency carefully selected …",
       "source_name": "News and press releases",
@@ -1190,6 +1160,16 @@
       "type": "News"
     },
     {
+      "title": "Klinik für Kardiologie und Rhythmologie - HEK",
+      "summary_de": "Klinik für Kardiologie und Rhythmologie &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOekR3VmYxNkJVeS1XQVk4QlVYY2dla1o5bUJnUEZ6UkdhSDBYaWNYMGw4TjBNVnRrWHNtcERrNEd5d3l0Vk0wZ1BjWXVXbjZ1ZGEzQ2xhVzNfQXhDOURTZ1JLY19SUVZLUDdsU3Z3dGxCM2RxY0REOVFnemhpdVd3Mlo4c3Q3WUUta3FYVWxDUktiRUQ5NDNWdFVfVlZYN2EtMEgxcEhOaWF5MzVpb0xoQnNlT2pOdGdva1ZJb2p3RnBwdk1iTDloMHBVWWlCLS1ZdFNKTUpSU09Wb01Xb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-21T02:15:24+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Can a Generative AI Platform Enhance Workflow Triage and Efficiency in Radiology?",
       "summary_de": "Through the use of a multimodal system, Viz Assist provides generative AI summaries of patient histories that may ehance care coordination and facilitate more timely interventions.",
       "source_name": "Diagnostic Imaging articles",
@@ -1302,6 +1282,16 @@
       "type": "Studie"
     },
     {
+      "title": "Abschwellende Wirkstoffe - Nasenspray-Abhängigkeit: Wie komme ich davon los? - Gesundheit - SZ.de",
+      "summary_de": "Abschwellende Wirkstoffe - Nasenspray-Abhängigkeit: Wie komme ich davon los? - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSlR4Qjh6QWd3WkJyNFZndVFUQ2I2cDh5QkxLTENMOUdBc24yM1pHb3dYZGQ3dmdRZEQzajgwb1NSMlZmZWdtTVNfank4dTdvMUxDbFZ6Ri1zNUgyNmNtbzRKZERselZoU1dLV2c4VURCRjh0eVdyTV9Kb1ZqajRGWVpwOUlKUmtCUDN5Y1ZZTDdwUjdNNlRVYUhmSjVVV3hNekcyRHdXNVIySnpSWURiTVhJYlFxN1hzMlNKRVUzcHRaS211UlJlSzBjazVISm04Z3lQQzFGLW56VnF4VEtQT2Z1Vk4xNndlUUhQRURQVlEyNlhD?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-19T22:05:10+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Entfernung der Gallenblase (CHE) | Klinik für Anästhesiologie, operative Intensivmedizin und Schmerztherapie | Klinikum Memmingen in 87700 Memmingen - HEK",
       "summary_de": "Entfernung der Gallenblase (CHE) | Klinik für Anästhesiologie, operative Intensivmedizin und Schmerztherapie | Klinikum Memmingen in 87700 Memmingen &nbsp;&nbsp; HEK",
       "source_name": "\"site:hek.de\" - Google News",
@@ -1337,16 +1327,6 @@
       "source_name": "\"site:hek.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOTk9XSkxxMTdDY0dHMTE0MnhIRjk3ZWJmLWhJa0U2WmQ4M2JrUzF2ZVl0amlvc2pkVkxUZ1ptTUFjWjlKTUUydFlYeVdNTnVrLWNoY3hiSUpGMGlrQXNVU0JOLUIwT3dETE9ha3ZVYU5qenViZ29pbFdncU0yYUFJaGpUU3dyVzF1cHJWYXJVQ1NUR0FUV0RsazNLb0YwdkFzbFl5bjNLZmJSX2xrSHRDVmdXMTctSUk5aHAwN3JDTFpjNXB1NWhSU3JZMW8zQ3kyWnJMc2h3ODhTRmRQQjJISmlUdms2ZVl3a0tEN3BuQkhFUGdtaEdfYUFuZ29Hb0tmZlpzRTFIUUUwWE0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-18T22:54:57+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Klinik für Palliativmedizin - HEK",
-      "summary_de": "Klinik für Palliativmedizin &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaUMtUC04b21ma1EyVVNrVWFTVVVRQ2p4NEVWdl85NHUyclpWWEF3aDJRU0pTblRZY0wwTDVuaUJHQ2FqSVlxeWo0bk92d0JGTVdhUmlBbURoNGJJTkRBb2dJN0kzaFZibW50QkNzXzVFZ0RyVENIbEFnRldjcDZ1VFNiVWlCWkxxOU8tZ3ZGeUQ4T3NXZHAxOW5ZNDFGLVZWNTBsdjFnMkQ2LUo3WHdqVDREWm5nY3M?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-18T20:09:22+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1417,26 +1397,6 @@
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV2NqXzAwN1diV3FGN00tZ2lsZldQU1VzSHdRM2k5VFBwUzRJQXhiTXBGdzNBTzNETUFqRjAtNUFIX2g1UXBSeWNiMHNGLU9JaUtEdUVBUWEwRzBsMDRURWRySTBtMGJ0cFpzeUFER1hpRl9OMnBiU25BRUdCTVgzdlgtUkV5LU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-18T05:00:10+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Stellenangebot Oberarzt Innere Medizin und Infektiologie (1) - ärztestellen",
-      "summary_de": "Stellenangebot Oberarzt Innere Medizin und Infektiologie (1) &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb19rT1NyVS10RTNNUFhmZEc2YURWcHZzSXZOTkVNY1diVXU1YmxmeUZkNFZGdERwUjcwSzlMV0psVE9lVWE1WVRNN19jUzk2Zkk4UDB5RWxLOGdCQWVEMElSMWdtbnhKUEx6Z19nMjgxUWJIbldQYTZnR2ZqNUFrc2hiOGpkVTdxNkpIUVZEUGNfTnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-18T04:14:07+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Krankheiten - Zahl der Corona-Infektionen steigt in Sachsen - Gesundheit - SZ.de",
-      "summary_de": "Krankheiten - Zahl der Corona-Infektionen steigt in Sachsen - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZ2tYa2dOQWJuT2ZXRzZrLTdKb1FsZVJHemRlSEVXdXhVcV9SbnVUcnFpbHM5Y2lMclkteVRieGp0MUFJZURDeW5Qdy10UENITVlBM3duVVdYOTZscEhVYXIyVFdjbHI3MFFPblpXV25XaFBFcXltSFNJRXpla2owMW5kQWpIclMyV1o2dHptbFJVNElsaTdEamxzOUdnSF82eTVMNEltb2dJZ0t2NEVoNy1hdUFXZVFYNmlmeXBGWWZLNXgzYy03dWUwVHdpX0x5VDJ1eW1NUy1BLXNSUGEw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-18T02:20:05+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1577,16 +1537,6 @@
       "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcnZZZ1ZtSUszYjJuN3Z1WGY5Tk5HV0x0VXA3ZDd2Z1F3YnFfc1JIdG44RVNfMWZ0dmVqbGFXTGpCYkxNSmN1RUVaZEt3bFFuNDdBUHhzOVZmMm1JOHBhUEFjMm5LYzF6TGl6MmNYMDhfM0N2MmNhbFVhOG5Td0I2cUtEdzFnekpqSDVzRVk3Wlo2bGVzZVMtQzhRV3p5Qi1oaVNYLTQwWkx2WUNtc0JOTEtOcWY5dVZsdzhBZQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-17T08:11:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Psychische Gesundheit: Psychisch belasteter denn je - DIE ZEIT",
-      "summary_de": "Psychische Gesundheit: Psychisch belasteter denn je &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeDZ3eGpGUWtEdzF3UVpHQmN1cGpjal9jZTRkWjJjYVotaTlKMTVfLXJmYVUxWEtteVBOVXFwZWh5OVNjbHlTSzFLQ2NsZG1xSzZZeVpBQzJsUFlQV1hlQUtuYVhRSFQtVHBta21IY083VjBJNC01Y2xxZWxiVHY4WEFMTTF3eFk0TmJFQXg5OVZkallWN3dtc2NqbkVnc09SR1QxZHZhWk8zNFJpeGFrLWtxM1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-17T01:28:31+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1929,6 +1879,16 @@
       "source_url": "https://www.diagnosticimaging.com/view/overabundance-variables-in-radiology",
       "published_at": "2025-10-13T11:48:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Testosteronmangel: Ursachen, Symptome und Hilfe - DAK-Gesundheit",
+      "summary_de": "Testosteronmangel: Ursachen, Symptome und Hilfe &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNblpPdk1tNUY0NHNQTm5XcGlWWjNxM2tUQlRMeWNwQlVTdkFRcGJ2RXdneUJPSDB3QUdRUGY4VkxFVHVDN3BJQlpnaFJyNlBicV9OU1h5Nk9oWFJ0ME9XLUpjQ2g4RHhBeW0tWEtOR0xwQW1OS0M2LVlJYUU4bGdPUE10YjhZcjJpWHNhVW9KeXQ3WWdlWlN6U21DU3hTaF9rTVdFbA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-13T07:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2587,7 +2547,7 @@
     {
       "title": "Den anstehenden Wandel in der Radiologie und Nuklearmedizin mitgestalten - healthcare-in-europe.com",
       "summary_de": "Den anstehenden Wandel in der Radiologie und Nuklearmedizin mitgestalten &nbsp;&nbsp; healthcare-in-europe.com",
-      "source_name": "\"radiologie\" - Google News",
+      "source_name": "\"site:healthcare-in-europe.com radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmRPTmEyeUNjcU11NlBsNTNIOHhTVFBuaTNfcTBMcl9qUkZLZVowSlBheEdkbEpNZ0R4Y3pWTHV6cG1hSnp3QU9BY3lfNjVWRXFpLWpnZFRwSWluV2t3djRmX2ZmZEl5cjFRUGNSTmk1amRmN0w1T18zQzBhdHpTTG1uMXFNa1Z3d2N0QVd4V09qQXBfWm1kbWpXT1luTUFsT052N2Y3QUtYUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-01T09:12:19+00:00",
       "category": "Radiologie",
@@ -2627,6 +2587,16 @@
       "type": "News"
     },
     {
+      "title": "Prof. Dr. Rickmer Braren neuer Direktor der Klinik für Radiologie und Nuklearmedizin des UKE - Informationsdienst Wissenschaft",
+      "summary_de": "Prof. Dr. Rickmer Braren neuer Direktor der Klinik für Radiologie und Nuklearmedizin des UKE &nbsp;&nbsp; Informationsdienst Wissenschaft",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9uRWRTcFJiVU14NHhSYUxlNjd2Nkw3QzEzTXNxdm0tZFBXNlZaTng5cTJZM0ZheHI0bExSUHN3d01OUGNuZDdzWkFoMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-09-30T08:33:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Doppelfacharzt (m/w/d) für Nuklearmedizin und Radiologie - ärztestellen",
       "summary_de": "Doppelfacharzt (m/w/d) für Nuklearmedizin und Radiologie &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
@@ -2663,6 +2633,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeDYtaHVROUNZb0lGOVk1TC1MaENBT1RsNnFnT0tnRHROcC12QXNkY2lMdGU4TGtIRUs1S2NPYWJWLU04eU5XMHFzRjRUbmxndE5CSS1FLThqMC0ycjJBWU5oeThvVFBuQjVVVGY3RkNhYVlnVUQ3Y2dvUWxQQ3lTZFpvVTRMcF9ZV1lLLTMwMUUzeUtyQ1BfRmlrNm90T3RfVERUdEFTcHdNbjNsbjBKM1o0Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-09-29T08:04:45+00:00",
       "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "BARMER Krankenkasse in Simmern - BARMER",
+      "summary_de": "BARMER Krankenkasse in Simmern &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUWdwTkVlOEZ2VW4wWk1yM0NpaHlTUm9xNkZZa0VPS3dvTmg3bW4zZWRkQUdQV1FzalUwYmtVbGNoY3Z4QVdPMVBEZnVLNUdMSW9Za1dmQ3VnaTFjSjUyQkIwWTh2Y2lsLU9Tb294a21iQUhTMzdBSGtudmc1ZXUxd2w1b01Wc1RIOThZdzZmdVJzSnBESDg0X0h6d3cyUk5tTlF6X1ljWlhTOFcwa1h6cG5ybE9VVk9nSEQ0amwydEN0SlVjYjdn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-09-25T07:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2798,6 +2778,16 @@
       "source_url": "https://www.efsa.europa.eu/en/news/nobirdflu-clear-communications-better-biosecurity",
       "published_at": "2025-09-15T08:58:15+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Mindestlohn 2026 und die Auswirkungen auf Minijobs und den Übergangsbereich | Die Techniker - Firmenkunden - Techniker Krankenkasse",
+      "summary_de": "Mindestlohn 2026 und die Auswirkungen auf Minijobs und den Übergangsbereich | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdEZWTkJJSGFlM0hXVWs2RGs4QkFNSDRJRmczVEIxZlFPdEVGQjhOVTMzXy1BdjlHaXpwUmprN3JhQXp6Q085c1B3UDB6NHc1S0lBZjJVdFFobXhLQkVTSFFZMVRHVGd3am0yMDI0dG5JbUttM2RCcWpRVUl0M19RN3VpQkxRaUc5bU4waHZjVTVKdmRFb2NuYmhoclpJZk9MT29Nd3ZVcFdUdnM1cERUSDRFNjI4R1lkbUpnSHdsaGhoUXNRZUJJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-09-15T07:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
