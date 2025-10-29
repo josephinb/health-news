@@ -1,13 +1,105 @@
 {
-  "generated_at": "2025-10-29T06:54:26.675008+00:00",
+  "generated_at": "2025-10-29T09:37:06.290812+00:00",
   "window_days": 42,
-  "count": 282,
+  "count": 279,
   "items": [
+    {
+      "title": "»Projekt Rivage«: Großhändler AEP steht zum Verkauf",
+      "summary_de": "Der Gro&szlig;h&auml;ndler AEP steht zum Verkauf. Angestrebt wird eine 100-prozentige &Uuml;bernahme, wie aus Unterlagen hervorgeht, die der Pharmazeutischen Zeitung vorliegen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/grosshaendler-aep-steht-zum-verkauf-159968/",
+      "published_at": "2025-10-29T09:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Lancet Countdown: Klimakrise kostet Millionen von Menschenleben",
+      "summary_de": "Die menschliche Abh&auml;ngigkeit von fossilen Brennstoffen hat Hitze, Luftverschmutzung und die Verbreitung von Infektionskrankheiten zur Folge. Wie hoch sind die Todeszahlen? Und was ist zu tun? Antworten ein neuer &raquo;Lancet&laquo;-Bericht.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/klimakrise-kostet-millionen-von-menschenleben-159989/",
+      "published_at": "2025-10-29T09:28:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Tipps & Tricks: Trockene Augen am Bildschirm – was wirklich hilft",
+      "summary_de": "Nach einem langen Tag am Rechner f&uuml;hlt es sich an, als s&auml;&szlig;en Sandk&ouml;rner in Ihren Augen? Warum es zu trockenen Augen kommt und welche Mini-Ma&szlig;nahmen Linderung bringen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/trockene-augen-am-bildschirm-was-wirklich-hilft-159988/",
+      "published_at": "2025-10-29T09:02:28+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Kapazität von 15 Millionen Bestellungen: Redcare versendet jetzt auch aus Tschechien",
+      "summary_de": "Redcare, vormals Shop Apotheke,&nbsp;hat seine finalen Gesch&auml;ftszahlen f&uuml;r das dritte Quartal 2025 vorgelegt. Der operative Gewinn steigt weiter, Treiber bleibt das E-Rezept. Redcare versendet neuerdings auch aus Tschechien.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/redcare-versendet-jetzt-auch-aus-tschechien-159985/",
+      "published_at": "2025-10-29T08:20:31+00:00",
+      "category": "Versorgung",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Einladung zur PK am 4. November: Was erwarten die Menschen von einer großen Pflegereform? - DAK-Gesundheit",
+      "summary_de": "Einladung zur PK am 4. November: Was erwarten die Menschen von einer großen Pflegereform? &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSzZjNDBMelRlN3p0VllKLUtBdlYwbko3Vzl4UzhjTmpfNVhleS05dFhWRS1lVFBNRXJneEZ5bjlMa0g5TjBucE1IWmplN3lSeHZhYW1SMmJNZ1BKR2g3X2duc05QbFZfT3BJX3JmYWo0ZXhyWW13c094eGQtX0pzTnFOb3E2V2k2WGZBSFZ4RWN6RFBleFl0ODJmYnZFRFBzU3VxR3Y5M0JULTJlTXNwMEt0blpvODRiS3B6NWM4c1p5T2FTbFdHaFdNZTMyMXB3SVhLbXhNanRZMkpCTngyMDB5dTB3cjdrc1dzaXB2Y2lBWTlTd3g1cQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-29T08:12:30+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "„Clowns gegen Einsamkeit“ gewinnen Wettbewerb für ein gesundes Miteinander in NRW - DAK-Gesundheit",
+      "summary_de": "„Clowns gegen Einsamkeit“ gewinnen Wettbewerb für ein gesundes Miteinander in NRW &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOZHVfY19FMHFjWTQtMWVaMFpxaXBWc0h5LUlSUDUwVW1OejB6Mm1IWGFZUmRsWm1TbWhRRnRTRTcyWmo2MTdkblVJVWtONVY1SUluMWlkQnhoUmdOdnVaVUtvQzBqRmVaYmMxZmJHakxsSHE4d2kxMkdxVzNKYy1yMEpLNzVBUDhFT1c4aENzUjBTcUltcGNBb2F4ODFCSVJNWEtCam9iT095bGgxQmxWQThVa2FEUmFhMUpkeXRTNEJxOTNFWjZaZU5faklDcnFrRW52SFVwdkQzeDBRcHJSLVN4OGhtamYxelJwQ3B3ZVJibnppaHp4R0RPM1RtcDFjM3U5aFUxcXJpdFI4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-29T08:12:28+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Geplanter OTC-Versand: Unklarheit über dm-Apothekenzulassung",
+      "summary_de": "dm will OTC versenden, h&auml;lt sich mit konkreten Informationen zum Start aber zur&uuml;ck. Auch &uuml;ber die notwendige Zulassung der &raquo;dm-Apotheke&laquo; in Tschechien herrscht keine Klarheit. Man sei auf einem guten Weg, hei&szlig;t es lediglich. Eine Klage gegen die Gesundheitschecks ist derweil auf dem Weg.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/unklarheit-ueber-dm-apothekenzulassung-159964/",
+      "published_at": "2025-10-29T08:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Archäologie: Birkenrindenteer zeigt Spuren prähistorischer Mundflora",
+      "summary_de": "Forschende haben die DNA in 6000 Jahre altem Birkenrindenteer untersucht und Ausk&uuml;nfte zur Mundflora pr&auml;historischer Menschen erhalten. Ein Ausgangspunkt, um zu sehen, wie sich das Mundmikrobiom angesichts der Ern&auml;hrung entwickelt hat.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/birkenrindenteer-zeigt-spuren-praehistorischer-mundflora-159785/",
+      "published_at": "2025-10-29T07:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Gesundheit: Virologe Stöhr warnt: Vogelgrippe birgt Pandemie-Risiko - DIE ZEIT",
       "summary_de": "Gesundheit: Virologe Stöhr warnt: Vogelgrippe birgt Pandemie-Risiko &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNajV2c1pvd1h5NEpDS2lTWFREaFp6VXR0M0hNM2lRMDZkMGdBMkNNNzVsb0g3dFp2WGVMS2l6Q1NxRldtOUVQS0hva3ZHTDd3eTRHY1EzVWdIc1ZiZTd4dFBzYTl4UTdlMzhGV21LMC1ERTBBSVJIcGtSSHhtbWpmUGpNeUxZNl94UkpCSDdpRm04VXBuWmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-29T06:14:59+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit - Virologe Stöhr warnt: Vogelgrippe birgt Pandemie-Risiko - Gesundheit - SZ.de",
+      "summary_de": "Gesundheit - Virologe Stöhr warnt: Vogelgrippe birgt Pandemie-Risiko - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRFphbEExUVQydE9aNWdzc3ljT2VSM1hIeW5CdkJLRzN0eEVlQkNFZTZhN3hnb1g3XzFwdVQ1aG1WMUF2TTNnVm9ib2RfVGVRSjNuUzVURjY1NU1vNEJuZTVYd1Jwdjc2TXpQQzdmUWRCNWJQdS04Z3dEN0ZXc0RVM0hCN3psd2Rjd0VYZnQ0ZTNKQWRjWDJVbjlFMnVvbmpaVlYzd0JQc19OR3R3UFRJS29OeFQ4WDRaRmN0YTJpWFhuZjcwV2FlR3Mxc3hhSndpOXBCSnhsZW1aSE1XUU5qMXVscVZyWmR6TjVN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-29T06:14:59+00:00",
       "category": "News",
       "tags": [],
@@ -50,16 +142,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/mrna-coronaimpfung-mit-zusatzeffekt-bei-krebs-159962/",
       "published_at": "2025-10-28T16:00:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "NYU researcher's new book explores how imaging is 'changing our world'",
-      "summary_de": "Imaging is a \"transformative technology,\" said author Daniel Sodickson, MD, PhD.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/practice-management/article/15770318/nyu-researchers-new-book-explores-how-imaging-is-changing-our-world",
-      "published_at": "2025-10-28T15:45:10+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -149,16 +231,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbEdjY3BOMlBEU3RIUE9RWlV6TVJFUWZyWUJ5OXMzc3FvS0N5c3NtWDA1c0hTRThaWHRCSE9YVUt5SmwxWWEtSGg3UjJXUjdsX3pkVUJOY045SWczMUtWYUJzZENiclZFUXVEUHBFcmFjZkRrTnRveU9YZDdTanhyWHJkQTJaX2dBeHBXRE1YNTNGQlBvcXBZQnZGQjM2Y3RBMFR5bDdQd3lOLVpKSFBnRUl5ellTbHFQR2NCRUxhdF9PejRzMXg5MFVZcXp5dDU3cjEtZE55Sms2UGEtUlotS1J4ZENBMVpldmZyRjN3VFY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-28T14:27:51+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Mirai shows promise for detecting interval breast cancers",
-      "summary_de": "The AI risk prediction model Mirai showed promise for detecting interval breast cancers from screening mammograms.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15770350/mirai-shows-promise-in-detecting-interval-breast-cancers",
-      "published_at": "2025-10-28T14:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -354,16 +426,6 @@
       "type": "News"
     },
     {
-      "title": "Book excerpt from 'The Future of Seeing' by Daniel Sodickson",
-      "summary_de": "Daniel K. Sodickson, MD, PhD, explores how the use of AI could create smart medical scanners with \"memory.\"",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/practice-management/article/15769767/book-excerpt-from-the-future-of-seeing-by-daniel-sodickson",
-      "published_at": "2025-10-28T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Surfactant: Seufzen verbessert die Lungenfunktion",
       "summary_de": "Sorgenvoll, wehm&uuml;tig oder gelangweilt &ndash; ein Seufzer kann Ausdruck vieler Emotionen sein. Einmal tief durchzuatmen, kann Erleichterung bringen. Das l&auml;sst sich auch physiologisch begr&uuml;nden, wie Forschende herausgefunden haben.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -524,26 +586,6 @@
       "type": "News"
     },
     {
-      "title": "»Keiner braucht die Apotheken«: Wut nach FAS-Krawallkommentar",
-      "summary_de": "Weil Drogerien den Gesundheitsmarkt aufmischen, geraten Apotheken in die Schlagzeilen. Mit dem Kommentar &raquo;Keiner braucht Apotheken&laquo; sorgt etwa die &raquo;Frankfurter Allgemeine Sonntagszeitung&laquo; (FAS) f&uuml;r w&uuml;tende Reaktionen in der Apothekenwelt.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/wut-nach-fas-krawallkommentar-159904/",
-      "published_at": "2025-10-27T13:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "»Mit Eigenkonsum nichts zu tun«: Warken sieht Cannabisgesetz als »Problem«",
-      "summary_de": "Die Teilfreigabe von Cannabis bewerten Union und SPD weiter unterschiedlich. W&auml;hrend die SPD den Schritt als &uuml;berf&auml;llig darstellt, sieht die Union darin vor allem Risiken. Bundesgesundheitsministerin Nina Warken (CDU) will kleinere Besitzmengen und mehr Jugendschutz.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/warken-sieht-cannabisgesetz-als-problem-159903/",
-      "published_at": "2025-10-27T11:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -582,18 +624,6 @@
       "category": "Versorgung",
       "tags": [],
       "type": "News"
-    },
-    {
-      "title": "Orale Tumortherapeutika: AMBORA in der Routine angekommen",
-      "summary_de": "Die pharmazeutische Beratung onkologischer Patienten mit oraler Tumortherapie ist am Universit&auml;tsklinikum Erlangen heutzutage fester Bestandteil der Versorgung. Die Basis lieferten die positiven Ergebisse der Studie AMBORA.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/ambora-in-der-routine-angekommen-159887/",
-      "published_at": "2025-10-27T10:00:00+00:00",
-      "category": "Studie",
-      "tags": [
-        "Versorgung"
-      ],
-      "type": "Studie"
     },
     {
       "title": "Radiomics models based on pituitary MRI predict GHD",
@@ -638,26 +668,6 @@
       "type": "News"
     },
     {
-      "title": "Alzheimer-Forschung: Es hat Clic gemacht",
-      "summary_de": "Forschende haben ein Protein namens CLIC1 als zentralen Schalter in Mikrogliazellen im Gehirn identifiziert. Die Entdeckung k&ouml;nnte zuk&uuml;nftig zu neuen Alzheimer-Medikamenten f&uuml;hren.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/es-hat-clic-gemacht-159889/",
-      "published_at": "2025-10-27T08:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Krankheitsnamen : Wenig appetitlich – aber anschaulich",
-      "summary_de": "Die Bezeichnungen f&uuml;r manche Krankheitsbilder leiten sich von Nahrungsmitteln ab. Aber warum bedienen sich die Namensgeber bei Schmackhaftem, wenn das Beschriebene nicht immer appetitlich ist?",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/wenig-appetitlich-aber-anschaulich-159593/",
-      "published_at": "2025-10-27T06:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Intratracheal instillation of corticosteroids combined with surfactant for preventing chronic lung disease in preterm infants",
       "summary_de": "Intratracheal instillation of corticosteroids combined with surfactant for preventing chronic lung disease in preterm infants",
       "source_name": "Cochrane Library RSS feed.",
@@ -666,6 +676,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Klinik Stellenangebote in Düren (3) - ärztestellen",
+      "summary_de": "Klinik Stellenangebote in Düren (3) &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VamV4T3M4RzhWYjB1OHNXSGlfc3AyQS1CV2RTOG1QUVVzV1V6dkN0eTJyZWc2ZUhIem56bkZFcTd6aGpaYUhrc25fbkw1SzRvTG5hZEhuanU4Yk9hRUZlQm1iM0tHSHZzeTI4VzBlVjNwQ1RLMnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-26T21:08:02+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Diagnostic Imaging articles: Update",
@@ -693,16 +713,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTUpzcXBXMER3U1BNZlVEeXJQcW9nNk1YYW9YZ2F0T3dsTkF2NkhLdHlWTC1qTzlZS1pCSWVqUmhyNDlZMkRIOUdPVTBoMEtPZkxZdjFRclZpeXZydVk0ZDYyelBlVjQ0NDdGclctdDc0ZXBnLUUxVkRUNkh2c1doY2d2b2duUVcydk4yM3hnRWlnazBVclFDYTB0RVZSWjNCRlFEXzhEUHpVWW9RcVFWR2RnRnNOamJXcUdRamcwRmpKUmM1N2t5Z1dCLUpIbjZsUnFfYUtlT2REb3JZZUFta1RwSzBwYVAwMUJubg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-26T09:14:30+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Informationen für Arbeitgeber: Beitragssätze 2025 - DAK-Gesundheit",
-      "summary_de": "Informationen für Arbeitgeber: Beitragssätze 2025 &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOM2RlWlVNeTlNLTBrbWxDTkJ2OF9LdjdFS1dGTWd0ODRMaFMxVmhMZ3ZHaEF0ODNWbEJZZ25YY1VJVTB3SWpHbWppNnBiX05TaE5KZ2ZBRW93S0JJZzlNSE95cDhhaXdISmhWNWdnTzYzOXRRZmhFMWRBYU95aS1DMlo3M2JUSHJoOTVsY0FxUEc5ZmVpcF9jbjNoZUNiaVlvcjFfRmJUZDhmLW4zaGduMXlDY1gzN2VDcnRoY2RqYVNyRU9nMmFQbDA4dGxvLWVPOUhwZA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-26T07:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -828,14 +838,14 @@
       "type": "News"
     },
     {
-      "title": "Beobachtungsstudie: Weniger Zucker, gesünderes Herz",
-      "summary_de": "Ein stark reduzierter Zuckerkonsum in den ersten Lebensjahren kann die kardiovaskul&auml;re Gesundheit bis weit ins Erwachsenenalter st&auml;rken. Laut einer aktuellen Studie sinkt das&nbsp;Risiko f&uuml;r Herzinfarkt, Schlaganfall und Co. um bis zu 30 Prozent.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/weniger-zucker-gesuenderes-herz-159883/",
-      "published_at": "2025-10-24T16:00:00+00:00",
-      "category": "Studie",
+      "title": "PSMA-PET may require selective use to be cost-effective",
+      "summary_de": "Yale University researcher developed a decision-analytic model to estimate lifetime cost outcomes associated with PSMA-PET.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15770119/psmapet-may-require-selective-use-to-be-costeffective",
+      "published_at": "2025-10-24T17:21:23+00:00",
+      "category": "News",
       "tags": [],
-      "type": "Studie"
+      "type": "News"
     },
     {
       "title": "Lichtverschmutzung: Zu hell in der Nacht: Licht als Gefahr für die Gesundheit - DIE ZEIT",
@@ -1080,8 +1090,8 @@
       "type": "News"
     },
     {
-      "title": "Krankenkasse für ein gesünderes Leben | BARMER - BARMER",
-      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; BARMER",
+      "title": "Krankenkasse für ein gesünderes Leben | BARMER - Barmer",
+      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-23T12:23:06+00:00",
@@ -1156,16 +1166,6 @@
       "source_url": "https://www.gov.uk/guidance/register-for-the-distance-selling-logo",
       "published_at": "2025-10-23T09:49:37+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Xylit - Allergisch auf Birkenpollen: Kann ich Birkenzucker essen? - Gesundheit - SZ.de",
-      "summary_de": "Xylit - Allergisch auf Birkenpollen: Kann ich Birkenzucker essen? - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNX2hjaUpjUFhsek5yUW90TkJMRzJ4SVhxNDladjB5Ykg5U0NpUFM3MFI5S0t4d29nQjY3Q1hYMzREcXhyUTZQTHdhLWhGRTBQWjRDYWNyRktrSTVKNEJoWEFCeWUxbV81cXNPMk5qYzJZOVFGNlZmQXJBWnlhb3lpQ0RCcHIxajZMbzhyVHMzdkR0dzZIMzRlRW5UTjRwLS1jVkFWZmtCWHJMSXM3aTNpZm9CX19WVzNEYnU0aUd6Tk5xcUNFOVFmOXVpY3hwT1U3cEpxekJ5aFZTVlFIM0FvbTNBc3I?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-23T09:20:49+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1260,6 +1260,16 @@
       "type": "News"
     },
     {
+      "title": "New procedure treats chronic pain in toe joints",
+      "summary_de": "Median pain scores dropped for 27 patients from nine to one after five months.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15770096/new-procedure-treats-chronic-pain-in-toe-joints",
+      "published_at": "2025-10-23T08:32:03+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Diagnostic imaging dataset for June 2025",
       "summary_de": "The Diagnostic Imaging Dataset (DID) is a central collection of detailed information about diagnostic imaging tests carried out on NHS patients, extracted from local Radiology Information Systems (RISs) and submitted monthly.The DID captures information about referral source and patient type, details of the test (type of test and body site), demographic information such as GP registered practice, patient postcode, ethnicity, …",
       "source_name": "Publication Feed",
@@ -1288,6 +1298,16 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-primary-care-workforce-recruited-through-the-additional-roles-reimbursement-scheme-arrs/1-october-2024---30-september-2025",
       "published_at": "2025-10-23T08:31:03+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "HPI study, online tool identify and predict cancer disparities",
+      "summary_de": "Factors such as poverty and environmental toxins are some of the most common community-level predictors of U.S. cancer disparities...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/practice-management/article/15770061/hpi-study-online-tool-identify-and-predict-cancer-disparities",
+      "published_at": "2025-10-23T06:33:01+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1408,16 +1428,6 @@
       "source_url": "https://www.diagnosticimaging.com/view/new-research-impact-pre-op-mri-breast-cancer-recurrence",
       "published_at": "2025-10-22T11:59:00+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "CAFM-Datenmanager / Administrator (m/w/d), MAX-DELBRÜCK-CENTRUM FÜR MOLEKULARE MEDIZIN - FAZ Stellenmarkt",
-      "summary_de": "CAFM-Datenmanager / Administrator (m/w/d), MAX-DELBRÜCK-CENTRUM FÜR MOLEKULARE MEDIZIN &nbsp;&nbsp; FAZ Stellenmarkt",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVUhMVjA1c3lrS3pyMmtfYzJTMW9GUHRzM1pUc0VzSlZvdEQ2Ry1ObnU0NVl6ODhRWGJySTdEVGFnaXNOQ0k0TnZyTTl6bkQ5SGNvZ0NPUlBFd0QtaUdjOUtEcW9VellUdGZLQUVGbTJxWVBCamdEODNHUkpUMjRvdUVUbkEyYlNmZVptYXRwYTl4RjhLa3U2Vg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-22T11:46:32+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1544,16 +1554,6 @@
       "type": "News"
     },
     {
-      "title": "Klinik für Pneumologie, Internistische Intensiv- und Beatmungsmedizin - HEK",
-      "summary_de": "Klinik für Pneumologie, Internistische Intensiv- und Beatmungsmedizin &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQcUlJZUtKVnROOS1OQnEtc1g0djZmNXBfeHFMdTNXNHRJN3hyYUZxd005ZHh5WHA3Y2tGY2ZPanY2TlNiYjRKMF9ReDVwM2xnY3E2MzBSSHByWXFCTW9CU0drOTU5ejlpSlAzYUE0UjZLcGtoN0lUT2ZvYXBiTG1sd29YTUR6TzRSaWt1YXJndG4wemdBVkZpdzI0RXNkU0gxUV9aMHhva01kN3IyUkN1UU9sTUpMNkhnMzFDal9neVF6TVk4T0FteFJDSVVSRElJWlhmVE83ODhMN1Q2bUhHeWFtNE5RZXowU1JaZG5sTjVuSmdaVDV2WEVFMk9DUnJXSTJPem1xRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-21T08:53:56+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Klinik für Kardiologie und Rhythmologie - HEK",
       "summary_de": "Klinik für Kardiologie und Rhythmologie &nbsp;&nbsp; HEK",
       "source_name": "\"site:hek.de\" - Google News",
@@ -1624,8 +1624,8 @@
       "type": "News"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-20T07:00:00+00:00",
@@ -1661,16 +1661,6 @@
       "source_name": "\"site:hek.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOTk9XSkxxMTdDY0dHMTE0MnhIRjk3ZWJmLWhJa0U2WmQ4M2JrUzF2ZVl0amlvc2pkVkxUZ1ptTUFjWjlKTUUydFlYeVdNTnVrLWNoY3hiSUpGMGlrQXNVU0JOLUIwT3dETE9ha3ZVYU5qenViZ29pbFdncU0yYUFJaGpUU3dyVzF1cHJWYXJVQ1NUR0FUV0RsazNLb0YwdkFzbFl5bjNLZmJSX2xrSHRDVmdXMTctSUk5aHAwN3JDTFpjNXB1NWhSU3JZMW8zQ3kyWnJMc2h3ODhTRmRQQjJISmlUdms2ZVl3a0tEN3BuQkhFUGdtaEdfYUFuZ29Hb0tmZlpzRTFIUUUwWE0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-18T22:54:57+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Klinik für Palliativmedizin - HEK",
-      "summary_de": "Klinik für Palliativmedizin &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaUMtUC04b21ma1EyVVNrVWFTVVVRQ2p4NEVWdl85NHUyclpWWEF3aDJRU0pTblRZY0wwTDVuaUJHQ2FqSVlxeWo0bk92d0JGTVdhUmlBbURoNGJJTkRBb2dJN0kzaFZibW50QkNzXzVFZ0RyVENIbEFnRldjcDZ1VFNiVWlCWkxxOU8tZ3ZGeUQ4T3NXZHAxOW5ZNDFGLVZWNTBsdjFnMkQ2LUo3WHdqVDREWm5nY3M?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-18T20:09:22+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1834,6 +1824,16 @@
       "source_url": "https://www.diagnosticimaging.com/view/ge-healthcare-enhancements-venue-point-of-care-ultrasound-systems",
       "published_at": "2025-10-16T11:56:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Beitragsabschlag für Beschäftigte mit Kindern - DAK-Gesundheit - DAK-Gesundheit",
+      "summary_de": "Beitragsabschlag für Beschäftigte mit Kindern - DAK-Gesundheit &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb3ZoMzRMSFVlajhCTUw5TnZGMDduemNMZUMyTDZwM09GLUI5bXdTc19hVVpEcFA0N3ZmZGdmTm9YRlZoZF9CRjEtY2lCWTVkb21VdlpLT3BRVHdaZ2thMDRJcnpHejRFcGR5YmYxaHNJZjBYZ2VJTDF3cERsUDJsWDhNaEthSWhsSDhSdl85MFVnRVhTZ21TcDN0aHlTbjBsenlDa3I0M2JDR0VzaTVQZy1reXpSRWJRaVZJSkhfOEtoNE9JMHZ4bXZ3bVdpSUtkbGhFTGVDRUJ1bU5z?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-16T11:16:25+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2015,10 +2015,10 @@
       "type": "News"
     },
     {
-      "title": "Fibromyalgie – Symptome, Ursachen und Behandlung - DAK-Gesundheit",
-      "summary_de": "Fibromyalgie – Symptome, Ursachen und Behandlung &nbsp;&nbsp; DAK-Gesundheit",
+      "title": "Schwangerschaftsmythen unter der Lupe - DAK-Gesundheit",
+      "summary_de": "Schwangerschaftsmythen unter der Lupe &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BTnVNZVVZQXVXaEJ3b05EYThxVW03NnpPSi0xVmE4UHdvVFY1UXBTNHljczVGRHp6YkJfZ0tLUEs4MjRKWTkyMU41YWo2VmQwQ1ZMN1NVbnktLTlrLTNHQWZDZzB5OWg2Zl9EZVQ5czdsdnVF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaHVKb1BqazJ2Nl9jRVg0YTB0TEJQYVM2R05pWTFsazZRTmZMUTJQZHNtNnd1Zko0RzFYX1A4MXlONWdpS2JFSHRIZUNyQmIwRS1KUDhiZzdiek5oQ0l5T25fUWE5d0JJbmpSQ1BDZ0pnM0Jpd19rZXBkV3VyM2d4RlVLMko0NzQxVFVrX0FxaXJTQlJqSGNoUy1rdDNYb1R6aXpSUjdSYVZ4bFRjZGd0UVhXRVM0RHFYdWVLQjE3QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-14T07:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -2107,22 +2107,22 @@
       "type": "News"
     },
     {
-      "title": "Servicezentrum - DAK-Gesundheit",
-      "summary_de": "Servicezentrum &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHOE1fbTFIVXZFM1FPQzhoc0RPZnNReUpkSm1tOXB5Ty1sM2pmVVVfclhXZzdseXh1d0tOSTQ5RkhkME5YUWNNZWsyMzF6dTFlZ0EwWExsRVRHX1FwN3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-13T11:39:30+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
       "source_url": "https://www.diagnosticimaging.com/view/diagnostic-imaging-weekly-scan-october-5-october-11",
       "published_at": "2025-10-11T15:17:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Servicezentrum - DAK-Gesundheit",
+      "summary_de": "Servicezentrum &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWcEgxM1Yza3k4RDYwM1lYRlRRRkRnUDFBbEZ5RlliOEpva25aMDhMOFpLNGRTbUM2VmdTYmRoY1IwSTYtRklldWg4TFBINFdZeXp0N2wxVUdSWkNGdUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-11T12:43:51+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2137,12 +2137,12 @@
       "type": "News"
     },
     {
-      "title": "Tipps für die Babypflege: So pflegst du dein Baby richtig - DAK-Gesundheit",
-      "summary_de": "Tipps für die Babypflege: So pflegst du dein Baby richtig &nbsp;&nbsp; DAK-Gesundheit",
+      "title": "Yoga-Kurs: Wir beteiligen uns an den Kosten - DAK-Gesundheit",
+      "summary_de": "Yoga-Kurs: Wir beteiligen uns an den Kosten &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWNmOWVlUEpPQmcwUlRqX3FScUdCRUliNlRZWTZTWVl0RGJtNktCLU5oMk9VdWhabkhzSm5lTEptbTJrR0dQdzd3THk4Z3hkaEZaQzFwMk1BeHAzSS1qcTNweUI2RG43aWRMVFJud1B6R0NveEVWd3QyOG1BSlpKenFob0xob1BRQzhwY2pEajh0a2tOZE5vQ09iWjNOVk40WllMVHd4Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS21JamVBbFJVTVU5aEREY3ZNVUpiUGhMVU9udTFwREIzVDNvbnBIWVZSaDRVQjBhQWVDajQ1bkJHSjFrSDlGSzBDM2hlbnJNRS1KbjIxRDNWV1JCWGFPWXlsemNzOE1maFBlcm13WGVCbGk3bDNKM0ZZSTA1Q0xJV1F4ZGhmNUhnTDFIT3FLTnRsZnR1a0NwaThHNUUzN0RxQXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-10T07:00:00+00:00",
-      "category": "News",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -2575,16 +2575,6 @@
       "type": "News"
     },
     {
-      "title": "Leitung: Kufsteiner Krankenhaus hat neuen Primar für Radiologie - MeinBezirk.at",
-      "summary_de": "Leitung: Kufsteiner Krankenhaus hat neuen Primar für Radiologie &nbsp;&nbsp; MeinBezirk.at",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSThGVFViQzgxdmJPOWIxb0QxSFh3Wi1uUWlHU3FUY1lPMkRGVGRnTUZuRko5c055MmNnQ0JvSFQtVTNTSnNpMVBUTHF3TTB5LUE4aEdzU3ZXUFhLM1lNWWZmYklCLVlTejB4b0U2aV9ySXVXeU5xSGY4SFNkMXhkTnBuSGltV1dwUWFNZU94ZmpyaEZNZ2U4SnZpN1VYV3d1UTRLOVpaT1JOU2loVnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-07T07:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Verbesserung der datengestützten QS: IQTIG schlägt Monitoring auf Basis von Sozial- und Abrechnungsdaten vor",
       "summary_de": "Berlin, 6. Oktober 2025 - Das IQTIG hat seinen Abschlussbericht „Entwicklung und Anwendung eines Konzepts zur kontinuierlichen und systematischen Identifizierung von relevanten Qualitätsdefiziten und Verbesserungspotenzialen“ veröffentlicht. Grundlage war eine Beauftragung durch den Gemeinsamen Bundesausschuss (G-BA) vom 12. Mai 2023. Die Beauftragung stellt einen weiteren Schritt zur Umsetzung des Beschlusses vom 19. April 2022 („Eckpunktebeschluss“) zur Weiterentwicklung der datengestützten gesetzlichen Qualitätssicherung …",
       "source_name": "Pressemitteilungen | IQTIG",
@@ -2751,16 +2741,6 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Simmern - BARMER",
-      "summary_de": "BARMER Krankenkasse in Simmern &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUWdwTkVlOEZ2VW4wWk1yM0NpaHlTUm9xNkZZa0VPS3dvTmg3bW4zZWRkQUdQV1FzalUwYmtVbGNoY3Z4QVdPMVBEZnVLNUdMSW9Za1dmQ3VnaTFjSjUyQkIwWTh2Y2lsLU9Tb294a21iQUhTMzdBSGtudmc1ZXUxd2w1b01Wc1RIOThZdzZmdVJzSnBESDg0X0h6d3cyUk5tTlF6X1ljWlhTOFcwa1h6cG5ybE9VVk9nSEQ0amwydEN0SlVjYjdn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-09-25T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "More and more Europeans know how EU food safety works, says latest citizen survey",
       "summary_de": "These findings and a wealth of additional results on what drives food choices in Europe are available in the new “ 2025 Eurobarometer Survey on Food Safety in the EU ”. EFSA conducts the survey every 3 years, which this year includes both the 27 EU Member States and 7 EU Candidate Countries at the same time. See the summary …",
       "source_name": "EFSA | News",
@@ -2831,12 +2811,12 @@
       "type": "News"
     },
     {
-      "title": "Kundenberater/-in (m/w/d) in Offenbach - DAK-Gesundheit",
-      "summary_de": "Kundenberater/-in (m/w/d) in Offenbach &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQkNCM01NRWZMdWRxYTlybXMxY2hQXzdaR0dsbDU3YTNSal9sNWRqaHlIM18tRGJuY014NVI4Q1hvd2hDcUJHbVRxYnZ6a0F5RG4xS0ZPM2pZbGJwcVpidl9xeTFJaE5LcjBtLU1zVVhncUxMUGt2WF9YdVpoSmlJSUNmd3BIa1I3bEF0X3d6R2tLa0tKRlpIdks2Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-09-18T09:56:27+00:00",
-      "category": "News",
+      "title": "Neuer Meilenstein für die Radiologie am Allgemeinen Krankenhaus Celle - celleheute.de",
+      "summary_de": "Neuer Meilenstein für die Radiologie am Allgemeinen Krankenhaus Celle &nbsp;&nbsp; celleheute.de",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPelk5S0x4cGtWbTI1VVFpYXpGRWl2ZURmbG1OYnVjM21tMTVGVkt6UHRxZXNQQkt4MHo1cTJYRkZkTlJOWHpKMWE5eUhMNEJjVGZQUkdpSHlEMHM1Z1J5QVhNX2FkTnU2aEc4b2VPdWtWaFEzWXhaR2U3bWFxZ3VOZFRIQzNGY29UWkExeGRqaWZjSlNZcnBDMDUxYWJrZWtEVjN4d3NRZnI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-09-18T07:00:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -2851,16 +2831,6 @@
         "Versorgung",
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Episode 32 – Data vs stereotypes: what Europeans eat",
-      "summary_de": "What do Europeans eat? We’re talking data - why it’s crucial for healthy diets. Join us as we test stereotypes and learn why we may start wearing data chips on our teeth!",
-      "source_name": "EFSA | News",
-      "source_url": "https://www.efsa.europa.eu/en/podcast/episode-32-data-vs-stereotypes-what-europeans-eat",
-      "published_at": "2025-09-17T09:30:41+00:00",
-      "category": "Europa",
-      "tags": [],
       "type": "News"
     }
   ],
