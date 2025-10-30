@@ -1,24 +1,34 @@
 {
-  "generated_at": "2025-10-30T03:32:15.773311+00:00",
+  "generated_at": "2025-10-30T06:51:22.335513+00:00",
   "window_days": 42,
-  "count": 226,
+  "count": 227,
   "items": [
     {
-      "title": "Liraglutide for adults living with obesity",
-      "summary_de": "Liraglutide for adults living with obesity",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016017",
-      "published_at": "2025-10-30T00:01:00+00:00",
-      "category": "Studie",
+      "title": "Prästationäres Aufnahmemanagement: Eine Chance für die Klinikapotheke",
+      "summary_de": "Am Universit&auml;tsklinikum Hamburg-Eppendorf gibt es einen pr&auml;station&auml;ren Tag, an dem Patienten vor einer geplanten OP verschiedene Abteilungen durchlaufen. Dieser strukturierte Prozess bietet Vorteile f&uuml;r alle Beteiligten.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/eine-chance-fuer-die-klinikapotheke-160026/",
+      "published_at": "2025-10-30T06:00:00+00:00",
+      "category": "Wirtschaft",
       "tags": [],
-      "type": "Studie"
+      "type": "News"
+    },
+    {
+      "title": "Geburtshilfe - Weniger Geld für Hebammen: Kreißsaalschließungen befürchtet - Gesundheit - SZ.de",
+      "summary_de": "Geburtshilfe - Weniger Geld für Hebammen: Kreißsaalschließungen befürchtet - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQN2Vlbl84WHVMdElFVUZ3YktSZVM5TDRWS0t4a1JvMFVWdXVsc1RpbTVoaWFmNVdyZkRGaWNwWkFDUEpadFBaQjRfNVRWTHV5ZlAzaThNYkZpQkNnNy1TakZzcDJGY0wxVkJhdGtSMzg4U05xOHN0dUU3UjUwRGwzUmR4ZnZFejNIOVk5eEdUNnVFX3laM1JZa0FzRHlKUlpBM2pBZVhTNUFjS0J0RGJOTjQybnNaaDFGYUdUQWItVlBUTkZBNjNBWlNNN2cybkFjMEY0bW1QeWVQS0taSVlzQVpEOUVZNVZQTUxjN2NhbnNxRFFlMmNN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-30T03:30:08+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Tirzepatide for adults living with obesity",
       "summary_de": "Tirzepatide for adults living with obesity",
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016018",
-      "published_at": "2025-10-30T00:01:00+00:00",
+      "published_at": "2025-10-30T00:00:00+00:00",
       "category": "Studie",
       "tags": [],
       "type": "Studie"
@@ -28,7 +38,17 @@
       "summary_de": "Semaglutide for adults living with obesity",
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015092.pub2",
-      "published_at": "2025-10-30T00:01:00+00:00",
+      "published_at": "2025-10-30T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Liraglutide for adults living with obesity",
+      "summary_de": "Liraglutide for adults living with obesity",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016017",
+      "published_at": "2025-10-30T00:00:00+00:00",
       "category": "Studie",
       "tags": [],
       "type": "Studie"
@@ -354,16 +374,6 @@
       "type": "News"
     },
     {
-      "title": "Malpractice factors tied to imaging use in emergency department",
-      "summary_de": "Several liability and damage caps are tied to less imaging being used for patients who present with a headache.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/practice-management/article/15770567/malpractice-factors-tied-to-imaging-use-in-emergency-department",
-      "published_at": "2025-10-29T08:44:13+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Kapazität von 15 Millionen Bestellungen: Redcare versendet jetzt auch aus Tschechien",
       "summary_de": "Redcare, vormals Shop Apotheke,&nbsp;hat seine finalen Gesch&auml;ftszahlen f&uuml;r das dritte Quartal 2025 vorgelegt. Der operative Gewinn steigt weiter, Treiber bleibt das E-Rezept. Redcare versendet neuerdings auch aus Tschechien.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -599,19 +609,9 @@
       "title": "Mirai shows promise for detecting interval breast cancers",
       "summary_de": "The AI risk prediction model Mirai showed promise for detecting interval breast cancers from screening mammograms.",
       "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15770350/mirai-shows-promise-for-detecting-interval-breast-cancers",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15770350/mirai-shows-promise-in-detecting-interval-breast-cancers",
       "published_at": "2025-10-28T14:00:00+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "AKWL: »Bagatellpillen gibt es medizinisch nicht«",
-      "summary_de": "In einem Leserbrief hat sich die Pr&auml;sidentin der Apothekerkammer Westfalen-Lippe (AKWL), Gabriele Regina Overwiening, an die Redaktion der Frankfurter Allgemeinen Sonntagszeitung (FAS) gewandt und der in einem Kommentar ge&auml;u&szlig;erten These&nbsp; &raquo;Keiner braucht die Apotheken&laquo; entschieden widersprochen.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/bagatellpillen-gibt-es-medizinisch-nicht-159958/",
-      "published_at": "2025-10-28T13:30:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -1018,6 +1018,16 @@
       "type": "News"
     },
     {
+      "title": "Week in Review: False-negative breast cancer screenings | MRI predicts diabetes | Medicare claims hold changes",
+      "summary_de": "The rise in false-negative breast cancer screening exams and the use of MRI for predicting diabetes in obesity patients were the...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15770181/week-in-review-falsenegative-breast-cancer-screenings-mri-predicts-diabetes-medicare-claims-hold-changes",
+      "published_at": "2025-10-25T07:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "Vor-Ort-Angebot: Bei Kaffee und Kuchen über die eigene Gesundheit plaudern - DIE ZEIT",
       "summary_de": "Vor-Ort-Angebot: Bei Kaffee und Kuchen über die eigene Gesundheit plaudern &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -1095,6 +1105,16 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPT1g0NWlEU0RVNHhZQUpiWXFhWTc5d1AzbTBWdVdkYWFVa0RvcnU5TVpfd2RZd1h3aUctZk1WaG9CWjhmTzdZSzU3bUQyTXJqSW1PYXFzVlhycmV3aDZHZEstZmR1WGFOWVdyUG04dXFIZFBJTVN3bngtVnpudnF6U0l4VTlUalBWMDNSQkFnYUlQdnkxcTRqRk15QTFTVHVCZXp6Q0xuaXNrTHl1RmduVG9fZ0FJMm5ybkh2U2tKN19ENjJJaTBUdjVaelpjano1Y2EyYjJ4Vzh6aGtCU2V0M3U5UWZTRDRF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-24T11:39:37+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit - Was bringt die Last-Minute-Operation für stabile Beiträge? - Gesundheit - SZ.de",
+      "summary_de": "Gesundheit - Was bringt die Last-Minute-Operation für stabile Beiträge? - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRExycVdWbTdMQi01VGxtS2xBYkJYUUpZMThldS14TkZUZkVicF9hR3plUzJlUGpWZjA0Rmw1cUJuM3ZZZEpjZGdKM0wxM1hjZTRXRUZHVUdIUW15Mk5yaFVOa0lJWThfamd6b3BlVGpxblpSWjg1SjNxb1hVbHpPaUdOX2VzZk5EQmstdV9udnZTeWhra0xCZ1ZPWnl6WUVKd1p0Vi1uOEt1WXBUVFBObG56dmZEYUZ1UHFGc29COF9SN3NVVFVUOHpWSVI4UzBFaTB1TE94UWwyTFlzdDBPeWJ6RlF4eFJjXzc2ZG9IYmg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-24T11:32:46+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1869,16 +1889,6 @@
       "type": "Studie"
     },
     {
-      "title": "Inkontinenz: Diese Maßnahmen helfen - DAK-Gesundheit",
-      "summary_de": "Inkontinenz: Diese Maßnahmen helfen &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVhMOHdoeHBBWHVMNVlKYzFjWWtULW1ka3liYmRCZDFtZ3dKZ1pFMHZPb1hyU3hMM092Ry0wNWpKNXlwVTh6QWQ2QzRmNDk1VmoyTTItMENqNFRXSnNuNWtqWnRpZjVHWEVnODZFM3dOV0RLQ1YwZGwzc2pEanR4OElVUWs2djRyX0taOEszZnBoRE1qRkNN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-14T21:56:57+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -1979,6 +1989,16 @@
       "source_url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-veterinary-medicinal-products-cvmp-7-9-october-2025",
       "published_at": "2025-10-10T12:00:00+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Yoga-Kurs: Wir beteiligen uns an den Kosten - DAK-Gesundheit",
+      "summary_de": "Yoga-Kurs: Wir beteiligen uns an den Kosten &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS21JamVBbFJVTVU5aEREY3ZNVUpiUGhMVU9udTFwREIzVDNvbnBIWVZSaDRVQjBhQWVDajQ1bkJHSjFrSDlGSzBDM2hlbnJNRS1KbjIxRDNWV1JCWGFPWXlsemNzOE1maFBlcm13WGVCbGk3bDNKM0ZZSTA1Q0xJV1F4ZGhmNUhnTDFIT3FLTnRsZnR1a0NwaThHNUUzN0RxQXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-10T07:00:00+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -2273,16 +2293,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTGdRc0RnOFRXcUF5aTFheGI4a0lXU2dyWkczWjd5QTBVT2JZUGlIZVdRUmxIRzdmWVpNd19UanhrLVF4ZnExcUFiMm40dDZtVmlGRi1KR2dSOTFkV2htMWJFdHdOS2ttb3pyRXAtVW95QXdOWTVtRVUxa0FHVkxIN3hGaHRvWUNpTGNzbkQzSXNOVmF2M2lXNm1FVTB4Z1hRdzZUdEgzUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-09-23T07:00:00+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Leitender Facharzt Nuklearmedizin / Doppelfacharzt Radiologie/Nuklearmedizin (m/w/d) - ärztestellen",
-      "summary_de": "Leitender Facharzt Nuklearmedizin / Doppelfacharzt Radiologie/Nuklearmedizin (m/w/d) &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT2h6V0RMYlloSERLUGlZWktEeUdndVZmV1JXTVpWcnV0UGlvalNOenpHWHRQZjZjV2hxMlBHWk12dUhvUG9BSTl2cnNTblNMb3V0SzBBU01IaE9ocXFnQ2N0SGJRZU00Ti1fWFdFanpKaXhvdmZBTFdHVmhNY1dvTzlpXzJpVzJLelRyZTU0WGhabF9RZDNJYTBCb3VuR2o3MXQ5RHAwYXpwOWNESmNzbk00alk1MHVvMjFVVHN6Ri1telk2MVI5ZA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-09-22T12:00:04+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
