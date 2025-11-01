@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-11-01T18:42:01.788004+00:00",
+  "generated_at": "2025-11-01T21:25:47.786259+00:00",
   "window_days": 42,
-  "count": 290,
+  "count": 286,
   "items": [
     {
       "title": "Gesundheit: Wie komme ich fit und gesund durch die Erkältungssaison? - Spiegel",
@@ -9,16 +9,6 @@
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMVhFQ2J6ZzM1b3hFMk05ajJZM0JTbEtqWG14bl9rZXQwMXNxMjFxbjJ2eUE2WFJxN1l0ZU1HVVhfaW8zTld4bUpheFhPSmFOM211dVBIZDVoQV8zdEY4cGZWWTgtbE9zWThIWTRRUzlLMWJKVmh4QTJ1NHVsWGhjZjNEUU9CQW1XRHdHSkN6UWNya3RhVmF6Z2RwZXdDMzZFT01oQ05xVG5TUk1ZdnBkR1BxRlJuOTFseDJtSkQ0WDJXMGQ1bEZYMkxIaVRSV2M3UDkzT3lNMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-01T18:05:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Klinik Favoriten eröffnet neuen Hightech-Gebäudekomplex - AD HOC NEWS",
-      "summary_de": "Klinik Favoriten eröffnet neuen Hightech-Gebäudekomplex &nbsp;&nbsp; AD HOC NEWS",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX1NOM2dOTkh6V2dLd0RjNmJueUFvay1xeFpwV0RQSTVTazBzVlBTNklWUU9NSmZIZHB0SzlvZExjNWlOX2VrME5xYVFNdWxzYno4WDNYdkFjSVVJcGlST1NmRW9QY3UtS09KbEdGSzY4cmxGME9Ec1dmalhqVWo5Sy1SSUVRTHJJSGw0RF9nTGRDOEl2WXhxbENLek9WTW9SSmphLWI3ZTUtQm0waTNLNWc0VlhEVjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-01T13:01:02+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -92,6 +82,18 @@
       "category": "Radiologie",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Week in review: Patients and radiology reports | 'Ghost scans' on POCUS | Malpractice factors and ED imaging",
+      "summary_de": "Our most read story this week highlighted research on patients' experience reading their radiology reports, with many finding...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15770753/week-in-review-patients-and-radiology-reports-ghost-scans-on-pocus-malpractice-factors-and-ed-imaging",
+      "published_at": "2025-11-01T07:00:00+00:00",
+      "category": "Studie",
+      "tags": [
+        "Radiologie"
+      ],
+      "type": "Studie"
     },
     {
       "title": "Wintergemüse - Grünkohl wird teurer - Erste Ernte in Niedersachsen - Gesundheit - SZ.de",
@@ -644,16 +646,6 @@
       "type": "Studie"
     },
     {
-      "title": "Auto erfasst Kind auf Roller - Hubschrauber fliegt schwer verletzten Jungen in Klinik - tagesschau.de",
-      "summary_de": "Auto erfasst Kind auf Roller - Hubschrauber fliegt schwer verletzten Jungen in Klinik &nbsp;&nbsp; tagesschau.de",
-      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU3F6ck92d3dwMGdDeTE1VlhsY3dzNUZhMUdsUEJZZ1VtZk9JUnl1Vmx1NFlQeG4xcnZWREs1ZnFVZ1lWRUdibmJGR09FcTI2MTNKc3JUZUgtTUFXOTR6dFFDSmVNcVBnMFRmMU5RTkk1QWsySm5tX28tR1Y5UmwtRGlHQnBQM0V4cV9ZWENIclFyVkl2OVVqV0pzR1ZGaEdxUVd5M1JZU2dUWnhWSS1yOUxvc1AybWtCT2xpRnM5aG8wQjZuLXppdTl3Vmdfc2tSRlpfYUcxejNCWk5vSlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-30T20:46:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Schülervertreter fordern mehr Einsatz für mentale Gesundheit - tagesschau.de",
       "summary_de": "Schülervertreter fordern mehr Einsatz für mentale Gesundheit &nbsp;&nbsp; tagesschau.de",
       "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
@@ -800,16 +792,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/warken-bei-vorstellung-der-hightech-agenda-160087/",
       "published_at": "2025-10-30T14:30:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Mehr Komfort für Patienten – Neues Klinik-Gebäude: Super-Neubau in Favoriten fertig - Heute",
-      "summary_de": "Mehr Komfort für Patienten – Neues Klinik-Gebäude: Super-Neubau in Favoriten fertig &nbsp;&nbsp; Heute",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVklCdFRJaGdLemV5UThvU3VWcXNzSDdzSHhXX29KT2QxRHlBODJCX3Q5emhuRDVodkNleFFfWGVoWG5mWU1DWTdvM0dLUHY2RzY4VlRES2ZuUU1LZFlxZWNldHlzMDFVWjJFLVZ5YXNNR0J0aUt1NlRDUktadjFsSEpDeGl0QmJTY1IxUXdQQVI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-30T14:28:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1046,8 +1028,8 @@
       "type": "News"
     },
     {
-      "title": "Krankenkasse für ein gesünderes Leben | BARMER - Barmer",
-      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; Barmer",
+      "title": "Krankenkasse für ein gesünderes Leben | BARMER - BARMER",
+      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-30T08:58:19+00:00",
@@ -1216,6 +1198,16 @@
       "type": "News"
     },
     {
+      "title": "Drei Tipps - Pflegebedürftiger Mensch hat Schmerzen - wie helfen? - Gesundheit - SZ.de",
+      "summary_de": "Drei Tipps - Pflegebedürftiger Mensch hat Schmerzen - wie helfen? - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZkZYajkzbHZBMUh5TlpySmRjRzNWdlFXYmhwQXRDUmduSm1wb2ZybFYwQ3JUb3JTdXBXa3otekVmbE14QjNidTQ5UkNpR1l0eng1N0pJQWNHRTFHMkhSWUxrTGk4S2MycW1vdnUwb3VuTFNFT3hiUTUyRGNSRHdNT0R0UGowRUl3QkNtSVYzVzVaeHpPTXpoR3Vud1FGV2lkWVJVdTdhaGFsckI5OWpxdHd1eVBZbWhhVFJwLTRjdlJWNkxWY1BQYXZOTG5RWjM5SVZfLW1oRFo3RDIyTHZ3SlV4Wms?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-29T11:31:25+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "[MI] GP Contract Services - England, 2024-25",
       "summary_de": "The GP Contract Services publication provides data relating to the delivery of primary care services across England, agreed within the GP contract(s) between NHS England and the British Medical Association's (BMA) General Practitioners Committee (GPC). These data are primarily used for payment and management information purposes as well as for wider usage to help support commissioning, planning and policy decisions. …",
       "source_name": "Publication Feed",
@@ -1231,26 +1223,6 @@
       "source_name": "AuntMinnie",
       "source_url": "https://www.auntminnie.com/practice-management/article/15770567/malpractice-factors-tied-to-imaging-use-in-emergency-department",
       "published_at": "2025-10-29T08:44:13+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "DAK App: So geht die Identifizierung - DAK-Gesundheit",
-      "summary_de": "DAK App: So geht die Identifizierung &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeDF4blo2eDZZOVBWZFdHbGpsVDNIbDRDczlpY2J4SmpQX09MRTdUUUEtcUo5Y1BvdDFlTExDeUtyWjA5aTZuTlJ4bjF6WWV6a3pEUFBXa3M4RTB6ZlI0Umc5cGJaMFVObUtJWTJMMjVkZmtZOVNzdzNjSzdfS21Ud0FtMFN6VTh6cVUxMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-29T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "AuntMinnie.com Women's Imaging Insider",
-      "summary_de": "As Breast Cancer Awareness Month comes to a close, we are reminded that the fight against this disease continues regardless of...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/editors-note/article/15770445/auntminniecom-womens-imaging-insider",
-      "published_at": "2025-10-29T07:00:00+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -1322,16 +1294,6 @@
       "source_url": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-october-2025",
       "published_at": "2025-10-28T14:28:26+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Vogelgrippe - Experte: Kraniche durch Geflügelpest dramatisch gefährdet - Gesundheit - SZ.de",
-      "summary_de": "Vogelgrippe - Experte: Kraniche durch Geflügelpest dramatisch gefährdet - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbEdjY3BOMlBEU3RIUE9RWlV6TVJFUWZyWUJ5OXMzc3FvS0N5c3NtWDA1c0hTRThaWHRCSE9YVUt5SmwxWWEtSGg3UjJXUjdsX3pkVUJOY045SWczMUtWYUJzZENiclZFUXVEUHBFcmFjZkRrTnRveU9YZDdTanhyWHJkQTJaX2dBeHBXRE1YNTNGQlBvcXBZQnZGQjM2Y3RBMFR5bDdQd3lOLVpKSFBnRUl5ellTbHFQR2NCRUxhdF9PejRzMXg5MFVZcXp5dDU3cjEtZE55Sms2UGEtUlotS1J4ZENBMVpldmZyRjN3VFY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-28T14:27:51+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1472,16 +1434,6 @@
       "source_url": "https://www.diagnosticimaging.com/view/dont-hate-on-the-flex-radiologists",
       "published_at": "2025-10-27T17:48:00+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Neuer Bereitschaftsdienst - Kassenärzte: Mehr Telemedizin, weniger Hausbesuche - Gesundheit - SZ.de",
-      "summary_de": "Neuer Bereitschaftsdienst - Kassenärzte: Mehr Telemedizin, weniger Hausbesuche - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR253MXMyekxvMnB1UFlDOVk4NUtWQmZhVnFNci1VVHMxcGNSZlRDREIzYUd6OV9TQ3VVNDVZTFpWWEk0eVBVMVBqakpIcGl6NHMxS2NrcGc3OHpUY0FBbUZSYXdWbDZIZEJjTV9PQjc4ZTlRSjV2SDMyeHdiSWFGMUNvMWVJZUFyYm1fTkE1bUszMXllSlhuYk84eVNzUFozeUhYSHpUMFNnY1dWSjRyZk9mdzZnWTZjaW10SDRjRndkM1lUalUtZFR6TjBReHZ0QkRXWFJjcDBFTEp5eUFMLTNvYXVVU2c2RWlYNDQtZDBYTldvbW5N?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-27T15:33:45+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1716,16 +1668,6 @@
       "source_url": "https://www.gov.uk/government/news/mhra-smashes-majorillicitweight-loss-medicine-production-facility-in-record-seizure",
       "published_at": "2025-10-24T10:54:43+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Stationär behandelte Diagnosen/Krankheiten (ICD) | Klinik und Poliklinik für Anästhesiologie, Intensivmedizin, Notfallmedizin und Schmerztherapie | Klinikum der Universität Würzburg in 97080 Würzburg - HEK",
-      "summary_de": "Stationär behandelte Diagnosen/Krankheiten (ICD) | Klinik und Poliklinik für Anästhesiologie, Intensivmedizin, Notfallmedizin und Schmerztherapie | Klinikum der Universität Würzburg in 97080 Würzburg &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQNXZNemZtN2p3RHVCSlFDckFOZVRSX3BUd3o5ajh0eHV6WS1YNUFIYXJpUUhaSFJKakQ0cHNEVmpEQ25qYTNhTDNTZGdyUm1yVHIxVUQ4R2pjUnJ1dm96YUJkZ0VGa2lFOTlrRGk4UnRlUDIyUnFCY0RhVG1aRGVOMVk2b25lX0RtRkZnMFFyQzl6dmhMOTJEYV9NamZvWUY2X050eTlRVm1acHlKazJ6SjVQRC16Sjg2a0lXNXF3Rnlla3BuWFV0NWhCal9vX0lzZGZSdkVlTndpV0VFdGZCZXhSZFE1LXNiTXJVbVdOckpGNmNyQzMyQnBKTkpNMUxPaFdXcFJjNWFXYTZ6UFcxVlkzeG5Zbm1MRUthOER5Q2piZEZVb2ptVDJNV2Y4UmtIeWdqUzI4TVFkcWFhM2RZbjhnbF9KeUlkMk8yYlBJcGg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-24T01:45:19+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2032,16 +1974,6 @@
       "type": "News"
     },
     {
-      "title": "Wie entsteht Scheidenpilz? - DAK-Gesundheit",
-      "summary_de": "Wie entsteht Scheidenpilz? &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZm9EWVRXN2hpSGRrdzNTYkd4S2JwSlZFcU14a1p6UFVtclNzbXJVai1zZkViWVdPSHFXSzMwN2JlU0ZsX1ZSM1hyRkZOeDFXcElicVM1QXpzZXM3aGRheXMtNWVKRjdQbWxBMUE0VXVzMW5tRFppUlFhc0hROHFPSkFSUzVham95enV6VHMwckdrRFZkWWk3LXhYNTBGYzlTZ1B1ekdNbkZuS05sV3BUeHU5djNndTVJYmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-22T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Service delivery, behavioural, and self‐management interventions for children with epilepsy",
       "summary_de": "Service delivery, behavioural, and self‐management interventions for children with epilepsy",
       "source_name": "Cochrane Library RSS feed.",
@@ -2152,8 +2084,18 @@
       "type": "News"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
+      "title": "Kolon in der Radiologie | CT-Kolonografie spürt Darmkrebs früher auf als FIT - SpringerMedizin.de",
+      "summary_de": "Kolon in der Radiologie | CT-Kolonografie spürt Darmkrebs früher auf als FIT &nbsp;&nbsp; SpringerMedizin.de",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUUlSeXlZNFBWdUQzd0lkQU9MZlVCZlpqV3NVczJYTHAwa1g1WDl4ZlYtWHN1elBJWTkxNTIxbXplZGdJczB2NVNFblpMNDJrMEZFaGluR241MkZzUThWN1l2ai1hVTdaRHBnMURNdjF3TmtFNkQ5a3N6NW5mX0J0R0tSTDJ2V0hXbWMxajNmLTJ6aXIwaVhLVFFJWWVZMkR6Z25lLTNhUDFtU2dRZW8ydExlN0VidWtlNFdMdGdwX1VqM25UakYydVNJTktrcWN1?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-20T09:30:13+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-20T07:00:00+00:00",
@@ -2258,6 +2200,16 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-talking-therapies-monthly-statistics-including-employment-advisors/performance-august-2025",
       "published_at": "2025-10-17T08:31:01+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Häusliche Krankenpflege - damit die Pflege auch zuhause gelingt - BARMER",
+      "summary_de": "Häusliche Krankenpflege - damit die Pflege auch zuhause gelingt &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMmVjbmg2ci1heG9FVDZFUmxSOF9xME1pUG1nY1NUdmdvdEFldnNKbUhwUF9CNjhGZ3JPd2FQRmRSM2tBem9TR2VmamVHNWg1bkVTdExGWXdFVGNGZUZVcGNSYXV4aTNIeG80a09PS2NMUE01Zkh1bXNtMjB2OGtIQXpUdVkxZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-17T07:00:00+00:00",
+      "category": "Versorgung",
       "tags": [],
       "type": "News"
     },
@@ -2421,10 +2373,10 @@
       "type": "News"
     },
     {
-      "title": "Wie richte ich die Digitalpost ein? - DAK-Gesundheit",
-      "summary_de": "Wie richte ich die Digitalpost ein? &nbsp;&nbsp; DAK-Gesundheit",
+      "title": "Gehört die Zahnversiegelung bei Kindern zur Vorsorgeuntersuchung? - DAK-Gesundheit",
+      "summary_de": "Gehört die Zahnversiegelung bei Kindern zur Vorsorgeuntersuchung? &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORTUxd1lTYVJIcGtyRk14ZE42QWN3cEhKUmc5OUV6eFF1TXJOOGlzS0EzZ1p5R1J2SndZTE5FUDJFRFFpZnlFc2tyWXBXRlJvOGowUVZwd2Ftb1FvemRvQk1QNFhtcm94MTVybzNjR0ZraWZnN3MweV9xeWdpelpVS2N1ZFhzS0E5OFlrRTROdEZmQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM0RuMzZNN05Uc3VEYm1MRHhIVWtHVWtld2hjRHVDbGd3X3F6aThxSVJNbEJQX1h0UE90dmI5YlpWdkxza3I1YU95cUVuRUR2VVRYV2toYVppM2tBUElXeTJYazN5T0NkZ3ZDeHZPQ2VMdkg3X0g0bExVWVBKVHNaMi03R3dYSHFYUkpXZnJrTGVrNWl0S21pNDU1MW9uTnNU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-14T07:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -2473,10 +2425,10 @@
       "type": "News"
     },
     {
-      "title": "Cunnilingus: So geht Oralsex bei der Frau – einfach erklärt - DAK-Gesundheit",
-      "summary_de": "Cunnilingus: So geht Oralsex bei der Frau – einfach erklärt &nbsp;&nbsp; DAK-Gesundheit",
+      "title": "FSME: Symptome, Therapie, Impfung und Risikogebiete - DAK-Gesundheit",
+      "summary_de": "FSME: Symptome, Therapie, Impfung und Risikogebiete &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN3pjWWhZMnpCMmJWMTZyYlNRNjlVWFdtOWdiNW5RbUxVOHFBdW13TXVCSXN5VTZKa01KVzdneHpweVRCMmVQVlFnMFhhQWpGc0lYVHlIX3Z6QVZ3eEdKSFFDOXdpeExudGMtRXBYNFhwSmtyNnZhNTR3cW5GRmxIRC1BUjIydDg1TEFRdEE1ZlB4YzRGRk5PY25BWGU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV3JkbEFQQXVOZzZRTlBsLXpsZWZ5aE1zekg2R0hJYkRXa2VQanpNS3FVa1RDa0lHTklaTEpDYXh0MXZEOFBqcF95eTFoc3BFNEU0WF9tck5YdERKRlhJaVhhVHFKdjN2cFBEeGt0cGdGZ0hCWThQU0VnS0lXenliTHdhS2RlRFlyWm5oTzVwQWJUbHk0YjNUdjNXenNZeWFQQ3c3ZmJMdDBWaS1HeE1jYXR2cw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-13T07:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -2923,6 +2875,16 @@
       "source_url": "https://www.efsa.europa.eu/en/news/more-and-more-europeans-know-how-eu-food-safety-works-says-latest-citizen-survey",
       "published_at": "2025-09-24T08:57:33+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Mikroplastik und Gesundheit: Ein Trojanisches Pferd für Schadstoffe - BARMER",
+      "summary_de": "Mikroplastik und Gesundheit: Ein Trojanisches Pferd für Schadstoffe &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObXFsNlBTS3FpejItdWVnU0kybFlaYzUxMjRSSzhnVVlLVWNWMEFNcVNkVEdtT1VvUzNpRzVOTWNuYWtBUTJOSm5QM1p4M0QtLWdXWnZkRHV5bHowYWpDQXZjanY1M0NXN2llb0tmQ083NnpRc0I1SlphYzNnc3Y4dzNieG9MVWNkd1ZyX2dSQnUtVlZMbTFBT1p0d3FIcHVjbEFkamNrMFJ1eWJ1MDNleVBOc1pFdTBvU1RSSG92ZVU1Vmt0WnVmX1M2NGRlc1NtOXRfSl9iUVBqNmlxdnJrLUZWZFR1clVRMGo3b1BFS2UtTTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-09-24T07:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
