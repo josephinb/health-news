@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-11-01T13:08:31.246344+00:00",
+  "generated_at": "2025-11-01T15:32:17.221887+00:00",
   "window_days": 42,
-  "count": 288,
+  "count": 294,
   "items": [
     {
       "title": "Klinik Favoriten eröffnet neuen Hightech-Gebäudekomplex - AD HOC NEWS",
@@ -24,6 +24,16 @@
       "type": "News"
     },
     {
+      "title": "Gesundheit - Trinkwasser in Wiesbaden muss weiterhin abgekocht werden - Wissen - SZ.de",
+      "summary_de": "Gesundheit - Trinkwasser in Wiesbaden muss weiterhin abgekocht werden - Wissen &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOY3AyUjZYdDMxMkxqT05zTzA3UUZialJObnVvQW84VnE3dkFKQWd1UGwzYWlZRlhUa3lqUzFXTi1RbjV0dXh1emRWaml6bllMVExhS2YwbDVSczBlNUo5SndFSnQ2QzMtcGE0TWxRd1VMSFgxWVo0X2dvNUhPVk5OZk1aU0ZuZzNzcURybjk2WTM3M09mT0lUcFJFR19SeW9kUUJCalljVjlfOVpQNjl0WXd4elBUS0R2czdlWnhxMWZId3lEanV1QTRVeFo0ejNmVDg4Y1lVcVNzWDBVN3BaejZLX0xNc2M?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-01T11:43:48+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Wie viel Gramm Protein am Tag können der Gesundheit schaden? - FAZ",
       "summary_de": "Wie viel Gramm Protein am Tag können der Gesundheit schaden? &nbsp;&nbsp; FAZ",
       "source_name": "\"site:faz.net medizin\" - Google News",
@@ -40,16 +50,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUGZPWExKaHZtTjB3MWRManFVd1dRSjZVUVU2M0IzbUpVdnVJNjdub1RHTUhJWHo3NjdhcEE1dDNnOFlYdFp4cVp2YThwZk9SV1RFUkdudDVfM25JSUgyQXR3TlBPLXNrNVVVVjRLazRNZ0JCckRyOGRsTkxjYkRuNmhZMGMzOG56N0NEZHE1NXFlN0RCanBOQmZfWHBtVzhqZTk5cXBDUFFOUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-01T10:48:32+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit - Trinkwasser in Wiesbaden muss weiterhin abgekocht werden - Wissen - SZ.de",
-      "summary_de": "Gesundheit - Trinkwasser in Wiesbaden muss weiterhin abgekocht werden - Wissen &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOY3AyUjZYdDMxMkxqT05zTzA3UUZialJObnVvQW84VnE3dkFKQWd1UGwzYWlZRlhUa3lqUzFXTi1RbjV0dXh1emRWaml6bllMVExhS2YwbDVSczBlNUo5SndFSnQ2QzMtcGE0TWxRd1VMSFgxWVo0X2dvNUhPVk5OZk1aU0ZuZzNzcURybjk2WTM3M09mT0lUcFJFR19SeW9kUUJCalljVjlfOVpQNjl0WXd4elBUS0R2czdlWnhxMWZId3lEanV1QTRVeFo0ejNmVDg4Y1lVcVNzWDBVN3BaejZLX0xNc2M?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-01T10:07:11+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1038,8 +1038,8 @@
       "type": "News"
     },
     {
-      "title": "Krankenkasse für ein gesünderes Leben | BARMER - BARMER",
-      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; BARMER",
+      "title": "Krankenkasse für ein gesünderes Leben | BARMER - Barmer",
+      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-30T08:58:19+00:00",
@@ -1154,6 +1154,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcHc3QzZ3VW9ZY1JEcXlEQ3FxbzZiUm9veTczek5idDhjcUZOT2VlNjh4SURPQnlYUVp4cHI1NnR3eEhvekI0eHB2Y0s1Ul9rUTJjbHg4ak5YalAyRUtHajJxMjJBb1dGc0ctVE5JT0ZXWHBxSTdsaVdwWjh3Ym52TUZaNGtSZWR4bVVvcTNPTzFOczNnSk1uODlXRUhkNVpoSFpwRXJkNXFwY19WSXdDT0V2RDRUeEtvWVFlcDdRU3o?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-29T19:25:36+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Professor*in \"Bildgestützte Modellierung und Simulation in der Medizin\" 80-100% - FAZ Stellenmarkt",
+      "summary_de": "Professor*in \"Bildgestützte Modellierung und Simulation in der Medizin\" 80-100% &nbsp;&nbsp; FAZ Stellenmarkt",
+      "source_name": "\"site:faz.net medizin\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ0ZnMk1kbEkyVTJXeWdvOXhua2ROcWo5ZkNWUXNqRFBfRkpybDVBb0xQdW5ya3VkNXZRSUNsUTdtc0R0dTJYTmhHQmZIMkd0NlBQcE5Gd3RIeE9FaEMtV2lqOFJjWTl2VGRrdEpwdW5MZUMwTkFBXzlnUUpmUXZKaHVkaEhNTTRnUWJpVGRBRW9oUlhpdTFXa2tCN0s2NFJmQ1c3QnBaOHIxd1JIbm1qUDRzZHV4MUhxNkZOc3ZISVNMR2t0dlZLYllTVGpIdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-29T15:30:46+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1368,6 +1378,16 @@
       "type": "Studie"
     },
     {
+      "title": "Mobile Arbeit im Ausland: Was ist rechtlich zu beachten? | Die Techniker - Firmenkunden - Techniker Krankenkasse",
+      "summary_de": "Mobile Arbeit im Ausland: Was ist rechtlich zu beachten? | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLVBJWHUtN3huZkhLWTdZc0l5TEdzNkQwX2xPZ2VxM0lNOEpTTk1aUUJPUGxka0M4TnBLaWNobkRkZk1JOFlGaUpmNTM2elBhVHUtblFWOEMxZXYtelkxNXUtMFVyQTF0M2p2Q2U0RExRR0ZaTmFFZkdDNUpZaW9jT3JRdXNZRnp6QWRCa3NiV1FEN1IxdXpzVTlrSGJraGtsYTFKTGQwTndyT2lPZWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-28T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Hyaluronsäure-Injektionen wirkungslos?: Neue Studie gibt Hoffnung – Wie die Medizin Arthrose aufhalten will - RP Online",
       "summary_de": "Hyaluronsäure-Injektionen wirkungslos?: Neue Studie gibt Hoffnung – Wie die Medizin Arthrose aufhalten will &nbsp;&nbsp; RP Online",
       "source_name": "\"site:rp-online.de radiologie\" - Google News",
@@ -1434,6 +1454,16 @@
       "source_url": "https://www.diagnosticimaging.com/view/dont-hate-on-the-flex-radiologists",
       "published_at": "2025-10-27T17:48:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Neuer Bereitschaftsdienst - Kassenärzte: Mehr Telemedizin, weniger Hausbesuche - Gesundheit - SZ.de",
+      "summary_de": "Neuer Bereitschaftsdienst - Kassenärzte: Mehr Telemedizin, weniger Hausbesuche - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR253MXMyekxvMnB1UFlDOVk4NUtWQmZhVnFNci1VVHMxcGNSZlRDREIzYUd6OV9TQ3VVNDVZTFpWWEk0eVBVMVBqakpIcGl6NHMxS2NrcGc3OHpUY0FBbUZSYXdWbDZIZEJjTV9PQjc4ZTlRSjV2SDMyeHdiSWFGMUNvMWVJZUFyYm1fTkE1bUszMXllSlhuYk84eVNzUFozeUhYSHpUMFNnY1dWSjRyZk9mdzZnWTZjaW10SDRjRndkM1lUalUtZFR6TjBReHZ0QkRXWFJjcDBFTEp5eUFMLTNvYXVVU2c2RWlYNDQtZDBYTldvbW5N?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-27T15:33:45+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1984,6 +2014,18 @@
       "type": "News"
     },
     {
+      "title": "Attraktiver Beitragssatz und ausgezeichnete Leistungen - DAK-Gesundheit",
+      "summary_de": "Attraktiver Beitragssatz und ausgezeichnete Leistungen &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdDRnbkpEUE5HQV9VQ1ZhdldESzQ0NDlpQ1V0LTJwbGRhY3dRWlI0YWpxV3U5U1cwX1daaFdyeWdDU3B1UEFlTmdKemstNGFIb0ZQM0lELTM0MjdpNVB0eHg4MWVMOWxKbzlOOVB3TERDSzJQc1pObW5oWV90VDlBOHJad2s3Y1pKYzFTcFVkZXF1MFpMYVN6WG1B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-22T07:00:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "Service delivery, behavioural, and self‐management interventions for children with epilepsy",
       "summary_de": "Service delivery, behavioural, and self‐management interventions for children with epilepsy",
       "source_name": "Cochrane Library RSS feed.",
@@ -2054,10 +2096,10 @@
       "type": "News"
     },
     {
-      "title": "Situationship: Was steckt hinter dieser Beziehungsform? - DAK-Gesundheit",
-      "summary_de": "Situationship: Was steckt hinter dieser Beziehungsform? &nbsp;&nbsp; DAK-Gesundheit",
+      "title": "Psoas-Muskel verspannt: Übungen und Tipps - DAK-Gesundheit",
+      "summary_de": "Psoas-Muskel verspannt: Übungen und Tipps &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQzBwc3FRTkI2Tk9IZmRGLTBPaWY4LTJSaFlXSzE1bnlEVW5wVWc3RTZIUUw2VS1Ecl9mUE5tY3RRUkxRN1dtWGV2X0J3VjF0THQxUElESVN1dUh4SWVFbEVZTnNJc2p4WDJ1aGRPekhqcnN2ZVp5b01OZFpOZWF1MTNmTF9YTkptMmRiM1AySHE0YmtBRjZNNmJ4em9xU0ladWprdFpNa0NXakFybnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdm5zM3dJVENJNTYyVDdDRlRFbV8yeUYwSjQyc2NHM2hiT21uOVg5NEQ3azcwTjBxNFZ6OTJDZFBiaUlUeDZVN3FJZ3VfdFhIakZManJrZk5sMW5HeXVVcG5DcEc2NjhQUFlCUk9pOEZVZjJsNlVXbUhCSVpIQlJvUnlrRXZYaDBJVkpBbGs1aw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-21T07:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -2114,8 +2156,8 @@
       "type": "News"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-20T07:00:00+00:00",
@@ -2393,6 +2435,26 @@
       "type": "News"
     },
     {
+      "title": "Was ist ein Verhütungspflaster? - DAK-Gesundheit",
+      "summary_de": "Was ist ein Verhütungspflaster? &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLVZlNnVhU1pfZ2RMV3Bja2FlcnFISXFyWWdBal8yZUN0VnpmMldjN3l6YTJpd0c5XzJlX3RndzNLb0U3ZU5FSFNmbmNGdV9TOUQzaFhlY1hoUXNmcUU4T2w2Y3VVZENEQk4zRTF3RkEza3RTUDJjSGdsWHNGR2NXRG5EM3R1b2J6VTJWTVNvRlRtbjF4bE1jUEFteFdrMEhaSEVJV0RkcEtFc0ZsZENzeDNOTkg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-14T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Enthaltsamkeit – was ist dran an der #NoFap-Survival Challenge? - DAK-Gesundheit",
+      "summary_de": "Enthaltsamkeit – was ist dran an der #NoFap-Survival Challenge? &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdW96TU85OGlUQ0IzVktWWnIzVkhZTloxOHg0QkQ2T3ZFRFR4MnRMVHRjVEVxN1pBUWREQWZKR3BOWF81d3I4YmNZSU5FRXJmaUg4cVE2aUdvUFNuVVAxdlp5dzdxazY2a0Q3djdGcmd1bUg2Tm9KaDd6QkJPQzBzN0hZWEJLcEd5bUVhZENXdHZTandEbFZkZkJMQ0hpRUdXOE1GNXBiRVNHN1Z2TlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-14T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gesundheit: Angriff aus der CSU auf Sparplan der Gesundheitsministerin - DIE ZEIT",
       "summary_de": "Gesundheit: Angriff aus der CSU auf Sparplan der Gesundheitsministerin &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
@@ -2435,6 +2497,16 @@
       "type": "News"
     },
     {
+      "title": "Wie Stress unser Immunsystem beeinflusst - Techniker Krankenkasse",
+      "summary_de": "Wie Stress unser Immunsystem beeinflusst &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb0U0cnJGb3N1a05nZE5WVTh3WmM3ZHhSVkhIZTVqbHVyQlA1V2NIdVJXdHBSa2tnWE9fUnVFZHltc09qNHVPZTAtcWhtTWhIMzNZYzN3eGQzbDVrTEp6TDFLUUp1cl9sQVBNVHRoZTk0MXNudWRFdHNIc0tmclh1YTlpNTFpTVpnSFFtZU9mMVdWV3gwUHZMNWh3WkxjXzFPN1dHOUE3NGcxM1U0c2pLM1FR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-13T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "US-Präsident: Leibarzt bescheinigt Trump exzellente Gesundheit - tagesschau.de",
       "summary_de": "US-Präsident: Leibarzt bescheinigt Trump exzellente Gesundheit &nbsp;&nbsp; tagesschau.de",
       "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
@@ -2455,10 +2527,10 @@
       "type": "News"
     },
     {
-      "title": "Muttermilch: Babys erste Nahrung - DAK-Gesundheit",
-      "summary_de": "Muttermilch: Babys erste Nahrung &nbsp;&nbsp; DAK-Gesundheit",
+      "title": "Bewegungsspiele für draußen - DAK-Gesundheit",
+      "summary_de": "Bewegungsspiele für draußen &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOU5RdVBNVGlrd3VtQWYyR0dtRVFtWlZfZGs4U3lFZnhqeHhOdk9hQVEyb3B2bHhzRjJ6Mmw3NjllNGNJRFVoZXlzWlkybzd2aVRDSnNOTEJCUEdUdVE0SkYwUFB3c1RLTERRa05kQjZUakhhQVRyUXRtT1JBZVI0S25Qc1hyZUNSaUJwV3Z2a0xFUFQ0cXplLTYwOXZrN0hmSFNDOUwzaTltY2MwdVZ6T3UzVkc1Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONW1Ya0wwcXF2T2o3QVpreUw5cmdyT2RmMHRwZ3lDVWd6cldyaE1WNHRqa2NRQ3FOdHJUUTlfRkZRUWF0SUk1djVqN29xd2dVZlA3RUhTRW9XQnpDalNveElJN3N2RjZad1lLQWw2ZUtSSExvdFNjcURUM05Gc2hUVzhoQUZfZ2l6djVTSEJFSVVFM1dNMlQtR2pyd2RraEJfLXhz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-10T07:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -2749,16 +2821,6 @@
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/vdek-zukunftspreis-gewinner-2025-therapietreue.html",
       "published_at": "2025-10-07T10:37:17+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Grippeimpfung: sinnvoller Schutz vor der Infektion - DAK-Gesundheit",
-      "summary_de": "Grippeimpfung: sinnvoller Schutz vor der Infektion &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcVJ2VkI0VElYUFQ0UUtRa1VHNnYyVHZTb3cwcG9UNE5OdVlGY1ZabjZTNkNOa1loeEdBU2FzWlhqZHk0Z3Z4SEN5MWh4bkt4VmFmbHdZazZ4ZXA2cUNMUGpkNTQtM0tscE8wbE9JaFVkdm1MRGZyZndtVXFCTm9wOUxrQzNtV1VLcjl1SVhTRXVSVzNmXzVBT1ROSG5waVBB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-07T07:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
