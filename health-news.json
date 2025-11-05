@@ -1,10 +1,80 @@
 {
-  "generated_at": "2025-11-05T06:52:34.772078+00:00",
+  "generated_at": "2025-11-05T09:40:02.092169+00:00",
   "window_days": 42,
-  "count": 308,
+  "count": 310,
   "items": [
     {
-      "title": "Existenzgründerworkshop AVWL: Warum es sich lohnt, eine Apotheke zu gründen",
+      "title": "Medicines: reclassify your product",
+      "summary_de": "Pharmacy (P), prescription-only (POM), and general sale list (GSL) medicines: apply to move your medicine to a different classification.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/medicines-reclassify-your-product",
+      "published_at": "2025-11-05T09:28:54+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Mentale Gesundheit: „Uns geht es nicht gut – und das möchten wir deutlich machen“ - TK Blog",
+      "summary_de": "Mentale Gesundheit: „Uns geht es nicht gut – und das möchten wir deutlich machen“ &nbsp;&nbsp; TK Blog",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRGFua1V6SFh6M3J6VVRWdFNYUFg0eFBqSW5sbWxqUDN6WERGeE16Nmc5VkxQWUd1cW9QWnp5VEd4VDZRckZMbUZnUWlhNmg5bmM3alhpVWtXM280ZFBDcE85cEZKQkc3VUs3Ylp4RlVlV2FLcDdiTHlvV1V4bmJsTFhuLUNVYklkQmJaMmhoenpzSktGUjdOZlJtMDRhT1NMTFU0UlJhaTYwakVOenhZLUNNaEdoRmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-05T08:41:58+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Warken beim G-BA: »Wir alle kennen die Lage der Finanzen«",
+      "summary_de": "&raquo;Wir m&uuml;ssen schauen, was wir uns noch leisten k&ouml;nnen und wollen&laquo;, sagte Gesundheitsministerin Nina Warken (CDU) beim Parlamentarischen Abend des Gemeinsamen Bundesausschusses in Berlin mit Blick auf das Gesundheitswesen.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/wir-alle-kennen-die-lage-der-finanzen-160193/",
+      "published_at": "2025-11-05T08:14:08+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Neue DAC/NRF-Rechenhilfe: Isotonisierung von Augentropfen leicht(er) gemacht",
+      "summary_de": "Hypoton, isoton oder hyperton &ndash; auf der Website des DAC/NRF ist eine neue Rechenhilfe &raquo;Osmolarit&auml;t und Isotonisierung&laquo; verf&uuml;gbar. Das Excel-Tool unterst&uuml;tzt bei der Berechnung von w&auml;ssrigen Augentropfen-Rezepturen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/isotonisierung-von-augentropfen-leichter-gemacht-160143/",
+      "published_at": "2025-11-05T08:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Transgenerationale Traumata: Wenn Omas Erlebnis den Enkel krank macht",
+      "summary_de": "F&uuml;r manche Menschen ist es unerkl&auml;rlich, woher ihre Albtr&auml;ume oder &Auml;ngste kommen. Eine Spurensuche in der Familiengeschichte k&ouml;nnte sich lohnen. Vielleicht liegt die Ursache schon lange vor der Geburt.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/wenn-omas-erlebnis-den-enkel-krank-macht-160095/",
+      "published_at": "2025-11-05T07:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: &#196nderungsmeldung Arzneimittel: Buprenorphin AWD Matrix 52,5 Mikrogramm/h Transdermales Pflaster pU: TEVA GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2025-11-05T06:55:02+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Yannick de Silva darf nach Exmatrikulation und Klage wieder Medizin studieren - FAZ",
+      "summary_de": "Yannick de Silva darf nach Exmatrikulation und Klage wieder Medizin studieren &nbsp;&nbsp; FAZ",
+      "source_name": "\"site:faz.net medizin\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdXJlcmh1ZlBOdjVOSHdEZUNUczVqX2RIeUw1U2tYZURvM1J2eUJLTGViZ2VTZGNnUmp0X3FsUG9xZ1pGeV9GRTQxaktXWkRuRkN4ZFdjY1haVmVzZzJ4bXhvcmM1QVZxXzg5LVlhajdzNFFZY1labEkyZS03b3FIRGFka1J0REZkWDVqcmdFS241RGdJaVNoNVZZRzhlT3lpNjVFcWpJdkFwS3pfallvcWVwWGtJTjZtcTRRdHo2SkRlc2xUazFROGZyZFFwc0NtM0RlaVVubGpIYk96OFVNaWtKTDlVYXZtN2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-05T06:39:39+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Existenzgründer-Workshop AVWL: Warum es sich lohnt, eine Apotheke zu gründen",
       "summary_de": "Bei einem Existenzgr&uuml;nder-Workshop, gemeinsam organisiert von Apobank, Noweda, Treuhand Hannover, Apothekerkammer und Apothekerverband Westfalen-Lippe, haben die Teilnehmenden erfahren, worauf es beim Schritt in die eigene Apothekengr&uuml;ndung wirklich ankommt.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/warum-es-sich-lohnt-eine-apotheke-zu-gruenden-160182/",
@@ -94,16 +164,6 @@
       "type": "News"
     },
     {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: &#196nderungsmeldung Arzneimittel: Doxepin 25 Holsten pU: Holsten Pharma GmbH - Gesch&#228ftsanschrift -",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2025-11-04T16:04:07+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Onkologie-Pipeline: Pumitamig – ein neuer Alleskönner in der Krebstherapie?",
       "summary_de": "Anl&auml;sslich seiner Quartalszahlen hat Biontech ein Spotlight auf den Wirkstoffkandidaten Pumitamig gesetzt. Der bispezifische Antik&ouml;rper wird derzeit in zahlreichen Studien gegen verschiedene Krebsarten getestet.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -140,6 +200,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMWtGZUQtbndSeERHbndnRWdVbVhfT2xxQ0VsNkowUzhoQ25hTkoxWHVkYlZpWUhDOW5VNm9rLUdaS2huT0tCUmYtbFlNT1BOOVM2NGVxR1NPVjhQcWNjbE1HM3pYcEcyd0hSOUlBRnRXaUR3NzVEX0d6OEFBbWd2T3NwME9QWE41UktUNm5EblR3RlRac2tCaE1FWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-04T14:24:12+00:00",
       "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Nuklearmedizin St. Marien- und St. Annastiftskrankenhaus Stellenangebote in Ludwigshafen am Rhein (0) - ärztestellen",
+      "summary_de": "Nuklearmedizin St. Marien- und St. Annastiftskrankenhaus Stellenangebote in Ludwigshafen am Rhein (0) &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMUE5OXhXYlkwTElRRldJc21zR2p6UjkxdlZOUGZsMEhOOHBRbDdmT1VxNm13cnE3ZTVHZ2RRZmJ0TXZjM2p1UnRONVlOOUdNZFJ1T2JQV3JFVy05Q1d4UXBOQl91bmZiYWNyX1FDYWV6eXlXdm9HdEoxZVdMX2dVcWJ5WkVhRmRNNHNnLTIxV3pPRDZmUmM5cjhkZVR5aEJnM0JHLWVkYkU1UVlSMEs0emgtM01LajVSd0pRM1kyeDI4YW1wcHJqbE13?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-04T14:12:38+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -394,32 +464,12 @@
       "type": "News"
     },
     {
-      "title": "CEM identifies nipple tumor involvement in breast cancer patients",
-      "summary_de": "CEM achieved high specificity and positive predictive value for indicating nipple involvement, researchers reported.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15770979/cem-identifies-nipple-tumor-involvement-in-breast-cancer-patients",
-      "published_at": "2025-11-04T09:31:31+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Community Services Statistics, August 2025",
       "summary_de": "This is a monthly report on publicly funded community services for people of all ages using data from the Community Services Data Set (CSDS) reported in England for August 2025. It has been developed to help achieve better outcomes and provide data that will be used to commission services in a way that improves health, reduces inequalities, and supports service …",
       "source_name": "Publication Feed",
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/community-services-statistics-for-children-young-people-and-adults/august-2025",
       "published_at": "2025-11-04T09:31:00+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "MRI shows myelination patterns across early childhood",
-      "summary_de": "The findings contribute to the understanding of both typical and abnormal development of brain myelination.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15770985/mri-shows-myelination-patterns-across-early-childhood",
-      "published_at": "2025-11-04T09:25:53+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -487,16 +537,6 @@
       "type": "News"
     },
     {
-      "title": "Degree of net water uptake on CT helps predict EVT treatment efficacy",
-      "summary_de": "Researchers found that the degree of net water uptake influenced the treatment effect of EVT.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15770968/degree-of-net-water-uptake-on-ct-helps-predict-evt-treatment-efficacy",
-      "published_at": "2025-11-04T07:00:36+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Radiologie Vollzeit Klinik Stellenangebote in Hamburg - ärztestellen",
       "summary_de": "Radiologie Vollzeit Klinik Stellenangebote in Hamburg &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
@@ -537,22 +577,22 @@
       "type": "News"
     },
     {
-      "title": "Oberarzt Gesundheit Nordhessen Holding AG Klinik Sonstiges Stellenangebote - ärztestellen",
-      "summary_de": "Oberarzt Gesundheit Nordhessen Holding AG Klinik Sonstiges Stellenangebote &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSDVLMHZvVWlNQTlndWd4dVBuQW1HcUdjNGIwNk9DWFhIOG9nejh0RXRVNjRZUHJfNWRXd2czYnFrc0ZEODlTRmpXcmpqSF9pSFRCTzlkcEh0ZWNha2JYRTZucjJZWW1qal9sbEt4ZHc4YTREVkdEUFB2bkZpWmViWTRXSEhwWFNaTUZqSDZ2MUNDd3kwQTRqOHl3NHU4Rm8zSC1qQTFrTGRKQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-04T03:54:41+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "MHRA appoints first Chief Medical and Scientific Officer",
       "summary_de": "Professor Jacob George has been appointed as the first Chief Medical and Scientific Officer for the Medicines and Healthcare products Regulatory Agency (MHRA).",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
       "source_url": "https://www.gov.uk/government/news/mhra-appoints-first-chief-medical-and-scientific-officer",
       "published_at": "2025-11-04T00:00:00+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Radiologie Martha-Maria St. Theresien-Krankenhaus Nürnberg Stellenangebote in Freising (0) - ärztestellen",
+      "summary_de": "Radiologie Martha-Maria St. Theresien-Krankenhaus Nürnberg Stellenangebote in Freising (0) &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPakh0NnV1NUpSdElBaVkxMExwZjkzblZ2dFZmS2Jjb0VRb0dFenpiWTdoV2lXV1dOUE1nTXB3djRGYzNZWWVBTmh3OG9GTjJxNmllaEwwUUF0YmJMdkQzZEc5VkhvZklva080WWl0d25GWlpkT2wtWDhtREg0VmtkMWRicWNjelhicFR4d3pZejBkdE5jOVVBcndYaVZjX3RCdjdSZW9hRUJpU1hfQmgyVjdYS2tIclpYREctM3dmYTBsYy0t?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-03T18:52:25+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -879,16 +919,6 @@
       "type": "News"
     },
     {
-      "title": "LAV Niedersachsen: »Anpassung des Fixums ist überlebensnotwendig«",
-      "summary_de": "Eigentlich hatte die Bundesregierung im Koalitionsvertrag eine Erh&ouml;hung des Apothekenfixums auf 9,50 Euro versprochen. Die Erh&ouml;hung bleibt jedoch vorerst aus. Das sorgt f&uuml;r Emp&ouml;rung in der Apothekerschaft. Auch der&nbsp;Landesapothekerverband (LAV) Niedersachsen formuliert deutliche Kritik.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/anpassung-des-fixums-ist-ueberlebensnotwendig-160130/",
-      "published_at": "2025-11-03T11:40:28+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "NCARDRS Congenital Condition Official Statistics Report, 2022",
       "summary_de": "In April 2025, NCARDRS turned 10 years old, and with this report, provides national data for the 5th consecutive year. In a decade, congenital condition registration coverage has increased from 22% of births in England in 2015 to providing national coverage for over 5 years.This publication, the eighth annual congenital condition statistics report released by the National Congenital Condition and …",
       "source_name": "Publication Feed",
@@ -949,32 +979,12 @@
       "type": "News"
     },
     {
-      "title": "Aktualisierte Leitlinie: Husten, der nicht gehen will",
-      "summary_de": "Husten und immer wieder Husten: Was tun, wenn er auch acht Wochen nach einem akuten Atemwegsinfekt nicht vor&uuml;ber ist? Die Autoren der &uuml;berarbeiteten S2k-Leitlinie sehen dann Physiotherapeuten, aber auch Gastroenterologen, HNO-&Auml;rzte und Allergologen in der Pflicht.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/husten-der-nicht-gehen-will-160017/",
-      "published_at": "2025-11-03T11:00:00+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
       "source_url": "https://www.diagnosticimaging.com/view/-how-did-that-happen-course-correction-versus-consternation-radiology",
       "published_at": "2025-11-03T10:58:00+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Arzneimittelsicherheit: Nebenwirkungen melden",
-      "summary_de": "Diese Woche steht weltweit das Thema Arzneimittelsicherheit im Fokus, denn es ist #MedSafetyWeek. Es geht darum, wie alle helfen k&ouml;nnen, medikament&ouml;se Therapien sicherer zu machen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/nebenwirkungen-melden-160127/",
-      "published_at": "2025-11-03T10:30:08+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -1241,6 +1251,16 @@
       "type": "News"
     },
     {
+      "title": "Stellenangebote für Ärzte & Ärztinnen | Arzt Jobs - ärztestellen",
+      "summary_de": "Stellenangebote für Ärzte & Ärztinnen | Arzt Jobs &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdDJDRDRFUUoyUkJBUkJEQmpVVzRNajZac3lIQ3pIcTFJUnU5eDhJa1I2OVU4THVQVm1iY05CaGZ2MDBhaTQ0WTh4b3Atc1NEOEVXTjNDaXRlamNoTjJjYWRpV21iVHFQclJPbl9UVzlkODNldjllU3JMZDJLZUkyZHU0OEFhb0phd1k3LXFIZGV5SjV6TjhvSjlOYW9MaG9VYXREZjVka3M4RjlqX2ppV3FqSlhHdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-01T19:19:31+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gesundheit: Wie komme ich fit und gesund durch die Erkältungssaison? - Spiegel",
       "summary_de": "Gesundheit: Wie komme ich fit und gesund durch die Erkältungssaison? &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
@@ -1493,6 +1513,16 @@
       "type": "News"
     },
     {
+      "title": "5 ways to reduce gadolinium pollution",
+      "summary_de": "The effort to reduce pollution caused by gadolinium-based contrast agents is crucial, researchers wrote.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15770762/5-ways-to-reduce-gadolinium-pollution",
+      "published_at": "2025-10-31T08:12:16+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gesundheit: Medizinischer Dienst: Weniger Behandlungsfehler gezählt - DIE ZEIT",
       "summary_de": "Gesundheit: Medizinischer Dienst: Weniger Behandlungsfehler gezählt &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -1509,6 +1539,26 @@
       "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMkJCZW5rRmtrVjBxdHBVT2ZQVThWT2lDNnFMbzlHN2Y1RWN3OWRYV0JHR1otQm9hbkZIZGhMSzAwdlN0Yl8wRlJIRnNCcjVFYlJUWWROd3M5b2Jaek80clJ0Z2xsQlUySmxiRk9VTF9GTkN3Q0RKLWstWTRaUlAtSVFfX1JsenNEUDRVLWtlX250aFFIa05qNlBZS1BHVFdmUlJuVHlFZUNkZkNuaFV3S012Umt2WlA0VV9tWUUxNGlVN29lR1BEZFg5MA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-31T07:38:34+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Meet the Minnies 2025 finalists, Part 3",
+      "summary_de": "null",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/article/15770707/meet-the-minnies-2025-finalists-part-3",
+      "published_at": "2025-10-31T06:35:28+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Meet the Minnies 2025 finalists, Part 2",
+      "summary_de": "Who made it to the final round in this year's edition of the Minnies, AuntMinnie 's event recognizing excellence in radiology?",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/article/15770615/meet-the-minnies-2025-finalists-part-2",
+      "published_at": "2025-10-31T06:35:14+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1733,6 +1783,16 @@
       "type": "News"
     },
     {
+      "title": "„Mein Herz lacht“ gewinnt Wettbewerb für ein gesundes Miteinander in Rheinland-Pfalz - DAK-Gesundheit",
+      "summary_de": "„Mein Herz lacht“ gewinnt Wettbewerb für ein gesundes Miteinander in Rheinland-Pfalz &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQUUtnOHJRVGt4TUoza01jTVRpMjRveXRZOERFci1PcHBjTmIxYVhFQmdpM2N4SWxoVWwxOHRVVXowX0J4a1BCUGhtenRsWnJMQ0VSanAwTW1VY1BrRmd6V1ZTY1MyRjRlRFg5R2tGR0ZQQmpld0EzX2pBb3p0SkpRa096ZU4wLUw1Szh5TDlpdi1JbTlIWVdNNVVadzI1Q1hRR0s4alNfaGxIVl8tZWJ6SG9zNmZmRXlSUVdpNmt3U21rNFBzUG1oWFhMWUtmbDk2dEg1bm4ySnY3YW11Wl9MYnNzdVV1M1dzaGUzbTdabkNLOWFqV2JDazctMndiVDdzNmZETjZDNDV6dEk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-30T09:29:59+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Krankenkasse für ein gesünderes Leben | BARMER - BARMER",
       "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
@@ -1879,16 +1939,6 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/gp-contract-services/2024-25",
       "published_at": "2025-10-29T09:01:35+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit - Virologe Stöhr warnt: Vogelgrippe birgt Pandemie-Risiko - Gesundheit - SZ.de",
-      "summary_de": "Gesundheit - Virologe Stöhr warnt: Vogelgrippe birgt Pandemie-Risiko - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRFphbEExUVQydE9aNWdzc3ljT2VSM1hIeW5CdkJLRzN0eEVlQkNFZTZhN3hnb1g3XzFwdVQ1aG1WMUF2TTNnVm9ib2RfVGVRSjNuUzVURjY1NU1vNEJuZTVYd1Jwdjc2TXpQQzdmUWRCNWJQdS04Z3dEN0ZXc0RVM0hCN3psd2Rjd0VYZnQ0ZTNKQWRjWDJVbjlFMnVvbmpaVlYzd0JQc19OR3R3UFRJS29OeFQ4WDRaRmN0YTJpWFhuZjcwV2FlR3Mxc3hhSndpOXBCSnhsZW1aSE1XUU5qMXVscVZyWmR6TjVN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-29T06:14:59+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2043,16 +2093,6 @@
       "type": "News"
     },
     {
-      "title": "Isotretinoin – updates to prescribing guidance and survey of services",
-      "summary_de": "The Commission on Human Medicines (CHM) has endorsed changes to isotretinoin prescribing guidance. In addition, CHM is seeking further information from dermatology services who prescribe isotretinoin to inform any future changes to current risk minimisation measures.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/drug-safety-update/isotretinoin-updates-to-prescribing-guidance-and-survey-of-services",
-      "published_at": "2025-10-27T11:00:14+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "2. IQTIG-Regionalkonferenz zum Verfahren QS Ambulante Psychotherapie erfolgreich beendet",
       "summary_de": "Berlin, 31. Oktober 2025 - Das IQTIG hat am 27. Oktober 2025 seine zweite Regionalkonferenz zur regionalen Erprobung des Qualitätssicherungsverfahrens Ambulante psychotherapeutische Versorgung gesetzlich Krankenversicherter (QS Ambulante Psychotherapie) veranstaltet. Etwa 900 Teilnehmerinnen und Teilnehmer, davon knapp 80 vor Ort im Haus der Ärzteschaft in Düsseldorf, waren der Einladung zu der hybriden Konferenz gefolgt. Darunter waren in erster Linie an der …",
       "source_name": "Pressemitteilungen | IQTIG",
@@ -2091,6 +2131,16 @@
       "source_url": "https://www.diagnosticimaging.com/view/emerging-advances-photon-counting-computed-tomography",
       "published_at": "2025-10-26T11:27:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Informationen für Arbeitgeber: Beitragssätze 2025 - DAK-Gesundheit",
+      "summary_de": "Informationen für Arbeitgeber: Beitragssätze 2025 &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOM2RlWlVNeTlNLTBrbWxDTkJ2OF9LdjdFS1dGTWd0ODRMaFMxVmhMZ3ZHaEF0ODNWbEJZZ25YY1VJVTB3SWpHbWppNnBiX05TaE5KZ2ZBRW93S0JJZzlNSE95cDhhaXdISmhWNWdnTzYzOXRRZmhFMWRBYU95aS1DMlo3M2JUSHJoOTVsY0FxUEc5ZmVpcF9jbjNoZUNiaVlvcjFfRmJUZDhmLW4zaGduMXlDY1gzN2VDcnRoY2RqYVNyRU9nMmFQbDA4dGxvLWVPOUhwZA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-26T07:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2367,6 +2417,18 @@
       "type": "News"
     },
     {
+      "title": "Steigende Gesundheitsausgaben: Krankenkassen-Ausgaben steigen - Abrechnungsbetrug in Pflege - DIE ZEIT",
+      "summary_de": "Steigende Gesundheitsausgaben: Krankenkassen-Ausgaben steigen - Abrechnungsbetrug in Pflege &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWnZkcFA3N3plQkNZMVY4VFVPRGNsTFd5bWs0Z0RVQ2RncWlaanJrOGhkRC1ibEowMmJnbWJScjF5aTRsX2cxM0V2QUFrN0RqcFJleWcxQndlSk0zSEtjSGtZS1FVQktrTVhOa3A5LUFfeV9sdlRKU203YmhWdlZDSHViSGF0ODV5a3VwcnktWGR6WW11NTZJck1B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-22T07:00:00+00:00",
+      "category": "Versorgung",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "Service delivery, behavioural, and self‐management interventions for children with epilepsy",
       "summary_de": "Service delivery, behavioural, and self‐management interventions for children with epilepsy",
       "source_name": "Cochrane Library RSS feed.",
@@ -2437,16 +2499,6 @@
       "type": "News"
     },
     {
-      "title": "Zahlt die DAK-Gesundheit Implantate? - DAK-Gesundheit",
-      "summary_de": "Zahlt die DAK-Gesundheit Implantate? &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM0toZG0weVVfcHVaYV93b0VJQ1poNTkwY0t4dlpxXy10RGRyZVRBcl84bTNDY3VWd0tpX0E1U3U0ZUxwS3hwSnRodlc1WHA3STFxTGpSVzNXd21ucFl6Tjg5NzlWMDVqa2JydmxobTRVSF9NZ3ZOR3BteUlVUFNVTE5OY3I0elkyR0toSUVwUUJHbjZKUko3VXVBdFI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-21T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesetz zur Weiterentwicklung der Apothekenversorgung",
       "summary_de": "Der vdek begrüßt weitgehend die Absichten hinter dem Referentenentwurf für ein Gesetz zur Weiterentwicklung der Apothekenversorgung. Kritisch seien jedoch die erweiterten Möglichkeiten für Apothekerinnen und Apotheker, nicht vorrätige Rabattarzneimittel durch ein in der Apotheke vorhandenes Arzneimittel auszutauschen, so Boris von Maydell, Vertreter des Vorstands beim vdek.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -2483,6 +2535,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOGtlYW96ZXpObFFpZG9UdUhTcENWVEo5WUx0dnRWbU1XTzlueDB6NWhrMGs5ak4xekJaMy1TNzJYUktVWGtld1hhY3dYcFdNWFBWVldUbm9fQlgtYmh6dVF2dTBCd3lNdmp4TU0tanlPcGpOVkdobVVEWXNYeGRZdTAwV2V2bzcxdG9YNWI5NW84R2JodjdjTWdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-18T07:00:00+00:00",
       "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Stellenangebote für Ärzte & Ärztinnen | Arzt Jobs - ärztestellen",
+      "summary_de": "Stellenangebote für Ärzte & Ärztinnen | Arzt Jobs &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOEtwbWtzUHBNanRPTWwyRy1sSHJOU2RSUjdMbnBXOXJMQlRZS0FOeFhpcXhtZ3VhUXZuNDctOUJpRWRxVmtvQzFQa3V6ZFNVVDdQd244cmFYVjA5NjhJc1FWbktvWXd2RDlOcGpUMVBaSzRPNEhZWkRaX1JpMHgxN1E5b2R0cFZxTHk1VG0tOVI1VElzZV94Q1pHV3k2Z096dl9MWmdQaUtwd2dPc1ktaURZRkhNZ0htYmVsS3o3aFpHV2VPZVprYTNRanQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-18T03:27:05+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2676,26 +2738,6 @@
       "type": "News"
     },
     {
-      "title": "Erstes Date: so wird’s entspannt und schön - DAK-Gesundheit",
-      "summary_de": "Erstes Date: so wird’s entspannt und schön &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbEVCdWtlVHBDOHZVemtqMGQyamRtd1RQXzVld1hBa2JUQW14emUzSGlsTHo4X0VqMVZYM0VfaVlLZkNNd1VxQ0JhbXRfUVRjVWxVZ3MtUnRkWl9NQVhhTjc2dDNPVWUyVXliY1hXQ3RXNklXd1RaX0xXLXJzNUEzelRqY0pPR1dVb1FCMzhNcmxTN2xsdGE0YVo1WVR3TUxwcHRoZDdVTlcyaVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-14T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Schwangerschaftsmythen unter der Lupe - DAK-Gesundheit",
-      "summary_de": "Schwangerschaftsmythen unter der Lupe &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaHVKb1BqazJ2Nl9jRVg0YTB0TEJQYVM2R05pWTFsazZRTmZMUTJQZHNtNnd1Zko0RzFYX1A4MXlONWdpS2JFSHRIZUNyQmIwRS1KUDhiZzdiek5oQ0l5T25fUWE5d0JJbmpSQ1BDZ0pnM0Jpd19rZXBkV3VyM2d4RlVLMko0NzQxVFVrX0FxaXJTQlJqSGNoUy1rdDNYb1R6aXpSUjdSYVZ4bFRjZGd0UVhXRVM0RHFYdWVLQjE3QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-14T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "vdek zum „kleinen Sparpaket“ in der GKV",
       "summary_de": "Das neue „kleine Sparpaket“ der Bundesregierung ist ein erster Schritt zur Ausgabenbegrenzung in der GKV. Doch ohne stärkere Koppelung der Ausgaben an die Einnahmen – etwa bei Arzneimitteln – werden die Beiträge weiter steigen. Auch die Rücklagen der Kassen sind noch zu niedrig.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -2714,6 +2756,16 @@
       "source_url": "https://www.efsa.europa.eu/en/press/news/130301",
       "published_at": "2025-10-13T11:58:02+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "FSME: Symptome, Therapie, Impfung und Risikogebiete - DAK-Gesundheit",
+      "summary_de": "FSME: Symptome, Therapie, Impfung und Risikogebiete &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV3JkbEFQQXVOZzZRTlBsLXpsZWZ5aE1zekg2R0hJYkRXa2VQanpNS3FVa1RDa0lHTklaTEpDYXh0MXZEOFBqcF95eTFoc3BFNEU0WF9tck5YdERKRlhJaVhhVHFKdjN2cFBEeGt0cGdGZ0hCWThQU0VnS0lXenliTHdhS2RlRFlyWm5oTzVwQWJUbHk0YjNUdjNXenNZeWFQQ3c3ZmJMdDBWaS1HeE1jYXR2cw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-13T07:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2760,21 +2812,41 @@
       "type": "News"
     },
     {
-      "title": "Waiting times for suspected and diagnosed cancer patients for August 2025",
-      "summary_de": "These reports provide information on the waiting times of people referred with suspected cancer or breast symptoms and subsequently told the outcome of their diagnosis, and treated for cancer by the NHS in England.This data is published on the NHS England website. Please follow the link below.",
+      "title": "National Pregnancy in Diabetes Audit Dashboard 2024 (01 January 2022 to 31 December 2024)",
+      "summary_de": "The National Pregnancy in Diabetes Audit (NPID) is a workstream of the National Diabetes Audit (NDA). It aims to support clinical teams to deliver better care and outcomes for women with diabetes who become pregnant and has been running since 2014.The dashboard presents service level data and is intended to support local, regional and national quality improvement. The latest version …",
       "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-waiting-times-for-suspected-and-diagnosed-cancer-patients/for-august-2025",
-      "published_at": "2025-10-09T08:32:04+00:00",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/national-pregnancy-in-diabetes-audit/2024",
+      "published_at": "2025-10-09T08:32:24+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Virtual Ward Capacity and Occupancy statistics for September 2025",
-      "summary_de": "Virtual wards (also known as hospital at home) allow patients to get the care they need at home safely and conveniently, rather than being in hospital. This includes either preventing avoidable hospital admissions or supporting people to safely leave hospital sooner.Systems are asked to continue to embed, standardise and scale virtual ward capacity, ensuring that local virtual ward services are …",
+      "title": "Mental Health Services Monthly Statistics, Performance August 2025",
+      "summary_de": "This publication provides the timeliest picture available of people using NHS funded secondary mental health, learning disabilities and autism services in England, excluding those who are solely in contact with Talking Therapies. This information will be of use to people needing access to information quickly for operational decision making and other purposes. More detailed information on the quality and completeness …",
       "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-virtual-ward-capacity-and-occupancy-statistics/for-september-2025",
-      "published_at": "2025-10-09T08:32:03+00:00",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mental-health-services-monthly-statistics/performance-august-2025",
+      "published_at": "2025-10-09T08:32:21+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Summary Hospital-level Mortality Indicator (SHMI) - Deaths associated with hospitalisation, England, June 2024 - May 2025",
+      "summary_de": "This publication of the SHMI relates to discharges in the reporting period June 2024 - May 2025.The SHMI is the ratio between the actual number of patients who die following hospitalisation at the trust and the number that would be expected to die on the basis of average England figures, given the characteristics of the patients treated there. The SHMI …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/shmi/2025-10",
+      "published_at": "2025-10-09T08:32:10+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Integrated Urgent Care Aggregate Data Collection (IUC ADC) for September 2025 (Provisional statistics)",
+      "summary_de": "Integrated Urgent Care (IUC) describes a range of services including NHS 111 and Out of Hours services, which aim to ensure a seamless patient experience with minimum handoffs and access to a clinician where required.This data is published on the NHS England website. Please follow the link below.",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-integrated-urgent-care-aggregate-data-collection-iuc-adc/for-september-2025",
+      "published_at": "2025-10-09T08:32:07+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
@@ -2840,6 +2912,16 @@
       "type": "News"
     },
     {
+      "title": "Provisional Monthly Hospital Episode Statistics for Admitted Patient Care, Outpatient and Accident and Emergency data, April 2025 - August 2025",
+      "summary_de": "Hospital Episodes Statistics (HES) is a data warehouse containing records of all patients admitted to NHS hospitals in England. It contains details of inpatient care and outpatient appointments. Hospital episode statistics (HES) statistics are produced and published on a monthly basis. The data are provisional and should therefore be treated as an estimate until the final National Statistics annual publications.",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/provisional-monthly-hospital-episode-statistics-for-admitted-patient-care-outpatient-and-accident-and-emergency-data/april-2025---august-2025",
+      "published_at": "2025-10-09T08:31:36+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Delayed Discharges in an acute setting for September 2025",
       "summary_de": "The Intermediate Care Data Collection was introduced on 29 July 2024, and was previously the Community Daily Discharge Sitrep. Amendments were made to ensure alignment with the Intermediate Care Framework and improve the insight available to systems, regions and nationally, to support demand and capacity planning and service improvements.The Intermediate Care data collection has comparable data with the Community Daily …",
       "source_name": "Publication Feed",
@@ -2890,61 +2972,11 @@
       "type": "News"
     },
     {
-      "title": "Integrated Urgent Care Aggregate Data Collection (IUC ADC) for August 2025 (Official statistics)",
-      "summary_de": "The IUC ADC became the official source of IUC statistics in April 2021, when the NHS 111 Minimum Dataset (NHS 111 MDS) was merged into a revised version of the IUC ADC. Since then, a provisional subset of the IUC ADC data is published in the month after the collection end date (eg, April data published in May), with the …",
+      "title": "Young People with Type 2 Diabetes, 2023-24",
+      "summary_de": "The Young People with Type 2 Diabetes audit aims to document the number of people with type 2 diabetes up to the age of 40 years, their patient characteristics and the diabetes care they receive. This is important because adverse diabetes and cardiovascular outcomes are more common in people who develop type 2 diabetes at an earlier age and it …",
       "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-integrated-urgent-care-aggregate-data-collection-iuc-adc/for-august-2025",
-      "published_at": "2025-10-09T08:31:14+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Mixed Sex Accommodation breaches for August 2025",
-      "summary_de": "The NHS Operating Framework for 2012-2013 confirmed that all providers of NHS funded care are expected to eliminate mixed-sex accommodation, except where it is in the overall best interest of the patient.From 1 December 2010, the collection of monthly Mixed-Sex Accommodation (MSA) breaches was introduced. NHS organisations submit data on the number of occurrences of unjustified mixing in relation to …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-mixed-sex-accommodation-breaches/for-august-2025",
-      "published_at": "2025-10-09T08:31:08+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "A&E attendances and emergency admissions for September 2025 and Quarterly report (Q2)",
-      "summary_de": "The Weekly and Monthly A&amp;E Attendances and Emergency Admissions collection collects the total number of attendances in the specified period for all A&amp;E types, including Urgent Treatment Centres, Minor Injury Units and Walk-in Centres, and of these, the number discharged, admitted or transferred within four hours of arrival.",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-ae-attendances-and-emergency-admissions/for-september-2025-and-quarterly-report-q2",
-      "published_at": "2025-10-09T08:31:07+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic waiting times and activity for August 2025",
-      "summary_de": "The monthly diagnostics collection collects data on waiting times and activity for 15 key diagnostic tests and procedures.This data is published on the NHS England website. Please follow the link below.",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-diagnostics-waiting-times-and-activity-data/for-august-2025",
-      "published_at": "2025-10-09T08:31:03+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Ambulance Quality Indicators Systems Indicators for September 2025",
-      "summary_de": "This contains the Ambulance Systems Indicators (AmbSYS) for all eleven Ambulance Services in England.This data is published on the NHS England website. Please follow the link below.",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-ambulance-quality-indicators-systems-indicators/for-september-2025",
-      "published_at": "2025-10-09T08:31:02+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Ambulance Quality Indicators Clinical Outcomes for May 2025",
-      "summary_de": "This contains the Ambulance Clinical Outcomes (AmbCO) for all eleven Ambulance Services in England.This data is published on the NHS England website. Please follow the link below.",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-ambulance-quality-indicators-clinical-outcomes/for-may-2025",
-      "published_at": "2025-10-09T08:31:00+00:00",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/national-diabetes-audit-yt2/young-people-with-type-2-diabetes-2023-24",
+      "published_at": "2025-10-08T14:55:26+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
@@ -3070,6 +3102,16 @@
       "type": "News"
     },
     {
+      "title": "Provisional Accident and Emergency Quality Indicators for England, August 2025, by provider",
+      "summary_de": "Provisional Accident and Emergency Quality Indicators for England, August 2025, by providerThe measures included in this publication report on data coverage in ECDS compared with the emergency monthly situation reports MSitAE published by NHS England and NHS Improvement. They also report statistics for total time in A&amp;E, time to assessment, time to treatment, A&amp;E attendances that left before treatment and …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/provisional-accident-and-emergency-quality-indicators-for-england/august-2025-by-provider",
+      "published_at": "2025-09-30T14:22:05+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "gemeinsame Pressemitteilung: Versicherungsfremde Leistungen konsequent aus Beitragsfinanzierung streichen!",
       "summary_de": "Appell der gemeinsamen Selbstverwaltung von GKV und KBV an die Bundesregierung: „Wir brauchen dringend eine saubere Abgrenzung zwischen staatlicher Daseinsvorsorge und den Aufgaben der gesetzlichen Kranken- und der sozialen Pflegeversicherung“, so Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes.",
       "source_name": "GKV-SV Presseinformationen",
@@ -3098,26 +3140,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeDYtaHVROUNZb0lGOVk1TC1MaENBT1RsNnFnT0tnRHROcC12QXNkY2lMdGU4TGtIRUs1S2NPYWJWLU04eU5XMHFzRjRUbmxndE5CSS1FLThqMC0ycjJBWU5oeThvVFBuQjVVVGY3RkNhYVlnVUQ3Y2dvUWxQQ3lTZFpvVTRMcF9ZV1lLLTMwMUUzeUtyQ1BfRmlrNm90T3RfVERUdEFTcHdNbjNsbjBKM1o0Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-09-29T08:04:45+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Entlassmanagement für Patienten im Krankenhaus - KKH",
-      "summary_de": "Entlassmanagement für Patienten im Krankenhaus &nbsp;&nbsp; KKH",
-      "source_name": "\"site:kkh.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOWd0UTV5LTR4T09nM0huLXV3TFFwZnNxdXBPd2E2T0NVdUxtd0RxR1d5UFFNZllGM3BfNDFPaXU4dVZRYUIzWHpfSzBTZnY1X19NOWhqOU52U05GbTVTblkyZnJIdGhnN2RhWkp1VEdKeWpyRlpqeW1CaVQ4TWlENExUcExFR1V6SFFMMDlfV0N5QjNJUUNGVEs0NlpYVHJGNGF2eA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-09-26T16:46:38+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "More and more Europeans know how EU food safety works, says latest citizen survey",
-      "summary_de": "These findings and a wealth of additional results on what drives food choices in Europe are available in the new “ 2025 Eurobarometer Survey on Food Safety in the EU ”. EFSA conducts the survey every 3 years, which this year includes both the 27 EU Member States and 7 EU Candidate Countries at the same time. See the summary …",
-      "source_name": "EFSA | News",
-      "source_url": "https://www.efsa.europa.eu/en/news/more-and-more-europeans-know-how-eu-food-safety-works-says-latest-citizen-survey",
-      "published_at": "2025-09-24T08:57:33+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     }
