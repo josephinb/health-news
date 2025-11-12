@@ -1,8 +1,71 @@
 {
-  "generated_at": "2025-11-12T06:21:27.754339+00:00",
+  "generated_at": "2025-11-12T09:16:12.563374+00:00",
   "window_days": 42,
-  "count": 281,
+  "count": 275,
   "items": [
+    {
+      "title": "Erste Lesung KHAG",
+      "summary_de": "Der Bundestag berät in erster Lesung über den Gesetzentwurf eines Krankenhausreformanpassungsgesetzes (KHAG). Um ein wirksames Gesetz zu verabschieden und um einen weiteren Kostenanstieg zu verhindern, fordert der vdek unter anderem eine bundeseinheitliche Definition der Fachkliniken, die Aussetzung der sogenannten Meistbegünstigungsklausel sowie eine Obergrenze auch für das Pflegebudget.",
+      "source_name": "vdek - Verband der Ersatzkassen e. V.",
+      "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/khag-erste-lesung-krankenhausreformanpassungsgesetz.html",
+      "published_at": "2025-11-12T08:55:41+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Meldung: Eine Milliarde Euro pro Tag",
+      "summary_de": "„Wir schätzen, dass die gesetzlichen Kassen im nächsten Jahr rund 370 Milliarden Euro ausgeben müssen, also über eine Milliarde Euro pro Tag. Damit liegen wir zwar bei den Ausgaben in Europa an der Spitze – aber leider nicht bei der Lebenserwartung“, so Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, im Interview mit dem Onlineportal web.de",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2150252.jsp",
+      "published_at": "2025-11-12T08:13:45+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Europa",
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Weniger Krankenhausaufenthalte mit DAK-Diabetes-Programm - DAK-Gesundheit",
+      "summary_de": "Weniger Krankenhausaufenthalte mit DAK-Diabetes-Programm &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaVFEcFBvODRKNTZnQ3dja1l6WnJsaDVmRnp2YWttbTN6M2k1RFlJd29PWW45OHhleF9YQzRreEJNZXFKQWd2dXlFYWgxR0xhb01tVDhSTHNYeFZqRE5FZkxWWmtqWkRNaFE2V3g5X2pzNmF4Tlg2NzNfbU1xcTRlVjVwcWJhSHpEc1VLNU1KSDJqcTdnMVFjQXlEQUpwS0lEVU16ekxXbW9xR09qbUJOY0VBN3U1dw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-12T08:12:21+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Mehrsprachigkeit als Schutzfaktor: Bilinguale Hirne altern langsamer",
+      "summary_de": "Menschen, die mehrere Sprachen sprechen, bleiben geistig l&auml;nger fit &ndash; und k&ouml;nnten sogar ihr Risiko f&uuml;r Demenz senken. Eine europaweite Studie zeigt: Jede zus&auml;tzliche Sprache wirkt wie ein Schutzschild gegen kognitive Alterung.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/bilinguale-hirne-altern-langsamer-160368/",
+      "published_at": "2025-11-12T08:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Gesundheit: 130 Jahre Röntgen: Die Versorgung in der Region stärken - MeinBezirk.at",
+      "summary_de": "Gesundheit: 130 Jahre Röntgen: Die Versorgung in der Region stärken &nbsp;&nbsp; MeinBezirk.at",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQanBjdUJNSVdWWks4XzY0TG1ucFpBSDdjTTlrTng2Qmw4RDNHM0d2QUY4d1ZsZTltSGJ1QXFMdW5jTmVKRUhTbzZGMkVScXJhdGl6TlkzRWpmUTlfQ19meTBSSGRwclUzalJwYkhueUR3ZGtwanE5UXJHcnRyWmNEclM2UTgyRDFEd2JHZ3htT001UTBqMmh4cXVMaUo5Nml2RWtMSmR5QzhxZEFlTEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-12T07:00:08+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Akute Bronchitis: Pelargonien-Extrakt schlägt Antibiotika",
+      "summary_de": "Wenn &Auml;rzte bei einer akuten Bronchitis auf den pflanzlichen Extrakt EPs 7630 setzen statt auf Antibiotika, hat das kurz- und langfristige Vorteile, zeigt eine neue retrospektive Auswertung von mehr als 375.000 Verordnungen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/pelargonien-extrakt-schlaegt-antibiotika-160397/",
+      "published_at": "2025-11-12T07:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Häufige Arzneistoffe: Steckbrief Prasugrel",
       "summary_de": "Der Thrombozytenaggregationshemmer Prasugrel wird zur Vorbeugung von Blutgerinnseln bei Patienten mit akutem Koronarsyndrom eingesetzt. Er wird stets mit Acetylsalicyls&auml;ure&nbsp;(ASS) kombiniert.",
@@ -29,16 +92,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPblpMX2VFV0VDZWpuSWptemh4WkpkRkhLbHU0RXVkT245aW95dmV6OWVjSncxdVdVSEF1U2pTREZtLTd6dl9JUnJzcHRuY3F6RWtGWkxmajROcUgyVWtaYTRJLXJZZ2s4RGk2M0habnVISkZqSVFQZXlpNllGS2xDUjhCRTR5Vy1BZGNOZmd5VTZLeHc1d0dlQnRVNWQ5T1NlR0FWcVBfRjkxb2NnRXE1SEdOU1FZeG9lVlRTeHd5ZGY1QzJSZGNIN1lxa2owd1lrZThuUW9Qa1VraGNCc3JEb2Z2d0g4UGhHLUlaQVRRbkdFZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-11T23:05:20+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Klinik für Psychiatrie und Psychotherapie - HEK",
-      "summary_de": "Klinik für Psychiatrie und Psychotherapie &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTEtWemZsYkdDNGhGRms5Ny1ONktiZzdPUlI3VElrTy1aZHVOSXZOVE9vMzZRR19RQ2lDaThxTTFyYzFnd0NyMFZZenFpTWlKdi1Od3hfSDI1MGJ0YVFRVGRUWmZDRnVHR1BmLTM0Vnc2d01iaFNLYzlIVHpQZGF4cjF6Zm95U01CTm84bHU4aG1DMVc5ZUhjWkpubXU1OHIyMWcyazhqSjhyTENMTUlacXpBYUl2cEhmcEg0REd6cG1UUnJsLXJ0c2Nqdl9RM2tsekFiR2hSdWkzSk5xam9LejBVcmJZR3hIRm1uQXY5enpBMjdJR0VUYUhVamo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-11T18:46:26+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -140,16 +193,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-11112025-160385/",
       "published_at": "2025-11-11T15:00:00+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "fMRI exams of soccer fans' brains offer clues to the cause of fanaticism",
-      "summary_de": "Functional MRI (fMRI) illuminates the phenomena of \"in-group bonding and reinforcement of social identity,\" researchers noted.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15771458/fmri-exams-of-soccer-fans-brains-offer-clues-to-the-cause-of-fanaticism",
-      "published_at": "2025-11-11T15:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -384,21 +427,11 @@
       "type": "News"
     },
     {
-      "title": "Kontrollverlust Wechseljahre: Von Wut bis Weinkrampf ist alles drin",
-      "summary_de": "Aufbrausend, &auml;ngstlich, aggressiv &ndash; in den Wechseljahren geraten nicht nur die Hormone, sondern auch die Gef&uuml;hle durcheinander. Wie sich die Stimmung stabilisieren l&auml;sst, erkl&auml;rt das Autorenduo Dr. Katrin Schaudig und&nbsp;Katrin Simonsen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/von-wut-bis-weinkrampf-ist-alles-drin-160158/",
-      "published_at": "2025-11-11T07:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Minnies winners for 2025 page 3",
       "summary_de": "null",
       "source_name": "AuntMinnie",
       "source_url": "https://www.auntminnie.com/clinical-news/article/15771387/minnies-winners-for-2025-page-3",
-      "published_at": "2025-11-11T07:00:00+00:00",
+      "published_at": "2025-11-11T08:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -408,7 +441,7 @@
       "summary_de": "null",
       "source_name": "AuntMinnie",
       "source_url": "https://www.auntminnie.com/clinical-news/article/15771386/minnies-winners-for-2025-page-2",
-      "published_at": "2025-11-11T07:00:00+00:00",
+      "published_at": "2025-11-11T08:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -418,8 +451,18 @@
       "summary_de": "This year, issues impacting the radiology workforce and theranostics featured prominently among the list of winners.",
       "source_name": "AuntMinnie",
       "source_url": "https://www.auntminnie.com/resources/minnies/article/15771385/workforce-issues-theranostics-take-center-stage-for-minnies-2025",
-      "published_at": "2025-11-11T07:00:00+00:00",
+      "published_at": "2025-11-11T08:00:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Kontrollverlust Wechseljahre: Von Wut bis Weinkrampf ist alles drin",
+      "summary_de": "Aufbrausend, &auml;ngstlich, aggressiv &ndash; in den Wechseljahren geraten nicht nur die Hormone, sondern auch die Gef&uuml;hle durcheinander. Wie sich die Stimmung stabilisieren l&auml;sst, erkl&auml;rt das Autorenduo Dr. Katrin Schaudig und&nbsp;Katrin Simonsen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/von-wut-bis-weinkrampf-ist-alles-drin-160158/",
+      "published_at": "2025-11-11T07:00:00+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -454,20 +497,20 @@
       "type": "Studie"
     },
     {
-      "title": "High‐frequency oscillatory ventilation versus conventional ventilation for infants with severe pulmonary dysfunction born at or near term",
-      "summary_de": "High‐frequency oscillatory ventilation versus conventional ventilation for infants with severe pulmonary dysfunction born at or near term",
+      "title": "Magnesium supplementation for migraine prophylaxis",
+      "summary_de": "Magnesium supplementation for migraine prophylaxis",
       "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002974.pub3",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016307",
       "published_at": "2025-11-11T00:00:00+00:00",
       "category": "Studie",
       "tags": [],
       "type": "Studie"
     },
     {
-      "title": "Magnesium supplementation for migraine prophylaxis",
-      "summary_de": "Magnesium supplementation for migraine prophylaxis",
+      "title": "High‐frequency oscillatory ventilation versus conventional ventilation for infants with severe pulmonary dysfunction born at or near term",
+      "summary_de": "High‐frequency oscillatory ventilation versus conventional ventilation for infants with severe pulmonary dysfunction born at or near term",
       "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016307",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002974.pub3",
       "published_at": "2025-11-11T00:00:00+00:00",
       "category": "Studie",
       "tags": [],
@@ -614,26 +657,6 @@
       "type": "News"
     },
     {
-      "title": "Verbändeanhörung: Das BMG hängt an der PTA-Vertretung",
-      "summary_de": "Das Bundesgesundheitsministerium (BMG) lud zur Verb&auml;ndeanh&ouml;rung zur Apothekenreform &ndash; und h&ouml;rte tats&auml;chlich zu, wie es aus Teilnehmerkreisen hei&szlig;t. Die Atmosph&auml;re sei konstruktiv gewesen. An der geplanten PTA-Vertretung, einem der zentralen Schmerzpunkte der Apotheken, will das BMG aber offenbar festhalten.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/das-bmg-haengt-an-der-pta-vertretung-160353/",
-      "published_at": "2025-11-10T14:50:08+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Mitgliederversammlung Brandenburg: Kämpfen für den »Lichtblick«",
-      "summary_de": "Andrea K&ouml;nig bleibt Vorsitzende des Apothekerverbands Brandenburg (AVB). Bei der Mitgliederversammlung, die sie ohne Gegenstimme wiederw&auml;hlte, appellierte K&ouml;nig an die Apothekerschaft, in der Reaktion auf die Reformpl&auml;ne Geschlossenheit zu zeigen.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/kaempfen-fuer-den-lichtblick-160343/",
-      "published_at": "2025-11-10T14:15:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -704,16 +727,6 @@
       "type": "News"
     },
     {
-      "title": "Stellenangebote für Ärzte & Ärztinnen | Arzt Jobs - ärztestellen",
-      "summary_de": "Stellenangebote für Ärzte & Ärztinnen | Arzt Jobs &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZWxDZWdKS1YwemNNTGRSd1ctNFFPaDRSZ0RSNzJ6U2lJcVZiamZGT2tWYmFNSUhuMExGSXlhS2lFbnJPcnJhelRkLTNhVzJMV1d2R2ZHcS1mR05yTmQ1SU1TWjRjMDRKR1c0V1g0b0M4YVhtWWR2UTBDUDdaS2NzVWlHcjV4V1I0UG5lRFF4REktN1hj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-10T04:34:15+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Tolvaptan versus other interventions for hyponatraemia in people with cirrhosis",
       "summary_de": "Tolvaptan versus other interventions for hyponatraemia in people with cirrhosis",
       "source_name": "Cochrane Library RSS feed.",
@@ -722,16 +735,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Festtagsessen - Martinsgans trotz Vogelgrippe gesichert - Gesundheit - SZ.de",
-      "summary_de": "Festtagsessen - Martinsgans trotz Vogelgrippe gesichert - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbFhaQXRZdmc4eFlsYXFJWXNabFgzd1BXa29fNGUwZzNPMjBGaHlvZUxDYmI4TUVhR0YteS1zYUtOS1NTMmYzTlVfd3llbkREUW51OTFUeEtlVFJEeTZQZnE5ejUyaDQ2SktkOEZtZm5RbW9DUnZqaFlaRDhoUTBJV25TMzFpQzJSWG56czd3SjB2M3FzSU8xVnJwMDNfWndSX0hiVGkzZTRBU2VmSHdraFBFdTdVdGRadGlkLU5Fcm50ckRvLUxwNFd6VDBkcXAxeElxUng4OVkzdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-09T05:00:07+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Gesundheit: Krankenkasse: Zahnvorsorge bei Kleinkindern vernachlässigt - DIE ZEIT",
@@ -974,21 +977,21 @@
       "type": "News"
     },
     {
-      "title": "Rausch mit Folgen - Alkoholvergiftung: So handelt man richtig - Gesundheit - SZ.de",
-      "summary_de": "Rausch mit Folgen - Alkoholvergiftung: So handelt man richtig - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNLVY5V1NPeGMtSHlyYWVHbElpV2syVXlTT2hZck44VDUzMkhKMW1QbGVRNmdxM0YtVm1rVEhxT3l6aHZtc19SRmx5UktwTkpYWlJtdE5vTDNnNHQ0YzJPWGtSenNkUGpZRVloNGlPQWJQT3FvS1FzUFlMQWJPdVE4QmktWHpxc21pX2hqQjVUU1lvdzhIQko1WjZhQVVxMTE4VVk0QXllOW93N0FQMFNpLXNqLWFvM2txblJpVHVtYkswMUE3Yzh5Z3Iwb01DRzVrX1plakVnQ3lZNFN1R0lCdg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-06T23:05:28+00:00",
+      "title": "Training boosts performance of pediatric appendicitis ultrasound",
+      "summary_de": "Standardized reporting and training can decrease time spent in the emergency department for diagnosing pediatric appendicitis.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ultrasound/article/15771299/training-standardized-reporting-improves-appendix-ultrasound-exams",
+      "published_at": "2025-11-07T07:01:31+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Sexuelle Aufklärung – Tipps für Eltern - DAK-Gesundheit",
-      "summary_de": "Sexuelle Aufklärung – Tipps für Eltern &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRmhIcFdvRXFIS3lub19LY3c5Y1VRSmlUQjRJWGJ1YVM0Ry1oZE93RUY2WWRjRmo2RFZCamZ2S3hZeTVBTWxHa05wYWx2ZWE4NUJYVWRTdTRlVWZwcnJKWFN6UmU2a1B3QXdiNkJ2TnlKTmJnTGszN2V6ZGhnUnBYejJPU040VHJlTnlUVFUzTk1mR0hsSVdLTEhoYndKLU9hSUcyag?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-06T20:29:59+00:00",
+      "title": "Rausch mit Folgen - Alkoholvergiftung: So handelt man richtig - Gesundheit - SZ.de",
+      "summary_de": "Rausch mit Folgen - Alkoholvergiftung: So handelt man richtig - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNLVY5V1NPeGMtSHlyYWVHbElpV2syVXlTT2hZck44VDUzMkhKMW1QbGVRNmdxM0YtVm1rVEhxT3l6aHZtc19SRmx5UktwTkpYWlJtdE5vTDNnNHQ0YzJPWGtSenNkUGpZRVloNGlPQWJQT3FvS1FzUFlMQWJPdVE4QmktWHpxc21pX2hqQjVUU1lvdzhIQko1WjZhQVVxMTE4VVk0QXllOW93N0FQMFNpLXNqLWFvM2txblJpVHVtYkswMUE3Yzh5Z3Iwb01DRzVrX1plakVnQ3lZNFN1R0lCdg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-06T23:05:28+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1030,16 +1033,6 @@
       "source_url": "https://www.gov.uk/government/publications/medicines-that-cannot-be-parallel-exported-from-the-uk",
       "published_at": "2025-11-06T17:25:49+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Bärlauch – das gesunde bärenstarke Küchenkraut - DAK-Gesundheit",
-      "summary_de": "Bärlauch – das gesunde bärenstarke Küchenkraut &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWm9rcDg0a3dxc3B3bkd3Y3F1YXJIT0hqYmxQdHhMU3J0cmNJcjNuSFR2eUVxc1lsSmZEdWhOTzhkZG9yZjgwWWhCanVaaDdZN3NsRjBfU1pqMUZGdXRDdTYtYmVxNHdCN1JBaUl0cnBkbExHYmU5Tm90V3ExNmVIUS1PbDZ6VFJJY0R6c09USQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-06T17:03:11+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1114,11 +1107,11 @@
       "type": "News"
     },
     {
-      "title": "Tierseuche - Vogelgrippe bei Kranichen nun auch in Oberspreewald-Lausitz - Gesundheit - SZ.de",
-      "summary_de": "Tierseuche - Vogelgrippe bei Kranichen nun auch in Oberspreewald-Lausitz - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQX2EwQkt2UXBVQnN1YTZIVTlUdHg0SmxsMTNBQkE2cVQyZ2pjTENmdndKLW41M3o0MXJ3N3B2VUtKMVV1V1d0VGhGU2s1dlgySUFwX1hoZWtkMWgzSG80X3dFVFBfcjVYWUdPeEdKTXhwRlVCYzktbWlnRDlpTlJ6b2UxYzRJRm9MMG5qRUc3TEk3ZVJJa2JHa1VCZl9rRXZULXdwUFhMWE43Q0toSGZGbEZLWEE5bWl5Ul9UTW54ZC1YQ2pQNFRqSFN4WFV5V3BHRzNIWk1PYTBINXBvTUpOSjh5dHgzdFdZX2dvM3lQTkI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-06T11:29:36+00:00",
+      "title": "Erste Messe für Gesundheit und Soziales auf Rügen - tagesschau.de",
+      "summary_de": "Erste Messe für Gesundheit und Soziales auf Rügen &nbsp;&nbsp; tagesschau.de",
+      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMnFzcEdBNmVBV3VlZnRQdlJvZklBN0RzQUVEbk5sR0Z6VDNRYUdlTXM3T1luYXlNbV9fOF9CUjZmc3dueGt1SkV5dGNTZlluV2VPamNHYVJBYXNkOGpVSTEyWFJhaHdVR1FpZ2ZDRTlueWVXQ01TWlZmT3NVU2ItMmZXTGdnNXNsSHNzU2JESVFpX1AtM2t6emVBWWo0MkJDUlBTTGpvRGxMcW54ZDQxUjRUbFFZMHNvdlVaRC1DMEJKTmxVcmtIY19oX0oyc3RVdEhxUXNPOUI0TFU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-06T11:25:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1292,16 +1285,6 @@
       "summary_de": "Gesundheit: WHO startet Impfaktion für 44.000 Kinder im Gazastreifen &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdFRCR0hHYXdjYWpsMVpMTTlEcElwdnh4TmJYUUVtdUFQOXRhZlBmQm5xc05hc3BmdGFzQWhTX3dRZDJKX3lNREpQdDB5bmkzUENpRkt4WmppSHQ5T2RXZTVzdEwzdmpXc3BvajVsa1VtU1hYNXJJcjNaTU9pX05RTzVQUlEzZlVHRmdzem9BcVF5b1NKMnJCUg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-05T15:23:53+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit - WHO startet Impfaktion für 44.000 Kinder im Gazastreifen - Gesundheit - SZ.de",
-      "summary_de": "Gesundheit - WHO startet Impfaktion für 44.000 Kinder im Gazastreifen - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVFg2NEpGLWVETHRRWlBsbUZZc0NuVVlkY2NJTlVOWnR1cVRaRFAyODJPMnp2b2JjUjFyZGdaTnNQWUV3WGowWTVKZFg5X0dDWVJkdkNsNjBZdmhZdDBEQ3hVZ3JfWG53a1cxOE9xb2M4UmdMb005blZGaFZLMm42SVQ1eW05M1RHbTFWaXdsc1ljTTdxUm81TFU5ZlZDZTBULVBmVVoyRjRTX2luWUo4Y1lsdFg4UnhFd0dhbldibXhmaTRYc3dKWkZRZk50UmhXejI5VjFlakZ5cVhZcjE5X2tqVG1fZGtnVmh0Wkh3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-05T15:23:53+00:00",
       "category": "News",
       "tags": [],
@@ -1551,6 +1534,16 @@
       "type": "News"
     },
     {
+      "title": "Befristet Klinik Lehre Stellenangebote in Berlin - ärztestellen",
+      "summary_de": "Befristet Klinik Lehre Stellenangebote in Berlin &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMUxqM3huUjJacnd3d09PYkFMMnU1Rmx3ZWRNMFVyazdrNUZFdlFSR2hmY2MwdXExUld6cHh4a2NteVBVQk1qSzZlSUJQY0FFX3U4US1zWWVSalU0YUpObnB5VzlscDhZRTRSSkJiYXN2QnhQZENFWVlnQ2JxaGk4UjFLTHBDdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-04T05:05:47+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Radiologie Martha-Maria St. Theresien-Krankenhaus Nürnberg Stellenangebote in Freising (0) - ärztestellen",
       "summary_de": "Radiologie Martha-Maria St. Theresien-Krankenhaus Nürnberg Stellenangebote in Freising (0) &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
@@ -1661,16 +1654,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Neue Radiologie - Zentraler Mosaikstein für neue Klinik Favoriten - Kronen Zeitung",
-      "summary_de": "Neue Radiologie - Zentraler Mosaikstein für neue Klinik Favoriten &nbsp;&nbsp; Kronen Zeitung",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ZNnY1ZjFweUl4U29PWjJSZmRPaTBrdzlWWEpSVnRCRi1kcnpRVU5oSU55ZVJUb25kWGlJTXRwekQ3Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-02T18:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Diagnostic Imaging articles: Update",
@@ -1848,16 +1831,6 @@
       "source_name": "Diagnostic Imaging articles",
       "source_url": "https://www.diagnosticimaging.com/view/top-five-radiology-content-october-2025",
       "published_at": "2025-10-30T09:55:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "DTM Medical erweitert Produktportfolio um DISCUS Dicom Media Center® Lösungen für sichere Bild- und Datenübertragung im Medizinbereich - PresseBox",
-      "summary_de": "DTM Medical erweitert Produktportfolio um DISCUS Dicom Media Center® Lösungen für sichere Bild- und Datenübertragung im Medizinbereich &nbsp;&nbsp; PresseBox",
-      "source_name": "\"site:pressebox.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPX3E2bWZoQWl0dDJlMm1EQ3YtRU1GRlY4R0VzSnpCc0w4dWhEN2N6cDhYa1lDX25HZ0lPYXM3bndLZTNFRTZGY25CQVh1dnhCVWJFWFlvSHdPSGlaVUFHNWFoZG9qaEFBQXRIX3JPVXZaTVROWHU1MXVnd21UXy1XYlA4SThfZzg3Zjd5dUw4cXBfbDBzOWxLUE8yT0x3c1NPX3ExRHZVTnRFTTkzcnB0WG90b21GUzFORHBKaVB3UXBkUjFPMDVnSmljVUdncUVtMjNGWnNSLWE1eDluMlo5UC0tYW9VWlcteklkQUhIem5xdmItRlE5MDNrcHNEZl9qaDlTcXgtaml3VWFldC1wcmMyUi1EREFKbFd3SVVmSXV0SzBwWkZF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-30T07:00:00+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -2073,16 +2046,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Meine Gesundheit - KKH",
-      "summary_de": "Meine Gesundheit &nbsp;&nbsp; KKH",
-      "source_name": "\"site:kkh.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSDFjSVhZU3NFTkpBcjJhdTR3RWRwaC14aXVCSEJ3Uk9selpaSnlkMWhBZjQ2MVhORXJXMVhkdF9xbFJjbVRjdWp4VFMyLXBMcUw4WTZsY0kxUHM4MDU2cTNPSDdpenozYXVLRWFXNGlmRTh1WFc2T3lFOThIOG02TWdFWXVqRGFTd21mczMyM0FMcEYwdjBrR2RtWU1KQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-26T03:26:34+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "ICMRA Summit 2025: EMA concludes its two mandates as chair",
@@ -2494,16 +2457,6 @@
       "type": "News"
     },
     {
-      "title": "Wie hoch ist der Beitrag für Selbstständige? - DAK-Gesundheit",
-      "summary_de": "Wie hoch ist der Beitrag für Selbstständige? &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUUNKX0RvN3JWanplRTdPaE5nVFVfNUtPT1dfSE4yZGkzNDFMVzg4aGlhWnR5WmI2TXlweHpPaDc2YUVKRmFBSS1nWlFuaGV0eEs4MWdpUmIzN3B4dlpLU0hacWhYcUpUNVg0cmZLMEE2dUlwRHlHT0ZXRVZaWEhsTUQwMy1xdlVUbnV2TWZvMlNJajNrVzhQNTB4NGd4UDY5a0Vad0JjQ0lfLXpkY19yUVZaYUQzZDVoYTU4djFCQlQ1eEtuM0xzZ1NYNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-15T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Zukunftspakt Pflege",
       "summary_de": "Am 13. Oktober 2025 hat die Bund-Länder-Arbeitsgruppe „Zukunftspakt Pflege“ erste Zwischenergebnisse vorgestellt. Diese enthielten ein breites Tableau an Möglichkeiten, ohne konkret zu werden, kritisiert vdek-Vorstandsvorsitzende Ulrike Elsner. „Jetzt brauchen wir schnelle Entscheidungen, insbesondere zur Finanzstabilisierung der SPV“, so Elsner.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -2513,6 +2466,26 @@
       "tags": [
         "Versorgung"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Die Versichertenvertretung des TK-Verwaltungsrats - Techniker Krankenkasse",
+      "summary_de": "Die Versichertenvertretung des TK-Verwaltungsrats &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa09DWWhDNkRvNWd4ZTEzRVR6VEVwZWI2UVFQZDI2cUFIcFFJRGpVdC04dUlydEtKWnlxN3B2eC1RYUVkTldwNFRiMTlva2pfZC1NUGtBUnRzeF94TmJrdUcwVE1xZF85M1JNMkdrRUVSU3RaSVFFVkF0OWJZMjNNTXhiOFBOZm44Z3ZRYTBWTmZibzhZbTA0c0hiS1k2SXNSZVVOeS1zZ2dSOXpCQVdHUl9oME5wUHFybExYQ0ZtbUxWaWtCX2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-14T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Auslandskrankenschein - DAK-Gesundheit",
+      "summary_de": "Auslandskrankenschein &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ0NkcFlOVElkTEJKU0x1c3VNWnhpQ295WDNqY1NVMW5vR0FpLUU2cjYzTjJBbmZpNVBQSEZoaFljTFc2N25LQnhLeDBYLVJwNXFFZTdDVk9NSHNpY29VUDhYekhfWjF6MGxCM084eUoyOVpCbWpoNzRXc19ILWhhZWZJWXdjcTJXUzU4SzNvNEJDRFk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-14T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
@@ -2567,16 +2540,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "vdek fordert abgesenkten Steuersatz für Arzneimittel",
-      "summary_de": "Am 8. Oktober 2025 fand die 1. Lesung im Bundestag zum Steueränderungsgesetz statt. Eine zentrale Maßnahme ist die Senkung der Mehrwertsteuer in der Gastronomie auf sieben Prozent. Die Ersatzkassen fordern eine entsprechende Absenkung auch für Arzneimittel, wie vdek-Vorstandsvorsitzende Ulrike Elsner betont.",
-      "source_name": "vdek - Verband der Ersatzkassen e. V.",
-      "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/mehrwertsteuer-arzneimittel-steueraenderungsgesetz.html",
-      "published_at": "2025-10-09T09:50:02+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
       "type": "News"
     },
     {
@@ -2824,26 +2787,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdWk2Z3pPU0lCUW9oS0ZTczQ4YXYzd1Y3bGYxSzAwQWRUSXBNYlc2V2FLbU55T2hMaUdxbzlUUDVndDdxOTFxam1nTUk2YmZxa1VjblQ0N05YUUVIUTltS1UyZkYzSlJjVkpJMlRzWjVUcWFhbkxqcWcwbnkyZF9ORTFPVVpkeUpIdS05SjhGZG5EYkhBVmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-02T07:00:00+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Den anstehenden Wandel in der Radiologie und Nuklearmedizin mitgestalten - healthcare-in-europe.com",
-      "summary_de": "Den anstehenden Wandel in der Radiologie und Nuklearmedizin mitgestalten &nbsp;&nbsp; healthcare-in-europe.com",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmRPTmEyeUNjcU11NlBsNTNIOHhTVFBuaTNfcTBMcl9qUkZLZVowSlBheEdkbEpNZ0R4Y3pWTHV6cG1hSnp3QU9BY3lfNjVWRXFpLWpnZFRwSWluV2t3djRmX2ZmZEl5cjFRUGNSTmk1amRmN0w1T18zQzBhdHpTTG1uMXFNa1Z3d2N0QVd4V09qQXBfWm1kbWpXT1luTUFsT052N2Y3QUtYUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-01T07:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "IQTIG veranstaltet in Düsseldorf 2. Regionalkonferenz zum Verfahren QS ambulante Psychotherapie",
-      "summary_de": "Berlin, 1. Oktober 2025 - Am Montag, dem 27. Oktober 2025 (14.00 bis 17.30 Uhr) veranstaltet das IQTIG die zweite Regionalkonferenz zur regionalen Erprobung des Qualitätssicherungsverfahrens Ambulante psychotherapeutische Versorgung gesetzlich Krankenversicherter (QS ambulante Psychotherapie). Eingeladen sind die an der regionalen Erprobung in Nordrhein-Westfalen teilnehmenden Psychotherapeutinnen und Psychotherapeuten, weitere Verfahrensteilnehmerinnen und Verfahrensteilnehmer sowie die erweiterte Fachöffentlichkeit.",
-      "source_name": "Pressemitteilungen | IQTIG",
-      "source_url": "https://iqtig.org/presse/pressemitteilungen/news/iqtig-veranstaltet-in-duesseldorf-2-regionalkonferenz-zum-verfahren-qs-ambulante-psychotherapie/",
-      "published_at": "2025-10-01T06:40:00+00:00",
-      "category": "Versorgung",
       "tags": [],
       "type": "News"
     }
