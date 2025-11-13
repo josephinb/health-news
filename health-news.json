@@ -1,21 +1,163 @@
 {
-  "generated_at": "2025-11-13T15:16:16.549251+00:00",
+  "generated_at": "2025-11-13T18:20:04.858369+00:00",
   "window_days": 42,
-  "count": 290,
+  "count": 297,
   "items": [
     {
-      "title": "Gesundheitspolitik: Bund will Pflegeversicherung mit Milliardendarlehen stützen - zeit.de",
-      "summary_de": "Gesundheitspolitik: Bund will Pflegeversicherung mit Milliardendarlehen stützen &nbsp;&nbsp; zeit.de",
+      "title": "Diagnostic Imaging articles: Update",
+      "summary_de": "",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/emerging-radiology-platform-access-variety-ct-based-ai-applications",
+      "published_at": "2025-11-13T17:09:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Abrechnung von Teilmengen: Bundessozialgericht gibt Apotheke im Rezepturstreit Recht",
+      "summary_de": "Im Streit mit der AOK Nord West um die Abrechnung von Rezepturen, bei denen Fertigarzneimittel verwendet werden, hat das Bundessozialgericht (BSG) letztinstanzlich einer Apotheke aus Westfalen-Lippe Recht gegeben.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/bundessozialgericht-gibt-apotheke-im-rezepturstreit-recht-160478/",
+      "published_at": "2025-11-13T17:04:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Enlicitid decanoat: Erster oraler PCSK9-Hemmer zeigt starke LDL-Senkung",
+      "summary_de": "Bislang gibt es nur parenteral applizierbare PCSK9-Hemmer. Das k&ouml;nnte sich in absehbarer Zeit &auml;ndern. Enlicitid decanoat ist oral bioverf&uuml;gbar und hat in einer Phase-III-Studie seine Wirksamkeit unter Beweis gestellt.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/erster-oraler-pcsk9-hemmer-zeigt-starke-ldl-senkung-160468/",
+      "published_at": "2025-11-13T17:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Gesundheit: WHO warnt: Nikotinsucht bei Jugendlichen nimmt zu - DIE ZEIT",
+      "summary_de": "Gesundheit: WHO warnt: Nikotinsucht bei Jugendlichen nimmt zu &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNak9leE5IYXhkWkFJc1h1VmdIXzYtaXA4ZDlJUEpNMUlRUDJOdXRHczVFUmt5cFotVmItN1UzTnA4eTktbE1aanc2MEVwM3RTQjVCWDFwXzBKSnNxa2pELU56YUUtU0F5MjBuaDc0eWJuQnFDTU8xb3o4VFhvYm4yXzhRY3d5ZkxKeUEySg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-13T16:07:21+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit - WHO warnt: Nikotinsucht bei Jugendlichen nimmt zu - Gesundheit - SZ.de",
+      "summary_de": "Gesundheit - WHO warnt: Nikotinsucht bei Jugendlichen nimmt zu - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcDYyODNIUmdKYWdIS3VjeGZibVA4cUtPN2N5emdkLTlEVmdwMnloSmZuUHMzdFRRNC1KMThCcEFPT3Q2THJreEE0ejAzTk9MeVJmS18yand5R1RrWUxBek9UOTdKNDN5TF9BNGkxRTNwZUVQVjZ5dFR0STdQNldvWHRhUTJCVWJnSkxpWDRqZ19QWWR6SThLbUtGSDBfblFZNjNNa093dnlKREFsM2dZZUtXd3FJRHB1UHdwbm91bi1mdVVvWm45c0laMEpKY1djNHFsb21KVFFNNGFTQ3puMGtB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-13T16:07:21+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit: WHO warnt: Nikotinsucht bei Jugendlichen nimmt zu - Handelsblatt",
+      "summary_de": "Gesundheit: WHO warnt: Nikotinsucht bei Jugendlichen nimmt zu &nbsp;&nbsp; Handelsblatt",
+      "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMjhxemtzckVyMTIzWXpjbFRqeEIyR25VWVEwZ1k3MDI2a05JNVNseVZmNmtMcGJiQnFDbjR3MHlma3l6SWNfOFFvbTh2Z1l5UGJxY3pQbTNWbFJGMEExUDFIdTgyUGFfQ2pMTGxiMjA1X2dSZTNUNklkLXVzZm5PVG82Umx1a3E3NnhpcEYtbmhPWjFfM211TWtUVE4yWG9ETG5oYjFQNEFxSEU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-13T16:07:21+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit: Hessen führt frühes Hörscreening für alle Neugeborene ein - DIE ZEIT",
+      "summary_de": "Gesundheit: Hessen führt frühes Hörscreening für alle Neugeborene ein &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVDhfYlJtT2k3bmI2Wkc1WFF6THRxYmxRX0FyYl9KcUpJamlTSF9xQWN0SmRTOUNMM05qTnI4VkVSTmNvcDMwRnV6NGRYTGUwaEZUd3EtZXZMTGV3dm4zNlE3WTlCRjNNckZJRGFMRjdJX0g2cEtiVEdwa0xOaUZhWFpKVmdwakMzTEdHbUNNRjZuVTNpOGdVNzhYd21lUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-13T16:06:45+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit - Hessen führt frühes Hörscreening für alle Neugeborene ein - Politik - SZ.de",
+      "summary_de": "Gesundheit - Hessen führt frühes Hörscreening für alle Neugeborene ein - Politik &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdE9PNGZoaDM3dF91Wm1LcXRRbmVCVks4UnVtT3pNU25VREtaalJFUmxtLXltTEhNcHRDT3dSamo1NmhNZHRwOXMyM0tUeUdBVWhWVDFWY044bWpBTXJBaHEtU0ZVZnd6MFlTd3NSR3l1VEotZ1ZKTVM0Z2FiTHZnVzczWG9KamNRaWl3dC1yZnlibWNJQTRHSzhUVFQwRUgyRlRFR0FWTmVHUzBKZkM1Vnlva1l4ZHlYTDZxRlR2XzZpTzJ6S2RQR1Z1SlZyMTBWRDFPSHBEaGV2Q2VDX3FLMWRkdExWUjRFdWpsV051SQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-13T16:06:45+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Clinical trials for medicines: apply for authorisation in the UK",
+      "summary_de": "How to apply for a clinical trial including eligibility, phases, model IMPDs, costs and how to make changes to your application.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-apply-for-authorisation-in-the-uk",
+      "published_at": "2025-11-13T16:02:15+00:00",
+      "category": "Studie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "Studie"
+    },
+    {
+      "title": "»Keine unzumutbare Härte«: Fahrverbot für Apothekerin – Staatsanwalt verweist auf Versender",
+      "summary_de": "Eine Apothekerin wird geblitzt und handelt sich ein Fahrverbot ein. Weil sie beruflich auf das Auto angewiesen ist, geht sie dagegen vor. Aber ihr Antrag wird abgelehnt. Begr&uuml;ndung: F&uuml;r die Lieferung der Medikamente gibt es doch Online-Apotheken.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/fahrverbot-fuer-apothekerin-staatsanwalt-verweist-auf-versender-160470/",
+      "published_at": "2025-11-13T15:20:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheitspolitik: Bund will Pflegeversicherung mit Milliardendarlehen stützen - DIE ZEIT",
+      "summary_de": "Gesundheitspolitik: Bund will Pflegeversicherung mit Milliardendarlehen stützen &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWjFKMVJqaFpORzhLY0E2TUg1SFFJdmJEaTgxTUxSZFVKNWZ5Y0F6RG5jNF9OS3AzcFRESHdLVUhTZGJJTDZOOFZISXVubXp4Tzg3dlZoRWt3QTRxUGozX0daYnI4LUdkTl9KbTlWaHdMbUlyNFhocHhwS2QteDdPX3ktY2dMT3pnM1ZyTVZ5VWZ3Qjg1QUUtbHRJbTROZUNDZEthN2hYbkIycXFpQ3BJdQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-13T14:38:19+00:00",
+      "published_at": "2025-11-13T15:15:06+00:00",
       "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Gesundheit: Ausbruch abgeflaut - Amt stellt Ehec-Veröffentlichungen ein - zeit.de",
-      "summary_de": "Gesundheit: Ausbruch abgeflaut - Amt stellt Ehec-Veröffentlichungen ein &nbsp;&nbsp; zeit.de",
+      "title": "PZ Briefing: Die Top-News vom 13.11.2025",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-13112025-160469/",
+      "published_at": "2025-11-13T14:59:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "AVWL: IKK classic: Vom Vertrag wird abgeraten",
+      "summary_de": "Bei der Hilfsmittelversorgung stockt es seit diesem Sommer. Die IKK classic bietet Apotheken Einzelvertr&auml;ge an &ndash; doch davon, diese anzunehmen, r&auml;t auch der Apothekerverband Westfalen-Lippe (AVWL) dringend ab. Vorstand Jan Harbecke informierte &uuml;ber den Stand der Dinge.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/ikk-classic-vom-vertrag-wird-abgeraten-160473/",
+      "published_at": "2025-11-13T14:54:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Hetzkampagne: »Krasses Beispiel, wie sehr die Menschlichkeit verloren gegangen ist«",
+      "summary_de": "In einer Hetzkampagne im September wurde die Th&uuml;ringer Apothekerin Uta M&uuml;hle &ouml;ffentlich angefeindet. &Uuml;ber ihre Erlebnisse sprach sie gestern bei der Mitgliederversammlung des Apothekerverbands Th&uuml;ringen.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/krasses-beispiel-wie-sehr-die-menschlichkeit-verloren-gegangen-ist-160471/",
+      "published_at": "2025-11-13T14:44:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "WHO-Bericht: Weniger Tuberkulose-Neuinfektionen",
+      "summary_de": "Tuberkulose (Tb) ist eine der zehn h&auml;ufigsten Todesursachen weltweit. Die WHO berichtet von Erfolgen. Doch Sparma&szlig;nahmen k&ouml;nnten die Fortschritte zunichtemachen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/weniger-tuberkulose-neuinfektionen-160465/",
+      "published_at": "2025-11-13T14:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit: Ausbruch abgeflaut - Amt stellt Ehec-Veröffentlichungen ein - DIE ZEIT",
+      "summary_de": "Gesundheit: Ausbruch abgeflaut - Amt stellt Ehec-Veröffentlichungen ein &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdXBtOHdscTZKbndYalNmRlBRYVhTMTdlZVhhdlo1dHpoNldHb0g4T005azR0ajdsd0tWWkhac0ZEcXRWQ1pQSFRwOXhoRE5Kcm5YTUVTLXFna1NTVjZRcUJtTDIxa21TX2xXdlcwdFNFeV9RRGdSNlo2cElyV0lzeVFPRzNSVHJNQm9BRHlSTUFGMWNpel94dl9n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-13T14:02:33+00:00",
@@ -44,8 +186,8 @@
       "type": "News"
     },
     {
-      "title": "Zusammenschluss: MV-Gesundheitsministerium genehmigt Klinik-Fusion - zeit.de",
-      "summary_de": "Zusammenschluss: MV-Gesundheitsministerium genehmigt Klinik-Fusion &nbsp;&nbsp; zeit.de",
+      "title": "Zusammenschluss: MV-Gesundheitsministerium genehmigt Klinik-Fusion - DIE ZEIT",
+      "summary_de": "Zusammenschluss: MV-Gesundheitsministerium genehmigt Klinik-Fusion &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN1htbFZxdjUwTGdoOFA1MHI3eVgzMjdZbUMxN1FBYWtCTVlDS1N3cTg0NmY3VkVCX0pyQ09aeE9tMlp4dlZBNmJrbjJDbEZxc1hwUEppZFhkdHJubnBkMTZFY2c5aWJfVXBkYWl2YlZvZEFKT2xNTnVMbldQbmNmWGd2Sm0wWmNzT0lRc2Jn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-13T13:21:45+00:00",
@@ -94,6 +236,16 @@
       "type": "News"
     },
     {
+      "title": "VW-Dieselskandal: Angeklagter in Klinik: VW-Dieselprozess verzögert - DIE ZEIT",
+      "summary_de": "VW-Dieselskandal: Angeklagter in Klinik: VW-Dieselprozess verzögert &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSzAyMkVjdGZtZTFodC1IdUhhSDhfSEVnZ3dCdU1sWjZhTkp4YU4tRml3bnhCaGxaOU5mSDJSZ1dpenVqNXVGN2FGWjJUOTI0dkRoXzJIT0FfV0ROZjVldUFVemNYbWJib1NvQVJlOWRnTVczUkliUWRsSGxZQ0hkeGJsYU1tZEVxVkZWR2lR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-13T11:40:18+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Krankenhaus Reutte: Radiologie mit hochwertigem MRT aufgerüstet - MeinBezirk.at",
       "summary_de": "Krankenhaus Reutte: Radiologie mit hochwertigem MRT aufgerüstet &nbsp;&nbsp; MeinBezirk.at",
       "source_name": "\"radiologie\" - Google News",
@@ -114,8 +266,8 @@
       "type": "News"
     },
     {
-      "title": "Künstliche Intelligenz: Charité gründet Institut für KI in der Medizin - zeit.de",
-      "summary_de": "Künstliche Intelligenz: Charité gründet Institut für KI in der Medizin &nbsp;&nbsp; zeit.de",
+      "title": "Künstliche Intelligenz: Charité gründet Institut für KI in der Medizin - DIE ZEIT",
+      "summary_de": "Künstliche Intelligenz: Charité gründet Institut für KI in der Medizin &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORE9hUGN0X3BkdS1uQjl3ZUhadC1UQWkzcHFFMFJjVnhPYTQtaHlRRmg4UjlXcFdzaTdsNEl5b1ozT3ZudFVOak9KTlVFWjRwTUlGb19ka3o0QVdQRGVDZ2J4a0NTQjhLR0ZULXJsZkxKOEFlYzJMejFwWC0tRjRFTWh5elZoSXdRZmFz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-13T10:51:48+00:00",
@@ -154,8 +306,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Etwas mehr Organspenden in Bayern - zeit.de",
-      "summary_de": "Gesundheit: Etwas mehr Organspenden in Bayern &nbsp;&nbsp; zeit.de",
+      "title": "Gesundheit: Etwas mehr Organspenden in Bayern - DIE ZEIT",
+      "summary_de": "Gesundheit: Etwas mehr Organspenden in Bayern &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDQi1RUTZvbmlCRlVQSDF1bjNoTXZjOTJoQzlQOXlNYlAxMi1kZFY0R3l0anBUVUZHaklNT2JYTWdTV2I3Tno5LWZHLVEwLWw0QjEyZHpJN2VzdEJuLVFpdENUUV9vUTZnRXZ3Ni1HdlMzcHJ1QVU4Sg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-13T09:54:48+00:00",
@@ -194,8 +346,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Zahl der Organspenden steigt leicht – Bedarf ist höher - zeit.de",
-      "summary_de": "Gesundheit: Zahl der Organspenden steigt leicht – Bedarf ist höher &nbsp;&nbsp; zeit.de",
+      "title": "Gesundheit: Zahl der Organspenden steigt leicht – Bedarf ist höher - DIE ZEIT",
+      "summary_de": "Gesundheit: Zahl der Organspenden steigt leicht – Bedarf ist höher &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU2hCZWtTRXVxSVJpM3lsSjRZNzlzQk5oMElSbW95aktKbHhibU05TDdkOWR1aGdsX0hzQ1IybklMNzFaQ0I5RVd0YjZia1JUYkRoQmp6MFRFWlgtQjJ2aVA0ZkpFd2lFMHFTdlBCUlhkeWRmUnlHaDB0Yl9VQWVtc05ITnVuek1YNXVnZnRVSFFlVXM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-13T09:39:10+00:00",
@@ -657,8 +809,8 @@
       "type": "News"
     },
     {
-      "title": "Sachsen-Anhalt: Was für und gegen Klinik-Schließungen spricht - zeit.de",
-      "summary_de": "Sachsen-Anhalt: Was für und gegen Klinik-Schließungen spricht &nbsp;&nbsp; zeit.de",
+      "title": "Sachsen-Anhalt: Was für und gegen Klinik-Schließungen spricht - DIE ZEIT",
+      "summary_de": "Sachsen-Anhalt: Was für und gegen Klinik-Schließungen spricht &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSkthYk1YXzZwYUQ5V1RXMS1jMUl5YmhlUTBnMXRIVDJnbldhR3pQQlFyNmM3c0VCVlJCTGlfdm1pQWp1b1B0QzFTN3Y2TGR2eTFxVFdRU2hrSmdCOGJKcVFmTDF4TW9seC1IVmVhYnFvTXM5bG5aSlN1VmxTRVpkbHNNZDJ5N3p5bzBj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-13T03:00:21+00:00",
@@ -671,6 +823,26 @@
       "summary_de": "Colchicine for the secondary prevention of cardiovascular events",
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014808.pub2",
+      "published_at": "2025-11-13T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Busulfan and melphalan (Bu‐Mel) versus carboplatin, etoposide, and melphalan (CEM) conditioning regimens for autologous haematopoietic stem cell transplant in children and young adults with high‐risk neuroblastoma",
+      "summary_de": "Busulfan and melphalan (Bu‐Mel) versus carboplatin, etoposide, and melphalan (CEM) conditioning regimens for autologous haematopoietic stem cell transplant in children and young adults with high‐risk neuroblastoma",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015131",
+      "published_at": "2025-11-13T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Thiazolidinediones for people with chronic kidney disease and diabetes",
+      "summary_de": "Thiazolidinediones for people with chronic kidney disease and diabetes",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015907.pub2",
       "published_at": "2025-11-13T00:00:00+00:00",
       "category": "Studie",
       "tags": [],
@@ -747,8 +919,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Ärztekammer: Konsum von Zucker muss reduziert werden - zeit.de",
-      "summary_de": "Gesundheit: Ärztekammer: Konsum von Zucker muss reduziert werden &nbsp;&nbsp; zeit.de",
+      "title": "Gesundheit: Ärztekammer: Konsum von Zucker muss reduziert werden - DIE ZEIT",
+      "summary_de": "Gesundheit: Ärztekammer: Konsum von Zucker muss reduziert werden &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeW9oVlBFNGQzazJZc1c0ZEF5MnZyaVZidjJMSXhya1MwZDFFbk85c1BjQ19yWWNoZUJfVDJWMm81aGdTTjBUWnFfc0tXOG5PTUZ6aVREN1A1M3JQR2hzY2dMaUZ0T04xdlZnTTVFWmNMaDl4WWVNMm0wcGk2N0JzVUYtNV9QV3N5aS1zY0xMaUI0UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-12T18:31:16+00:00",
@@ -807,8 +979,8 @@
       "type": "News"
     },
     {
-      "title": "Arbeitsgericht: Warnstreik an kirchlicher Klinik verboten: Was bedeutet das? - zeit.de",
-      "summary_de": "Arbeitsgericht: Warnstreik an kirchlicher Klinik verboten: Was bedeutet das? &nbsp;&nbsp; zeit.de",
+      "title": "Arbeitsgericht: Warnstreik an kirchlicher Klinik verboten: Was bedeutet das? - DIE ZEIT",
+      "summary_de": "Arbeitsgericht: Warnstreik an kirchlicher Klinik verboten: Was bedeutet das? &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX1hXYUZVQmlFeUZNWkRuSHlSd2UwSDU5cGNCVExEc1RLQU1ybzNMY3dneXduVHd2cUtmajN5V25ZSVdqbDlaTnByamgtbnZXS0tpbldMNUNSMVhMcmtmckU0MGRlSmJKUVFkQ1RhVjFmd3NIUVV0RGFrMklrcjRQYlhrSlhiQ005ZXduVll1Qi1UVDYzd1RDT0xR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-12T17:33:20+00:00",
@@ -837,10 +1009,10 @@
       "type": "News"
     },
     {
-      "title": "(S+) Ukraine-Krieg: Gasbrand bei Soldaten – eine gefährliche Krankheit aus der Vergangenheit - Spiegel",
-      "summary_de": "(S+) Ukraine-Krieg: Gasbrand bei Soldaten – eine gefährliche Krankheit aus der Vergangenheit &nbsp;&nbsp; Spiegel",
+      "title": "(S+) Ukraine-Krieg: Gasbrand bei Soldaten – gefährliche Krankheit aus der Vergangenheit - Spiegel",
+      "summary_de": "(S+) Ukraine-Krieg: Gasbrand bei Soldaten – gefährliche Krankheit aus der Vergangenheit &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOQ2lLYWMxQ0QzT2FZQU01T0NuUW9kR1Q1Y0J4eTBHSmdpV1I2dllua2gtc09paW9tSHVBcWFQa0Z5cVotZk0yVkxwdDc3SWc5a19adDdrejctRUd3bGw0bmtJQlJoNF9rZ2kxNExMR1p5b0hDVk03Szh1OFZqdjRxVVAwM0NRaENpS084X3lQblB4d2RJaEpPMUNtMk54SlJDMXNxcENVZkdnTWhON0Z2emVlWndGTTFaR2R5NEpPT01ZVlFIMVphT2hUdF9PTlpSM2ZCX0k0OGF1cjZNcnFkUHRXOGJoSm5URGZzaVdpLTdXbVlkU0xrei1Ubw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPN1hGQnkzMnFmYkZsMjlmOE9qUjZIUFpfZkFmUlMtR2RYcExFZEJBWjdmdTZ5dTdDd2NkUmdxNW83VVZ4Vjd4Sktma1dwQlVGR2tPWHFyN0ZXbThINkNvRTc0T2NMM1dqSlBHUzFsQS1QckZ2aEsyWVlubnpHUjhHZzhvV2thdFN5MHJJTHJCMDFUNnVpYXlYVjg2MkhneXEyTmMxRmRmNUpsRWlJSWIwMlV4eVVIYUZ1aTJPQ2k1VXIxVHlFeVhNT21xamNrLXJFSEl6cDBCdklmQXdFc05jVkFxZ1FIdERQcWJSampFX3RoTnpm?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-12T16:25:00+00:00",
       "category": "News",
       "tags": [],
@@ -877,8 +1049,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: WHO meldet weniger Tuberkulose-Infektionen - zeit.de",
-      "summary_de": "Gesundheit: WHO meldet weniger Tuberkulose-Infektionen &nbsp;&nbsp; zeit.de",
+      "title": "Gesundheit: WHO meldet weniger Tuberkulose-Infektionen - DIE ZEIT",
+      "summary_de": "Gesundheit: WHO meldet weniger Tuberkulose-Infektionen &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMVNmZ3VYeWlXRHEzdUkzVEdSY1M3QTl5UFBTS01VY01kSTVEVXpGZmV3NUQyZnlFSG03dDlCTHUwOE1tNURwVEdkQW0tMHc0T1lyQlU0dXpFU0NVUXBEdjJ3bmxSb1RKTGhfZUwyeGtBeHZQTEN6MDJEOHY3WFVwM25uNTBwVU4wNWg0aVZaT0xSY0VLQWhKSl9JS1Z4aFJI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-12T15:26:42+00:00",
@@ -1000,16 +1172,6 @@
       "type": "News"
     },
     {
-      "title": "Antibiotika-Forschung: Zwischenprodukt wirksamer als Produkt",
-      "summary_de": "Forschende haben im&nbsp; Syntheseweg des altbekannten Antibiotikums Methylenomycin A ein bislang unbekanntes Zwischenprodukt entdeckt. Dieses ist 100-fach wirksamer als das Produkt.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/zwischenprodukt-wirksamer-als-produkt-160396/",
-      "published_at": "2025-11-12T12:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "vfa fordert »kluge« AMNOG-Reform: Mehr Aufmerksamkeit für Orphan Drugs",
       "summary_de": "Die forschende Arzneimittelindustrie fordert mehr Aufmerksamkeit f&uuml;r Orphan Drugs und wirbt f&uuml;r eine &raquo;kluge&laquo; Reform des AMNOG-Verfahrens. Mit einem Impulspapier macht sich der Verband vfa f&uuml;r eine bessere Versorgung bei seltenen Erkrankungen stark und pr&auml;sentiert drei Punkte f&uuml;r eine &raquo;angemessene&laquo; Weichenstellung.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -1052,26 +1214,6 @@
       "type": "News"
     },
     {
-      "title": "Grünen-Antrag: Notfallreform soll Kinder stärker berücksichtigen",
-      "summary_de": "Die Gr&uuml;nen wollen Kindergesundheit st&auml;rker in den Fokus der geplante Notfallreform r&uuml;cken. So soll die Versorgung von Kindern an den geplanten Integrierten Notfallzentren (INZ) eine gr&ouml;&szlig;ere Rolle spielen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/notfallreform-soll-kinder-staerker-beruecksichtigen-160409/",
-      "published_at": "2025-11-12T11:00:54+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Studie: Wie oft duschen bei Neurodermitis?",
-      "summary_de": "Die &raquo;Eczema Bathing Study&laquo; liefert als erste gr&ouml;&szlig;ere Studie Anhaltspunkte dazu, wie sich die&nbsp;H&auml;ufigkeit des Duschens oder Badens auf den Krankheitsverlauf bei&nbsp;atopischer Dermatitis auswirkt.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/wie-oft-duschen-bei-neurodermitis-160384/",
-      "published_at": "2025-11-12T11:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
       "title": "Gesundheit, Körperpflege (Lehramt) studieren in Freising - HeyStudium",
       "summary_de": "Gesundheit, Körperpflege (Lehramt) studieren in Freising &nbsp;&nbsp; HeyStudium",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -1082,42 +1224,12 @@
       "type": "News"
     },
     {
-      "title": "Versender: Redcare holt Amazon-Manager in den Vorstand",
-      "summary_de": "Redcare Pharmacy (Shop Apotheke) plant einen Personalwechsel im Konzernvorstand: Zum 1. Dezember hat der Aufsichtsrat des Versenders den vormaligen Amazon-Manager Hendrik Krampe in den Vorstand&nbsp; bestellt.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/redcare-holt-amazon-manager-in-den-vorstand-160404/",
-      "published_at": "2025-11-12T10:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Hormonelle Verhütung: Desogestrel und das Brustkrebsrisiko",
-      "summary_de": "Die Zusammensetzung der hormoneller Verh&uuml;tungsmittel beeinflusst das Brustkrebsrisiko. Die Ergebnisse einer neuen Studie deuten an, dass insbesondere Desogestrel das Risiko zu erh&ouml;hen scheint.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/desogestrel-und-das-brustkrebsrisiko-160378/",
-      "published_at": "2025-11-12T09:30:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
       "title": "Guidance: Early Access to Medicines Scheme: Overview",
       "summary_de": "The Early Access to Medicines Scheme (EAMS) aims to give patients with life threatening or seriously debilitating conditions early access to medicines that show early signs of having a major advantage over existing therapeutics.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
       "source_url": "https://www.gov.uk/government/publications/early-access-to-medicines-scheme-overview",
       "published_at": "2025-11-12T09:13:52+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "GKV-SV-Chef Blatt: »Die Preise für neue Medikamente sind durch die Decke gegangen«",
-      "summary_de": "Vor dem Pharmadialog am heutigen Mittwoch dringt Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbands, auf Ma&szlig;nahmen gegen Preissteigerungen bei Medikamenten.&nbsp;Die Pharmabranche verdiene gut an den Beitragszahlenden. Die Preise f&uuml;r neue Medikamente seien &raquo;durch die Decke gegangen&laquo;.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/die-preise-fuer-neue-medikamente-sind-durch-die-decke-gegangen-160402/",
-      "published_at": "2025-11-12T09:00:00+00:00",
-      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -1135,16 +1247,6 @@
       "type": "News"
     },
     {
-      "title": "Weniger Krankenhausaufenthalte mit DAK-Diabetes-Programm - DAK-Gesundheit",
-      "summary_de": "Weniger Krankenhausaufenthalte mit DAK-Diabetes-Programm &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaVFEcFBvODRKNTZnQ3dja1l6WnJsaDVmRnp2YWttbTN6M2k1RFlJd29PWW45OHhleF9YQzRreEJNZXFKQWd2dXlFYWgxR0xhb01tVDhSTHNYeFZqRE5FZkxWWmtqWkRNaFE2V3g5X2pzNmF4Tlg2NzNfbU1xcTRlVjVwcWJhSHpEc1VLNU1KSDJqcTdnMVFjQXlEQUpwS0lEVU16ekxXbW9xR09qbUJOY0VBN3U1dw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-12T08:12:21+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Leitender Oberarzt (m/w/d) Innere Medizin und Kardiologie mit Option auf die Chefarztnachfolge - ärztestellen",
       "summary_de": "Leitender Oberarzt (m/w/d) Innere Medizin und Kardiologie mit Option auf die Chefarztnachfolge &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
@@ -1153,16 +1255,6 @@
       "category": "News",
       "tags": [],
       "type": "News"
-    },
-    {
-      "title": "Mehrsprachigkeit als Schutzfaktor: Bilinguale Hirne altern langsamer",
-      "summary_de": "Menschen, die mehrere Sprachen sprechen, bleiben geistig l&auml;nger fit &ndash; und k&ouml;nnten sogar ihr Risiko f&uuml;r Demenz senken. Eine europaweite Studie zeigt: Jede zus&auml;tzliche Sprache wirkt wie ein Schutzschild gegen kognitive Alterung.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/bilinguale-hirne-altern-langsamer-160368/",
-      "published_at": "2025-11-12T08:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
     },
     {
       "title": "Multimedia education tools reduce patient anxiety in IR settings",
@@ -1205,8 +1297,8 @@
       "type": "News"
     },
     {
-      "title": "11 Naturheilmittel ersetzen eine Apotheke - Amazon.de",
-      "summary_de": "11 Naturheilmittel ersetzen eine Apotheke &nbsp;&nbsp; Amazon.de",
+      "title": "11 Naturheilmittel ersetzen eine Apotheke - Spiegel",
+      "summary_de": "11 Naturheilmittel ersetzen eine Apotheke &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYjNKNmVHb0NhWV80R1JrY2ZBQ2MtOEpkNi1MTHVJM3JxUlNSV1lHSVB0b1ltNVExbVVhSlVTV3c4SkplQlZ3YS1rLTBNU3lDaUpFc3dLZGh0T2s5ZFU3bFZCd3A3UEJ5X09DVVJVay04dFZLMmRMYXNDcVllUlhzcg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-12T01:23:56+00:00",
@@ -1405,20 +1497,20 @@
       "type": "Studie"
     },
     {
-      "title": "High‐frequency oscillatory ventilation versus conventional ventilation for infants with severe pulmonary dysfunction born at or near term",
-      "summary_de": "High‐frequency oscillatory ventilation versus conventional ventilation for infants with severe pulmonary dysfunction born at or near term",
+      "title": "Indications and timings for caffeine initiation in preterm infants",
+      "summary_de": "Indications and timings for caffeine initiation in preterm infants",
       "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002974.pub3",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016274",
       "published_at": "2025-11-11T00:00:00+00:00",
       "category": "Studie",
       "tags": [],
       "type": "Studie"
     },
     {
-      "title": "Indications and timings for caffeine initiation in preterm infants",
-      "summary_de": "Indications and timings for caffeine initiation in preterm infants",
+      "title": "High‐frequency oscillatory ventilation versus conventional ventilation for infants with severe pulmonary dysfunction born at or near term",
+      "summary_de": "High‐frequency oscillatory ventilation versus conventional ventilation for infants with severe pulmonary dysfunction born at or near term",
       "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016274",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002974.pub3",
       "published_at": "2025-11-11T00:00:00+00:00",
       "category": "Studie",
       "tags": [],
@@ -1475,8 +1567,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Rheinland-Pfälzer werden häufiger stationär behandelt - zeit.de",
-      "summary_de": "Gesundheit: Rheinland-Pfälzer werden häufiger stationär behandelt &nbsp;&nbsp; zeit.de",
+      "title": "Gesundheit: Rheinland-Pfälzer werden häufiger stationär behandelt - DIE ZEIT",
+      "summary_de": "Gesundheit: Rheinland-Pfälzer werden häufiger stationär behandelt &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVDQtYWptSVg0SFRJM0R4dDQ5ZmJfU1ljS1g4WlQ1aDJmemhJMnF1V0pkd0oyVUxENHo3UmFlT2xmVHN5VVItSDliU01zeXJRYlNtNS1OZWhhUnEtQkFhMjlZcC1mTFpuUFoxWjY1X09hOGpEY1puU1hkQlg5aE5GcnZVaGFiVlBNaVZ2Y2RrYXAxTmFORW0w?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-10T15:14:17+00:00",
@@ -1490,6 +1582,16 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeVVxVGp0MFl5SHZES0hhc0JxRDZmLWpON0tZRUVHQ3pzZGpBcTdPU2RTQU9ZZkNjUjFmU2pzQkpYb00tejUxUmR5ODZIQ2x5RmxsLWxDeU0yWlhvZWlndFZkaUJoOVVtTERScHFJWGR3TjVZdDZWWWNFN0JQZC1OWVdiNnh0cHY2YmlhX0Y1N09nZ0RVcENWOFBDT21nMUs5ejBURXBITEd3NnNhOUtGYjlnOWhyQW90UGROeGJRTkZKc0s1Y28yZXp1eVlnMmJMTWF0RGlGejhTbFA4bXRndTBCY0lNZzVvTGQtNg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-10T15:14:17+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Wissenschaftlicher Doktorand (gn*) Biologie, Biochemie, Molekulare Medizin, Universitätsklinikum Münster - FAZ Stellenmarkt",
+      "summary_de": "Wissenschaftlicher Doktorand (gn*) Biologie, Biochemie, Molekulare Medizin, Universitätsklinikum Münster &nbsp;&nbsp; FAZ Stellenmarkt",
+      "source_name": "\"site:faz.net medizin\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWlNsLTJDdE5FZmNsX3NtZUtEUTZfNlBaZkc5dFA5TzJPLWswN3I0OGViSjhYS005Z252dGl0TE53RlZJOUZMNGdMSl91VS1HTFM1aG00OTM2ekhHTHNLbk84Q2ltYm82SmNQTzkzNUJoWkFRN05ZaGxKTmZJWWQzVHdrRXV3RkxYcU5HbXc1TGNVMnZIRHVXMl9QY1JtTTlZa1I3T3RVYWFfclc0WWtmbjJwVDJ0NmVVam9CTDFJRWFwQU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-10T14:51:58+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1545,8 +1647,8 @@
       "type": "Studie"
     },
     {
-      "title": "Gesundheit: Krankenkasse: Zahnvorsorge bei Kleinkindern vernachlässigt - zeit.de",
-      "summary_de": "Gesundheit: Krankenkasse: Zahnvorsorge bei Kleinkindern vernachlässigt &nbsp;&nbsp; zeit.de",
+      "title": "Gesundheit: Krankenkasse: Zahnvorsorge bei Kleinkindern vernachlässigt - DIE ZEIT",
+      "summary_de": "Gesundheit: Krankenkasse: Zahnvorsorge bei Kleinkindern vernachlässigt &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM3ZUajJQUlpkM3d4OTNJc0hTbE85MWlZSHhiRFhxLXBGVTJiYi1CQWxlZ3k1NFYzN1pHdGI0YXFtWjVUblhCQTdtaXc4d1dwZ3lrYzQ3Rnp3SEk4T3gtVFVTMTZObHFSbkNTMnN0Z0lrTzNXREkxTGExSzA0VzRZaXAzNFcwYVppeDFHMHZTZG1fazlZdG01STF3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-09T03:30:08+00:00",
@@ -1605,8 +1707,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: E-Patientenakte – Hausärzte kritisieren technische Umsetzung - zeit.de",
-      "summary_de": "Gesundheit: E-Patientenakte – Hausärzte kritisieren technische Umsetzung &nbsp;&nbsp; zeit.de",
+      "title": "Gesundheit: E-Patientenakte – Hausärzte kritisieren technische Umsetzung - DIE ZEIT",
+      "summary_de": "Gesundheit: E-Patientenakte – Hausärzte kritisieren technische Umsetzung &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMUVVR21EX1ptcF9XcmxLaEs2eDloanVtR0dZRnBhM0pfa0YyNEMwdEtfUmlSZlVqc0NIaWVrdTI1blVlV2haNG4xeUVlZ3NHRzBiYThDQjVGSjFTYzFUQnJ5Ny1NZkQ0ZDgxZmtYSXhWSmhLM2FQSjkzUGgtRkFXVDByS1NkT0ZPSmlDYm9PUWxxczhkdHFuREcwSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-07T23:01:11+00:00",
@@ -1655,8 +1757,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Füssen trägt nun den Titel Kneippheilbad - zeit.de",
-      "summary_de": "Gesundheit: Füssen trägt nun den Titel Kneippheilbad &nbsp;&nbsp; zeit.de",
+      "title": "Gesundheit: Füssen trägt nun den Titel Kneippheilbad - DIE ZEIT",
+      "summary_de": "Gesundheit: Füssen trägt nun den Titel Kneippheilbad &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZEFSYlBqSDd1dXdmbURaWEtPV2pTVUJad0hTWEhfd21JSWs2VUhwN0J1UHhEcWp1TVkxUlBtMGV6SHJ5RUZ6VHhhU2FSMExqVlZjdHAybTVWdDJEN1hwM2tpZjFhVm9zRXpxRWhSd0NrREdZXzJ2RVUyYXpQMGgya3NmUmI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-07T15:15:05+00:00",
@@ -1695,10 +1797,10 @@
       "type": "News"
     },
     {
-      "title": "Früherkennung bei Brust- und Gebärmutterhalskrebs - Techniker Krankenkasse",
-      "summary_de": "Früherkennung bei Brust- und Gebärmutterhalskrebs &nbsp;&nbsp; Techniker Krankenkasse",
+      "title": "Brustkrebs - erkranken Frauen immer früher? - Techniker Krankenkasse",
+      "summary_de": "Brustkrebs - erkranken Frauen immer früher? &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRTZhRFVjN3BSblpCR0JPOHIwTURoTmE1LVZ4M3N3NVl3dUJQYXFwMHF3V2VMTW5Sc2xKVUdiOHdSeTFldDduX0tGZU9LSGhjR0VzclIxNWRZZkNxUVAxekl3Z3plRVJIUjFKN0NvcGE0R3poamN1dm9TRzduOERaRWVGOVdiMHVia2tmUTF1aWtBakdqcTQ2YUhBNEdHMFlXY3Z4d2lKNnlDakhUU0VzN3ZsQVdkcEU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUVZYVFFyMHkwOTJYVUNZOUxlWl9CQ1dBVUxEQVlkWElpLWQxeV9hR0pVOEFKa29QUHR3LWw5MWhEWXIwUmVtQzR4RnpHRHFmVlVtcDlGbnExWFFpOEVhVHZWX0V6QXdWTnNsaE1kS1BMU01JcG9ESFRlbVhrMVZZNXprbm15a1plRDhNcWxQMEFWOGZZOTgtTzAtYk9PN2IyX1pwNTlkaThTTDJxU19SMGJ4WVRjV1ZPTkttbkxpVF9UUVUzNHlLREFPOTNqLXVmaW44UUoteXpVNUlXc2RpRS1pamxCZzRVUXJHSnlxMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-07T11:17:35+00:00",
       "category": "News",
       "tags": [],
@@ -1765,6 +1867,26 @@
       "type": "News"
     },
     {
+      "title": "Schach – Königsdisziplin für helle Köpfe - DAK-Gesundheit",
+      "summary_de": "Schach – Königsdisziplin für helle Köpfe &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd3ZDYVl4MnJqS2NsbzhhQTVXUGtBUWpVd05vNDRCTmQyTjZIQTBleTN2bXk5cmR0Q1RpLXBRWXpZWFBLWmZnQ0pwM0lkc1RTemxpdzNyajE5c2VEMjk2ck9uWTl2VlJrOE92RC15TmdRbkF3bHM4R2FHOXctMWpvYjBB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-06T21:48:15+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Das perfekte Müsli - DAK-Gesundheit",
+      "summary_de": "Das perfekte Müsli &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOck5KalpKVzFpRnZ3ek9ORmJJMExKTEl2d0pPY25idHlvSWhoOTh2c0FNdm9CMVlzSlFxOUlhcnNOQUtVU25LbjBDM0xxN09zREhlY2pEVGp6UVh6MDBmd08wS1AyWl9hNXNsNDJ5QlM4d2RfTG9ZLXRLQm1BbXpTUmI1QUpycHZ1aDFuS3pBSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-06T18:59:21+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Geflügelpest bei Wildvögeln - Kreis Pinneberg: Vogelgrippe an Kranichen nachgewiesen - Gesundheit - SZ.de",
       "summary_de": "Geflügelpest bei Wildvögeln - Kreis Pinneberg: Vogelgrippe an Kranichen nachgewiesen - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1795,11 +1917,11 @@
       "type": "News"
     },
     {
-      "title": "PM IKK classic_ Psychische Gesundheit bei Azubis - cdn.ikk-classic.de",
-      "summary_de": "PM IKK classic_ Psychische Gesundheit bei Azubis &nbsp;&nbsp; cdn.ikk-classic.de",
-      "source_name": "\"site:ikk-classic.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82S0RZTGJLYjhSdy1SbTh4VDBod0JVU2dDY2gzY09kUEdEN2lNU2EwbXN5RmtId0RjZ0diOG5QTVB3eGgxNV82TWNzR3dSY3VYaGZPNzdMR1lScWFhcFdIRUlqbkNuUWJ0Qkdnd3lQMENZSERoNmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-06T17:22:36+00:00",
+      "title": "Kombucha: DIY-Darmgesundheit oder riskanter Hype? - DAK-Gesundheit",
+      "summary_de": "Kombucha: DIY-Darmgesundheit oder riskanter Hype? &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UZGc5bjJ2NW56YklvbDMyVDVXOXBfbmVNYktTcnNqeWFjLUs0TjVPancyT2VPVEpYU0I3N2NxUWVySExhcFFWZkZobU1qOUQ2N3hINThiWlZqSFJPQVdJa0Z2aU1ia3pycDlWUlRRQjRTQTlCcS0tOWtxQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-06T17:02:45+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1845,8 +1967,8 @@
       "type": "News"
     },
     {
-      "title": "Krankenkasse für ein gesünderes Leben | BARMER - Barmer",
-      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; Barmer",
+      "title": "Krankenkasse für ein gesünderes Leben | BARMER - BARMER",
+      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-06T12:36:21+00:00",
@@ -2039,16 +2161,6 @@
       "type": "News"
     },
     {
-      "title": "Notice: Medicines: terminated and cancelled manufacturing and wholesale dealer licences",
-      "summary_de": "UK companies who have their licence to manufacture or wholesale medicines terminated and cancelled.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/medicines-terminated-and-cancelled-manufacturing-and-wholesale-dealer-licences",
-      "published_at": "2025-11-05T09:40:08+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Vein bypass versus endovascular treatment for chronic limb ischaemia",
       "summary_de": "Vein bypass versus endovascular treatment for chronic limb ischaemia",
       "source_name": "Cochrane Library RSS feed.",
@@ -2129,16 +2241,6 @@
       "type": "News"
     },
     {
-      "title": "BARMER-Kongress AUSBLICK: Mentale Gesundheit von Schülern trotz Krisen stärken - Barmer",
-      "summary_de": "BARMER-Kongress AUSBLICK: Mentale Gesundheit von Schülern trotz Krisen stärken &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa3pQVTE4WDVNVlg5NUNqaDJDLU44NUtHdnV2MHhINWR5ZnZPR204SllzdUd0TkU2aExjQ2thNHYyUU5qUWdfQkNlNU5JakZQT3JIdFVWbHg1TVJLTU9rVTBjdTZpN0RuQVFBX2h2Zlpobld5Y1lNSmFtS0psRzVzYnE1SUZGUzJ6NTB3NVM1SlBobmtkdEFzOGpBUmh0Y1V4ZHlCWW04dW90cnI2RkNpVDh3ZWdURXRKWDAyUDZzTlluUVBFUUVpNC1nOXBwVE4yYVY2SWlVc3lfdHd5LXFibHRscnk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-04T09:20:41+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "EMA partners with healthcare professionals and consumers for #ItTakesATeam medicine shortages campaign",
       "summary_de": "EMA, in collaboration with European healthcare professional and consumer organisations, has launched a new awareness campaign on medicine shortages. The #ItTakesATeam campaign…, When patients can’t get a medicine in a pharmacy, their first reaction is distress. While this is legitimate, they are never alone. There are people who are there to…, The campaign was developed jointly with the European Consumer …",
       "source_name": "News and press releases",
@@ -2162,8 +2264,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik: Niedersachsen will Gesetz für psychisch Kranke reformieren - zeit.de",
-      "summary_de": "Gesundheitspolitik: Niedersachsen will Gesetz für psychisch Kranke reformieren &nbsp;&nbsp; zeit.de",
+      "title": "Gesundheitspolitik: Niedersachsen will Gesetz für psychisch Kranke reformieren - DIE ZEIT",
+      "summary_de": "Gesundheitspolitik: Niedersachsen will Gesetz für psychisch Kranke reformieren &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMWtGZUQtbndSeERHbndnRWdVbVhfT2xxQ0VsNkowUzhoQ25hTkoxWHVkYlZpWUhDOW5VNm9rLUdaS2huT0tCUmYtbFlNT1BOOVM2NGVxR1NPVjhQcWNjbE1HM3pYcEcyd0hSOUlBRnRXaUR3NzVEX0d6OEFBbWd2T3NwME9QWE41UktUNm5EblR3RlRac2tCaE1FWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-04T08:00:00+00:00",
@@ -2177,16 +2279,6 @@
       "source_name": "Diagnostic Imaging articles",
       "source_url": "https://www.diagnosticimaging.com/view/ultrasound-derived-fat-fraction-alternative-quantifying-hepatic-steatosis-",
       "published_at": "2025-11-03T18:42:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Duderstadt: St. Martini Krankenhaus eröffnet neue Notaufnahme und Radiologie - Eichsfelder Tageblatt",
-      "summary_de": "Duderstadt: St. Martini Krankenhaus eröffnet neue Notaufnahme und Radiologie &nbsp;&nbsp; Eichsfelder Tageblatt",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSENaLXRWc0ZIb3lUb1BQVUVCUnVFdFQ0alIxcnZGRi1Jc2VNcDNWNEFZSk1VZ2tueDJScmVsREFsa1loVDJHQ1FGWFNoRTZNRENVeUZwRkJocGs4ZmhDelF1Y3Izb3hfZFJKeFhabGowdXhkcHZHQkl1ZFBmMmJpd1BjYVl2M2lfOTFiQzVSbWZoT0ZHZ1NsODdVV3NSTWN6TlFCN2NmNTFyNTI4RmtCamVMQjZnX2JUcC1PUmNabFZyVDBQV3VMenRYalF6X0NwTnhDR3JXVWV5QVhibC0tWU92WUlDZHFvdTJDRzdqbWxLZVpUX19vYWFOelhSU1hhQ1RFYVJTa9IBowJBVV95cUxQckxHdU83eTN6eXBpbnNZaFk0azNOV0lXUWUtbXZKTGtRZnBHMldxSDZiYU5OWHM4dGpSSUtlYmdTdERmUXVfNmYwZU5oWlRSZ1VzMFdZUG1Jakg3T0ZTY2lJU0Q2T3pZQ3hrSVdRSjEyWWRWT3ZWbTIwRzI1RmhQMl9mY0d6ME9BZktQVE9Md1Y4ZFQ4RkxSWEJEM2o4cms0MVZZLXdwcWRSVU1vcTJrUVRLbWVMamdUdXpyU0VaLVhJaWNoMDVJRFhHLWdLb1Nlc0lKTzJTdm1pRC1qR3puSUxNbnhEaGhoYXRUZjdjdjBRbUxDTDJuWmYzOV9aclFDRUVUYS1SUWsyS2JqLU9pdEVFbUpiZ1dMTW02WEtuU0FJcXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-03T16:09:51+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -2231,16 +2323,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "DAK-Report: Pflegesystem steht am Kipppunkt - DAK-Gesundheit",
-      "summary_de": "DAK-Report: Pflegesystem steht am Kipppunkt &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc3BVV09sWUdCLXdnbEdJeEp1SVNqbENYNE5zcThnaXVGRlVESDJ1RVNtR2RvQmZFZVpUQm9VcklzQmp5RzZ0dHgwTzJfUTJDbXg0cHo2SWNhMnNjRTc0cnZ1cERqaUlPOTZjVFluWnp2dnp1XzA5bTZURk1OV3JpYWdic25VajlLSVMwZ3IzMFRUQkxUX3dKX3JYc3JhdjRxOWZDaXdmODdlajQ1b1hXRnRVQm1wNnFUa3ppMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-03T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
@@ -2304,8 +2386,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Bad Belzig - Barmer",
-      "summary_de": "BARMER Krankenkasse in Bad Belzig &nbsp;&nbsp; Barmer",
+      "title": "BARMER Krankenkasse in Bad Belzig - BARMER",
+      "summary_de": "BARMER Krankenkasse in Bad Belzig &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMkJCZW5rRmtrVjBxdHBVT2ZQVThWT2lDNnFMbzlHN2Y1RWN3OWRYV0JHR1otQm9hbkZIZGhMSzAwdlN0Yl8wRlJIRnNCcjVFYlJUWWROd3M5b2Jaek80clJ0Z2xsQlUySmxiRk9VTF9GTkN3Q0RKLWstWTRaUlAtSVFfX1JsenNEUDRVLWtlX250aFFIa05qNlBZS1BHVFdmUlJuVHlFZUNkZkNuaFV3S012Umt2WlA0VV9tWUUxNGlVN29lR1BEZFg5MA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-31T07:00:00+00:00",
@@ -2584,16 +2666,6 @@
       "type": "Studie"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/ct-based-ai-earlier-detection-progressive-pulmonary-fibrosis-",
-      "published_at": "2025-10-27T19:53:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "2. IQTIG-Regionalkonferenz zum Verfahren QS Ambulante Psychotherapie erfolgreich beendet",
       "summary_de": "Berlin, 31. Oktober 2025 - Das IQTIG hat am 27. Oktober 2025 seine zweite Regionalkonferenz zur regionalen Erprobung des Qualitätssicherungsverfahrens Ambulante psychotherapeutische Versorgung gesetzlich Krankenversicherter (QS Ambulante Psychotherapie) veranstaltet. Etwa 900 Teilnehmerinnen und Teilnehmer, davon knapp 80 vor Ort im Haus der Ärzteschaft in Düsseldorf, waren der Einladung zu der hybriden Konferenz gefolgt. Darunter waren in erster Linie an der …",
       "source_name": "Pressemitteilungen | IQTIG",
@@ -2646,28 +2718,8 @@
       "type": "Studie"
     },
     {
-      "title": "Oral nicotine pouches for cessation or reduction of use of other tobacco or nicotine products",
-      "summary_de": "Oral nicotine pouches for cessation or reduction of use of other tobacco or nicotine products",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016220.pub2",
-      "published_at": "2025-10-24T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Electronic cigarettes for smoking cessation",
-      "summary_de": "Electronic cigarettes for smoking cessation",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010216.pub10",
-      "published_at": "2025-10-24T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Steigende Gesundheitsausgaben: Krankenkassen-Ausgaben steigen - Abrechnungsbetrug in Pflege - zeit.de",
-      "summary_de": "Steigende Gesundheitsausgaben: Krankenkassen-Ausgaben steigen - Abrechnungsbetrug in Pflege &nbsp;&nbsp; zeit.de",
+      "title": "Steigende Gesundheitsausgaben: Krankenkassen-Ausgaben steigen - Abrechnungsbetrug in Pflege - DIE ZEIT",
+      "summary_de": "Steigende Gesundheitsausgaben: Krankenkassen-Ausgaben steigen - Abrechnungsbetrug in Pflege &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWnZkcFA3N3plQkNZMVY4VFVPRGNsTFd5bWs0Z0RVQ2RncWlaanJrOGhkRC1ibEowMmJnbWJScjF5aTRsX2cxM0V2QUFrN0RqcFJleWcxQndlSk0zSEtjSGtZS1FVQktrTVhOa3A5LUFfeV9sdlRKU203YmhWdlZDSHViSGF0ODV5a3VwcnktWGR6WW11NTZJck1B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-22T07:00:00+00:00",
@@ -2718,8 +2770,8 @@
       "type": "News"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-20T07:00:00+00:00",
@@ -2728,8 +2780,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik: Hausärzteverband kritisiert geplante Apothekenreform - zeit.de",
-      "summary_de": "Gesundheitspolitik: Hausärzteverband kritisiert geplante Apothekenreform &nbsp;&nbsp; zeit.de",
+      "title": "Gesundheitspolitik: Hausärzteverband kritisiert geplante Apothekenreform - DIE ZEIT",
+      "summary_de": "Gesundheitspolitik: Hausärzteverband kritisiert geplante Apothekenreform &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOGtlYW96ZXpObFFpZG9UdUhTcENWVEo5WUx0dnRWbU1XTzlueDB6NWhrMGs5ak4xekJaMy1TNzJYUktVWGtld1hhY3dYcFdNWFBWVldUbm9fQlgtYmh6dVF2dTBCd3lNdmp4TU0tanlPcGpOVkdobVVEWXNYeGRZdTAwV2V2bzcxdG9YNWI5NW84R2JodjdjTWdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-18T07:00:00+00:00",
@@ -2845,11 +2897,21 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Angriff aus der CSU auf Sparplan der Gesundheitsministerin - zeit.de",
-      "summary_de": "Gesundheit: Angriff aus der CSU auf Sparplan der Gesundheitsministerin &nbsp;&nbsp; zeit.de",
+      "title": "Gesundheit: Angriff aus der CSU auf Sparplan der Gesundheitsministerin - DIE ZEIT",
+      "summary_de": "Gesundheit: Angriff aus der CSU auf Sparplan der Gesundheitsministerin &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ3M2RU15aWlqVUpaYjktaVhFd2Rpc0NJMVBpNUpqTEpJYWtXdlBtQkF1ZExhdmpicHdwR1BYN0ViMDNkOXBwcFBKLVNPRnE1Zy1xM1d2NVpnM1lHejJDUnNqQ2RTM2d6azBzeDZNWEpGX1JpVHg2Nkk0UnlGVnZGUEgtTlJGdzBJQ1kybVNmLWtwbElxWWl0WE1B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-14T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Assistenzarzt / Arzt in Weiterbildung Mikrobiologie und Infektionsepidemiologie Stellenangebote in Berlin (0) - ärztestellen",
+      "summary_de": "Assistenzarzt / Arzt in Weiterbildung Mikrobiologie und Infektionsepidemiologie Stellenangebote in Berlin (0) &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQQU1ZOERVeXB4QkVzekU0Vk1tMXhpcF9xalpFaWdVd3hkTndxdkE3aVNGd0FVMEg1SC1NTW9qOFJTb3RIa19XUkNWdzY1cVByVjV6dWJTVlk5ZG4wS0R0cGdvbjA0eGd6b1dQVXpBNFB0NmttbDhBbHBrNUZUMndoSWhsb0ZzcEFYWEhyNUZTNUhybWMzVFZtMnUtZ1UxdHRVdXh3QmhwN2g5VEpCQmt1MHlOUWZCWElVN280Rzg3cUNxSkVLeU5Uck1NaWVVYTc4Mm8yT3UyRzRhUW9aRllfdDNrVkRGbzdEUlFIeDF2V2lDUnkwV1UzeElzV29HSHNKS2VoSTNtNFFZZXZ0TWJyTnBFWlR4RUhidkxhTXl1UGI3U1ZfV0w5TzVYQXEzdHFJRnhKdlJkLTJBcjViSU9aYVlWUDlHc3huSUxpLTgtbDVEX0lkZXFFMFd5VGdRZENSdkZpVFBfOE81SG5lM2R0cnhZQ3FBY2NXcjZjTGpZcFBGb2pTWURRVzAwTlFHeC1EVlhXVGRyMnNPRFQyZVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-13T13:07:04+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -2861,6 +2923,16 @@
       "source_url": "https://www.efsa.europa.eu/en/press/news/130301",
       "published_at": "2025-10-13T11:58:02+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Was hilft bei Scheidentrockenheit? - DAK-Gesundheit",
+      "summary_de": "Was hilft bei Scheidentrockenheit? &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUmRfcHZyRWpHZGFybWlIdmRnVzdRcGR1ZXUtMFJtYkJ0NHpqVFRQNUM4TWlFZy1EWjdzTjBCY1lOZDlPTDVoU2NZZE5sRkd1alRjcTAtSTBqenB3M1l6X3FRR1NIdFFNYmlsbXZJSjdseFd0dFZ5UzJXWU9wV1dBUzhNdjRkdVE3bVIxWldXcnlPMERHUUVlMm51UnJMckstZWlXTTBBOVQtalI5a2xGNG4xWTBaazJKb242SFRnWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-13T07:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2911,8 +2983,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik: So sollen Kliniken auf den Krisenfall vorbereitet werden - zeit.de",
-      "summary_de": "Gesundheitspolitik: So sollen Kliniken auf den Krisenfall vorbereitet werden &nbsp;&nbsp; zeit.de",
+      "title": "Gesundheitspolitik: So sollen Kliniken auf den Krisenfall vorbereitet werden - DIE ZEIT",
+      "summary_de": "Gesundheitspolitik: So sollen Kliniken auf den Krisenfall vorbereitet werden &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbVVGWnk0V3FoWXVUSnU4ZHNJZnRxTjRjZ2lOaHk5bGZhQ202Tnd3Z0cwRXVFLVVQNUNZV0hKc1pLWHRlWk1lY0xOZ1htaWdTdVFVSlp6R1R5VnJ0eUFZQUJ2emFUbHhzd051UzhoUEpwM29LcjFEOTlmX2dkM3BNS1JGM3hPZVh3NHJtOHB2SGhFX0Y3QkpN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-07T07:00:00+00:00",
