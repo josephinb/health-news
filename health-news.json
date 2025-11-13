@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-11-13T01:05:48.267184+00:00",
+  "generated_at": "2025-11-13T03:43:23.800427+00:00",
   "window_days": 42,
-  "count": 240,
+  "count": 242,
   "items": [
     {
       "title": "Pressemitteilung: Ambulante Versorgung gestärkt – mehr Hybrid-DRGs",
@@ -14,6 +14,26 @@
         "Versorgung",
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Sachsen-Anhalt: Was für und gegen Klinik-Schließungen spricht - DIE ZEIT",
+      "summary_de": "Sachsen-Anhalt: Was für und gegen Klinik-Schließungen spricht &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSkthYk1YXzZwYUQ5V1RXMS1jMUl5YmhlUTBnMXRIVDJnbldhR3pQQlFyNmM3c0VCVlJCTGlfdm1pQWp1b1B0QzFTN3Y2TGR2eTFxVFdRU2hrSmdCOGJKcVFmTDF4TW9seC1IVmVhYnFvTXM5bG5aSlN1VmxTRVpkbHNNZDJ5N3p5bzBj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-13T03:00:21+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit: Abgeordnete beraten über Kliniken im Land - DIE ZEIT",
+      "summary_de": "Gesundheit: Abgeordnete beraten über Kliniken im Land &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaTRUdzNreGZORUNUeHROZXp6NVpKbmlEN3lablV4SGg1Vk5hRVc4WXNNUzJPNU5XRy1zdVhaWXNKU3pGV0czWlFGcElvS3BSLTFKNkhPME9qN01YRHR5S1BlazFHS0hxdGVqakF4aTdMeTBCOUF6MjFnM3dfOWtWWXJ1OVM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-13T02:30:27+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
@@ -139,7 +159,7 @@
     {
       "title": "Krankenhausaufenthalt: Das Krankenhaus-Inferno - DIE ZEIT",
       "summary_de": "Krankenhausaufenthalt: Das Krankenhaus-Inferno &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMlFLNUxYSFMwdGNIb2p2dVBCWFFPS0lQRzFNSF90cUdqV0ZMY3dtbzZ0cHBUekZQa19xY1dTRVktY1ZLd0tEWnhfQVVYVFhIbkJWbjd3YVJicVA4bW9ieWlQRjdRWUhJX1JnMll1aXo5TTNvMnQzVTBuNWRveWFYaDB2R3VpZ1hVc3JpSjZYR2FTeERMRUtFOTBQbw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-12T15:49:43+00:00",
       "category": "News",
@@ -535,16 +555,6 @@
       "type": "News"
     },
     {
-      "title": "Stellenangebote für Ärzte & Ärztinnen | Arzt Jobs - ärztestellen",
-      "summary_de": "Stellenangebote für Ärzte & Ärztinnen | Arzt Jobs &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSGIza04xQzUwTDVVMzR3c29WMlczSXdxYWltZjZGbnZQbk1jWUZscl9mRVhPTUNRb1BicGp5TXVscnNjMXR5MkNEcEU5dHRpTkxMb0MxYi1pejU4cGd0bWxCM3FWbE04cUk0aGRqdzZYN3pQeVYyTFlSYS1jd2tuZGJhNWRiLTNrc01EMzl3NHdQaFFidDVNeFZvb3ZPMDZTbkRpdjRjNWQ3VlFKVjAxX0RBSUNPSFlBUWdyaC1BdHVpTVU0cENqWTFOcXc0c083R044S1RvMXpWZFA5WnFfX2dvaVM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-11T19:33:35+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Klinik für Psychiatrie und Psychotherapie - HEK",
       "summary_de": "Klinik für Psychiatrie und Psychotherapie &nbsp;&nbsp; HEK",
       "source_name": "\"site:hek.de\" - Google News",
@@ -571,16 +581,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/aufruf-zur-klimademo-am-14-november-160398/",
       "published_at": "2025-11-11T18:20:08+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Agaplesion Bethesda Krankenhaus Bergedorf in 21029 Hamburg - HEK",
-      "summary_de": "Agaplesion Bethesda Krankenhaus Bergedorf in 21029 Hamburg &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZWp3SUZ3M21Uc005eHpzUVJCa2tQLTRDeXZVTWNmaU5rbHhvX2JIeXdFd1hMZ3RZbDNiN1ZhZ21hX2UyalVFeVpSUzVmMEhtdEMwSm42UE1wX3lCZlA4QjFMMVBhN0VvTl9uUmRHOUd3TFhaMU1JemctY2d2UkZ6MGs4eE9TYVVNNVN0REpFYWttWWNQZUlQb3gzNVpLcEdScl9LN2R6NVFwdFBDSVBuNHA3VF8wb0otQWpEZ1hn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-11T17:41:14+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -855,6 +855,16 @@
       "type": "Studie"
     },
     {
+      "title": "MVZ Klinik Stellenangebote in Berlin (15) - ärztestellen",
+      "summary_de": "MVZ Klinik Stellenangebote in Berlin (15) &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pOXVBem1od20wUy1Hb0V3NS1hNi1QU0FUWlQwOWxQT05PSkg5V0c3RGhnd0F0MGdnOEJlM3ZUS3hZMHg1R3FSZDN6Ulp3Q1BxbWNxLVdaa2Fyek0yMlN6T0s4T1ZOc0xGbVN6NFNXNGxHYkZ1UmtsOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-10T22:27:02+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -993,6 +1003,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Institut für Nuklearmedizin Hennigsdorf (IFNH) Stellenangebote in Brandenburg (0) - ärztestellen",
+      "summary_de": "Institut für Nuklearmedizin Hennigsdorf (IFNH) Stellenangebote in Brandenburg (0) &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMmZ5SGxFZEhvUjFrbmpydzFyUDdUYzNyR1RuQW9DSGh6MmpLa3JuLUNHbXhQbGljWWYwVUFQbjlob1d6djhzR29zLXQ3cVp4OW5yVkR4U1Q1U3lYVUl0dEFNd3MwQkdGdkFRUHhhQkdGM3RfbEYzWWt0SzJEYWNzTTBVZ2RwYVZzVk1zQ2RDQlZLVGdiMDJKSHFfRVJrUDd0S051enhkQ1I?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-09T10:25:01+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Festtagsessen - Martinsgans trotz Vogelgrippe gesichert - Gesundheit - SZ.de",
@@ -1579,6 +1599,16 @@
       "type": "News"
     },
     {
+      "title": "Nuklearmedizin St. Marien- und St. Annastiftskrankenhaus Stellenangebote in Ludwigshafen am Rhein (0) - ärztestellen",
+      "summary_de": "Nuklearmedizin St. Marien- und St. Annastiftskrankenhaus Stellenangebote in Ludwigshafen am Rhein (0) &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMUE5OXhXYlkwTElRRldJc21zR2p6UjkxdlZOUGZsMEhOOHBRbDdmT1VxNm13cnE3ZTVHZ2RRZmJ0TXZjM2p1UnRONVlOOUdNZFJ1T2JQV3JFVy05Q1d4UXBOQl91bmZiYWNyX1FDYWV6eXlXdm9HdEoxZVdMX2dVcWJ5WkVhRmRNNHNnLTIxV3pPRDZmUmM5cjhkZVR5aEJnM0JHLWVkYkU1UVlSMEs0emgtM01LajVSd0pRM1kyeDI4YW1wcHJqbE13?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-04T14:12:38+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Arzt / Facharzt Radiologie Stellenangebote in Koblenz - ärztestellen",
       "summary_de": "Arzt / Facharzt Radiologie Stellenangebote in Koblenz &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
@@ -1692,6 +1722,16 @@
       "type": "News"
     },
     {
+      "title": "Laboratoriumsmedizin Radiology Advanced Klinik Stellenangebote in Berlin - ärztestellen",
+      "summary_de": "Laboratoriumsmedizin Radiology Advanced Klinik Stellenangebote in Berlin &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWmNoVGJQeU9FVGREY2lzeG05LWRaSmU4STZVVmtFMXBRZVVFTTJ4WTR4WHpxMVlxa1JwSkFHcUFHdUF5UVlrSUVXSWx4Yk1FS3NKRDZ1enZoWXVhUWJwX05tWDBKMjBtby0xejMyVmVzdmE3LXh0ejJBRVRVak83d3QtYVVoYXZHdkRKYnVFTEY4ODZfU2UxQ2RDTjNqSkFIZVg0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-03T13:47:27+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -1759,6 +1799,16 @@
       "source_name": "Diagnostic Imaging articles",
       "source_url": "https://www.diagnosticimaging.com/view/diagnostic-imaging-weekly-scan-october-26-november-1",
       "published_at": "2025-11-02T14:43:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Radiologie Agaplesion Bethesda Krankenhaus Bergedorf gGmbH Stellenangebote in Berlin (0) - ärztestellen",
+      "summary_de": "Radiologie Agaplesion Bethesda Krankenhaus Bergedorf gGmbH Stellenangebote in Berlin (0) &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVjBRODloak9RcnV1YjFzRHhYOVhVY25zaTZoODBnWF9NcE9UQzdOY3JIRnJmeFhBVk5DTWpzQXBOX1FqQUpUdGV0S3lOQjdRbVVTclBwVkFpcF9qVWt5N2VvMEd4dy1xMGFBQnRjTG1BLTNHYkUxRTVfRUxhTmZGS1FBMkZsWWxEbm00OWVBZXNjeGFDTzJGZG50R0hUcWpIc1oxN1VWSDRieGs0MzZ0WVEtSk5MM3JudENZTFlsRkNmQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-02T01:19:33+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -1870,16 +1920,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdEZWTkJJSGFlM0hXVWs2RGs4QkFNSDRJRmczVEIxZlFPdEVGQjhOVTMzXy1BdjlHaXpwUmprN3JhQXp6Q085c1B3UDB6NHc1S0lBZjJVdFFobXhLQkVTSFFZMVRHVGd3am0yMDI0dG5JbUttM2RCcWpRVUl0M19RN3VpQkxRaUc5bU4waHZjVTVKdmRFb2NuYmhoclpJZk9MT29Nd3ZVcFdUdnM1cERUSDRFNjI4R1lkbUpnSHdsaGhoUXNRZUJJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-30T07:00:00+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "DTM Medical erweitert Produktportfolio um DISCUS Dicom Media Center® Lösungen für sichere Bild- und Datenübertragung im Medizinbereich - PresseBox",
-      "summary_de": "DTM Medical erweitert Produktportfolio um DISCUS Dicom Media Center® Lösungen für sichere Bild- und Datenübertragung im Medizinbereich &nbsp;&nbsp; PresseBox",
-      "source_name": "\"site:pressebox.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPX3E2bWZoQWl0dDJlMm1EQ3YtRU1GRlY4R0VzSnpCc0w4dWhEN2N6cDhYa1lDX25HZ0lPYXM3bndLZTNFRTZGY25CQVh1dnhCVWJFWFlvSHdPSGlaVUFHNWFoZG9qaEFBQXRIX3JPVXZaTVROWHU1MXVnd21UXy1XYlA4SThfZzg3Zjd5dUw4cXBfbDBzOWxLUE8yT0x3c1NPX3ExRHZVTnRFTTkzcnB0WG90b21GUzFORHBKaVB3UXBkUjFPMDVnSmljVUdncUVtMjNGWnNSLWE1eDluMlo5UC0tYW9VWlcteklkQUhIem5xdmItRlE5MDNrcHNEZl9qaDlTcXgtaml3VWFldC1wcmMyUi1EREFKbFd3SVVmSXV0SzBwWkZF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-30T07:00:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -2066,6 +2106,16 @@
       "type": "News"
     },
     {
+      "title": "HIIT: Mit hochintensivem Intervalltraining schneller am Ziel - Techniker Krankenkasse",
+      "summary_de": "HIIT: Mit hochintensivem Intervalltraining schneller am Ziel &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM2RKY0hNMkZuOTRHc3pKTi1ubmdXWm5OZ2FRSnI4d1VINElhMlp5elY1TGFoRUZJQTBIbkxMOGZ4eHgzSkJrRXVDRFBVRGI0V1ZpY0JjUk1tVDBqejYtNmsyeU5iNzZXVVlJTm00Z08xU0JQWURtdl9IdmdzN1l5a1FIT2gwRUxWdXRwOVFpbHZEMUJQUHZpT1JLYkFHbGQwSF9LSHBuYXMtZFZfNG9Nc3ZCRERIenpYZVBpMHJYcVpmaUNmTW5oYWtMVGJZMlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-27T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Intratracheal instillation of corticosteroids combined with surfactant for preventing chronic lung disease in preterm infants",
       "summary_de": "Intratracheal instillation of corticosteroids combined with surfactant for preventing chronic lung disease in preterm infants",
       "source_name": "Cochrane Library RSS feed.",
@@ -2138,6 +2188,16 @@
       "type": "News"
     },
     {
+      "title": "Tiefe Hocke: Wirkung und Übung - DAK-Gesundheit",
+      "summary_de": "Tiefe Hocke: Wirkung und Übung &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNm9qaFR6YmNSQndUbkg0Qnp3Zkt5V0dyTVdXdGlCTHZzN28wTjlsYkkzTnpwTTNKVVdVa3FMemUzaXpJV09kSG4yMXNERGFuQVdINEtoLTN4RThneFFvZVJVR0xlLWFOTWJNT0owb3BGS2kzQThKeE1mSDZodnhnWGZfZVNYQlRINEQ3cEY4VlFhTWVMZkY0dUQtQTNaS3lrQXJfaGtWRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-21T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Klinik für Kardiologie und Rhythmologie - HEK",
       "summary_de": "Klinik für Kardiologie und Rhythmologie &nbsp;&nbsp; HEK",
       "source_name": "\"site:hek.de\" - Google News",
@@ -2158,18 +2218,8 @@
       "type": "News"
     },
     {
-      "title": "Welche Pflegeleistungen erhalte ich mit Pflegegrad 5? - Techniker Krankenkasse",
-      "summary_de": "Welche Pflegeleistungen erhalte ich mit Pflegegrad 5? &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWGxFLWc0YkFJSWJRRTZWbV9UREZIN1U1QkFVbHhCTmtUOUJETllVQzk3QllaNEdMVHpxRzBYUy1OM09lZExCNUFJVWxKcTdjaThhY0NQMTU1VzVJZjg5cXVxUXFLSUZOaWVIRTd2dGZKcXpnZGx4M241RlAyUEJwaF93MldIaUx5ZVNCelVsTkZVamhuSFlGT2YxMVdzMWRFM1l6aDhhbzhLOU5aVUtfR3RRYTdnRzhmeXRmQkpOVFJRajdZRXBWdXZXdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-20T11:08:51+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Kolon in der Radiologie | CT-Kolonografie spürt Darmkrebs früher auf als FIT - SpringerMedizin.de",
-      "summary_de": "Kolon in der Radiologie | CT-Kolonografie spürt Darmkrebs früher auf als FIT &nbsp;&nbsp; SpringerMedizin.de",
+      "title": "Kolon in der Radiologie | CT-Kolonografie spürt Darmkrebs früher auf als FIT - springermedizin.de",
+      "summary_de": "Kolon in der Radiologie | CT-Kolonografie spürt Darmkrebs früher auf als FIT &nbsp;&nbsp; springermedizin.de",
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUUlSeXlZNFBWdUQzd0lkQU9MZlVCZlpqV3NVczJYTHAwa1g1WDl4ZlYtWHN1elBJWTkxNTIxbXplZGdJczB2NVNFblpMNDJrMEZFaGluR241MkZzUThWN1l2ai1hVTdaRHBnMURNdjF3TmtFNkQ5a3N6NW5mX0J0R0tSTDJ2V0hXbWMxajNmLTJ6aXIwaVhLVFFJWWVZMkR6Z25lLTNhUDFtU2dRZW8ydExlN0VidWtlNFdMdGdwX1VqM25UakYydVNJTktrcWN1?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-20T09:30:13+00:00",
@@ -2182,6 +2232,16 @@
       "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-20T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Was ist Calisthenics? Tipps und Übungen - DAK-Gesundheit",
+      "summary_de": "Was ist Calisthenics? Tipps und Übungen &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaY0RXQUROMk9oVVZLcVpzNWM3Wl91WGtJQUpyYzlHR1NZeEJHQ1ZvZHY5QnRGbE9OM0pXM1VRMWQzNjdhUEM2R1FIbXUtZTFReHVRQXhoMnRILS0xLURFdUtIQ3hZY3JJZ1o5NVBDOUV2TTA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-20T07:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -2295,31 +2355,11 @@
       "type": "News"
     },
     {
-      "title": "Auslandskrankenschein - DAK-Gesundheit",
-      "summary_de": "Auslandskrankenschein &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ0NkcFlOVElkTEJKU0x1c3VNWnhpQ295WDNqY1NVMW5vR0FpLUU2cjYzTjJBbmZpNVBQSEZoaFljTFc2N25LQnhLeDBYLVJwNXFFZTdDVk9NSHNpY29VUDhYekhfWjF6MGxCM084eUoyOVpCbWpoNzRXc19ILWhhZWZJWXdjcTJXUzU4SzNvNEJDRFk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-14T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit: Angriff aus der CSU auf Sparplan der Gesundheitsministerin - DIE ZEIT",
       "summary_de": "Gesundheit: Angriff aus der CSU auf Sparplan der Gesundheitsministerin &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ3M2RU15aWlqVUpaYjktaVhFd2Rpc0NJMVBpNUpqTEpJYWtXdlBtQkF1ZExhdmpicHdwR1BYN0ViMDNkOXBwcFBKLVNPRnE1Zy1xM1d2NVpnM1lHejJDUnNqQ2RTM2d6azBzeDZNWEpGX1JpVHg2Nkk0UnlGVnZGUEgtTlJGdzBJQ1kybVNmLWtwbElxWWl0WE1B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-14T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Assistenzarzt / Arzt in Weiterbildung Mikrobiologie und Infektionsepidemiologie Stellenangebote in Berlin (0) - ärztestellen",
-      "summary_de": "Assistenzarzt / Arzt in Weiterbildung Mikrobiologie und Infektionsepidemiologie Stellenangebote in Berlin (0) &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQQU1ZOERVeXB4QkVzekU0Vk1tMXhpcF9xalpFaWdVd3hkTndxdkE3aVNGd0FVMEg1SC1NTW9qOFJTb3RIa19XUkNWdzY1cVByVjV6dWJTVlk5ZG4wS0R0cGdvbjA0eGd6b1dQVXpBNFB0NmttbDhBbHBrNUZUMndoSWhsb0ZzcEFYWEhyNUZTNUhybWMzVFZtMnUtZ1UxdHRVdXh3QmhwN2g5VEpCQmt1MHlOUWZCWElVN280Rzg3cUNxSkVLeU5Uck1NaWVVYTc4Mm8yT3UyRzRhUW9aRllfdDNrVkRGbzdEUlFIeDF2V2lDUnkwV1UzeElzV29HSHNKS2VoSTNtNFFZZXZ0TWJyTnBFWlR4RUhidkxhTXl1UGI3U1ZfV0w5TzVYQXEzdHFJRnhKdlJkLTJBcjViSU9aYVlWUDlHc3huSUxpLTgtbDVEX0lkZXFFMFd5VGdRZENSdkZpVFBfOE81SG5lM2R0cnhZQ3FBY2NXcjZjTGpZcFBGb2pTWURRVzAwTlFHeC1EVlhXVGRyMnNPRFQyZVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-13T13:07:04+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -2331,16 +2371,6 @@
       "source_url": "https://www.efsa.europa.eu/en/press/news/130301",
       "published_at": "2025-10-13T11:58:02+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Zur Sache: H3 - Health Harbor Hamburg | Die Techniker - Presse & Politik - Techniker Krankenkasse",
-      "summary_de": "Zur Sache: H3 - Health Harbor Hamburg | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcmNuV1l4RUZfSDVjMURNV0FUQy1XenZVSHNJS1l4b3hpUVAxWm1jZElWV3EwT184OWtoa2NEN3pZNl95MXlQSGZwMzBva251NmZMZER4VUpXUXdmSGdfNUg2SEF3Z1VrbE1iMjVNRmdzOGtiUFdiM3NzUVBMclZvRm1XdlVYWHF0ZjFuRkZiWmVKaDE1YlktNlM1YkVjTmRoSkVFMlZuNmsyOTRQM08zVE1Gbw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-10T07:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2364,16 +2394,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Befreiung von der Versicherungspflicht – Beschäftigte - DAK-Gesundheit",
-      "summary_de": "Befreiung von der Versicherungspflicht – Beschäftigte &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ2FxeU5nbXpzTE5Ra2drR0hCUnFEUC1SV3FROUNFOWFBMVlyQ3lQd05Yd3FkZ2I0cmNUWFQ4TjJBY1Rtd3g2cWZqQmJoLW9QY1plX0U1N0stZng3VUpxNmdXNUZPX3ZvVlJURzFmcjRkeC1uSGVUMW5EZkpjUHdieWpwencyY3RYSFlxcTFKWFRSU05hUzkwVzY1ZS1xZ19SQW9SNnFiRUY1cVVhZXhxanMzbVhTTFl6UzNJSnJlMjJjNE5Pdy1iZDFxZnZ4UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-09T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
