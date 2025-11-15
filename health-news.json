@@ -1,8 +1,18 @@
 {
-  "generated_at": "2025-11-15T06:19:36.398717+00:00",
+  "generated_at": "2025-11-15T09:13:06.634468+00:00",
   "window_days": 42,
-  "count": 297,
+  "count": 295,
   "items": [
+    {
+      "title": "Gematik verlängert Frist: HBA-Tausch bis 30.6. möglich",
+      "summary_de": "Bis zum Jahreswechsel muss das Verschl&uuml;sselungsverfahren in der Telematikinfrastruktur (TI) umgestellt werden. Doch laut der Gematik wurden noch 30.000 Heilberufeausweise nicht getauscht. Damit die Versorgung nicht gef&auml;hrdet ist, wurde die Frist nun bis zum 30. Juni 2026 verl&auml;ngert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/hba-tausch-bis-306-moeglich-160519/",
+      "published_at": "2025-11-15T06:06:08+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
@@ -10,6 +20,96 @@
       "source_url": "https://www.diagnosticimaging.com/view/plaque-burden-assessing-cardiovascular-risk-interview-ibrahim-danad-md-phd",
       "published_at": "2025-11-15T00:13:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Different breast cancer treatments lead to varied effects on heart health",
+      "summary_de": "Session attendees will learn how different chemotherapy regimens affect myocardial accumulation in breast cancer patients.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/womens-imaging-preview/article/15771584/different-breast-cancer-treatments-lead-to-varied-effects-on-heart-health",
+      "published_at": "2025-11-14T18:59:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Ultrafast MRI parameter time to enhancement better classifies DCIS",
+      "summary_de": "Incorporating time to enhancement into breast MRI exams improves the classification of ductal carcinoma in situ (DCIS).",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/womens-imaging-preview/article/15771889/ultrafast-mri-parameter-time-to-enhancement-better-classifies-dcis",
+      "published_at": "2025-11-14T18:58:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Breast density affects high-risk classification in women",
+      "summary_de": "See this presentation to learn how volumetric breast density may lead to more women being classified as at high risk for breast...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/womens-imaging-preview/article/15771585/breast-density-affects-highrisk-classification-in-women",
+      "published_at": "2025-11-14T18:57:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "AI finds more breast cancers when paired with one radiologist",
+      "summary_de": "This presentation will address how implementing a commercial AI system adds diagnostic value to breast imaging for single reading...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/womens-imaging-preview/article/15771587/ai-finds-more-breast-cancers-when-paired-with-one-radiologist",
+      "published_at": "2025-11-14T18:55:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Black, young women have more false-positive breast screenings",
+      "summary_de": "Visitors can see how false-positive cases affect return to breast cancer screening for women in various subgroups.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/womens-imaging-preview/article/15771693/black-young-women-have-more-falsepositive-breast-screenings",
+      "published_at": "2025-11-14T18:54:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Commercial algorithms have varying performance for DBT",
+      "summary_de": "Attendees will find out how commercial AI algorithms perform differently when examining digital breast tomosynthesis (DBT) exams...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/womens-imaging-preview/article/15771778/commercial-algorithms-have-varying-performance-for-dbt",
+      "published_at": "2025-11-14T18:53:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Can AI improve access, affordability of MRI breast cancer screening?",
+      "summary_de": "An AI-based MRI protocol can increase the accessibility and cost-effectiveness of breast cancer screening, according to researchers...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/womens-imaging-preview/article/15771890/can-ai-improve-access-affordability-of-mri-breast-cancer-screening",
+      "published_at": "2025-11-14T18:52:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Adding DBT to CEM leads to minimal gains",
+      "summary_de": "Adding digital breast tomosynthesis (DBT) to contrast-enhanced mammography (CEM) could slightly reduce false-positive recalls.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/womens-imaging-preview/article/15771782/adding-dbt-to-cem-leads-to-minimal-gains",
+      "published_at": "2025-11-14T18:51:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Cryoablation safe for treating small breast cancers in older women",
+      "summary_de": "Attendees will learn about ultrasound-guided cryoablation as a treatment for elderly women with small, low-risk breast cancer.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/womens-imaging-preview/article/15771785/cryoablation-safe-for-treating-small-breast-cancers-in-older-women",
+      "published_at": "2025-11-14T18:50:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -154,20 +254,20 @@
       "type": "News"
     },
     {
-      "title": "Parodontitis und Karies: Schlaganfall-Prophylaxe beginnt im Mund",
-      "summary_de": "Der Einfluss der Mundflora auf das Risiko f&uuml;r isch&auml;mische Ereignisse ist bereits l&auml;nger bekannt. Neue Daten zeigen ein um 86 Prozent erh&ouml;htes Risiko, wenn Karies und Parodontitis in Kombination auftreten.",
+      "title": "Zulassungsempfehlung: Dank Teplizumab erst Jahre später manifester Typ-1-Diabetes",
+      "summary_de": "Ein besseres Timing geht kaum. Am heutigen Welt-Diabetes-Tag verk&uuml;ndet die&nbsp; EMA, dass sie die Zulassung des Teplizumab bef&uuml;rwortet. Der Antik&ouml;rper kann das Auftreten von manifestem Typ-1-Diabetes deutlich herausz&ouml;gern.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/schlaganfall-prophylaxe-beginnt-im-mund-160487/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/dank-teplizumab-erst-jahre-spaeter-manifester-typ-1-diabetes-160507/",
       "published_at": "2025-11-14T13:30:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Zulassungsempfehlung: Dank Teplizumab erst Jahre später manifester Typ-1-Diabetes",
-      "summary_de": "Ein besseres Timing geht kaum. Am heutigen Welt-Diabetes-Tag verk&uuml;ndet die&nbsp; EMA, dass sie die Zulassung des Teplizumab bef&uuml;rwortet. Der Antik&ouml;rper kann das Auftreten von manifestem Typ-1-Diabetes deutlich herausz&ouml;gern.",
+      "title": "Parodontitis und Karies: Schlaganfall-Prophylaxe beginnt im Mund",
+      "summary_de": "Der Einfluss der Mundflora auf das Risiko f&uuml;r isch&auml;mische Ereignisse ist bereits l&auml;nger bekannt. Neue Daten zeigen ein um 86 Prozent erh&ouml;htes Risiko, wenn Karies und Parodontitis in Kombination auftreten.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/dank-teplizumab-erst-jahre-spaeter-manifester-typ-1-diabetes-160507/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/schlaganfall-prophylaxe-beginnt-im-mund-160487/",
       "published_at": "2025-11-14T13:30:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
@@ -364,26 +464,6 @@
       "type": "News"
     },
     {
-      "title": "Medicare updates 2026: Fee Schedule and impact on radiology",
-      "summary_de": "Although the Conversion Factors (CF) are an increase over the current 2025 rate, they are slightly lower than in the Proposed...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/practice-management/administration/economics/article/15771821/healthcare-administrative-partners-medicare-updates-2026-fee-schedule-and-impact-on-radiology",
-      "published_at": "2025-11-14T08:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Black, young women have more false-positive breast screenings",
-      "summary_de": "Visitors can see how false-positive cases affect return to breast cancer screening for women in various subgroups.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/womens-imaging-preview/article/15771693/black-young-women-have-more-falsepositive-breast-screenings",
-      "published_at": "2025-11-14T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Investition zahlt sich aus: Freundschaften senken biologisches Alter",
       "summary_de": "Lange, tiefe Freundschaften k&ouml;nnen wie ein Anti-Aging-Programm wirken. Laut einer US-amerikanischen Studie tr&auml;gt insbesondere das Gemeinschaftsgef&uuml;hl zum gesunden Altern und zur Langlebigkeit bei.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -394,6 +474,16 @@
         "Wirtschaft"
       ],
       "type": "Studie"
+    },
+    {
+      "title": "Road to RSNA 2025: Women's Imaging Preview",
+      "summary_de": "RSNA 2025 will feature women's imaging research on personalized patient care, including screening, diagnostic, and interventional...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/womens-imaging-preview/article/15771238/road-to-rsna-2025-womens-imaging-preview",
+      "published_at": "2025-11-14T07:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Telemedizin: Supermarkt in Baden-Württemberg bietet Videosprechstunden beim Arzt an - Spiegel",
@@ -441,56 +531,6 @@
       "source_name": "Diagnostic Imaging articles",
       "source_url": "https://www.diagnosticimaging.com/view/mri-assessment-right-ventricular-global-longitudinal-strain-prognostic-heart-failure-",
       "published_at": "2025-11-13T21:53:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "DL algorithm identifies retropharyngeal edema on MRI neck scans",
-      "summary_de": "Researchers will present on how deep learning (DL) can help MRI identify retropharyngeal edema in patients with acute neck infection...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/mri-preview/article/15771308/dl-algorithm-identifies-retropharyngeal-edema-on-mri-neck-scans",
-      "published_at": "2025-11-13T18:55:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Short MRI protocol comparable to full for finding cancer in BRCA carriers",
-      "summary_de": "An abbreviated breast MRI protocol appears comparable to a full one for identifying cancer in women with the BRCA gene mutation...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/mri-preview/article/15771319/short-mri-protocol-comparable-to-full-for-finding-cancer-in-brca-carriers",
-      "published_at": "2025-11-13T18:50:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Ultrafast MRI parameter time to enhancement better classifies DCIS",
-      "summary_de": "Incorporating time to enhancement into breast MRI exams improves the classification of ductal carcinoma in situ (DCIS).",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/mri-preview/article/15771388/ultrafast-mri-parameter-time-to-enhancement-better-classifies-dcis",
-      "published_at": "2025-11-13T18:45:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Adding MRI to a multimodal AI algorithm boosts breast cancer diagnosis",
-      "summary_de": "This presentation will address how adding MRI data to a multimodal AI algorithm for breast cancer aids diagnosis and risk assessment...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/mri-preview/article/15771389/adding-mri-to-a-multimodal-ai-algorithm-boosts-breast-cancer-diagnosis",
-      "published_at": "2025-11-13T18:40:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "AI boosts performance of nonexpert radiologists on prostate MRI",
-      "summary_de": "AI can increase the accuracy of nonexpert radiologists and decrease interreader variability, according to this presentation.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/mri-preview/article/15771506/ai-boosts-performance-of-nonexpert-radiologists-on-prostate-mri",
-      "published_at": "2025-11-13T18:35:00+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -783,16 +823,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdEtic2dhTld6T2ZiX3p1NlRYUnpjdzNiTWp3MnEtTEMxT0ZyV3V1ckNfbkhKdlhVLXBqN21KY0VHeEpVYVlHUGU5MUQxVUV1Q3VXWC1JelRvTmlkRl9BRWN1aVY1ZnQyTTRSVEp3WDg0SzBvZGRUVkF5a2dwckZuZzZKdVhtTXVPc3VxSlBUUFZsWnhNZTVtbzBYWVdJYS1uTkw0dTR1NlFUblNRdVNwZVZQT1JEUWxPV19yTG9uQXphVWxqelVfaVBwRWt6MkpRTG51SHo0c2VKZ0sxdXVURXI3UXFRX3duYUcybEttdlRjdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-13T10:31:05+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "DCR useful at bedside in respiratory failure cases",
-      "summary_de": "Dynamic chest radiography (DCR) can be performed using a portable x-ray system equipped with dedicated DCR capability.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15771798/dcr-useful-at-bedside-in-respiratory-failure-cases",
-      "published_at": "2025-11-13T10:09:08+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1228,16 +1258,6 @@
       "type": "News"
     },
     {
-      "title": "Zwei Zytokine entlarvt: Neue Ansatzpunkte für Post-Covid-Therapie",
-      "summary_de": "Forschende haben zwei Botenstoffe identifiziert, die f&uuml;r anhaltende Entz&uuml;ndungsprozesse in der Nasenschleimhaut beim Post-Covid-Syndrom verantwortlich sind. Daraus k&ouml;nnten eines Tages Behandlungen abgeleitet werden.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/neue-ansatzpunkte-fuer-post-covid-therapie-160425/",
-      "published_at": "2025-11-13T09:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Wissenschaftliche*r Mitarbeiter*in (m/w/d) in Teilzeit (75 %) im Zentrum für Empirische Forschung (ZEF) der Fakultät Wirtschaft & Gesundheit - ZEIT Stellenmarkt",
       "summary_de": "Wissenschaftliche*r Mitarbeiter*in (m/w/d) in Teilzeit (75 %) im Zentrum für Empirische Forschung (ZEF) der Fakultät Wirtschaft & Gesundheit &nbsp;&nbsp; ZEIT Stellenmarkt",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
@@ -1268,26 +1288,6 @@
         "Versorgung",
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "CTC is a cost-effective, accessible CRC screening tool for Black adults",
-      "summary_de": "CT colonography (CTC) used in this capacity could support Medicare coverage of colorectal cancer (CRC).",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15771792/ctc-is-a-costeffective-accessible-crc-screening-tool-for-black-adults",
-      "published_at": "2025-11-13T07:15:19+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Road to RSNA 2025: MRI Preview",
-      "summary_de": "This year's RSNA meeting won't disappoint when it comes to tracing the arc of MRI innovation.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/mri-preview/article/15771254/road-to-rsna-2025-mri-preview",
-      "published_at": "2025-11-13T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
@@ -1559,6 +1559,16 @@
       "type": "News"
     },
     {
+      "title": "Agaplesion Bethesda Krankenhaus Bergedorf in 21029 Hamburg - HEK",
+      "summary_de": "Agaplesion Bethesda Krankenhaus Bergedorf in 21029 Hamburg &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZWp3SUZ3M21Uc005eHpzUVJCa2tQLTRDeXZVTWNmaU5rbHhvX2JIeXdFd1hMZ3RZbDNiN1ZhZ21hX2UyalVFeVpSUzVmMEhtdEMwSm42UE1wX3lCZlA4QjFMMVBhN0VvTl9uUmRHOUd3TFhaMU1JemctY2d2UkZ6MGs4eE9TYVVNNVN0REpFYWttWWNQZUlQb3gzNVpLcEdScl9LN2R6NVFwdFBDSVBuNHA3VF8wb0otQWpEZ1hn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-11T17:41:14+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Prozesse - Seniorin schaltet Sauerstoff ab – Ausweisung war rechtens - Gesundheit - SZ.de",
       "summary_de": "Prozesse - Seniorin schaltet Sauerstoff ab – Ausweisung war rechtens - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1594,16 +1604,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQc0NxSWY1cDhEOFN6TlZqc2w0YjZWcDhlU1l4d0FlNl8yeWtRQm1UZE5NTUsxWlltaWd6YklqdXl0VmszMEs5eVhBaEJteUY5SlJPUU16azB6Qy05c2MtR3dQLXVJRE9acldrZHNqOEVSX0Y1M2pWVURNWGRZLTUxWUxSRVRHSmc0cU53YVdnOVA3R0NUa0xLblVRR2xlcm44TUxhZXVEazZrNlRfM2Y2QUlXOWM4eDZ2WUlMUFZ4c251WUcyVkxjSTRMX0xONy14c2w5U3ZoVXU0cnN0NVNaYmpfS3JYYXc5TU51QTBzTVA1em42?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-11T12:22:51+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Arzt nach Tod einer Zwölfjährigen zu Haftstrafe verurteilt – News - Deutsches Ärzteblatt",
-      "summary_de": "Arzt nach Tod einer Zwölfjährigen zu Haftstrafe verurteilt – News &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM2tQY3Z4UzdpSWdJbXJWWThPYTNsX3NyWkotekx0TXZYQUlsNW9IeGdOLXJVMkFuV290QThsandaejlVN0hVV2c4R1Itdk9DbkExNnkyWE1DODNFY2xzbjhKVnNUaThYNWdSbXJfVk52Y3hSczVrZjZXU0dMRGJob3kzc0xBc1gyRHNmOWZNRFRJSWl3dlBtQ3RBSXFEd0Y4YW15VjNKUmhPQzFmU3Rla0FkekYwRnFVcTc2MnFYVTFpb190c3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-11T11:00:53+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1697,16 +1697,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "MVZ Klinik Stellenangebote in Berlin (15) - ärztestellen",
-      "summary_de": "MVZ Klinik Stellenangebote in Berlin (15) &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pOXVBem1od20wUy1Hb0V3NS1hNi1QU0FUWlQwOWxQT05PSkg5V0c3RGhnd0F0MGdnOEJlM3ZUS3hZMHg1R3FSZDN6Ulp3Q1BxbWNxLVdaa2Fyek0yMlN6T0s4T1ZOc0xGbVN6NFNXNGxHYkZ1UmtsOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-10T22:27:02+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Diagnostic Imaging articles: Update",
@@ -1815,16 +1805,6 @@
       "source_url": "https://www.gov.uk/drug-device-alerts/class-3-medicines-recall-zambon-spa-emylif-50mg-orodispersible-film-el-25-a-slash-47",
       "published_at": "2025-11-10T10:02:35+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Maßregelvollzugszentrum Niedersachsen - Asklepios Klinik für Forensische Psychiatrie und Psychotherapie Stellenangebote in Erkner | Ärztestellen - ärztestellen",
-      "summary_de": "Maßregelvollzugszentrum Niedersachsen - Asklepios Klinik für Forensische Psychiatrie und Psychotherapie Stellenangebote in Erkner | Ärztestellen &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVTc2UVFaRjhtTEhWc21GYmljNjZQcXNidGtTeUpRT3FwZXRRb1VXakQ1LW8xMzEzb3JrUlgyVFlBSU9HZmdGZkppZ2RrWFdZMWY2UVlwQk15cC1zRXNpSWE4VUhhOFNSSFRGUkdLQVQwbllKVEVjT0RQWTJocXNBZWRyTFR1TjdyamRycjRlX3BpSzh0enVyZFZlUE1vNFZodW9fWVZBemhCc3VrQlNIamh5Z2RRYzJIbGZIcmpzUHQ3ZVRCQ0NJMVBZT2pOdUNZNWowRmpBOWNNRUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-10T01:43:29+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1979,22 +1959,22 @@
       "type": "News"
     },
     {
-      "title": "Wie viel Spielzeug braucht ein Kind? - DAK-Gesundheit",
-      "summary_de": "Wie viel Spielzeug braucht ein Kind? &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa0d2MzZkWVBvT2NGM2tUN25JS2VGRkRtT21QNjFEQzJ6eHdIYWRiQmhKbVQ3OVJ5WlN1Q195eTZZcnRoblVfUU8wZU1aVVVKODZPOEx2eEY2Z2ZhMzNDSmh3Z0Y4SUtNc3ctb1NyUU1HMFI2QkdNS3E5UU9wZnd0ZC1ET1BuMl9OUFlJZ3hZeDBzajFRYzc2dlgyLWhVd1hHWXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-06T21:48:53+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
       "source_url": "https://www.diagnosticimaging.com/view/nine-takeaways-from-new-review-of-psma-pet-ct-and-whole-body-mri-for-advanced-prostate-cancer",
       "published_at": "2025-11-06T18:19:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "PM IKK classic_ Psychische Gesundheit bei Azubis - cdn.ikk-classic.de",
+      "summary_de": "PM IKK classic_ Psychische Gesundheit bei Azubis &nbsp;&nbsp; cdn.ikk-classic.de",
+      "source_name": "\"site:ikk-classic.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82S0RZTGJLYjhSdy1SbTh4VDBod0JVU2dDY2gzY09kUEdEN2lNU2EwbXN5RmtId0RjZ0diOG5QTVB3eGgxNV82TWNzR3dSY3VYaGZPNzdMR1lScWFhcFdIRUlqbkNuUWJ0Qkdnd3lQMENZSERoNmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-06T17:22:36+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2101,8 +2081,8 @@
       "type": "News"
     },
     {
-      "title": "Krankenkasse für ein gesünderes Leben | BARMER - Barmer",
-      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; Barmer",
+      "title": "Krankenkasse für ein gesünderes Leben | BARMER - BARMER",
+      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-06T08:00:00+00:00",
@@ -2346,8 +2326,8 @@
       "type": "News"
     },
     {
-      "title": "Duderstadt: St. Martini Krankenhaus eröffnet neue Notaufnahme und Radiologie - GT/ET Göttinger Tageblatt - Eichsfelder Tageblatt",
-      "summary_de": "Duderstadt: St. Martini Krankenhaus eröffnet neue Notaufnahme und Radiologie &nbsp;&nbsp; GT/ET Göttinger Tageblatt - Eichsfelder Tageblatt",
+      "title": "Duderstadt: St. Martini Krankenhaus eröffnet neue Notaufnahme und Radiologie - Eichsfelder Tageblatt",
+      "summary_de": "Duderstadt: St. Martini Krankenhaus eröffnet neue Notaufnahme und Radiologie &nbsp;&nbsp; Eichsfelder Tageblatt",
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSENaLXRWc0ZIb3lUb1BQVUVCUnVFdFQ0alIxcnZGRi1Jc2VNcDNWNEFZSk1VZ2tueDJScmVsREFsa1loVDJHQ1FGWFNoRTZNRENVeUZwRkJocGs4ZmhDelF1Y3Izb3hfZFJKeFhabGowdXhkcHZHQkl1ZFBmMmJpd1BjYVl2M2lfOTFiQzVSbWZoT0ZHZ1NsODdVV3NSTWN6TlFCN2NmNTFyNTI4RmtCamVMQjZnX2JUcC1PUmNabFZyVDBQV3VMenRYalF6X0NwTnhDR3JXVWV5QVhibC0tWU92WUlDZHFvdTJDRzdqbWxLZVpUX19vYWFOelhSU1hhQ1RFYVJTa9IBowJBVV95cUxQckxHdU83eTN6eXBpbnNZaFk0azNOV0lXUWUtbXZKTGtRZnBHMldxSDZiYU5OWHM4dGpSSUtlYmdTdERmUXVfNmYwZU5oWlRSZ1VzMFdZUG1Jakg3T0ZTY2lJU0Q2T3pZQ3hrSVdRSjEyWWRWT3ZWbTIwRzI1RmhQMl9mY0d6ME9BZktQVE9Md1Y4ZFQ4RkxSWEJEM2o4cms0MVZZLXdwcWRSVU1vcTJrUVRLbWVMamdUdXpyU0VaLVhJaWNoMDVJRFhHLWdLb1Nlc0lKTzJTdm1pRC1qR3puSUxNbnhEaGhoYXRUZjdjdjBRbUxDTDJuWmYzOV9aclFDRUVUYS1SUWsyS2JqLU9pdEVFbUpiZ1dMTW02WEtuU0FJcXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-03T16:09:51+00:00",
@@ -2458,8 +2438,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Bad Belzig - Barmer",
-      "summary_de": "BARMER Krankenkasse in Bad Belzig &nbsp;&nbsp; Barmer",
+      "title": "BARMER Krankenkasse in Bad Belzig - BARMER",
+      "summary_de": "BARMER Krankenkasse in Bad Belzig &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMkJCZW5rRmtrVjBxdHBVT2ZQVThWT2lDNnFMbzlHN2Y1RWN3OWRYV0JHR1otQm9hbkZIZGhMSzAwdlN0Yl8wRlJIRnNCcjVFYlJUWWROd3M5b2Jaek80clJ0Z2xsQlUySmxiRk9VTF9GTkN3Q0RKLWstWTRaUlAtSVFfX1JsenNEUDRVLWtlX250aFFIa05qNlBZS1BHVFdmUlJuVHlFZUNkZkNuaFV3S012Umt2WlA0VV9tWUUxNGlVN29lR1BEZFg5MA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-31T07:00:00+00:00",
@@ -2812,8 +2792,8 @@
       "type": "News"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-20T07:00:00+00:00",
