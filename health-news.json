@@ -1,8 +1,18 @@
 {
-  "generated_at": "2025-11-17T18:19:53.349594+00:00",
+  "generated_at": "2025-11-17T21:12:54.721879+00:00",
   "window_days": 42,
-  "count": 312,
+  "count": 303,
   "items": [
+    {
+      "title": "Diagnostic Imaging articles: Update",
+      "summary_de": "",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/new-ai-powered-point-of-care-ultrasound-platform-enhance-reporting-efficiency-compliance-",
+      "published_at": "2025-11-17T18:30:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Protonenpumpen-Hemmer: Zwischen Über- und Unterversorgung",
       "summary_de": "Sch&auml;tzungsweise 3,8 Milliarden Tagesdosen Protonenpumpen-Inhibitoren (PPI) wurden zuletzt verordnet &ndash; mindestens die H&auml;lfte ohne Indikation. Wann sind PPI bei Reflux oder Magengeschw&uuml;r indiziert und wann sollte man sie absetzen?",
@@ -443,16 +453,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbHVBczhrWC1lR0JzZG9jLWZWcDdibTZLSlBYaG8tY0k5TU8wSkFOYUVfOXpudGplS2hhbUpUTV9FYVJuMHlpM3d4aFo3QjJ2bFljdTlMN21rSG9ibmc0Z2NxMnY1b0tXTnhaaHMtSEJYX3FKdEowbzczLWpGWHJyWVkzN2F2dUJzMGJaVEs4b3BjdUVvOVZwTlpKanVXeTUyYmxUOHJBZTB2Y2VIdW1CSFQzY1RnTnJkOXVZRW1mdEVTbmg2TmZwMGtQdjlYY2s0UWJGR0FCTFRSbmFIMGNVRTIxX2FsN1BpZ25mVXg1NmYyX1JtM3RpRVc4RQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-16T23:05:23+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Worauf es bei der Pflege von Narben ankommt - FAZ",
-      "summary_de": "Worauf es bei der Pflege von Narben ankommt &nbsp;&nbsp; FAZ",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSlh3ZVZrZDB3WV9RTzJCYnZzVjc3VVVzYkowLWc0elBzb3lfSWdUdU50endFZE9VXzRfU1RKQTd3LXRsWUVQX1dYdjk2ZEp2ZU0yQXpHb0VVVmp3ci1NMGNvRDJvT2lrX1VSXzd1dmxZSHdMZkUtakJ1TGlsNUlZalFQQVl6LVliNE5vSDRiLUhNeV9YUE53eDA0WWpIRi1j?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-16T23:05:00+00:00",
-      "category": "Versorgung",
       "tags": [],
       "type": "News"
     },
@@ -1219,26 +1219,6 @@
       "type": "News"
     },
     {
-      "title": "Charité gründet Institut für Künstliche Intelligenz in der Medizin – News - Deutsches Ärzteblatt",
-      "summary_de": "Charité gründet Institut für Künstliche Intelligenz in der Medizin – News &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd19qUGhOZzBxR1BySGRmWlIwNjJFX2U5S1dtQkplX1NTdWZYNlRBVmdSYi1tX0hyZXhzMkhZYzFJNkQ5cHdYa2o5RFJhT2txT2I1S2dlWFZHcDJraUJmaWY3ZGhDN1NMbUpveG56VjZWa21MYVd6emVvbVdZVDM0Ynk3amxIb2xwSVFHU2U1Nzkyc0FmRTMwMEZ3Mi11R3BwQ0VEUmVPek04WGFpOXdnVTBrMkJHZDNhQkFyVkMwdkxYbVVuSVBSTWhZOTNJX0Vq?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-13T13:46:58+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Zusammenschluss: MV-Gesundheitsministerium genehmigt Klinik-Fusion - DIE ZEIT",
-      "summary_de": "Zusammenschluss: MV-Gesundheitsministerium genehmigt Klinik-Fusion &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN1htbFZxdjUwTGdoOFA1MHI3eVgzMjdZbUMxN1FBYWtCTVlDS1N3cTg0NmY3VkVCX0pyQ09aeE9tMlp4dlZBNmJrbjJDbEZxc1hwUEppZFhkdHJubnBkMTZFY2c5aWJfVXBkYWl2YlZvZEFKT2xNTnVMbldQbmNmWGd2Sm0wWmNzT0lRc2Jn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-13T13:21:45+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -1655,16 +1635,6 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-111-online/october-2025",
       "published_at": "2025-11-13T09:31:01+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Organtransplantation - Mehr Organspenden in Thüringen – Wartelisten bleiben lang - Gesundheit - SZ.de",
-      "summary_de": "Organtransplantation - Mehr Organspenden in Thüringen – Wartelisten bleiben lang - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQemY2RkNiSmR4UVBoTHlJYVYxUEh2TGZJalItVy1PdXBVRjB1eDJURlZkbDdiWEtXaWg3Zlk2RUlVVWphMzNMTE12RHAzT01ueU5UMERQZzM2MHBVc2ZMODh0V2ZlOVVrQTY4UXJNUkFaZ2FqbXRFa0dBai1uYnNnYXZzcmZLaVhlRl8xTmxjLUZkV1RzVUhYSThmcHNzQVVnZEhrUm5EQ1dyNjc4NkJaS2VubkZHdlFoUTFhcFNuOTF6cEtSYkl0RWY5MnVGWDU2MllQSHpNeHBmcUdHU1UtTWVoMGd2U3VzOGxWYzlzcnhqSkxUU1dibFlR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-13T09:30:10+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2210,32 +2180,22 @@
       "type": "News"
     },
     {
+      "title": "Sexuelle Aufklärung – Tipps für Eltern - DAK-Gesundheit",
+      "summary_de": "Sexuelle Aufklärung – Tipps für Eltern &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRmhIcFdvRXFIS3lub19LY3c5Y1VRSmlUQjRJWGJ1YVM0Ry1oZE93RUY2WWRjRmo2RFZCamZ2S3hZeTVBTWxHa05wYWx2ZWE4NUJYVWRTdTRlVWZwcnJKWFN6UmU2a1B3QXdiNkJ2TnlKTmJnTGszN2V6ZGhnUnBYejJPU040VHJlTnlUVFUzTk1mR0hsSVdLTEhoYndKLU9hSUcyag?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-06T20:29:59+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
       "source_url": "https://www.diagnosticimaging.com/view/nine-takeaways-from-new-review-of-psma-pet-ct-and-whole-body-mri-for-advanced-prostate-cancer",
       "published_at": "2025-11-06T18:19:00+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Schlehdorn: eine Heilpflanze, die es in sich hat - DAK-Gesundheit",
-      "summary_de": "Schlehdorn: eine Heilpflanze, die es in sich hat &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaHp0YWkyTkhhcmUtNlFnOFUwRzF3WWNwY1kzLUFnd1YxOHVvWTFWWHl0YXVMcU0zbnU2WnBISkp2VzVfbzNWcXBkdGExY2lzeHpQRFdEYVVKWWdfdmoydk9zcDVOOWFwN1luVzhlSXpFQm51dU1iSWxBUzBEclEzODgwc0F5LVpnWERpYU1hejg2ZWFF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-06T17:02:36+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Veganuary: Der vegane Januar - DAK-Gesundheit",
-      "summary_de": "Veganuary: Der vegane Januar &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb2ZJY2pNLWFPYWdxSEhzYmZ0M3N4VVYzVUFJWW9obHpUaVdURHJ4VWhjLTJkRmlwejhHUjhsaGlreHdPdlprY2hQdXd3YjNGdkpmNjlBNWItYk5oU1l2Q2xkeDJ6NWpnc0VwQ1NsQjE1ZUo1MXBFckxRMmlOUmJLNUR1djg2TzFyWTJJNVdFMVl5ZWo2Y0J1MzBnVFFKSEZ1?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-06T17:02:29+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2639,16 +2599,6 @@
       "type": "News"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/sirona-medical-gets-fda-nod-for-advanced-imaging-suite",
-      "published_at": "2025-10-31T11:27:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 27 - 30 October 2025",
       "summary_de": "New safety information for healthcare professionals &nbsp;Injectable tranexamic acid: serious adverse reactions when inadvertently given intrathecallyPRAC agreed on a direct…, Agenda Agenda of the PRAC meeting 27 - 30 October 2025Draft…, PRAC statistics: November 2025 , PRAC statistics: November 2025 English (EN) (104.68 KB - PDF)First…, Ongoing referrals ProcedureLevamisole-containing medicinal products, Glossary Safety signal assessments. A safety signal is information …",
       "source_name": "News and press releases",
@@ -2901,16 +2851,6 @@
       "type": "News"
     },
     {
-      "title": "Mit Laufen und Joggen die Gesundheit steigern - Die Techniker - Techniker Krankenkasse",
-      "summary_de": "Mit Laufen und Joggen die Gesundheit steigern - Die Techniker &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaTZrT2NwbERPQ25JWGo2X0JYMi1tZERabV9BTEJZaHpNanJWaEhmY09HTE5iME9lRG54SzFzNGxMZFp4c1Jqd25OZ1R4UXhrb2pjU2RoQ212OXVPRFY4c3pIdkRLX2tfeUVsUGZiUVpUeF8yQWRSLWpKeEh4WDk1dmwzRlZaMU8xdWk1UF9tUVpvek5IM3ZyaHNjVXNGWm1OMmk0ZmNCWWpYVVhqRTV3eThZTy1jXzZ6ZTNkM1FmWVhyMVloN2FlWg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-27T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Intratracheal instillation of corticosteroids combined with surfactant for preventing chronic lung disease in preterm infants",
       "summary_de": "Intratracheal instillation of corticosteroids combined with surfactant for preventing chronic lung disease in preterm infants",
       "source_name": "Cochrane Library RSS feed.",
@@ -2939,28 +2879,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "TK-RelaxZone - einfache Übungen für mehr Entspannung und innere Ruhe - Techniker Krankenkasse",
-      "summary_de": "TK-RelaxZone - einfache Übungen für mehr Entspannung und innere Ruhe &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQUhVT0JEdDUtWkR5OGJranBnVDR0NmdGWXV5Wi1DMEtQU1lUdmJ2aHV4cDBFY2NpaEFqOEtjVmhTS01lYU1uY0tMckVoamVXRVA3clN0UThhUGVCdUszeng1bXFYdGhlMEJyN3RUS1l0Tk1mUWQtR2oydUFDTmhQYVJXajFJWmZPSk9DdW5lSlU0aDExZFFvdEd6Y2VFZi1hLUd0Y3Fycw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-22T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Attraktiver Beitragssatz und ausgezeichnete Leistungen - DAK-Gesundheit",
-      "summary_de": "Attraktiver Beitragssatz und ausgezeichnete Leistungen &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdDRnbkpEUE5HQV9VQ1ZhdldESzQ0NDlpQ1V0LTJwbGRhY3dRWlI0YWpxV3U5U1cwX1daaFdyeWdDU3B1UEFlTmdKemstNGFIb0ZQM0lELTM0MjdpNVB0eHg4MWVMOWxKbzlOOVB3TERDSzJQc1pObW5oWV90VDlBOHJad2s3Y1pKYzFTcFVkZXF1MFpMYVN6WG1B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-22T07:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
     },
     {
       "title": "Steigende Gesundheitsausgaben: Krankenkassen-Ausgaben steigen - Abrechnungsbetrug in Pflege - DIE ZEIT",
@@ -2995,8 +2913,8 @@
       "type": "News"
     },
     {
-      "title": "Kolon in der Radiologie | CT-Kolonografie spürt Darmkrebs früher auf als FIT - springermedizin.de",
-      "summary_de": "Kolon in der Radiologie | CT-Kolonografie spürt Darmkrebs früher auf als FIT &nbsp;&nbsp; springermedizin.de",
+      "title": "Kolon in der Radiologie | CT-Kolonografie spürt Darmkrebs früher auf als FIT - SpringerMedizin.de",
+      "summary_de": "Kolon in der Radiologie | CT-Kolonografie spürt Darmkrebs früher auf als FIT &nbsp;&nbsp; SpringerMedizin.de",
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUUlSeXlZNFBWdUQzd0lkQU9MZlVCZlpqV3NVczJYTHAwa1g1WDl4ZlYtWHN1elBJWTkxNTIxbXplZGdJczB2NVNFblpMNDJrMEZFaGluR241MkZzUThWN1l2ai1hVTdaRHBnMURNdjF3TmtFNkQ5a3N6NW5mX0J0R0tSTDJ2V0hXbWMxajNmLTJ6aXIwaVhLVFFJWWVZMkR6Z25lLTNhUDFtU2dRZW8ydExlN0VidWtlNFdMdGdwX1VqM25UakYydVNJTktrcWN1?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-20T09:30:13+00:00",
@@ -3009,16 +2927,6 @@
       "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-20T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Was ist Calisthenics? Tipps und Übungen - DAK-Gesundheit",
-      "summary_de": "Was ist Calisthenics? Tipps und Übungen &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaY0RXQUROMk9oVVZLcVpzNWM3Wl91WGtJQUpyYzlHR1NZeEJHQ1ZvZHY5QnRGbE9OM0pXM1VRMWQzNjdhUEM2R1FIbXUtZTFReHVRQXhoMnRILS0xLURFdUtIQ3hZY3JJZ1o5NVBDOUV2TTA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-20T07:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -3090,11 +2998,11 @@
       "type": "News"
     },
     {
-      "title": "Was ist ein Verhütungspflaster? - DAK-Gesundheit",
-      "summary_de": "Was ist ein Verhütungspflaster? &nbsp;&nbsp; DAK-Gesundheit",
+      "title": "Wie hoch ist der Beitrag für Selbstständige? - DAK-Gesundheit",
+      "summary_de": "Wie hoch ist der Beitrag für Selbstständige? &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLVZlNnVhU1pfZ2RMV3Bja2FlcnFISXFyWWdBal8yZUN0VnpmMldjN3l6YTJpd0c5XzJlX3RndzNLb0U3ZU5FSFNmbmNGdV9TOUQzaFhlY1hoUXNmcUU4T2w2Y3VVZENEQk4zRTF3RkEza3RTUDJjSGdsWHNGR2NXRG5EM3R1b2J6VTJWTVNvRlRtbjF4bE1jUEFteFdrMEhaSEVJV0RkcEtFc0ZsZENzeDNOTkg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-14T07:00:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUUNKX0RvN3JWanplRTdPaE5nVFVfNUtPT1dfSE4yZGkzNDFMVzg4aGlhWnR5WmI2TXlweHpPaDc2YUVKRmFBSS1nWlFuaGV0eEs4MWdpUmIzN3B4dlpLU0hacWhYcUpUNVg0cmZLMEE2dUlwRHlHT0ZXRVZaWEhsTUQwMy1xdlVUbnV2TWZvMlNJajNrVzhQNTB4NGd4UDY5a0Vad0JjQ0lfLXpkY19yUVZaYUQzZDVoYTU4djFCQlQ1eEtuM0xzZ1NYNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-15T07:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
