@@ -1,14 +1,104 @@
 {
-  "generated_at": "2025-11-21T03:39:54.682746+00:00",
+  "generated_at": "2025-11-21T06:22:05.470477+00:00",
   "window_days": 42,
-  "count": 279,
+  "count": 283,
   "items": [
+    {
+      "title": "Gesundheit: Warum Mehrfach-Impfungen das Immunsystem nicht überfordern - DIE ZEIT",
+      "summary_de": "Gesundheit: Warum Mehrfach-Impfungen das Immunsystem nicht überfordern &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUXlncWcxNExRRVhUSnZSMDVEMUJsYUV6UzNtVlV0RGwzakwwbG02TW1Dc1NvdDZFREpLa3NqSFlTY0ZfUzhDT01FcndTaVBaSV92dncyM21XbTVFQy1pNU93U3V6d25WRzZUVmF2bTNiVW0tUXZaWUp4OGtaNFQ4bGVKb2J4RVhKcFlhVHVCX2gzXzRkZzN2QjVTWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-21T06:00:11+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit - Warum Mehrfach-Impfungen das Immunsystem nicht überfordern - Gesundheit - SZ.de",
+      "summary_de": "Gesundheit - Warum Mehrfach-Impfungen das Immunsystem nicht überfordern - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeDFBYm5rc2FreEVBWU82Z1BGSFVSeGYxZzIyNHI3THFFdG5rblg5WElCQVotS0J1NmxvTHQtRGIxWl84R2w0cGJvbWN5cEZuQ21sOXpseDhoX0licHM3YlVESktGVlRTSU9BZGtLVl9vc3lPZEU1RmtqYWV6V1k1YXZTd2lCR19xNkJjcFhkRk5BQ2k5OG9iRVdqYWFTdzREdEdpcEFNRlpXSmwzckZSd0VJZFo2MXprVzZXNDBJLTZVVlNORmRvSERtLUJvTFpyckdyRi1zZ0lHcmdpQ2EzbklTVDZSMWp5WmZ1cW1TWkI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-21T06:00:11+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
       "source_url": "https://www.diagnosticimaging.com/view/new-ai-powered-ultrasound-feature-enhance-planning-peripheral-iv-procedures",
       "published_at": "2025-11-20T19:50:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Structured reporting tool cuts CCTA interpretation time",
+      "summary_de": "An integrated structured reporting tool for coronary CT angiography (CCTA) could increase reader efficiency and reproducibility...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/imaging-informatics-preview/article/15772336/structured-reporting-tool-cuts-ccta-interpretation-time",
+      "published_at": "2025-11-20T18:59:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Can AI reduce radiation dose, improve workflow in chest CT?",
+      "summary_de": "In this talk, researchers will report on the benefits of AI-based automatic positioning and scan range for chest CT exams.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/imaging-informatics-preview/article/15772353/can-ai-reduce-radiation-dose-improve-workflow-in-chest-ct",
+      "published_at": "2025-11-20T18:58:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "LLMs perform well for annotating radiology reports",
+      "summary_de": "In this presentation, researchers will exhibit a framework for deploying LLMs in real-world radiology settings.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/imaging-informatics-preview/article/15772352/llms-perform-well-for-annotating-radiology-reports",
+      "published_at": "2025-11-20T18:57:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Good news, bad news about AI for knee MRI reports",
+      "summary_de": "Partial AI integration without workflow embedding came up short for reducing reporting time, according to this session's presenters...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/imaging-informatics-preview/article/15772337/good-news-bad-news-about-ai-for-knee-mri-reports",
+      "published_at": "2025-11-20T18:56:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "DICOM format 'ideal' for PACS in routine and high-volume clinical settings",
+      "summary_de": "This session focuses on PACS image storage and AI visualization in DICOM formats.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/imaging-informatics-preview/article/15772338/dicom-format-ideal-for-pacs-in-routine-and-highvolume-clinical-settings",
+      "published_at": "2025-11-20T18:55:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Integrated AI-PACS lightens chest imaging load",
+      "summary_de": "An integrated AI-PACS system could minimize workflow disruptions and reduce time to diagnosis for chest x-rays and CT exams.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/imaging-informatics-preview/article/15772341/integrated-aipacs-lightens-chest-imaging-load",
+      "published_at": "2025-11-20T18:54:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "What to do about imaging exam no-shows",
+      "summary_de": "Proactive, automated patient confirmation processes could help maintain scheduling efficiency and ensure high productivity.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/imaging-informatics-preview/article/15772342/what-to-do-about-imaging-exam-noshows",
+      "published_at": "2025-11-20T18:53:00+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -204,6 +294,16 @@
       "type": "News"
     },
     {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Erstmeldung Arzneimittel: Moxifloxacin Micro Labs 400 mg Filmtabletten pU: Micro Labs GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2025-11-20T12:10:01+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Brandursache unklar: Phoenix gibt Standort Freiburg nach Großfeuer auf",
       "summary_de": "Nach dem Gro&szlig;brand an seinem Standort Freiburg wird Gro&szlig;h&auml;ndler Phoenix den Betrieb nicht wieder aufnehmen. Der Geb&auml;udekomplex war Anfang Oktober durch das Feuer vollst&auml;ndig zerst&ouml;rt worden. Die Phoenix-Standorte Mannheim und Neuhausen &uuml;bernehmen die Versorgung",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -314,6 +414,16 @@
       "type": "News"
     },
     {
+      "title": "X-rays predict mortality following hip fracture surgery",
+      "summary_de": "Greater thigh muscle diameter on x-rays taken before surgery was linked to reduced odds of death.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15772433/xrays-predict-mortality-following-hip-fracture-surgery",
+      "published_at": "2025-11-20T09:09:29+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Kolbenpipetten: Die Dosierung fühlen",
       "summary_de": "Es gibt Arzneimittel, deren Dosierung eine Kolbenpipette erfordert. Die DAC/NRF-Infostelle hat nun eine Hilfestellung f&uuml;r Menschen mit Sehbehinderung erarbeitet.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -350,6 +460,26 @@
       "source_url": "https://www.ema.europa.eu/en/news/first-class-treatment-delay-onset-type-1-diabetes",
       "published_at": "2025-11-20T08:00:00+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "CT use in the emergency department has increased more than 2-fold",
+      "summary_de": "The use of head CT in the emergency department increased by 6.7% to 10.3% between 2007 and 2022, researchers have reported.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15772416/ct-use-in-the-emergency-department-has-increased-more-than-2fold",
+      "published_at": "2025-11-20T07:48:32+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Road to RSNA 2025: Imaging Informatics Preview",
+      "summary_de": "AI often makes headlines for its capabilities in image analysis, but perhaps its most significant impact is on workflow applications...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/imaging-informatics-preview/article/15772432/road-to-rsna-2025-imaging-informatics-preview",
+      "published_at": "2025-11-20T07:25:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -470,86 +600,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbF9TQ0FVQUJGcElIaXNkNTZtSEk3ay1MWVdSX3haNk01NEhYMzItekJLd0FDWWtnTW1xSzVoa0ZHckk0MU5ZdjNnNEs0UXpzRExFWENIc2JHVVhzeXlSVlB2M1ltTllEWktvR3BNUUpJaDhIQURvSU1pdTRnSXlTc3BOTHRoZF9MWEl0bWVMTHN5SEdjX3VRNzR5dUJSY00yczlrZnA4Zi1ENU5MNV9tcWY3ZFZiU1haZ3J2dGpEQUExUHNCMC1ueEduLUN2eWhaSUxneFN2bVVnbFRpWFVBWk95VmtvNXRuLVhUejdZcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-19T19:27:00+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Different breast cancer treatments lead to varied effects on heart health",
-      "summary_de": "Session attendees will learn how different chemotherapy regimens affect myocardial accumulation in breast cancer patients.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/molecular-imaging-preview/article/15772093/different-breast-cancer-treatments-lead-to-varied-effects-on-heart-health",
-      "published_at": "2025-11-19T18:59:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "AI-driven workflow delivers equitable breast cancer care",
-      "summary_de": "An AI-powered workflow increased cancer detection while not adding to disparities in race and breast density.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15772243/aidriven-workflow-delivers-equitable-breast-cancer-care",
-      "published_at": "2025-11-19T18:58:03+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Pentixafor PET/CT promising in patients with primary aldosteronism",
-      "summary_de": "Ga-68 pentixafor PET/CT shows high accuracy in detecting aldosterone-producing adenomas in patients with primary aldosteronism...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/molecular-imaging-preview/article/15772094/pentixafor-petct-promising-in-patients-with-primary-aldosteronism",
-      "published_at": "2025-11-19T18:58:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "New tracer may guide surgery in patients with PHPT",
-      "summary_de": "PET/CT imaging with the radiotracer gallium-68 trivehexin offers high sensitivity for detecting hyperfunctioning parathyroid tissue...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/molecular-imaging-preview/article/15772096/new-tracer-may-guide-surgery-in-patients-with-phpt",
-      "published_at": "2025-11-19T18:57:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "PET identifies risk of adverse events in Lu-177 PSMA treatment",
-      "summary_de": "Bone tumor volume is associated with adverse events in prostate cancer patients who received Lu-177 PSMA treatment, presenters...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/molecular-imaging-preview/article/15772097/pet-identifies-risk-of-adverse-events-in-lu177-psma-treatment",
-      "published_at": "2025-11-19T18:56:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "SPECT/CT predicts response to Lu-177 PSMA-617 treatment",
-      "summary_de": "Lu-177 PSMA-617 benefits patients with metastatic castration-resistant prostate cancer, but individual outcomes vary.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/molecular-imaging-preview/article/15772099/spectct-predicts-response-to-lu177-psma617-treatment",
-      "published_at": "2025-11-19T18:55:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "PET identifies reduced brain activity in ALS patients",
-      "summary_de": "F-18 FDG-PET/CT scans have linked reduced brain metabolism and survival in patients with amyotrophic lateral sclerosis (ALS).",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/molecular-imaging-preview/article/15772100/pet-identifies-reduced-brain-activity-in-als-patients",
-      "published_at": "2025-11-19T18:54:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "ChatGPT handy for ICD-10 coding of PET/CT reports",
-      "summary_de": "In centers that perform 30 PET/CT scans daily, ChatGPT could save clinicians an hour if used to assign ICD-10 codes to exam reports...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/molecular-imaging-preview/article/15772101/chatgpt-handy-for-icd10-coding-of-petct-reports",
-      "published_at": "2025-11-19T18:52:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -774,26 +824,6 @@
       "type": "News"
     },
     {
-      "title": "ACS: Only 1 in 5 eligible U.S. adults underwent LCS in 2024",
-      "summary_de": "If screening increased to 100%, an estimated 62,110 lung cancer deaths over five years would be prevented, the ACS reported.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15772301/acs-only-1-in-5-eligible-us-adults-underwent-lcs-in-2024",
-      "published_at": "2025-11-19T09:17:47+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Road to RSNA 2025: Molecular Imaging Preview",
-      "summary_de": "The green flag is up, and nuclear medicine and molecular imaging have plenty of fuel in their tank on the 2025 Road to RSNA.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/molecular-imaging-preview/article/15771840/road-to-rsna-2025-molecular-imaging-preview",
-      "published_at": "2025-11-19T07:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Consultation on the International Council for Harmonisation Guideline Q3E for Extractables and Leachables",
       "summary_de": "The MHRA is consulting with UK stakeholders to gather feedback and comments on an international guideline on the assessment and control of extractables and leachables.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -880,16 +910,6 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/statistics-on-public-health/2025",
       "published_at": "2025-11-18T14:54:42+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "152704 - DAK-Gesundheit",
-      "summary_de": "152704 &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtZy02ZmNfWnY5cTZ6ZmNJbExwdHl6dnVSclh4dEtCNTZIWmN5Zk1IUVRicEZjNWhvOXBnVnNBbUs0eTV3aDdSX096RDQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-18T14:26:49+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2090,6 +2110,16 @@
       "type": "News"
     },
     {
+      "title": "Ein Fünftel der Krebs­toten stirbt an krank­heits­be­dingter Mangel­er­näh­rung - nicht am Krebs selbst - Techniker Krankenkasse",
+      "summary_de": "Ein Fünftel der Krebs­toten stirbt an krank­heits­be­dingter Mangel­er­näh­rung - nicht am Krebs selbst &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaGhCMHhheTVrYkJEbjlPNnd1OGZFZkJFb1kyNU1Qb0JwVHNpcnJBOV9iY2NHNnZEdER0QUJpaEk3OWoxV0tJTDAzVFc0dWc0NlQ4Q0lnbjZYUVNsc19RM0hoVkZUcE1VU0dhRGRrYlgzRmhtdTZmZGY0amJMR0xXcEtHSXl6WDIxZzhTWFZ4VU9RcTVlaXk0bURveHAzNnpVMGJwZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-11T10:07:31+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "MHRA-led study reveals major inconsistencies in global microbiome research",
       "summary_de": "International collaboration establishes new quality standards to improve reliability of gut health studies – improving accuracy to provide better diagnosis and treatment.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -2146,6 +2176,16 @@
       "source_url": "https://www.diagnosticimaging.com/view/study-psma-pet-ct-changed-treatment-plans-for-over-a-third-of-men-with-prostate-cancer",
       "published_at": "2025-11-10T18:46:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Cancer Registration Statistics, England, 2023",
+      "summary_de": "This publication reports on newly diagnosed cancers registered in England during 2023. Information is supplied as: a summary report showing key findings; spreadsheet tables (counts and age-standardised rates); an interactive dashboard (counts, age-standardised rates, non-standardised rates and age-specific rates); and a methodology document.",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/cancer-registration-statistics/england-2023",
+      "published_at": "2025-11-10T17:44:24+00:00",
+      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -2215,16 +2255,6 @@
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZUxfTGZPamhjSUFQZ1FfZ1J3eUlDSGNNWktOU3BwekxBTUV6R19rbUgxR2hFNzFRckNMb2xZd3lZT3dyMGtGZUhSN2Q3ekdiUHNWbVBya05icmpBWlJ2RjF3YXo5c3c3NjVtMktMenBJdktTcS13WWpEMVFVam1aQVQ5ZUNrRmdOTGJlNnN1QWMxQmFSTEVJQTdreXRtTjBJZ3h4bUpzUUxTd2lEaVpLUWE0OExnUm9wd3l5SnVlTVBJa0doRzhiZmdORm1fZVlLZTVGTDFnVVhqRjVia0tHNjVSTUJCTDFKOG5yUg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-08T08:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Arzt / Facharzt Medizincontrolling Radiologie Köln-Kalk Stellenangebote - ärztestellen",
-      "summary_de": "Arzt / Facharzt Medizincontrolling Radiologie Köln-Kalk Stellenangebote &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRlNMeldwQ0tnbTZvdGZkbWx4MkNZRHctUDA3MXc2RDI0V3BlVlVJb3JBSmU4VDV6NHhjMllHeWRIRGVxS1NueUdYb1VTdXBpNjdDeC1LaDNRWnNTclZPU0ZCTUZOLWpVR1hYWVNKczhtazNQUF8tUkxaZ3EzSDl0TlZyVmdNRDlmZmFmWmN2eWdxVk1adHJHLVNEQlVqQjVUSVpLdA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-08T06:26:58+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -2607,16 +2637,6 @@
       "type": "News"
     },
     {
-      "title": "SACT Activity dashboard, October 2025 update",
-      "summary_de": "SACT Activity dashboard October 2025 update",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/sact-activity-dashboard/october-2025-update",
-      "published_at": "2025-10-30T10:05:44+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Semaglutide for adults living with obesity",
       "summary_de": "Semaglutide for adults living with obesity",
       "source_name": "Cochrane Library RSS feed.",
@@ -2741,6 +2761,16 @@
       "type": "News"
     },
     {
+      "title": "Welche Pflegeleistungen erhalte ich mit Pflegegrad 2? - Techniker Krankenkasse",
+      "summary_de": "Welche Pflegeleistungen erhalte ich mit Pflegegrad 2? &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV2UzMnc4RFYzSXZDUy1lX0w1a3ctRDJRTnZCV0hGb3d5b3VsVTNucWFWUzNLTmxQT05IaUl5ck9HX2NGamdGeEV6YjNsX1hRSFNEdVdOYVJ3S1cyZkVMREx3eXVuamZTRlZRN05qMUZjOTdOOGFhX1dSWXRjRHowbFRsUXRubHR2c3FQclJYN19TTzlMWEFnNkpwcnM1cTdLWXJsUzc0MDlvOEsyWkJXYVY5Tm50WmVJUVNXRXlDcTVqY2JlQWlmTEtncw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-20T11:44:51+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
       "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
@@ -2803,6 +2833,16 @@
       "tags": [
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Deinen Planer bestellen - DAK-Gesundheit",
+      "summary_de": "Deinen Planer bestellen &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Ya0tscEpIN3hTM21xa3FiSVprWHhEZHc4OERPZm1mMzBTUzJDU0tyWjROSjRkSGpCQ2R0QXlXUEh1eXJZZWlMRjY5cko0QS1uel9RWjhkbzM0M1JpRUxJaGVpX0dqelNuUkhKaE9vYnowXzg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-14T11:35:09+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
