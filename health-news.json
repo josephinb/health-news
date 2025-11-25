@@ -1,8 +1,28 @@
 {
-  "generated_at": "2025-11-25T18:21:53.678218+00:00",
+  "generated_at": "2025-11-25T21:13:21.682120+00:00",
   "window_days": 42,
-  "count": 295,
+  "count": 293,
   "items": [
+    {
+      "title": "Diagnostic Imaging articles: Update",
+      "summary_de": "",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/advances-in-ai-november-2025",
+      "published_at": "2025-11-25T19:16:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Streit auf Parkplatz: Lkw-Fahrer schwer verletzt in Klinik geflogen - tagesschau.de",
+      "summary_de": "Streit auf Parkplatz: Lkw-Fahrer schwer verletzt in Klinik geflogen &nbsp;&nbsp; tagesschau.de",
+      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTWJITEdvMXRDRTRweEEzWFY5ckpxa3FuYlBRZE1OZHFRLVZCTEV1aVpnMWV2T1VTdnpVZHJ5YWZHZDdDTWZhRDJHb29JRGtmd0Zjd0Z4eHVoeF9FTWNGZElFQXhKR1ZxNnpyMVQ5djAwNFI1VzVONWpGVGhVWjJCNS0wVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-25T18:47:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Vogelgrippe - Geflügelpest breitet sich im Landkreis Bautzen aus - Gesundheit - SZ.de",
       "summary_de": "Vogelgrippe - Geflügelpest breitet sich im Landkreis Bautzen aus - Gesundheit &nbsp;&nbsp; SZ.de",
@@ -334,6 +354,16 @@
       "type": "News"
     },
     {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: &#196nderungsmeldung Arzneimittel: Atorvastatin PUREN 40 mg Filmtabletten pU: PUREN Pharma GmbH & Co. KG",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2025-11-25T12:13:01+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gesundheit: Land bringt strengere Regeln für Raucher auf den Weg - DIE ZEIT",
       "summary_de": "Gesundheit: Land bringt strengere Regeln für Raucher auf den Weg &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -414,6 +444,26 @@
       "type": "News"
     },
     {
+      "title": "Does the shape of our buttocks signal diabetes?",
+      "summary_de": "In participants with type 2 diabetes, MRI showed that men had muscle shrinkage, while women showed enlarged muscles.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/article/15772472/does-the-shape-of-our-buttocks-signal-diabetes",
+      "published_at": "2025-11-25T10:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Imaging biomarker emerges as chronic stress measure",
+      "summary_de": "Adrenal volume acts like a \"biological barometer\" of chronic stress, according to Johns Hopkins researchers.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/article/15772241/imaging-biomarker-emerges-as-chronic-stress-measure",
+      "published_at": "2025-11-25T10:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Field Safety Notices: 17 to 21 November 2025",
       "summary_de": "List of Field Safety Notices from 17 to 21 November 2025.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -450,6 +500,26 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/drei-forderungen-fuer-die-apotheke-um-die-ecke-160722/",
       "published_at": "2025-11-25T08:10:33+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "New SPECT/CT tracer visualizes distribution of ALS drug",
+      "summary_de": "Tofersen was approved in April 2023, yet its biodistribution and regional brain uptake are not fully understood.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15772664/new-spectct-tracer-visualizes-distribution-of-als-drug",
+      "published_at": "2025-11-25T08:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Your network doesn't matter anymore",
+      "summary_de": "Agentic AI is rewriting the rules, according to PocketHealth Co-Founder and CEO Rishi Nayyar.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15772560/pockethealth-your-network-doesnt-matter-anymore",
+      "published_at": "2025-11-25T08:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -716,16 +786,6 @@
       "type": "News"
     },
     {
-      "title": "Größerer Rettungseinsatz - Pfefferspray an Schule – sechs Menschen in Klinik gebracht - Bayern - SZ.de",
-      "summary_de": "Größerer Rettungseinsatz - Pfefferspray an Schule – sechs Menschen in Klinik gebracht - Bayern &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdktCVkNYNW1jbTFneE9xa05QOEZxTHZrRnJaR3J6X1luV3lNZkxzQVlCUk41WEFRdGNDTDgyVjNsUUlxdk5Rc2h2SFhpWEFmek9CbzR0dFJ1VjBHN3lYOHlmVXNhMGxjVmw1b2drYkRuZG1Ua0NnazhLM1ZlWE1xRlNBTThHT0dRN2h4YnNTRTFFb1RZQVpNdjJMeDdITHc1SlZFTTNweUc3VmpiWDdITkgwejM0MzZLSWsxTllEQkJNOUJMbFQ2Yk9wNkl1Wkt4akFNZ21wUGF5STM5QndHUmdxRDMzS25XY3M5ZkdmOXRNWWo0aDZwTE1DVFg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-24T11:55:31+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Arzt erklärt's - Warum werden Zahnschmerzen nachts oft schlimmer? - Gesundheit - SZ.de",
       "summary_de": "Arzt erklärt's - Warum werden Zahnschmerzen nachts oft schlimmer? - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -778,16 +838,6 @@
       "type": "News"
     },
     {
-      "title": "Ratgeber Gesundheit: Was Sie zu Antibiotikaresistenzen wissen müssen - RP Online",
-      "summary_de": "Ratgeber Gesundheit: Was Sie zu Antibiotikaresistenzen wissen müssen &nbsp;&nbsp; RP Online",
-      "source_name": "\"site:rp-online.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb3poY1BiWk9ZSFplMG9oY2V5T1NBQ0ZTT1R4SXZkb0xsSlZRZGNYU1hYUzNGcFR3WkVQb1E1UnVDS1N3a2dvbHloLW1hTnp0QnlTQlA5NkdKa0t0YnZ0VWE4S0FYa0tmNGJqaW1qMl9aUHdOcWl6RDVJMFVZTHB3Tjh0QnAxVnRJWG55LVNfeG5OYUV6RS1NNkx4YUlaV0tsLTVsN2FkWmF4Sktoak1JYnkwN0tESW41NkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-24T09:13:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Field Safety Notices: 10 to 14 November 2025",
       "summary_de": "List of Field Safety Notices from 10 to 14 November 2025.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -822,7 +872,7 @@
     },
     {
       "title": "How are imaging modalities portrayed in movies?",
-      "summary_de": "Feature-length films often portray medical imaging in a negative light, including for MRI, ultrasound, and mammography.",
+      "summary_de": "Feature-length films often portray medical imaging in a negative light, including MRI, ultrasound, and mammography.",
       "source_name": "AuntMinnie",
       "source_url": "https://www.auntminnie.com/radiology-education/article/15772637/how-are-imaging-modalities-portrayed-in-movies",
       "published_at": "2025-11-24T08:47:40+00:00",
@@ -1091,26 +1141,6 @@
       "type": "News"
     },
     {
-      "title": "Microultrasound finds prostate cancers",
-      "summary_de": "In this session, attendees will learn the benefits of using microultrasonography for detecting prostate cancer.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/ultrasound-preview/article/15772475/microultrasound-finds-prostate-cancers",
-      "published_at": "2025-11-21T18:59:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Deep-learning model diagnoses pediatric lymphadenopathy",
-      "summary_de": "The approach achieved high marks in the noninvasive diagnosis of malignant pediatric lymphadenopathy, according to this presentation...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/ultrasound-preview/article/15772476/deeplearning-model-diagnoses-pediatric-lymphadenopathy",
-      "published_at": "2025-11-21T18:58:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Health Institution Exemption – Stakeholder survey",
       "summary_de": "The MHRA invites health institutions in Great Britain to share their experience of the health institution exemption (sometimes referred to as an in-house manufacturing exemption).",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1249,26 +1279,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRHY4VWVGNlNIaXhTaDU5aGxUSHBIOGwySWVaSkZhd09pV3Q3SHd2OUhFbzJsRHJSdERLak5pOWtySGFTaFJ5S3YyLUU0U3hHQXFHOVJ1TVUzNVhhaUNyNjlYMTdqOFhSNExWWlB5WWN2WXpvb3JtY0E3MDMzNDMxZnZYU0R4SVRmVkFJa2tUSldyNnlhZTZ6NzdrU2Q1TjJSd3ZhX2ZMVHdqdnhRMWk1MWdDNHFsZTVZRlJJR0MxbmpmczZXeHFrUVhVak5ZdnlkSnBHNTBsdEFOV1A4WG5KWEFLNWd0SEtCWUp5dTJjS1lPZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-21T09:30:05+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "House members reintroduce Find It Early Act",
-      "summary_de": "Members of the U.S. House of Representatives have reintroduced the Find It Early Act to remove barriers to breast imaging.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15772543/house-members-reintroduce-find-it-early-act",
-      "published_at": "2025-11-21T09:14:19+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Road to RSNA 2025: Ultrasound Preview",
-      "summary_de": "Ultrasound may not get as much love as other imaging modalities at RSNA, but its impact will still be felt at McCormick Place.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/ultrasound-preview/article/15772052/road-to-rsna-2025-ultrasound-preview",
-      "published_at": "2025-11-21T07:00:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1493,8 +1503,8 @@
       "type": "News"
     },
     {
-      "title": "Stellenanzeige: Mitarbeiterin / Mitarbeiter (m/w/d) Pflege - BARMER",
-      "summary_de": "Stellenanzeige: Mitarbeiterin / Mitarbeiter (m/w/d) Pflege &nbsp;&nbsp; BARMER",
+      "title": "Stellenanzeige: Mitarbeiterin / Mitarbeiter (m/w/d) Pflege - Barmer",
+      "summary_de": "Stellenanzeige: Mitarbeiterin / Mitarbeiter (m/w/d) Pflege &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wR3ZodEJoZXU2X3Rack9falRIeTFuZk9yQ0dfUjViWE9wT3lteTYzUVZ4eFBZZVplUVc2NENGdEx6eWZDcjJ5MEh4Ylc0TUZydWVnNEtRQjF1bEJtdlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-19T20:33:52+00:00",
@@ -1529,6 +1539,16 @@
       "source_url": "https://www.diagnosticimaging.com/view/mammography-study-multi-stage-ai-dbt-exams-over-21-percent-increase-breast-cancer-detection",
       "published_at": "2025-11-19T18:22:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Sozialwissenschaftler:in (m/w/d) für die Suchthilfeplanung / -prävention, Abt. Gesundheit, Landkreis Tübingen - SZ-Stellenmarkt",
+      "summary_de": "Sozialwissenschaftler:in (m/w/d) für die Suchthilfeplanung / -prävention, Abt. Gesundheit, Landkreis Tübingen &nbsp;&nbsp; SZ-Stellenmarkt",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOS2swSndkQUFGa3NMSUo3TFZkdERNRTdNaWZVb2tDbUMtZTFyR2tzTUd1V0g2ZEE4WExab2ljS1NEUnZwR1BUME4zQmNKcGNja21LUlI1WkszX1ZCSzJydVJpUl91a1lzWmphY1h1NUw2ajFkMUNCNnZkdENTTEJ0aHNadXlaYkNJOFFKY2xjdVVBUWZjOXdEdGU5Tm5YU0d3VXQzam4wWEhJRHNBNzFKVlJVa3BtbFdoMmd3Z1ZWSUQ4eG55b2pIQV95eUFUYjZxdmhXTl9tZVVuaWUzVFBfejJB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-19T17:51:23+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1599,6 +1619,16 @@
       "source_url": "https://www.efsa.europa.eu/en/podcast/episode-34-cost-origin-taste-what-influences-our-food-choices",
       "published_at": "2025-11-19T13:00:17+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Bekanntmachung über die 6. Sitzung des Verwaltungsrates der HEK - Hanseatische Krankenkasse und der HEK-Pflegekasse Die nächs - HEK",
+      "summary_de": "Bekanntmachung über die 6. Sitzung des Verwaltungsrates der HEK - Hanseatische Krankenkasse und der HEK-Pflegekasse Die nächs &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNERoWXdOUUg5MGdHWld2enBpTEJrdE10YWJZVHdiNmJvem1ZakNNazVzXzY2Yl9zMHJTV3l4RGJzLWNVeWdLWHNjejNNY2FmdnRHZEJWS21MYkxnb0JRX1NQblNhYnNGNjhUTlZWenhRUXpNUzl0NnU1b2RSSF9ZMXlFS1diZW5WSHZMYk5Pc0U0eEwzZk9relZEQmFVLUdJQWVUWDh4bnlhOGJhYlV0UU1INDhYNXlyMEZOTFVGNlU3RFVl?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-19T11:11:33+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2341,16 +2371,6 @@
       "type": "News"
     },
     {
-      "title": "Krankenhaus Reutte: Radiologie mit hochwertigem MRT aufgerüstet - MeinBezirk.at",
-      "summary_de": "Krankenhaus Reutte: Radiologie mit hochwertigem MRT aufgerüstet &nbsp;&nbsp; MeinBezirk.at",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQUVKaXRzVlRGSEtHZUZtQ2g4NHdCYjEyMFMzdkVWM2NYd3BYX3Ixd21BYmc0SzljdTRDWDZwQjcwUkFPT0dfTHZHU2tDdTA2bkhzVTY1ZmZ3X3pVdkZxbWktUFdZbkJPWURFeS1EZUllc21HREszbWZDSTBqRVFUcnZkRU9GcGRHNmJ3Z0VWaGpGeDk5aWhsLXhzcnE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-13T08:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Busulfan and melphalan (Bu‐Mel) versus carboplatin, etoposide, and melphalan (CEM) conditioning regimens for autologous haematopoietic stem cell transplant in children and young adults with high‐risk neuroblastoma",
       "summary_de": "Busulfan and melphalan (Bu‐Mel) versus carboplatin, etoposide, and melphalan (CEM) conditioning regimens for autologous haematopoietic stem cell transplant in children and young adults with high‐risk neuroblastoma",
       "source_name": "Cochrane Library RSS feed.",
@@ -2509,16 +2529,6 @@
       "type": "Studie"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/study-psma-pet-ct-changed-treatment-plans-for-over-a-third-of-men-with-prostate-cancer",
-      "published_at": "2025-11-10T18:46:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Cancer Registration Statistics, England, 2023",
       "summary_de": "This publication reports on newly diagnosed cancers registered in England during 2023. Information is supplied as: a summary report showing key findings; spreadsheet tables (counts and age-standardised rates); an interactive dashboard (counts, age-standardised rates, non-standardised rates and age-specific rates); and a methodology document.",
       "source_name": "Publication Feed",
@@ -2579,26 +2589,6 @@
       "type": "News"
     },
     {
-      "title": "Ernährungstipps - DAK-Gesundheit",
-      "summary_de": "Ernährungstipps &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IRnc3dUdTOE8wbEF5ck5UdTJmeTFaaWhyQWVMQ0hMVE5WaEM2bnZUUUZRMTdGZjZWUGs3V0dUVVNMcmFnTVRGRUNYcFZkQjVBekMzTnhJUTZCVFVqdUpxb1RCMUJzZi1Ed2xrb0tWczdSVDJlQjZhaS13?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-06T18:25:21+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Erziehung ohne Strafen – Plädoyer für ein wertschätzendes Miteinander - DAK-Gesundheit",
-      "summary_de": "Erziehung ohne Strafen – Plädoyer für ein wertschätzendes Miteinander &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOFlRVzFGT3Q0TmZUWFlfZ2FLbkxXWnNfUUhRc3FQSVMzUjVUWEhvS09waUVqVXFPRndXVHhoM3k2SmNjZ0NlMXEzUWpxYnN4cVhmZ214STNBTWRiM2ZSbzVsNVp5U0tjX190RGNnQnRGb3FrYXVCX21UdkNUTHk1ZFVUb2FxajZ3RXdJLWtyZl9tLV9kWE0wYjY2bWtMcmZLR0VqY2JidEY3aWdJSGg1VDcxMXBaTzZNek9XNVJPdnRkVDVqVWlvRG5ITEttc3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-06T17:28:54+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "vdek und DigitalPakt Alter verkünden Partnerschaft",
       "summary_de": "Der Verband der Ersatzkassen e. V. (vdek) ist neuer Partner des DigitalPakt Alter. Mit dem Beitritt will der vdek die digitale Gesundheitskompetenz älterer Menschen gezielt fördern und dazu beitragen, ihre gesellschaftliche Teilhabe in einer zunehmend digitalisierten Welt zu stärken. Mit dem vdek schließt sich erstmals ein Akteur aus dem Gesundheitswesen der Initiative an.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -2647,16 +2637,6 @@
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/bekanntgabe-gkv-zusatzbeitragssatz.html",
       "published_at": "2025-11-06T09:19:42+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Betriebliche Gesundheitsförderung - Techniker Krankenkasse",
-      "summary_de": "Betriebliche Gesundheitsförderung &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUXlXU3lyb0ZSQ0ViRGRLY042Zko3MnBjR2hNVjExQjU2d0djbGkycG9VeHVfSzNobU84TGtXek9jR195MFRBUkRyMHc4aXRZanQ5X2lTSElOMWlxN1hZUThOVU42Yk9nblcyUHEwSU9PcG9BZ0EzTm9Gbl9ZcU1aaGlETFhfVDBCZzJ1aXVTdmw5MVIxVUVaOWdIbHVXOXJTajVN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-06T08:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2754,16 +2734,6 @@
       "type": "News"
     },
     {
-      "title": "Ambulante Zusatzversicherung HanseMerkur für DAK-Versicherte - DAK-Gesundheit",
-      "summary_de": "Ambulante Zusatzversicherung HanseMerkur für DAK-Versicherte &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSlhqZHhRRTMwdmpBaXFoSzc5dkJXZ011ZUxxNWphczJPbjNvVmU3MVloNDg3ZVdVa0NxS0xNc2Fxc2hHbFpWM1pFR1ZELUNQQ0pwY2FLWTNyUXU0MW1wV0lweWx0Z3R6cENWUVpSTzBOd3QyeVBtOV91bE1IRTNhX3YtalFBRjdHSXRpUmZkSUVZczdUMGFWbTdUTElfcjA4Tks5d3haWDZsdHM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-04T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheitspolitik: Niedersachsen will Gesetz für psychisch Kranke reformieren - DIE ZEIT",
       "summary_de": "Gesundheitspolitik: Niedersachsen will Gesetz für psychisch Kranke reformieren &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
@@ -2856,31 +2826,21 @@
       "type": "News"
     },
     {
-      "title": "Themenwelten - Das Evangelische Krankenhaus Wesel eröffnet das Bauchkompetenzzentrum Niederrhein. Es ist eine zentrale Anlaufstelle für Menschen mit akuten und chronischen Erkrankungen des Magen-Darm-Traktes. - RPO - Rheinische Post - RP On",
-      "summary_de": "Themenwelten - Das Evangelische Krankenhaus Wesel eröffnet das Bauchkompetenzzentrum Niederrhein. Es ist eine zentrale Anlaufstelle für Menschen mit akuten und chronischen Erkrankungen des Magen-Darm-Traktes. - RPO - Rheinische Post &nbsp;&nbsp; RP Online",
-      "source_name": "\"site:rp-online.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNUnZ0ZUNJVWxFSU50Sy1BWGFmV3AyOHlFejZ4UTg1a01paTg4ZXBKVlpabzFia0tGQXR6QnB1TmdNb09jcGVxZlB5bl9vS204R2k0LTAwcWlSUGZKZUhjUUVXSWdKREZTU2JoQm9tT3M5YXRzb0VTbE9GOFFwTzhVVWpLdk8zSkNzeDdaZS00TVFBVzVDemw5bHhtemFqMG1zeHQyeTFSS2JlUWFESGF5ODBDdElFekxfNjBEb0J1NDN6YWlxa0JtLUFqNzhMdWU3OW5FRTVGTjM1LXJlY2hpMi1lZjkwYkxKSGIzTldFQklMY2NpMkRxam5ma3dsR1F1UkNWYzdqZ3djTWdkX0k2QmlCbHN6LXo2UVRORlhFQktiMWdnOEdJc05JZmlRUlVrZnEwcndqZHU1OWZnY2lqc2gySV93dXpDRXV3Uy1ZSFlaSVBiVnlDX21nN3lrbkJITVV0Ri1QNEwtUjJzR2Rkc3FYb2dJeXJOaEtQQktEUDNLMEpmQUxkdg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-30T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Wie hoch sind meine Beiträge zur Kranken- und Pflegeversicherung in der Rente? - Techniker Krankenkasse",
-      "summary_de": "Wie hoch sind meine Beiträge zur Kranken- und Pflegeversicherung in der Rente? &nbsp;&nbsp; Techniker Krankenkasse",
+      "title": "Empathisch sein: Warum Mitgefühl so wichtig ist - Techniker Krankenkasse",
+      "summary_de": "Empathisch sein: Warum Mitgefühl so wichtig ist &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOSHEyb1RWeVNnTUNqb29NeDdmUmh1aHZfc2NyekpVTEY0TWdVcjBhcmROQlMxTUR2aTkweEhUc0hScjNTcnRFTnhfU3dqcWpFQW5EX1lvMUVOVUNVYnYtQjdXQUQ5aUM4YTg5R0R6LWF6WmlxSDN1eXpkMDNGdTJ0Zk8xRURmcXJUMnFWM19Cb1BUSk1TSmhETk5FenNYQVc1aTh5X25qaThia2JRMkh6MkNsUno4MEI5bGdTT0hmQ3Y1djlaNTZ0WUU5dlhwX1Z2aXNwTjNocjI1Z0lXS0JiWGt3TDZJTEhCUGgtMVVYek0ya210SzVRSVc2SDQ3UWhwcFV2SGdLWlZJb3Q5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNclhOM0NueHU3d0o5eWtyWldQQVQ5dVMxM0dMc05ENU85emYwbUY0OTJOa1dCczBhaUk3WUtaS0ZwVzZvMXMxcXlXWFBtNk9NVVA3aTRGeHFhMUw4UjM4X0JMdEdVSWNraEhVdEdDcldadWFJMG03UW9GbmRCX0x0d29oV3U3OVQzZ0VBS2xNUXdfS2tJNDcwcUxPOGx0bUpWU3VRdjhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-29T07:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "TK-Doc - die App mit dem Doktortitel - Techniker Krankenkasse",
-      "summary_de": "TK-Doc - die App mit dem Doktortitel &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU2w5RGtwaVU2WmZjaGJhNkxwcDBSd0lBZWZhTWlIOTBSdGVNVWlySVN2T0RMbmZCQVAzdVF5bTd3LUI2dVFJYjA5V3pzZFhZU2dTdDlCM0pVbUNtUzRMdXNaOXFOTXp1RElDcGlLTkxRYWVsbkxWaE1SNlNEcDB0YVYxRFVVWHNOOFR4TDhqbktGTVo2NXJRYTFOdkV6a3lBTFBFdWpn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-28T07:00:00+00:00",
+      "title": "Testosteronmangel: Ursachen, Symptome und Hilfe - DAK-Gesundheit",
+      "summary_de": "Testosteronmangel: Ursachen, Symptome und Hilfe &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNblpPdk1tNUY0NHNQTm5XcGlWWjNxM2tUQlRMeWNwQlVTdkFRcGJ2RXdneUJPSDB3QUdRUGY4VkxFVHVDN3BJQlpnaFJyNlBicV9OU1h5Nk9oWFJ0ME9XLUpjQ2g4RHhBeW0tWEtOR0xwQW1OS0M2LVlJYUU4bGdPUE10YjhZcjJpWHNhVW9KeXQ3WWdlWlN6U21DU3hTaF9rTVdFbA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-29T07:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -2913,6 +2873,26 @@
       "source_name": "\"site:tk.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa2tidkR6VVpnOEdnckROY2RMZzNmSC1ZN0lXTHVORkJQUDEwUzAweG9nWUtkS0F2WUpmNnhJYmxHalhNSEc4UjFJcW9QcF9MVDhMOXZuSkVwTXZZRVhxMWE2MVdOTXJTVWhFbjUtbXMwd3IycnVJMGZQclJaWDQ5ZER6X3lGd1ZlanNOVV96WlFZemgwcnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-27T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Welche Daten stellt die DAK in meine ePA ein? - DAK-Gesundheit",
+      "summary_de": "Welche Daten stellt die DAK in meine ePA ein? &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ2Q2VEdFUVdILS1BQVB5V3lkaUZWZ1ByOTVvcEdldFdpRjF2OWVZSzg2YW5WM09KZVoydV9INVFXVkJQMURhNHp5b0JCNEJ4bzAyZUdmdUp0UEgyR0cxckowQ1BCQktsT05VU21IRWMycHpvUlVaMy1zUkhWSWh6azUyNU1VUHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-22T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Welche Pflegeleistungen erhalte ich mit Pflegegrad 2? - Techniker Krankenkasse",
+      "summary_de": "Welche Pflegeleistungen erhalte ich mit Pflegegrad 2? &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV2UzMnc4RFYzSXZDUy1lX0w1a3ctRDJRTnZCV0hGb3d5b3VsVTNucWFWUzNLTmxQT05IaUl5ck9HX2NGamdGeEV6YjNsX1hRSFNEdVdOYVJ3S1cyZkVMREx3eXVuamZTRlZRN05qMUZjOTdOOGFhX1dSWXRjRHowbFRsUXRubHR2c3FQclJYN19TTzlMWEFnNkpwcnM1cTdLWXJsUzc0MDlvOEsyWkJXYVY5Tm50WmVJUVNXRXlDcTVqY2JlQWlmTEtncw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-20T11:44:51+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
