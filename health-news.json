@@ -1,8 +1,240 @@
 {
-  "generated_at": "2025-11-27T12:29:25.545049+00:00",
+  "generated_at": "2025-11-27T15:14:37.571430+00:00",
   "window_days": 42,
-  "count": 293,
+  "count": 300,
   "items": [
+    {
+      "title": "PZ Briefing: Die Top-News vom 27.11.2025",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-27112025-160831/",
+      "published_at": "2025-11-27T15:02:09+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Arzneimittelrisiken: Keine Rote-Hand-Briefe mehr direkt an Klinikärzte",
+      "summary_de": "Rote-Hand-Briefe werden ab dem 1. Januar nicht mehr an Krankenhaus&auml;rztinnen und -&auml;rzte verschickt. Krankenhausapotheken und klinikversorgende Apotheken sollen das leitende &auml;rztliche Personal &uuml;ber die Inhalte informieren.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/keine-rote-hand-briefe-mehr-direkt-an-klinikaerzte-160830/",
+      "published_at": "2025-11-27T15:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "BMG-Haushalt beschlossen: Mehr für Pflege, Kassenbelastungen »abgefedert«",
+      "summary_de": "Der Bundestag hat den Bundeshaushalt f&uuml;r 2026 in der Schlussabstimmung beschlossen &ndash; einschlie&szlig;lich des Einzelplans f&uuml;r das Bundesgesundheitsministerium (BMG). Mehr Geld als vorgesehen gibt es f&uuml;r die Pflege, f&uuml;r die Krankenkassen gibt es ein Darlehen in H&ouml;he von 2,3 Milliarden Euro.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/mehr-fuer-pflege-kassenbelastungen-abgefedert-160829/",
+      "published_at": "2025-11-27T14:40:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Erstmeldung Arzneimittel: Zyprexa 2,5 mg &#252berzogene Tabletten - OP70(Blister) pU: Cheplapharm Registration GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2025-11-27T14:39:55+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Lungenkrebs: US-Zulassung für Sevabertinib",
+      "summary_de": "Innerhalb kurzer Zeit wurden in den USA zwei Kinasehemmer f&uuml;r den Einsatz beim HER2-mutieren Lungenkarzinom zugelassen&nbsp; &ndash; im Sommer Zongertinib, vor wenigen Tagen nun Sevabertinib.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/us-zulassung-fuer-sevabertinib-160822/",
+      "published_at": "2025-11-27T14:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Streit um Kammerbeiträge: Aufgeschoben ist nicht aufgeschoben",
+      "summary_de": "Im Beitragsstreit bei der Apothekerkammer Nordrhein (AKNR) scheinen die Fronten verh&auml;rtet. Der Anwalt der Kammer nimmt die im Namen der Apotheken klagenden Kollegen aufs Korn, diese wittern eine bewusste Irref&uuml;hrung der Kammermitglieder.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/aufgeschoben-ist-nicht-aufgeschoben-160827/",
+      "published_at": "2025-11-27T14:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "NHS Staff Earnings Estimates, August 2025",
+      "summary_de": "This report shows average annual earnings for the following four earnings measures, provisionally showing overall figures for the NHS HCHS workforce (excluding primary care staff) in England in NHS Trusts and other core organisations in England and NHS Support Organisations and Central Bodies.Mean annual basic pay per FTE – is the mean amount of basic pay paid per 1 full-time …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-staff-earnings-estimates/august-2025",
+      "published_at": "2025-11-27T14:19:34+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Submissions via Online Consultation Systems in General Practice, October 2025",
+      "summary_de": "This publication provides information about the number of clinical or administrative submissions that general practices receive from their patients via Online Consultation Systems. This information is published monthly and includes practice-level data about system availability and usage.Data is included for the following measures:• Practices: The total count of practices along with the number of practices known to have an Online …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/submissions-via-online-consultation-systems-in-general-practice/october-2025",
+      "published_at": "2025-11-27T14:18:41+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Primary Care Network Workforce, 31 October 2025",
+      "summary_de": "Primary Care Networks were created in July 2019 to provide accessible and integrated primary, mental health, and community care for patients. The bulk of the PCN workforce consists of Direct Patient Care staff, funded by the Additional Roles Reimbursement Scheme (ARRS), and each PCN has the flexibility and autonomy to determine which roles are required to meet the specific needs …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/primary-care-network-workforce/31-october-2025",
+      "published_at": "2025-11-27T14:17:36+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "NHS Vacancy Statistics England, April 2015 - September 2025, Experimental Statistics",
+      "summary_de": "This is the latest compendium publication in the NHS Vacancy Statistics series containing vacancy related data for the NHS which provide different views on recruitment information for the NHS.Data from NHS Jobs, the Electronic Staff Record (ESR) and Trac Recruitment Management Software (Trac) provide a range of proxy data sources for NHS vacancies. The series also includes management information related …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-vacancies-survey/april-2015---september-2025-experimental-statistics",
+      "published_at": "2025-11-27T14:16:10+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "NHS Sickness Absence Rates, July 2025",
+      "summary_de": "This report shows monthly sickness absence rates of NHS Hospital and Community Health Services (HCHS) staff working in NHS Trusts and other core organisations and NHS Support Organisations and Central Bodies. Data is presented by NHS England region, ICS area, organisation, organisation type, staff group and reason for sickness absence. We welcome feedback on the methodology and tables within this …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-sickness-absence-rates/july-2025",
+      "published_at": "2025-11-27T14:15:26+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "General Practice Workforce, 31 October 2025",
+      "summary_de": "The General Practice Workforce series of Official Statistics presents a snapshot of the primary care general practice workforce. A snapshot statistic relates to the situation at a specific date, which for these workforce statistics is now the last calendar day each month.This monthly snapshot reflects the general practice workforce at 31 October 2025. These statistics present full-time equivalent (FTE) and …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/general-and-personal-medical-services/31-october-2025",
+      "published_at": "2025-11-27T14:13:58+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Cloud Based Telephony Data in General Practice, October 2025",
+      "summary_de": "This publication provides information about the number of cloud based telephony calls received by general practices. This information is published monthly and includes practice-level data.The publication will present a high-level time series from October 2024 onwards, showing monthly counts grouped by day and time of call of:• The total count of practices included in this publication• The total number of …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/cloud-based-telephony-data-in-general-practice/october-2025",
+      "published_at": "2025-11-27T14:13:12+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Appointments in General Practice, October 2025",
+      "summary_de": "The aim of the publication is to inform users about activity and usage of GP appointments historically and how primary care is impacted by seasonal pressures, such as winter. NHS England publishes this information to support winter preparedness and provide information about some activity within primary care. The publication covers historic appointments, marked as attended or did not attend, from …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/october-2025",
+      "published_at": "2025-11-27T14:12:05+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Diagnostic Imaging articles: Update",
+      "summary_de": "",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/deep-learning-software-3d-mammography-reconstruction-fda-premarket-authorization",
+      "published_at": "2025-11-27T14:12:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Adult Psychiatric Morbidity Survey: Survey of Mental Health and Wellbeing, England, 2023/4",
+      "summary_de": "This survey screened for a range of mental health conditions, including common mental health conditions (using the CIS-R), attention deficit hyperactivity disorder (ADHD, ASRS), posttraumatic stress disorder (PTSD, PLC-C), signs of dependence on drugs and alcohol (AUDIT), gambling harms (PGSI), personality disorder (SAPAS, SCID-II Q) and bipolar disorder (MDQ). Clinical examinations assessed autism (ADOS), psychotic disorders (SCAN) and eating disorders …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/adult-psychiatric-morbidity-survey/survey-of-mental-health-and-wellbeing-england-2023-24",
+      "published_at": "2025-11-27T14:11:08+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "MHRA Safety Roundup: November 2025",
+      "summary_de": "Summary of the latest safety advice for medicines and medical device users",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-november-2025",
+      "published_at": "2025-11-27T14:05:40+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Versorgung: Städte nehmen Apothekenschwund wahr",
+      "summary_de": "Die sinkenden Apothekenzahlen m&ouml;gen abstrakt klingen &ndash; in den St&auml;dten kann sich der Schwund aber ganz konkret zeigen, wie unl&auml;ngst T&uuml;bingens Oberb&uuml;rgermeister Boris Palmer beklagte. Auch andere St&auml;dte nehmen den R&uuml;ckgang wahr.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/staedte-nehmen-apothekenschwund-wahr-160804/",
+      "published_at": "2025-11-27T14:00:00+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit: Krebsvorsorge: Mehr Untersuchungen, aber Luft nach oben - DIE ZEIT",
+      "summary_de": "Gesundheit: Krebsvorsorge: Mehr Untersuchungen, aber Luft nach oben &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdXJrdGswdm9aam9UV1RUS2FoUlJSQk1YVmd4azJGUENaeXlQZC15bjEyRWxDWGJVcE9NeWtEZzBHRmpZbGo2SGdXLVVnQk5ZaUMzS3d5bHpyaW1QQ0ptX0pWY0Q4cEpUUW1mQkRkbUlyVTlYa19HN0xGWnV2NGd4MTNoRWFwbVFaZjRlb3I0eWZzdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-27T13:57:13+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit - Krebsvorsorge: Mehr Untersuchungen, aber Luft nach oben - Bayern - SZ.de",
+      "summary_de": "Gesundheit - Krebsvorsorge: Mehr Untersuchungen, aber Luft nach oben - Bayern &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWlJ3dGx0Tk9BZTRXeHVMN0tpZ2FNNTlqdlBKRXF3YlNGTDlJNXlZWUt0dzdmU0ljT0lyN3djN1JJRE9UaklZWG9KQ21IdVg3TDNibHk1a1B4X3ZvejFDTXlHejhlZ2syZG9fcHBoejJpc202YVFVMFo1eWVLWkhGQXd2VlVveWNBVVJfWVp1b25QT1F5ZFBka2Q3MnZHOVBEQUdCRXlHUURMOFBvUERDOWZPRkl1dFVtc282NkJheHBWUjloSFZGRnJtQXlpdXZLSWl5TFRPaG9DLXVkZDZFcjcxUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-27T13:57:13+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Apothekenreform: Kopiert Warken Lauterbach?",
+      "summary_de": "Am Mittwoch wurde in Berlin &uuml;ber die Apothekenreform und die digitale Zukunft der Arzneimittelversorgung diskutiert. Die Bundestagsabgeordnete&nbsp;Paula Piechotta (B&uuml;ndnis 90/die Gr&uuml;nen) sieht in der geplanten Reform eine Fortsetzung der &Auml;ra Lauterbach.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/kopiert-warken-lauterbach-160820/",
+      "published_at": "2025-11-27T13:12:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Rheinland-Pfalz: Zwei Großeinsätze der Feuerwehr in Reha-Klinik von Bad Sobernheim - tagesschau.de",
+      "summary_de": "Rheinland-Pfalz: Zwei Großeinsätze der Feuerwehr in Reha-Klinik von Bad Sobernheim &nbsp;&nbsp; tagesschau.de",
+      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYmlPd3ducHBDWmtlM2YyLTcxWlVPbUJDcFNhVzduYnZoTmVrcE1aN0hvS0tneW5aOUp3elhkQ2lTNi1YSU9HRk84VlROZnN1bXpDc1NONl96NGhfdVR3MEpPR2JxZldhdXhnNVNvTVRzWThzeVd4UWxnZWl1YWpodjBKN0tWcUFnS2J2bTZ2RXZTN2xfTW9UeEZmeVVYekNwQlBGaVVsNTkwTlMxNjBnZWdCS1JyUXpGTnozZEFrbVk1aWZzVlF4dEdDTC1pV1FjM1RB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-27T13:04:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Class 4 Medicines Defect Notification: Special Concept Development UK Limited, Baclofen 10mg Tablets, EL(25)A/51",
+      "summary_de": "Special Concept Development UK Limited has informed the MHRA that the Patient Information Leaflet (PIL) for the batches listed in this notification do not contain the correct safety information.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/drug-device-alerts/class-4-medicines-defect-notification-special-concept-development-uk-limited-baclofen-10mg-tablets-el-25-a-slash-51",
+      "published_at": "2025-11-27T13:03:38+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Bundesqualitätsbericht und Qualitätsreport 2025 veröffentlicht: Ergebnisse der datengestützten Qualitätssicherung im neuen Format",
       "summary_de": "Berlin, 26. November 2025 – Das IQTIG hat seinen Bundesqualitätsbericht (BQB) 2025 veröffentlicht. Darin berichtet das Institut über die Ergebnisse der Qualitätssicherungsverfahren (QS-Verfahren) aus der „Richtlinie zur datengestützten einrichtungsübergreifenden Qualitätssicherung“ (DeQS‑RL) auf Bundesebene. Zusätzlich stellt das IQTIG in diesem Jahr wieder den Qualitätsreport bereit. In einem modernisierten Layout werden in kurzer und verständlicher Form die Inhalte des Bundesqualitätsberichts zusammengefasst.",
@@ -16,12 +248,22 @@
       "type": "News"
     },
     {
-      "title": "Submissions via Online Consultation Systems in General Practice, October 2025",
-      "summary_de": "This publication provides information about the number of clinical or administrative submissions that general practices receive from their patients via Online Consultation Systems. This information is published monthly and includes practice-level data about system availability and usage.Data is included for the following measures:• Practices: The total count of practices along with the number of practices known to have an Online …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/submissions-via-online-consultation-systems-in-general-practice/october-2025",
-      "published_at": "2025-11-27T11:56:06+00:00",
+      "title": "Neuer Bericht: HIV-Erkrankungen in Europa oft erst spät erkannt",
+      "summary_de": "Mehr als die H&auml;lfte aller HIV-Diagnosen in Europa wurden im vergangenen Jahr zu sp&auml;t f&uuml;r eine optimale Behandlung gestellt. Testl&uuml;cken m&uuml;ssten geschlossen werden &ndash; auch durch einen besseren Zugang zu Selbsttests.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/hiv-erkrankungen-in-europa-oft-erst-spaet-erkannt-160818/",
+      "published_at": "2025-11-27T13:00:00+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Topische Testosteron-Substitution: Kuscheln als Risikofaktor",
+      "summary_de": "Bei der Testosteron-Substitution gilt die transdermale Gabe per Gel als bevorzugte Applikationsweise. Die Anwendung ist jedoch nicht trivial. Es kann zur unbeabsichtigten transkutanen &Uuml;bertragung auf Kontaktpersonen und Haustiere kommen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/kuscheln-als-risikofaktor-160809/",
+      "published_at": "2025-11-27T12:30:00+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -66,26 +308,6 @@
       "type": "News"
     },
     {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: &#196nderungsmeldung Arzneimittel: Tacrolimus AL 3 mg Hartkapseln, retardiert pU: ALIUD PHARMA GmbH",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2025-11-27T10:47:48+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Cloud Based Telephony Data in General Practice, October 2025",
-      "summary_de": "This publication provides information about the number of cloud based telephony calls received by general practices. This information is published monthly and includes practice-level data.The publication will present a high-level time series from October 2024 onwards, showing monthly counts grouped by day and time of call of:• The total count of practices included in this publication• The total number of …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/cloud-based-telephony-data-in-general-practice/october-2025",
-      "published_at": "2025-11-27T10:33:55+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Rauschtrinken rückläufig - Weniger Jugendliche mit Alkoholvergiftung in Krankenhäusern - Gesundheit - SZ.de",
       "summary_de": "Rauschtrinken rückläufig - Weniger Jugendliche mit Alkoholvergiftung in Krankenhäusern - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -126,16 +348,6 @@
       "type": "News"
     },
     {
-      "title": "NHS Vacancy Statistics England, April 2015 - September 2025, Experimental Statistics",
-      "summary_de": "This is the latest compendium publication in the NHS Vacancy Statistics series containing vacancy related data for the NHS which provide different views on recruitment information for the NHS.Data from NHS Jobs, the Electronic Staff Record (ESR) and Trac Recruitment Management Software (Trac) provide a range of proxy data sources for NHS vacancies. The series also includes management information related …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-vacancies-survey/april-2015---september-2025-experimental-statistics",
-      "published_at": "2025-11-27T09:31:52+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Diagnostic imaging dataset for July 2025 and Annual for 2024/25",
       "summary_de": "The Diagnostic Imaging Dataset (DID) is a central collection of detailed information about diagnostic imaging tests carried out on NHS patients, extracted from local Radiology Information Systems (RISs) and submitted monthly.The DID captures information about referral source and patient type, details of the test (type of test and body site), demographic information such as GP registered practice, patient postcode, ethnicity, …",
       "source_name": "Publication Feed",
@@ -148,41 +360,11 @@
       "type": "News"
     },
     {
-      "title": "General Practice Workforce, 31 October 2025",
-      "summary_de": "The General Practice Workforce series of Official Statistics presents a snapshot of the primary care general practice workforce. A snapshot statistic relates to the situation at a specific date, which for these workforce statistics is now the last calendar day each month.This monthly snapshot reflects the general practice workforce at 31 October 2025. These statistics present full-time equivalent (FTE) and …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/general-and-personal-medical-services/31-october-2025",
-      "published_at": "2025-11-27T09:31:41+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Primary Care Workforce Recruited through the Additional Roles Reimbursement Scheme (ARRS), 1 October 2024 – 31 October 2025 [Management Information]",
       "summary_de": "Additional funding of £82 million was announced in August 2024 to support the inclusion of recently qualified GPs in the Additional Roles Reimbursement Scheme (ARRS) for 2024/25 with funding only available for GPs who had qualified within the last 2 years. As a result, the primary care network directed enhanced service (PCN DES) was amended for 2024/25 to expand the …",
       "source_name": "Publication Feed",
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-primary-care-workforce-recruited-through-the-additional-roles-reimbursement-scheme-arrs/1-october-2024---31-october-2025",
       "published_at": "2025-11-27T09:31:33+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Primary Care Network Workforce, 31 October 2025",
-      "summary_de": "Primary Care Networks were created in July 2019 to provide accessible and integrated primary, mental health, and community care for patients. The bulk of the PCN workforce consists of Direct Patient Care staff, funded by the Additional Roles Reimbursement Scheme (ARRS), and each PCN has the flexibility and autonomy to determine which roles are required to meet the specific needs …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/primary-care-network-workforce/31-october-2025",
-      "published_at": "2025-11-27T09:31:26+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "NHS Staff Earnings Estimates, August 2025",
-      "summary_de": "This report shows average annual earnings for the following four earnings measures, provisionally showing overall figures for the NHS HCHS workforce (excluding primary care staff) in England in NHS Trusts and other core organisations in England and NHS Support Organisations and Central Bodies.Mean annual basic pay per FTE – is the mean amount of basic pay paid per 1 full-time …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-staff-earnings-estimates/august-2025",
-      "published_at": "2025-11-27T09:31:19+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
@@ -198,18 +380,8 @@
       "type": "News"
     },
     {
-      "title": "NHS Sickness Absence Rates, July 2025",
-      "summary_de": "This report shows monthly sickness absence rates of NHS Hospital and Community Health Services (HCHS) staff working in NHS Trusts and other core organisations and NHS Support Organisations and Central Bodies. Data is presented by NHS England region, ICS area, organisation, organisation type, staff group and reason for sickness absence. We welcome feedback on the methodology and tables within this …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-sickness-absence-rates/july-2025",
-      "published_at": "2025-11-27T09:31:03+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Artikel-Serie: Hochverarbeitete Lebensmittel als globales Gesundheitsrisiko",
-      "summary_de": "Hochverarbeitete Lebensmittel verdr&auml;ngen immer st&auml;rker traditionelle Ern&auml;hrungsweisen und sind inzwischen einer der zentralen Treiber f&uuml;r die weltweite Epidemie von nicht &uuml;bertragbaren Krankheiten. Zu diesem Ergebnis kommt eine Artikelserie im Journal &raquo;The Lancet&laquo;. Die Artikel sind nicht ganz unumstritten.",
+      "summary_de": "Hochverarbeitete Lebensmittel verdr&auml;ngen immer st&auml;rker traditionelle Nahrungsmittel und sind inzwischen ein zentraler Treiber f&uuml;r die weltweite Epidemie von nicht &uuml;bertragbaren Krankheiten. Dies stellt eine &ndash; nicht ganz unumstrittene Artikelserie &ndash; im Fachjournal &raquo;The Lancet&laquo; fest.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/hochverarbeitete-lebensmittel-als-globales-gesundheitsrisiko-160802/",
       "published_at": "2025-11-27T09:30:00+00:00",
@@ -224,26 +396,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdHE0TzJCcTV2MWhpQUhESkRsTTNTMldTM0NwcHBNRnQzVjd4Y0ZxUm9VWW5ZOFR2M3BuUUVpQWdJeHdnSnZ1cGE2bWhFZUUxYU9DeTY5N2pBcm9zcjFVcTdMdVR4SjNtc1QxUHk4VDQzZ29PRlJ3NHZ3OWNWbU5icHNJd2lzNkxRN1NzeFNMUzV1c1owUzJ3V05FUnJSZFpSb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-27T09:20:11+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Brände - Klinik in Bad Sobernheim zweimal evakuiert - Panorama - SZ.de",
-      "summary_de": "Brände - Klinik in Bad Sobernheim zweimal evakuiert - Panorama &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOTNXM1NxRkYzazdmWlYwV21sVXBxdVdXSTQxaklFM21XRlF3RkpGbHhhZjNGeTU1RGljX3ZqZDdHcWlfWHZnUmVNUmJ2cHI4NUZBTnJxZHp5NFcxOWF5MmZJQnpkUWFRM2lNenRxbW1RNEVtQVg4cFUydE9qc0ZXb0dCR3NRVkxxelV4OENVWEppZ2FkY0xKSUJHTVVtS0JHc21KalA0OHNzYWtzdWtPNmxkS2FaczgyNVoyX2ZqNTVPSnV0alFSLWlLbUt0ekowTEQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-27T09:17:30+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Adult Psychiatric Morbidity Survey: Survey of Mental Health and Wellbeing, England, 2023/4",
-      "summary_de": "This survey screened for a range of mental health conditions, including common mental health conditions (using the CIS-R), attention deficit hyperactivity disorder (ADHD, ASRS), posttraumatic stress disorder (PTSD, PLC-C), signs of dependence on drugs and alcohol (AUDIT), gambling harms (PGSI), personality disorder (SAPAS, SCID-II Q) and bipolar disorder (MDQ). Clinical examinations assessed autism (ADOS), psychotic disorders (SCAN) and eating disorders …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/adult-psychiatric-morbidity-survey/survey-of-mental-health-and-wellbeing-england-2023-24",
-      "published_at": "2025-11-27T09:05:04+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -318,9 +470,19 @@
       "type": "News"
     },
     {
+      "title": "Gesundheit - Bayern gehen häufiger zur Krebsvorsorge als früher - Bayern - SZ.de",
+      "summary_de": "Gesundheit - Bayern gehen häufiger zur Krebsvorsorge als früher - Bayern &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNldGek5FN0tRODFsaFB1blRBZzk4bllROGZqRC12Q2M3ZjluZVVhQlFsb3E2RzVtTm52VVBCRW93NVJ6b04xbFJZOGZhZWVyUVhVclZGVkNvOHN4ZjRCbDNsSFliRWVxa1VudXJJdF9pR3ZELUZMMXhKVUpMY2RSNmJQcFFBaXItWmpiTVdyZHYxcjB2RDRZcXkxZWVROW11VmZnaHVJbVhrMzYxU0Z0VE1XV2RKUklzMndSYXBBMlRYc2dISjdyMUNxcl9la1lzOWtSZVR2akw4dlVXV1M5SnZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-27T03:52:04+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gesundheit: Bayern gehen häufiger zur Krebsvorsorge als früher - DIE ZEIT",
       "summary_de": "Gesundheit: Bayern gehen häufiger zur Krebsvorsorge als früher &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdXJrdGswdm9aam9UV1RUS2FoUlJSQk1YVmd4azJGUENaeXlQZC15bjEyRWxDWGJVcE9NeWtEZzBHRmpZbGo2SGdXLVVnQk5ZaUMzS3d5bHpyaW1QQ0ptX0pWY0Q4cEpUUW1mQkRkbUlyVTlYa19HN0xGWnV2NGd4MTNoRWFwbVFaZjRlb3I0eWZzdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-27T03:52:04+00:00",
       "category": "News",
@@ -328,11 +490,11 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit - Bayern gehen häufiger zur Krebsvorsorge als früher - Bayern - SZ.de",
-      "summary_de": "Gesundheit - Bayern gehen häufiger zur Krebsvorsorge als früher - Bayern &nbsp;&nbsp; SZ.de",
+      "title": "Notfälle - Landkreise warnen vor Leitstellen-Fusion in Sachsen-Anhalt - Gesundheit - SZ.de",
+      "summary_de": "Notfälle - Landkreise warnen vor Leitstellen-Fusion in Sachsen-Anhalt - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNldGek5FN0tRODFsaFB1blRBZzk4bllROGZqRC12Q2M3ZjluZVVhQlFsb3E2RzVtTm52VVBCRW93NVJ6b04xbFJZOGZhZWVyUVhVclZGVkNvOHN4ZjRCbDNsSFliRWVxa1VudXJJdF9pR3ZELUZMMXhKVUpMY2RSNmJQcFFBaXItWmpiTVdyZHYxcjB2RDRZcXkxZWVROW11VmZnaHVJbVhrMzYxU0Z0VE1XV2RKUklzMndSYXBBMlRYc2dISjdyMUNxcl9la1lzOWtSZVR2akw4dlVXV1M5SnZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-27T03:52:04+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNd2h4ZlFTejNsRWRNd050OGY5NVFkYmprUDY2dXpoS3d2eDlkNmVBeDN3Ul9hYTBfWGZ0UHVDRUoxSzhYY2JZS3g5ZDlXNm9xbl9rVW16T1ZLMTYyZUtzTDRYMEZxa3ZhdlBIVE8tWFdMTWs5d1hvbWE3MUcyV3dXMExNRnhyMzVGNUYwZDYzYWJiQmptbWM3MGhXV25UN2tBQS0xaWNmR01telV3UDBfbnFVQ0hoMGFqSnFIMFdwelFQSnFfRW5HNzhzWHZPaHhzWUhkbWFJRVNqcGd1SWxDWWJUNTlxMF9NcHlFaHRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-27T03:05:05+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -384,6 +546,16 @@
       "source_url": "https://www.gov.uk/government/news/mhra-and-nice-receive-2-million-from-wellcome-to-improve-safety-and-effectiveness-of-digital-mental-health-technologies",
       "published_at": "2025-11-27T00:00:00+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Tabuisiertes Gefühl - Regretting Motherhood: Wenn Elternsein nicht glücklich macht - Gesundheit - SZ.de",
+      "summary_de": "Tabuisiertes Gefühl - Regretting Motherhood: Wenn Elternsein nicht glücklich macht - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQczNhelRwRlg0Ym9LaVRyY09fcFlRV05PcFg2Z0dhdVhCcjREZmxOUEhnWXo1QUNycC1NczJkTkpqLWx2RW00MGticjYzV3h3RDFoN0V1Y25XeEltN1lTRFR3NzdyVjJCbUkxQ0prMFR2QUZySGNrX0VGVWlwb2ZjODg5YmJ2d0RiRHhSdlkySUg1NzV6azFURWNIVnM3WjVRR2FKYVRNVVNTem93Mjd6QkJaTmZkN1FPSHlLU1k3MG4ybzcwSG51YXNxRUx2TnBvZ1JEN2hvUlFYbGdrSEdRVzNTYmJ6TXUyc3VTTVJQWk1ZckFfeFN0N0hRVFhrTnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-26T23:05:09+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -478,16 +650,6 @@
       "type": "News"
     },
     {
-      "title": "Vorfall in Gefängnis - Vorwurf: Zelle statt Klinik für verletzten Häftling - Panorama - SZ.de",
-      "summary_de": "Vorfall in Gefängnis - Vorwurf: Zelle statt Klinik für verletzten Häftling - Panorama &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNVhKaXNQS2JsSkZ4am42QW1ZdnlzOUx2V1VyMFlrZDhkZTk1MHdZQVpoNkVwY1p3eGYyakJiOFJQNVVlMzhVcWJWWVp2WVdwTUNLLVA3eng4Y2J3UVBVeXRFR1FkaFhWNEQ1MUlnSlJTbE9RNWJkVTZuZXg5N3Uyc190a0lLSUNNLWk4TzZ6dUY5S29rTXJuTTRCajJhc2VHckVoNzRncWhmc2NkQkVfN29nMEZMY3BTUE96eWd6REstMjBCZkJiQ3F2YkdJTzJ0ckMxUmRkN25YeERZZlhzb0EzOGl6UVZsVXZCbTlEelVVLUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-26T15:19:22+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "PZ Briefing: Die Top-News vom 26.11.2025",
       "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -558,22 +720,22 @@
       "type": "News"
     },
     {
-      "title": "Apothekerkammer des Saarlandes: Saar: »Es reicht!«",
-      "summary_de": "Manfred Saar, Pr&auml;sident der Apothekerkammer des Saarlandes, f&uuml;hlt sich von der Politik verschaukelt. Bei der Vertreterversammlung echauffierte er sich, dass das von der Koalition get&auml;tigte Versprechen, das Apothekenhonorar zeitnah zu erh&ouml;hen, nun erst einmal nicht umgesetzt wird.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/saar-es-reicht-160789/",
-      "published_at": "2025-11-26T13:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Zulassung für Elinzanetant: Mittel gegen Hitzewallungen durch Brustkrebstherapie",
       "summary_de": "Die EU-Kommission hat Bayer die Zulassung f&uuml;r das Arzneimittel Lynkuet&trade; mit dem Wirkstoff Elinzanetant erteilt. Wie Fezolinetant soll es vasomotorische Beschwerden w&auml;hrend der Wechseljahre lindern, aber &ndash; und das ist neu &ndash; auch solche Symptome im Rahmen einer Brustkrebstherapie.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/mittel-gegen-hitzewallungen-durch-brustkrebstherapie-160794/",
       "published_at": "2025-11-26T13:30:00+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Apothekerkammer des Saarlandes: Saar: »Es reicht!«",
+      "summary_de": "Manfred Saar, Pr&auml;sident der Apothekerkammer des Saarlandes, f&uuml;hlt sich von der Politik verschaukelt. Bei der Vertreterversammlung echauffierte er sich, dass das von der Koalition get&auml;tigte Versprechen, das Apothekenhonorar zeitnah zu erh&ouml;hen, nun erst einmal nicht umgesetzt wird.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/saar-es-reicht-160789/",
+      "published_at": "2025-11-26T13:30:00+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -608,12 +770,12 @@
       "type": "News"
     },
     {
-      "title": "Naturschutz in Bayern: Warum die Pflege des Ampermooses so wichtig ist. - SZ.de",
-      "summary_de": "Naturschutz in Bayern: Warum die Pflege des Ampermooses so wichtig ist. &nbsp;&nbsp; SZ.de",
+      "title": "Repräsentative Befragung - So vielen Baden-Württembergern macht ihre Arbeit Spaß - Gesundheit - SZ.de",
+      "summary_de": "Repräsentative Befragung - So vielen Baden-Württembergern macht ihre Arbeit Spaß - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPanJiT19pbVk4bHFHbWExQkpreG84a1FyelJpUjd3aHJhbUZjd0xqSzhaS3hoRHp3NDlDc2ptZmhYZFh2bFJyQm1Cakx3OGRDd0JGSVo4V2RoSFJYVVFpVW1VZE9FN2g5b1JsUUhmcjgyME9aeTlVZXZ4bV9tT0JhanZPdlBUcHBGYXltXzRiVkhyNE0xa3JsV0N2c3I0bXpHenBadXZfcWJyOWxHVVVkMEVrT2R4enBiMjh5QW1EcU9JMEZrOEpEMS1xdjlHVnpVNFUwVVcwclU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-26T11:33:26+00:00",
-      "category": "Versorgung",
+      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSl9RQUExM0Njd0tiY3JpN1FKVXhhMUdJcDFFZF9LM3ptVUxpVzRCSjBMamRpWXFVVEVMYi0wenkxbTFqMklIZ1U4TWkxSHUtb3JiN052bXM3cWoyRkZta3Z1MjZseFN4LTJDTDRKcmtVV2tmcF85b19paUt1WWxYZElxU3g1WWxOUFhHZ2d5OVZZdm1qSFZWYkdGOWstUWM0LW9kNWJBU2dsSWJfempnZmZTVUVlcmxDZ2ZxV1Jfc1RNYUtMRUN6ZFdWUUN2ZXAtWTZHY01vYU0zMm4yVkl6RjJ5Ni1jLTZsVThkLUt4TGpnUnpEOVdkVmhjeUIwQWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-26T11:37:01+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -623,16 +785,6 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/jodgehalte-in-algenprodukten-schwanken-enorm-160788/",
       "published_at": "2025-11-26T11:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Cannabis-Verschreibungen: Plattform-Chef lenkt gegen Kammer Nordrhein ein",
-      "summary_de": "Die Apothekerkammer Nordrhein (AKNR) engagiert sich gegen die Verschreibungspraxis von Cannabis-Plattformen. Gegen eine einstweilige Verf&uuml;gung ging der Gesch&auml;ftsf&uuml;hrer der Plattform CanDoc mit einer Berufung vor &ndash; zog diese aber nun auf Anraten der n&auml;chsten Instanz zur&uuml;ck.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/plattform-chef-lenkt-gegen-kammer-nordrhein-ein-160787/",
-      "published_at": "2025-11-26T11:28:08+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
@@ -668,6 +820,16 @@
       "type": "News"
     },
     {
+      "title": "Repräsentative Befragung - Jeder dritte Erwachsene fühlt sich häufig gestresst - Gesundheit - SZ.de",
+      "summary_de": "Repräsentative Befragung - Jeder dritte Erwachsene fühlt sich häufig gestresst - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQd2NYaWw0NmxUcWp5R2lFWmxPVWNpMHhLeG41N3l6dEFKSE5QVm53RUhRNkJSMUpjZjAySTUwRkxmWE95aURDSXVoZUJsdmc4UFhaYmpxM0FkbEltYkRVUEI4bkVJUThnRzNDaENzYnJab2FDbnNoMW91bkh2NGNLRWVDWkh2Z3NXUXZjUDA3cXdkZmthTlRYMl9qc0ZWaU5WdFhnWWJoR2lpbmJ4aGhoR2JoT1RmODcwa2hCQjROTEdGTDVmOUdLeTFvMm1kOXpYZ3BHOUtVX3RPQ29TVk9CUzRvQjVENjdyLW9saHhKQVNhc3NaS09Pa1RpbHg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-26T10:00:10+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Image-only AI model improves breast cancer risk assessment",
       "summary_de": "AI image-based risk scoring could help with more accurate breast cancer prediction over breast density alone.",
       "source_name": "AuntMinnie",
@@ -684,16 +846,6 @@
       "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/article/15771941/brain-mri-reveals-pro-fighters-risk-of-waste-clearing-system-damage",
       "published_at": "2025-11-26T10:00:00+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "»Pharmazeuten schlagen Alarm«: »Bild« greift Apothekensterben auf",
-      "summary_de": "Stagnierendes Honorar und die Umtriebe der Versender &ndash; Gr&uuml;nde f&uuml;r &raquo;das gro&szlig;e Apothekensterben&laquo; gibt es einige. Die &raquo;Bild&laquo;-Zeitung skizziert die Lage.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/bild-greift-apothekensterben-auf-160781/",
-      "published_at": "2025-11-26T09:30:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -750,20 +902,20 @@
       "type": "News"
     },
     {
-      "title": "Super-Recognizer: Gesichtsgedächtnis ist in Genen verankert",
-      "summary_de": "Manche Menschen merken sich Gesichter so gut, dass die Forschung ihnen einen Namen gegeben hat: Super-Recognizer. Eine Studie mit Eye-Tracking-Technologie zeigt, wie sie dabei vorgehen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/gesichtsgedaechtnis-ist-in-genen-verankert-160587/",
-      "published_at": "2025-11-26T06:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
       "title": "Alkoholvergiftungen: Weniger Jugendliche wegen Alkoholvergiftung im Krankenhaus - DIE ZEIT",
       "summary_de": "Alkoholvergiftungen: Weniger Jugendliche wegen Alkoholvergiftung im Krankenhaus &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMlZlVGJXbGEzTnpra2ZLR3lOREctZHRTRS1XcFRTSGd3NjROckxYbU5vb2k0YlBIbmN2VWJpUEpnWms5ZC00Nnp2bkM5NlVld3Z3SlJtNnhLSGIxdDRHYkRILU5hdldwUmRtVVZlNTNvamtFZEYxUDRTUV9uMm5tRFRkdF9lbHMwS3o1dll3Z0cwek1HSmJla3pn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-26T02:30:48+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Weniger Jugendliche wegen Alkoholvergiftung im Krankenhaus - SZ.de",
+      "summary_de": "Weniger Jugendliche wegen Alkoholvergiftung im Krankenhaus &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeHBrcTFhZnlHdWNXT1VhS1RfTlc2Wlp6REJ2NFhpVVRBYWZNSTFhZHF0djRiVXpodnhMZkdsWS1scy1KbHZuTHpsM3lUUFNrUHp2UzhLOHVGbjBtLVdlWnZMX0lieG9mQ0pJVkZ6NWhJSE52YmtaOVd1UzhzLWRRN055REpuQlZXV0V4bVFua2xzcGp3VFpha0g1Ti1YVDd6cS1Zakk3a1FXNW5SY0NWa19taUozS2xBVDJ2MHZaNTFUOFVKdjlWZjJ0MmJlR3ZWamstXzZzNmhranROdUlNSnFMMjVRazBiS3hUNVFyRWJuNmNa?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-26T02:30:48+00:00",
       "category": "News",
       "tags": [],
@@ -840,16 +992,6 @@
       "type": "News"
     },
     {
-      "title": "Apothekenreform: Lucas sieht Potenzial für die »Zukunftsapotheke«",
-      "summary_de": "Welche Rolle werden Apotheken in einem zuk&uuml;nftigen digitalisierten Gesundheitssystem spielen? ABDA-Vizepr&auml;sidentin Ina Lucas erkl&auml;rte bei der &raquo;Digital Health Conference&laquo; in Berlin, dass die Apotheken bald Lotsen mit vielen neuen Angeboten sein sollen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/lucas-sieht-potenzial-fuer-die-zukunftsapotheke-160756/",
-      "published_at": "2025-11-25T17:22:08+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -860,32 +1002,12 @@
       "type": "News"
     },
     {
-      "title": "Mundraum und Zähne: Wann die Pflege besonders wichtig ist",
-      "summary_de": "Gepflegte Z&auml;hne sind nicht nur eine Frage der &auml;u&szlig;eren Erscheinung &ndash; sie spielen auch eine zentrale Rolle, wenn es um die Gesundheit und das Wohlbefinden geht.&nbsp; Eine gute Pflegeroutine f&uuml;r Mund und Z&auml;hne ist daher immer und f&uuml;r bestimmte Patientengruppen ganz besonders wichtig.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/wann-die-pflege-besonders-wichtig-ist-160742/",
-      "published_at": "2025-11-25T17:00:00+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Decision: Orphan registered medicinal products",
       "summary_de": "A list of authorised orphan medicinal products registered by the UK licensing authority.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
       "source_url": "https://www.gov.uk/government/publications/orphan-registered-medicinal-products",
       "published_at": "2025-11-25T16:14:54+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Vier Erklärungen: Warum werden Zahnschmerzen nachts oft schlimmer?",
-      "summary_de": "Zeit f&uuml;r Nachtruhe, doch einer dreht nun richtig auf: der schmerzende Zahn. Weshalb Zahnweh uns in der Nacht st&auml;rker plagt &ndash; und von welchem Hausmittel ein Experte abr&auml;t.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/warum-werden-zahnschmerzen-nachts-oft-schlimmer-160710/",
-      "published_at": "2025-11-25T16:00:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -910,12 +1032,12 @@
       "type": "News"
     },
     {
-      "title": "Misserfolg in Studien: Semaglutid hilft nicht bei Alzheimer",
-      "summary_de": "Der GLP-1-Rezeptoragonist Semaglutid kann das Fortschreiten der Alzheimer-Erkrankung nicht verlangsamen. Das ist zumindest das Ergebnis der Phase-III-Studien EVOKE und EVOKE+.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/semaglutid-hilft-nicht-bei-alzheimer-160746/",
-      "published_at": "2025-11-25T15:20:00+00:00",
-      "category": "Wirtschaft",
+      "title": "Verfahren läuft - Vorwürfe gegen Landeskrankenhaus: Bericht bis Jahresende - Gesundheit - SZ.de",
+      "summary_de": "Verfahren läuft - Vorwürfe gegen Landeskrankenhaus: Bericht bis Jahresende - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYUU5OW5SdlZmeFA4SWUzdUhYVV9wQUliOHZSUm9LNTYxWlpnV3pDQXJlRmZ4c2xYYldORVQ0eEN3VFFua2JvNDNuTUNTWm5Pdl85ejhhM29LUUgyR2plMXpfSkx6UVRrZUU3M2NoVjNKVGthR3J1T3RZQmtBb0ZSdWRTbXdjbkc3V2ZHNnBRR3AtQUs1ckUxTE8wMEkya1RxbFdEN2xOc2pQVEZIbkp2MVBfdWlMdy1vSDlDQTBmRmtXSXFuM2RvTzJ4MWZBVGhXYkdodTAxN0NXNlFPRU45THUwR3hpY0g0a3UwdUtSbzdXdUtu?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-25T15:16:14+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -930,32 +1052,12 @@
       "type": "News"
     },
     {
-      "title": "PZ Briefing: Die Top-News vom 25.11.2025",
-      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-25112025-160753/",
-      "published_at": "2025-11-25T15:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Decision: Parallel import licences granted in 2025",
       "summary_de": "Parallel import licences granted in 2025.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
       "source_url": "https://www.gov.uk/government/publications/parallel-import-licences-granted-in-2025",
       "published_at": "2025-11-25T14:51:37+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Verzögerung der Sparpläne: Union will SPD bei Fixum auf Linie bringen",
-      "summary_de": "Ohne stabile Kassenfinanzen keine 9,50 Euro Fixum, so ist die Linie des Bundesgesundheitsministeriums (BMG). Dass der Bundesrat&nbsp;die Pl&auml;ne zur Kassenstabilisierung jetzt gestoppt hat, macht die ohnehin kalt gestellte Anpassung noch schwieriger. Und dennoch: Das Fixum sei &raquo;keine taktische Verhandlungsmasse&laquo;, hei&szlig;t es von der Union.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/union-will-spd-bei-fixum-auf-linie-bringen-160752/",
-      "published_at": "2025-11-25T14:50:00+00:00",
-      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -1120,16 +1222,6 @@
       "type": "News"
     },
     {
-      "title": "Appointments in General Practice, October 2025",
-      "summary_de": "The aim of the publication is to inform users about activity and usage of GP appointments historically and how primary care is impacted by seasonal pressures, such as winter. NHS England publishes this information to support winter preparedness and provide information about some activity within primary care. The publication covers historic appointments, marked as attended or did not attend, from …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/october-2025",
-      "published_at": "2025-11-25T09:22:07+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Medicines: apply for a variation to your marketing authorisation",
       "summary_de": "Apply for changes to your marketing authorisation, including minor variations type IA and IB, major variations type II and extensions.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1156,6 +1248,16 @@
       "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15772743/use-precontrast-low-attenuation-ct-to-better-identify-liver-cancer",
       "published_at": "2025-11-25T07:19:35+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Erkrankungen - Weniger Demenz im Norden - regionale Unterschiede - Gesundheit - SZ.de",
+      "summary_de": "Erkrankungen - Weniger Demenz im Norden - regionale Unterschiede - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUElrMnBBQVhYeERMcU1mRUl1cW5JUFcxV1cweHk2b2NHWkxtRGtxQnFwUEUwQkNIVDFwRnlnUHBqSzJ6b21yZ1NwbWRtcnVvRmk5WlpvRWxhYmtXQm5zZTdST2dLdFV4TG53NjlGMElaNXlFblhJdzZGRWFMSFFHakh5SmdyMktiUnZyVTVCVVJXVV9fVmN0NC1STlhjcUtNRjJEY0ZhRlotekRVakhhYk04dmY3cVpWb0d6WUp3cU5GQS1JSHQxeEVGMGVmVEtUZDdFYjlES0lZWDJMSnQ0dzdoQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-25T05:00:09+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1371,6 +1473,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcGhva3laejFnZEppaENhbXItaDBDNjhvbDdBb3pfbEpTUkxYaWZ2enJhZEg1eUdKWXV3ZEYwRmxZOXJ6S1ZMcl9DTVRucUJEUnh6UjNjMVVLRzhEb19DUnhLVU53WHhOVkkyUG02ZXp3R2kxSFhKYnJlR2lQS1lNUGpleXQ5ck1IaU1rc1BuVV96dnl5YUV5VDhfRlRFMjY2VWFqUzAxXzE4alRGbGZqQVFLcnVJOEU5UWl4T0JRcS02MkhhMEd0NDRZTQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-24T07:42:13+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Medien - Kinderärztin: Zu viel Bildschirmzeit hat fatale Folgen - Gesundheit - SZ.de",
+      "summary_de": "Medien - Kinderärztin: Zu viel Bildschirmzeit hat fatale Folgen - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTnYwc1I4OEg0Z2c5LXpFaU9ONnhIX3lpZVpudUxLV3JiaDBBTDJnV3lvekJGeERDY2E3X2I4RlkzdFo5WnN4d2pXQlFwSVJpVnVmck9rcTEwcmEtcDVLUE4tN2RBR19zdG9iV21zZHRWRlhER2ZMVnNMSnREY0ZfRlhKTXRVeTA4TW0wZG1tYTZqcmd5N0ZXVjZJaUd2ZF9nUk9xbldmY2RlODEtNGpuclZDOEFzUGVKUkhLS1VSZVVlbEZxTzZNTEF4bXFZQ1ZuVW1fTTBCbm9LdVBGZ1hTN1ljbEk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-24T06:23:58+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1657,16 +1769,6 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit - Gift-Anlaufstelle unter Stress - Gesundheit - SZ.de",
-      "summary_de": "Gesundheit - Gift-Anlaufstelle unter Stress - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRkF6dkh6UDQ4Q0tKQm53aWZ5WVZxUWkxb01oNG9PbmFfalFFZ2YxNXI0cUtqV284bnh0c0ZNS0FsQlI2YjlVZjNHeGVVOVZkY0loVGVEenVpUmxBWFZHQzJSREpveFp3UXNucUhBRU9VZGJZRjREdk9jdTdpMWZsUk5FNWU2M2ZNblJSODIwYTlscVQ5TXVEb1NxUTN2Nm5FZC16M05uUjU0NnlnRGVLUlplQWZTVGJ4endKSlc0a0tKOGU5bk1pYVBR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-21T11:11:43+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -1721,16 +1823,6 @@
       "summary_de": "Gesundheit: Warum Mehrfach-Impfungen das Immunsystem nicht überfordern &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUXlncWcxNExRRVhUSnZSMDVEMUJsYUV6UzNtVlV0RGwzakwwbG02TW1Dc1NvdDZFREpLa3NqSFlTY0ZfUzhDT01FcndTaVBaSV92dncyM21XbTVFQy1pNU93U3V6d25WRzZUVmF2bTNiVW0tUXZaWUp4OGtaNFQ4bGVKb2J4RVhKcFlhVHVCX2gzXzRkZzN2QjVTWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-21T06:00:11+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit - Warum Mehrfach-Impfungen das Immunsystem nicht überfordern - Gesundheit - SZ.de",
-      "summary_de": "Gesundheit - Warum Mehrfach-Impfungen das Immunsystem nicht überfordern - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeDFBYm5rc2FreEVBWU82Z1BGSFVSeGYxZzIyNHI3THFFdG5rblg5WElCQVotS0J1NmxvTHQtRGIxWl84R2w0cGJvbWN5cEZuQ21sOXpseDhoX0licHM3YlVESktGVlRTSU9BZGtLVl9vc3lPZEU1RmtqYWV6V1k1YXZTd2lCR19xNkJjcFhkRk5BQ2k5OG9iRVdqYWFTdzREdEdpcEFNRlpXSmwzckZSd0VJZFo2MXprVzZXNDBJLTZVVlNORmRvSERtLUJvTFpyckdyRi1zZ0lHcmdpQ2EzbklTVDZSMWp5WmZ1cW1TWkI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-21T06:00:11+00:00",
       "category": "News",
       "tags": [],
@@ -1897,6 +1989,16 @@
       "type": "Studie"
     },
     {
+      "title": "Hendrik Streeck: Zu viel Medizin ist keine Fürsorge, sondern Hilflosigkeit - DIE ZEIT",
+      "summary_de": "Hendrik Streeck: Zu viel Medizin ist keine Fürsorge, sondern Hilflosigkeit &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeHMwU0JKUkVGUWEyWnIxQ3pjUDg2VzlrUFEwbnFBUUJFMXFhRHVYVV9KSmJlZnhkMTVXODNlODE1eURUZjE1RXJodlNIMUxsczBJSmtodUVXRnhFMmF4SzNQM2gtRGY1ajg5T011OXFCTk11SldhTlk3N0tYSThtWExTUGNRR2k0WUVN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-19T19:31:47+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -1947,16 +2049,6 @@
       "type": "News"
     },
     {
-      "title": "Consultation on the International Council for Harmonisation Guideline Q3E for Extractables and Leachables",
-      "summary_de": "The MHRA is consulting with UK stakeholders to gather feedback and comments on an international guideline on the assessment and control of extractables and leachables.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/consultations/consultation-on-the-international-council-for-harmonisation-guideline-q3e-for-extractables-and-leachables",
-      "published_at": "2025-11-19T00:01:02+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Sugammadex for reversing neuromuscular blockade in infants and children",
       "summary_de": "Sugammadex for reversing neuromuscular blockade in infants and children",
       "source_name": "Cochrane Library RSS feed.",
@@ -2002,16 +2094,6 @@
       "source_name": "EFSA | News",
       "source_url": "https://www.efsa.europa.eu/en/news/delta-8-thc-efsa-sets-safe-intake-level",
       "published_at": "2025-11-18T10:23:24+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Multi-million pound backing for cutting edge projects by UK scientists and innovators",
-      "summary_de": "New government funding will help make the boldest ideas in UK life sciences a reality.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/multi-million-pound-backing-for-cutting-edge-projects-by-uk-scientists-and-innovators",
-      "published_at": "2025-11-18T09:00:06+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
@@ -2115,16 +2197,6 @@
       "source_name": "Diagnostic Imaging articles",
       "source_url": "https://www.diagnosticimaging.com/view/diagnostic-imaging-weekly-scan-november-9-november-15",
       "published_at": "2025-11-15T18:25:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Schweinfurt: Bilder vom Herz in Millisekunden: Radiologie am St. Josef weiht neues Hochleistungs-CT ein - Main-Post",
-      "summary_de": "Schweinfurt: Bilder vom Herz in Millisekunden: Radiologie am St. Josef weiht neues Hochleistungs-CT ein &nbsp;&nbsp; Main-Post",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRmdzeFF0MHhPMFNDRDRYbzFQMWJqeDRsdUFtQ0dPcTBDMzVhNjNoZ09nYjhEcmJ5UHg1bUU3X05zdTdCY0dGcFpIODdTbUcxR0J0MGpXWUcxTWNXcnUyQXlJWEZQTVhjSkZuM051eTBxT3lLZzdKek1hNGpYb096QkJiUVJsb2ROVEVNa2JQcWdHajg0OThwdUFYSXNYVDllNjd4SmNQLTJrTHFLdkNkTXFOS1EzZXdNdWVoeGVQYUNYT19mMExrLXJybWpzUkI1dktxYXdqREdCVXVSemlZdk5vZ2daZVdnZlRIaEJQeExFSE93Snc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-15T16:00:00+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -2523,6 +2595,16 @@
       "type": "News"
     },
     {
+      "title": "Was ist aerobes und anaerobes Training? - Techniker Krankenkasse",
+      "summary_de": "Was ist aerobes und anaerobes Training? &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdmE5aVVib3FlVVVGZnhZZUtBY3pnVFd2LXZnLXJkbWQwSmpfVnFoakI1RGdDLUUtOFNlWmVLUVliMTM2aGJwMEd1UXk4YnZ1d0ZTcHhHVFc5bVRKM3RvM3pIRVR4d21ZOVVPa1g0a09UdWQyZ2hkRXM5WnRaRG9WQWhNLXNxdVlFYTFDeUlidDR3Z3ZZanoxTkdNZWdhQWx3Ulp4Z1RhZ0lfcll6bHl3NjZtRGI0VXVlbTBQblI3UzBOT2NQZE1mTjhWZERzYkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-13T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gesundheitspolitik: Bund will Pflegeversicherung mit Milliardendarlehen stützen - DIE ZEIT",
       "summary_de": "Gesundheitspolitik: Bund will Pflegeversicherung mit Milliardendarlehen stützen &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
@@ -2571,16 +2653,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/emerging-ccta-research-prognostic-value-ai-quantification-plaque-burden-assessing-cardiovascular-risks",
-      "published_at": "2025-11-12T22:06:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "National Diabetes Foot Care Audit 2020 to 2025",
@@ -2731,6 +2803,26 @@
       "type": "News"
     },
     {
+      "title": "Flexitarische Ernährung: Was das ist und wie es geht - DAK-Gesundheit",
+      "summary_de": "Flexitarische Ernährung: Was das ist und wie es geht &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVEpXRlhBejc2Mno0MzV6VGs2MTdkNGdJNEVMUVAybUs3S28yYW1uU1BadXJtZkxnWlpyRWNLRDlsM0dPYUNHWHJyZm5TTjRaVklSY2JXYjVSbFRzaDFnanVSdlVfUlZHNV9LZnJpRFlTSzJ4UUExa2ZZdi1GNkhxSTh6cjJiYmhLcC1oM05mRnBCSURvN3dHb3JGcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-06T18:50:50+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Bärlauch – das gesunde bärenstarke Küchenkraut - DAK-Gesundheit",
+      "summary_de": "Bärlauch – das gesunde bärenstarke Küchenkraut &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWm9rcDg0a3dxc3B3bkd3Y3F1YXJIT0hqYmxQdHhMU3J0cmNJcjNuSFR2eUVxc1lsSmZEdWhOTzhkZG9yZjgwWWhCanVaaDdZN3NsRjBfU1pqMUZGdXRDdTYtYmVxNHdCN1JBaUl0cnBkbExHYmU5Tm90V3ExNmVIUS1PbDZ6VFJJY0R6c09USQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-06T17:03:11+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "vdek und DigitalPakt Alter verkünden Partnerschaft",
       "summary_de": "Der Verband der Ersatzkassen e. V. (vdek) ist neuer Partner des DigitalPakt Alter. Mit dem Beitritt will der vdek die digitale Gesundheitskompetenz älterer Menschen gezielt fördern und dazu beitragen, ihre gesellschaftliche Teilhabe in einer zunehmend digitalisierten Welt zu stärken. Mit dem vdek schließt sich erstmals ein Akteur aus dem Gesundheitswesen der Initiative an.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -2848,16 +2940,6 @@
       "type": "News"
     },
     {
-      "title": "DAK-Report: Pflegesystem steht am Kipppunkt - DAK-Gesundheit",
-      "summary_de": "DAK-Report: Pflegesystem steht am Kipppunkt &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc3BVV09sWUdCLXdnbEdJeEp1SVNqbENYNE5zcThnaXVGRlVESDJ1RVNtR2RvQmZFZVpUQm9VcklzQmp5RzZ0dHgwTzJfUTJDbXg0cHo2SWNhMnNjRTc0cnZ1cERqaUlPOTZjVFluWnp2dnp1XzA5bTZURk1OV3JpYWdic25VajlLSVMwZ3IzMFRUQkxUX3dKX3JYc3JhdjRxOWZDaXdmODdlajQ1b1hXRnRVQm1wNnFUa3ppMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-03T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Duderstadt: St. Martini Krankenhaus eröffnet neue Notaufnahme und Radiologie - GT/ET Göttinger Tageblatt - Eichsfelder Tageblatt",
       "summary_de": "Duderstadt: St. Martini Krankenhaus eröffnet neue Notaufnahme und Radiologie &nbsp;&nbsp; GT/ET Göttinger Tageblatt - Eichsfelder Tageblatt",
       "source_name": "\"radiologie\" - Google News",
@@ -2894,16 +2976,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM1NLMEJxcXdQYjVSZVBwSldfa1dkeWJqRGFkc1BiZXFDRDB2bUpfUWVXWmZfZncxbWs0cW1Ncll2X25fUm0tQ1JaeVlxNmxCcVREQjIzUy1OelBya0VyNHU4NkJ6b0sxZTZfZlAxY3BUbUZrUEtURzlXYzNpOEdheUZfN0lRTTFEMm1MMWp1d1h3LUZaLU41WUJ6X2tyQnkzRHBrelpuQmctNzlVMWFiaHEyVVFDbWFNWVEtcDhWclRnZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-31T07:00:00+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Nachbarschaftshilfe - Überblick über die Voraussetzungen nach Bundesländern - Techniker Krankenkasse",
-      "summary_de": "Nachbarschaftshilfe - Überblick über die Voraussetzungen nach Bundesländern &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNSWZrcm9sQmxNc3BBZXVFNmRjYXlDWEJGallsRl9KRUNrM25FZDJjSTFwVUx3cDlZcDI3MThraldsdUdBX0M3SURfNkh4emFIeVJYVzVGNWhCa3A5QVFKRXlkWlRLVWxnNzgzdWZYcHVJakoxY2pXYXRvNC1mN2RvZGkwa3BOWUoySzl2bF93UHpiZng5cTFvWURNaGh5MTF2TElPZllZS1BIRmlFM0FLVjRudkpCWjFaN210djJIOGQ1Sl9ZZFRDcDlFT2c5M3c5ZjBEN0Mwbm5Sc1JzQUdVN2RxUXktYWtDVTlOOElIbkZmdFZ5QVZ4Q3pPS2htUlA5WG83NW9KazRwR0p0U0hHcWZ4aDUyeFhtRlZCcDlBc2h3MVRPY3RIMktrRjdJM2M?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-29T20:15:02+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
