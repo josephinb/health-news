@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-11-27T01:04:36.291195+00:00",
+  "generated_at": "2025-11-27T03:41:38.632794+00:00",
   "window_days": 42,
-  "count": 243,
+  "count": 246,
   "items": [
     {
       "title": "Bundesqualitätsbericht und Qualitätsreport 2025 veröffentlicht: Ergebnisse der datengestützten Qualitätssicherung im neuen Format",
@@ -13,6 +13,16 @@
       "tags": [
         "Versorgung"
       ],
+      "type": "News"
+    },
+    {
+      "title": "MICI Q4: Radiology admins' confidence varies regarding medical imaging",
+      "summary_de": "Administrators' confidence is 'neutral and consistent' with Q3 2025, although the 'downstream impact of politics continues to...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/practice-management/article/15772835/mici-q4-radiology-admins-confidence-varies-regarding-medical-imaging",
+      "published_at": "2025-11-26T18:27:42+00:00",
+      "category": "Radiologie",
+      "tags": [],
       "type": "News"
     },
     {
@@ -296,6 +306,26 @@
       "type": "News"
     },
     {
+      "title": "Image-only AI model improves breast cancer risk assessment",
+      "summary_de": "AI image-based risk scoring could help with more accurate breast cancer prediction over breast density alone.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/article/15772182/imageonly-ai-model-improves-breast-cancer-risk-assessment",
+      "published_at": "2025-11-26T10:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Brain MRI reveals pro fighters' risk of waste clearing system damage",
+      "summary_de": "Sports-related traumatic brain injuries make up about 30% of brain injury cases.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/article/15771941/brain-mri-reveals-pro-fighters-risk-of-waste-clearing-system-damage",
+      "published_at": "2025-11-26T10:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "»Pharmazeuten schlagen Alarm«: »Bild« greift Apothekensterben auf",
       "summary_de": "Stagnierendes Honorar und die Umtriebe der Versender &ndash; Gr&uuml;nde f&uuml;r &raquo;das gro&szlig;e Apothekensterben&laquo; gibt es einige. Die &raquo;Bild&laquo;-Zeitung skizziert die Lage.&nbsp;",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -325,6 +355,16 @@
       "tags": [
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Radiologist performance, patient factors tied to interval cancer risk",
+      "summary_de": "Breast density, family history of breast cancer, and inadequate radiologist performance influence interval breast cancer risk.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15772828/radiologist-performance-patient-factors-tied-to-interval-cancer-risk",
+      "published_at": "2025-11-26T07:10:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
       "type": "News"
     },
     {
@@ -413,16 +453,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdm9JdFN1RThYV2JQTTBFY3I3RFpEVzBURk43TFRwODZZTFl1bmQ3MVRwV0Y4dzlUbDhTWlh1LVByNXBOSUQ3WkktVUd4UElzbDYzZlpCZG13VEtrdjFXYzFPOVE0QzNHbXVsTlYtci1BQXc5Yk13WkdEUzhEaHRCUVFnY1lwWnRMMFRiOHc3UXhhX1FOTGE5YVJ4dThmNzBTR0FaVU54d1Rfb21CYV9sQzI4aWozQmp4bzZLU3pxX0ZSZUpEUVhVVF90aE8yMC1XOGQ1MFdzbVpCMlFScXpsTEdWTlBSbUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-25T18:10:17+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Krankenkasse für Selbstständige: Vorteile bei der DAK - DAK-Gesundheit",
-      "summary_de": "Krankenkasse für Selbstständige: Vorteile bei der DAK &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pSExyLTVTVks4YURrUGJmeXl5dldDVXhjVDNGa2ZycG03R1FfQ25sZjdZeEhUX0tBUFRqTEFVbDJFTGNmQzlSN09fUVB1OE81Y0ZSdlRkczVOWlhZcVcySHlTQUYtTTVHOXVGTXZ2bG91ZGxoWHNoSlZ0RERfV00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-25T17:31:39+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -808,16 +838,6 @@
       "type": "News"
     },
     {
-      "title": "Your network doesn't matter anymore",
-      "summary_de": "Agentic AI is rewriting the rules, according to PocketHealth Co-Founder and CEO Rishi Nayyar.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15772560/pockethealth-your-network-doesnt-matter-anymore",
-      "published_at": "2025-11-25T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Use precontrast, low attenuation CT to better identify liver cancer",
       "summary_de": "Precontrast low attenuation on CT shows up as a region darker than surrounding tissues because fewer x-rays are being blocked.",
       "source_name": "AuntMinnie",
@@ -988,16 +1008,6 @@
       "type": "News"
     },
     {
-      "title": "Higher muscle mass, decreased belly fat equals a healthy brain",
-      "summary_de": "The research suggests that \"improving muscle mass and reducing visceral fat may improve brain aging,\" investigators wrote.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/article/15771932/higher-muscle-mass-decreased-belly-fat-equals-a-healthy-brain",
-      "published_at": "2025-11-24T10:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -1040,26 +1050,6 @@
         "Versorgung",
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "How are imaging modalities portrayed in movies?",
-      "summary_de": "Feature-length films often portray medical imaging in a negative light, including MRI, ultrasound, and mammography.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/radiology-education/article/15772637/how-are-imaging-modalities-portrayed-in-movies",
-      "published_at": "2025-11-24T08:47:40+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Art and radiology: Seeing beauty and value in images",
-      "summary_de": "In a Q&amp;A interview, Harun Yildiz, MD, discusses the intersection of medical imaging and art.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ultrasound/article/15772559/art-and-radiology-seeing-beauty-and-value-in-images",
-      "published_at": "2025-11-24T08:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
       "type": "News"
     },
     {
@@ -1545,11 +1535,11 @@
       "type": "News"
     },
     {
-      "title": "Seit Oktober Pflicht - E-Patientenakte ist vielen Patienten noch unbekannt - Gesundheit - SZ.de",
-      "summary_de": "Seit Oktober Pflicht - E-Patientenakte ist vielen Patienten noch unbekannt - Gesundheit &nbsp;&nbsp; SZ.de",
+      "title": "Auswertung - AOK: ADHS-Diagnosen bei Erwachsenen in MV verdreifacht - Gesundheit - SZ.de",
+      "summary_de": "Auswertung - AOK: ADHS-Diagnosen bei Erwachsenen in MV verdreifacht - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3BucGJOY3JjNVN2QXEyWXpFZF9MSTJLcWd1REV4eEF1WE5sLW1qcWVXai1vSlBlYVpaR1BqZGRKdWJwdHp4dkQzQXZHWmUzdy1UZWktbVl5MjhSRWQ1c0ZLbWxPSlYwaE9BUngtYTZIbjdGQnlmaE81UmJXd0FEQVRWXzZDMHpRVVVubk42aG40cjUzUFRtY21WZXRyUUtjM0tCQW5iWEptenIzWm41b2dpT3I2T0RjQ2hkRnBHNWtIMHc4WUd6eDVJOUZvUjBxS0Rvc3ROV1hmcW5xbHlpS0NpWDBWYURXdXFlMFBYNU5EU0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-20T02:30:11+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTTA2QzhmMURyWmxWWThhNnlwVGZQenJzUVcxVkMyZkxrbTVkYXNjaGxLSllJRW1sTy1Wenh2eDFHdjFZZmJpd0E4V2JJcXpnME1xNTB5eTFjRERCaUdJbUpOODRZdF9ZQmRJTFdkOGFHaXNSd1JGVXdFY0YyZU9Rak9fTE93SUVjQXJuQkx1bHZXcWNmT25zTUNlQUdLVkExWjQ5bmtfZVRta2NDX3dvLTNadHY1VzBuTmZCODRWVTZsUTBzYVJRQUp4Rkp2dUk1Q3AwTWVXZDI0X2htV1d4VjFWek5UdW9P?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-20T04:30:09+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1765,6 +1755,16 @@
       "type": "News"
     },
     {
+      "title": "Divertikulitis und Divertikulose - DAK-Gesundheit",
+      "summary_de": "Divertikulitis und Divertikulose &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN1hsUGw1RmNFUHN4UDM5Q3JYUnkyM1RacGNfLXJtTy15ZXI0QzdHdWdONUw2VUoxd3AwdDM1ZGxTTUpzT0VLSXBaaW1razhIbmVGUThjYjRLU2hMVU5ibVJDM3VBV3E1Um9ic21RQ3hFVVVLUGxDT3RCRjFOZWtaY0tyeFRMRDNQNGptQVAtR1o3ZHlfRHY3TTI0ZlhjOXRHSFpPY0tPRE9fc2xkdlE0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-17T10:31:27+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "gemeinsame Pressemitteilung: Sozialversicherung legt Digital-Positionspapier vor: „Europa braucht praxisnahe Regeln für eine zukunftsfähige Verwaltung“",
       "summary_de": "Kritisch, digital, souverän – Mit diesem Selbstverständnis treiben die Träger der Deutschen Sozialversicherung den digitalen Wandel in Europa aktiv voran. In einem gemeinsam veröffentlichten Positionspapier bekräftigen die Deutsche Gesetzliche Unfallversicherung (DGUV), die Deutsche Rentenversicherung Bund (DRV) und der GKV-Spitzenverband jeweils ihren Anspruch, Digitalisierung verantwortungsvoll zu gestalten, und fordern klare politische und rechtliche Rahmenbedingungen auf europäischer und nationaler Ebene.",
       "source_name": "GKV-SV Presseinformationen",
@@ -1957,6 +1957,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMjhxemtzckVyMTIzWXpjbFRqeEIyR25VWVEwZ1k3MDI2a05JNVNseVZmNmtMcGJiQnFDbjR3MHlma3l6SWNfOFFvbTh2Z1l5UGJxY3pQbTNWbFJGMEExUDFIdTgyUGFfQ2pMTGxiMjA1X2dSZTNUNklkLXVzZm5PVG82Umx1a3E3NnhpcEYtbmhPWjFfM211TWtUVE4yWG9ETG5oYjFQNEFxSEU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-13T08:00:00+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Krankenhaus Reutte: Radiologie mit hochwertigem MRT aufgerüstet - MeinBezirk.at",
+      "summary_de": "Krankenhaus Reutte: Radiologie mit hochwertigem MRT aufgerüstet &nbsp;&nbsp; MeinBezirk.at",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQUVKaXRzVlRGSEtHZUZtQ2g4NHdCYjEyMFMzdkVWM2NYd3BYX3Ixd21BYmc0SzljdTRDWDZwQjcwUkFPT0dfTHZHU2tDdTA2bkhzVTY1ZmZ3X3pVdkZxbWktUFdZbkJPWURFeS1EZUllc21HREszbWZDSTBqRVFUcnZkRU9GcGRHNmJ3Z0VWaGpGeDk5aWhsLXhzcnE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-13T08:00:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -2159,6 +2169,26 @@
       "type": "News"
     },
     {
+      "title": "Schlehdorn: eine Heilpflanze, die es in sich hat - DAK-Gesundheit",
+      "summary_de": "Schlehdorn: eine Heilpflanze, die es in sich hat &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaHp0YWkyTkhhcmUtNlFnOFUwRzF3WWNwY1kzLUFnd1YxOHVvWTFWWHl0YXVMcU0zbnU2WnBISkp2VzVfbzNWcXBkdGExY2lzeHpQRFdEYVVKWWdfdmoydk9zcDVOOWFwN1luVzhlSXpFQm51dU1iSWxBUzBEclEzODgwc0F5LVpnWERpYU1hejg2ZWFF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-06T17:02:36+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Veganuary: Der vegane Januar - DAK-Gesundheit",
+      "summary_de": "Veganuary: Der vegane Januar &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb2ZJY2pNLWFPYWdxSEhzYmZ0M3N4VVYzVUFJWW9obHpUaVdURHJ4VWhjLTJkRmlwejhHUjhsaGlreHdPdlprY2hQdXd3YjNGdkpmNjlBNWItYk5oU1l2Q2xkeDJ6NWpnc0VwQ1NsQjE1ZUo1MXBFckxRMmlOUmJLNUR1djg2TzFyWTJJNVdFMVl5ZWo2Y0J1MzBnVFFKSEZ1?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-06T17:02:29+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "vdek und DigitalPakt Alter verkünden Partnerschaft",
       "summary_de": "Der Verband der Ersatzkassen e. V. (vdek) ist neuer Partner des DigitalPakt Alter. Mit dem Beitritt will der vdek die digitale Gesundheitskompetenz älterer Menschen gezielt fördern und dazu beitragen, ihre gesellschaftliche Teilhabe in einer zunehmend digitalisierten Welt zu stärken. Mit dem vdek schließt sich erstmals ein Akteur aus dem Gesundheitswesen der Initiative an.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -2205,6 +2235,16 @@
       "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-06T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Unsere Gesundheitsterminals - DAK-Gesundheit",
+      "summary_de": "Unsere Gesundheitsterminals &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CM3ItM1VCZDNySUFERXZvTHh4MmJSb0kwNFNDd2xmRzNWc3lyR2NORmxKQXhOTUNhSktkNGduZ1d6UHoyRHBZanRFdXNKREE0MEhUYlA2Sm45NWtrZDZPMGZEVjQyZmdycDBmbTRGX0ktT3JKZFlNQjBiNGRPZzQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-06T08:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -2306,10 +2346,10 @@
       "type": "News"
     },
     {
-      "title": "DAK-Report: Pflegesystem steht am Kipppunkt - DAK-Gesundheit",
-      "summary_de": "DAK-Report: Pflegesystem steht am Kipppunkt &nbsp;&nbsp; DAK-Gesundheit",
+      "title": "„Waschhaus Trocken Rocken“ aus Potsdam gewinnt Wettbewerb für ein gesundes Miteinander in Brandenburg - DAK-Gesundheit",
+      "summary_de": "„Waschhaus Trocken Rocken“ aus Potsdam gewinnt Wettbewerb für ein gesundes Miteinander in Brandenburg &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc3BVV09sWUdCLXdnbEdJeEp1SVNqbENYNE5zcThnaXVGRlVESDJ1RVNtR2RvQmZFZVpUQm9VcklzQmp5RzZ0dHgwTzJfUTJDbXg0cHo2SWNhMnNjRTc0cnZ1cERqaUlPOTZjVFluWnp2dnp1XzA5bTZURk1OV3JpYWdic25VajlLSVMwZ3IzMFRUQkxUX3dKX3JYc3JhdjRxOWZDaXdmODdlajQ1b1hXRnRVQm1wNnFUa3ppMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPVk81UlJLWVhDa2M1V3Rlblprc1FGZWNaLUJTTm15cVFTLTl2MmpXVGtOS3JYcnI3eGxEWmdoVXVJbzJ4aFZIaDQ4UGJYbGU0eGhVZkplUnlyMnBjaVNQZlpMcGtzdHdHWGdEX0NxdUk4VWtUenZvVTBTbHpVVUhaZ1RrbmVjYTM5U3QxVkZWV2hNTUNvcHk4aUtyckRIZXM0elBrMDQyNGljaVZFUGkwemdCbEVlbU96bGdDMmtCVFpmTlB1MkpvSWdPMm9QTV80eS1JRFZ1Qnl6S2FuYzlsSV9LT1lPQ2FJUkdEc2RJWGNCZDk2TlY2VzVLeVZpSHAtUENWQzdVd0J5ZEpBdmp0VnZvcEdhQi13ZzFjRw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-03T08:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -2356,16 +2396,6 @@
       "type": "News"
     },
     {
-      "title": "Mini­jobs: Wann sich schwan­kende Entgelt­höhen auf die Versi­che­rungs­pflicht auswirken - Techniker Krankenkasse",
-      "summary_de": "Mini­jobs: Wann sich schwan­kende Entgelt­höhen auf die Versi­che­rungs­pflicht auswirken &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ1FydnFYUkp4SU83aEc0bm9rYWQtbDNkNTRYRFhfNDFYVGs5TGl1U2F6eDBnNDdtNWstYmQ1QlYwRDJuSWhsSEtmM1Z6QjY5c0x5ekZwamw5Nm9ST3JldHVnWGE5MnFrTmQ3MHhmMmIzQnBkWHRtWTI2cXhsX2pYdk5JMFlhbHZBNzBwb0p2VUFTTV80Xy1nNUticVBTSU9VWnZnZF9teXdmMXVVSWFRSExMNVJITjhhWU13TXZkR01oYXhVclZKdWJlVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-30T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "2. IQTIG-Regionalkonferenz zum Verfahren QS Ambulante Psychotherapie erfolgreich beendet",
       "summary_de": "Berlin, 31. Oktober 2025 - Das IQTIG hat am 27. Oktober 2025 seine zweite Regionalkonferenz zur regionalen Erprobung des Qualitätssicherungsverfahrens Ambulante psychotherapeutische Versorgung gesetzlich Krankenversicherter (QS Ambulante Psychotherapie) veranstaltet. Etwa 900 Teilnehmerinnen und Teilnehmer, davon knapp 80 vor Ort im Haus der Ärzteschaft in Düsseldorf, waren der Einladung zu der hybriden Konferenz gefolgt. Darunter waren in erster Linie an der …",
       "source_name": "Pressemitteilungen | IQTIG",
@@ -2381,6 +2411,38 @@
       "source_name": "GKV-SV Presseinformationen",
       "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2140608.jsp",
       "published_at": "2025-10-27T08:35:43+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Das passiert beim Gesundheits-Check-up - Techniker Krankenkasse",
+      "summary_de": "Das passiert beim Gesundheits-Check-up &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa2tidkR6VVpnOEdnckROY2RMZzNmSC1ZN0lXTHVORkJQUDEwUzAweG9nWUtkS0F2WUpmNnhJYmxHalhNSEc4UjFJcW9QcF9MVDhMOXZuSkVwTXZZRVhxMWE2MVdOTXJTVWhFbjUtbXMwd3IycnVJMGZQclJaWDQ5ZER6X3lGd1ZlanNOVV96WlFZemgwcnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-27T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Darmspiegelung - den richtigen Arzt finden - Techniker Krankenkasse",
+      "summary_de": "Darmspiegelung - den richtigen Arzt finden &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ0xmbzN6eXp6bWpQVm1BR2lCU05LVlVYd2hKTDRWTVFfS0xhd1NVNkVoSmVId3JqaGhkYW5PRElmRy1qbHFfdXIwTXpGMHQxWHRha1FNdTF3UnZuVDczRm0zYWE2RUhhUW0tLXlTN0V2b2hidnRiVm9XQTltajBhMm5ZQXRTS0pWNzhEbFpCY2t2dlJfNXdZZTBHUTVfWFRHSlN6ZkVPXzlLRG51emZXczYxdzRwLUtTNE9CU1kxZ0dvZ0IweEVNQXdiMXhOVVkz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-27T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Attraktiver Beitragssatz und ausgezeichnete Leistungen - DAK-Gesundheit",
+      "summary_de": "Attraktiver Beitragssatz und ausgezeichnete Leistungen &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdDRnbkpEUE5HQV9VQ1ZhdldESzQ0NDlpQ1V0LTJwbGRhY3dRWlI0YWpxV3U5U1cwX1daaFdyeWdDU3B1UEFlTmdKemstNGFIb0ZQM0lELTM0MjdpNVB0eHg4MWVMOWxKbzlOOVB3TERDSzJQc1pObW5oWV90VDlBOHJad2s3Y1pKYzFTcFVkZXF1MFpMYVN6WG1B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-22T07:00:00+00:00",
       "category": "Gesundheitspolitik",
       "tags": [
         "Wirtschaft"
@@ -2410,26 +2472,6 @@
       "type": "News"
     },
     {
-      "title": "Tiefe Hocke: Wirkung und Übung - DAK-Gesundheit",
-      "summary_de": "Tiefe Hocke: Wirkung und Übung &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNm9qaFR6YmNSQndUbkg0Qnp3Zkt5V0dyTVdXdGlCTHZzN28wTjlsYkkzTnpwTTNKVVdVa3FMemUzaXpJV09kSG4yMXNERGFuQVdINEtoLTN4RThneFFvZVJVR0xlLWFOTWJNT0owb3BGS2kzQThKeE1mSDZodnhnWGZfZVNYQlRINEQ3cEY4VlFhTWVMZkY0dUQtQTNaS3lrQXJfaGtWRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-21T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Welche Pflegeleistungen erhalte ich mit Pflegegrad 5? - Techniker Krankenkasse",
-      "summary_de": "Welche Pflegeleistungen erhalte ich mit Pflegegrad 5? &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWGxFLWc0YkFJSWJRRTZWbV9UREZIN1U1QkFVbHhCTmtUOUJETllVQzk3QllaNEdMVHpxRzBYUy1OM09lZExCNUFJVWxKcTdjaThhY0NQMTU1VzVJZjg5cXVxUXFLSUZOaWVIRTd2dGZKcXpnZGx4M241RlAyUEJwaF93MldIaUx5ZVNCelVsTkZVamhuSFlGT2YxMVdzMWRFM1l6aDhhbzhLOU5aVUtfR3RRYTdnRzhmeXRmQkpOVFJRajdZRXBWdXZXdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-20T11:08:51+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
       "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
@@ -2446,16 +2488,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOGtlYW96ZXpObFFpZG9UdUhTcENWVEo5WUx0dnRWbU1XTzlueDB6NWhrMGs5ak4xekJaMy1TNzJYUktVWGtld1hhY3dYcFdNWFBWVldUbm9fQlgtYmh6dVF2dTBCd3lNdmp4TU0tanlPcGpOVkdobVVEWXNYeGRZdTAwV2V2bzcxdG9YNWI5NW84R2JodjdjTWdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-18T07:00:00+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Arbeitgeber: Digitales Nachweisverfahren in der Pflegeversicherung - DAK-Gesundheit",
-      "summary_de": "Arbeitgeber: Digitales Nachweisverfahren in der Pflegeversicherung &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPX3AzX0s3bzN3OTN1MmJvMTRYUmxDMjZrVVBic2t0SHlkblVTVk84UFNfZzdRdFU1bllqS1ktR1ZxVHROT2VuNERmeDdWSWRRaXV5WlhjeWRBNENjQjA4SFpxV21RdEMxLXMxVzQ2NTVRYm02UEk2Y1VNZEdBaGh0U09adEktVF9maU9LSHNsaFAzWnBtQnU5d2lIMjVXRVJmSEM0T24zbTZlbVZ4czM1N0pESjM5TWRHTlRiS0dOUWpuRmNCWnh0NlF1eXJoWGUzVDJjWWVaMGdWRW10M2N5SzU4SzY2MnBic3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-10-16T11:16:28+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
