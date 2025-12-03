@@ -1,23 +1,13 @@
 {
-  "generated_at": "2025-12-03T03:47:33.377600+00:00",
+  "generated_at": "2025-12-03T06:22:46.786115+00:00",
   "window_days": 42,
-  "count": 333,
+  "count": 313,
   "items": [
     {
       "title": "Pflege - Weniger Kontrolle und Mitsprache? Protest gegen Pflegegesetz - Gesundheit - SZ.de",
       "summary_de": "Pflege - Weniger Kontrolle und Mitsprache? Protest gegen Pflegegesetz - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWWJUMi1vcjU1ZlMwa0FGZ0oxYWFMOVFjLVh1R2dwZk9EeXJjc3hmejJQeDZMeS1WUjFvVzgxVmdBdTRtODBhcXZLaDNpM25Db2d3Yl8xcVVjX19oYzVsMkhOQzc4T2JmdGRZVWIyaXo4dEtWd0w0MC1uSC1JVkhNa2l2WDM1VDY4TnZQc3pjeThnNzF0bVNJd3JvalVianRKOE5JMWtnN3lGV1N1R0pMVVFtTGM1dFV1VHMyRmZHdmdNTUJEOUljN2FjMUh6R3ZNbGdUb2w4ZVI1VzdTcnFtOVZYVE1nVVN0T1BZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-03T03:00:38+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Pflege: Weniger Kontrolle und Mitsprache? Protest gegen Pflegegesetz - DIE ZEIT",
-      "summary_de": "Pflege: Weniger Kontrolle und Mitsprache? Protest gegen Pflegegesetz &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLWlBSFk5OXdwY2Q5NHR1enJOclNQN2p2eV9Ia09zZG9mei1aeUk3SjVwVVg3Z2h2cjVHb1ktdEJEcGg5QzQ4U2pYa3NwdUliaUphX3FoRm5ZRWZSLTJYRjEzalBQd3BiN3FYMVF5cFN6dUdtMXRhVTBiVjFYMVpuNUpIQTZ6cHBwdWxRR0Q2cUlaSWtLcUFDeHRoWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-12-03T03:00:38+00:00",
       "category": "Versorgung",
       "tags": [],
@@ -54,12 +44,22 @@
       "type": "News"
     },
     {
-      "title": "Wie es um Donald Trumps Gesundheit steht - Spiegel",
-      "summary_de": "Wie es um Donald Trumps Gesundheit steht &nbsp;&nbsp; Spiegel",
-      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVW0ydE50eGlKVS0xWXJOd1k2bE9PV1Mzc0h6TGI1d0xlMHE5ZjNoSmhiaHpEbVJsT1VoZkpvakVNd0M4VlhDdXJOekJlbHhyUHJsYmU5LUxWN0trM1k4YW56c083OFk1dERidm5ZbUs3Y25rZjdCQ2VuX1J6a3ZmOTFNWml3NWhRV3NpeXFLeUdHbVk1NEtIdWY3SERaa2VCTFNMU0RKOEhkbmV3dHQ3M3d5RkVMTGhZZVd3bExpeWdEeC1UOUtSUkVZNDg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-02T19:17:00+00:00",
+      "title": "AI's performance in clinical settings may differ from literature",
+      "summary_de": "AI tools that receive regulatory approval may perform less effectively in real-world settings when compared with the literature...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/article/15773102/ais-performance-in-clinical-settings-may-differ-from-literature",
+      "published_at": "2025-12-02T18:57:50+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Radiology must persevere in sustainability efforts",
+      "summary_de": "It's crucial to reduce medical imaging's energy use and waste to mitigate the effect of global warming on healthcare.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/article/15773089/radiology-must-persevere-in-sustainability-efforts",
+      "published_at": "2025-12-02T18:00:31+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -80,6 +80,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/nervenschaeden-bei-diabetes-verhindern-160930/",
       "published_at": "2025-12-02T16:30:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Richard Barr talks optimism for CEUS at RSNA",
+      "summary_de": "Richard Barr, MD, PhD, spoke with AuntMinnie.com at RSNA 2025 about recent updates in contrast-enhanced ultrasound (CEUS) imaging...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/article/15773037/richard-barr-talks-optimism-for-ceus-at-rsna",
+      "published_at": "2025-12-02T16:27:43+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -109,6 +119,16 @@
       "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONWhIaklJSHc5UGFsYkpGdzBHZXp0RzdYT3FQUFZkVUJwVlQxRVVpa1NNYVJNM29ybE1wbHVGYnpnd00wZHpjTnpvR2ZkM0pCdm5aUkY2aHZvMVl4U09SelF1UE5fWURoNEdqUENYUnhKSUY2VTRGTGI5dnpYR3RNOVlFNXZDbVY4U3RTcC1lcTFYSlhZTTB6TVlIWUVQN090dHowWG9tOTJKMXRlUXNXVFZycEVTajZnUDhlQ05wS1ZOMm1kaTRFY2tLeXhodUk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-12-02T16:01:12+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Mirai shows changes over time for breast cancer prediction",
+      "summary_de": "The Mirai breast cancer prediction model showed changes over time in risk scoring.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/article/15773041/mirai-shows-changes-over-time-for-breast-cancer-prediction",
+      "published_at": "2025-12-02T16:00:25+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -214,6 +234,16 @@
       "type": "News"
     },
     {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Endemeldung Arzneimittel: innohep 4.500 Anti-Xa I.E. Injektionsl&#246sung pU: Leo Pharma A/S HR-Beiname: Leo Pharmaceutical Products Ltd. A/S",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2025-12-02T14:06:13+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "PZ-Umfrage in Apotheken: Aus Pflichtgefühl auch krank zur Arbeit",
       "summary_de": "Dass Apothekenmitarbeitende krank zur Arbeit gehen, ist keine Ausnahme. In einer aktuellen Umfrage im Auftrag der PZ nennen die Befragten nach Teamloyalit&auml;t und Pflichtgef&uuml;hl vor allem Personalmangel als Beweggrund.&nbsp;",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -224,22 +254,22 @@
       "type": "News"
     },
     {
+      "title": "SPECT/CT predicts how patients respond to Pluvicto",
+      "summary_de": "Quantitative 24-hour post-therapy lutetium-177 PSMA-SPECT/CT provides early prognostic information during treatment.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/article/15773035/spectct-predicts-how-patients-respond-to-pluvicto",
+      "published_at": "2025-12-02T14:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Promotional material: Vaccine safety – patient factsheet",
       "summary_de": "Patient factsheet to provide information on vaccines and vaccine safety.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
       "source_url": "https://www.gov.uk/government/publications/vaccine-safety-patient-factsheet",
       "published_at": "2025-12-02T13:58:56+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: &#196nderungsmeldung Arzneimittel: Ubretid Tabletten pU: Cheplapharm Arzneimittel GmbH",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2025-12-02T13:38:04+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -260,16 +290,6 @@
       "source_url": "https://www.diagnosticimaging.com/view/mammography-image-based-ai-models-assessing-risk-interview-constance-lehman-md",
       "published_at": "2025-12-02T13:10:00+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Prozess: Urteil zum Tod einer 12-Jährigen: Arzt geht in Berufung - DIE ZEIT",
-      "summary_de": "Prozess: Urteil zum Tod einer 12-Jährigen: Arzt geht in Berufung &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnBrMjlsWUNrQzNPVml5c0lQLWhwYVZKZGl6NXZ2eFNuaTBmb2VqSGt4N0xkNi1vS1MwT0R6WmQ0Y0ZoOHItZ1JiSHVLN2tzZV9waFNUb2pCeTBEZ1FQME1iTUczREYtQjFWOXdJWjJ2cjl3MmIzSkJpWTE1bF9mdXRSQ2ROTmhTTlotSm1EWFBKUmtHOHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-02T13:03:57+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -408,7 +428,7 @@
     {
       "title": "Krankheit und Pflege: Ausgaben der Krankenkassen in Sachsen-Anhalt gestiegen - DIE ZEIT",
       "summary_de": "Krankheit und Pflege: Ausgaben der Krankenkassen in Sachsen-Anhalt gestiegen &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZVY4akdwX2tzYWYtYnA1LUFrYjh0WFFldHRqa2R6ZEx4dWhPUVNycm1kdGRTMHNWZnFuRVQyLXZ0aE1jWUU2cldUemlEeFhXNkdpYjZuVncxd1hjdlNzVXpPTXVfWlNLZHFNSkVhSFUyaE1NWnh1aXdKRnkwc21HOENGVTNGRXlTUzlVdWItbTd2NjJV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-12-02T10:07:43+00:00",
       "category": "Versorgung",
@@ -555,26 +575,6 @@
       "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYVZiY3R6LXdOazZNVzZGRkNueTRyeWY3VC12WUhqbThjVWJ5WnRSUFJPNUpQRU0wbUo5MTdia3I1Z0Ywd19kRTBZcDZ5WXNjRlY4QVl4Wkw2TkFhNVBwbXZjVHRkOHdpekcxNFFSeThNVVFVRzhOZ1lZcWNHWlk1MmNWZk10eTBLTF9TdXJUak9TUVh6emNXMC1QaFRxYkZmLWN6TnQ2bXdmdUdmUWNuTzZfWDl0UVVHdVp3VQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-12-01T23:05:07+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Stratasys Aktie: Medizin-Explosion! - AD HOC NEWS",
-      "summary_de": "Stratasys Aktie: Medizin-Explosion! &nbsp;&nbsp; AD HOC NEWS",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNldMYlVGZ3hDXzdubEprUy1meEt4SmFnbDhMdDR2RlVXN2VqMUFWUmxzTmlXVzBLZzlFU0U1U0tkVjF0S3F1djNPRmx2ZVgwWU1VeEdMX0U3TDhoYkhMS0w2UkRndFR4cnZiSmV0aHE2ZmQ4TUg5UGhKSlN1SFBoRGtOOTJCTWdueU9Rb09kZ1A?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-01T19:24:30+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "France gets set to shine at RSNA 2025",
-      "summary_de": "An abundance of French charm and research excellence promise to light up McCormick Place in Chicago on Tuesday.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/article/15772996/france-gets-set-to-shine-at-rsna-2025",
-      "published_at": "2025-12-01T18:51:39+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -872,26 +872,6 @@
       "type": "News"
     },
     {
-      "title": "Abdominal obesity linked to heart damage",
-      "summary_de": "Abdominal obesity appears to lead to a potentially pathological form of cardiac remodeling called concentric hypertrophy.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/article/15772689/abdominal-obesity-linked-to-heart-damage",
-      "published_at": "2025-12-01T10:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Breast cancer incidence rising in younger women",
-      "summary_de": "Up to one in four breast cancers over a 10-year period were diagnosed in younger women.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/article/15772294/breast-cancer-incidence-rising-in-younger-women",
-      "published_at": "2025-12-01T10:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheitspolitik: Gesetzliche Krankenkassen reichen Klage gegen Bund ein - DIE ZEIT",
       "summary_de": "Gesundheitspolitik: Gesetzliche Krankenkassen reichen Klage gegen Bund ein &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
@@ -974,19 +954,6 @@
       "type": "News"
     },
     {
-      "title": "Pressemitteilung: Die Klagewelle rollt an – Krankenkassen verklagen den Bund auf 10 Mrd. Euro",
-      "summary_de": "Der Staat als Träger der Fürsorge hat die Krankenkassen damit beauftragt, die gesundheitliche Versorgung der Bürgergeldbeziehenden zu übernehmen. Die Krankenkassen haben diese Aufgabe entsprechend übernommen. Aber statt für diese Leistung voll zu bezahlen, lässt der für die Finanzierung zuständige Bund die Krankenkassen auf rund zwei Dritteln der Kosten sitzen. Das sind derzeit rund 10 Mrd. Euro Jahr für Jahr. Vor …",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2160877.jsp",
-      "published_at": "2025-12-01T07:28:11+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Versorgung",
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit - Soziales - Pflege - DIE ZEIT",
       "summary_de": "Gesundheit - Soziales - Pflege &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -1012,26 +979,6 @@
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbjllRHJBWFc1MnFFRUpGWGlfQmFrYkl6MjJyWmk1VHNfMVNRZWNWZnF3ZkdnUE5YMXd4TFlSbDNJVllNUGZFekQ2eTBSdmROT2t3LTJocm0wZnpYYkJkUC1CSDNTUWdha3pDcGtMdmppV1d3eWRwX05OeXczVEw2WUtCQm1ZLTRuOXA3aENST0NXZnRpUE9DSnI3YUxCS1dTTDlZZ1htb25MWHhRdmxLN1JPaXNqRFBLZDhUSVVpaDg5Z0RJTzVkWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-12-01T07:17:46+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Imaging can help 'All of Us'",
-      "summary_de": "Geoffrey Ginsburg, MD, PhD, invited imaging leaders at RSNA 2025 to work with the All of Us program to advance precision medicine...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/article/15772940/imaging-can-help-all-of-us",
-      "published_at": "2025-12-01T07:07:21+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "GE HealthCare features new MRI scanners, PCCT system",
-      "summary_de": "Two new MRI scanners and a photon-counting CT (PCCT) system are among the highlights this week for GE HealthCare.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/article/15772907/ge-healthcare-features-new-mri-scanners-pcct-system",
-      "published_at": "2025-12-01T07:00:52+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -1207,16 +1154,6 @@
       "type": "News"
     },
     {
-      "title": "Radiologie & Nuklearmedizin am Klinikum Itzehoe eGbR Stellenangebote in Schleswig-Holstein | Ärztestellen - ärztestellen",
-      "summary_de": "Radiologie & Nuklearmedizin am Klinikum Itzehoe eGbR Stellenangebote in Schleswig-Holstein | Ärztestellen &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOM01scEFtRjRGZWsxdmNoZVhBUEhKcWFDV1FydkVVaFdxWlJjZDJKcFk1VmNubGdxRFlfUjQ1dlhJZG1lRUdlUmZMMjhOcU42Q1lHbDJsdkswLTlPenVNbjZYTHVxVi1aa2hSeEg4U2prUkNybHg1eDlnbjIyMFctVnJ3T1M3eGw3ZEIxYVBLbTFhZThXbVRDbzhJb1N4dWdsYmFoT0tHX3QzbUJteGxtTWdEYllMUW1hZzc4eFUwS1RPOTZqUkdTMjVzWTdlV3NIaFFEeWMwWmVIR3NObnpoenhlZGkzaE0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-29T14:16:12+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Radiologie VAMED Klinik Geesthacht GmbH Stellenangebote in Nordrhein-Westfalen (0) - ärztestellen",
       "summary_de": "Radiologie VAMED Klinik Geesthacht GmbH Stellenangebote in Nordrhein-Westfalen (0) &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
@@ -1277,6 +1214,16 @@
       "type": "News"
     },
     {
+      "title": "Innere Medizin Landratsamt Rottweil Stellenangebote in Lörrach (0) - ärztestellen",
+      "summary_de": "Innere Medizin Landratsamt Rottweil Stellenangebote in Lörrach (0) &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZWZxRWE1VDJhbFRxMHJxSlNUaHI4cGNKUUxJbGJ6MlhVVUNoekk1WVVaUExPUWQ3a3FvUFFUR0dieGcwTk4wNWtVSWRPRkVBbmxILU16SWdlbE0zOHBkMXlKWWRLQUFVMnFCUEFGWnRrelp4NTViMHlOcGV2dTNBeUVxRzRxZnM4dHFhaWxLQVMzbFE5cUdTS1QtdzUzN2JHU25zZ2tGTExhZWZtVTEyckpTd2o2VmtVQmVPYlFWUUptb3pLR2RyMEplVGFXZG5XR3ZPU1RSdUNlMFc1X0pELTVsUzZFM1pvRWZDdG03ME96ZUk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-29T02:46:10+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Radiologie Klinik Teilzeit Niedergelassener Bereich Industrie / Dienstleister Stellenangebote - ärztestellen",
       "summary_de": "Radiologie Klinik Teilzeit Niedergelassener Bereich Industrie / Dienstleister Stellenangebote &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
@@ -1292,16 +1239,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTV9KRElZZExPdXh1TXdieDhHOVpnc2NIVFVxWGpldGYzLTdidWswUF83enZQQ3g3ZGhOblEtaXlnWl9TQndsdTRCcDB0QTVoUzQtTDJMeUZoVVZiRjV1YTFldllpZUZwUnN5VzdWZHZDQjRaNUtrbk5tU0dtR0l3ckdUUlBJT1dJZXhHVVY0RHFHS211SzBDX3o4bXlaQndzMWRhbWY4c1hQaGdnajRVZzhzek9zaW9tZW1vLUFEMFpuQUV2S3VwR0RDczd3LXN2a2pKTTd1U01CdlJSem9JSmlPb21RWW5PQWowQnNpbXlIckJJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-29T00:00:07+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Arzt / Facharzt Vitos GmbH Klinik Öffentlicher Dienst Industrie / Dienstleister Stellenangebote - ärztestellen",
-      "summary_de": "Arzt / Facharzt Vitos GmbH Klinik Öffentlicher Dienst Industrie / Dienstleister Stellenangebote &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2tvXzdycEVYMzBRVENMZUdyR3l6TUs2bV9RVnNNcEFNQ2xONGdFMkM1bklJVDJrdFJPejRsNjRueEM3WWFkd202aGYxMUFvcXU0OGpSR1RvTmhPM21NenJmNmVLaHJnSmktSUJrSkgwbi1PMmt3blBITVNkZjFNdll2ck5jTGF3R2FkRlZkQVE4azBuaVdQTFVFUThHZi12aUdvb0syYlJpaVMxTTJVbDY3ME1IV0J5WXFsRTBpNkx5Q2pV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-28T22:35:33+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1454,16 +1391,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVVk3WUJaeTdPT1Bac2p1UXllb0d0YmFuSDg0dGJyejBMbHV0Q21OSlAxLVUyd2Q1aHlxVHlQY2tvOXUzdUpINjBJRUpVOTFibFpwTkRleXBVMUZLeVFBcWQ2R0IxNVdBNUU4Ni1YdlIzdkJ4ZkxwZk1OdUNSNUdIby1zNklEaWlBQ2prNEM2bGRwZ3c0RFdSRy1qZUNYZ0M4UEJZRlE1eEtrMk80LUdiSjVKRTA1a3d4a3ZVX0FQaGhJY2IyUEpvNmkyMFVydjBZVklVSmljX3h4ekxUemZ4aDhqa3k4S0trMW1kSmgxQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-28T06:00:12+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Patientenberaterin klärt auf - Darf mein Arzt mir ein Rezept verweigern? - Gesundheit - SZ.de",
-      "summary_de": "Patientenberaterin klärt auf - Darf mein Arzt mir ein Rezept verweigern? - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUzlscFpobTJFYlF6T1FjQVlXdnhCWnNLU0tKXzVBQTUwR3N5VGlqNzRQang0dy1RT2R5cm9sdXREb3VDX2R6R0JRNi1HYU9rZUc0T1JEWFhEMko1RWZPWUk5V0lOUGR6akxhZy1kN0hOUmJCY0xWVm02WUwtS05ZUEVNbFRDOWIzOWZPaGlHcTh5X0c2WExFTGdrLVBUeEg5eVZzajNJRFlreE5PaW9Sb3NPWUI4dkQ3dWdYODVTSDlkZVk2ZXZIMlN1Y1ZOT2xNbGRkVmlSb1lsNTgxdUdGcHp2ODlHc25wR3JrdnkzeS0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-28T05:00:06+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1641,16 +1568,6 @@
       "type": "News"
     },
     {
-      "title": "Rauschtrinken rückläufig - Weniger Jugendliche mit Alkoholvergiftung in Krankenhäusern - Gesundheit - SZ.de",
-      "summary_de": "Rauschtrinken rückläufig - Weniger Jugendliche mit Alkoholvergiftung in Krankenhäusern - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQYjI3R3ZEeHNwS3BKT1c1VXFFOTRMS1NaaV9RS1RzRVJIU0g0cTdXTmE4ZEJaaEsybEVaOGJjZ2ppUzZmRWZLY0NVYlItLUs2bXNjZE14WDc4bEduSzFCek44bnRfM1ZvRm1SSk1UZ0t6OHo2U0ZvaU10THZxM0l1Tmpfc2tZOXVIbXpuM3BHZU9XWGdmMHFiQmJoeGZ1aWtDS2tRYVZyNkVWM3BWTTRkX0ZrOENObnJHdlpQYWd6blVwc05iV3FsR2U1V214djlaVFFyTXhmSVNRQ1lZZlRiWkxkRWxMd3RHamNHVDlLRnppclR0OEVSU2dFdEhHMlQyQXpmdjNIQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-27T10:19:01+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Have your say – dioxins and related PCBs",
       "summary_de": "Dioxins and dioxin-like PCBs are toxic chemicals that persist in the environment for years and accumulate at low levels in the food chain, usually in the fatty tissues of animals. Their presence in food and feed has declined since the 1970s thanks to the efforts of public authorities and industry. In their draft scientific opinion, EFSA experts confirmed the conclusion …",
       "source_name": "EFSA | News",
@@ -1813,16 +1730,6 @@
       "type": "News"
     },
     {
-      "title": "Tabuisiertes Gefühl - Regretting Motherhood: Wenn Elternsein nicht glücklich macht - Gesundheit - SZ.de",
-      "summary_de": "Tabuisiertes Gefühl - Regretting Motherhood: Wenn Elternsein nicht glücklich macht - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQczNhelRwRlg0Ym9LaVRyY09fcFlRV05PcFg2Z0dhdVhCcjREZmxOUEhnWXo1QUNycC1NczJkTkpqLWx2RW00MGticjYzV3h3RDFoN0V1Y25XeEltN1lTRFR3NzdyVjJCbUkxQ0prMFR2QUZySGNrX0VGVWlwb2ZjODg5YmJ2d0RiRHhSdlkySUg1NzV6azFURWNIVnM3WjVRR2FKYVRNVVNTem93Mjd6QkJaTmZkN1FPSHlLU1k3MG4ybzcwSG51YXNxRUx2TnBvZ1JEN2hvUlFYbGdrSEdRVzNTYmJ6TXUyc3VTTVJQWk1ZckFfeFN0N0hRVFhrTnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-26T23:05:09+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Arzt / Facharzt Radiologie Befristet Stellenangebote in Brandenburg - ärztestellen",
       "summary_de": "Arzt / Facharzt Radiologie Befristet Stellenangebote in Brandenburg &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
@@ -1893,16 +1800,6 @@
       "type": "News"
     },
     {
-      "title": "Krebs - AOK: Männer gehen häufiger zur Krebsvorsorge - Gesundheit - SZ.de",
-      "summary_de": "Krebs - AOK: Männer gehen häufiger zur Krebsvorsorge - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQblJVb3ZaeTM5ekUtb0E0elZLMF9ISGprNS0xWW1UekQzNmtXNnJMWTlBX1FzSnhMSWhSdDhhQ3ZUaERydHRoZkJIR0xkNlZCRkxLWWVyV2RZajJFR0QwNDVYSklOdGJmWUZTNElkSmxveWhJMXROZTlnYmtwNHpNZng4aVN6dldqd3VjRUhNMnR6SmZrN24zb3p1ZjJ0M3hKS2UxMVltaU9fTDdWOWZEZ3hMQ2g2YTY2TDZFc3plalBkVmFsbXpEU19DZW95MVpyS2VCTXFGRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-26T10:31:07+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "TK-Stressreport: Zwei Drittel sind gestresst | Die Techniker - Presse & Politik - Techniker Krankenkasse",
       "summary_de": "TK-Stressreport: Zwei Drittel sind gestresst | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
@@ -1920,18 +1817,6 @@
       "published_at": "2025-11-26T10:00:10+00:00",
       "category": "News",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "gemeinsame Pressemitteilung: Präventionsbericht 2025: Investitionen der Krankenkassen erreichen neuen Höchststand",
-      "summary_de": "Rund 686 Mio. Euro haben die Krankenkassen im vergangenen Jahr in Aktivitäten zur Gesundheitsförderung und Prävention in Lebenswelten, Betrieben und für einzelne Versicherte investiert. Damit haben die Gesamtausgaben der gesetzlichen Krankenversicherung für Gesundheitsförderung und Prävention das Niveau des Vor-Corona-Jahres 2019 (rund 630,8 Mio. Euro) deutlich überschritten. Das geht aus dem neuen Präventionsbericht von GKV-Spitzenverband und Medizinischem Dienst Bund hervor.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2158637.jsp",
-      "published_at": "2025-11-26T07:33:13+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
       "type": "News"
     },
     {
@@ -2105,26 +1990,6 @@
       "type": "News"
     },
     {
-      "title": "KI in MRT und CT-Geräten – Was ist möglich? - Hamburg Business",
-      "summary_de": "KI in MRT und CT-Geräten – Was ist möglich? &nbsp;&nbsp; Hamburg Business",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZXNocDNwSEpMWmxiZFNVaVdDa2xYV05EU09YY3NBODlzUHdjeDBFcHZmYU84WFdCVW1xVTlEODdub0hNRHZRX2RDSGQySkxSdE1LTHZVb3pNUmR6Y3lxMEtFVFJOQkdMM05KLWFnYWU1NGNtX09yXzdNbGkyTnl0bHN6YU5LQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-25T05:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Mecklenburg-Vorpommern: erneut erheblich weniger jugendliche Rauschtrinker - DAK-Gesundheit",
-      "summary_de": "Mecklenburg-Vorpommern: erneut erheblich weniger jugendliche Rauschtrinker &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPWXpEY2Vha2gyS0gzbW9XbjgwVmRON0ZobG5VQ2xSU0JVYmdUUGd0X3I1Nm4zZUFmZm5qU2tOQ3Nld3BHWi15b0lPWlVIM0t2QUp6R0NWdWN6ci1zcWJwWEJZNVRPUWx3REQ2VWgyblo0cG40c2NybkIteXBuQWo3aFdTclFEMVZLM09UQmd0c09JVkgtaDhLR2lteER5eGkxcnl4Vk9OZ0FTd3JhVXpRQWJRcWpPRm1PNUZRX0lLQ1M2cFliOVJ5d200YkFILVdHeDQxRXZ6ZHdmcGJYRkNSdzlrZkxsOGY0emw2MkpYMmYwUFV6SGQtWU5pNVJHckRw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-25T03:56:15+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Interventions for quitting vaping",
       "summary_de": "Interventions for quitting vaping",
       "source_name": "Cochrane Library RSS feed.",
@@ -2205,31 +2070,6 @@
       "type": "News"
     },
     {
-      "title": "Meldung: Wir brauchen mehr Klartext",
-      "summary_de": "Zur Blockade des kleinen Sparpakets durch den Bundesrat fand Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, im Gespräch mit der Apotheken Umschau deutliche Worte: „Es ist ein politisches Trauerspiel. Das sind schon wieder schlechte Nachrichten für 75 Millionen Versicherte und die Arbeitgeber dieses Landes. Denn ohne die dort vorgesehenen Einsparungen müssten die Beiträge der Krankenkassen zum Jahreswechsel noch stärker steigen, als sie …",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2157633.jsp",
-      "published_at": "2025-11-24T09:31:23+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
-      "title": "Pressemitteilung: Einigung auf Fallpauschalenkatalog 2026 schafft Planungssicherheit - Ambulantisierung muss weiter vorangetrieben werden",
-      "summary_de": "Der GKV-Spitzenverband, die Deutsche Krankenhausgesellschaft (DKG) und der Verband der Privaten Krankenversicherung (PKV) haben sich auf den Fallpauschalenkatalog (DRG) für das Jahr 2026 geeinigt. Seit 2004 bildet der Katalog die verbindliche Grundlage für die Abrechnung von derzeit mehr als 17 Millionen stationären Fällen in deutschen Krankenhäusern.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2157632.jsp",
-      "published_at": "2025-11-24T08:51:27+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Versorgung",
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "20220222_TK_Barrierefreiheit_Gebärdenvideos_DE_1+Erklärung+zur+Barrierefreiheit_Master_TVN - Techniker Krankenkasse",
       "summary_de": "20220222_TK_Barrierefreiheit_Gebärdenvideos_DE_1+Erklärung+zur+Barrierefreiheit_Master_TVN &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
@@ -2287,18 +2127,6 @@
       "published_at": "2025-11-21T20:24:00+00:00",
       "category": "Radiologie",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Meldung: Bundesrat stoppt Sparpaket – Druck auf die Krankenkassenbeiträge steigt weiter",
-      "summary_de": "Heute hat der Bundesrat beschlossen, das Sparpaket zu blockieren und den Vermittlungsausschuss anzurufen. Dazu erklärt Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes: „Es ist ein politisches Trauerspiel. Nicht einmal das „kleine Sparpaket“ konnte heute abschließend entschieden werden. Das sind schon wieder schlechte Nachrichten für 75 Millionen Versicherte und die Arbeitgeber dieses Landes. Denn ohne die dort vorgesehenen Einsparungen müssten die Beiträge der …",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2156224.jsp",
-      "published_at": "2025-11-21T15:11:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
       "type": "News"
     },
     {
@@ -2592,19 +2420,6 @@
       "type": "News"
     },
     {
-      "title": "gemeinsame Pressemitteilung: Sozialversicherung legt Digital-Positionspapier vor: „Europa braucht praxisnahe Regeln für eine zukunftsfähige Verwaltung“",
-      "summary_de": "Kritisch, digital, souverän – Mit diesem Selbstverständnis treiben die Träger der Deutschen Sozialversicherung den digitalen Wandel in Europa aktiv voran. In einem gemeinsam veröffentlichten Positionspapier bekräftigen die Deutsche Gesetzliche Unfallversicherung (DGUV), die Deutsche Rentenversicherung Bund (DRV) und der GKV-Spitzenverband jeweils ihren Anspruch, Digitalisierung verantwortungsvoll zu gestalten, und fordern klare politische und rechtliche Rahmenbedingungen auf europäischer und nationaler Ebene.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2153472.jsp",
-      "published_at": "2025-11-17T08:44:31+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Europa",
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Meditieren lernen - Techniker Krankenkasse",
       "summary_de": "Meditieren lernen &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
@@ -2740,16 +2555,6 @@
       "source_name": "Publication Feed",
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/patients-registered-at-a-gp-practice/november-2025",
       "published_at": "2025-11-13T09:32:04+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Primary Care Workforce Quarterly Update, 30 September 2025",
-      "summary_de": "The Primary Care Workforce Quarterly Update presents snapshot data of the Primary Care workforce for General Practice and Primary Care Network Staff. Snapshot data refers to the situation at a specific date. This relates to the end of the quarter (June, September, December and March), however, data are made available at different times due to availability according to the release …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/primary-care-workforce-quarterly-update/30-september-2025",
-      "published_at": "2025-11-13T09:31:55+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
@@ -2965,19 +2770,6 @@
       "type": "News"
     },
     {
-      "title": "Pressemitteilung: Ambulante Versorgung gestärkt – mehr Hybrid-DRGs",
-      "summary_de": "Niemand liegt gerne unnötig im Krankenhaus und mit diesem Beschluss bleibt im kommenden Jahr vielen hunderttauschend Menschen eine unnötige Übernachtung im Krankenhaus erspart. Mit der Erweiterung des Hybrid-DRG-Katalogs auf künftig 69 abrechnungsfähige Hybrid-DRGs haben wir eine Verdreifachung der Leistungen, die auch in den Kliniken ambulant durchgeführt werden können.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2150721.jsp",
-      "published_at": "2025-11-13T08:00:18+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Versorgung",
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Gesundheitspolitik: Bund will Pflegeversicherung mit Milliardendarlehen stützen - DIE ZEIT",
       "summary_de": "Gesundheitspolitik: Bund will Pflegeversicherung mit Milliardendarlehen stützen &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
@@ -3028,19 +2820,6 @@
       "type": "Studie"
     },
     {
-      "title": "Meldung: Konkrete Vorschläge zum neuen Hebammenhilfevertrag ab 1. November 2025",
-      "summary_de": "Am 1. November 2025 ist ein neuer Hebammenhilfevertrag in Kraft getreten. Der Vertrag regelt bundeseinheitlich die Versorgung der gesetzlich Versicherten durch die ca. 18.000 freiberuflich tätigen Hebammen. Der jetzt gültige Hebammenhilfevertrag bringt umfassende strukturelle Veränderungen mit sich, die die Versorgung der gesetzlich Versicherten deutlich verbessern. Darüber hinaus verbessert er die Vergütung für freiberuflich tätige Hebammen.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2150720.jsp",
-      "published_at": "2025-11-12T14:51:26+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Versorgung",
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "von Maydell: „Trägervielfalt beibehalten, aber ökonomisch induzierte Fehlentwicklungen verhindern“",
       "summary_de": "Der vdek begrüßt, dass MVZ durch den Antrag „Medizinische Versorgungszentren reformieren“ der Fraktion Bündnis 90/Die Grünen wieder in die Debatte kommen. MVZ seien ein wesentlicher Bestandteil der ambulanten Versorgung, betont Boris von Maydell, Vertreter des Vorstandes beim vdek. „Gleichzeitig müssen Fehlentwicklungen verhindert werden, die rein ökonomisch induziert sind und nicht den Interessen der Versicherten entsprechen.“",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -3060,19 +2839,6 @@
       "published_at": "2025-11-12T09:00:00+00:00",
       "category": "Gesundheitspolitik",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Meldung: Eine Milliarde Euro pro Tag",
-      "summary_de": "„Wir schätzen, dass die gesetzlichen Kassen im nächsten Jahr rund 370 Milliarden Euro ausgeben müssen, also über eine Milliarde Euro pro Tag. Damit liegen wir zwar bei den Ausgaben in Europa an der Spitze – aber leider nicht bei der Lebenserwartung“, so Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, im Interview mit dem Onlineportal web.de",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2150252.jsp",
-      "published_at": "2025-11-12T08:13:45+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Europa",
-        "Wirtschaft"
-      ],
       "type": "News"
     },
     {
@@ -3156,6 +2922,36 @@
       "type": "News"
     },
     {
+      "title": "Professur für Metabolismus-Bildgebung (W2) - Liebigstraße 27b, 04103 Leipzig, Deutschland - ärztestellen",
+      "summary_de": "Professur für Metabolismus-Bildgebung (W2) - Liebigstraße 27b, 04103 Leipzig, Deutschland &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0xkT0dfb3lCbkxaMkZtWURHa1pCTUFsNWd5TDVMQ1hwc0ZfWVdGX0E3SWN1ZFRKc1lZX0FiNGxzWWYwZnVxeFhUU3hfRzZ5U0VVamZQY2pqSnh0QWZwa1JhS3paWC1WN3h2SjJuZHlnVUpIMm5qQ3o5NjRvd2d5bDZUOUFRdjJUazNUZTk5MjFudzJkTld5dXhyTDE5aUtGS0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-07T08:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Zichorienkaffee: Gesunder Kaffee-Ersatz - DAK-Gesundheit",
+      "summary_de": "Zichorienkaffee: Gesunder Kaffee-Ersatz &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd05HRG5CVjhCRGJsLWFDWEpIeHpVX2xqVWR6XzVTaXM5ZzhIcDlCUk1SQ2R0RlBLUnozOVJQbmZyRkJEQTVZTjdqbDloWGpQOFpUZ2RmMm93NTFtLUI5bU5LTUk5ZHdVdGV1LXNmaXBCRkNWOUowdVRVTk43MGtLRFdSNGt4ZGJVdDVj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-06T20:41:08+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Brathähnchen - DAK-Gesundheit",
+      "summary_de": "Brathähnchen &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWGRpb05VMmZWNHVrQmE4X201ZzlKLU1sUDRGa2NkZTJ0TEpwUXFudW9GLXNxdVFlUGtVMjIwTTZVeGZPODJFNVJYZmlSR1RScnp6eFZ4R1NISVhUV2FDTGZpMHAtODN3dzZKWFFXQ2tTQ1JORmhwSC1vR2plc1Q4RjZB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-06T19:40:11+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Kein Alkohol: Erholung für den Körper - DAK-Gesundheit",
       "summary_de": "Kein Alkohol: Erholung für den Körper &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
@@ -3206,6 +3002,16 @@
       "type": "News"
     },
     {
+      "title": "Krankengeld: Das gilt für Arbeitssuchende - Techniker Krankenkasse",
+      "summary_de": "Krankengeld: Das gilt für Arbeitssuchende &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNalNZMXNQRzktbzh0SUVWQlpJYjl4R0lJZVg5TE0zaUJxQ0tHOGZWUjJRcVk5MUthS1FpX0s0LVhfZnNaN2RCZXBtNElYR0lXZ0tGWU9NMWJFd2Q1R1V6N1lDUm4zUHdNNUFTQjlxdHEtVlE0TmtXd0JIVWh6bjl5aTRvVmNCTzFwWHBvakFzeHdVZTAteWpBRXlpOW93WlU1YkE1d3RlRTdCaURhaF83dnoxOVpnMDJQWTVIQ3d3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-06T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Kontaktformular Firmenkundenservice Techniker | Die Techniker - Firmenkunden - Techniker Krankenkasse",
       "summary_de": "Kontaktformular Firmenkundenservice Techniker | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
@@ -3246,19 +3052,6 @@
       "type": "News"
     },
     {
-      "title": "Pressemitteilung: Löhne in der Pflege steigen bundesweit durchschnittlich um 4,9 Prozent",
-      "summary_de": "Die Durchschnittslöhne in der Pflege steigen in diesem Jahr erneut an. Nach Berechnungen des GKV-Spitzenverbandes sind die bundesweiten Stundenlöhne in der Langzeitpflege gegenüber dem Vorjahr um 4,9 Prozent auf 23,70 Euro gestiegen.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2142914.jsp",
-      "published_at": "2025-11-04T08:00:17+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Versorgung",
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Gesundheitspolitik: Niedersachsen will Gesetz für psychisch Kranke reformieren - DIE ZEIT",
       "summary_de": "Gesundheitspolitik: Niedersachsen will Gesetz für psychisch Kranke reformieren &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
@@ -3279,33 +3072,11 @@
       "type": "News"
     },
     {
-      "title": "Meldung: Da muss nachgelegt werden",
-      "summary_de": "Vor der Anhörung im Bundestag zum Sparpaket von Gesundheitsministerin Nina Warken (CDU) an diesem Montag hat Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, im Gespräch mit der Neuen Osnabrücker Zeitung (NOZ) weitere Sparmaßnahmen gefordert: „Wenn weitere Sparmaßnahmen ausbleiben, dann steigen die Zusatzbeiträge im nächsten Jahr im Durchschnitt auf über drei Prozent. Das belastet die Versicherten, das belastet die Arbeitgeber, das kann in …",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2144320.jsp",
-      "published_at": "2025-11-03T08:53:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Duderstadt: St. Martini Krankenhaus eröffnet neue Notaufnahme und Radiologie - Eichsfelder Tageblatt",
       "summary_de": "Duderstadt: St. Martini Krankenhaus eröffnet neue Notaufnahme und Radiologie &nbsp;&nbsp; Eichsfelder Tageblatt",
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSENaLXRWc0ZIb3lUb1BQVUVCUnVFdFQ0alIxcnZGRi1Jc2VNcDNWNEFZSk1VZ2tueDJScmVsREFsa1loVDJHQ1FGWFNoRTZNRENVeUZwRkJocGs4ZmhDelF1Y3Izb3hfZFJKeFhabGowdXhkcHZHQkl1ZFBmMmJpd1BjYVl2M2lfOTFiQzVSbWZoT0ZHZ1NsODdVV3NSTWN6TlFCN2NmNTFyNTI4RmtCamVMQjZnX2JUcC1PUmNabFZyVDBQV3VMenRYalF6X0NwTnhDR3JXVWV5QVhibC0tWU92WUlDZHFvdTJDRzdqbWxLZVpUX19vYWFOelhSU1hhQ1RFYVJTa9IBowJBVV95cUxQckxHdU83eTN6eXBpbnNZaFk0azNOV0lXUWUtbXZKTGtRZnBHMldxSDZiYU5OWHM4dGpSSUtlYmdTdERmUXVfNmYwZU5oWlRSZ1VzMFdZUG1Jakg3T0ZTY2lJU0Q2T3pZQ3hrSVdRSjEyWWRWT3ZWbTIwRzI1RmhQMl9mY0d6ME9BZktQVE9Md1Y4ZFQ4RkxSWEJEM2o4cms0MVZZLXdwcWRSVU1vcTJrUVRLbWVMamdUdXpyU0VaLVhJaWNoMDVJRFhHLWdLb1Nlc0lKTzJTdm1pRC1qR3puSUxNbnhEaGhoYXRUZjdjdjBRbUxDTDJuWmYzOV9aclFDRUVUYS1SUWsyS2JqLU9pdEVFbUpiZ1dMTW02WEtuU0FJcXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-03T08:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Arzt / Facharzt Radiologie Stellenangebote in Zwickau (0) - ärztestellen",
-      "summary_de": "Arzt / Facharzt Radiologie Stellenangebote in Zwickau (0) &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSlk0aGw4N0F0clVBbmRPVUFTZl9UYnVTZV9YSXJuelZuS2tuNmpVTXllYUhEZVdHcFZ2Slo0cXlMNmc5aDRzd1RocjduS3VreFd5TnZRRGRjWk1xcTNFcHNpX0xKUHUzRWVKNTRFU252em4xZzNVTkNqOWd1aUd5SmtIMGFqX0Y3anc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-03T04:09:50+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -3351,23 +3122,21 @@
       "type": "News"
     },
     {
-      "title": "Meldung: Stabile Beiträge - noch kann das BMG handeln",
-      "summary_de": "„Der offizielle durchschnittliche Zusatzbeitragssatz wird erst Anfang November vom Ministerium festgesetzt. Das BMG kann also noch handeln“, so Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, im Interview mit der Ärztezeitung. Er betonte, dass die finanzielle Lage der gesetzlichen Krankenversicherung (GKV) ernst sei und dass ohne weitere Aktivitäten des Bundesgesundheitsministeriums zahlreiche Krankenkassen ihren Zusatzbeitragssatz werden anheben müssen.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2140608.jsp",
-      "published_at": "2025-10-27T08:35:43+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Das passiert beim Gesundheits-Check-up - Techniker Krankenkasse",
       "summary_de": "Das passiert beim Gesundheits-Check-up &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa2tidkR6VVpnOEdnckROY2RMZzNmSC1ZN0lXTHVORkJQUDEwUzAweG9nWUtkS0F2WUpmNnhJYmxHalhNSEc4UjFJcW9QcF9MVDhMOXZuSkVwTXZZRVhxMWE2MVdOTXJTVWhFbjUtbXMwd3IycnVJMGZQclJaWDQ5ZER6X3lGd1ZlanNOVV96WlFZemgwcnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-27T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Wie Stress unser Immunsystem beeinflusst - Techniker Krankenkasse",
+      "summary_de": "Wie Stress unser Immunsystem beeinflusst &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb0U0cnJGb3N1a05nZE5WVTh3WmM3ZHhSVkhIZTVqbHVyQlA1V2NIdVJXdHBSa2tnWE9fUnVFZHltc09qNHVPZTAtcWhtTWhIMzNZYzN3eGQzbDVrTEp6TDFLUUp1cl9sQVBNVHRoZTk0MXNudWRFdHNIc0tmclh1YTlpNTFpTVpnSFFtZU9mMVdWV3gwUHZMNWh3WkxjXzFPN1dHOUE3NGcxM1U0c2pLM1FR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-22T07:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
