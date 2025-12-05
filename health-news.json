@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-12-05T18:19:13.100692+00:00",
+  "generated_at": "2025-12-05T21:13:06.857348+00:00",
   "window_days": 42,
-  "count": 336,
+  "count": 334,
   "items": [
     {
       "title": "Diagnostic Imaging articles: Update",
@@ -73,6 +73,16 @@
       "tags": [
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Pflege - Land will Situation pflegender Angehöriger verbessern - Politik - SZ.de",
+      "summary_de": "Pflege - Land will Situation pflegender Angehöriger verbessern - Politik &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNVkydnMwaVpWX2NTdXNjbVc5THRNby1WNUpaSXNMWWtOUE1YR0Q4ZklvRmktMjh4Slp5RlJHY2Z3V0VRQWE0UkNaQVJ0blkwMGpPUlR6X1M1OWd1cnpHaDlWM2lqUVFseGs1NG1rXzY2a2czQVQzS1VnSFMyckNxLUxrVG5wN1JuTnl2dkxWWnplalhfU1BkZ2c5UEFfR2U3eFFSRFJELXlsdmNUaEhTN3NEcExDeWowckNNSXZKUEpLTnpOQ2VpU1ozRlZzMmlLUHllUkRrbTVNVXlNZkxucw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-12-05T15:17:58+00:00",
+      "category": "Versorgung",
+      "tags": [],
       "type": "News"
     },
     {
@@ -384,6 +394,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/wozu-auswendiglernen-161006/",
       "published_at": "2025-12-05T08:00:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "3D CNN model estimates MACE risk from chest CT",
+      "summary_de": "The algorithm appears effective even when applied to diverse patient groups.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/article/15773351/3d-cnn-model-estimates-mace-risk-from-chest-ct",
+      "published_at": "2025-12-05T08:00:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -784,6 +804,16 @@
       "type": "Studie"
     },
     {
+      "title": "AI tool for breast ultrasound helps avoid unnecessary biopsies",
+      "summary_de": "Research presented at RSNA 2025 showed how an AI support tool for breast ultrasound could help avoid unnecessary biopsies.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/article/15773358/ai-tool-for-breast-ultrasound-helps-avoid-unnecessary-biopsies",
+      "published_at": "2025-12-04T10:35:39+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Lebensmittel - Gentechnik im Essen? Worauf Sie beim Einkauf achten können - Gesundheit - SZ.de",
       "summary_de": "Lebensmittel - Gentechnik im Essen? Worauf Sie beim Einkauf achten können - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -850,6 +880,26 @@
       "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSlJrMjFQczlFRGoxN2dzUHVBVm9QSW9hR1NoTG4xMTZ2N1lXaDJuU21EaHVGVjNYbTkweC1LbG1tSDZfZVBnM1pyQ0ZQRnBDSXFMRDRCRkpsNEIxSU5ZcElDbXVtRmp3QWVOU2VoUUdhSmdpSkpIQ2ZZeXZKTlZSd2NKQm0xbjZxSjNpWE5sMEtVRFhnZWZDYmkyUDJVRHZRT3oxaXhPZGF4a1dCWVp2TzdqTzJHSXhBZFNiN1g0QzhSZHZNMXVNYlRPZkt6NnVK?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-12-04T09:21:00+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "What is the role of AI quantitation of coronary plaque?",
+      "summary_de": "Tracking coronary artery calcium score alone is not enough, according to an RSNA presentation.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/article/15773356/what-is-the-role-of-ai-quantitation-of-coronary-plaque",
+      "published_at": "2025-12-04T09:08:48+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Video from RSNA 2025: Economics and radiology",
+      "summary_de": "Eric Christensen, PhD, shares his economist's perspective on issues facing radiology.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/article/15773366/video-from-rsna-2025-economics-and-radiology",
+      "published_at": "2025-12-04T09:01:26+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1079,26 +1129,6 @@
       "type": "News"
     },
     {
-      "title": "Video from RSNA 2025: The inexorable rise of theranostics",
-      "summary_de": "Eliot Siegel, MD, of the University of Maryland recaps an exciting year in theranostics and shares his thoughts on what's ahead...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/article/15773257/video-from-rsna-2025-the-inexorable-rise-of-theranostics",
-      "published_at": "2025-12-03T10:56:27+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "AI shows promise predicting whether NETs respond to treatment",
-      "summary_de": "null",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/article/15773256/ai-shows-promise-predicting-whether-nets-respond-to-treatment",
-      "published_at": "2025-12-03T10:26:04+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Klinik - Übernimmt Landkreis? Klinik Zerbst soll erhalten bleiben - Gesundheit - SZ.de",
       "summary_de": "Klinik - Übernimmt Landkreis? Klinik Zerbst soll erhalten bleiben - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1129,40 +1159,10 @@
       "type": "News"
     },
     {
-      "title": "Practical advice for taking AI forward",
-      "summary_de": "Three hot topics in radiology AI, plus results of a survey of patient perceptions of using AI in the clinic.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/article/15773249/practical-advice-for-taking-ai-forward",
-      "published_at": "2025-12-03T10:07:20+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Cryoablation treats early-stage breast cancer in older women",
-      "summary_de": "Cryoablation is effective in treating early-stage, ER+ breast cancer in older women who do not undergo surgery.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/article/15773252/cryoablation-treats-earlystage-breast-cancer-in-older-women",
-      "published_at": "2025-12-03T10:00:38+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit: Jugendliche trinken weniger, Ältere bleiben Risikogruppe - DIE ZEIT",
       "summary_de": "Gesundheit: Jugendliche trinken weniger, Ältere bleiben Risikogruppe &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVEFyY0xNWFlsRFp1dThfMFc5MV83bGt4amJuV0tIaWVRM2dwU2M2NGVEZlA0MXlaRlFYVmw5c19ZYnB2VWYxSFJKS05zeURQbDBCajFQMDFHRThSeEo0eGs0Sm4tS1UxZmtTQzNKS0VEWVl6TmN4eGdBb25LQUdydzVUMDRuLUV3dy1fRmt6blB1dzBodVpV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-03T10:00:05+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit - Jugendliche trinken weniger, Ältere bleiben Risikogruppe - Politik - SZ.de",
-      "summary_de": "Gesundheit - Jugendliche trinken weniger, Ältere bleiben Risikogruppe - Politik &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaXZ2OUFTb2VHTmxkc3ppX1R1SVkzSGNOQVNoTGt3R2NpZ0otNms4OE1sYXFrdHRYZV82WmdrSWt4bVd2Uk4tMVNnZkhkUVBDLUtFNVhmN2FoZ08yZ3BuUHl6dFd6cGdIdDR4V2gwbm5NUzV2M29LUnVSdndQcEdnQ0ZwX25URV9JTktueVVJM3h1LWQzVTg4N1JxX0RmTExXalg4azNSd0N5Ti1tN21yUWtHdFRjT2xvdFlzaUZrcTAtNlhQbjJVeExyd1JDV0VheDEwYUxpMDBlWVIzcktqNTVjUloyenRx?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-12-03T10:00:05+00:00",
       "category": "News",
       "tags": [],
@@ -1605,6 +1605,16 @@
       "type": "News"
     },
     {
+      "title": "Klinik MVZ Stellenangebote in Speyer (3) - ärztestellen",
+      "summary_de": "Klinik MVZ Stellenangebote in Speyer (3) &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCRG1sU2Nvd1lnVUNKcGN0TWtjZk1yZy1pXzRSZUtGSEs5UFJiUFE4bk4zZjlRSDlZU0pfLS1NZUtaRWNnSmtIZTNkbDFzcHBCMDFmbFkwWjVGS2UzVVIybHpGNERYanBxOEdJSzREc0FDS00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-12-01T10:04:06+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Krankheit - Diagnose Krebs: Wann informiere ich mein Umfeld? - Gesundheit - SZ.de",
       "summary_de": "Krankheit - Diagnose Krebs: Wann informiere ich mein Umfeld? - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1870,32 +1880,12 @@
       "type": "News"
     },
     {
-      "title": "Innere Medizin Landratsamt Rottweil Stellenangebote in Lörrach (0) - ärztestellen",
-      "summary_de": "Innere Medizin Landratsamt Rottweil Stellenangebote in Lörrach (0) &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZWZxRWE1VDJhbFRxMHJxSlNUaHI4cGNKUUxJbGJ6MlhVVUNoekk1WVVaUExPUWQ3a3FvUFFUR0dieGcwTk4wNWtVSWRPRkVBbmxILU16SWdlbE0zOHBkMXlKWWRLQUFVMnFCUEFGWnRrelp4NTViMHlOcGV2dTNBeUVxRzRxZnM4dHFhaWxLQVMzbFE5cUdTS1QtdzUzN2JHU25zZ2tGTExhZWZtVTEyckpTd2o2VmtVQmVPYlFWUUptb3pLR2RyMEplVGFXZG5XR3ZPU1RSdUNlMFc1X0pELTVsUzZFM1pvRWZDdG03ME96ZUk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-29T02:46:10+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Radiologie Klinik Teilzeit Niedergelassener Bereich Industrie / Dienstleister Stellenangebote - ärztestellen",
       "summary_de": "Radiologie Klinik Teilzeit Niedergelassener Bereich Industrie / Dienstleister Stellenangebote &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX3MxYm1hZHQySlBNc3JkZTV2Y1ktYndaMTlhS25ITG03RkpHRnBTWXlVRF9wdC1wVFRYcUs2M1BVZ2tIQTRUUS1pRThydzRDQ3drallCdHl5aHlRMWpTS25SSnF0OUkyQ3VRMzRVV2pmd2syWExqOXJoUnhLVlZ2Yks1RWNUMEtUSUQxZ3E1SHFxaVFGWndmZVU4NjNQOHBEdUJ1MUpWWXc3Y2oybGhXTldSb1NzMTl0d0dSYW1xam95aVNaUUg5M1lxRTE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-29T01:48:41+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Arzt / Facharzt Neurologie St. Martini GmbH Stellenangebote - ärztestellen",
-      "summary_de": "Arzt / Facharzt Neurologie St. Martini GmbH Stellenangebote &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSFZWSkpYcXRKZkRPZDNkZnl5ZDFHVkxDeWlHa1B1bG56V2gtb3JoUFFvS3ROWXplS3lyd0dEU2ExWmJzWUJmSTQwRlVlV3B5Q3JLSEJxQVVGdzZBZjNiMkdCekJoZzhWVFJQWXIteW1KbEd4NGp0aG95U0hnMDZzYnN5NVl5YnV4TS00NmRUT3JNZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-29T00:42:18+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2818,32 +2808,12 @@
       "type": "News"
     },
     {
-      "title": "Fachärztin/-arzt für Radiologie mit Schwerpunkt muskuloskelettale Radiologie (OA oder OAmbF) 80-100% - ärztestellen",
-      "summary_de": "Fachärztin/-arzt für Radiologie mit Schwerpunkt muskuloskelettale Radiologie (OA oder OAmbF) 80-100% &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOUNic1Y4M3dReDRDVDhvZEFDVEFuUUREaDFaX2tkMnRYdm1mXzRCYjg1emw2Y18xTnlKUFNnNVFQM3Q5bWdNNFFad0xJRVpfUE12U0x2djBuUGhVVGNuRlY2dmtrYWF0Qm1tazBkQ0w4ZXhtRTZEcVhxZ1N3SWFNQ2JPamVuLTh0ZUlrNGtnM1hyQUlQSmxuSHY0Zk1fSExWbHBHemxyRHd2U3pYYXFaTC1FTml2Rl8zQlZINm9ZeWpnV3RKMTE0d2VKaEdTVlJjejBUU3gwVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-17T08:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit: Wirbel im Kampf gegen Tabak: Verbot von Filtern und Aroma? - Handelsblatt",
       "summary_de": "Gesundheit: Wirbel im Kampf gegen Tabak: Verbot von Filtern und Aroma? &nbsp;&nbsp; Handelsblatt",
       "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTkZZcjlJMVRhak9xSXhQb21CeHVBeUhObWpmU0JvWXlSVGVZc2lFUjVmR3N5b0JLZGVEczJSZVJkYmJ1VUZsYVlmZXhyUDRnUmpFREpvZDZxelRmd3NzS0ZwY2ZaQ2hOV1lwSk1oOUFUMEdrOWhvRGZSUnI5Rms0V2FLRGF2dzFCUXc4c2NSWXk4QnRGZVhlRjhCMllmUDAzVS1Yd1RQTTB5dWxyQXgyQzQ2Y3Q1dw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-16T08:00:00+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Schweinfurt: Bilder vom Herz in Millisekunden: Radiologie am St. Josef weiht neues Hochleistungs-CT ein - Main-Post",
-      "summary_de": "Schweinfurt: Bilder vom Herz in Millisekunden: Radiologie am St. Josef weiht neues Hochleistungs-CT ein &nbsp;&nbsp; Main-Post",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRmdzeFF0MHhPMFNDRDRYbzFQMWJqeDRsdUFtQ0dPcTBDMzVhNjNoZ09nYjhEcmJ5UHg1bUU3X05zdTdCY0dGcFpIODdTbUcxR0J0MGpXWUcxTWNXcnUyQXlJWEZQTVhjSkZuM051eTBxT3lLZzdKek1hNGpYb096QkJiUVJsb2ROVEVNa2JQcWdHajg0OThwdUFYSXNYVDllNjd4SmNQLTJrTHFLdkNkTXFOS1EzZXdNdWVoeGVQYUNYT19mMExrLXJybWpzUkI1dktxYXdqREdCVXVSemlZdk5vZ2daZVdnZlRIaEJQeExFSE93Snc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-15T08:00:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -3257,11 +3227,11 @@
       "type": "News"
     },
     {
-      "title": "Kombucha: DIY-Darmgesundheit oder riskanter Hype? - DAK-Gesundheit",
-      "summary_de": "Kombucha: DIY-Darmgesundheit oder riskanter Hype? &nbsp;&nbsp; DAK-Gesundheit",
+      "title": "10 Ernährungstipps: Einfach gesund essen - DAK-Gesundheit",
+      "summary_de": "10 Ernährungstipps: Einfach gesund essen &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UZGc5bjJ2NW56YklvbDMyVDVXOXBfbmVNYktTcnNqeWFjLUs0TjVPancyT2VPVEpYU0I3N2NxUWVySExhcFFWZkZobU1qOUQ2N3hINThiWlZqSFJPQVdJa0Z2aU1ia3pycDlWUlRRQjRTQTlCcS0tOWtxQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-06T17:02:45+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRFI4NDFNMnU3Y3Fta0R2OE01RHVsLXlTNklEYm1YRDludDV6b2NHM09mLVQ3LXZXLW9Zd0dnMEZyY0VrdDhBZHF3RzZwX3RhZENpazJhZWx2NkFVUVZCaE84dnBaSjFTamxxUDhLZ1JvWDIyeW1COVBZY1A4bU5iOF9PMlFOWnhaYktIV2tFUHFKUUNp?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-06T16:28:16+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -3352,12 +3322,12 @@
       "type": "News"
     },
     {
-      "title": "Duderstadt: St. Martini Krankenhaus eröffnet neue Notaufnahme und Radiologie - Eichsfelder Tageblatt",
-      "summary_de": "Duderstadt: St. Martini Krankenhaus eröffnet neue Notaufnahme und Radiologie &nbsp;&nbsp; Eichsfelder Tageblatt",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSENaLXRWc0ZIb3lUb1BQVUVCUnVFdFQ0alIxcnZGRi1Jc2VNcDNWNEFZSk1VZ2tueDJScmVsREFsa1loVDJHQ1FGWFNoRTZNRENVeUZwRkJocGs4ZmhDelF1Y3Izb3hfZFJKeFhabGowdXhkcHZHQkl1ZFBmMmJpd1BjYVl2M2lfOTFiQzVSbWZoT0ZHZ1NsODdVV3NSTWN6TlFCN2NmNTFyNTI4RmtCamVMQjZnX2JUcC1PUmNabFZyVDBQV3VMenRYalF6X0NwTnhDR3JXVWV5QVhibC0tWU92WUlDZHFvdTJDRzdqbWxLZVpUX19vYWFOelhSU1hhQ1RFYVJTa9IBowJBVV95cUxQckxHdU83eTN6eXBpbnNZaFk0azNOV0lXUWUtbXZKTGtRZnBHMldxSDZiYU5OWHM4dGpSSUtlYmdTdERmUXVfNmYwZU5oWlRSZ1VzMFdZUG1Jakg3T0ZTY2lJU0Q2T3pZQ3hrSVdRSjEyWWRWT3ZWbTIwRzI1RmhQMl9mY0d6ME9BZktQVE9Md1Y4ZFQ4RkxSWEJEM2o4cms0MVZZLXdwcWRSVU1vcTJrUVRLbWVMamdUdXpyU0VaLVhJaWNoMDVJRFhHLWdLb1Nlc0lKTzJTdm1pRC1qR3puSUxNbnhEaGhoYXRUZjdjdjBRbUxDTDJuWmYzOV9aclFDRUVUYS1SUWsyS2JqLU9pdEVFbUpiZ1dMTW02WEtuU0FJcXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-03T08:00:00+00:00",
-      "category": "Radiologie",
+      "title": "Mindestausbildungsvergütung wird 2026 angehoben | Die Techniker - Firmenkunden - Techniker Krankenkasse",
+      "summary_de": "Mindestausbildungsvergütung wird 2026 angehoben | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVE0Y2hxd0w4WEdlOVJxZXhDaG11N2w4X1VQU01kWXo3ZU9nM1BlZ3A3WG1STUhVMTV1QVR2SjZzQkQyVG0wQkdZejIyVnozVmhEYVhYY2tlWTVIRXZLblRkN1NCWERsN1ZRRUxIajlsU3I4bTVOaU5GWFlUNmRJeVJJcVliR3BweHBpMDlkcklkNWppam9qLW93Rks4eC0xaGN1LXRwOXYtYmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-01T07:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -3397,6 +3367,16 @@
       "source_name": "\"site:tk.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYmVzYldxZEhadGFKRDdxZ0NIRVpoMzZkeEFLTnBsYzJJNGlnUUNtNE1XZUpKZ0M3d2JQaFNaRmJSWGVHZ0t5VWQ3MGthSlJpUWN4NmNWekdmLVFudTJVOVdjdmQyZjdCYlE2bjlJclhaU2hHdGlycmNyaTk1M2ZnSU9CMnZBbEFLMElfU1g4djJaa2NTWW5NSDBQNkg5SDRRZ3VXRw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-29T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Lichttherapie: Wirkung & praktische Anwendung für die dunkle Jahreszeit - DAK-Gesundheit",
+      "summary_de": "Lichttherapie: Wirkung & praktische Anwendung für die dunkle Jahreszeit &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5M1QtcmZCUUlnVnhobnA2MnE3akVwZmxLT2dUYkRuSWhFS3pfQlpyT2g1SXpzOE03ZG5Jc2dYb0I0UllvbjF2dXRhaWQ1Y1l2X0pxazdNM2xCNWRHZ0xGQjU1T3VkZGJremRrcWpaUWIzSTJTR1VxTA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-28T07:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
