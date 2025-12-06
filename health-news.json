@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-12-05T21:13:06.857348+00:00",
+  "generated_at": "2025-12-06T01:04:03.724975+00:00",
   "window_days": 42,
-  "count": 334,
+  "count": 333,
   "items": [
     {
       "title": "Diagnostic Imaging articles: Update",
@@ -34,12 +34,12 @@
       "type": "News"
     },
     {
-      "title": "Jüdisches Krankenhaus meldet Insolvenz an – News - Deutsches Ärzteblatt",
-      "summary_de": "Jüdisches Krankenhaus meldet Insolvenz an – News &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYmVhV1ZMdG93QVdQdXd0NFk1djM3Uy03MGt0UHhSQXJvcHdLOVBQa0FtVy03bFFWRHhtSGdRRmtFMktRelV4c3R5LXQxWXZRSUJhNmhQYi1oc211ZUVQNGJMZm9KR1RmNG1NaEVsVHVwNEZjTlpBUUduYkIyQXVWTFJYaEtTa01rZ0ZNMUs5QklYUldvdjBCOUM2eTdfNEszTlNXOVozdGhIbEIwUkV3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-05T16:20:52+00:00",
-      "category": "News",
+      "title": "AI ultrasound tool could reduce unnecessary biopsies by 60%",
+      "summary_de": "An AI tool could help reduce unnecessary breast biopsies, but should be used in conjunction with radiologist decision-making.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ultrasound/article/15773427/ai-ultrasound-tool-could-reduce-unnecessary-biopsies-by-60",
+      "published_at": "2025-12-05T16:52:11+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -116,6 +116,16 @@
       "type": "News"
     },
     {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Erstmeldung Arzneimittel: Erwinase 10 000 E./Durchstechflasche Pulver zur Herstellung einer Injektions-/Infusionsl&#246sung pU: Porton Biopharma Limited",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2025-12-05T14:56:53+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Kampf gegen Fälschungen : 95 Prozent der niederländischen Rx-Packungen werden gescannt",
       "summary_de": "In den Niederlanden ist die Zahl der gescannten Arzneimittelpackungen von 79 Prozent im Jahr 2023 auf 95 Prozent im Jahr 2025 gestiegen. So sollen F&auml;lschungen erkannt werden. Dies teilte der niederl&auml;ndische Apothekerverband KNMP in einer Pressemitteilung mit.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -161,16 +171,6 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/grippe-impfstoffe-abverkauft-161046/",
       "published_at": "2025-12-05T14:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: CANDESARTAN BASICS 32 mg Tabletten pU: Basics GmbH",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2025-12-05T13:58:28+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
@@ -276,16 +276,6 @@
       "type": "News"
     },
     {
-      "title": "Gassen: Bund bei Konsolidierung der GKV-Finanzen auch selbst gefragt – News - Deutsches Ärzteblatt",
-      "summary_de": "Gassen: Bund bei Konsolidierung der GKV-Finanzen auch selbst gefragt – News &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQW83dHppdFBWcVBnYzIxa0FfRDRydzZiVWlBcG8yQWRFOFE4MzgzUVlONHRfMGxKRkJzVHY3cFgwUnMxcDViTHl0WXJzTlpFbHBmUzZKTzM4ZGhzQkVyM2R1TDM5bzNKMFpPZTk3a0J4by1SblFJLVRRX3hfdkJCOEJPdDItU3psQTNzOXRTYk5rOW9BWWJocEpETlNIeUhDOHR4U3FMTmJnRzRfSkgwZ3ZfR0tYSlFqZ1J3akFQdFdjbnA3UlMyQV9TU3VfRlFxRXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-05T11:55:02+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Trotz Kritik der Industrie : G-BA definiert Voraussetzungen für Biosimilar-Austausch",
       "summary_de": "Der automatische Austausch von&nbsp;Biologika durch Biosimilars soll den Krankenkassen viel Geld sparen. Gleichzeitig warnt die Pharmaindustrie vor dem Abwandern der deutschen Produktion. Jetzt hat der Gemeinsame Bundesausschuss (G-BA) die Voraussetzungen f&uuml;r den Austausch definiert.&nbsp;",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -378,6 +368,16 @@
       "type": "News"
     },
     {
+      "title": "PiB-PET/CT detects subtypes in cardiac amyloidosis",
+      "summary_de": "PiB-PET/CT shows strong promise as a next-generation diagnostic tool for cardiac amyloidosis.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15773468/pibpetct-detects-subtypes-in-cardiac-amyloidosis",
+      "published_at": "2025-12-05T08:43:03+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "WHO-Bericht: Mehr Malariafälle wegen Resistenz, Krieg und Klimawandel",
       "summary_de": "In den vergangenen Jahren wurden im Kampf gegen die Malaria deutliche Fortschritte erzielt. Doch biologische und menschengemachte Faktoren f&uuml;hren zu einem Anstieg der Neuerkrankungen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -404,6 +404,16 @@
       "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/article/15773351/3d-cnn-model-estimates-mace-risk-from-chest-ct",
       "published_at": "2025-12-05T08:00:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "HPI: 13.5B mL of contrast media administered from 2011 to 2024",
+      "summary_de": "The findings are sobering, as contrast use contributes to environmental pollution.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/practice-management/article/15773458/hpi-135b-ml-of-contrast-media-administered-from-2011-to-2024",
+      "published_at": "2025-12-05T07:56:56+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -563,16 +573,6 @@
       "source_name": "Diagnostic Imaging articles",
       "source_url": "https://www.diagnosticimaging.com/view/rsna-ccta-study-common-air-pollutants-coronary-artery-stenosis",
       "published_at": "2025-12-04T15:13:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "AI reduces MRI's carbon footprint",
-      "summary_de": "Using AI with MRI imaging reduces exam time and therefore energy consumption and carbon dioxide emissions.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/article/15773261/ai-reduces-mris-carbon-footprint",
-      "published_at": "2025-12-04T15:06:46+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -830,16 +830,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/praediabetes-als-unterschaetzter-risikofaktor-161002/",
       "published_at": "2025-12-04T10:00:09+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Air pollution linked to more advanced coronary artery disease",
-      "summary_de": "Even at low exposure levels, air pollution is associated with more plaque in the coronary arteries, researchers reported.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/article/15772078/air-pollution-linked-to-more-advanced-coronary-artery-disease",
-      "published_at": "2025-12-04T10:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1114,16 +1104,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNVVFYc01jOVRHeXFBVENnSEpES01sd1NyWFd0RzVDWS1abmxXQVBpb2tBdjhmTjJqYS15UlBXLVprQTdyUDNFX0lsTmJQUWlnTHZNY21sQzNPLVQ1aW9GZHVtMTdLUE9UREpUa1lGRFdRRERIeEQ2Tzc1X3dFczIxRXNrVXZVdnNHRVJTT2hvMVNfNFlZNjZ4Ukd2QmlRWmVVQmdyVkpBaVp6UjFaV0hQUGNvSDNvWHY1ME04V1dtbUM5NUpDNU9YV0pra2pxYjdBZjJWYnVTOWtqblNydEJJNUV3UXpISkRXMWtCVVlXbHdjSS1zbmVwMlhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-12-03T13:24:48+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "The 2025 PACSMan Awards -- The last hurrah",
-      "summary_de": "For perhaps the final time, consultant Michael J. Cannavo doles out his annual PACSMan Awards.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2025/article/15773194/the-2025-pacsman-awards-the-last-hurrah",
-      "published_at": "2025-12-03T10:59:12+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1463,16 +1443,6 @@
       "type": "News"
     },
     {
-      "title": "Landesklinikum: Brandneues Ultraschall-Gerät für die Scheibbser - MeinBezirk.at",
-      "summary_de": "Landesklinikum: Brandneues Ultraschall-Gerät für die Scheibbser &nbsp;&nbsp; MeinBezirk.at",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTEhCbG9XZVA1eER4U2FIb1hodzVqX3RhSGFrbXhFUXgtUGdHNkRMRkVQRWphNGdwWno4c1ZRcnJHaXdHNzZYcEM0OWlxNXBzTGJkVWNFWjZRWjZSN0hKUVR4N3pwNFVCbHhGb2Z3NHhPVDF5ZHItZGNpTUw3T04zcU52dlUwSFI0MEJER0hmd3FCaTEzZWdZdEpJcjRBRDVjWEpVU2R6cTAyUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-01T16:23:49+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "WHO-Leitlinie: Gerechter Zugang zu GLP-1-Therapien bei Adipositas gefordert – News - Deutsches Ärzteblatt",
       "summary_de": "WHO-Leitlinie: Gerechter Zugang zu GLP-1-Therapien bei Adipositas gefordert – News &nbsp;&nbsp; Deutsches Ärzteblatt",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
@@ -1489,16 +1459,6 @@
       "source_url": "https://www.gov.uk/government/publications/human-medicines-register-of-electronic-export-certificates",
       "published_at": "2025-12-01T15:44:47+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Krankheiten - Etwa 1.000 Menschen in MV leben mit HIV-Infektion - Gesundheit - SZ.de",
-      "summary_de": "Krankheiten - Etwa 1.000 Menschen in MV leben mit HIV-Infektion - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTzNmeldJUHVHOHZyaDJPb1JnTUlhXzN5Zkp6eUlYS3NYWTczQ1U1VFdwMjhVWGJLVldOTWxjQlNtUXpOVTM4RkNJYkNGV3I1NU14em41TVlkcUlPbEdrVnJDam9qU2JPVDQzZExnVmF6NEVtZFlSdV9qYVY4Y0FEQno2cWRCOWxXY01xMFNwZmpXXzc4cU1PRjRCcUQ5d0xIdnZ2V0wxM25TbGZad2dPMnNQenNVaWJqbXhIQnYzZ2NRRmlOQ1gteG9rNGxqaVB5MFA2emRPSHZleXpnb005X1RCQXI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-01T14:02:59+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1541,16 +1501,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPMXFLbzRDQ0w3VnBZYlhWS2dZTTFQdkRkdDBXblF1REhHZFBVRmhWUXlsVGpVRTVZOGx1cFZBU1RtNXZiaGQ4YUtpUktjZHh6OThJUnBnZWdCVXBWZldjVU44OUtiTVBsY1dJNnZDUGktd1M2TnpWQ0sxd2hVVFEtV2VsbURBR1VTSFdPclE0OUhuS0prMENFNTVJYTQ4OVFRWDVCdjc2STUyLTNVRFl1XzZMbVEwQ0FNMHR1YXk2dllRVFhZV3UxUFNDcjNUWkJfNzFnVE85elAxYjJ2TlFoaWVFYWJoQlF4bk5SRzdkQ3N0MnNWY3BRMTlFcTBMY2VXbzhfY092SlEtUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-12-01T13:10:42+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Seminar: Planetare Gesundheit in Unternehmen - Barmer",
-      "summary_de": "Seminar: Planetare Gesundheit in Unternehmen &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQVVld3dnNVZLR2FyRnJCc3BYajZrYlJGQm53d1pwYjcySVRPM0dlU1lBbkNUOFA5VXV5WExUWDVRQWdBR1djWDhnaVUtbHhhdTBLWEczbjVnekR4RmR1aVVOUGlWQm4xdklraFRXOGpZRWxJQnRKVExhd1RiZ2pWNVJLZTJxa2Y2Nl9aRmRLOXh2MEpQSGt4TjBVbU9NT3IwZkhaZ0I3T2RseGViUkl6RklzVnA3N2h2d0cydDJQX0Y?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-01T12:51:54+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1601,16 +1551,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUnFhVkNkZUdQY1kwMHlrdGFMem5lQ2JRRlNRV2QxUjBfRlE4MHdPaWR3ekZEaXJwV2FycC1mRjFIa2JsYjlxRnhKWTFFcFhfMVFUWnhnUGZEeTJKZ05ENXRPX2NvUlRvd0VnVHVfU2VibFNsd3U4d3pKT3kxQlpjUTR2dF9qaVFYM2N3OEdzQ2otV1ZlcUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-12-01T10:16:37+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Klinik MVZ Stellenangebote in Speyer (3) - ärztestellen",
-      "summary_de": "Klinik MVZ Stellenangebote in Speyer (3) &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCRG1sU2Nvd1lnVUNKcGN0TWtjZk1yZy1pXzRSZUtGSEs5UFJiUFE4bk4zZjlRSDlZU0pfLS1NZUtaRWNnSmtIZTNkbDFzcHBCMDFmbFkwWjVGS2UzVVIybHpGNERYanBxOEdJSzREc0FDS00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-01T10:04:06+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1880,22 +1820,22 @@
       "type": "News"
     },
     {
+      "title": "Innere Medizin Landratsamt Rottweil Stellenangebote in Lörrach (0) - ärztestellen",
+      "summary_de": "Innere Medizin Landratsamt Rottweil Stellenangebote in Lörrach (0) &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZWZxRWE1VDJhbFRxMHJxSlNUaHI4cGNKUUxJbGJ6MlhVVUNoekk1WVVaUExPUWQ3a3FvUFFUR0dieGcwTk4wNWtVSWRPRkVBbmxILU16SWdlbE0zOHBkMXlKWWRLQUFVMnFCUEFGWnRrelp4NTViMHlOcGV2dTNBeUVxRzRxZnM4dHFhaWxLQVMzbFE5cUdTS1QtdzUzN2JHU25zZ2tGTExhZWZtVTEyckpTd2o2VmtVQmVPYlFWUUptb3pLR2RyMEplVGFXZG5XR3ZPU1RSdUNlMFc1X0pELTVsUzZFM1pvRWZDdG03ME96ZUk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-29T02:46:10+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Radiologie Klinik Teilzeit Niedergelassener Bereich Industrie / Dienstleister Stellenangebote - ärztestellen",
       "summary_de": "Radiologie Klinik Teilzeit Niedergelassener Bereich Industrie / Dienstleister Stellenangebote &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX3MxYm1hZHQySlBNc3JkZTV2Y1ktYndaMTlhS25ITG03RkpHRnBTWXlVRF9wdC1wVFRYcUs2M1BVZ2tIQTRUUS1pRThydzRDQ3drallCdHl5aHlRMWpTS25SSnF0OUkyQ3VRMzRVV2pmd2syWExqOXJoUnhLVlZ2Yks1RWNUMEtUSUQxZ3E1SHFxaVFGWndmZVU4NjNQOHBEdUJ1MUpWWXc3Y2oybGhXTldSb1NzMTl0d0dSYW1xam95aVNaUUg5M1lxRTE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-29T01:48:41+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Parasitenbefall - Pariser Filminstitut schließt Kinosäle wegen Bettwanzen - Gesundheit - SZ.de",
-      "summary_de": "Parasitenbefall - Pariser Filminstitut schließt Kinosäle wegen Bettwanzen - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTV9KRElZZExPdXh1TXdieDhHOVpnc2NIVFVxWGpldGYzLTdidWswUF83enZQQ3g3ZGhOblEtaXlnWl9TQndsdTRCcDB0QTVoUzQtTDJMeUZoVVZiRjV1YTFldllpZUZwUnN5VzdWZHZDQjRaNUtrbk5tU0dtR0l3ckdUUlBJT1dJZXhHVVY0RHFHS211SzBDX3o4bXlaQndzMWRhbWY4c1hQaGdnajRVZzhzek9zaW9tZW1vLUFEMFpuQUV2S3VwR0RDczd3LXN2a2pKTTd1U01CdlJSem9JSmlPb21RWW5PQWowQnNpbXlIckJJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-29T00:00:07+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2265,16 +2205,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Statement von Volker Röttsches, Landeschef der DAK-Gesundheit in Berlin zum „Hitzeaktionsplan“ des Senats - DAK-Gesundheit",
-      "summary_de": "Statement von Volker Röttsches, Landeschef der DAK-Gesundheit in Berlin zum „Hitzeaktionsplan“ des Senats &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxONkVPLWF4U2M3YWNub2t6WmgwVEtFaVZPbUJ6YkZiUzVudkphWnRpQkd0M0ZuNjZ5MjBMVUc4SVJoTERfYjhCRnBXRWxhdlBMWW5DeGRtdzByZWVjbzVsWVJyWmg1QkJ5aTg4c2VlTTZTYmR0UlpMdm5vYzF0em4waFNZVllGNm9ESlhuYXNjWjBrU21qOEhmajBfc1NPdkIteHI0aG1UREMxaU5DWnJqUURGSXVxZ1pGenZhSVZaeE5BbF9wbEpXMVlPcGZpLW5nalU2V09SbFVZbXF1OFJLbDNOT0RTbXFwNWZkeXhsZVpsOUZrZFNXTXBaOGZSQkVmQ0VINDZQeXMtajhJZ21HTmo4U0Qxa1U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-26T07:28:30+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
@@ -2808,12 +2738,42 @@
       "type": "News"
     },
     {
+      "title": "Fachärztin/-arzt für Radiologie mit Schwerpunkt muskuloskelettale Radiologie (OA oder OAmbF) 80-100% - ärztestellen",
+      "summary_de": "Fachärztin/-arzt für Radiologie mit Schwerpunkt muskuloskelettale Radiologie (OA oder OAmbF) 80-100% &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOUNic1Y4M3dReDRDVDhvZEFDVEFuUUREaDFaX2tkMnRYdm1mXzRCYjg1emw2Y18xTnlKUFNnNVFQM3Q5bWdNNFFad0xJRVpfUE12U0x2djBuUGhVVGNuRlY2dmtrYWF0Qm1tazBkQ0w4ZXhtRTZEcVhxZ1N3SWFNQ2JPamVuLTh0ZUlrNGtnM1hyQUlQSmxuSHY0Zk1fSExWbHBHemxyRHd2U3pYYXFaTC1FTml2Rl8zQlZINm9ZeWpnV3RKMTE0d2VKaEdTVlJjejBUU3gwVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-17T08:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gesundheit: Wirbel im Kampf gegen Tabak: Verbot von Filtern und Aroma? - Handelsblatt",
       "summary_de": "Gesundheit: Wirbel im Kampf gegen Tabak: Verbot von Filtern und Aroma? &nbsp;&nbsp; Handelsblatt",
       "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTkZZcjlJMVRhak9xSXhQb21CeHVBeUhObWpmU0JvWXlSVGVZc2lFUjVmR3N5b0JLZGVEczJSZVJkYmJ1VUZsYVlmZXhyUDRnUmpFREpvZDZxelRmd3NzS0ZwY2ZaQ2hOV1lwSk1oOUFUMEdrOWhvRGZSUnI5Rms0V2FLRGF2dzFCUXc4c2NSWXk4QnRGZVhlRjhCMllmUDAzVS1Yd1RQTTB5dWxyQXgyQzQ2Y3Q1dw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-16T08:00:00+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Radiologen nutzen die Lungenkrebs-Screening-Technologie von Nanox im Pariser Krankenhaus - Mugglehead Magazine",
+      "summary_de": "Radiologen nutzen die Lungenkrebs-Screening-Technologie von Nanox im Pariser Krankenhaus &nbsp;&nbsp; Mugglehead Magazine",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRWk4RG9ETUphaFNTak1oa3ZXQU1uaHZJMXJVeEhHSXNlLU9semx6SDFJdHpJT29pZjh5MmJKZVVDYmQwdTRRM0Y4RHltbU9ZQ0FybnNnNFRKRDkwVW1ibGl5aVhzcWRUX1FyNnNVVlJEWEFvXzJNZWxTNE85R1NMdm4wM2oyRVpUX3ZRbmZsZm5zMlhvMktoSnBzVjVZZ1U4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-15T14:44:04+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Schweinfurt: Bilder vom Herz in Millisekunden: Radiologie am St. Josef weiht neues Hochleistungs-CT ein - Main-Post",
+      "summary_de": "Schweinfurt: Bilder vom Herz in Millisekunden: Radiologie am St. Josef weiht neues Hochleistungs-CT ein &nbsp;&nbsp; Main-Post",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRmdzeFF0MHhPMFNDRDRYbzFQMWJqeDRsdUFtQ0dPcTBDMzVhNjNoZ09nYjhEcmJ5UHg1bUU3X05zdTdCY0dGcFpIODdTbUcxR0J0MGpXWUcxTWNXcnUyQXlJWEZQTVhjSkZuM051eTBxT3lLZzdKek1hNGpYb096QkJiUVJsb2ROVEVNa2JQcWdHajg0OThwdUFYSXNYVDllNjd4SmNQLTJrTHFLdkNkTXFOS1EzZXdNdWVoeGVQYUNYT19mMExrLXJybWpzUkI1dktxYXdqREdCVXVSemlZdk5vZ2daZVdnZlRIaEJQeExFSE93Snc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-15T08:00:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -3157,6 +3117,16 @@
       "type": "News"
     },
     {
+      "title": "Radiologie Österreich Klinik Öffentlicher Dienst Forschung Stellenangebote - ärztestellen",
+      "summary_de": "Radiologie Österreich Klinik Öffentlicher Dienst Forschung Stellenangebote &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb3Z0eVFBM18wbEk3QjRKZl9CTXRWZFp6UmpkZ2JEQ3d2N3NBN1ZlOWt3QVg5WkY4ZUJSUndCZTR2TF9FcFVxUzNuWTlMd3lWWGhUYnN0blVXQ2Y0amJCd1N4VjhKcVFxNm9jZDV1YmM5MmFfZERtR1E4QUk3NzRZS0dnZWVOeERWRHlFY3ZheVppblNTcF9UblZoMHlSVHJkMHd6UkR2cHpLV1ZlTzhjYW44Ql8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-10T08:28:19+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Meeting highlights from the Committee for Veterinary Medicinal Products (CVMP) 4-6 November 2025",
       "summary_de": "CVMP opinions on veterinary medicinal productsThe Committee adopted a positive opinion, in exceptional circumstances, for a marketing authorisation for Vaxxinact H5 (Avian…",
       "source_name": "News and press releases",
@@ -3183,6 +3153,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkZyRm1YUW1YOFhMUWZQaV9rTzRvQl96bFo2YkM0dkdTOTJMOUxtUXdOOVZMNklqQjdOSnFrZ1JaZHVDd21YSzQ2VWlZbUFyZGNsSDlIb19EeExZTVhQcUthUnpaUlc4eGROTkdtSURsanVwUER0MTZEREtyakJnN21XZkhQR1d1TGwtNC1uVlpLdE50NTI0X1N6WFFmcWJSNVhEQW0xS1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-07T08:00:00+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Professur für Metabolismus-Bildgebung (W2) - Liebigstraße 27b, 04103 Leipzig, Deutschland - ärztestellen",
+      "summary_de": "Professur für Metabolismus-Bildgebung (W2) - Liebigstraße 27b, 04103 Leipzig, Deutschland &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0xkT0dfb3lCbkxaMkZtWURHa1pCTUFsNWd5TDVMQ1hwc0ZfWVdGX0E3SWN1ZFRKc1lZX0FiNGxzWWYwZnVxeFhUU3hfRzZ5U0VVamZQY2pqSnh0QWZwa1JhS3paWC1WN3h2SjJuZHlnVUpIMm5qQ3o5NjRvd2d5bDZUOUFRdjJUazNUZTk5MjFudzJkTld5dXhyTDE5aUtGS0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-07T08:00:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -3222,16 +3202,6 @@
       "source_name": "\"site:dak.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5WkNYMzhWZUw1OE9mRWlvN0V3SkZfZ1V0b1l5ODdTTzVzLXRHZUFUOGlHS2ZCemlFczBpejNlV19Yc2xBMTFrYlRNcjJheGJuSWs5S3BzVWNxM0c4ekR2WE9xbTNOTVExYzBkcS1oYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-06T17:41:19+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "10 Ernährungstipps: Einfach gesund essen - DAK-Gesundheit",
-      "summary_de": "10 Ernährungstipps: Einfach gesund essen &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRFI4NDFNMnU3Y3Fta0R2OE01RHVsLXlTNklEYm1YRDludDV6b2NHM09mLVQ3LXZXLW9Zd0dnMEZyY0VrdDhBZHF3RzZwX3RhZENpazJhZWx2NkFVUVZCaE84dnBaSjFTamxxUDhLZ1JvWDIyeW1COVBZY1A4bU5iOF9PMlFOWnhaYktIV2tFUHFKUUNp?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-06T16:28:16+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -3322,18 +3292,18 @@
       "type": "News"
     },
     {
-      "title": "Mindestausbildungsvergütung wird 2026 angehoben | Die Techniker - Firmenkunden - Techniker Krankenkasse",
-      "summary_de": "Mindestausbildungsvergütung wird 2026 angehoben | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVE0Y2hxd0w4WEdlOVJxZXhDaG11N2w4X1VQU01kWXo3ZU9nM1BlZ3A3WG1STUhVMTV1QVR2SjZzQkQyVG0wQkdZejIyVnozVmhEYVhYY2tlWTVIRXZLblRkN1NCWERsN1ZRRUxIajlsU3I4bTVOaU5GWFlUNmRJeVJJcVliR3BweHBpMDlkcklkNWppam9qLW93Rks4eC0xaGN1LXRwOXYtYmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-01T07:00:00+00:00",
-      "category": "News",
+      "title": "Duderstadt: St. Martini Krankenhaus eröffnet neue Notaufnahme und Radiologie - GT/ET Göttinger Tageblatt - Eichsfelder Tageblatt",
+      "summary_de": "Duderstadt: St. Martini Krankenhaus eröffnet neue Notaufnahme und Radiologie &nbsp;&nbsp; GT/ET Göttinger Tageblatt - Eichsfelder Tageblatt",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSENaLXRWc0ZIb3lUb1BQVUVCUnVFdFQ0alIxcnZGRi1Jc2VNcDNWNEFZSk1VZ2tueDJScmVsREFsa1loVDJHQ1FGWFNoRTZNRENVeUZwRkJocGs4ZmhDelF1Y3Izb3hfZFJKeFhabGowdXhkcHZHQkl1ZFBmMmJpd1BjYVl2M2lfOTFiQzVSbWZoT0ZHZ1NsODdVV3NSTWN6TlFCN2NmNTFyNTI4RmtCamVMQjZnX2JUcC1PUmNabFZyVDBQV3VMenRYalF6X0NwTnhDR3JXVWV5QVhibC0tWU92WUlDZHFvdTJDRzdqbWxLZVpUX19vYWFOelhSU1hhQ1RFYVJTa9IBowJBVV95cUxQckxHdU83eTN6eXBpbnNZaFk0azNOV0lXUWUtbXZKTGtRZnBHMldxSDZiYU5OWHM4dGpSSUtlYmdTdERmUXVfNmYwZU5oWlRSZ1VzMFdZUG1Jakg3T0ZTY2lJU0Q2T3pZQ3hrSVdRSjEyWWRWT3ZWbTIwRzI1RmhQMl9mY0d6ME9BZktQVE9Md1Y4ZFQ4RkxSWEJEM2o4cms0MVZZLXdwcWRSVU1vcTJrUVRLbWVMamdUdXpyU0VaLVhJaWNoMDVJRFhHLWdLb1Nlc0lKTzJTdm1pRC1qR3puSUxNbnhEaGhoYXRUZjdjdjBRbUxDTDJuWmYzOV9aclFDRUVUYS1SUWsyS2JqLU9pdEVFbUpiZ1dMTW02WEtuU0FJcXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-03T08:00:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Bad Belzig - Barmer",
-      "summary_de": "BARMER Krankenkasse in Bad Belzig &nbsp;&nbsp; Barmer",
+      "title": "BARMER Krankenkasse in Bad Belzig - BARMER",
+      "summary_de": "BARMER Krankenkasse in Bad Belzig &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMkJCZW5rRmtrVjBxdHBVT2ZQVThWT2lDNnFMbzlHN2Y1RWN3OWRYV0JHR1otQm9hbkZIZGhMSzAwdlN0Yl8wRlJIRnNCcjVFYlJUWWROd3M5b2Jaek80clJ0Z2xsQlUySmxiRk9VTF9GTkN3Q0RKLWstWTRaUlAtSVFfX1JsenNEUDRVLWtlX250aFFIa05qNlBZS1BHVFdmUlJuVHlFZUNkZkNuaFV3S012Umt2WlA0VV9tWUUxNGlVN29lR1BEZFg5MA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-31T07:00:00+00:00",
@@ -3352,6 +3322,16 @@
       "type": "News"
     },
     {
+      "title": "Früherkennung von Gebärmutterhalskrebs - Techniker Krankenkasse",
+      "summary_de": "Früherkennung von Gebärmutterhalskrebs &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZldBQ3lqS0dNSDFnQTIwRWcyNXFsOGR2cG4zM0RsbkEzYlpkUW5PTjNFVjlnb0hTdDhnM2o0eDhMRU95V3NlVElXZGpJTFdVbGtHekJxNURRdG5Hd3hKdzB1cnJVcmNSek9aa1owWXd3ODI5eUl6ekktV2xVT2k0ZXRTUkJPelR2YmhHWC1ldVRxZG9BUUxJblVfODhKWVdNX0N4cmtRb21Wd1ExdVNMdVNaZkJwcl9pUkVOaHZiWTEtSUZWUnd0alZPTU1TNnlaeGljcg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-30T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "DTM Medical erweitert Produktportfolio um DISCUS Dicom Media Center® Lösungen für sichere Bild- und Datenübertragung im Medizinbereich - PresseBox",
       "summary_de": "DTM Medical erweitert Produktportfolio um DISCUS Dicom Media Center® Lösungen für sichere Bild- und Datenübertragung im Medizinbereich &nbsp;&nbsp; PresseBox",
       "source_name": "\"site:pressebox.de radiologie\" - Google News",
@@ -3366,6 +3346,16 @@
       "summary_de": "Was Sie gegen quälendes Grübeln tun können &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYmVzYldxZEhadGFKRDdxZ0NIRVpoMzZkeEFLTnBsYzJJNGlnUUNtNE1XZUpKZ0M3d2JQaFNaRmJSWGVHZ0t5VWQ3MGthSlJpUWN4NmNWekdmLVFudTJVOVdjdmQyZjdCYlE2bjlJclhaU2hHdGlycmNyaTk1M2ZnSU9CMnZBbEFLMElfU1g4djJaa2NTWW5NSDBQNkg5SDRRZ3VXRw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-29T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Aktivierung der DAK App mittels Freischaltbrief - DAK-Gesundheit",
+      "summary_de": "Aktivierung der DAK App mittels Freischaltbrief &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMOUh6emZ0YWxRS3hrbTZ5ck5HbUVvMkpfaTlmRXduQlVlMUtIeXEzdlJhYlpvNUFhY3dwSy1OVXNmSmRuSmloTzNXTHZPd2xkRTJ2Y3lfMTJmLUxSaXhVN191enp3dkRNX1ctTWUwYk1seXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-29T07:00:00+00:00",
       "category": "News",
       "tags": [],
