@@ -1,8 +1,100 @@
 {
-  "generated_at": "2025-12-09T15:17:20.750482+00:00",
+  "generated_at": "2025-12-09T18:19:06.792751+00:00",
   "window_days": 42,
-  "count": 316,
+  "count": 314,
   "items": [
+    {
+      "title": "Diagnostic Imaging articles: Update",
+      "summary_de": "",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/clinical-applications-llms-radiology-key-takeaways-rsna-2025",
+      "published_at": "2025-12-09T17:35:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Selbstmedikation: Hilfe bei Verstopfung",
+      "summary_de": "Bei Verstopfung ist die Apotheke f&uuml;r die Betroffenen h&auml;ufig die erste Anlaufstelle. Zur Behandlung bietet das OTC-Sortiment etliche Pr&auml;parate. Worauf bei der Auswahl zu achten ist.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/hilfe-bei-verstopfung-161107/",
+      "published_at": "2025-12-09T17:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pathologie - Welche Konsequenzen die falschen Brustkrebs-Befunde haben - Gesundheit - SZ.de",
+      "summary_de": "Pathologie - Welche Konsequenzen die falschen Brustkrebs-Befunde haben - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNLXdkTUxOa3QxdDZKRmpFWTJIWFQ3ekl4eTlFc3A4NWltbWJVNWxxaTE2QVpra3ljb3ZmVkV2UjRmOEFuS1hCUENsV0lhVUE0dm1ndmhGQmdSSXFGYldGcGt3LW9EZWhPT2xCZkY0N3F0QnJYVjh5dnpXa21kOVl5TDRQV1B0c1lkTUp5SEtjZG5qeUszdTFoSXlwSnNVZkV5LWg0M3J4Z3RCZVlrRHpFeHRvQzBvSk4zYmxHNlQtMkdOTVJ5M1Axb2xKQTJzNGdiX29Yb013amUtMmpZYlJHQ2hsel9RcVdsLTFJMV9n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-12-09T16:35:28+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Stromausfall : Neue Handlungsempfehlungen der ABDA",
+      "summary_de": "Ohne Strom geht in Apotheken fast nichts. Die ABDA hat daher eine neue Handlungsempfehlung herausgegeben und stellt Poster sowie Patienteninformationen f&uuml;r den Ernstfall bereit.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/neue-handlungsempfehlungen-der-abda-161119/",
+      "published_at": "2025-12-09T15:58:09+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Verdacht des Kindesmissbrauchs - Ministerium prüft Regeln nach Missbrauchsvorwurf in Klinik - Panorama - SZ.de",
+      "summary_de": "Verdacht des Kindesmissbrauchs - Ministerium prüft Regeln nach Missbrauchsvorwurf in Klinik - Panorama &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUU52ZFlMa21ZZDRGcW1WM19YRWVaSGxOMkNjSnd5NHppUTZ5Y2NBb0J6N2ZhS29yaVF1VmJDbjkxUG9TM0VmTzNuU2E5WWZ3N1YwcFVjdHZtU0NicngtU1hTeHZIeF90NzZrWjk3TjNfa1ZjelYtZ1lmc1pBdmVsaVhudzdVX1FLREdTR3doeDU4UGI3a29malNCWE80WUlfcWlrTHEyZWh2MDFRaUJIdGpMY0dPck1NMTBOOVBGSU1mM1N0Z21yQ1hYNXlxSFJZckVkQVRhS185UzBzRnF0ZUtRZ29vcVJkNzBpaEpEOFMzUGI4MU5fNm1hTHJRWDhZd244anJfbDg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-12-09T15:52:26+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Verdacht des Kindesmissbrauchs: Ministerium prüft Regeln nach Missbrauchsvorwurf in Klinik - DIE ZEIT",
+      "summary_de": "Verdacht des Kindesmissbrauchs: Ministerium prüft Regeln nach Missbrauchsvorwurf in Klinik &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRzBZdVVaY0EtM3RTa0M0Rlo4aFV4emxwRk9hdXdnTTJuN21kbFo5aktncVBWanNrbnFBQWFZbHdJbGdxakpsNFJrUWk5ZHowVWVYa3BoMlFGREFhYk42MXNPVFM0WTJsV0J4dFNDMmE0ckwtY1EyVTV5UlF6LXZfVGc4WmFvUnoybDQ5RWUzVU1HMGRHUHEtZVF0OA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-12-09T15:52:26+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "PZ Briefing: Die Top-News vom 9.12.2025",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-9122025-161117/",
+      "published_at": "2025-12-09T15:20:09+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pharmapaket, CMA und MDR: EU startet Reformmarathon in der Gesundheitspolitik",
+      "summary_de": "In Br&uuml;ssel steht eine wegweisende Woche bevor: Das Pharmapaket, der Critical Medicines Act (CMA), die MDR-Reform und der neue Biotech-Act k&ouml;nnten zentrale Weichen f&uuml;r die europ&auml;ische Gesundheitsversorgung neu stellen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/eu-startet-reformmarathon-in-der-gesundheitspolitik-161113/",
+      "published_at": "2025-12-09T15:20:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Europa"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Hohe Arzneimittelkosten : AOK will neues System der Preisfindung",
+      "summary_de": "Die GKV gibt immer mehr Geld f&uuml;r Arzneimittel aus. Vor allem sehr hochpreisige Medikamente, die zur Behandlung seltener Krankheiten entwickelt wurden, belasten die Finanzen der Kassen. Die AOK hat daher am Dienstag ihren &raquo;Arzneimittel-Kompass&laquo; und Strategien f&uuml;r eine neue Preisgestaltung vorgestellt.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/aok-will-neues-system-der-preisfindung-161114/",
+      "published_at": "2025-12-09T15:00:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
       "summary_de": "Typ: Endemeldung Arzneimittel: ATACAND 16 mg pU: Cheplapharm Arzneimittel GmbH",
@@ -10,16 +102,6 @@
       "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
       "published_at": "2025-12-09T14:55:11+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Notfälle: Stromausfall – Feuerwehr sichert Kühlkette von Apotheke - DIE ZEIT",
-      "summary_de": "Notfälle: Stromausfall – Feuerwehr sichert Kühlkette von Apotheke &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY3ppdmg1cXNTTmd5NzY4RWx1TEVJQTM4eGx3SzNfQ2UxRkY5dE82b3hOYVMzQnIyaExwVTlRaXQ3dzJMUHpCTVE4Uk5sLW1Ka1pkNWF6czBVbnBNeFA3RWl5ZVhPbWNJcW84STJ6SjFRbFVWbTliMlVEbWxJQzhVVjgyVG5aRXVOVDVDeW1JZmJwTnpx?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-09T14:53:40+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -64,26 +146,6 @@
         "Europa"
       ],
       "type": "Studie"
-    },
-    {
-      "title": "Verdacht des Kindesmissbrauchs - Brandenburg prüft Gesetz nach Missbrauchsvorwurf in Klinik - Panorama - SZ.de",
-      "summary_de": "Verdacht des Kindesmissbrauchs - Brandenburg prüft Gesetz nach Missbrauchsvorwurf in Klinik - Panorama &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUjZTWk0tVkNfZnNxVFBBRVBUOW5CdDMtMTJIRHl1SmVXQ2J6eEJKQnFpaHhhU1Q1ckNQYVRIYXgtRXQwTmlGbW5DUkRZUk1hMTFLMEd5MlVLX01fbHVqSDY1QVViQVNvbGtXWW96aFllejZrOEFIcEdSd20tZkhkQXRqVVJMLVBiVzFRQ1FPd2ZEZlljRngyVjJvQ2lfLVRXV2FfUlVGalN3QjRtdEk4ZzlNb29GWHh2VlFXMktYT1pyT2o4MVNnUlZQc2hRaE94c25BMnoxdC1WdjlFMEg1eE4wc2RZQXVWNDVyeEhUUTF3a09kTzk5TEplcjVvQWwxQU1kdHRLZzE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-09T12:33:04+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Verdacht des Kindesmissbrauchs: Brandenburg prüft Gesetz nach Missbrauchsvorwurf in Klinik - DIE ZEIT",
-      "summary_de": "Verdacht des Kindesmissbrauchs: Brandenburg prüft Gesetz nach Missbrauchsvorwurf in Klinik &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRzBZdVVaY0EtM3RTa0M0Rlo4aFV4emxwRk9hdXdnTTJuN21kbFo5aktncVBWanNrbnFBQWFZbHdJbGdxakpsNFJrUWk5ZHowVWVYa3BoMlFGREFhYk42MXNPVFM0WTJsV0J4dFNDMmE0ckwtY1EyVTV5UlF6LXZfVGc4WmFvUnoybDQ5RWUzVU1HMGRHUHEtZVF0OA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-09T12:33:04+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Haushaltsplanung: PTA-Schulgeldfreiheit im Schweriner Landtag",
@@ -656,16 +718,6 @@
       "type": "News"
     },
     {
-      "title": "Sonstige Wundauflagen: AOKen erstatten weiter – und mahnen",
-      "summary_de": "Wie die Ersatzkassen haben auch die Allgemeinen Ortskrankenkassen (AOKen) beschlossen, sonstige Wundauflagen vorerst weiter zu erstatten, auch wenn es daf&uuml;r seit Anfang Dezember keine Rechtsgrundlage mehr gibt. Damit kommen sie einer Bitte des Bundesgesundheitsministeriums (BMG) nach. Gleichzeitig &uuml;ben sie Kritik.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/aoken-erstatten-weiter-und-mahnen-161060/",
-      "published_at": "2025-12-08T10:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "MRI proves effective for tracking results of obesity interventions",
       "summary_de": "MRI is a powerful tool to monitor skeletal muscle adaptations during lifestyle interventions for obesity, researchers noted.",
       "source_name": "AuntMinnie",
@@ -682,16 +734,6 @@
       "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15773597/tvrpetct-shows-promise-in-primary-hyperparathyroidism",
       "published_at": "2025-12-08T09:42:25+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Medizinische Fachsprache: Kinder fühlen sich nicht gut einbezogen",
-      "summary_de": "Schon f&uuml;r Erwachsene ist es angesichts vieler Fachbegriffe nicht immer leicht zu verstehen, was der Arzt ihnen erkl&auml;ren will. Experten haben nachgefragt, wie es Kindern damit geht.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/kinder-fuehlen-sich-nicht-gut-einbezogen-161054/",
-      "published_at": "2025-12-08T09:30:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -716,42 +758,12 @@
       "type": "News"
     },
     {
-      "title": "Diabetes: Idee für transdermale Insulinaufnahme",
-      "summary_de": "Forschende haben ein Polyzwitterion entwickelt, an das sie Insulin ankoppeln k&ouml;nnen, um es dann durch die Haut hindurch in den Blutkreislauf zu transportieren. Erste Tests verliefen positiv. Bis zur Anwendung beim Menschen ist es aber noch eine Wegstrecke.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/idee-fuer-transdermale-insulinaufnahme-161045/",
-      "published_at": "2025-12-08T09:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Five festive mistakes you didn’t know you were making: MHRA urges the public to be merry, not risky – don’t mix medicines with alcohol",
       "summary_de": "This holiday season, the MHRA is highlighting one of the most overlooked winter health risks: combining medicines with alcohol.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
       "source_url": "https://www.gov.uk/government/news/five-festive-mistakes-you-didnt-know-you-were-making-mhra-urges-the-public-to-be-merry-not-risky-dont-mix-medicines-with-alcohol",
       "published_at": "2025-12-08T09:00:00+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Zusatzbeiträge: TK-Chef prognostiziert »leicht über drei« Prozent",
-      "summary_de": "Der Chef der Techniker Krankenkasse, Jens Baas, rechnet im n&auml;chsten Jahr mit steigenden Krankenkassenbeitr&auml;gen. Die blockierten Sparpl&auml;ne des Bundesgesundheitsministeriums (BMG) sowie gesetzliche Vorgaben f&uuml;r die Kassenr&uuml;cklagen lie&szlig;en keinen anderen Schluss zu.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/tk-chef-prognostiziert-leicht-ueber-drei-prozent-161061/",
-      "published_at": "2025-12-08T08:48:08+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Häufige Arzneistoffe: Steckbrief Dabigatran",
-      "summary_de": "Dabigatran verhindert, dass sich Blutgerinnsel bilden. Damit ist es ein wichtiger Arzneistoff in der Pr&auml;vention von Schlaganf&auml;llen, Embolien und Thrombosen. Das Molek&uuml;l wurde speziell designt, um Nachteile der bis dahin &uuml;blichen Antikoagulanzien zu umgehen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/steckbrief-dabigatran-160981/",
-      "published_at": "2025-12-08T08:00:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -819,11 +831,21 @@
       "type": "News"
     },
     {
-      "title": "Hoch verarbeitete Lebensmittel: Dresdner Forscher sieht keinen Beweis, dass sie der Gesundheit schaden - Spiegel",
-      "summary_de": "Hoch verarbeitete Lebensmittel: Dresdner Forscher sieht keinen Beweis, dass sie der Gesundheit schaden &nbsp;&nbsp; Spiegel",
+      "title": "(S+) Dresdner Forscher sieht keinen Beweis, dass hoch verarbeitete Lebensmittel der Gesundheit schaden - Spiegel",
+      "summary_de": "(S+) Dresdner Forscher sieht keinen Beweis, dass hoch verarbeitete Lebensmittel der Gesundheit schaden &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOMGdrei1MOFFSdTRhWTQ1X3RlanZMREI1RHg0cXFYeWdtWlNad2JlZC1QWjlBWk1HNUZsWnhUSzdXSmxkbGtSN3JwUkxCM2loVmhDRUd2LXR3NURrRF9ZMlc3UmxadlFSSkJEcFI1RjV5YkpKSjdYT3RuLVZYcjA3YWQ5YjZMNzNJaFl3N0VQNkxSNTF0NE5yOWdCMDhRa21SMDJSS2xMZEo5blhtUGtFbU8wcW9VNEwweThqTHFMMTRRdUNjWWxQQjdtb0VZM0FnRjh1T19DSnN4YngzYm94SHVvMURhdlNpWVhJT0ZjZFA2aEMtdUN0dEl0dW5kU0hTNWNVcXdCd0JGRHJFZ2dZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-12-07T18:39:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Wenn Patienten mit Maden in Wunden ins Krankenhaus kommen: Wie kommt es dazu? - SZ.de",
+      "summary_de": "Wenn Patienten mit Maden in Wunden ins Krankenhaus kommen: Wie kommt es dazu? &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVUZpd3R2WUFNUFFVYXJvN1J0bDlGRmx0dGZlX2h1aFZsN25oLVhta0sxQ3NxQkdBeUxRMnFRM2tXSXdyUk94Q2dNcHdzWmxOYXRtSGFjT21VWWd0a1F2cHc5cmhNLUZLc0FDR2xXVU56QkZCQ2N3YUI3RzJpUFpFVUdPUHZSa2FjUFk5WW9EYkpFWWNwVjRNUlV3VE1sMUp2TXJWajlxLVpuaTFYN3QzUHRQMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-12-07T10:19:27+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -883,6 +905,16 @@
       "type": "News"
     },
     {
+      "title": "MRT Spine 3D.jpg, Anlage - PresseBox",
+      "summary_de": "MRT Spine 3D.jpg, Anlage &nbsp;&nbsp; PresseBox",
+      "source_name": "\"site:pressebox.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QWXlpVWxpV09OdnV1QW5kS2JRcTlOdkRraFA0alBkZXVoMkFUZmpoM0hSaW1RMUR2UDdVaDF4am9rZTc0NWloZlVTeFN4NHROZ2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-12-06T22:19:27+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -919,6 +951,16 @@
       "source_url": "https://www.diagnosticimaging.com/view/assessing-potential-impact-radiology-ge-healthcare-acquisition-intelerad",
       "published_at": "2025-12-06T12:02:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pflege in Deutschland: Gute Pflege? Wäre möglich! - DIE ZEIT",
+      "summary_de": "Pflege in Deutschland: Gute Pflege? Wäre möglich! &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbkdZQ3hZM09ZMmlpZVBwLTVVUnBNRnJMbmpUT2dwbXQxTC1DRDZHdjdjTjh3c1c3VXRLMnowTDFMMFJfdWNmaXVjODk5NDY4dndhcWxic25lcjZRalM1djFtcGFnQXYza2QzNU9vSFgxOU5ISnNDSGdIY0c0Zkc1Q3RBbXdpOU85QVNJM1pUTmhWeGdNZkktZ2hYNTUxZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-12-06T11:28:19+00:00",
+      "category": "Versorgung",
       "tags": [],
       "type": "News"
     },
@@ -1494,16 +1536,6 @@
       "type": "Studie"
     },
     {
-      "title": "Fotos aus Mönchengladbach: So war das Netzwerktreffen „MG trifft GESUNDHEIT“ 2025 - RP Online",
-      "summary_de": "Fotos aus Mönchengladbach: So war das Netzwerktreffen „MG trifft GESUNDHEIT“ 2025 &nbsp;&nbsp; RP Online",
-      "source_name": "\"site:rp-online.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSlJrMjFQczlFRGoxN2dzUHVBVm9QSW9hR1NoTG4xMTZ2N1lXaDJuU21EaHVGVjNYbTkweC1LbG1tSDZfZVBnM1pyQ0ZQRnBDSXFMRDRCRkpsNEIxSU5ZcElDbXVtRmp3QWVOU2VoUUdhSmdpSkpIQ2ZZeXZKTlZSd2NKQm0xbjZxSjNpWE5sMEtVRFhnZWZDYmkyUDJVRHZRT3oxaXhPZGF4a1dCWVp2TzdqTzJHSXhBZFNiN1g0QzhSZHZNMXVNYlRPZkt6NnVK?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-03T22:47:07+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -1521,18 +1553,6 @@
       "published_at": "2025-12-03T20:27:00+00:00",
       "category": "Radiologie",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Pflege - Werden Bedürftige allein gelassen? Protest gegen Gesetz - Gesundheit - SZ.de",
-      "summary_de": "Pflege - Werden Bedürftige allein gelassen? Protest gegen Gesetz - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeTMyaVlOWTJWTXRHTEFuZmVxNWhRTXZ6MF9Ndk0wUXJsOFBBbS1pNmhaazNVdEtxTHdWMnNmNzJnVWNNNlRueTRCVFE0NmZwX0c2RzZ1Ujd0bTJiN3I3RU1mbHpuVTl6OEdXR2p5UktYMk0xM3lweXRKczFfR19ucHZGMEhWSE9iblo3TDJDUF9icmlwS0ZTWW1WVzJ2eG9ieFNTdWt2QVE0QzRUQTExVFpzQmNYYmhoUFFwdnFGbUNWM0VCSTB2ak41OUhKMzRBYlF5Y3A3M0xtMkpRRTVYa0VxT0NBdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-03T15:48:45+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Versorgung"
-      ],
       "type": "News"
     },
     {
@@ -1582,16 +1602,6 @@
       "source_url": "https://www.gov.uk/government/publications/human-and-veterinary-medicines-register-of-licensed-wholesale-distribution-sites",
       "published_at": "2025-12-03T15:06:00+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheitsgefahr - Weihnachtslichter können für das Auge gefährlich werden - Gesundheit - SZ.de",
-      "summary_de": "Gesundheitsgefahr - Weihnachtslichter können für das Auge gefährlich werden - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZTBPVEU0SEd1VjBCWGZYXzZxX2xwZHdfOWJHSTFFSWw3TWp1OGI1Tjk2QkhBc2d0VzV2N2xpRzRyR0ZUUUZwNW8xLWxsMFpMWm5OZDFzeDM3dXlmWVF6RTd1TnJsZ1dNbW80S2UteW5IM3VrT1BHVUc3ajFHc3NodkF3czZqLVFRdjI0V1BuUU8yRHpXYl9sZmlLMU5pZGJ1ajRPNG5hZEo4ZzR2endGcmpXOGtraERiZzhfekhsLURTUVRjY1dGVTZnUXUzV1ppWnRHdmZSN0dqNTNzTU5faldhaW45NWNLNU1FejVxTnFPcEpCMXg0QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-03T14:55:12+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1726,16 +1736,6 @@
       "type": "News"
     },
     {
-      "title": "Promotional material: Vaccine safety – patient factsheet",
-      "summary_de": "Patient factsheet to provide information on vaccines and vaccine safety.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/vaccine-safety-patient-factsheet",
-      "published_at": "2025-12-02T13:58:56+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -1766,6 +1766,16 @@
       "type": "News"
     },
     {
+      "title": "Primary Care Workforce Quarterly Update, 30 September 2025",
+      "summary_de": "The Primary Care Workforce Quarterly Update presents snapshot data of the Primary Care workforce for General Practice and Primary Care Network Staff. Snapshot data refers to the situation at a specific date. This relates to the end of the quarter (June, September, December and March), however, data are made available at different times due to availability according to the release …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/primary-care-workforce-quarterly-update/30-september-2025",
+      "published_at": "2025-12-02T10:26:11+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "QS Sepsis: Neues Verfahren startet am 1. Januar 2026 in den Regelbetrieb",
       "summary_de": "Berlin, 2. Dezember 2025 - Mit der Diagnostik und Therapie der Sepsis (QS Sepsis) startet am 1. Januar 2026 ein neues Qualitätssicherungsverfahren in den bundesweiten Regelbetrieb. Das Verfahren verfolgt unter anderem das Ziel, die Sterblichkeit sowie neu auftretende Morbiditäten von Patientinnen und Patienten mit Sepsis zu reduzieren. Es ist das 17. Verfahren unter der “Richtlinie zur datengestützten einrichtungsübergreifenden Qualitätssicherung” (DeQS-RL), …",
       "source_name": "Pressemitteilungen | IQTIG",
@@ -1786,6 +1796,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Guidance: Vaccine safety – patient factsheet",
+      "summary_de": "Patient factsheet to provide information on vaccines and vaccine safety.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/vaccine-safety-patient-factsheet",
+      "published_at": "2025-12-02T00:00:00+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Gesundheitssystem: Was tun, wenn mich Arzt oder Ärztin nicht ernst nehmen? - Handelsblatt",
@@ -1870,10 +1890,10 @@
       "type": "News"
     },
     {
-      "title": "Kein Alkohol: Erholung für den Körper - DAK-Gesundheit",
-      "summary_de": "Kein Alkohol: Erholung für den Körper &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWXhVcTV2c3kzcFQyelRWWUNjSGlDN1NDWnlZRk9WTTNLNFZOOWJCZ2wyRFN4bXh3R2h1aEpVNmNoWnJ4ZkZpVnBqbmxXVGgzNVYwcjZ0OVVwN3BnUzJ1Yml3bHkteXU4WkNkMHV5a0VwRlFWYzN1Yk9LTENfNEoxNkttQ2U0Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "title": "Das Johanna Etienne Krankenhaus hat seinen Versorgungsauftrag für die Leberchirurgie behalten. Was bedeutet diese Entscheidung für die Patientinnen und Patienten? - Rheinische Post - RP Online",
+      "summary_de": "Das Johanna Etienne Krankenhaus hat seinen Versorgungsauftrag für die Leberchirurgie behalten. Was bedeutet diese Entscheidung für die Patientinnen und Patienten? - Rheinische Post &nbsp;&nbsp; RP Online",
+      "source_name": "\"site:rp-online.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxONC1EMzBBZFBwVVE1S21qWElOREJVbmpaMXQ2WjFKb3EyR283cGFaczZ4RmYzYTM3NW9MM3FFTVRQdXVlNldrR01xRVBaYy1fS2Q2VmllSGNGdU4xZVA4TXVOWE4xT2wzaUNEN2pIWVNHZG9EWXFwRnNKQ1BaTTZmN3hYSThRbjV3RTI4MDdsWTEwSzVhTDR1QTlONmhJY3UwOHVzY0djU2lJSElQa2JRUGZ3TkNMTmZDSXdFWi00VV9nNFBRSkFWaFc3SGMyakIyWDB4M19IM3pKamdRSlBPZ3lyY01PVEk2eGI0dG9kSVJPNS01c0t6NTBBWHJYU2NUMjlMVXFrd2hEdFdMRFhPVjhjcVJDc1U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-12-01T08:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -1991,16 +2011,6 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-app-statistics/october-2025",
       "published_at": "2025-11-27T17:20:39+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "TK-GesundheitsCoach - Jetzt als App - Techniker Krankenkasse",
-      "summary_de": "TK-GesundheitsCoach - Jetzt als App &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWDhxdVhqOTZxT0Q2ZWVUX205YWxMaDhwazJ2MnpTTTIyTHVjTkpDWFNseTltV19GVGphN1JLRnRndnBlLUViSTA1TG9uZ3R3Qmt3N3ZHSU82djdYN1oyUlF5b0J2WTlzQjJRNnR6cUFHODNSZXZMQUU5Uy0tYnBKZ3pLbjQ4Z09fdkNLRWFsMnpSVlVWaGprQkVuMzVDWkZs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-27T16:12:38+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2381,16 +2391,6 @@
       "type": "News"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/health-care-reform-thoughts-from-a-radiologist-to-be-ignored",
-      "published_at": "2025-11-24T09:59:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Meldung: Wir brauchen mehr Klartext",
       "summary_de": "Zur Blockade des kleinen Sparpakets durch den Bundesrat fand Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, im Gespräch mit der Apotheken Umschau deutliche Worte: „Es ist ein politisches Trauerspiel. Das sind schon wieder schlechte Nachrichten für 75 Millionen Versicherte und die Arbeitgeber dieses Landes. Denn ohne die dort vorgesehenen Einsparungen müssten die Beiträge der Krankenkassen zum Jahreswechsel noch stärker steigen, als sie …",
       "source_name": "GKV-SV Presseinformationen",
@@ -2588,6 +2588,16 @@
       "type": "News"
     },
     {
+      "title": "Hendrik Streeck: Zu viel Medizin ist keine Fürsorge, sondern Hilflosigkeit - DIE ZEIT",
+      "summary_de": "Hendrik Streeck: Zu viel Medizin ist keine Fürsorge, sondern Hilflosigkeit &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeHMwU0JKUkVGUWEyWnIxQ3pjUDg2VzlrUFEwbnFBUUJFMXFhRHVYVV9KSmJlZnhkMTVXODNlODE1eURUZjE1RXJodlNIMUxsczBJSmtodUVXRnhFMmF4SzNQM2gtRGY1ajg5T011OXFCTk11SldhTlk3N0tYSThtWExTUGNRR2k0WUVN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-19T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Statistics on Public Health, England 2025",
       "summary_de": "This publication signposts to a range of information relating to a range of Public Health Statistics on Alcohol, Drug Misuse, Obesity, Physical Activity, Diet and Smoking.The publication is broken down by data source and within that the domains as follows:Part 1: Hospital Admissions - sourced from the Office for Health Improvement and Disparities (OHID).Part 2: Mortality - sourced from the …",
       "source_name": "Publication Feed",
@@ -2766,16 +2776,6 @@
       "source_name": "Publication Feed",
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/autism-statistics/october-2024-to-september-2025",
       "published_at": "2025-11-13T09:31:45+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "A&E attendances and emergency admissions for October 2025",
-      "summary_de": "The Weekly and Monthly A&amp;E Attendances and Emergency Admissions collection collects the total number of attendances in the specified period for all A&amp;E types, including Urgent Treatment Centres, Minor Injury Units and Walk-in Centres, and of these, the number discharged, admitted or transferred within four hours of arrival.",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-ae-attendances-and-emergency-admissions/for-october-2025",
-      "published_at": "2025-11-13T09:31:26+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
@@ -3040,16 +3040,6 @@
       "type": "News"
     },
     {
-      "title": "Auszeichnungen für DAK-Gesundheit - DAK-Gesundheit",
-      "summary_de": "Auszeichnungen für DAK-Gesundheit &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FN21Fb0I4bFVCZEowbi1RMzlWSDBHWGJkeG5DZnc5SlpkOUtHTnBHb0YzVVJfcmFRdVpnS1d0VjlrYUhWczVHMHJtSGdWTVhpaWRQRWFGUWhLS1ppMWNXa3ctODRFLVczb29ULUVQVHR6em8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-07T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Zichorienkaffee: Gesunder Kaffee-Ersatz - DAK-Gesundheit",
       "summary_de": "Zichorienkaffee: Gesunder Kaffee-Ersatz &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
@@ -3080,16 +3070,6 @@
       "type": "News"
     },
     {
-      "title": "Der tägliche Koffein-Kick: Wie viel Kaffee ist gesund? - DAK-Gesundheit",
-      "summary_de": "Der tägliche Koffein-Kick: Wie viel Kaffee ist gesund? &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVEZjbkk5SlhORDhobFpnaF9VcXVra08tZFdlQkg2QzQxd1VJcVJLYU9xVW4yX3M2eE1Ub1VFb18zSFRZNzA0V3lKcmpXUTJFT1h1TEoyUThIYVBRUWwxMnEybXh0b0Q2MWcwMnZldk0xZ1M0S3FCeDRWTFlHUUVoeDdqQUc5blk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-06T17:03:06+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Have your say – complete the EFSA Journal survey!",
       "summary_de": "The survey is short and should only take 5-10 minutes of your time. We greatly appreciate your feedback to help us serve you better. Complete the survey",
       "source_name": "EFSA | News",
@@ -3106,16 +3086,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeEw1czNUb3VhaC1maF83WUg1S1V2RlpISkxEcUpiTTNNNmt4TmIwRDBYYW5MUVo4ZkpxWWN3VEExYzRXbHRBRWtHaGMzUVR4MjZNTTFuT2lVNHNCcHVjeG52Z3p4bUJBZnlaN2RLRVhhSXdBTnB0cURIX1FYQ1h1T2x3ZVZXeUk4STl5ckF1LVByTU9INVQzRFU0cTluVk9tMnBMRmh5ZHR2bnhxRzJqS2FFZW5KZ2hWZGFmU01RcUFrMTEzUG1jemhLekxEOUM3OHYwSnc5enJGcjZ4Rm10QW91ZE9MMVItVVlqWA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-06T02:33:39+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Kontaktformular Firmenkundenservice Techniker | Die Techniker - Firmenkunden - Techniker Krankenkasse",
-      "summary_de": "Kontaktformular Firmenkundenservice Techniker | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93Z2Q3TldMazhiMW9Ua1lObVRhMmN5ZzA5TFNmSXlHNUgzOWlHdVFtZUh4WU9MdnZJOWpuZlFfVndQN1V3NXBfcldLYnFpWE1JVmVEby1HblRpejA0Smp0bEJTZUZNb0hCUHNR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-05T18:06:52+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -3221,6 +3191,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPX3E2bWZoQWl0dDJlMm1EQ3YtRU1GRlY4R0VzSnpCc0w4dWhEN2N6cDhYa1lDX25HZ0lPYXM3bndLZTNFRTZGY25CQVh1dnhCVWJFWFlvSHdPSGlaVUFHNWFoZG9qaEFBQXRIX3JPVXZaTVROWHU1MXVnd21UXy1XYlA4SThfZzg3Zjd5dUw4cXBfbDBzOWxLUE8yT0x3c1NPX3ExRHZVTnRFTTkzcnB0WG90b21GUzFORHBKaVB3UXBkUjFPMDVnSmljVUdncUVtMjNGWnNSLWE1eDluMlo5UC0tYW9VWlcteklkQUhIem5xdmItRlE5MDNrcHNEZl9qaDlTcXgtaml3VWFldC1wcmMyUi1EREFKbFd3SVVmSXV0SzBwWkZF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-10-30T07:00:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Was Sie gegen quälendes Grübeln tun können - Techniker Krankenkasse",
+      "summary_de": "Was Sie gegen quälendes Grübeln tun können &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYmVzYldxZEhadGFKRDdxZ0NIRVpoMzZkeEFLTnBsYzJJNGlnUUNtNE1XZUpKZ0M3d2JQaFNaRmJSWGVHZ0t5VWQ3MGthSlJpUWN4NmNWekdmLVFudTJVOVdjdmQyZjdCYlE2bjlJclhaU2hHdGlycmNyaTk1M2ZnSU9CMnZBbEFLMElfU1g4djJaa2NTWW5NSDBQNkg5SDRRZ3VXRw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-10-29T07:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     }
