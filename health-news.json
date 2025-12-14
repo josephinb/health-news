@@ -1,18 +1,8 @@
 {
-  "generated_at": "2025-12-13T21:11:56.268612+00:00",
+  "generated_at": "2025-12-14T01:14:16.748137+00:00",
   "window_days": 42,
-  "count": 315,
+  "count": 309,
   "items": [
-    {
-      "title": "Bewaffneter Überfall auf Apotheke: 63-Jährige mit Schusswaffe bedroht - tagesschau.de",
-      "summary_de": "Bewaffneter Überfall auf Apotheke: 63-Jährige mit Schusswaffe bedroht &nbsp;&nbsp; tagesschau.de",
-      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdjNDTUxFelVSNVZOQzNING53cERhaks0ZWQzbTVzMkdYVFJ4TDZTUmQzbDZTcDNSbE82SHFESUhrbTRBRkFHd1NiSF9COEdnd1NUanpfVlNqYWx5aUdQZFFMc25XVmFGZXIwMzRuUEN6bGd1NFlUMUg3OW1KaWVYS2p6Rm1HR0JtNDRWUWdkaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-13T17:03:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
     {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
@@ -32,6 +22,16 @@
       "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Week in Review: BI-RADS v2025 | Long COVID’s neurological effects | Autonomous AI for chest x-rays",
+      "summary_de": "Articles on the latest BI-RADS release, long COVID's neurological effects, and autonomous AI topped the charts on AuntMinnie last...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15774101/week-in-review-birads-v2025-long-covids-neurological-effects-autonomous-ai-for-chest-xrays",
+      "published_at": "2025-12-13T08:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "Gesundheit: Wird die Krankenkasse teurer? Minister ringt um Lösung - DIE ZEIT",
@@ -206,16 +206,6 @@
       "type": "News"
     },
     {
-      "title": "Wissenschaftliche*r Mitarbeiter*in (m/w/d) Humanmediziner*in im Forschungsbereich Digitale Medizin und Data Sciences / Fachbereich 16, Universitätsklinikum Frankfurt - FAZ Stellenmarkt",
-      "summary_de": "Wissenschaftliche*r Mitarbeiter*in (m/w/d) Humanmediziner*in im Forschungsbereich Digitale Medizin und Data Sciences / Fachbereich 16, Universitätsklinikum Frankfurt &nbsp;&nbsp; FAZ Stellenmarkt",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQVFBhd2NFUnpaMmdTa2NTSm9QUlFIUWY3d18xN0xkQlVpLXJfdFBmTHZ1Y19WQTdTbVdXb0F0NUdaUWFQMjY4emhocVZKUGtnUWFobUtPMWlsXzJXRHBvVlRpSF8yYWdrSUlGUEk3YmNJODdjQVFZeDlXMzN5MnN0UnZGTDUwc24xLTlLamhVSnpNQzYwdUxWWmJPSWVrQS01RjFQTmRrOEdzQlEyX0U1V0k0NHpRWXN6U2JwOEUxeEFlV2VoSnhqLUxIRF9ybFNrU1hLNURaQXhrMnpmQ2ZsQ3dvaDM4NGcza3V3VDhJTzBiQzFYT1FNcEFOOXRJNFNfUGpiZ3RJUkszZklWT2Y4QUxodw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-12T15:35:54+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Berichte über Knappheit : Sanofi und Seqirus liefern weiter Grippeimpfstoffe aus",
       "summary_de": "Aktuell h&auml;ufen sich Meldungen &uuml;ber die mangelhafte Verf&uuml;gbarkeit von Grippeimpfstoffen. Doch die Hersteller Sanofi und CSL Seqirus erkl&auml;ren, dass ihre Impfstoffe weiterhin verf&uuml;gbar sind und ausgeliefert werden.&nbsp;",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -252,6 +242,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-12122025-161229/",
       "published_at": "2025-12-12T15:00:00+00:00",
       "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "dm startet Online-Apotheke am 16. Dezember - SZ.de",
+      "summary_de": "dm startet Online-Apotheke am 16. Dezember &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdk5rY1BQX3Fvak5OZU1pRlVTYW5PblBkdjQxNEJRZjdtb0Q3bmw0cTA1UjNZMkZCYkZheW1ERkpVcUVFeG41Q1RyaTdvRU02UUhqbEFrZC0yX3hNQmNJcWgwbU5US0g2RGJYTmxaOF8zRzgzT05TLW10MWl3QzJzTkFHZk51Y21DZFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-12-12T14:53:09+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -456,6 +456,16 @@
       "type": "News"
     },
     {
+      "title": "What causes lung cancers to be missed on screening?",
+      "summary_de": "null",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15774080/what-causes-lung-cancers-to-be-missed-on-screening",
+      "published_at": "2025-12-12T09:06:37+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "ADHS-Diagnosen: Deutlicher Anstieg bei Erwachsenen",
       "summary_de": "Immer mehr Erwachsene bekommen eine ADHS-Diagnose. Steckt ein Social-Media-Hype dahinter? Wissenschaftler haben f&uuml;r den Anstieg mehrere Erkl&auml;rungen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -643,7 +653,7 @@
     {
       "title": "Mitarbeitende für die Forschungsgruppe „Patient*innensicherheit und Digitale Gesundheit - ZEIT Stellenmarkt",
       "summary_de": "Mitarbeitende für die Forschungsgruppe „Patient*innensicherheit und Digitale Gesundheit &nbsp;&nbsp; ZEIT Stellenmarkt",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcEtNN09yQmdFN0pRWEVtX1AwNkdjblROQTJzR2xlc0FGeTQ0Z2hfOVN3OTFkUVZ3MDhHWk1xRDRYZUFFTmNEYnZSVVpRUkNzOVlfcVVrMHVMZFNxd0V3U0ktZWVXMDBHYmtHaW10cEs1eldiU0tLY2l0RVFuRV81a3hpQWs0aEZ6dkRQX21pQlV2X0w5ejNhelpfRXZaWXhodlJ4ajJkTDJuUzloTnl6cC1aMTZfVTJWcnRmNFo2RWN5b2FuZ19LRjkwbUZua0VOelZ1dVdlNnd6cDhsSDFTM0t3c0RqTUE3MV83NlFnOFAtdnZscUdR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-12-11T23:00:29+00:00",
       "category": "News",
@@ -849,16 +859,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/who-leitlinie-zu-unfruchtbarkeit-161135/",
       "published_at": "2025-12-11T13:00:00+00:00",
       "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Krankenkasse für ein gesünderes Leben | BARMER - BARMER",
-      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-11T12:48:31+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1535,16 +1535,6 @@
       "type": "News"
     },
     {
-      "title": "Warm-up Übungen: Aufwärmen vor dem Training - Die Techniker - Techniker Krankenkasse",
-      "summary_de": "Warm-up Übungen: Aufwärmen vor dem Training - Die Techniker &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ0czSzVQRHBjME43Nl9YMXM0andvdDZtVlFmRGVNcmZoWEphd2drQ3J4VEdpeHFZNmtESFZkVUE5bGZjMXNNTmgxN0phakdZSjJMc0tJa181TmF0bUxPM3BrazA5Q3dXbDNBbnFFb3Q0c3gtWEpacVNCOUtzZ25ib3NNNkhfblNuY2VtSDRwLTRKZTMzOF9QT0Fqb25icDg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-10T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Marathon training does not have long-term negative effects on heart",
       "summary_de": "Echocardiography shows that endurance training by marathon runners does not have long-term negative effects on the heart.",
       "source_name": "AuntMinnie",
@@ -1687,32 +1677,12 @@
       "type": "News"
     },
     {
-      "title": "Phase I trial reveals the potential of a new PSMA-PET tracer",
-      "summary_de": "The radiotracer detected more lesions in men with metastatic disease than F-18 piflufolastat.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15773722/phase-i-trial-reveals-the-potential-of-a-new-psmapet-tracer",
-      "published_at": "2025-12-09T09:31:19+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
       "title": "[MI] Cancer Quality of Life Survey, Invites up to September 2025",
       "summary_de": "The Cancer Quality of Life Survey is an ongoing national survey run by the NHS in England. The survey is for people in England who have had a cancer diagnosis, with people invited to complete the survey around 18 months after diagnosis. It has been running since September 2020, with a gradual roll-out to all cancer sites.The aim of the …",
       "source_name": "Publication Feed",
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-cancer-quality-of-life-survey/invites-up-to-september-2025",
       "published_at": "2025-12-09T09:30:07+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Radiologists can designate nonmass lesions on breast ultrasound",
-      "summary_de": "Breast radiologists achieved moderate to substantial interreader agreement for classifying nonmass lesions on ultrasound.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15773713/radiologists-can-designate-nonmass-lesions-on-breast-ultrasound",
-      "published_at": "2025-12-09T09:07:08+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1807,6 +1777,16 @@
       "type": "News"
     },
     {
+      "title": "MFA / Pflegefachkraft - Aufnahme-Terminierung-Entlassung / Innere Medizin, Universitätsklinikum Frankfurt - FAZ Stellenmarkt",
+      "summary_de": "MFA / Pflegefachkraft - Aufnahme-Terminierung-Entlassung / Innere Medizin, Universitätsklinikum Frankfurt &nbsp;&nbsp; FAZ Stellenmarkt",
+      "source_name": "\"site:faz.net medizin\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWVByaUNsaktWS2hNZ0ZBRWJRaDZ1UURLOVp3VFh5VkZXMl9rZ1hxUHl1UDhHTVIxbF9WV0tkc25kWG52SlI5YlkxQnZhVzhpRDJMbDU0cDdFdjdrc1JyVV9BRXVBX3FJSUhWcU5yM1NwUWxuNzcydDlkeWs3U0xXTnFjVmNzQTVMOUZSY1FaTzJVclVpTXJobFJLbEY3Tm1nRzFVRmRuV2p4M3V5NVVrMVhqNWZsLVk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-12-08T19:55:25+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "GKV: Milliarden-Hängepartie für Krankenkassen – DAK plant für „Worst Case“ - Handelsblatt",
       "summary_de": "GKV: Milliarden-Hängepartie für Krankenkassen – DAK plant für „Worst Case“ &nbsp;&nbsp; Handelsblatt",
       "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
@@ -1832,16 +1812,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdnFDeGVGUGkxQzh5TFR5Zy1mMG9WUUNubDF3RFFtel8wY3VHNzFhaGxuaHozaEFKSEdORGVkRXFIZE1wbVM5S19UeXdMM2dOb3pFeWdRWjdpSXBraHktb252eUZjWWpDeHBRX0JNSzhncmhTbkNzWHNudWFhaXlzMllZQ0N4bGVyVEdRZ0hXeHhyX3JIdHVOclZCUlN1RXBrMGJPZzQwdU8zY1NoUWQwWHhQVU1BTldLSjRqMUtuUDQ3UExJcUFVTEpJeUZrQ05OSWlRUzlwSExOMnJ5NmFzeERpemxjRWYtclFYQlRpSk4yZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-12-08T15:34:26+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "MFA / Pflegefachkraft - Aufnahme-Terminierung-Entlassung / Innere Medizin, Universitätsklinikum Frankfurt - FAZ Stellenmarkt",
-      "summary_de": "MFA / Pflegefachkraft - Aufnahme-Terminierung-Entlassung / Innere Medizin, Universitätsklinikum Frankfurt &nbsp;&nbsp; FAZ Stellenmarkt",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTWgyLTRlbzBYZG1VMHktekR1cjdteXlwQnBvM0ZSY3NyM0hoT0d0WGFoaFVpU05fQUc2dUpUQU02Uk04MGtrWi1FMklmdWRmMGV5Nkw0YlBzejE2X3I5TnFuSXMzQXlmRUVLUTQtVFlYVmZXclJJS2hIX04xWTYxNTB2aXE2dEVNT2pzZV9oUTRicUN0WldWR1Z1RkpFTG5SZ2pUX0xRNUlxeXZ5cUZRa1NvcEdlekpwLXBvYUpzWko?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-08T15:14:27+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -2471,16 +2441,6 @@
       "type": "News"
     },
     {
-      "title": "CT-Scans für Früherkennung der Osteoporose nutzen – News - Deutsches Ärzteblatt",
-      "summary_de": "CT-Scans für Früherkennung der Osteoporose nutzen – News &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSXB5Q3Z4VnV5eS1xWVJaS3VTSi1uLTA5NnQ1NzNTczRLRWgyRm9YdGFzcnI4QTFhdXAzclA1akNzLW4zbWJ3NWQ2QmJyQllnQ0h2V2dsdldoQmdGaUNXa1FILTV5QmdPclZZWmRYNDdhX1FOYTJtYm55YzVxSWRRSVlYWFdZdTRKTGhQME1Bc0YxWGMycXRoSTdNOGlHQmRGbmhXby00aWhTTVhUZXl0ZTM0bEpvU2xFVVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-01T15:24:25+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -2909,16 +2869,6 @@
       "type": "News"
     },
     {
-      "title": "Hendrik Streeck: Zu viel Medizin ist keine Fürsorge, sondern Hilflosigkeit - DIE ZEIT",
-      "summary_de": "Hendrik Streeck: Zu viel Medizin ist keine Fürsorge, sondern Hilflosigkeit &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeHMwU0JKUkVGUWEyWnIxQ3pjUDg2VzlrUFEwbnFBUUJFMXFhRHVYVV9KSmJlZnhkMTVXODNlODE1eURUZjE1RXJodlNIMUxsczBJSmtodUVXRnhFMmF4SzNQM2gtRGY1ajg5T011OXFCTk11SldhTlk3N0tYSThtWExTUGNRR2k0WUVN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-19T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Delta-8 THC: EFSA sets safe intake level",
       "summary_de": "Delta-8 THC is a psychoactive cannabinoid occasionally detected in products from the hemp plant Cannabis sativa such as hemp leaves, seeds and oil. It is also detected in food products such as candies and supplements marketed as hemp products. Consuming delta-8 THC impacts cognitive and psychomotor abilities and increases heart rate in a similar way to delta-9 THC, the main …",
       "source_name": "EFSA | News",
@@ -3081,11 +3031,11 @@
       "type": "News"
     },
     {
-      "title": "Zahnvorsorge - Techniker Krankenkasse",
-      "summary_de": "Zahnvorsorge &nbsp;&nbsp; Techniker Krankenkasse",
+      "title": "Früherkennung - Techniker Krankenkasse",
+      "summary_de": "Früherkennung &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa2ZwNEUxV3BxbWVsSlRZN3JPSE5kWVBWaFNSVFpaM0p2T1FsT3M2RWZ5dmZqTk0zcjdJdVJ4Y0lISEk0aS0zczJpMXktNFJCMVNRbW1oQWg2VEZKSm5EUjNWUVNFOEtDem9fcmc5Q0JqNm1tM2pycER4dDRJQUFlYmZUczZOQVdmWmFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-07T11:37:11+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pNlFxTkhCaXFZTktaRzRFZXBYa2ZQYXY5S1lfVVcxYUVvV0ZwQzVBSm5ldC1rc2dCbExyNGotTjBGRW1UTUxjclIxdHFGUnowS0hEeHhtenpMODBNOTVGb1BobVd4UVpCMEVRNENSUDhicFJfaHF5Qk13?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-07T11:13:17+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -3107,16 +3057,6 @@
       "source_url": "https://www.efsa.europa.eu/en/news/have-your-say-complete-efsa-journal-survey",
       "published_at": "2025-11-06T10:37:11+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Die Zukunft der interventionellen Radiologie: mehr als nur Bildgebung - springermedizin.de",
-      "summary_de": "Die Zukunft der interventionellen Radiologie: mehr als nur Bildgebung &nbsp;&nbsp; springermedizin.de",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeEw1czNUb3VhaC1maF83WUg1S1V2RlpISkxEcUpiTTNNNmt4TmIwRDBYYW5MUVo4ZkpxWWN3VEExYzRXbHRBRWtHaGMzUVR4MjZNTTFuT2lVNHNCcHVjeG52Z3p4bUJBZnlaN2RLRVhhSXdBTnB0cURIX1FYQ1h1T2x3ZVZXeUk4STl5ckF1LVByTU9INVQzRFU0cTluVk9tMnBMRmh5ZHR2bnhxRzJqS2FFZW5KZ2hWZGFmU01RcUFrMTEzUG1jemhLekxEOUM3OHYwSnc5enJGcjZ4Rm10QW91ZE9MMVItVVlqWA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-06T02:33:39+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -3184,6 +3124,16 @@
       "type": "News"
     },
     {
+      "title": "Duderstadt: St. Martini Krankenhaus eröffnet neue Notaufnahme und Radiologie - Eichsfelder Tageblatt",
+      "summary_de": "Duderstadt: St. Martini Krankenhaus eröffnet neue Notaufnahme und Radiologie &nbsp;&nbsp; Eichsfelder Tageblatt",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSENaLXRWc0ZIb3lUb1BQVUVCUnVFdFQ0alIxcnZGRi1Jc2VNcDNWNEFZSk1VZ2tueDJScmVsREFsa1loVDJHQ1FGWFNoRTZNRENVeUZwRkJocGs4ZmhDelF1Y3Izb3hfZFJKeFhabGowdXhkcHZHQkl1ZFBmMmJpd1BjYVl2M2lfOTFiQzVSbWZoT0ZHZ1NsODdVV3NSTWN6TlFCN2NmNTFyNTI4RmtCamVMQjZnX2JUcC1PUmNabFZyVDBQV3VMenRYalF6X0NwTnhDR3JXVWV5QVhibC0tWU92WUlDZHFvdTJDRzdqbWxLZVpUX19vYWFOelhSU1hhQ1RFYVJTa9IBowJBVV95cUxQckxHdU83eTN6eXBpbnNZaFk0azNOV0lXUWUtbXZKTGtRZnBHMldxSDZiYU5OWHM4dGpSSUtlYmdTdERmUXVfNmYwZU5oWlRSZ1VzMFdZUG1Jakg3T0ZTY2lJU0Q2T3pZQ3hrSVdRSjEyWWRWT3ZWbTIwRzI1RmhQMl9mY0d6ME9BZktQVE9Md1Y4ZFQ4RkxSWEJEM2o4cms0MVZZLXdwcWRSVU1vcTJrUVRLbWVMamdUdXpyU0VaLVhJaWNoMDVJRFhHLWdLb1Nlc0lKTzJTdm1pRC1qR3puSUxNbnhEaGhoYXRUZjdjdjBRbUxDTDJuWmYzOV9aclFDRUVUYS1SUWsyS2JqLU9pdEVFbUpiZ1dMTW02WEtuU0FJcXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-03T16:16:51+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Time for action: A Joint Statement of the EU Cross-agency One Health Task Force and the European and Central Asia Quadripartite on One Health",
       "summary_de": "This World One Health Day, nine international organisations make four key recommendations and call for action regionally, nationally, and globally to advance the implementation of the One Health approach in Europe. As representatives of the EU Cross-agency One Health Task Force i and the European and Central Asia Quadripartite ii , we jointly acknowledge the urgency of addressing risks where …",
       "source_name": "EFSA | News",
@@ -3203,16 +3153,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Duderstadt: St. Martini Krankenhaus eröffnet neue Notaufnahme und Radiologie - Eichsfelder Tageblatt",
-      "summary_de": "Duderstadt: St. Martini Krankenhaus eröffnet neue Notaufnahme und Radiologie &nbsp;&nbsp; Eichsfelder Tageblatt",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSENaLXRWc0ZIb3lUb1BQVUVCUnVFdFQ0alIxcnZGRi1Jc2VNcDNWNEFZSk1VZ2tueDJScmVsREFsa1loVDJHQ1FGWFNoRTZNRENVeUZwRkJocGs4ZmhDelF1Y3Izb3hfZFJKeFhabGowdXhkcHZHQkl1ZFBmMmJpd1BjYVl2M2lfOTFiQzVSbWZoT0ZHZ1NsODdVV3NSTWN6TlFCN2NmNTFyNTI4RmtCamVMQjZnX2JUcC1PUmNabFZyVDBQV3VMenRYalF6X0NwTnhDR3JXVWV5QVhibC0tWU92WUlDZHFvdTJDRzdqbWxLZVpUX19vYWFOelhSU1hhQ1RFYVJTa9IBowJBVV95cUxQckxHdU83eTN6eXBpbnNZaFk0azNOV0lXUWUtbXZKTGtRZnBHMldxSDZiYU5OWHM4dGpSSUtlYmdTdERmUXVfNmYwZU5oWlRSZ1VzMFdZUG1Jakg3T0ZTY2lJU0Q2T3pZQ3hrSVdRSjEyWWRWT3ZWbTIwRzI1RmhQMl9mY0d6ME9BZktQVE9Md1Y4ZFQ4RkxSWEJEM2o4cms0MVZZLXdwcWRSVU1vcTJrUVRLbWVMamdUdXpyU0VaLVhJaWNoMDVJRFhHLWdLb1Nlc0lKTzJTdm1pRC1qR3puSUxNbnhEaGhoYXRUZjdjdjBRbUxDTDJuWmYzOV9aclFDRUVUYS1SUWsyS2JqLU9pdEVFbUpiZ1dMTW02WEtuU0FJcXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-03T08:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
       "type": "News"
     }
   ],
