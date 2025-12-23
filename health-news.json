@@ -1,17 +1,29 @@
 {
-  "generated_at": "2025-12-22T21:13:19.151281+00:00",
+  "generated_at": "2025-12-23T01:09:19.027102+00:00",
   "window_days": 42,
-  "count": 316,
+  "count": 313,
   "items": [
     {
       "title": "(S+) GKV-Übersicht: So teuer wird Ihre Krankenkasse im neuen Jahr - Spiegel",
       "summary_de": "(S+) GKV-Übersicht: So teuer wird Ihre Krankenkasse im neuen Jahr &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS3lkeDNMdTc4RUdSVWhXUE8tclY1Q0ptMzloVTI0QVA5dkdjX3JlV3V0aVJsR0pZTUJiOUE5ZTI0bTZPV0MxUXpvZXVsZWNWNDRYcW5NMHExdHlLMkRQWXdhT1lGWUJyUl9qaWdjOU1vS0tfMHVBZHdTZWRTMHYzMlU0V0pVc2wxQVIzc25vTUswZ1RRN3VabEduTWQ0WEVzX24tMXRaQkJOb1RrQS1ZUHRheDZ4VnVZM29QNDlTUHNVSW1vYTFsUVl0WlI2Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-22T19:06:00+00:00",
+      "published_at": "2025-12-22T21:15:00+00:00",
       "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Brain imaging, billing, radiation exposure top 2025's most-read list",
+      "summary_de": "Snapshots we've curated in this roundup make it easy for you to review what AuntMinnie's members read the most in 2025.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15774398/brain-imaging-billing-radiation-exposure-top-2025s-mostread-list",
+      "published_at": "2025-12-22T18:58:30+00:00",
+      "category": "Studie",
+      "tags": [
+        "Radiologie"
+      ],
+      "type": "Studie"
     },
     {
       "title": "Hessen: Arzt im Klinikum Darmstadt schwer verletzt - 55-Jähriger sitzt in U-Haft - tagesschau.de",
@@ -30,6 +42,16 @@
       "source_url": "https://www.gov.uk/government/publications/mmrv-vaccine-factsheet-information-for-parents-and-caregivers",
       "published_at": "2025-12-22T17:33:01+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Erstmeldung Arzneimittel: Oxygesic injekt 10 mg/ml pU: Mundipharma Gesellschaft mit beschr&#228;nkter Haftung - Gesch&#228;ftsanschrift -",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2025-12-22T17:06:51+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -256,16 +278,6 @@
       "type": "News"
     },
     {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: Flucoderm Kapseln 50 mg pU: Dermapharm Aktiengesellschaft",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2025-12-22T10:35:21+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Fettlebererkrankung: IQWiG findet keinen Zusatznutzen für Resmetirom",
       "summary_de": "Ob Resmetirom, das erste zugelassene Medikament zur Behandlung der Fettlebererkrankung MASH, einen Zusatznutzen bietet, l&auml;sst sich aus Sicht des Instituts f&uuml;r Qualit&auml;t und Wirtschaftlichkeit im Gesundheitswesen (IQWiG) derzeit nicht beurteilen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -332,6 +344,26 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/epileptische-anfaelle-als-fruehzeichen-fuer-alzheimer-161378/",
       "published_at": "2025-12-22T08:00:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "75% gadolinium reduction maintains diagnostic sensitivity in breast MRI",
+      "summary_de": "Study suggests real-world feasibility of AI-driven dose reduction with preserved diagnostic confidence in breast imaging.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/breast/article/15774602/bracco-diagnostics-inc-75-gadolinium-reduction-maintains-diagnostic-sensitivity-in-breast-mri",
+      "published_at": "2025-12-22T08:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Transarterial embolization, cryoablation treat larger renal masses",
+      "summary_de": "Sequential transarterial embolization and CT-guided percutaneous cryoablation can successfully treat renal masses.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/interventional/article/15774660/transarterial-embolization-cryoablation-treat-larger-renal-masses",
+      "published_at": "2025-12-22T07:39:52+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -710,16 +742,6 @@
       "type": "News"
     },
     {
-      "title": "Arztpraxen - Jahresbeginn in Berliner Praxen mit längeren Wartezeiten - Gesundheit - SZ.de",
-      "summary_de": "Arztpraxen - Jahresbeginn in Berliner Praxen mit längeren Wartezeiten - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcmYzOTFWeklGSjBfX1YwRmxkZFhEaVctNVBndkx0akUzcEJ5ektiWmotY2FyODBwSEJmSWtiN0s2aE1fZk9WNUpBQzdwYkVfX193aUNKTXp5NmpqVFllZS1BN1lSbjhyZHcyaUJzb3dxYjFIdFFJOHFLOGNra3Y2ak1ZOG9GSklVZ205MzFrV1c2NzFvaWlLWkFKTUdBRlZGVVNLWEcybWwtWl9XVHlEOGVNZVhpdmJIU0lMczc0Y0s0dEczLTNTeWVYWjRDS2drczM5cHNONEw5MmxFS25YTVJxWEMzTGJDUGd6TWR3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-19T11:33:28+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit: Das bringt das Verbot für Lachgas und K.o.-Tropfen - DIE ZEIT",
       "summary_de": "Gesundheit: Das bringt das Verbot für Lachgas und K.o.-Tropfen &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -892,16 +914,6 @@
       "type": "News"
     },
     {
-      "title": "Krankheiten - Deutlich mehr Demenzfälle – Darum sind Kliniken unter Druck - Gesundheit - SZ.de",
-      "summary_de": "Krankheiten - Deutlich mehr Demenzfälle – Darum sind Kliniken unter Druck - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNUNyWF9iYjdZY3R5TF9SSTZiZ1BJQzMwTmgxNU1RalZYeTFsaTBuZkUwQ01POFNsc0pjZnNxTXhQWFlSVGFBeGJDei1YbzdUZURpN0NqaWd0U3lTV2pTMExnWnZKemNubXJiMm51OTMwQnNJcWpkMFNCQ3hpbEZLVU9rNzFyMVMzd2JORHR2OGFPUHF1TmRHLWlGbEIxbU1ENFBveE9LbWw2THBzenNnQWZGdm9PVnc4alZFNEtoLThGQWxJdVhubjdzTzdlbEU3QTB4SHhrSzlQQU1tUDM4ZHZKaUNtcTV6WUNlbUpkNGs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-19T03:00:33+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "State‐Trait Anxiety Inventory (STAI) for detecting anxiety disorders in adults",
       "summary_de": "State‐Trait Anxiety Inventory (STAI) for detecting anxiety disorders in adults",
       "source_name": "Cochrane Library RSS feed.",
@@ -938,6 +950,16 @@
       "source_url": "https://www.diagnosticimaging.com/view/radiology-research-recap-highlights-rsna-2025",
       "published_at": "2025-12-18T17:24:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Einzelhandel - Krankmeldungen im Einzelhandel auf höchstem Stand seit 2003 - Gesundheit - SZ.de",
+      "summary_de": "Einzelhandel - Krankmeldungen im Einzelhandel auf höchstem Stand seit 2003 - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcDdVS29kNXQ0akhVU0NQTWlvWlgtQlBNTnhYZHQteVhydFJKMGotMVp0SEdWVk1adnA4ZjNCMHF2OXE2UXFNWFpMVlBFTWJ6bDMtODVJTXAxWjlSMDBwTUxiYW8yb1NOOFlrcUFaT2w2ZER0cFg4aElmeW81RUVJdmpReTF3T3lNa1VyM05fTjYwWlFlSlpGcjRGZmJuZTBvMnJkd2RESG1BTWFLVWtnUnJsYThGcUlvRDZad0ptcl80NmFINXJZUy1pSzgtNzdBODhoY2pjT19zVnE4Nm94R1ZUU01fb0ctdFBzVWNSZnBTNlNy?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-12-18T16:36:02+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1018,16 +1040,6 @@
       "source_url": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-december-2025",
       "published_at": "2025-12-18T13:55:18+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Zwölf Patienten getötet – lebenslange Haft für Arzt in Frankreich - FAZ",
-      "summary_de": "Zwölf Patienten getötet – lebenslange Haft für Arzt in Frankreich &nbsp;&nbsp; FAZ",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSTk0QXZDXzRHbzZqazB3U3RQS25FYlhhZ3Y3NVRYYS1HNi15SHRpSVRBN1V5LV9HdHZsbWtGU2NQc0p1aVU4eWVIdUFjRlhUSXh0X3BLZ3dBMVpNYmpMSEQ2RkRSY2kzd2hHUlo3VTZJNXV0TGMwcGJjOWlFRGJBUWE4RTFoWnA5RWp3N1pzbFlsS2ppLXo3NFVWTi1YcnZqZHVZMVpoVGVadDQ0SnY2VXNtckhqSzNJMVdqS3NlTXZlcFF0OG92UHl4U01iclF6Vnh5aF91UnI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-18T13:47:57+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1286,6 +1298,16 @@
       "type": "News"
     },
     {
+      "title": "Genug Zeit einplanen - Gans auftauen dauert länger als man denkt - Gesundheit - SZ.de",
+      "summary_de": "Genug Zeit einplanen - Gans auftauen dauert länger als man denkt - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcXFXSzV3d2dGcmxLVTBqSmFnUUZ6VXBKdHRqX0tZM0tOeGhZbkoxUHFSQ0xlQURmRkNGb2hJbWtwREVjcXVmUVhsWU80Q3dRd0tjTERrS3V2aGcwVlNoNlB6WlRZOHEwVUdSWXdTT3ZaYkh1RF9uV3ZfakVWZUhiaXRRdjRqOWhqOG1XRTNaRXJsTkxCZHowYW1yV1JqWjhBY24wTXhndlp6RXNoR1lQZzdKOXRHMVh6WTdHOG01ZEYtcVdQTm9SV3NhOGxZSksxeExKaUhURngwTEZTRkkyM1hKY1JMMU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-12-18T05:00:10+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Alkohol - Weniger jugendliche Komatrinker in Hessens Kliniken - Gesundheit - SZ.de",
       "summary_de": "Alkohol - Weniger jugendliche Komatrinker in Hessens Kliniken - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1406,16 +1428,6 @@
       "type": "News"
     },
     {
-      "title": "AI image reconstruction improves MRI's performance, patient experience",
-      "summary_de": "Study findings underscore the clinical value of AI in MRI, researchers noted.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15774307/ai-image-reconstruction-improves-mris-performance-patient-experience",
-      "published_at": "2025-12-17T17:03:47+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit: Stadt Essen: Wende im Kostenstreit bei Rettungseinsätzen - DIE ZEIT",
       "summary_de": "Gesundheit: Stadt Essen: Wende im Kostenstreit bei Rettungseinsätzen &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -1431,16 +1443,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdm1OMjAwSWlCajVWX2ZtSFJSbjNuOC14OEh4c05LNG1QQ24zSmsxYTRXZm9JdkZlVEdYazBFLXQtWHBFLWlnSi12TUlRZHFQTzBpQy1PcERvTVU0YjFwZENGb3l0dWVyWk9QRUVrN0FaZm9CSWd0X21uSUR6YU9JYUFVRzBrdl9qeFQ5d1dIZl9TRFQ2NC03VGMzN1EzUHJOaFE5WTJvOHVVbXJ3bnJTZXV1eFBuNVdER1BvOF9HOTNhS3FiU1ZGSHIwS19wWl9xSUttOExESzJLblNOeUItQU5kS2Jka0kyMzdHWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-12-17T16:50:57+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "New breast ultrasound approach cuts false positives by nearly a third",
-      "summary_de": "Applying a generalized contrast-to-noise ratio to short-lag spatial coherence breast images could help reduce false positives.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ultrasound/article/15774306/new-breast-ultrasound-approach-cuts-false-positives-by-nearly-a-third",
-      "published_at": "2025-12-17T16:40:22+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1532,16 +1534,6 @@
       "source_url": "https://www.diagnosticimaging.com/view/integrated-approach-psma-pet-ct-prostate-mri-enhance-detection-extraprostatic-extension-",
       "published_at": "2025-12-17T11:45:00+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Kinderärzte warnen - Knopfzelle, Magnet, Gel-Perlen: Verschlucken ist ein Notfall - Gesundheit - SZ.de",
-      "summary_de": "Kinderärzte warnen - Knopfzelle, Magnet, Gel-Perlen: Verschlucken ist ein Notfall - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNmpiQnF4Z3hxQTRNaksxMllOUUVqVUptSURNSFlVT1Z4WDJUd25yWlFZZDBoQjltOU8xX3g3ZHRqQXg3aHpKMUpCOVFCclkxZS1UV1RKVVJGeEZEZDdzZ1JuWkUtRHc2S0hqZmRCTkpWVk12ZU9SMjJvWGZ3XzZmYTd1cDliRjgtbWhzUERSeENteDExaThJSUVyclZhbUJUX0I1dW0xSWZsY3RScmluUWYwX01aUGQ4dnNva1h5Sk1YLUpLVUFmNjF4eUYzdWNRS1IteTFzd2dLVEFCbVBXTmtRNmFuOHZSWEJsX2h5NGR0Ny1vUGxCdGhB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-17T11:44:40+00:00",
-      "category": "Versorgung",
       "tags": [],
       "type": "News"
     },
@@ -1638,16 +1630,6 @@
       "type": "News"
     },
     {
-      "title": "Medizin-KI: EU verschiebt Regeln, doch Haftungsrisiken bleiben akut - AD HOC NEWS",
-      "summary_de": "Medizin-KI: EU verschiebt Regeln, doch Haftungsrisiken bleiben akut &nbsp;&nbsp; AD HOC NEWS",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc1l0U2RnTFhqRmVLZDkwZVdNMmlXNkVua19PLXl4aW5aVXdUU2FMWnRFblJ2aXZqS2ZVdW5NQ3lTTU5FSHItS1R1QjRqdXNNdDVfMzVfU3BSSG5EaUIzZHg4bWVwcmVodTNIUV9ORjA4SU1wd0gxaW9kRDQxaF9TcVFMQnptY21wV19Jb09CRGlyUU1wT09jRkF3b3I2bThSR2lXVGlzVjg4VjdZYlJERzlvZVZWaXJISWlj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-17T00:49:12+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Guidance: Health Institution Exemption for general medical devices",
       "summary_de": "Guidance for health institutions that manufacture general medical devices under the Health Institution Exemption (HIE).",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1673,16 +1655,6 @@
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR1BRYzBjcTctVURleUhZbEM1QnduRTFGVXAzZ3NsOUxVWXItbjVxc3BQaEJfSmJnUHdZdjRfaVVTZmZwa3ZMV3hBZUVwd2I3MWc3YW1QOVV0d1BUSGVoUmxYLUNJNWhlOFFFRlp0V0w3SVJ0ZE94LTNOMTBNUWswTFlZcWtna3BseW5rSUdSTWFqT3VxVVN6T2MwUE1uU1hOMnV2XzV1QkRYelNhcEgyVnZab3NvaGNJdmoyOWdn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-12-16T23:00:23+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "W2-Professur „Allgemeines Wirtschaftsrecht“ - Hochschule Aalen - Technik, Wirtschaft und Gesundheit - ZEIT Stellenmarkt",
-      "summary_de": "W2-Professur „Allgemeines Wirtschaftsrecht“ - Hochschule Aalen - Technik, Wirtschaft und Gesundheit &nbsp;&nbsp; ZEIT Stellenmarkt",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRnZMQ2tMdm5xVF9venpGRVhFeC1pb21BcnQ1X3R2MjJKX0VuVTJZTnY4b1hOUHhvZDFMVEhVNkg3N05BTG0wOWZLUTNtWkhyMzZlX3ZzeTVqS1o4Q3FCSm05MzlPOUZWbDdPMGNVSUFEU21JVFFvbEwtQzU5SEFFYUt3dElxYlQ5NkNvanJrVUlpVmZ2OV96VklWblM2UTNlb0hzRDNVM3ptMTNtbWpvbl9qQ1M5ejZTX2RDbzZxX0FXMnI2?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-16T23:00:14+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1828,16 +1800,6 @@
       "type": "News"
     },
     {
-      "title": "Dynamic chest radiography effective for diagnosing COPD",
-      "summary_de": "The technique can serve as an alternative to pulmonary function tests for diagnosing chronic obstructive pulmonary disease (COPD...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15774281/dynamic-chest-radiography-effective-for-diagnosing-copd",
-      "published_at": "2025-12-16T09:46:29+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "NHS Maternity Statistics, 2024-25",
       "summary_de": "This is a publication on maternity activity in English NHS hospitals. This report examines data relating to delivery and birth episodes in 2024-25, and the booking appointments for these deliveries. This annual publication covers the financial year ending March 2025.Data is included from both the Hospital Episodes Statistics (HES) data warehouse and the Maternity Services Data Set (MSDS). HES contains …",
       "source_name": "Publication Feed",
@@ -1857,6 +1819,16 @@
       "tags": [
         "Versorgung"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Mindestausbildungsvergütung wird 2026 angehoben | Die Techniker - Firmenkunden - Techniker Krankenkasse",
+      "summary_de": "Mindestausbildungsvergütung wird 2026 angehoben | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVE0Y2hxd0w4WEdlOVJxZXhDaG11N2w4X1VQU01kWXo3ZU9nM1BlZ3A3WG1STUhVMTV1QVR2SjZzQkQyVG0wQkdZejIyVnozVmhEYVhYY2tlWTVIRXZLblRkN1NCWERsN1ZRRUxIajlsU3I4bTVOaU5GWFlUNmRJeVJJcVliR3BweHBpMDlkcklkNWppam9qLW93Rks4eC0xaGN1LXRwOXYtYmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-12-16T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
@@ -2428,6 +2400,16 @@
       "type": "News"
     },
     {
+      "title": "Krankenkasse für ein gesünderes Leben | BARMER - Barmer",
+      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-12-11T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Programmverantwortlicher Arzt (m/w/d) Mammographie-Screening - ärztestellen",
       "summary_de": "Programmverantwortlicher Arzt (m/w/d) Mammographie-Screening &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
@@ -2672,8 +2654,8 @@
       "type": "News"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-12-08T08:00:00+00:00",
@@ -2714,16 +2696,6 @@
       "tags": [
         "Versorgung"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Jens Baas: Chef der Techniker Krankenkasse rechnet mit steigenden Beiträgen - Handelsblatt",
-      "summary_de": "Jens Baas: Chef der Techniker Krankenkasse rechnet mit steigenden Beiträgen &nbsp;&nbsp; Handelsblatt",
-      "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNjV3M0tYM1RlR2lpUjhPWW9GYmlDRjY3QXRQMTRjU0l1WHNFaUdETGRxSGhPTGtuVUFReFlPUnpNZzZFbTdycDlIVk1UdFd5OXlIY0pDRFh5X1FjZjJ0TktVNWtfUlFiSldlaWV2allsdWtVclJLN1VPR2FPdjZxd0dnVHpRVTZPVjMtaWd2aHlfb0otbDRHRG5GLTFqcERJeDlxRV9Ga010WEs3MnhLUWp5OW5JVjNlVW5BaEl5QUZISzJxRWNKY3h0bkNXczBGWDZORFZPbmNxSENnUmdnQnRxQV9RSUJZMEFoc0l6emZmZkU4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-07T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
@@ -2927,16 +2899,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Gesundheitssystem: Was tun, wenn mich Arzt oder Ärztin nicht ernst nehmen? - Handelsblatt",
-      "summary_de": "Gesundheitssystem: Was tun, wenn mich Arzt oder Ärztin nicht ernst nehmen? &nbsp;&nbsp; Handelsblatt",
-      "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYVZiY3R6LXdOazZNVzZGRkNueTRyeWY3VC12WUhqbThjVWJ5WnRSUFJPNUpQRU0wbUo5MTdia3I1Z0Ywd19kRTBZcDZ5WXNjRlY4QVl4Wkw2TkFhNVBwbXZjVHRkOHdpekcxNFFSeThNVVFVRzhOZ1lZcWNHWlk1MmNWZk10eTBLTF9TdXJUak9TUVh6emNXMC1QaFRxYkZmLWN6TnQ2bXdmdUdmUWNuTzZfWDl0UVVHdVp3VQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-02T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "QS Sepsis: Neues Verfahren startet am 1. Januar 2026 in den Regelbetrieb",
@@ -3174,6 +3136,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0prNUZya2NyTmlRV0FmZ3ZhbXRPVE92TDVRd0JtSkpTMjhlNWppLWhkblVpSEVLU29BNjBrSDFvWURiUGM2RWtQRGVOOVZ1QXhnUzZKcGdCZUYwYnNvLW9mbTJ5d29sWExHZDAyN1lhNlJLeUV4U1hiZjBnVGQ2MkFRTzc2R3k5NVV3NDVqaS1BZG1vd3JMcXBvRG9WeXUzZHJ3M2JDNWktNjhaM1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-17T08:00:00+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Schweinfurt: Bilder vom Herz in Millisekunden: Radiologie am St. Josef weiht neues Hochleistungs-CT ein - Main-Post",
+      "summary_de": "Schweinfurt: Bilder vom Herz in Millisekunden: Radiologie am St. Josef weiht neues Hochleistungs-CT ein &nbsp;&nbsp; Main-Post",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRmdzeFF0MHhPMFNDRDRYbzFQMWJqeDRsdUFtQ0dPcTBDMzVhNjNoZ09nYjhEcmJ5UHg1bUU3X05zdTdCY0dGcFpIODdTbUcxR0J0MGpXWUcxTWNXcnUyQXlJWEZQTVhjSkZuM051eTBxT3lLZzdKek1hNGpYb096QkJiUVJsb2ROVEVNa2JQcWdHajg0OThwdUFYSXNYVDllNjd4SmNQLTJrTHFLdkNkTXFOS1EzZXdNdWVoeGVQYUNYT19mMExrLXJybWpzUkI1dktxYXdqREdCVXVSemlZdk5vZ2daZVdnZlRIaEJQeExFSE93Snc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-15T08:00:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
