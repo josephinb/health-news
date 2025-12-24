@@ -1,14 +1,14 @@
 {
-  "generated_at": "2025-12-24T18:21:19.107958+00:00",
+  "generated_at": "2025-12-24T21:13:01.805091+00:00",
   "window_days": 42,
-  "count": 307,
+  "count": 310,
   "items": [
     {
       "title": "Weihnachtsthema „Güte“: Sie nimmt Kindern die Angst vorm Krankenhaus - RP Online",
       "summary_de": "Weihnachtsthema „Güte“: Sie nimmt Kindern die Angst vorm Krankenhaus &nbsp;&nbsp; RP Online",
       "source_name": "\"site:rp-online.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOczA5aVd6U0YxaTdpUkZaUldkX21NY0ZJM01ITkhHb1lXdmluQktDR2Q0ZmNHODN4YkpVS2xIRzZyNERtSDFKc1VuaUc5WE93cnlUN2Q4MzYwMnYyaHN6NzR3em02clo3VzZhR2xtd3NUUUNxd1Izb2pXUUxKdnZvSzJEUkVJNkMyOWZsQWlTbFl1YzhiV2JBY29kZW83eXEteU5rbWVUd1g5R3hMODNNZg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-24T17:32:02+00:00",
+      "published_at": "2025-12-24T20:32:03+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -39,16 +39,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPbm5xU1ZiSUVIVlpreXVFTUtZbnVGeF9hTXdISjhQTDdHbmE4aDNEckM1QkNNaU4wQklCdUpaNHJyekpYWXFySTcwc1M0ZWRQZmdtMUpZLVlhOUhmSHVtckVUNjU3N1llQnE2R0FuaFEzNERlWmRBeE56Y05PcXgxdkZ4RlBBZGlpb3hpS2RmVFNPRXpJQlQyY0VUR2V0Y0RORXBDMTB0TGJNajJMY1VxRUtldXc1R0szb2FaS3dobHB1Qlp6MXVMNVhhcUtKclBxV2tfLWZ1YURwZGRGb1NJdlNxbzlEaE5uVFU1bWJJNS1RVlZHb0ZHV1NOSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-12-24T09:05:11+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Tödlicher Unfall: Auto prallt gegen Baum - Fahrer stirbt im Krankenhaus - DIE ZEIT",
-      "summary_de": "Tödlicher Unfall: Auto prallt gegen Baum - Fahrer stirbt im Krankenhaus &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVjRHdTQ1YTVuajhuaFk3SXN6ZENyMTAxaGFrZ0k4UlJ1bU4zb2I3WTBFRWY3Wmdwb0c3cXVFR3VtUUYyeWVoS3pIMy1JaGk0VTMtYVc1a0x0TzZKalNHR3h1S25yaTZWd1F4U3VGeldqb29yVUJFcnU5Z2hxT01EWURoN3hwSkZ4MjVtZ2VzMkk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-24T07:30:52+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -660,6 +650,16 @@
       "type": "News"
     },
     {
+      "title": "Krankenhaus der Barmherzigen Brüder: Neue Leitung in der Radiologie - MeinBezirk.at",
+      "summary_de": "Krankenhaus der Barmherzigen Brüder: Neue Leitung in der Radiologie &nbsp;&nbsp; MeinBezirk.at",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTjRQRGlIaVpUQkRETDNwSUd5LVNxVXJtdFpaTWdlXzJ5LW02VFVUR0dMWWRkM21idWNMOUd3ZkpiaXZLZlhjczhyUEduMDBKVzRIYXhHMU1STS1Qc3ptVXZKVTlQcEUyWXFsLXZYSDhQRjRMM0RZOTNWanhhejNRcW5PQWtSZXItLW04?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-12-22T12:59:48+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Ernährung - Bundeslandwirtschaftsminister lehnt Zuckersteuer ab - Gesundheit - SZ.de",
       "summary_de": "Ernährung - Bundeslandwirtschaftsminister lehnt Zuckersteuer ab - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -806,6 +806,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbjdfTS13NVhlSTN0LVhDR1NSQTA2OUxlaDF0VXNsUHUtZnJGTWhOR1hlR0ZDU3ZIRkxNeVR2bExfeG5hYXlkOHRndEE0WndJNzBmbGRRcmlubGl2LWZrcjdVdzFENTJDY2ZsYkFJVGJjb1FCd1hXVzAtZHRROUtpNlJxdGhia1UtV2pmZ0cwcUpmMkRGVFVzVndEaHFxdU5rQngzR2FHVGJmLTdXMTlmaS1ZaWgwV0pCdEpqQmhaQkNCN3VPcFRmOFNXZXZ3QnZGQXo4TkR4RUMtLWNIc3VnZ3l0YVRxclhMTVZKY1ZzeTdHOHl4a003UmcwN1VUX2Yxa0NwYmN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-12-21T23:05:14+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Ärztl. Leiter Nuklearmedizin Elbe Kliniken Stade-Buxtehude Stellenangebote - ärztestellen",
+      "summary_de": "Ärztl. Leiter Nuklearmedizin Elbe Kliniken Stade-Buxtehude Stellenangebote &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSmZOalA4VUdMVkZldTdPRUQ1dklkWDJfSmRQVmFFZ296aXpLN2VpckVUdXpzcXBSR2lTRXVFcUZyT2dxX3NpVFdBMmltYjE1VWM5V3BMMTNVaFBGTkl5cWlEdVVqQU16Zy0zbVhhRHVDZmx3YVRjVTFTV0ljQUMzemtqSUltNjRLYVk1eElQU2d5dGFiaHhNdmNkclFRdDIzWkkzajREbUladw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-12-21T12:57:42+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1084,6 +1094,16 @@
       "type": "News"
     },
     {
+      "title": "Gesundheit - AOK muss deutlich mehr für Heilmittel ausgeben - Gesundheit - SZ.de",
+      "summary_de": "Gesundheit - AOK muss deutlich mehr für Heilmittel ausgeben - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQm5NZ3IxcEljM2pmaWJhaGxFTW8wTnZrVWxFcGotOUUwU19rOF9kdkpxLTEyWHgwNklEaGRkOWk1LXlfanhZX3FxM2V2RlZpbTI1WU1RTlJ5N3lPWEdqNWZwLVBNcjVIQVRlTDJUTHVrTTlZOTRjanlGM2ZqREViRTdfN3J6RS0yV3hNZG03cHREcGRJYVUxTWU3S2xsZXlRdmFpc0FWWkNlY0VhSDFCRHlnZlZyM1hjMlIzaHQyYXhvSHFrbC1iMExncl9jMHlGY25vZElQS0w0ejhrbDh6Tg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-12-19T10:47:46+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "PET/CT detects bone involvement in patients with lymphoma",
       "summary_de": "Research suggests that F-18 FDG-PET/CT could replace invasive bone marrow biopsy.",
       "source_name": "AuntMinnie",
@@ -1201,6 +1221,16 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSVdwRDhvUWcxd3dKb3Zjdmx1WVR1WmxPZjBuTDE5MkltVGY1RmZLN25ibnRtN0t2Z2djWTI5aVV1NnctWVlfOWtNdjRMdjlFeWRneklIMU45ak5qaUk2UUJoSTdDUklWNHpIc2wyTHpDdzI5ZFlSWlJ0Y2liazFBMVpxQUEzdGotSmhUdnNVWE94OWYzOHFDUTBhM2xkZ0VtOFBsSm5NbEY0WEZxcXVGcE5wMDV0dXBFU3VQYkNHNnk4dUNDYWR0WC0xbHktc0NtQ1UwZDBRdU11NVdMdTNwQmxmWFk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-12-19T05:00:04+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Krankheiten - Deutlich mehr Demenzfälle – Darum sind Kliniken unter Druck - Gesundheit - SZ.de",
+      "summary_de": "Krankheiten - Deutlich mehr Demenzfälle – Darum sind Kliniken unter Druck - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNUNyWF9iYjdZY3R5TF9SSTZiZ1BJQzMwTmgxNU1RalZYeTFsaTBuZkUwQ01POFNsc0pjZnNxTXhQWFlSVGFBeGJDei1YbzdUZURpN0NqaWd0U3lTV2pTMExnWnZKemNubXJiMm51OTMwQnNJcWpkMFNCQ3hpbEZLVU9rNzFyMVMzd2JORHR2OGFPUHF1TmRHLWlGbEIxbU1ENFBveE9LbWw2THBzenNnQWZGdm9PVnc4alZFNEtoLThGQWxJdVhubjdzTzdlbEU3QTB4SHhrSzlQQU1tUDM4ZHZKaUNtcTV6WUNlbUpkNGs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-12-19T03:00:33+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -2626,6 +2656,16 @@
       "type": "News"
     },
     {
+      "title": "Wissenschaft: Leitlinie: Autofahren ist für Diabetiker heute viel sicherer - Handelsblatt",
+      "summary_de": "Wissenschaft: Leitlinie: Autofahren ist für Diabetiker heute viel sicherer &nbsp;&nbsp; Handelsblatt",
+      "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTlExZjVnQ1oyNVU1Rkc2c1FmYTVhUmJQcXl5MmJtdlF3VkhuNFc3d2YyNzJOY2VPWVk5X2JfMnVQVDhTVThrVkdEbHlTei1FUHUwS28wZ0FMWWk2dXlzRDlmMWdlN2pPME1Ob3J6cmE1OUxEQjYzeW0tcG93SWRqT2JORmhnSnZRYTBGaVVuZkJGSUtpNVg0VFNTd2xSa0oxaWdBaE9OZWtvY0ppU2tGUTZDaW43UXBNTEs2LUV3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-12-08T08:00:00+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Pressemitteilung: Digitalisierung der Gesundheitsversorgung – Zukunft gestalten, Versorgung neu denken!",
       "summary_de": "Die gesetzliche Krankenversicherung (GKV) hat den Anspruch, die Digitalisierung der Gesundheitsversorgung aktiv zu gestalten. Denn die Digitalisierung ist einer der zentralen Hebel für eine moderne und bedarfsgerechte Gesundheitsversorgung. Der Verwaltungsrat hat dazu eine Strategie zur Digitalisierung der Gesundheitsversorgung beschlossen.",
       "source_name": "GKV-SV Presseinformationen",
@@ -2992,16 +3032,6 @@
       "type": "News"
     },
     {
-      "title": "Facharzt (m/w/d) Nuklearmedizin für unser MVZ - ärztestellen",
-      "summary_de": "Facharzt (m/w/d) Nuklearmedizin für unser MVZ &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRThoLUZPVmVwbkJyb1U1T213U3FrUk9XNG9RQWEyc3M3LXZ4ZXEteS1QWVhLTmR1RVhlLVd3WVBQRWxScS03Tkk1aGlfZmZjMXdzazEzcFlYMDIyRjkwMDBUVXRJS2V3WHdaRWsxU3RGOUJvdnpsTlJVMU9ZY2RwQzczT1FmVk9aVnZKemdjTFUzTVczWjhWNlRWMHpWZmJGQTNhVGx3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-25T08:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Avian influenza in Europe: enhanced surveillance and strict biosecurity needed as detections surge",
       "summary_de": "Between 6 September and 14 November 2025, 1,443 detections of highly pathogenic avian influenza (HPAI) A(H5) viruses were reported in wild birds across 26 European countries – four times higher than the same period in 2024 and the highest since at least 2016.&nbsp; Waterfowl in various parts of Europe were heavily affected by HPAI during this period, including detections in …",
       "source_name": "EFSA | News",
@@ -3059,16 +3089,6 @@
       "type": "News"
     },
     {
-      "title": "Hendrik Streeck: Zu viel Medizin ist keine Fürsorge, sondern Hilflosigkeit - DIE ZEIT",
-      "summary_de": "Hendrik Streeck: Zu viel Medizin ist keine Fürsorge, sondern Hilflosigkeit &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeHMwU0JKUkVGUWEyWnIxQ3pjUDg2VzlrUFEwbnFBUUJFMXFhRHVYVV9KSmJlZnhkMTVXODNlODE1eURUZjE1RXJodlNIMUxsczBJSmtodUVXRnhFMmF4SzNQM2gtRGY1ajg5T011OXFCTk11SldhTlk3N0tYSThtWExTUGNRR2k0WUVN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-11-19T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Delta-8 THC: EFSA sets safe intake level",
       "summary_de": "Delta-8 THC is a psychoactive cannabinoid occasionally detected in products from the hemp plant Cannabis sativa such as hemp leaves, seeds and oil. It is also detected in food products such as candies and supplements marketed as hemp products. Consuming delta-8 THC impacts cognitive and psychomotor abilities and increases heart rate in a similar way to delta-9 THC, the main …",
       "source_name": "EFSA | News",
@@ -3098,6 +3118,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0prNUZya2NyTmlRV0FmZ3ZhbXRPVE92TDVRd0JtSkpTMjhlNWppLWhkblVpSEVLU29BNjBrSDFvWURiUGM2RWtQRGVOOVZ1QXhnUzZKcGdCZUYwYnNvLW9mbTJ5d29sWExHZDAyN1lhNlJLeUV4U1hiZjBnVGQ2MkFRTzc2R3k5NVV3NDVqaS1BZG1vd3JMcXBvRG9WeXUzZHJ3M2JDNWktNjhaM1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-11-17T08:00:00+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Schweinfurt: Bilder vom Herz in Millisekunden: Radiologie am St. Josef weiht neues Hochleistungs-CT ein - Main-Post",
+      "summary_de": "Schweinfurt: Bilder vom Herz in Millisekunden: Radiologie am St. Josef weiht neues Hochleistungs-CT ein &nbsp;&nbsp; Main-Post",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRmdzeFF0MHhPMFNDRDRYbzFQMWJqeDRsdUFtQ0dPcTBDMzVhNjNoZ09nYjhEcmJ5UHg1bUU3X05zdTdCY0dGcFpIODdTbUcxR0J0MGpXWUcxTWNXcnUyQXlJWEZQTVhjSkZuM051eTBxT3lLZzdKek1hNGpYb096QkJiUVJsb2ROVEVNa2JQcWdHajg0OThwdUFYSXNYVDllNjd4SmNQLTJrTHFLdkNkTXFOS1EzZXdNdWVoeGVQYUNYT19mMExrLXJybWpzUkI1dktxYXdqREdCVXVSemlZdk5vZ2daZVdnZlRIaEJQeExFSE93Snc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-15T08:00:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
