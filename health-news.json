@@ -1,14 +1,14 @@
 {
-  "generated_at": "2025-12-28T09:14:19.777797+00:00",
+  "generated_at": "2025-12-28T12:27:51.324004+00:00",
   "window_days": 42,
-  "count": 247,
+  "count": 274,
   "items": [
     {
-      "title": "Messerangriff in Pariser Metro: Tatverdächtiger von Paris wird in Klinik eingewiesen - DIE ZEIT",
-      "summary_de": "Messerangriff in Pariser Metro: Tatverdächtiger von Paris wird in Klinik eingewiesen &nbsp;&nbsp; DIE ZEIT",
+      "title": "Schlägerei: Jugendliche prügeln 15-Jährigen ins Krankenhaus - DIE ZEIT",
+      "summary_de": "Schlägerei: Jugendliche prügeln 15-Jährigen ins Krankenhaus &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ05mQkpBbm9zVEUyZ042RjdWZkhock5VZGhjVjh6c3BoSUc5VEtDZXIzazFKYi1pRUpzYVNaNzJrRy1WZWdBdnU1cHR2MjN0SFZkUHE3ZzBsajQzSVhjZC1FMzNtamp3aXEtRlppNjlWMTdDS1pFX0ZfbVRRQUJQdEdWd0M1WWw3ZC04ZVV1MXRwVUNhQzVJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-28T08:23:52+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVmluUHdsLW9RWnZDelpMMnVqcGZrWTZ5YWdMWnN0ejVnMVMybTFzSDlfUHBPeHpEM0JJZDdVdnBxQTB2UnFaSE95ZGFCdllwdzNuZ3psUlAyUFRMeGFVeWt0TDcyWGdWRVg2bzVmMDJXTk9OU21iV3Y4d2s0STZ0dnZTY203MzBPMVFIdzBB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-12-28T10:20:05+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -124,6 +124,16 @@
       "type": "News"
     },
     {
+      "title": "Neue Arzneistoffe 2026: Bunte Mischung zu erwarten",
+      "summary_de": "Eine Reihe von neuen Wirkstoffen f&uuml;r viele Indikationen k&ouml;nnte im Lauf des Jahres 2026 auf den deutschen Markt gelangen. Ein Blick auf potenzielle Neueinf&uuml;hrungen in den kommenden zw&ouml;lf Monaten.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/bunte-mischung-zu-erwarten-161315/",
+      "published_at": "2025-12-27T07:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Krankenhaus in Moers: Beliebter Chefarzt geht nach mehr als 20 Jahren – „Könnte ich noch lange so weitermachen“ - RP Online",
       "summary_de": "Krankenhaus in Moers: Beliebter Chefarzt geht nach mehr als 20 Jahren – „Könnte ich noch lange so weitermachen“ &nbsp;&nbsp; RP Online",
       "source_name": "\"site:rp-online.de radiologie\" - Google News",
@@ -200,6 +210,16 @@
       "source_url": "https://www.diagnosticimaging.com/view/novarad-launches-breast-imaging-platform-mammoiq",
       "published_at": "2025-12-26T10:55:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Interview Sebastian Bayer (dm): »Unsere Stärke ist es, Sortimente zu kuratieren«",
+      "summary_de": "Die Drogeriekette dm versendet seit Mitte Dezember OTC aus Tschechien an deutsche Kunden. Die PZ sprach mit Sebastian Bayer, Gesch&auml;ftsf&uuml;hrer Marketing und Beschaffung bei dm, &uuml;ber erste Erfahrungen, Arzneimittelfehlgebrauch und die Qualit&auml;tsunterschiede zwischen Apotheken und Drogeriem&auml;rkten.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/unsere-staerke-ist-es-sortimente-zu-kuratieren-161500/",
+      "published_at": "2025-12-26T07:00:00+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -434,6 +454,16 @@
       "type": "News"
     },
     {
+      "title": "Apotheker ohne Grenzen: Neue Projekte trotz angespannter Welt- und Spendenlage",
+      "summary_de": "Ob in Kriegs- und Krisengebieten oder vor der eigenen Haust&uuml;r &ndash; Apotheker ohne Grenzen unterst&uuml;tzt die Arzneimittelversorgung vulnerabler Gruppen trotz schwieriger Welt- und Spendenlage. Im Jubil&auml;umsjahr konnte die Hilfsorganisation einige neue Projekte ansto&szlig;en.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/neue-projekte-trotz-angespannter-welt-und-spendenlage-161271/",
+      "published_at": "2025-12-23T17:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -464,11 +494,41 @@
       "type": "News"
     },
     {
+      "title": "USA: Abnehmpille mit Semaglutid kommt im Januar",
+      "summary_de": "Die US-Arzneimittelbeh&ouml;rde FDA hat eine Zulassung f&uuml;r eine orale Formulierung des GLP-1-Rezeptoragonisten Semaglutid zur Gewichtsreduktion erteilt. Hersteller Novo Nordisk k&uuml;ndigt an, das Pr&auml;parat bereits im Januar auf den amerikanischen Markt bringen zu wollen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/abnehmpille-mit-semaglutid-kommt-im-januar-161496/",
+      "published_at": "2025-12-23T15:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
       "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: Fosfomycin Eberth 2 g Pulver zur Herstellung einer Infusionsl&#246;sung pU: Dr. Friedrich Eberth Arzneimittel GmbH",
       "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
       "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
       "published_at": "2025-12-23T14:51:16+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Projektförderung : OLSPub steht erneut vor verschlossener Tür",
+      "summary_de": "Nachdem im November der erste F&ouml;rderungsantrag f&uuml;r OLSPub von der Deutschen Forschungsgemeinschaft (DFG) abgelehnt wurde, kamen nun erneut schlechte Nachrichten: Auch die &uuml;berarbeitete Folgeanfrage wurde nicht durchgewinkt. Die Projektleitungen starten in den n&auml;chsten Wochen eine Fundraisingkampagne.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/olspub-steht-erneut-vor-verschlossener-tuer-161499/",
+      "published_at": "2025-12-23T14:50:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Christkinder: 1470 Kinder werden im Schnitt an Heiligabend geboren",
+      "summary_de": "Heiligabend und die beiden Weihnachtsfeiertage sind die geburtenschw&auml;chsten Tage im ganzen Jahr. Das meldet das Statistische Bundesamt. Die meisten Kinder in Deutschland kommen Ende September zur Welt.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/1470-kinder-werden-im-schnitt-an-heiligabend-geboren-161304/",
+      "published_at": "2025-12-23T14:30:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
@@ -484,12 +544,52 @@
       "type": "News"
     },
     {
+      "title": "Rauchverhalten: West-TV machte Zigarette für Frauen salonfähig",
+      "summary_de": "Seit Jahrzehnten sinkt die tabakbedingte Todesrate bei M&auml;nnern kontinuierlich, w&auml;hrend sie bei Frauen steigt. Eine Mitschuld k&ouml;nnte das westdeutsche Fernsehen haben, wie ein &raquo;nat&uuml;rliches Experiment&laquo; zeigt.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/west-tv-machte-zigarette-fuer-frauen-salonfaehig-161458/",
+      "published_at": "2025-12-23T13:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Anonym und kostenlos: Viele Menschen suchen Halt bei Telefonseelsorge",
+      "summary_de": "Im ausklingenden Jahr haben sich wieder weit mehr als eine Million Menschen per Telefon oder im Chat der Telefonseesorge anvertraut, die rund um die Uhr erreichbar ist und anonym sowie kostenlos Hilfe bietet. Was belastet die Menschen, was hilft ihnen?",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/viele-menschen-suchen-halt-bei-telefonseelsorge-161459/",
+      "published_at": "2025-12-23T13:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
       "source_url": "https://www.diagnosticimaging.com/view/top-five-radiology-video-interviews-2025",
       "published_at": "2025-12-23T12:41:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Erstattung verlängert: Neue Definition soll Klarheit bei Wundauflagen bringen",
+      "summary_de": "Mit dem Pflegeb&uuml;rokratieentlastungsgesetz (BEEP) hat der Bundesrat nicht nur das &raquo;Kleine Sparpaket&laquo; des Bundesgesundheitsministeriums, sondern auch die verl&auml;ngerte Erstattungsfrist f&uuml;r spezielle Wundauflagen beschlossen. K&uuml;nftig soll der Begriff &raquo;Verbandmittel&laquo; neu definiert werden.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/neue-definition-soll-klarheit-bei-wundauflagen-bringen-161483/",
+      "published_at": "2025-12-23T12:30:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Landgericht Hamburg: Anklage um Millionenbetrug mit Zytostatika zugelassen",
+      "summary_de": "Das Landgericht Hamburg hat eine Anklage wegen besonders schwerer Bestechung im Gesundheitswesen und bandenm&auml;&szlig;igen Abrechnungsbetrugs in Millionenh&ouml;he zugelassen. Beschuldigt werden nach Angaben der Staatsanwaltschaft zwei Apotheker und vier leitende Mitarbeiter in deren Unternehmen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/anklage-um-millionenbetrug-mit-zytostatika-zugelassen-161489/",
+      "published_at": "2025-12-23T10:30:00+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -524,12 +624,32 @@
       "type": "News"
     },
     {
+      "title": "Zuzahlungen erhöhen?: ABDA-Präsident gegen Apotheken als »Inkassostelle«",
+      "summary_de": "Um die Kassenfinanzen zu sanieren, soll es keine Denkverbote geben &ndash; das betonte Bundesgesundheitsministerin Nina Warken mehrfach und dachte nun laut &uuml;ber h&ouml;here Zuzahlungen in Apotheken nach. Dies lehnt ABDA-Pr&auml;sident Thomas Preis entschieden ab. Wenn &uuml;berhaupt, m&uuml;ssten Krankenkassen die Betr&auml;ge einziehen, nicht Apotheken.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/abda-praesident-gegen-apotheken-als-inkassostelle-161490/",
+      "published_at": "2025-12-23T09:40:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Leichter Rück­gang beim Kran­ken­stand – beson­ders Fehl­tage aufgrund von Grippe und Co. gehen zurück - Techniker Krankenkasse",
       "summary_de": "Leichter Rück­gang beim Kran­ken­stand – beson­ders Fehl­tage aufgrund von Grippe und Co. gehen zurück &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa1FJN21MMHQ5WVF0cnVoeW5GOTg1TkxqUE8tY1RFYzFiNzk3MnhhVjI3Vl8taUxTYjdaY0Z1eWN0V0RxNFh6aFREcHRseTJ1Sm5iTHJoSEdiVDJXSElqNldCUnBGWXVTVEg2M2VuSm1MV0NqbWRtc0s1RXUxOVJRaWlTNjFMdXJQanM5RDdxcHFBNEdnLTk1b2M3dHpfUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-12-23T09:32:16+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Wissen für Eltern: Diese Weihnachtspflanzen sind giftig",
+      "summary_de": "Weihnachtsstern, Mistelzweig und Stechpalme bringen Adventsstimmung ins Zuhause. Eine weitere Gemeinsamkeit der Pflanzen: Sie bergen Gefahren f&uuml;r kleine Kinder. Was Eltern beachten sollten.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/diese-weihnachtspflanzen-sind-giftig-160731/",
+      "published_at": "2025-12-23T09:00:00+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -544,12 +664,32 @@
       "type": "News"
     },
     {
+      "title": "GKV-SV: Kassen wollen einheitliches Portal für Arzttermine",
+      "summary_de": "Die stellvertretende Vorsitzende des GKV-Spitzenverbands, Stefanie Stoff-Ahnis, pl&auml;diert daf&uuml;r, dass Arzttermine standardm&auml;&szlig;ig &uuml;ber ein einheitliches Portal gebucht werden k&ouml;nnen. Auch &auml;rztliche Ersteinsch&auml;tzungen sollen demnach digital stattfinden. Der Digitalverband Bitkom meldet einen Anstieg bei Online-Terminbuchungen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/kassen-wollen-einheitliches-portal-fuer-arzttermine-161487/",
+      "published_at": "2025-12-23T08:45:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "CT-based model assesses lung lesions from nonsolid nodules",
       "summary_de": "A model based on CT imaging features performed well in a study, differentiating lung lesions from nonsolid nodules.",
       "source_name": "AuntMinnie",
       "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15774757/ctbased-model-assesses-lung-lesions-from-nonsolid-nodules",
       "published_at": "2025-12-23T08:13:14+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Warken-Vorstoß: Lautes Nachdenken über höhere Zuzahlungen",
+      "summary_de": "Bundesgesundheitsministerin Nina Warken (CDU) bringt f&uuml;r das n&auml;chste Krankenkassen-Sparpaket auch h&ouml;here Zuzahlungen in der Apotheke ins Gespr&auml;ch.&nbsp;&raquo;Wir brauchen ein gro&szlig;es Sparprogramm, um die Kosten bei den gesetzlichen Kassen zu senken&laquo;, sagte Warken dem &raquo;Spiegel&laquo;.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/lautes-nachdenken-ueber-hoehere-zuzahlungen-161488/",
+      "published_at": "2025-12-23T07:50:00+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -566,6 +706,16 @@
       "type": "News"
     },
     {
+      "title": "Schneidersitz: Nicht für jeden die optimale Position",
+      "summary_de": "Im Yogakurs, beim Spielen mit dem Kind oder wenn die begehrten Pl&auml;tze auf dem Sofa belegt sind: Situationen, in denen wir mit &uuml;berkreuzten Beinen auf dem Boden sitzen. Wie gesund ist das?",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/nicht-fuer-jeden-die-optimale-position-160935/",
+      "published_at": "2025-12-23T07:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Krank an Weihnachten - Notdienstpraxen an Feiertagen und zwischen den Jahren offen - Gesundheit - SZ.de",
       "summary_de": "Krank an Weihnachten - Notdienstpraxen an Feiertagen und zwischen den Jahren offen - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -576,12 +726,12 @@
       "type": "News"
     },
     {
-      "title": "Geschmolzener Genuss - Eingetunkt: 10 Tipps für selbst gemachtes Käsefondue - Gesundheit - SZ.de",
-      "summary_de": "Geschmolzener Genuss - Eingetunkt: 10 Tipps für selbst gemachtes Käsefondue - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNd3hzTjNldTZ5LUZOam9kRElwQzhUTVJmTmdHVlgycjZWT2tuNUZuUzVpa2ttTEtqN2RMcmZoRnBQc29PZXduLUFSb3M4bk8xdXpjdjZhMXN0aWJrdmZBMnhnOUtWWVRoT28yVFpfQ1Nxd04tWlV2Tkw4ZUJuRExEUEpLUnhWNVpiTmpDREh1QlZsa3pwa3NBemUyalpyQm1SUzRQcEpwS0xvNEJTM1hPY2c3RzZMRmxTM0ZnQl9EM05wN2Zlc3lFMm4zNFRfbkdTRF9HaDhCZ2JxWFNOV0JWWlczWmdvUkpMdE91V0VnNUZlZ0JHS1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-23T06:00:10+00:00",
-      "category": "News",
+      "title": "Berufsständische Versorgung: Es begann mit der Zuschusskasse Zutada",
+      "summary_de": "Die Materialien der &raquo;Zutada &ndash; Zuschu&szlig;kasse der Deutschen Apothekerschaft&laquo; geben detaillierten Einblick in die berufsst&auml;ndische Versorgung w&auml;hrend der NS-Diktatur. Zugleich zeigen sie die Anf&auml;nge von Versorgungskassen f&uuml;r Angestellte.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/es-begann-mit-der-zuschusskasse-zutada-161137/",
+      "published_at": "2025-12-23T06:00:00+00:00",
+      "category": "Versorgung",
       "tags": [],
       "type": "News"
     },
@@ -648,6 +798,16 @@
       "type": "News"
     },
     {
+      "title": "Weihnachtsvorlesung zu Demenz: Die Beach Boys vom Main",
+      "summary_de": "Fortbildung mit Entertainment-Faktor: Daf&uuml;r steht die &raquo;Weihnachtsvorlesung&laquo; an der Universit&auml;t Frankfurt am Main. Diesmal beleuchteten die Professoren Dr. Theo Dingermann und Dr. Dieter Steinhilber die Demenzerkrankung von Beach Boy Brian Wilson.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-beach-boys-vom-main-161463/",
+      "published_at": "2025-12-22T17:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Decision: Orphan registered medicinal products",
       "summary_de": "A list of authorised orphan medicinal products registered by the UK licensing authority.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -668,6 +828,28 @@
       "type": "News"
     },
     {
+      "title": "Cannabis: Das MedCanG und das Strucksche Gesetz",
+      "summary_de": "Mit der ersten Lesung im Bundestag hat das novellierte Medizinalcannabisgesetz (MedCanG) einen weiteren Schritt im parlamentarischen Verfahren gemacht. Die Bundesapothekerkammer (BAK) begr&uuml;&szlig;t die geplanten Versch&auml;rfungen bei Verschreibung und Versand von Cannabisbl&uuml;ten. F&uuml;r die Koalition birgt das Gesetz weiteren Z&uuml;ndstoff.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/das-medcang-und-das-strucksche-gesetz-161476/",
+      "published_at": "2025-12-22T15:20:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pharmaindustrie : KARL: Fortschritt für Gewässer, Risiko für Pharma?",
+      "summary_de": "Laut Koalitionsvertrag will die Bundesregierung die Pharmaindustrie zu einer Leitindustrie machen. Ein Problem der Branche sind jedoch die k&uuml;nftigen Kosten durch die EU-Kommunalabwasserrichtlinie. Diese ist jedoch wichtig f&uuml;r den Gew&auml;sserschutz.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/karl-fortschritt-fuer-gewaesser-risiko-fuer-pharma-161469/",
+      "published_at": "2025-12-22T15:20:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [
+        "Europa"
+      ],
+      "type": "News"
+    },
+    {
       "title": "Frühgeborene - Klinikum Suhl behandelt keine sehr kleinen Frühchen mehr - Gesundheit - SZ.de",
       "summary_de": "Frühgeborene - Klinikum Suhl behandelt keine sehr kleinen Frühchen mehr - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -678,12 +860,72 @@
       "type": "News"
     },
     {
+      "title": "Spitzenfrauen Gesundheit: Medizinregistergesetz als Chance gegen »Gender Data Gap«",
+      "summary_de": "Das geplante Medizinregistergesetz k&ouml;nnte die medizinische Forschung in Deutschland grundlegend verbessern. Spitzenfrauen Gesundheit fordert jedoch verbindliche Regelungen, um den &raquo;Gender Data Gap&laquo; konsequent zu schlie&szlig;en.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/medizinregistergesetz-als-chance-gegen-gender-data-gap-161478/",
+      "published_at": "2025-12-22T15:05:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "PZ Briefing: Die Top-News vom 22.12.2025",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-22122025-161475/",
+      "published_at": "2025-12-22T15:00:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "BPhD: Stellungnahme zum Kabinettsbeschluss",
+      "summary_de": "In einer Pressemitteilung &auml;u&szlig;erte sich der&nbsp;Bundesverband der Pharmaziestudierenden in Deutschland (BPhD) zum Gesetzentwurf der Apothekenreform, der k&uuml;rzlich das Kabinett passiert hat.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/stellungnahme-zum-kabinettsbeschluss-161474/",
+      "published_at": "2025-12-22T14:30:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "»Most-Favored-Nation«-Prinzip: Trump schließt neun weitere Pharma-Deals",
+      "summary_de": "Insgesamt haben 14 Pharmakonzerne ein Preisabkommen mit US-Pr&auml;sident Donald Trump geschlossen. Die US-Regierung will die dortigen Medikamentenpreise durch das &raquo;Most-Favored-Nation&laquo;-Prinzip senken.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/trump-schliesst-neun-weitere-pharma-deals-161468/",
+      "published_at": "2025-12-22T14:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Apothekenreform: Rezeptur: Rückfall auf Hilfstaxe-Regelung",
+      "summary_de": "In der Frage, ob Apotheken bei der Rezepturherstellung die vollst&auml;ndige Packung abrechnen d&uuml;rfen oder nur den tats&auml;chlich verbrauchten Anteil, liegen Kassen und Apotheken &uuml;ber Kreuz. Zuletzt hatte das Bundessozialgericht (BSG) im Sinne der Apotheken entschieden.&nbsp;Die Bundesregierung will nun zur&uuml;ck auf Kassenkurs, differenziert aber auch.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/rezeptur-rueckfall-auf-hilfstaxe-regelung-161467/",
+      "published_at": "2025-12-22T13:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
       "source_url": "https://www.diagnosticimaging.com/view/radiology-contract-negotiations-its-not-what-you-say-but-how-you-say-it",
       "published_at": "2025-12-22T13:11:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Medizinische Versorgung: Millionenzuschuss für Heilberufler in Thüringen",
+      "summary_de": "Im Jahr 2025 haben ein Apotheker sowie 26 &Auml;rzte und Zahn&auml;rzte in Th&uuml;ringen wegen Gr&uuml;ndung oder &Uuml;bernahme von mehr als einer Million Euro Investitionszuschuss profitiert. 2026&nbsp;soll der je Heilberufler h&ouml;chstm&ouml;gliche F&ouml;rderbetrag auf bis 50.000 Euro aufgestockt werden.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/millionenzuschuss-fuer-heilberufler-in-thueringen-161465/",
+      "published_at": "2025-12-22T13:00:00+00:00",
+      "category": "Versorgung",
       "tags": [],
       "type": "News"
     },
@@ -708,6 +950,46 @@
       "type": "News"
     },
     {
+      "title": "Festtage: Was gegen Völlegefühl, Verbrennungen und Kater hilft",
+      "summary_de": "Ans knallhei&szlig;e Pl&auml;tzchenblech gefasst? Zu tief in den Gl&uuml;hweinbecher geguckt? Beim Festessen &uuml;berfuttert, sodass es jetzt im Bauch rumort? Tipps rund um drei weihnachtliche Gesundheitsprobleme.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/was-gegen-voellegefuehl-verbrennungen-und-kater-hilft-161427/",
+      "published_at": "2025-12-22T12:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Interview: Pilsinger: »Apothekenreform ohne Fixums-Erhöhung macht wenig Sinn«",
+      "summary_de": "Stephan Pilsinger (CSU) ist seit Ende November der neue Apothekenberichterstatter der Union. Im Interview mit dem PZ erkl&auml;rt er, warum eine Apothekenreform ohne eine Erh&ouml;hung des Fixbetrags f&uuml;r ihn nicht denkbar ist.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/pilsinger-apothekenreform-ohne-fixums-erhoehung-macht-wenig-sinn-161441/",
+      "published_at": "2025-12-22T12:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "DAV zum Kabinettsentwurf: Reform ohne Finanzbasis »auf Sand gebaut«",
+      "summary_de": "Vorerst keine Honoraranpassung, gleichzeitig mehr Aufgaben: Der Deutsche Apothekerverband (DAV) kritisiert das vom Kabinett verabschiedete Apothekenversorgung-Weiterentwicklungsgesetz (ApoVWG). Ohne die n&ouml;tige Finanzierungsbasis sei die Reform&nbsp;&raquo;auf Sand gebaut&laquo;, so der DAV-Vorsitzende Hans-Peter Hubmann.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/reform-ohne-finanzbasis-auf-sand-gebaut-161462/",
+      "published_at": "2025-12-22T10:42:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Fettlebererkrankung: IQWiG findet keinen Zusatznutzen für Resmetirom",
+      "summary_de": "Ob Resmetirom, das erste zugelassene Medikament zur Behandlung der Fettlebererkrankung MASH, einen Zusatznutzen bietet, l&auml;sst sich aus Sicht des Instituts f&uuml;r Qualit&auml;t und Wirtschaftlichkeit im Gesundheitswesen (IQWiG) derzeit nicht beurteilen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/iqwig-findet-keinen-zusatznutzen-fuer-resmetirom-161380/",
+      "published_at": "2025-12-22T10:30:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Healthcare regulator suggests simple winter wellness choices to keep you safe this cough and cold season",
       "summary_de": "As the cold weather sets in and coughs and colds become more common, the MHRA is reminding people that small, everyday choices can make a big difference to winter wellbeing.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -728,6 +1010,16 @@
       "type": "News"
     },
     {
+      "title": "Schamreaktionen : Erröten kontrollieren lernen",
+      "summary_de": "Manche Menschen werden schnell rot oder verhaspeln sich beim Sprechen, wenn sie aufgeregt sind. Das Problem ist die Angst vor den sichtbaren Stressreaktionen des K&ouml;rpers. Mit ein paar Tricks l&auml;sst sich ihr entgegenwirken.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/erroeten-kontrollieren-lernen-160948/",
+      "published_at": "2025-12-22T09:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "75% gadolinium reduction maintains diagnostic sensitivity in breast MRI",
       "summary_de": "Study suggests real-world feasibility of AI-driven dose reduction with preserved diagnostic confidence in breast imaging.",
       "source_name": "AuntMinnie",
@@ -743,16 +1035,6 @@
       "source_name": "AuntMinnie",
       "source_url": "https://www.auntminnie.com/clinical-news/interventional/article/15774660/transarterial-embolization-cryoablation-treat-larger-renal-masses",
       "published_at": "2025-12-22T07:39:52+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Ärztl. Leiter Nuklearmedizin Elbe Kliniken Stade-Buxtehude Stellenangebote - ärztestellen",
-      "summary_de": "Ärztl. Leiter Nuklearmedizin Elbe Kliniken Stade-Buxtehude Stellenangebote &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSmZOalA4VUdMVkZldTdPRUQ1dklkWDJfSmRQVmFFZ296aXpLN2VpckVUdXpzcXBSR2lTRXVFcUZyT2dxX3NpVFdBMmltYjE1VWM5V3BMMTNVaFBGTkl5cWlEdVVqQU16Zy0zbVhhRHVDZmx3YVRjVTFTV0ljQUMzemtqSUltNjRLYVk1eElQU2d5dGFiaHhNdmNkclFRdDIzWkkzajREbUladw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-21T12:57:42+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -1467,16 +1749,6 @@
         "Versorgung",
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Warm-up Übungen: Aufwärmen vor dem Training - Die Techniker - Techniker Krankenkasse",
-      "summary_de": "Warm-up Übungen: Aufwärmen vor dem Training - Die Techniker &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ0czSzVQRHBjME43Nl9YMXM0andvdDZtVlFmRGVNcmZoWEphd2drQ3J4VEdpeHFZNmtESFZkVUE5bGZjMXNNTmgxN0phakdZSjJMc0tJa181TmF0bUxPM3BrazA5Q3dXbDNBbnFFb3Q0c3gtWEpacVNCOUtzZ25ib3NNNkhfblNuY2VtSDRwLTRKZTMzOF9QT0Fqb25icDg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-12T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
@@ -2343,16 +2615,6 @@
       "type": "News"
     },
     {
-      "title": "CT-Scans für Früherkennung der Osteoporose nutzen – News - Deutsches Ärzteblatt",
-      "summary_de": "CT-Scans für Früherkennung der Osteoporose nutzen – News &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSXB5Q3Z4VnV5eS1xWVJaS3VTSi1uLTA5NnQ1NzNTczRLRWgyRm9YdGFzcnI4QTFhdXAzclA1akNzLW4zbWJ3NWQ2QmJyQllnQ0h2V2dsdldoQmdGaUNXa1FILTV5QmdPclZZWmRYNDdhX1FOYTJtYm55YzVxSWRRSVlYWFdZdTRKTGhQME1Bc0YxWGMycXRoSTdNOGlHQmRGbmhXby00aWhTTVhUZXl0ZTM0bEpvU2xFVVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-01T08:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Pressemitteilung: Die Klagewelle rollt an – Krankenkassen verklagen den Bund auf 10 Mrd. Euro",
       "summary_de": "Der Staat als Träger der Fürsorge hat die Krankenkassen damit beauftragt, die gesundheitliche Versorgung der Bürgergeldbeziehenden zu übernehmen. Die Krankenkassen haben diese Aufgabe entsprechend übernommen. Aber statt für diese Leistung voll zu bezahlen, lässt der für die Finanzierung zuständige Bund die Krankenkassen auf rund zwei Dritteln der Kosten sitzen. Das sind derzeit rund 10 Mrd. Euro Jahr für Jahr. Vor …",
       "source_name": "GKV-SV Presseinformationen",
@@ -2493,6 +2755,16 @@
       "source_url": "https://www.efsa.europa.eu/en/podcast/episode-34-cost-origin-taste-what-influences-our-food-choices",
       "published_at": "2025-11-19T13:00:17+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Soziales Engagement: Warum ehrenamtliche Arbeit so wichtig ist - Techniker Krankenkasse",
+      "summary_de": "Soziales Engagement: Warum ehrenamtliche Arbeit so wichtig ist &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRHB3ZjdKX2ZsbW9IS3JUaFh0RElqTzB4U1RKajgyVEs1RW9UZjAtOXFoU1ZOSVl0YjQtMEhUckVWSVptY0NHQkNwdEZORzE4MXgxYmJ5aTJIVUJTckhGNjktRFYzRVlZaTVNTHdYMlRkNlUySjZmcjA2ZGZ4ZGx3eV8wS2lQR1dnTXluNERJZmFfTFp5UWhMTU10dUt4T2hObml1aUFmR1AwbUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-11-19T08:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
