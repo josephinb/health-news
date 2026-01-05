@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-01-05T12:32:50.391325+00:00",
+  "generated_at": "2026-01-05T15:17:21.568057+00:00",
   "window_days": 42,
-  "count": 273,
+  "count": 268,
   "items": [
+    {
+      "title": "Versorgungseffizienz : Von Hausarzt zu Facharzt und wieder zurück",
+      "summary_de": "Die Koalition plant eine gezieltere Terminvergabe &uuml;ber haus&auml;rztliche Praxen, um die Versorgung effizienter zu machen und Wartezeiten zu verk&uuml;rzen. Es gibt aus Patientensicht aber auch andere akute Probleme, die durch den Fachpersonalmangel katalysiert werden.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/von-hausarzt-zu-facharzt-und-wieder-zurueck-161624/",
+      "published_at": "2026-01-05T14:30:00+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Schlafprobleme: 10 Basics für einen besseren Schlaf",
+      "summary_de": "Erholsamer Schlaf ist kein Luxus, sondern ein Grundbed&uuml;rfnis, das entscheidend zur k&ouml;rperlichen und seelischen Gesundheit beitr&auml;gt. Wie gut wir schlafen, k&ouml;nnen wir zum Teil selbst beeinflussen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/10-basics-fuer-einen-besseren-schlaf-161628/",
+      "published_at": "2026-01-05T14:08:07+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Vor Bundesratssitzung: Länder: Geschlossen gegen weitere Nullrunde beim Fixum",
+      "summary_de": "Die Apothekenreform ist auf dem Weg &ndash; wie sie am Ende aussehen wird, entscheiden auch die L&auml;nder. Mitte Januar befasst sich der Gesundheitsausschuss des Bundesrats mit den Pl&auml;nen. Vorab lassen die L&auml;nder durchblicken, dass sie Nachbesserungen beim Fixum w&uuml;nschen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/laender-geschlossen-gegen-weitere-nullrunde-beim-fixum-161622/",
+      "published_at": "2026-01-05T14:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Apothekenzahlen in Westfalen-Lippe: Minus 28 Prozent in 20 Jahren",
+      "summary_de": "Neues Jahr, altes Problem: Die Apothekenzahlen sinken weiter. Die Kammer Westfalen-Lippe meldet ein Minus von 28 Prozent im 20-Jahres-Vergleich. Der anhaltende Trend gef&auml;hrde die Versorgung, die Politik m&uuml;sse handeln.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/minus-28-prozent-in-20-jahren-161623/",
+      "published_at": "2026-01-05T13:46:07+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Digitale Kommunikation: Technische Störungen kosten Sympathie",
+      "summary_de": "Schon kleine Bild- oder Tonfehler bei Videokonferenzen k&ouml;nnen die Wahrnehmung verzerren und Entscheidungen beeinflussen. Eine Studie zeigt den Einfluss bei Pr&auml;sentationen, Bewerbungsgespr&auml;chen und gerichtlichen Anh&ouml;rungen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/technische-stoerungen-kosten-sympathie-161606/",
+      "published_at": "2026-01-05T13:00:00+00:00",
+      "category": "Studie",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "Studie"
+    },
+    {
+      "title": "Mentale Gesundheit: Forschungsprojekt zu Depressionen in der DDR startet - DIE ZEIT",
+      "summary_de": "Mentale Gesundheit: Forschungsprojekt zu Depressionen in der DDR startet &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbWJCNVd0MDRyRzUtQ3gxeW11Q3I1QnFWd1JyazRUS1c3LXhDSm5mSExYaWRtUHpvd1pXS2dzR0sySkloQlc1bDROTDFWTlh2bHhUV0hTX0g1ekthVlhUUHpvZmlMelNsanZ3dnJRaUtBM0tCQ3ROWUJUNjdvb3hDMm5PRVdKOG41SU9xenJ4bjRpdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-05T12:46:03+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Mentale Gesundheit - Forschungsprojekt zu Depressionen in der DDR startet - Wissen - SZ.de",
+      "summary_de": "Mentale Gesundheit - Forschungsprojekt zu Depressionen in der DDR startet - Wissen &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZ3F2bWwtWHB2bjJKUXpiQm1pTUZYVlBGaV9namNta2s2ckIzNmRfME04VV9jcVBjU2toQ3MwZmJUVXVJOE1SOEV6Qm94Ulliam9URUtVaC1tejNoR3diSThBbm5qakJVME5aa0tiREVfU01KWHAxa1VKTjF4Tlp1Y0sxZkhOS1VMX241eEFjNlBVVUFPc1dGanlNb2JjbGtxbmwtS3g0S2lMZGFiUXdRa3FrY3BPemRkc3pUMUtyTGVwU3hmMTkwdUg5TUVIalA3NUFYNnU3c2VOOWVXTDlPbnZoVFZRTnAtR3cwOQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-05T12:46:03+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Blackout: Sieben Berliner Apotheken noch immer ohne Strom",
+      "summary_de": "Der Stromausfall im S&uuml;dwesten Berlins trifft auch mehrere Apotheken, die von der Stromversorgung abgeschnitten sind. Eine Apotheke ist inzwischen wieder am Netz. Eine Mitarbeiterin berichtet.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/sieben-berliner-apotheken-noch-immer-ohne-strom-161616/",
+      "published_at": "2026-01-05T12:30:07+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Für gesunde Haut - Sonniger Tag in den Bergen? UV-Schutz nicht vergessen - Gesundheit - SZ.de",
       "summary_de": "Für gesunde Haut - Sonniger Tag in den Bergen? UV-Schutz nicht vergessen - Gesundheit &nbsp;&nbsp; SZ.de",
@@ -84,16 +166,6 @@
       "type": "News"
     },
     {
-      "title": "Umfrage GKV-Spitzenverband: Ärger über Wartezeiten, Appell an Ärzte",
-      "summary_de": "Bis zu drei Monate m&uuml;ssen gesetzlich Versicherte in Deutschland auf einen Facharzttermin warten, das hat eine repr&auml;sentative Befragung des GKV-Spitzenverbands (GKV-SV) ergeben. Mit einem verbindlichen Termin-Portal will der Verband Abhilfe schaffen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/aerger-ueber-wartezeiten-appell-an-aerzte-161602/",
-      "published_at": "2026-01-05T09:30:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "NAD⁺-Homöostase: Ist Alzheimer eine reversible Erkrankung?",
       "summary_de": "Die Suche nach neuen Alzheimer-Medikamenten bleibt spannend. Eine aktuelle Tierstudie legt sogar nahe, dass manche Formen der Alzheimer-Krankheit mittels niedermolekulare Substanzen mit neuem Wirkmechanismus reversibel sein k&ouml;nnten.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -104,22 +176,22 @@
       "type": "News"
     },
     {
+      "title": "Umfrage GKV-Spitzenverband: Ärger über Wartezeiten, Appell an Ärzte",
+      "summary_de": "Bis zu drei Monate m&uuml;ssen gesetzlich Versicherte in Deutschland auf einen Facharzttermin warten, das hat eine repr&auml;sentative Befragung des GKV-Spitzenverbands (GKV-SV) ergeben. Mit einem verbindlichen Termin-Portal will der Verband Abhilfe schaffen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/aerger-ueber-wartezeiten-appell-an-aerzte-161602/",
+      "published_at": "2026-01-05T09:30:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Berlin: Alle betroffenen Krankenhäuser wieder am Stromnetz",
       "summary_de": "F&uuml;nf Kliniken k&ouml;nnen nach dem Stromausfall in Berlins S&uuml;dwesten aufatmen. Etwa 30.000 Haushalte und rund 1.700 Gewerbekunden sind noch von der Energieversorgung abgeschnitten.&nbsp;Berlin setzt auch auf die Bundeswehr, um die Versorgung sicherzustellen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/alle-betroffenen-krankenhaeuser-wieder-am-stromnetz-161598/",
       "published_at": "2026-01-05T09:00:00+00:00",
       "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Universitätsmedizin Greifswald fördert Medizin-Bewerber ohne Spitzenabitur - tagesschau.de",
-      "summary_de": "Universitätsmedizin Greifswald fördert Medizin-Bewerber ohne Spitzenabitur &nbsp;&nbsp; tagesschau.de",
-      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeldwak1mMzllb1RmRm5NVmFVbEtiN3N3NkM5YW1mUE5WVjNkaE9neU5sRzNUbmtMZ3Fmc3FrRmR5UkVreXVIRkRqYzNvVGU3NVRjd1gtemdBcGRHZWJnR1lIYWRqNURyUzh0UEZjaF9pQnZaMWd6SjdONWpLZ1kwdjZGVnRDQjBHU0F6djF0MWtjZjFlYnhCTUc4ZkZfRGFpVTJFQkxfMkUtUTExQlpiOGQxbjhPTFNrU0dlRE5ybXdTUjIzOU01Vzh0aXdvby1sdzlzRFdRRlMwTGxveUY4blp2MEk2ZjJwV2lhM3p6OVBpX2pVSllPcW91STU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-05T08:32:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -224,16 +296,6 @@
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMEFXYjA1SGJLNkpIMmFtdFFBRlI0aEZmcS1WUzg3bzV1RnBnQ1FQcDB6VkhEeEphSGoyYVkwelI2WXA5Q25hT0pmMXlPQjJsWU9qX0JiaWNGQUc1NFk2d2x0MGdpaWVHdHRKemJqMU10OFBici1sLUVnZ2M3anlxeGRObDltWXZFSnJaNWNpUzdSX1VROHd6dlR1a1Y3WDctVHdCaFZCbW0xMjluSFYwVWRiRkVyYnVsZVhPTXA3aw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-04T23:00:15+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Leberversagen, Liegetrauma und vermutlich Krätze: Ein Patient ringt um sein Leben - SZ.de",
-      "summary_de": "Leberversagen, Liegetrauma und vermutlich Krätze: Ein Patient ringt um sein Leben &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX2t1SWdmX21YcUpqTF9fbmpDMDlYNUtib2pJd0FNUHNzakM2QnJaWGtTZTBEXzdQMWQwTzk0YWpiVmhzVnBOWWhfMHE5R0NzNEpKb2FMNW5BaEhHckphLVlza1B4RHU2ZlRaclI4bEMyaV9FNkczeHlSczYta21IRlhDTklzUnRVRDQtNkw4emVRZ3JldUFrM3ZmUDlhTU9FUGZaS2F5NGVrdUdWS1Fj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-04T13:27:28+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -586,16 +648,6 @@
       "type": "News"
     },
     {
-      "title": "Arbeitgeber für Beschränkung der Lohnfortzahlung bei Krankheit – News - Deutsches Ärzteblatt",
-      "summary_de": "Arbeitgeber für Beschränkung der Lohnfortzahlung bei Krankheit – News &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZy1XSFhNZjgyQU5PTU5uSnFoQnBuSHVhSTBEYllhbEYwdzNMeGVnSmJVM2NsdENuNnJjNWdpYjhPUUE3WXQzcEVWV2ZNSnByUGQxZ3VMcUtDWHIzWUJEOHF2SDhlLUgtYUtoRkxYbFBFZTZkS1dZelVBQkdkajR6YXlPR29oVTdiSTRvdVdPTnVmdmI1R3dLYmJkRDFMbXMzcDE4VW1lRXRxeHkyX2lGY1VfeElLN0ZxZFc5MC1sQ1pHdERuWWh1TU1Gcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-02T11:36:10+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gute Vorsätze umsetzen - Drei alltagstaugliche Tipps für eine gesunde Leber - Gesundheit - SZ.de",
       "summary_de": "Gute Vorsätze umsetzen - Drei alltagstaugliche Tipps für eine gesunde Leber - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -806,26 +858,6 @@
       "type": "News"
     },
     {
-      "title": "Alkoholverzicht: Was der Dry January für die Gesundheit bringt",
-      "summary_de": "An den Feiertagen haben viele von uns mehr Alkohol getrunken als sonst. F&uuml;r die Gesundheit ist es eine gute Idee, im neuen Jahr den Alkoholkonsum deutlich zur&uuml;ckzufahren. Ein &Uuml;berblick &uuml;ber die positiven Effekte des &raquo;Dry January&laquo;.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/was-der-dry-january-fuer-die-gesundheit-bringt-161574/",
-      "published_at": "2026-01-01T09:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Interview: Was steckt hinter den neuen pDL?",
-      "summary_de": "Apotheken d&uuml;rfen sich auf mehr Kompetenzen freuen: Das BMG m&ouml;chte mit der Apothekenreform auch weitere Dienstleistungen in der Apotheke verankern. Was sich hinter den einzelnen Punkten im Gesetzentwurf verbirgt.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/was-steckt-hinter-den-neuen-pdl-161566/",
-      "published_at": "2026-01-01T07:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gute Vorsätze - Mit diesen Tricks bewegen wir uns 2026 (wirklich) mehr - Gesundheit - SZ.de",
       "summary_de": "Gute Vorsätze - Mit diesen Tricks bewegen wir uns 2026 (wirklich) mehr - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -846,32 +878,12 @@
       "type": "News"
     },
     {
-      "title": "Gute Vorsätze: Warum weniger manchmal mehr Veränderung bringt",
-      "summary_de": "Viele starten das neue Jahr mit gro&szlig;en Pl&auml;nen: weniger Alkohol, mehr Sport, ges&uuml;nder leben. Der Vorsatz kippt aber schnell zu: mehr Stress. Ein Facharzt erkl&auml;rt, warum der Druck, alles richtigzumachen, kontraproduktiv ist.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/warum-weniger-manchmal-mehr-veraenderung-bringt-161576/",
-      "published_at": "2025-12-31T13:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
       "source_url": "https://www.diagnosticimaging.com/view/top-five-radiology-content-for-2025",
       "published_at": "2025-12-31T10:50:00+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesetzliche Neuerungen: Was ändert sich 2026?",
-      "summary_de": "Das Jahr 2026 bringt f&uuml;r viele Menschen sp&uuml;rbare &Auml;nderungen mit sich.&nbsp;Betroffen sind unter anderem die Gesundheitsversorgung, die Sozialsysteme, Mobilit&auml;t und Finanzen und die Arbeitswelt.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/was-aendert-sich-2026-161539/",
-      "published_at": "2025-12-31T07:00:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -892,26 +904,6 @@
       "source_url": "https://www.diagnosticimaging.com/view/pet-imaging-agent-itm-94-game-changer-detecting-clear-cell-renal-cell-carcinoma-",
       "published_at": "2025-12-30T17:42:00+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Cannabis-Präparate: Nur geringer Effekt auf chronische Schmerzen",
-      "summary_de": "Cannabinoid-Pr&auml;parate haben kaum Effekte auf chronische Schmerzen, zeigt eine aktuelle Metaanalyse. Demnach haben THC-dominierte Pr&auml;parate eine m&auml;&szlig;ige Wirkung bei deutlichen Nebenwirkungen. CBD-Pr&auml;parate dagegen bewirken gar keine Schmerzlinderung.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/nur-geringer-effekt-auf-chronische-schmerzen-161556/",
-      "published_at": "2025-12-30T17:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Rheinland-Pfalz: Clemens Hoch gegen Praxisgebühr",
-      "summary_de": "Wie sind die steigenden Milliardenkosten f&uuml;r die medizinische Versorgung zu begrenzen? Ein Vorschlag des Chefs der Kassen&auml;rztlichen Bundesvereinigung st&ouml;&szlig;t auf Widerspruch.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/clemens-hoch-gegen-praxisgebuehr-161575/",
-      "published_at": "2025-12-30T16:30:00+00:00",
-      "category": "Versorgung",
       "tags": [],
       "type": "News"
     },
@@ -1638,16 +1630,6 @@
       "type": "News"
     },
     {
-      "title": "Verbesserung für Patienten: Herz-Jesu-Krankenhaus jetzt mit CT-MRT-Zentrum - Osthessen|News",
-      "summary_de": "Verbesserung für Patienten: Herz-Jesu-Krankenhaus jetzt mit CT-MRT-Zentrum &nbsp;&nbsp; Osthessen|News",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYkgwMkpMMEV6OG52cG5lTHhGQy1JaFFqY0FKSEZrRmY2ZE9VRnN5Z3VjYXlsdXpuQ2NYNjMxSHhHUTBqRDUtWFpxS001QnBQbDlSWVlIWGVHZVRTWEJxZGVVUUdvZUFJZEVkVENrT3g2TFJELUpSTkxqM2dlN1J4TklmbkdxSFczTjNna0ZkSFIzQkRaNDVBSUVfOURCMFQ5UGs2YkVXNlRmSUQwQjJDZGFSSFdfQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-18T08:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Interventions for treating tibial shaft fractures in children",
       "summary_de": "Interventions for treating tibial shaft fractures in children",
       "source_name": "Cochrane Library RSS feed.",
@@ -1850,16 +1832,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdmdhRXNPejh0THNSUHNqT0dKejlCRnJVakxUUVFRWEJfeFVCWGZyaWhkTjlwbnhTSzlYR3dYTmVjRzJpV0g3cTNKZ1ViWmhLMG94MWhfWU5XbmpnbkkwTUR6T2l1b21aSGFLTkNQcm9QZVkwak9uclJFUTZ2eHFzT2lQY0c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-12-15T12:51:08+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Joggen für Anfänger: Der große Einsteiger-Guide - Techniker Krankenkasse",
-      "summary_de": "Joggen für Anfänger: Der große Einsteiger-Guide &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUlhvbjIwRmpMNTdhczUtZE5CMVRXcFpxN1J2bUxXaHkwa09VTTlCMHdlYmt4ME4wWnpPWWxZNWowcV9DeVFmcVhzOTBSbTFsN21yd3ZtTHUzbGhNVlkxbVN5N0FvRHE3RzdOdnJOaUw1MTlONV9CdExRU1V0VTVlSGs3Uzl2LUxqUFVmOTIwdEZBSmFEeHM2MzEweU43WGp5cFlWLXJ1cldFekk5UHM2dHEyc3RiUDMzY3FJQjlOMjQ0OHd0ZmwyaWVTa29wcWdBTGxn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-15T08:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2484,8 +2456,8 @@
       "type": "Studie"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-12-08T08:00:00+00:00",
@@ -2701,16 +2673,6 @@
       "type": "News"
     },
     {
-      "title": "Knappschaft Kliniken Gelsenkirchen-Buer: Neues 0,55 Tesla-MRT-Gerät in der Radiologie AufSchalke im Einsatz - Lokalkompass",
-      "summary_de": "Knappschaft Kliniken Gelsenkirchen-Buer: Neues 0,55 Tesla-MRT-Gerät in der Radiologie AufSchalke im Einsatz &nbsp;&nbsp; Lokalkompass",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbjllRHJBWFc1MnFFRUpGWGlfQmFrYkl6MjJyWmk1VHNfMVNRZWNWZnF3ZkdnUE5YMXd4TFlSbDNJVllNUGZFekQ2eTBSdmROT2t3LTJocm0wZnpYYkJkUC1CSDNTUWdha3pDcGtMdmppV1d3eWRwX05OeXczVEw2WUtCQm1ZLTRuOXA3aENST0NXZnRpUE9DSnI3YUxCS1dTTDlZZ1htb25MWHhRdmxLN1JPaXNqRFBLZDhUSVVpaDg5Z0RJTzVkWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-01T08:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Pressemitteilung: Die Klagewelle rollt an – Krankenkassen verklagen den Bund auf 10 Mrd. Euro",
       "summary_de": "Der Staat als Träger der Fürsorge hat die Krankenkassen damit beauftragt, die gesundheitliche Versorgung der Bürgergeldbeziehenden zu übernehmen. Die Krankenkassen haben diese Aufgabe entsprechend übernommen. Aber statt für diese Leistung voll zu bezahlen, lässt der für die Finanzierung zuständige Bund die Krankenkassen auf rund zwei Dritteln der Kosten sitzen. Das sind derzeit rund 10 Mrd. Euro Jahr für Jahr. Vor …",
       "source_name": "GKV-SV Presseinformationen",
@@ -2775,16 +2737,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Avian influenza in Europe: enhanced surveillance and strict biosecurity needed as detections surge",
-      "summary_de": "Between 6 September and 14 November 2025, 1,443 detections of highly pathogenic avian influenza (HPAI) A(H5) viruses were reported in wild birds across 26 European countries – four times higher than the same period in 2024 and the highest since at least 2016.&nbsp; Waterfowl in various parts of Europe were heavily affected by HPAI during this period, including detections in …",
-      "source_name": "EFSA | News",
-      "source_url": "https://www.efsa.europa.eu/en/news/avian-influenza-europe-enhanced-surveillance-and-strict-biosecurity-needed-detections-surge",
-      "published_at": "2025-11-24T15:09:57+00:00",
-      "category": "Europa",
-      "tags": [],
       "type": "News"
     }
   ],
