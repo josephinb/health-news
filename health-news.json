@@ -1,8 +1,68 @@
 {
-  "generated_at": "2026-01-06T12:31:03.330886+00:00",
+  "generated_at": "2026-01-06T15:16:27.040838+00:00",
   "window_days": 42,
-  "count": 282,
+  "count": 281,
   "items": [
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: Deferasirox Mylan 180 mg Filmtabletten pU: Mylan Pharmaceuticals Limited",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-01-06T14:00:22+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Umsatzprognose Arzneimittel: Die Top Ten 2026",
+      "summary_de": "Das Unternehmen Evaluate Pharma prognostiziert f&uuml;r die zehn umsatzst&auml;rksten Arzneimittel im Jahr 2026 einen weltweiten Umsatz von 198 Milliarden US-Dollar.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-ten-2026-161639/",
+      "published_at": "2026-01-06T14:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Apobank-Chef Matthias Schellenberg: dm-Einstieg als »politischer Weckruf«",
+      "summary_de": "Die Drogeriekette dm ist in den OTC-Versand eingestiegen. F&uuml;r Apobank-CEO Matthias Schellenberg ist das mehr als eine unternehmerische Entscheidung. Schellenberg fordert ein Bekenntnis zur Apotheke von der Politik.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/dm-einstieg-als-politischer-weckruf-161665/",
+      "published_at": "2026-01-06T13:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Versorgung in Deutschland: Arzt: Viele Brandverletzte kämpfen lebenslang mit den Folgen - DIE ZEIT",
+      "summary_de": "Versorgung in Deutschland: Arzt: Viele Brandverletzte kämpfen lebenslang mit den Folgen &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeTBBZGh2R3dUM0tqblVUX1F1d0k1WXRkSk54cUNiM0pBVmVFX3RDQmRSY241NERJMUpCSUJrS1dpalJJU1J0dm1YeHRkbHZFdmFLRzh6akRFSUF2eV9DdEtGb0Z2M3hrOHlucjEwZXFpMk9jREszdlVmckF2d1F3d2w1QWw1S0VZczQ3NHZaZHY1emRNTmdfOEx3eFk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-06T13:19:21+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Rheinland-Pfalz: Freie Wähler fordern bessere Vergütung für Apotheken",
+      "summary_de": "Am 22. M&auml;rz 2026 finden die Landtagswahlen in Rheinland-Pfalz statt, der Wahlkampf hat bereits begonnen. So fordern die Freien W&auml;hler eine bessere Verg&uuml;tung f&uuml;r Apotheken und werfen der Landesregierung angesichts sinkender Apothekenzahlen &raquo;Unt&auml;tigkeit&laquo; vor.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/freie-waehler-fordern-bessere-verguetung-fuer-apotheken-161661/",
+      "published_at": "2026-01-06T12:45:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Migränemittel: Immer wieder Probleme mit Aimovig-Fertigpens",
+      "summary_de": "Bei der AMK laufen immer wieder Meldungen zu nicht ausl&ouml;senden Aimovig-Fertigpens ein. Es handelt sich wahrscheinlich um Anwendungsfehler, keine technischen Defekte. Daher sollten Apothekenteams bei Problemen gezielt beraten.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/immer-wieder-probleme-mit-aimovig-fertigpens-161660/",
+      "published_at": "2026-01-06T12:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Jahresbilanz - Mehr als tausend Geburten im Harzklinikum im Jahr 2025 - Gesundheit - SZ.de",
       "summary_de": "Jahresbilanz - Mehr als tausend Geburten im Harzklinikum im Jahr 2025 - Gesundheit &nbsp;&nbsp; SZ.de",
@@ -34,16 +94,6 @@
       "type": "News"
     },
     {
-      "title": "Notdienst: Verpflichtungen für Apotheken im Fall eines Stromausfalls",
-      "summary_de": "Der Zusammenbruch des Stromnetzes im Berliner S&uuml;dwesten wirft die Frage auf, wie kritische Infrastruktur besser vor Angriffen gesch&uuml;tzt werden kann. Im Fall eines Stromausfalls gibt es f&uuml;r Apotheken einiges zu beachten.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/verpflichtungen-fuer-apotheken-im-fall-eines-stromausfalls-161655/",
-      "published_at": "2026-01-06T11:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Phytopharmazie: Ingwer zur Arzneipflanze des Jahres gekürt",
       "summary_de": "Ingwer wird in der K&uuml;che vielseitig verwendet. Das Gew&auml;chs hat aber nicht nur eine geschmackliche, sondern vor allem eine gesundheitsf&ouml;rdernde Wirkung &ndash; die bringt ihm einen Titel ein.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -54,11 +104,11 @@
       "type": "News"
     },
     {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: Trimbow 87 Mikrogramm/5 Mikrogramm/9 Mikrogramm Druckgasinhalation, L&#246;sung - OP360Dosen(3x120Dosen) pU: Chiesi Farmaceutici S.p.A.",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-01-06T10:39:47+00:00",
+      "title": "Notdienst: Verpflichtungen für Apotheken im Fall eines Stromausfalls",
+      "summary_de": "Der Zusammenbruch des Stromnetzes im Berliner S&uuml;dwesten wirft die Frage auf, wie kritische Infrastruktur besser vor Angriffen gesch&uuml;tzt werden kann. Im Fall eines Stromausfalls gibt es f&uuml;r Apotheken einiges zu beachten.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/verpflichtungen-fuer-apotheken-im-fall-eines-stromausfalls-161655/",
+      "published_at": "2026-01-06T11:00:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
@@ -469,22 +519,22 @@
       "type": "News"
     },
     {
-      "title": "NAD⁺-Homöostase: Ist Alzheimer eine reversible Erkrankung?",
-      "summary_de": "Die Suche nach neuen Alzheimer-Medikamenten bleibt spannend. Eine aktuelle Tierstudie legt sogar nahe, dass manche Formen der Alzheimer-Krankheit mittels niedermolekulare Substanzen mit neuem Wirkmechanismus reversibel sein k&ouml;nnten.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/ist-alzheimer-eine-reversible-erkrankung-161585/",
-      "published_at": "2026-01-05T09:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Umfrage GKV-Spitzenverband: Ärger über Wartezeiten, Appell an Ärzte",
       "summary_de": "Bis zu drei Monate m&uuml;ssen gesetzlich Versicherte in Deutschland auf einen Facharzttermin warten, das hat eine repr&auml;sentative Befragung des GKV-Spitzenverbands (GKV-SV) ergeben. Mit einem verbindlichen Termin-Portal will der Verband Abhilfe schaffen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/aerger-ueber-wartezeiten-appell-an-aerzte-161602/",
       "published_at": "2026-01-05T09:30:00+00:00",
       "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "NAD⁺-Homöostase: Ist Alzheimer eine reversible Erkrankung?",
+      "summary_de": "Die Suche nach neuen Alzheimer-Medikamenten bleibt spannend. Eine aktuelle Tierstudie legt sogar nahe, dass manche Formen der Alzheimer-Krankheit mittels niedermolekulare Substanzen mit neuem Wirkmechanismus reversibel sein k&ouml;nnten.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/ist-alzheimer-eine-reversible-erkrankung-161585/",
+      "published_at": "2026-01-05T09:30:00+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -564,26 +614,6 @@
       "type": "News"
     },
     {
-      "title": "Montagsblues: Was dahinterstecken kann",
-      "summary_de": "&raquo;Oh, nein, morgen ist wieder Montag!&laquo; Wenn Sie dieses Gef&uuml;hl zum Wochenstart regelm&auml;&szlig;ig begleitet, sollten Sie auf Ursachensuche gehen &ndash; und Strategien gegen das Tief entwickeln.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/was-dahinterstecken-kann-161170/",
-      "published_at": "2026-01-05T07:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Häufige Arzneistoffe: Steckbrief Eisen",
-      "summary_de": "Eisenpr&auml;parate geh&ouml;ren fest zum Apothekenalltag und sind durchaus beratungsintensiv. Denn um die Eisenspeicher erfolgreich aufzuf&uuml;llen, gibt es einige Regeln zu beachten.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/steckbrief-eisen-161497/",
-      "published_at": "2026-01-05T06:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit: Facharzttermin binnen vier Wochen – Minister will Garantie - DIE ZEIT",
       "summary_de": "Gesundheit: Facharzttermin binnen vier Wochen – Minister will Garantie &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -634,16 +664,6 @@
       "type": "News"
     },
     {
-      "title": "ApoVWG: Apothekenreform – eine Einordnung",
-      "summary_de": "2026 wird ein richtungsweisendes Jahr f&uuml;r die Apotheken. Die geplante Reform k&ouml;nnte den Markt grundlegend ver&auml;ndern. Welche Rolle die Apotheken &uuml;bernehmen, h&auml;ngt vor allem von den wirtschaftlichen Rahmenbedingungen ab. Die PZ analysiert die Reformpl&auml;ne.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/apothekenreform-eine-einordnung-161590/",
-      "published_at": "2026-01-04T07:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Lebensmittel - Von Mäusen bis Maden – Ekel-Funde in Bäckereien und Imbissen - Gesundheit - SZ.de",
       "summary_de": "Lebensmittel - Von Mäusen bis Maden – Ekel-Funde in Bäckereien und Imbissen - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -659,16 +679,6 @@
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX0VkWFhtejlYTDBkZ1RMNEdyamFXNWdhUkhNWXd3dS1UUWlTdnNYYjZpaEdGSWx2T3huSnBkaWdwTl9RUVJtVlUzNm9vcmZ3TFk1TktKQzlTVGVPd3NtVkRqZWMyS3ZUOS14MVJzMXFZaWs0RHJKQlVHdVMtU0kySERyWUdoajA2cHdxS1Bfa3E1cjBvYi0wdWhCQ2VKVnBuTG9fTWFNRExpcF9Ja2p1VzVsM2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-03T23:19:12+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Arzt / Facharzt Kreis Euskirchen Stellenangebote in Sachsen (0) - ärztestellen",
-      "summary_de": "Arzt / Facharzt Kreis Euskirchen Stellenangebote in Sachsen (0) &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRy1PVy0yMXpTUERHU2MzMkdaWHM3MXAwcjJqZDZOR0xWeUJKc2lMTGI2ZS1tTVV4T0NYWkphYV9UZHo4WFpjSGowaVNCbWZwTERYQnBacTE5QzBMZVk5aFA4aEp2ei1qQ3dDMlNKVkZpemZhNko3NXlvLW9ZN01IaHpDUHFyb2Vjb014azlSTQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-03T23:13:11+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -724,6 +734,16 @@
       "type": "News"
     },
     {
+      "title": "Notfallmedizin Radiology Advanced GmbH Klinik Stellenangebote in Sachsen - ärztestellen",
+      "summary_de": "Notfallmedizin Radiology Advanced GmbH Klinik Stellenangebote in Sachsen &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUVlXOUIxay11WFVBd3UwOGZwemROeXBGb3NSalZxUW9TNVgyTjlVdk5mT213ZDc0X05jQ3dyeG11YlJRUlh5WGZFQUNNWm9SelBoWVhrMkY1bUY1czg5WGhEem5RWkp4SUFvbWl5T1AwOGFpYi1LS3ExQ1BESDR2NGVXWjFFWFdsSEtnYXRaajlkQ0JLSzEwMTdNYjRIZ1F3N1FJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-03T15:40:03+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Chefarzt Radiologie Kbo Kliniken des Bezirks Oberbayern Klinik Stellenangebote in Niedersachsen - ärztestellen",
       "summary_de": "Chefarzt Radiologie Kbo Kliniken des Bezirks Oberbayern Klinik Stellenangebote in Niedersachsen &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
@@ -744,12 +764,12 @@
       "type": "News"
     },
     {
-      "title": "Nuklearmedizin Kreisverwaltung Bad Dürkheim Klinik Stellenangebote in Schleswig-Holstein - ärztestellen",
-      "summary_de": "Nuklearmedizin Kreisverwaltung Bad Dürkheim Klinik Stellenangebote in Schleswig-Holstein &nbsp;&nbsp; ärztestellen",
+      "title": "Psychosomatische Medizin und Psychotherapie Kreisverwaltung Bad Dürkheim Klinik Stellenangebote in Schleswig-Holstein | Ärztestellen - ärztestellen",
+      "summary_de": "Psychosomatische Medizin und Psychotherapie Kreisverwaltung Bad Dürkheim Klinik Stellenangebote in Schleswig-Holstein | Ärztestellen &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYXA2LUc1UVFxcUJiQnJJVm9lb2FiUVgwa21WZ0FVS3pZTmk5RFBQRnloWVdGLTVxcVgzbm1xbkZQRWo0eGJOS1pYanZWQVliUUpLQ084R01lUVV1QjZyS1QtdzZZS3lvOUVZbUZkemozb3FHNXVPc3B5UXNhR2NXSmtqaDJmSnNLRmJMOHVqTThJc3otX0hURHYxYk1tb2dtR0p2dmVKTUtlNk5FdVlXQkJXYUtvTkhvRkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-03T09:46:27+00:00",
-      "category": "Radiologie",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYk9JWU5NczdBbmNESjU4LWk2YlJ4SzRXWUQyYTU2blJMbHNCMVhCVU1rS2JGWUtVVFlRWUZha1JLRko2X0Vya1U5SmpJV2NBV3V6ZjlfNFVhUUd6ZjVzNGVzLV9Mc19UV25Cd1FlVTVzMHRhN2h0dGhXSzRRSnRteWo4V2NkUWxrNzZhRTZnVXJoMURKaXhHTFgwa2U5ZnpJM1NXbnFlWGlZNVVNVnpZSk1nV2tUU2xSZXZkaktFWlh4bGxqelNEV19rRGFWc3BJWVpUVXlfWklzTzFYNHAwUg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-03T09:44:57+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -840,16 +860,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNlIyNEJjaXdDUUhiUmx3Slc3b2xmekZ4bDVhLTZBLTQ3V0JHdkV3OWVjdlFYZ2Jmal9EOWRLTkVEV2l2cmlIMmR4bnBKTC1xcFRMaWhaNWZUeld4XzV5NkhXZUhEb2ZibG55bUNUSTJYak5UMnJpQm5mMmJZRm1GWXFGQ3ctd1dzMFkzenB6b0tuRmFEVlJpMDhsSFk0RkVFSlkzOWc4VU0tdkVybFNvSWxpQXJNTzFrd0tHTUs3eG9LMGJoZlo1S19ybVRUUi1LcTRha2JaU2lNZE5maTBUdXdwMjN0MmM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-02T17:03:37+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Sedativa: Ein neues Benzodiazepin im Handel",
-      "summary_de": "Zum Jahresauftakt kam seit vielen Jahren erstmals wieder ein Benzodiazepin auf den deutschen Markt. Remimazolam ist f&uuml;r die Allgemeinan&auml;sthesie und prozedurale Sedierung gedacht.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/ein-neues-benzodiazepin-im-handel-161586/",
-      "published_at": "2026-01-02T17:00:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -1049,6 +1059,16 @@
       "type": "News"
     },
     {
+      "title": "Minijob-Verdienstgrenze: Was zählt zum Verdienst und was nicht? | Die Techniker - Firmenkunden - Techniker Krankenkasse",
+      "summary_de": "Minijob-Verdienstgrenze: Was zählt zum Verdienst und was nicht? | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYi1HUXFjektWazJoVUtObV92Q3oteGdwZ0NXd2p2c193b0JRTk5wY1Z5TWJvano5WFlkajFjMkZNdXRlYlMxTGFqdi01THl5TUJJZkQxb1BhcC1mWnQzV1lURHl3cnAzMXJsTmphWThMQi1NbHhoOUZaTUNwTm0tZXc1U2VQdDJuNFB2bnRLLXdiWFE0dWtqVnRoMW5IcE5nLV83WThfOWstTEZqWlNETzhLRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-01T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gute Vorsätze - Mit diesen Tricks bewegen wir uns 2026 (wirklich) mehr - Gesundheit - SZ.de",
       "summary_de": "Gute Vorsätze - Mit diesen Tricks bewegen wir uns 2026 (wirklich) mehr - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1125,26 +1145,6 @@
       "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-22-26-december-2025",
       "published_at": "2025-12-30T15:12:10+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Tierseuche - Geflügelpest sorgt für Engpässe bei Eiern - Gesundheit - SZ.de",
-      "summary_de": "Tierseuche - Geflügelpest sorgt für Engpässe bei Eiern - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcHhYZkZOSXJoZjFtNkpRcTlvZ1p4SVBJdUxndmxOODg4bzhiMjYyZDdjMlJaZHZ2UFVRcWNQdnlaLTJwVkRodDJuLUxsS3IwMWg0OWhhQkNLSHB0WVI5YnJWNzJVMFRpRlNRbUhQRDhaSWxaZTE5Y2xSTWxkUFU3UmxCOFVya2V0dUpBd0U5Sk9Za3VSR3lxN19WYkM4c1VwX2FqOTQtQUVEQVA0MUs5M1M5U1lMQ2JETWZPX2ttLTRPa085M2E2dHFjSjQwTVdzaXdOaHNhb0ZNX2V6?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-30T13:45:37+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheitsausgaben - Gesundheitsminister gegen extra Gebühr für Praxisbesuche - Gesundheit - SZ.de",
-      "summary_de": "Gesundheitsausgaben - Gesundheitsminister gegen extra Gebühr für Praxisbesuche - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPOERSY181R193Ql9mcjBhaDRNWGJEeHhPWHM1QzJDMWJ2QnVJTWNNbG5qanBpazFPRERtMkJXaXNBdTRMaV9Jb2NwT3RDOW9KUGo2OUFpRUZLeUZvdEhCTTRrZGczci1oUEZOUkItaE9qY19EeWR2ZHJ5V0cwZ3I4ZFRWdUVKMnY1WHdaRUp0dWdmbFFzS3l1R3RLVUkzRGI0M3NvSjM4Q1ZZUGFYSUp3WmJ1Uk91WGpvVWIzYi16NjU1eXd3RWN4b21NZkVvZUtMekJkN29yQTVZei0zQ3k1MDh5U2VIYjVyb2kyRUM0S3BzeGRMYnhYVGVhNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-30T12:44:43+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2485,20 +2485,20 @@
       "type": "Studie"
     },
     {
-      "title": "Prognostic factors associated with progression of open‐angle glaucoma in adults",
-      "summary_de": "Prognostic factors associated with progression of open‐angle glaucoma in adults",
+      "title": "Digital technology for monitoring adherence to inhaled therapies in people with cystic fibrosis",
+      "summary_de": "Digital technology for monitoring adherence to inhaled therapies in people with cystic fibrosis",
       "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015436.pub2",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013733.pub3",
       "published_at": "2025-12-10T00:00:00+00:00",
       "category": "Studie",
       "tags": [],
       "type": "Studie"
     },
     {
-      "title": "Digital technology for monitoring adherence to inhaled therapies in people with cystic fibrosis",
-      "summary_de": "Digital technology for monitoring adherence to inhaled therapies in people with cystic fibrosis",
+      "title": "Prognostic factors associated with progression of open‐angle glaucoma in adults",
+      "summary_de": "Prognostic factors associated with progression of open‐angle glaucoma in adults",
       "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013733.pub3",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015436.pub2",
       "published_at": "2025-12-10T00:00:00+00:00",
       "category": "Studie",
       "tags": [],
@@ -2547,16 +2547,6 @@
       "type": "News"
     },
     {
-      "title": "FEMNA - digitale Unterstützung bei Endometriose - Techniker Krankenkasse",
-      "summary_de": "FEMNA - digitale Unterstützung bei Endometriose &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNTVvUWp2Z1czT2xDR2NSYWZLLWI3Y3B6MFVqcUNITGpXdVZjblNqOUQ1elBlZXNBMzhOZW9OeWlGS2JkV2liNWZtdEtsbFExRG1yRC04bmVTbmpFZFRRWUtPaHZleVZSbGdreEVHTTlrWlpVeEpIT2tQZFVRRHhrb0JJNkFQT3Y3WXF5ZnlTdXZjTTAzUmJrYzlUWVlJRFgzQUxwUnR1NWNMMDY5Yk5kQWl3UjlTdVAxNmZzZ1poSm4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-09T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Pharma: Novartis arbeitet mit Biotechfirma Relation zusammen - Handelsblatt",
       "summary_de": "Pharma: Novartis arbeitet mit Biotechfirma Relation zusammen &nbsp;&nbsp; Handelsblatt",
       "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
@@ -2597,8 +2587,8 @@
       "type": "Studie"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-12-08T08:00:00+00:00",
