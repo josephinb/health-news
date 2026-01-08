@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-01-08T01:11:34.975681+00:00",
+  "generated_at": "2026-01-08T03:59:22.764823+00:00",
   "window_days": 42,
-  "count": 205,
+  "count": 234,
   "items": [
+    {
+      "title": "»Die Krankheit definiert mich nicht« - SZ.de",
+      "summary_de": "»Die Krankheit definiert mich nicht« &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNDA2VUxtbXdVN28zNkpxVmRaeE1SblJFUm5Ja2lnS0tLb0NSNEtOdTZMYlFIU0V0WUZyWGtzNDREY2lBS25BU0lBUzFxVHRWZGxVZElQa1J2WUZKVTBQdXVtWDFOYnoyNlpIRkItaW0wUUgzV3FkR1Q5M0l4ODEtb2ozUVBaUFkyaU5DaHZhQjJDSlFp?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-08T02:01:22+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Exercise for depression",
       "summary_de": "Exercise for depression",
@@ -34,16 +44,6 @@
       "type": "News"
     },
     {
-      "title": "XGBoost algorithm demonstrates prediction accuracy for lung cancer risk",
-      "summary_de": "Using lung cancer risk prediction models at the screening stage helps identify high-risk individuals.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15801107/xgboost-algorithm-demonstrates-prediction-accuracy-for-lung-cancer-risk",
-      "published_at": "2026-01-07T18:32:34+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Neue Empfehlungen - US-Regierung veröffentlicht neue Ernährungsrichtlinien - Gesundheit - SZ.de",
       "summary_de": "Neue Empfehlungen - US-Regierung veröffentlicht neue Ernährungsrichtlinien - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -64,6 +64,16 @@
       "type": "News"
     },
     {
+      "title": "Von Demenz bis Herzinfarkt: KI sagt 130 Krankheiten im Schlaf voraus",
+      "summary_de": "Forschende der Universit&auml;t Stanford haben eine k&uuml;nstliche Intelligenz entwickelt, die anhand einer Schlafanalyse aus einer einzigen Nacht das individuelle Risiko f&uuml;r mehr als 130 Krankheiten vorhersagen kann &ndash; und zwar Jahre, bevor Symptome auftreten.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/ki-sagt-130-krankheiten-im-schlaf-voraus-161714/",
+      "published_at": "2026-01-07T17:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Nirogacestat hydrobromide approved to treat desmoid tumours",
       "summary_de": "As with any medicine, the MHRA will keep the safety and effectiveness of Nirogacestat hydrobromide under close review.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -74,6 +84,16 @@
         "Europa"
       ],
       "type": "Studie"
+    },
+    {
+      "title": "Digitalisierung : Zahl der aktiven ePA-Nutzer bleibt gering",
+      "summary_de": "Der Anteil der aktiven Nutzerinnen und Nutzer der elektronischen Patientenakte (ePA) ist seit Juli 2025 auf 3,6 Prozent gestiegen. Dies geht aus einer Umfrage des Redaktionsnetzwerks Deutschland (RND) unter mehreren Krankenkassen hervor.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/zahl-der-aktiven-epa-nutzer-bleibt-gering-161716/",
+      "published_at": "2026-01-07T16:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Nach Brandanschlag auf Netz - Stromausfall: Grundbetrieb in Kliniken per Notstrom möglich - Gesundheit - SZ.de",
@@ -116,6 +136,46 @@
       "type": "News"
     },
     {
+      "title": "PZ Briefing: Die Top-News vom 7.1.2026",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-712026-161715/",
+      "published_at": "2026-01-07T15:00:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Kritische Infrastruktur: BMG will resilientere Apotheken",
+      "summary_de": "Der j&uuml;ngste Stromausfall in Berlin d&uuml;rfte nicht der letzte folgenschwere Angriff auf die Infrastruktur gewesen sein. Mehr Widerstandskraft gegen Attacken will die Bundesregierung schaffen, auch im Gesundheitswesen.&nbsp;Das Bundesgesundheitsministerium (BMG) bezieht Apotheken mit ein, aber konkret wird es nicht.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/bmg-will-resilientere-apotheken-161711/",
+      "published_at": "2026-01-07T15:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Leistungsdruck im Job: Psychologische Ursachen und Lösungen",
+      "summary_de": "St&auml;ndiger Leistungsdruck, digitale Dauererreichbarkeit und hohe Erwartungen sind f&uuml;r viele Berufst&auml;tige im Arbeitsalltag normal. Doch chronischer Stress kann Folgen haben. Arbeitspsychologen erkl&auml;ren, was dagegen sch&uuml;tzt.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/psychologische-ursachen-und-loesungen-161700/",
+      "published_at": "2026-01-07T14:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Stromausfall: Warnung vor Investitionslücken im Bevölkerungsschutz",
+      "summary_de": "Sabotage, hybride Angriffe &ndash; wie gut ist Deutschland auf Krisensituationen vorbereitet? Schlecht, meint der fr&uuml;here Bundesgesundheitsminister Gr&ouml;he. Und der Chef der Kassen&auml;rzte&nbsp;Andreas Gassen pflichtet ihm bei.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/warnung-vor-investitionsluecken-im-bevoelkerungsschutz-161712/",
+      "published_at": "2026-01-07T14:08:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gesundheit: LGL: Rechtzeitiger Impfschutz vor Kinderlähmung wichtig - DIE ZEIT",
       "summary_de": "Gesundheit: LGL: Rechtzeitiger Impfschutz vor Kinderlähmung wichtig &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -146,11 +206,41 @@
       "type": "News"
     },
     {
+      "title": "GKV-SV-Erklärfilm: »Der Nettoumsatz deutscher Apotheken steigt stetig an«",
+      "summary_de": "Via Linkedin hat der GKV-Spitzenverband k&uuml;rzlich ein Erkl&auml;rvideo zur Apothekenverg&uuml;tung repostet. Apothekerinnen und Apotheker reagieren in den Kommentaren ver&auml;rgert, auch weil der Film wichtige Aspekte der Kostenstruktur ausl&auml;sst.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/der-nettoumsatz-deutscher-apotheken-steigt-stetig-an-161705/",
+      "published_at": "2026-01-07T13:00:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Lungenkrebs-Screening: Frauen könnten von umfangreicheren Kriterien profitieren",
+      "summary_de": "Voraussichtlich ab April 2026 wird ein Lungenkrebsscreening f&uuml;r Risikopersonen zur Kassenleistung. Neue Daten zeigen, dass durch die Anwendung zus&auml;tzlicher Kriterien zu Alter und Rauchhistorie deutlich mehr F&auml;lle detektiert werden k&ouml;nnen &ndash; insbesondere bei Frauen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/frauen-koennten-von-umfangreicheren-kriterien-profitieren-161707/",
+      "published_at": "2026-01-07T13:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Darmkrebsscreening: IQWiG-Modellierung zur Altersgrenze und Koloskopiefrequenz liegt vor - Deutsches Ärzteblatt",
       "summary_de": "Darmkrebsscreening: IQWiG-Modellierung zur Altersgrenze und Koloskopiefrequenz liegt vor &nbsp;&nbsp; Deutsches Ärzteblatt",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUkZha0dOMm95VUpROUVyV2o0NTJ3dnZHUktIdGpvbFNRQkFEdW9XSktpWUxhclk4QlFFdEJMc2VXaDVXUVc3YzNQdGh4bDZMWFdQZDIzLVV0WEJzUjBsczJKUkJfOVcyZFZfN3ZwX0RqMm5OQnBKTlVEcFZtaU91MkxkcEhkelhYSTljc1FCazZVYUZXYVVydnNDVjl6TFkwV091S0xaZVdhUVkzbkxSSFlQbmIwNFVzcWdubzVtR3JLT19HRlJVUWI1VnFUa1FwaWttUjB6SFJ1QXY1V3V4MVpMNURZbldZQVR2Nw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-07T12:59:04+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Stellungnahme ApoVWG: ABDA: PTA-Vertretung ersatzlos streichen",
+      "summary_de": "Ende Januar soll das Apothekenversorgung-Weiterentwicklungsgesetz (ApoVWG) im Bundesrat erstmals besprochen werden. In ihrer Stellungnahme konzentriert sich die ABDA auf sieben Kernthemen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/abda-pta-vertretung-ersatzlos-streichen-161708/",
+      "published_at": "2026-01-07T11:42:08+00:00",
       "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
@@ -176,6 +266,46 @@
       "type": "News"
     },
     {
+      "title": "Treuhand-Studie: Der Teilzeittrend und seine Folgen für die Apotheke",
+      "summary_de": "Immer mehr Menschen arbeiten immer weniger &ndash; das gilt auch f&uuml;r Apotheken. Laut dem &raquo;Apothekenmonitor 2025&laquo; der Treuhand Hannover fordert der Trend auch Apothekenleitungen heraus. Es gilt demnach, die Arbeitsorganisation anzupassen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/der-teilzeittrend-und-seine-folgen-fuer-die-apotheke-161702/",
+      "published_at": "2026-01-07T11:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Adexa-Tipps: Betriebsrisiken für Apotheken bei Winterwetter",
+      "summary_de": "Glatte Stra&szlig;en, Eis und Schnee k&ouml;nnen vieles ins Rutschen bringen, auch die Abl&auml;ufe in der Apotheke. Dar&uuml;ber, wer die Verantwortung tr&auml;gt, wenn Winterwetter den Arbeitsalltag durcheinanderbringt, kl&auml;rt die Apothekengewerkschaft Adexa auf.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/betriebsrisiken-fuer-apotheken-bei-winterwetter-161692/",
+      "published_at": "2026-01-07T10:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Umfrage: Deutsche wünschen sich mehrheitlich das Schulfach »Gesundheit«",
+      "summary_de": "Nur jeder Zweite in Deutschland f&uuml;hlt sich laut der Befragung so gut informiert, dass er sich selbst um die eigene Gesundheit k&uuml;mmern kann. Die Mehrheit w&uuml;nscht sich eine fr&uuml;he Wissensvermittlung.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/deutsche-wuenschen-sich-mehrheitlich-das-schulfach-gesundheit-161695/",
+      "published_at": "2026-01-07T09:36:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Stromausfall: Apotheke für den Notbetrieb absichern",
+      "summary_de": "Der pl&ouml;tzliche Stromausfall f&uuml;r rund 45.000 Haushalte in Berlin nach einem Brandanschlag auf eine Stromverbindung hat wieder einmal gezeigt, wie wichtig gerade f&uuml;r Apotheken eine gute Vorbereitung auf solche Katastrophenf&auml;lle ist. Eine Grundversorgung l&auml;sst dabei mit relativen kleinen Mitteln sicherstellen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/apotheke-fuer-den-notbetrieb-absichern-161681/",
+      "published_at": "2026-01-07T09:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Alkoholmissbrauch - Alkoholvergiftungen bei Jugendlichen auf Tiefstand - Gesundheit - SZ.de",
       "summary_de": "Alkoholmissbrauch - Alkoholvergiftungen bei Jugendlichen auf Tiefstand - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -196,12 +326,32 @@
       "type": "News"
     },
     {
+      "title": "Geschlechterrollenbilder : Wie real ist der Tradwife-Trend?",
+      "summary_de": "Ein Leben allein f&uuml;r Kind und Ehemann? Ob solche traditionellen Vorstellungen unter 20- bis 30-j&auml;hrigen Frauen ein Comeback erleben, hat nun das Bundesinstitut f&uuml;r Bev&ouml;lkerungsforschung (BiB) untersucht. Hintergrund ist, dass derzeit einige Influencerinnen Rollenbilder der 50er Jahre idealisieren.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/wie-real-ist-der-tradwife-trend-161634/",
+      "published_at": "2026-01-07T09:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Beiträge zur Krankenkasse: So teuer wird Ihre Krankenversicherung in diesem Jahr - DIE ZEIT",
       "summary_de": "Beiträge zur Krankenkasse: So teuer wird Ihre Krankenversicherung in diesem Jahr &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORGcyakRwSFhRVmxvZG9xSDNQV01xUTI2YWRpN3czQVpPQnB0eW5yQi1Fa09FdER5bDl2Nk0xVmdfRGQ5U0lwbXBsQ2lqOGY4Q3dnRzFXZzhWQ29RVTVaRHhiV3daV2phQjBUTTN2VVRLRm5XVUVUa2JCRklUNGxTNGlscGFhLXNYZzRmZmMtQ1dGMDVI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-07T08:59:50+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Europäischer Vergleich : Nur in Italien ist Alkohol noch billiger",
+      "summary_de": "Obwohl Alkohol eindeutig gesundheitssch&auml;dlich ist, wird er in Deutschland billiger verkauft als in den meisten anderen L&auml;ndern Europas. Der Konsum geht nur langsam zur&uuml;ck.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/nur-in-italien-ist-alkohol-noch-billiger-161683/",
+      "published_at": "2026-01-07T08:30:00+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -216,6 +366,16 @@
       "type": "News"
     },
     {
+      "title": "Brustkrebs: Megestrol als Booster für Letrozol?",
+      "summary_de": "Die zus&auml;tzliche Gabe des Gestagens Megestrolacetat k&ouml;nnte die Wirksamkeit einer antiestrogenen Therapie mit Letrozol bei Estrogenrezeptor-positivem Brustkrebs steigern. Hinweise darauf liefert eine Phase-II-Studie aus England.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/megestrol-als-booster-fuer-letrozol-161680/",
+      "published_at": "2026-01-07T08:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "AuntMinnie.com CT Insider",
       "summary_de": "In this edition of our CT Insider, we're highlighting studies that explore the use of AI with CT imaging.",
       "source_name": "AuntMinnie",
@@ -226,12 +386,12 @@
       "type": "News"
     },
     {
-      "title": "Lobular breast histology not strong predictor of SLNB positivity",
-      "summary_de": "Lobular histology is not a strong predictor of sentinel lymph node biopsy (SLNB) positivity in early-stage breast cancer cases...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15801086/lobular-breast-histology-not-strong-predictor-of-slnb-positivity",
-      "published_at": "2026-01-07T07:05:46+00:00",
-      "category": "News",
+      "title": "Versandhandel: Redcare mit halber Milliarde Rx-Umsatz",
+      "summary_de": "Versender Redcare Pharmacy (vormals Shop Apotheke) hat im vergangenen Jahr den angestrebten Rx-Umsatz von einer halben Milliarde Euro erreicht.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/redcare-mit-halber-milliarde-rx-umsatz-161684/",
+      "published_at": "2026-01-07T07:45:00+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -242,6 +402,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSEx1ellqNVJBVUpFU2tQcnViY0Utc3p1MHRnMU5nSC1ORUE4aXZDaWxNV0ZId2lYS1pyeWtwd0JWYWR4VkZUZm1hbkVBR2VoSXhFY3RiRHZ3LThwZ05tU3NGbVF5SXRTV2tPeGZ2ZTF0S1VmanlWOFI2c0RrVktwNy1MZU9hWF9HcXdoTVJ4QlpIX1hiVWd3ZHpnTDdpTmFOejhKczlqQjB3bVllN25UWi1CeUdhRm8xNVNVVGt0YlZEUDg2X282ZlJNTHVLaWFRNkEtbHlnRHI2ZGNnMk9MRWExWG9FalE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-07T06:21:54+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Therapeutisches Drug Monitoring: Variabilität statt Standarddosis",
+      "summary_de": "Therapeutisches Drug Monitoring (TDM) ist weit mehr als das Messen von Arzneistoffkonzentrationen im Blut. In dem komplexen, interdisziplin&auml;ren Prozess spielen Krankenhausapotheker eine zentrale Rolle, da sie pharmakokinetisches Wissen mit klinischer Expertise verbinden und so aktiv zur Optimierung der Patientenversorgung beitragen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/variabilitaet-statt-standarddosis-161658/",
+      "published_at": "2026-01-07T06:00:00+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -356,12 +526,32 @@
       "type": "News"
     },
     {
-      "title": "Beschäftigung von Rentner:innen - Techniker Krankenkasse",
-      "summary_de": "Beschäftigung von Rentner:innen &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPclJrY3dXWmJKRWk5RG9qYjhzV3JjMmZ2TkU3aUVaSm1lV0NrWURtNkhFc3ZCTWhvMGs2bWZtdzNCTDE4aEwyLUpWTzRCSUFyTWFNMFc5T2ZPM0MyOVV6dDJfMjNlRFAxVjVYTW81YUFWOEhOamdhMks5Q3dDWXRIU0k4dkUyVVhXcDY5a2plQkI3MXNfbVUzblpNQVFmS29JeEY0ZG03MzhvZmJrTkY5UlJmNmhLMUl4NV9XWjdGR3c4Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-06T17:34:04+00:00",
-      "category": "News",
+      "title": "Beratung: Abnehmen mit Grunderkrankung",
+      "summary_de": "Eine Gewichtsreduktion ist bei Diabetes, Hypertonie oder Krebs nicht nur eine Frage der Disziplin, sondern erfordert eine sorgf&auml;ltige Abstimmung mit der bestehenden Therapie. Apotheker k&ouml;nnen beratend unterst&uuml;tzen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/abnehmen-mit-grunderkrankung-161654/",
+      "published_at": "2026-01-06T17:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Krankenhaus-Barometer : 66 Prozent der Krankenhäuser machen Verluste",
+      "summary_de": "Eine repr&auml;sentative Befragung zeigt, dass zwei Drittel der deutschen Krankenh&auml;user im Jahr 2024 Verluste gemacht haben. Die&nbsp;Deutsche Krankenhausgesellschaft warnt vor &raquo;Wartelistenmedizin&laquo; und fordert die Bundesregierung zum Handeln auf.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/66-prozent-der-krankenhaeuser-machen-verluste-161678/",
+      "published_at": "2026-01-06T16:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Intensivmedizin: Wie werden Brandopfer behandelt?",
+      "summary_de": "Bei dem verheerenden Feuer w&auml;hrend einer Silvesterparty im Skiort Crans-Montana sind 40 Menschen gestorben, 116 wurden schwer verletzt. Da die Behandlung sehr aufwendig ist, wird ein Teil von ihnen auch in Deutschland behandelt.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/wie-werden-brandopfer-behandelt-161679/",
+      "published_at": "2026-01-06T15:45:00+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -372,6 +562,96 @@
       "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZElKcVJFTGRzWHJkUDk0cWlxQmV3WlFDS1laY0xCWlF5bGtUV29GLTVxVmVOVmFKMmY0RTQzcUxGX3Q1NUlxZ3hGX0tGZ0UwSjgyQzVGc0VYY2lqbVRHUWk5V2ZFTUdPQzBMeDJIVzNCQzJqNmxqNDUwdHJ2NDZfUHFyaVJuSXItRGMtT0lIYkxocXNmRlROa3VZd0pYSlI3RE5KekNPd1JEUjJDenQ0LW1TMUpwV3FtWnh5Vlo0R3RsbTd2TDh3Q0xUZ0F5cEVTd1RiVkZmWENCbDFY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-06T15:33:00+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "PZ Briefing: Die Top-News vom 6.1.2026",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-612026-161676/",
+      "published_at": "2026-01-06T15:27:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Wetterlage: Schneeschippen ohne Rückenschmerzen",
+      "summary_de": "Den Weg vor dem Haus von Schnee befreien: F&uuml;r viele ist das derzeit das erste To-do des Tages. Das kann auf den R&uuml;cken gehen. Wie man Hexenschuss und Co vorbeugen kann.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/schneeschippen-ohne-rueckenschmerzen-161677/",
+      "published_at": "2026-01-06T15:22:46+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Stromausfall: »So etwas wäre vermeidbar gewesen«",
+      "summary_de": "Die Stolpe-Apotheke in Berlin-Wannsee war bis heute Morgen von der Stromversorgung abgeschnitten. Inhaberin Bianca&nbsp;Dabbagh sprach mit der PZ &uuml;ber diese schwierigen Stunden und wie die Versorgung gew&auml;hrleistet werden konnte.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/so-etwas-waere-vermeidbar-gewesen-161669/",
+      "published_at": "2026-01-06T15:20:00+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Fentanyl: Start klinischer Studien zu Fentanyl-Impfstoffen",
+      "summary_de": "Das Unternehmen ARMR Sciences beginnt mit Tests eines Impfstoffs zum Schutz vor Fentanyl-&Uuml;berdosierungen. In den USA sterben mittlerweile unter den 18- bis 45-J&auml;hrigen mehr Menschen durch eine Fentanyl-&Uuml;berdosis als durch irgendeine andere Ursache.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/start-klinischer-studien-zu-fentanyl-impfstoffen-161668/",
+      "published_at": "2026-01-06T15:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Vorsorge in Apotheken: Mit Notstrom und Extra-Kühlschrank",
+      "summary_de": "Apotheken m&uuml;ssen Patientinnen und Patienten mit Arzneimitteln versorgen, so lautet der Versorgungsauftrag. Stromausf&auml;lle entbinden nicht von der Pflicht, k&ouml;nnen den Betrieb gleichwohl empfindlich st&ouml;ren. Um so wichtiger sei, sich vorzubereiten, sagt Apotheker Christian Fehske.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/mit-notstrom-und-extra-kuehlschrank-161674/",
+      "published_at": "2026-01-06T14:55:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Brandenburg: Nach Koalitions-Aus bleibt Britta Müller vorerst im Amt",
+      "summary_de": "Die Regierungskoalition aus SPD und BSW in Brandenburg ist beendet, doch Gesundheitsministerin Britta M&uuml;ller (BSW) bleibt vorerst im Amt. Nun sollen Koalitionsgespr&auml;che zwischen der SPD und der CDU folgen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/nach-koalitions-aus-bleibt-britta-mueller-vorerst-im-amt-161673/",
+      "published_at": "2026-01-06T14:32:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Apothekenreform : Interprofessionelle Zusammenarbeit statt Konfrontation",
+      "summary_de": "Der &raquo;Verein demokratischer &Auml;rzt*innen&laquo; und der &raquo;Verein demokratischer Pharmazeutinnen &amp; Pharmazeuten&laquo; beklagen die von &raquo;Standesd&uuml;nkel&laquo; gepr&auml;gte Diskussion &uuml;ber die Apothekenreform. Die Vereine sprechen sich f&uuml;r interprofessionelle Zusammenarbeit in&nbsp;Prim&auml;rversorgungszentren aus.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/interprofessionelle-zusammenarbeit-statt-konfrontation-161671/",
+      "published_at": "2026-01-06T14:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Umsatzprognose Arzneimittel: Die Top Ten 2026",
+      "summary_de": "Das Unternehmen Evaluate Pharma prognostiziert f&uuml;r die zehn umsatzst&auml;rksten Arzneimittel im Jahr 2026 einen weltweiten Umsatz von 198 Milliarden US-Dollar.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-ten-2026-161639/",
+      "published_at": "2026-01-06T14:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Apobank-Chef Matthias Schellenberg: dm-Einstieg als »politischer Weckruf«",
+      "summary_de": "Die Drogeriekette dm ist in den OTC-Versand eingestiegen. F&uuml;r Apobank-CEO Matthias Schellenberg ist das mehr als eine unternehmerische Entscheidung. Schellenberg fordert ein Bekenntnis zur Apotheke von der Politik.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/dm-einstieg-als-politischer-weckruf-161665/",
+      "published_at": "2026-01-06T13:30:00+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -814,6 +1094,16 @@
       "type": "News"
     },
     {
+      "title": "Oberarzt Klinik Niedergelassener Bereich Stellenangebote in Zürich - ärztestellen",
+      "summary_de": "Oberarzt Klinik Niedergelassener Bereich Stellenangebote in Zürich &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOejhkTldFajFHQXVTdVJ3YXljZzVUa1lmTFJGRVVBbGItQlhpNkVtWGV2YXBZejBYbXZ0d19rSW1Uc0VOb0EwbS1oVnhvbFlGRVdaYWgzVnJTY0hxbkQ2bk1mVmNDMkhfUTJvRzhVVERKT2wwbzg3VjhUZFdONEItcWFrcm1BUkNlcVN0dks3c182NWtTcXZSWTU3R3U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-03T17:30:02+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Chefarzt Radiologie Kbo Kliniken des Bezirks Oberbayern Klinik Stellenangebote in Niedersachsen - ärztestellen",
       "summary_de": "Chefarzt Radiologie Kbo Kliniken des Bezirks Oberbayern Klinik Stellenangebote in Niedersachsen &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
@@ -830,16 +1120,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR21RcEY0cjhzUXVBb3V5NWc1dktHeEZTVUxUMTdaVnhLSWM4Uy10d1Y5WjEzQ3U0YnBaYXFkcThUM1MteERsM1FzYzdlYi1Lc0REdXpiV3BXSk9NUnpmU0ExZzJIc0puazBMaEY5QUJCdHE3elNIUzRlc2sta1AtRHdxQVVDOFdxMVhv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-03T12:43:19+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Psychosomatische Medizin und Psychotherapie Kreisverwaltung Bad Dürkheim Klinik Stellenangebote in Schleswig-Holstein | Ärztestellen - ärztestellen",
-      "summary_de": "Psychosomatische Medizin und Psychotherapie Kreisverwaltung Bad Dürkheim Klinik Stellenangebote in Schleswig-Holstein | Ärztestellen &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYk9JWU5NczdBbmNESjU4LWk2YlJ4SzRXWUQyYTU2blJMbHNCMVhCVU1rS2JGWUtVVFlRWUZha1JLRko2X0Vya1U5SmpJV2NBV3V6ZjlfNFVhUUd6ZjVzNGVzLV9Mc19UV25Cd1FlVTVzMHRhN2h0dGhXSzRRSnRteWo4V2NkUWxrNzZhRTZnVXJoMURKaXhHTFgwa2U5ZnpJM1NXbnFlWGlZNVVNVnpZSk1nV2tUU2xSZXZkaktFWlh4bGxqelNEV19rRGFWc3BJWVpUVXlfWklzTzFYNHAwUg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-03T09:44:57+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -904,16 +1184,6 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit - IT-Probleme bei Klinik-Notaufnahme in Dessau behoben - Gesundheit - SZ.de",
-      "summary_de": "Gesundheit - IT-Probleme bei Klinik-Notaufnahme in Dessau behoben - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNlIyNEJjaXdDUUhiUmx3Slc3b2xmekZ4bDVhLTZBLTQ3V0JHdkV3OWVjdlFYZ2Jmal9EOWRLTkVEV2l2cmlIMmR4bnBKTC1xcFRMaWhaNWZUeld4XzV5NkhXZUhEb2ZibG55bUNUSTJYak5UMnJpQm5mMmJZRm1GWXFGQ3ctd1dzMFkzenB6b0tuRmFEVlJpMDhsSFk0RkVFSlkzOWc4VU0tdkVybFNvSWxpQXJNTzFrd0tHTUs3eG9LMGJoZlo1S19ybVRUUi1LcTRha2JaU2lNZE5maTBUdXdwMjN0MmM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-02T17:03:37+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "MHRA approves zapomeran (Kostaive) mRNA COVID-19 vaccine",
       "summary_de": "As with any medicine, the MHRA will keep the safety and effectiveness of zapomeran under close review.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -964,6 +1234,26 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcnlabFJncmRPcjlRN3hQU2VTNVpHbk1iWEtERTliakFtZTFSS1dEeXlub1BpOVZUQjQtSjdfdS1JUVR4SVJNdHl2UFpWei15UHlOY2MyRlZkdHNPaHVQWkJxR2RucXBOQWNyUnBiYVhDUnJLTUdqR0g4aWFEc3FoamN5WXVpMjV6WldzY3RfMjJFd1JOdFZ6bG9QR05QWlJ6VUM3LWc4VjdEbThUSTlremlSbGU0eW80cG5HdGxHWmd5LW9pckpXWXh0djJCRWg1N0xUbnlaVVhYRXg2aHpaNzNWaEtSSmlOWnh2TTlZZ2RtMk80OEY4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-02T11:35:48+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Petition to U.S. FDA proposes alternative pathway for radiology AI",
+      "summary_de": "null",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15775081/petition-to-us-fda-proposes-alternative-pathway-for-radiology-ai",
+      "published_at": "2026-01-02T09:54:22+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Nano-PET tracer appears safe in first-in-human study",
+      "summary_de": "The study sets the stage for larger prospective clinical trials in specific patient cohorts.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15775099/nanopet-tracer-appears-safe-in-firstinhuman-study",
+      "published_at": "2026-01-02T09:07:55+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1425,16 +1715,6 @@
       "type": "News"
     },
     {
-      "title": "Die Versichertenvertretung des TK-Verwaltungsrats - Techniker Krankenkasse",
-      "summary_de": "Die Versichertenvertretung des TK-Verwaltungsrats &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa09DWWhDNkRvNWd4ZTEzRVR6VEVwZWI2UVFQZDI2cUFIcFFJRGpVdC04dUlydEtKWnlxN3B2eC1RYUVkTldwNFRiMTlva2pfZC1NUGtBUnRzeF94TmJrdUcwVE1xZF85M1JNMkdrRUVSU3RaSVFFVkF0OWJZMjNNTXhiOFBOZm44Z3ZRYTBWTmZibzhZbTA0c0hiS1k2SXNSZVVOeS1zZ2dSOXpCQVdHUl9oME5wUHFybExYQ0ZtbUxWaWtCX2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-19T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Pressemitteilung: Zeit für grundlegende Reformen",
       "summary_de": "Mit der heutigen Entscheidung des Bundesrates wird das kleine Sparpaket zum Jahreswechsel die gesetzlichen Krankenkassen etwas entlasten. Der GKV-Schätzerkreis erwartet für dieses Jahr GKV-Gesamtausgaben von rund 347 Mrd. Euro. Im kommenden Jahr werden die Ausgaben um rund 23 Mrd. Euro auf rund 370 Mrd. Euro steigen.",
       "source_name": "GKV-SV Presseinformationen",
@@ -1505,6 +1785,16 @@
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/beep-einigung-vermittlungsausschuss-kleines-sparpaket.html?pk_campaign=rss",
       "published_at": "2025-12-18T10:45:00+00:00",
       "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Seminar: Planetare Gesundheit in Unternehmen - BARMER",
+      "summary_de": "Seminar: Planetare Gesundheit in Unternehmen &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQVVld3dnNVZLR2FyRnJCc3BYajZrYlJGQm53d1pwYjcySVRPM0dlU1lBbkNUOFA5VXV5WExUWDVRQWdBR1djWDhnaVUtbHhhdTBLWEczbjVnekR4RmR1aVVOUGlWQm4xdklraFRXOGpZRWxJQnRKVExhd1RiZ2pWNVJLZTJxa2Y2Nl9aRmRLOXh2MEpQSGt4TjBVbU9NT3IwZkhaZ0I3T2RseGViUkl6RklzVnA3N2h2d0cydDJQX0Y?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-12-18T08:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
