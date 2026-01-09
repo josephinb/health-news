@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-01-09T15:16:45.487100+00:00",
+  "generated_at": "2026-01-09T18:22:43.175122+00:00",
   "window_days": 42,
-  "count": 292,
+  "count": 289,
   "items": [
+    {
+      "title": "Diagnostic Imaging articles: Update",
+      "summary_de": "",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/fda-radiotherapy-system-20-fold-increase-pet-imaging-sensitivity-tumor-detection",
+      "published_at": "2026-01-09T18:06:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Erste Hilfe: Was tun bei Frostbeulen und Erfrierungen?",
+      "summary_de": "Finger, Nase, Ohren: Sind sie stundenlang ohne Schutz Minusgraden ausgesetzt, drohen Erfrierungen &ndash; vor allem bei Wind. Was sind die Warnzeichen, was ist beim Aufw&auml;rmen wichtig und wie werden Erfrierungen medikament&ouml;s behandelt?",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/was-tun-bei-frostbeulen-und-erfrierungen-161782/",
+      "published_at": "2026-01-09T17:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Eisbaden: Wer wagt, gewinnt",
+      "summary_de": "Eisbaden erfreut sich an zahlreichen Ost- und Nordseestr&auml;nden als Neujahrsritual gro&szlig;er Beliebtheit. Auch das Eintauchen im eigenen Eisbadebecken zu Hause liegt aktuell im Trend. Studien deuten auf positive Effekte f&uuml;r die Gesundheit hin.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/wer-wagt-gewinnt-161713/",
+      "published_at": "2026-01-09T17:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "PZ-Management-Kongress: DNA-Beratung in der Apotheke als Präventionsbaustein",
+      "summary_de": "Gentests in der Apotheke? Unbedingt, meint Apothekerin Tatjana Buck. Warum und wie Apotheken ihr Dienstleistungsangebot radikal ausweiten sollten, wird sie beim PZ-Management-Kongress erkl&auml;ren. Erste Einblicke gibt sie im PZ-Interview.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/dna-beratung-in-der-apotheke-als-praeventionsbaustein-161724/",
+      "published_at": "2026-01-09T15:20:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "PZ Briefing: Die Top-News vom 9.1.2026",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-912026-161781/",
+      "published_at": "2026-01-09T15:12:08+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "MRT-Upgrade im Rüsselsheimer GPR-Klinikum - Main-Spitze",
       "summary_de": "MRT-Upgrade im Rüsselsheimer GPR-Klinikum &nbsp;&nbsp; Main-Spitze",
@@ -406,22 +456,22 @@
       "type": "News"
     },
     {
-      "title": "Schnee und Glätte: So ist man mit Rollator sicher unterwegs",
-      "summary_de": "Schuhe mit Ledersohlen, Einkaufsbeutel am Handgelenk, kleine Reifen: All das erh&ouml;ht die Sturzgefahr, wenn man sich mit dem Rollator bei Winterwetter auf den Weg macht. Ein paar Tricks helfen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/so-ist-man-mit-rollator-sicher-unterwegs-161741/",
-      "published_at": "2026-01-08T15:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Stromausfall: Kammer: Versorgung nur mit großem Aufwand gesichert",
       "summary_de": "Welches Fazit zieht die Apothekerkammer Berlin aus dem gro&szlig;fl&auml;chigen Stromausfall im Berliner S&uuml;dwesten? Wie k&ouml;nnen Apotheken besser gesch&uuml;tzt werden?&nbsp;",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/kammer-versorgung-nur-mit-grossem-aufwand-gesichert-161738/",
       "published_at": "2026-01-08T15:00:00+00:00",
       "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Schnee und Glätte: So ist man mit Rollator sicher unterwegs",
+      "summary_de": "Schuhe mit Ledersohlen, Einkaufsbeutel am Handgelenk, kleine Reifen: All das erh&ouml;ht die Sturzgefahr, wenn man sich mit dem Rollator bei Winterwetter auf den Weg macht. Ein paar Tricks helfen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/so-ist-man-mit-rollator-sicher-unterwegs-161741/",
+      "published_at": "2026-01-08T15:00:00+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -576,32 +626,12 @@
       "type": "News"
     },
     {
-      "title": "Leonardo da Vinci: Forscher finden DNA-Spuren auf Zeichnung",
-      "summary_de": "Kann moderne DNA-Analyse k&uuml;nftig R&auml;tsel um Leonardo da Vinci l&ouml;sen? Forschende haben auf einer Zeichnung menschliche Erbsubstanz entdeckt. Doch sind genetische Spuren auf Kunstwerken tats&auml;chlich belastbar?",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/forscher-finden-dna-spuren-auf-zeichnung-161723/",
-      "published_at": "2026-01-08T11:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Vorsatz im neuen Jahr - Abnehmen, aber richtig: So erkennt man unseriöse Diäten - Gesundheit - SZ.de",
       "summary_de": "Vorsatz im neuen Jahr - Abnehmen, aber richtig: So erkennt man unseriöse Diäten - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPY1dNVVI1bld0TUl5bDdIdnZXTjZlVF9OOHR2V2d6anhTcy12YWh5ZG1PSTRnaXBMWEFlSFBzenFJYzR1Qzd4dkpGOG51YkE2TC0yMFlyNzI5bjkwVVlUMEVTVG5qTjFqWXctUUNWUldPTDU1b1dTalFxaTBlMDloRzEtXzdvSHdGcFNIcUFkUDhfcVJ6VUhRX0dsRGRMd0ZUeDlzNFRmcUFqaE95dXB5LXhRaGkyTzVMaUtIb21uUXRfaTdueGtWZkFYSXdZTmlCYUVyeFBYazdIb1hfYVRJWFYxMjlfTlk0b01KeXZVVGwxWS1CdEMzRTRn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-08T10:53:19+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Rolle der Apotheken: »Betroffenen in Notfallsituationen besser helfen können«",
-      "summary_de": "Die ABDA-Vizepr&auml;sidentin Ina Lucas betonte in einem Interview mit dem Fachmagazin &raquo;Gesundheitsbarometer&laquo; der Wirtschaftspr&uuml;fungsgesellschaft KPMG, warum der Wandel der wohnortnahen Versorgung nur mit Apotheken gelingen kann.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/betroffenen-in-notfallsituationen-besser-helfen-koennen-161728/",
-      "published_at": "2026-01-08T10:46:08+00:00",
-      "category": "Versorgung",
       "tags": [],
       "type": "News"
     },
@@ -626,12 +656,12 @@
       "type": "News"
     },
     {
-      "title": "US-Arzneimittelpreise: Nächste Rabattrunde ab Februar",
-      "summary_de": "Der ersten zehn neuen Arzneimittelpreise gelten seit Januar. Seit 2022 darf die bundesstaatliche Krankenversicherung der USA, Medicare, Preise der umsatzst&auml;rksten Originalpr&auml;parate verhandeln. Die n&auml;chsten Beratungen starten laut&nbsp;Fachmagazin &raquo;JAMA&laquo; im Februar.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/naechste-rabattrunde-ab-februar-161721/",
-      "published_at": "2026-01-08T10:00:00+00:00",
-      "category": "Wirtschaft",
+      "title": "Theranostic pair ready for testing in lung cancer",
+      "summary_de": "Gallium-68 (Ga-68) SSO120 PET/CT successfully visualized lesions in patients during and after chemotherapy.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/nuclear-medicine/article/15814194/theranostic-pair-ready-for-testing-in-lung-cancer",
+      "published_at": "2026-01-08T09:48:07+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -724,16 +754,6 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/access-to-crisis-care-via-nhs-111---mental-health/november-2025",
       "published_at": "2026-01-08T09:31:01+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Abnehmmittel absetzen: Zurück zum Ausgangsgewicht mit 0,4 kg pro Woche",
-      "summary_de": "Wenn Abnehmmittel abgesetzt werden, hat man sehr wahrscheinlich in weniger als zwei Jahren wieder sein Ausgangsgewicht auf den H&uuml;ften &ndash; und das schneller als nach herk&ouml;mmlichen Abnehmprogrammen. Auch Cholesterin und Blutdruck steigen wieder.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/zurueck-zum-ausgangsgewicht-mit-04-kg-pro-woche-161667/",
-      "published_at": "2026-01-08T09:30:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -1040,16 +1060,6 @@
       "type": "News"
     },
     {
-      "title": "Pharma-Streit: Bayer verklagt Biontech und Pfizer wegen Patenten für Corona-Impfstoffe - Handelsblatt",
-      "summary_de": "Pharma-Streit: Bayer verklagt Biontech und Pfizer wegen Patenten für Corona-Impfstoffe &nbsp;&nbsp; Handelsblatt",
-      "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSEx1ellqNVJBVUpFU2tQcnViY0Utc3p1MHRnMU5nSC1ORUE4aXZDaWxNV0ZId2lYS1pyeWtwd0JWYWR4VkZUZm1hbkVBR2VoSXhFY3RiRHZ3LThwZ05tU3NGbVF5SXRTV2tPeGZ2ZTF0S1VmanlWOFI2c0RrVktwNy1MZU9hWF9HcXdoTVJ4QlpIX1hiVWd3ZHpnTDdpTmFOejhKczlqQjB3bVllN25UWi1CeUdhRm8xNVNVVGt0YlZEUDg2X282ZlJNTHVLaWFRNkEtbHlnRHI2ZGNnMk9MRWExWG9FalE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-07T06:21:54+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit: DRK und ADAC suchen Erstspender in Berlin - DIE ZEIT",
       "summary_de": "Gesundheit: DRK und ADAC suchen Erstspender in Berlin &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -1156,16 +1166,6 @@
       "source_url": "https://www.diagnosticimaging.com/view/psma-pet-parameters-help-predict-toxicity-and-outcomes-patients-mcrpc-",
       "published_at": "2026-01-06T19:26:00+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Jeder vierte Patient wartet mehr als 30 Tage: Wie man schneller einen Facharzt-Termin bekommt - RP Online",
-      "summary_de": "Jeder vierte Patient wartet mehr als 30 Tage: Wie man schneller einen Facharzt-Termin bekommt &nbsp;&nbsp; RP Online",
-      "source_name": "\"site:rp-online.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZElKcVJFTGRzWHJkUDk0cWlxQmV3WlFDS1laY0xCWlF5bGtUV29GLTVxVmVOVmFKMmY0RTQzcUxGX3Q1NUlxZ3hGX0tGZ0UwSjgyQzVGc0VYY2lqbVRHUWk5V2ZFTUdPQzBMeDJIVzNCQzJqNmxqNDUwdHJ2NDZfUHFyaVJuSXItRGMtT0lIYkxocXNmRlROa3VZd0pYSlI3RE5KekNPd1JEUjJDenQ0LW1TMUpwV3FtWnh5Vlo0R3RsbTd2TDh3Q0xUZ0F5cEVTd1RiVkZmWENCbDFY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-06T15:33:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1293,26 +1293,6 @@
       "type": "News"
     },
     {
-      "title": "Adding endovascular recanalization does not improve sNAIAO treatment",
-      "summary_de": "Adding endovascular recanalization does not improve outcomes for symptomatic nonacute intracranial artery occlusion (sNAIAO).",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15800935/adding-endovascular-recanalization-does-not-improve-snaiao-treatment",
-      "published_at": "2026-01-06T07:08:03+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Spinal manipulative therapy for adults with chronic low back pain",
-      "summary_de": "Spinal manipulative therapy for adults with chronic low back pain",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008112.pub3",
-      "published_at": "2026-01-06T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
       "title": "Total and partial knee arthroplasty versus non‐surgical interventions of the knee for moderate to severe osteoarthritis",
       "summary_de": "Total and partial knee arthroplasty versus non‐surgical interventions of the knee for moderate to severe osteoarthritis",
       "source_name": "Cochrane Library RSS feed.",
@@ -1327,6 +1307,16 @@
       "summary_de": "Atherectomy for peripheral arterial disease",
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006680.pub4",
+      "published_at": "2026-01-06T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Spinal manipulative therapy for adults with chronic low back pain",
+      "summary_de": "Spinal manipulative therapy for adults with chronic low back pain",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008112.pub3",
       "published_at": "2026-01-06T00:00:00+00:00",
       "category": "Studie",
       "tags": [],
@@ -1408,16 +1398,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZ3F2bWwtWHB2bjJKUXpiQm1pTUZYVlBGaV9namNta2s2ckIzNmRfME04VV9jcVBjU2toQ3MwZmJUVXVJOE1SOEV6Qm94Ulliam9URUtVaC1tejNoR3diSThBbm5qakJVME5aa0tiREVfU01KWHAxa1VKTjF4Tlp1Y0sxZkhOS1VMX241eEFjNlBVVUFPc1dGanlNb2JjbGtxbmwtS3g0S2lMZGFiUXdRa3FrY3BPemRkc3pUMUtyTGVwU3hmMTkwdUg5TUVIalA3NUFYNnU3c2VOOWVXTDlPbnZoVFZRTnAtR3cwOQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-05T12:46:03+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Für gesunde Haut - Sonniger Tag in den Bergen? UV-Schutz nicht vergessen - Gesundheit - SZ.de",
-      "summary_de": "Für gesunde Haut - Sonniger Tag in den Bergen? UV-Schutz nicht vergessen - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeDZrTXVFQmRLOXI0bzBGLVAzdl9faWhGNUlMTS02ZjNWU21uSm4yOWhwWm5aaHlTVGk1QUlOVEMxNmdTbkMxdHRJYkZsOGhSOGVQQXRBQm9UT3lSS0pkWXlJbVdTUUFLRG5rNTlBcFBuZGZVek9fb0Fwbm1lbzNFZ1J0S3NmTjJBMVN4UGFhTDJmaXdfY2R1bDVMemE2SnlHN1NseE9UVkRBWnVSQ0dpUmMwZ3hpZV9mUFFaZVI5Y1Btc0lvWHFMWm5QYnJzTkVrVW1QX2NwZXZmaXdyVWpCMTB1UmxUb2lybDFiZWRhNU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-05T12:19:28+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1588,6 +1568,16 @@
       "type": "News"
     },
     {
+      "title": "Oberarzt Klinik Niedergelassener Bereich Stellenangebote in Zürich - ärztestellen",
+      "summary_de": "Oberarzt Klinik Niedergelassener Bereich Stellenangebote in Zürich &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOejhkTldFajFHQXVTdVJ3YXljZzVUa1lmTFJGRVVBbGItQlhpNkVtWGV2YXBZejBYbXZ0d19rSW1Uc0VOb0EwbS1oVnhvbFlGRVdaYWgzVnJTY0hxbkQ2bk1mVmNDMkhfUTJvRzhVVERKT2wwbzg3VjhUZFdONEItcWFrcm1BUkNlcVN0dks3c182NWtTcXZSWTU3R3U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-03T17:30:02+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Chefarzt Radiologie Kbo Kliniken des Bezirks Oberbayern Klinik Stellenangebote in Niedersachsen - ärztestellen",
       "summary_de": "Chefarzt Radiologie Kbo Kliniken des Bezirks Oberbayern Klinik Stellenangebote in Niedersachsen &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
@@ -1658,16 +1648,6 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit - IT-Probleme bei Klinik-Notaufnahme in Dessau behoben - Gesundheit - SZ.de",
-      "summary_de": "Gesundheit - IT-Probleme bei Klinik-Notaufnahme in Dessau behoben - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNlIyNEJjaXdDUUhiUmx3Slc3b2xmekZ4bDVhLTZBLTQ3V0JHdkV3OWVjdlFYZ2Jmal9EOWRLTkVEV2l2cmlIMmR4bnBKTC1xcFRMaWhaNWZUeld4XzV5NkhXZUhEb2ZibG55bUNUSTJYak5UMnJpQm5mMmJZRm1GWXFGQ3ctd1dzMFkzenB6b0tuRmFEVlJpMDhsSFk0RkVFSlkzOWc4VU0tdkVybFNvSWxpQXJNTzFrd0tHTUs3eG9LMGJoZlo1S19ybVRUUi1LcTRha2JaU2lNZE5maTBUdXdwMjN0MmM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-02T17:03:37+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "MHRA approves zapomeran (Kostaive) mRNA COVID-19 vaccine",
       "summary_de": "As with any medicine, the MHRA will keep the safety and effectiveness of zapomeran under close review.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1718,16 +1698,6 @@
       "source_name": "\"site:dak.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNDFQdkhHZVJzclZTTDhjN0hYNjJWNnc3aUlSSnFuSEZ6aDA1YktTQXAtUkQ3TTFJN1Z4V2oxc3VYejJFY3ViRTl6YmRZWktJMldyUXFyRVFNV3pjM2dlMGliZlpVOVFtX0ctZ1pWakhjRWdnUUFVUjlMUW1Kcnk2NlhiUThveEJjRGF3d0gyVXlNbGRRWlczV1pvODZzaWsxaDVHLWYxZ1BPNEZMRFNlaHk3NjM5NklWTnVzTmJ1Mk1sNzdtNEM1MGg2NmFrR1NPUmN0aUxiQ0wzZE5zdndJcUQtWTctQU45Tk1nRjE5TjM1Vno4d1BV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-02T08:11:42+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Brustkrebs-OP: Brusterhalt oder Mastektomie – Optionen im Überblick - Techniker Krankenkasse",
-      "summary_de": "Brustkrebs-OP: Brusterhalt oder Mastektomie – Optionen im Überblick &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSWdaSHRBMm9oQkNpdXJjdzBBVkVNdjVoYnBIX3NzYTVwVzdTeGp2TmlFS05OeFRwMVc5cFVTNlNPZU5FLVV4RmJwLVlSbldwdldNZFlub05Cd0xSUXc5Q1hydEh6LW15TUVYdWdlWlZieU9vOUtkNGpLNkIzT0ZmMHQ1QzYyeHhRbTJzSWlqeWppa0FWSUhLS0FHNngyUVVwUVFielVaU3l3a1RpQVg1RS1UeU1OaFp6dk11ZEhkMWxxcWY2cVV6SkVwaU9ZczYtV3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-02T08:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -2124,16 +2094,6 @@
       "source_name": "Diagnostic Imaging articles",
       "source_url": "https://www.diagnosticimaging.com/view/radiology-research-recap-highlights-rsna-2025",
       "published_at": "2025-12-18T17:24:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/study-clinical-pet-ct-findings-lymph-node-metastasis-prediction-lung-cancer-patients",
-      "published_at": "2025-12-18T12:54:00+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -2793,6 +2753,16 @@
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2025/anhoerung-notfallreform-referentenentwurf.html?pk_campaign=rss",
       "published_at": "2025-12-10T08:30:00+00:00",
       "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Walking & Nordic Walking: Technik, Vorteile & Ausrüstung - Techniker Krankenkasse",
+      "summary_de": "Walking & Nordic Walking: Technik, Vorteile & Ausrüstung &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWE1MeVdJVnhNZzBZbGR4ZVFSRkpya0IxN3dXaWRVX0JEQnhoYVliMWVTVUZwMVJsZGIyRldKUS0wTUd0MTZWa1luR1AwRF9WYjN0a0tSUno0THFGUHpEZVZOQmQ1RnFvSnFaY1NtR1RfMEpZUHpFOUJwT0lRN1NfSGtPakNFbmdoTlBORTF0VUJsSDFrMzNIbEpaa2ppUjVnZXFKTnY4TmFMM1VPYmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-12-10T08:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
