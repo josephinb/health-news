@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-01-09T01:11:57.414274+00:00",
+  "generated_at": "2026-01-09T03:59:30.330826+00:00",
   "window_days": 42,
-  "count": 288,
+  "count": 287,
   "items": [
     {
       "title": "Corona - Covid-Arznei illegal verkauft: Haftstrafe für Apothekerin - Bayern - SZ.de",
@@ -10,6 +10,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNFR0X0g5TWNoa1U0NXVaQWp4d0JvZHVvMzktRjhZN1RSRV9jdzAzLTVpNnJQbWpLSE5QeDJ5SzFZZTRNOWl0MzBnWkV6ZXg2T2NDSnpPN2xYV0VqV1FobEwzQmVZU0JzWXhoTWY3bFdzMDBrYUZ0T0VCQ3ZOdGZSVWhBVDIwWVJEVm5MLVNEU2plRFUxODJhUGthek83bm15dFFvamRwNS1JckJQVDlVdVV6ZGxZQ016dWV2YTN2ZVU2TkhuNXgyUk9DU2tsM3cweWpBUUdMSjg0VldvN1JfMU1qbw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-08T20:10:11+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "LLMs in radiology may find opening in updated FDA guidance",
+      "summary_de": "The U.S. FDA has released updated guidance that could pave the way for wider use of large language models (LLMs) in radiology.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/imaging-informatics/enterprise-imaging/clinical-decision-support/article/15814168/llms-in-radiology-may-find-opening-in-updated-fda-guidance",
+      "published_at": "2026-01-08T18:48:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -354,6 +364,16 @@
       "type": "News"
     },
     {
+      "title": "Theranostic pair ready for testing in lung cancer",
+      "summary_de": "Gallium-68 (Ga-68) SSO120 PET/CT successfully visualized lesions in patients during and after chemotherapy.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/nuclear-medicine/article/15814194/theranostic-pair-ready-for-testing-in-lung-cancer",
+      "published_at": "2026-01-08T09:48:07+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "US-Regierung veröffentlicht Ernährungsrichtlinie für mehr Gesundheit - Der Spiegel",
       "summary_de": "US-Regierung veröffentlicht Ernährungsrichtlinie für mehr Gesundheit &nbsp;&nbsp; Der Spiegel",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
@@ -461,6 +481,16 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/philippi-haelt-menstruationsurlaub-fuer-stigmatisierend-161725/",
       "published_at": "2026-01-08T09:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "2025's budget bill could lead to more than 1M missed cancer screenings",
+      "summary_de": "The bill reduces Medicaid funding and could 'disproportionately impact young and socially vulnerable enrollees,' researchers wrote...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/practice-management/legislation/article/15814177/2025s-budget-bill-could-lead-to-more-than-1m-missed-cancer-screenings",
+      "published_at": "2026-01-08T09:03:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
@@ -1028,8 +1058,8 @@
       "type": "News"
     },
     {
-      "title": "„bunt statt blau“ 2026: DAK-Gesundheit und Schulministerin Feller starten Aufklärungskampagne gegen Alkoholmissbrauch - DAK",
-      "summary_de": "„bunt statt blau“ 2026: DAK-Gesundheit und Schulministerin Feller starten Aufklärungskampagne gegen Alkoholmissbrauch &nbsp;&nbsp; DAK",
+      "title": "„bunt statt blau“ 2026: DAK-Gesundheit und Schulministerin Feller starten Aufklärungskampagne gegen Alkoholmissbrauch - dak.de",
+      "summary_de": "„bunt statt blau“ 2026: DAK-Gesundheit und Schulministerin Feller starten Aufklärungskampagne gegen Alkoholmissbrauch &nbsp;&nbsp; dak.de",
       "source_name": "\"site:dak.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPTXZ4WGtvdmtFb29zYlV5MVZhaUtkdDZXUHZHd0poNk9zczVtS0R5OFBaZ1lDUTVEZkVoYlZrWmlhQS1MOU1aX2M1UmlERGtHYmFfTXdhd0kxMUtQM3RKLUR6VHpnOW5NU2xfZzlPTlJkbVNjRnNUVEpobEdLenRtQzhaLXk0UmNfczQtRUk4RUUyeXhQSHUwWE9zVG01UWo3UUJhd1NXaVAwend1WE9rMUJEM1dEWVkxMlBDQTcxODdJOTUzLUs0VXNDZzBKaFUxRGk3cHBsdUJUS0hPUm5hakF2OUxEeDlWbFJTR3hMNm5wX1JDaWlCQVdmMXhwdmNYcmJPMDlSZDdUT3lmRm1ZdHRzYlZmX0xXSWh6SjFOYy1qcUlBeVlUT0N6emo0Tlk5T3hJVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-06T10:10:15+00:00",
@@ -1127,16 +1157,6 @@
       "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15800945/gpt4o-bests-radiologists-for-protocoling-abdominal-and-pelvic-ct-scans",
       "published_at": "2026-01-06T07:28:48+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Adding endovascular recanalization does not improve sNAIAO treatment",
-      "summary_de": "Adding endovascular recanalization does not improve outcomes for symptomatic nonacute intracranial artery occlusion (sNAIAO).",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15800935/adding-endovascular-recanalization-does-not-improve-snaiao-treatment",
-      "published_at": "2026-01-06T07:08:03+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1321,26 +1341,6 @@
       "type": "News"
     },
     {
-      "title": "LLMs help automate PI-RADS classification from MRI reports",
-      "summary_de": "The study findings could translate to better patient care, as correct classification of prostate lesions is key to treatment.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15775459/llms-help-automate-pirads-classification-from-mri-reports",
-      "published_at": "2026-01-05T08:46:15+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "What are Pluvicto discontinuation rates in a real-world setting?",
-      "summary_de": "There is a critical need to predict nonresponders and potential discontinuers prior to treatment.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/radiation-oncology-therapy/article/15775453/what-are-pluvicto-discontinuation-rates-in-a-realworld-setting",
-      "published_at": "2026-01-05T08:27:13+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Pressemitteilung: GKV-Versichertenbefragung: Jeder dritte Versicherte unzufrieden mit Wartezeit auf Facharzttermin",
       "summary_de": "Gesetzlich Versicherte wünschen sich einen schnelleren Zugang zu Behandlungen in fachärztlichen Praxen, in der hausärztlichen Versorgung sind sie mehrheitlich zufrieden. Dies ist ein Ergebnis der repräsentativen GKV-Versichertenbefragung 2025, die im Auftrag des GKV-Spitzenverbandes durchgeführt wurde.",
       "source_name": "GKV-SV Presseinformationen",
@@ -1411,16 +1411,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcE9hekNJa1hlSEROQnprR1ZpbFNkQWp2VTNEOW5TSVphcG5HWWxnTmRFamtyUmRWVHR6ZWFMMUR3RTc3UzllRTh1bmRmei01N1NKTHNYMmxjbkRBQU1hZmpCQll1WTMzcnlSYUFXUEdXby1MVmNnQnNaT1FNLW53V3VVVEFzb0VsNnVuYUJqa0J0d3hrUFJSelJGNUZ0ZThkQU1Cblg0dTRxXzRxd1ZVVlRsdmc0OC12YkRwY3VHc2xJd2VsZXl6Vl9GMzhzRG05eWxmV0NhaTFkRTAwME5LMXJFWVA4NlVYT0MzRnBCTVBQYno1?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-04T02:30:07+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Kinderradiologie Klinik Industrie / Dienstleister Stellenangebote in Baden-Württemberg - ärztestellen",
-      "summary_de": "Kinderradiologie Klinik Industrie / Dienstleister Stellenangebote in Baden-Württemberg &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX0VkWFhtejlYTDBkZ1RMNEdyamFXNWdhUkhNWXd3dS1UUWlTdnNYYjZpaEdGSWx2T3huSnBkaWdwTl9RUVJtVlUzNm9vcmZ3TFk1TktKQzlTVGVPd3NtVkRqZWMyS3ZUOS14MVJzMXFZaWs0RHJKQlVHdVMtU0kySERyWUdoajA2cHdxS1Bfa3E1cjBvYi0wdWhCQ2VKVnBuTG9fTWFNRExpcF9Ja2p1VzVsM2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-03T23:19:12+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1621,8 +1611,8 @@
       "type": "News"
     },
     {
-      "title": "Kampagne gegen Komasaufen: DAK-Gesundheit und Bundesdrogenbeauftragter starten „bunt statt blau“ - DAK",
-      "summary_de": "Kampagne gegen Komasaufen: DAK-Gesundheit und Bundesdrogenbeauftragter starten „bunt statt blau“ &nbsp;&nbsp; DAK",
+      "title": "Kampagne gegen Komasaufen: DAK-Gesundheit und Bundesdrogenbeauftragter starten „bunt statt blau“ - dak.de",
+      "summary_de": "Kampagne gegen Komasaufen: DAK-Gesundheit und Bundesdrogenbeauftragter starten „bunt statt blau“ &nbsp;&nbsp; dak.de",
       "source_name": "\"site:dak.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNDFQdkhHZVJzclZTTDhjN0hYNjJWNnc3aUlSSnFuSEZ6aDA1YktTQXAtUkQ3TTFJN1Z4V2oxc3VYejJFY3ViRTl6YmRZWktJMldyUXFyRVFNV3pjM2dlMGliZlpVOVFtX0ctZ1pWakhjRWdnUUFVUjlMUW1Kcnk2NlhiUThveEJjRGF3d0gyVXlNbGRRWlczV1pvODZzaWsxaDVHLWYxZ1BPNEZMRFNlaHk3NjM5NklWTnVzTmJ1Mk1sNzdtNEM1MGg2NmFrR1NPUmN0aUxiQ0wzZE5zdndJcUQtWTctQU45Tk1nRjE5TjM1Vno4d1BV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-02T08:11:42+00:00",
@@ -2233,12 +2223,12 @@
       "type": "News"
     },
     {
-      "title": "Mirantus - Augenuntersuchung mit telemedizinischer Auswertung in Sachsen - Techniker Krankenkasse",
-      "summary_de": "Mirantus - Augenuntersuchung mit telemedizinischer Auswertung in Sachsen &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaGZ2SmdpRDFkWG10Q2FxT0w5bl93WmpDV3RFYnR5Z0dXUlg0U0h1ZFNXMzZucVNJQW5lYzRzdWFOblBmSnpJWGZnN1hqSXFxa1U3Zjg3Ykh3Rkt3WVRoX05vWnB4Y3Z1TlRQMWlGaUZSbjJ6dlFBWl8xbkxHYXlyTkhUWmRhV0NSdGw5NGZXTUdsTGtEYmFNODRZYWxUODloVVFnSDZYa25JSWN1OWpGeXVaMmdVY2ZQdWZObEd2YmlodzBDSTNWYW9MWnFocmZGNjFYeEdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "title": "Erweitert und modernisiert: Radiologie am Herz-Jesu-Krankenhaus offiziell eröffnet - Fuldaer Zeitung",
+      "summary_de": "Erweitert und modernisiert: Radiologie am Herz-Jesu-Krankenhaus offiziell eröffnet &nbsp;&nbsp; Fuldaer Zeitung",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWG9TMnk3Uml5TWU2ZEFKOXdZMnhFelYwV1lzN1F2OGdHWlFJTzNpQXlQU19pTDZvbU1zVVJqT1lnc3prZ1RwcHFZTkZscE9SV3lEU3FJSHh1Tzk4YUN4SFRIOW04NXpLMlM2ME9GbHg4X3ZaM0FtWlhEWWxoWXJxZ2pkZXhlVHBsR3I1cjVPUkdHdGNhMWxCM2tIdkZiSXpJd2t1MHdYTzdBamZzSTg1MHExYUN0LXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-12-17T08:00:00+00:00",
-      "category": "News",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
