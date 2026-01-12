@@ -1,8 +1,182 @@
 {
-  "generated_at": "2026-01-12T06:27:16.143750+00:00",
+  "generated_at": "2026-01-12T09:26:00.925904+00:00",
   "window_days": 42,
-  "count": 274,
+  "count": 273,
   "items": [
+    {
+      "title": "Clinical trials for medicines: notifiable trials",
+      "summary_de": "Guidance on clinical trials that are categorised as ‘notifiable’.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-notifiable-trials",
+      "published_at": "2026-01-12T09:00:01+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Clinical trials for medicines: labelling",
+      "summary_de": "Guidance on labelling for medicinal products used in clinical trials.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-labelling",
+      "published_at": "2026-01-12T09:00:01+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Guidance: International Council for Harmonisation (ICH) E6R3 Annotations",
+      "summary_de": "Information to help comply with ICH E6(R3), if you are running clinical trials in the UK.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/international-council-for-harmonisation-ich-e6r3-annotations",
+      "published_at": "2026-01-12T09:00:01+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Clinical trials for medicines: modifying a clinical trial approval",
+      "summary_de": "Guidance on the various types of modifications that can be made to a clinical trial approval.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-modifying-a-clinical-trial-approval",
+      "published_at": "2026-01-12T09:00:01+00:00",
+      "category": "Studie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "Studie"
+    },
+    {
+      "title": "Guidance: Clinical trials that include an in vitro diagnostic device",
+      "summary_de": "Guidance on submitting an application for approval of a clinical trial that includes an in vitro diagnostic device.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/clinical-trials-that-include-an-in-vitro-diagnostic-device",
+      "published_at": "2026-01-12T09:00:01+00:00",
+      "category": "Studie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "Studie"
+    },
+    {
+      "title": "Clinical trials for medicines: ending a clinical trial",
+      "summary_de": "Guidance on the process for ending a clinical trial.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-ending-a-clinical-trial",
+      "published_at": "2026-01-12T09:00:01+00:00",
+      "category": "Studie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "Studie"
+    },
+    {
+      "title": "Clinical trials for medicines: collection, verification, & reporting of safety events",
+      "summary_de": "Guidance on the collection, verification, and reporting of safety events in clinical trials of an investigational medicinal product.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-collection-verification-reporting-of-safety-events",
+      "published_at": "2026-01-12T09:00:01+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Guidance: Common issues identified during clinical trial applications",
+      "summary_de": "This guidance identifies common issues with validation and assessment of clinical trial applications and how to avoid them.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/common-issues-identified-during-clinical-trial-applications",
+      "published_at": "2026-01-12T09:00:01+00:00",
+      "category": "Studie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "Studie"
+    },
+    {
+      "title": "Clinical trials for medicines: expert advice",
+      "summary_de": "Clinical trial applications that need expert advice from a specialist group or committee.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-expert-advice",
+      "published_at": "2026-01-12T09:00:01+00:00",
+      "category": "Studie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "Studie"
+    },
+    {
+      "title": "Guidance: Archiving and retention of clinical trial records",
+      "summary_de": "Information on clinical trial record retention and archiving requirements including requirements for ownership, data integrity, and transitional provisions.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/archiving-and-retention-of-clinical-trial-records",
+      "published_at": "2026-01-12T09:00:01+00:00",
+      "category": "Studie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "Studie"
+    },
+    {
+      "title": "Clinical trials regulations: transitional arrangements",
+      "summary_de": "Guidance on transitional arrangements for the Clinical Trials Regulations.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/clinical-trials-regulations-transitional-arrangements",
+      "published_at": "2026-01-12T09:00:01+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Clinical trials for medicines: apply for approval in the UK",
+      "summary_de": "How to apply for a clinical trial from 28 April 2026, including eligibility, documentation and registration in a public registry.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-apply-for-approval-in-the-uk",
+      "published_at": "2026-01-12T09:00:00+00:00",
+      "category": "Studie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "Studie"
+    },
+    {
+      "title": "Jahresauftaktklausur: SPD-Fraktion will das Gesundheitssystem reformieren",
+      "summary_de": "In einem Pressestatement sprach der SPD-Fraktionsvorsitzende Matthias Miersch von einer sehr erfolgreichen Jahresauftaktklausur. Seit gestern tagt die SPD-Fraktion. Auch gesundheitliche Themen sowie die Apothekenreform wurden diskutiert und sind im Beschlusspapier enthalten, das der PZ vorliegt.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/spd-fraktion-will-das-gesundheitssystem-reformieren-161784/",
+      "published_at": "2026-01-12T08:18:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gentherapie am Auge: Zwei Vektoren – eine Therapie",
+      "summary_de": "F&uuml;r die Stargardt-Erkrankung, eine&nbsp;erbliche Kinderblindheit, ist ein sehr gro&szlig;es defektes Gen verantwortlich. Im Rahmen einer klinischen Studie wurde nun erstmals ein Patient mit einem Gentherapeutikum behandelt, das aus zwei Vektoren besteht.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/zwei-vektoren-eine-therapie-161774/",
+      "published_at": "2026-01-12T08:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Pflegebudgets im Krankenhaus: Kliniken weisen Betrug-Vorwürfe scharf zurück - FAZ",
+      "summary_de": "Pflegebudgets im Krankenhaus: Kliniken weisen Betrug-Vorwürfe scharf zurück &nbsp;&nbsp; FAZ",
+      "source_name": "\"site:faz.net medizin\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaWZTUkxkQkRKVmNGVEZ3RDFlcUlUcmU4SC1BZjAzeHFXTkRrUVlVQk9kR05HaDNrUzkzTFpTcUZBWEdreEpUV3Z2QmM5Zi03T2o2eVhSd3NEbUFQbktoMWd1M3gyZ3RDOXlUSk1mbGlKbWhraTh3YXE2U1dKbFNVb3NyZDByQWp1a1NJaGZJdjVlZ1BQbTllU282bnBqUW81ODN6SmpCTWNFQW9pc3l2eUwxYko0aDBXWHVCOVo5WjhZazVFcE1manU1WDZLUEdW?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-12T06:00:23+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Hangry-Effekt widerlegt: Wie Hunger und Stimmung zusammenhängen",
+      "summary_de": "Der sogenannte &raquo;Hangry&laquo;-Effekt entsteht nicht durch sinkende Glucosewerte, sondern durch das bewusste Wahrnehmen von Hunger. Entscheidend f&uuml;r die Laune ist also, wie gut wir innere K&ouml;rpersignale wahrnehmen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/wie-hunger-und-stimmung-zusammenhaengen-161685/",
+      "published_at": "2026-01-12T06:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Neues CT-Gerät: Radiologie 360° am Evangelischen Krankenhaus Bergisch Gladbach erweitert Kapazitäten - LokalKlick.eu",
       "summary_de": "Neues CT-Gerät: Radiologie 360° am Evangelischen Krankenhaus Bergisch Gladbach erweitert Kapazitäten &nbsp;&nbsp; LokalKlick.eu",
@@ -13,6 +187,28 @@
       "tags": [
         "Europa"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Guidance: Declaration of Helsinki and Clinical Trial Regulations alignment",
+      "summary_de": "Information on the alignment of the amended UK clinical trial legislation with the Declaration of Helsinki, prioritising UK law where conflicts arise.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/declaration-of-helsinki-and-clinical-trial-regulations-alignment",
+      "published_at": "2026-01-12T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "Studie"
+    },
+    {
+      "title": "Guidance: Clinical Trials Regulations enforcement provisions",
+      "summary_de": "Information about Clinical Trials Regulations outlining expanded enforcement provisions, offences, and compliance requirements for sponsors and investigators.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/clinical-trials-regulations-enforcement-provisions",
+      "published_at": "2026-01-12T00:00:00+00:00",
+      "category": "Europa",
+      "tags": [],
       "type": "News"
     },
     {
@@ -698,32 +894,12 @@
       "type": "News"
     },
     {
-      "title": "Vorwurf der Patentverletzung: Bayer verklagt Impfstoffhersteller",
-      "summary_de": "Weil sie mit ihren mRNA-Vakzinen Patente verletzt haben sollen, hat der Leverkusener Agrar- und Pharmakonzern Bayer die Corona-Impfstoffhersteller Biontech, Pfizer und Moderna verklagt. Im Fokus steht eine &auml;ltere Technologie der Bayer-Tochter Monsanto.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/bayer-verklagt-impfstoffhersteller-161736/",
-      "published_at": "2026-01-08T13:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Statutory guidance: MHRA fees",
       "summary_de": "Fees payable to the MHRA from 2025.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
       "source_url": "https://www.gov.uk/government/publications/mhra-fees",
       "published_at": "2026-01-08T12:53:58+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "SGLT-2-Hemmer: Vorteile in puncto diabetischer Fuß",
-      "summary_de": "Forschende aus D&auml;nemark haben untersucht, wie h&auml;ufig ein diabetisches Fu&szlig;syndrom unter Therapie mit SGLT-2-Hemmern oder GLP-1-Agonisten auftritt. Bei einer Gruppe kam es zu weniger Nervensch&auml;den.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/vorteile-in-puncto-diabetischer-fuss-161735/",
-      "published_at": "2026-01-08T12:38:08+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -778,26 +954,6 @@
       "type": "News"
     },
     {
-      "title": "Regierungskrise in Brandenburg: Britta Müller tritt aus BSW aus",
-      "summary_de": "Nach dem Bruch der SPD/BSW-Koalition in Brandenburg treten Gesundheitsministerin Britta M&uuml;ller und Verkehrsminister Detlef Tabbert aus dem B&uuml;ndnis Sahra Wagenknecht (BSW) aus.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/britta-mueller-tritt-aus-bsw-aus-161732/",
-      "published_at": "2026-01-08T11:38:08+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Eltern aufgepasst - Knopfzellen: Unterschätztes Risiko für Kinder im Haushalt - Gesundheit - SZ.de",
-      "summary_de": "Eltern aufgepasst - Knopfzellen: Unterschätztes Risiko für Kinder im Haushalt - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMzNuVU1wcVRuWUFmcjVPS2pfT0pXSjc4V3ZOVmstMGN5S1B4RDd0VUM5S0ZDZ2dhTnhQTms0ZnF2VVA1UFFEc05qRkhuODhDcDVCUWdRakRiMFZ2RmNYSUloQjFHcG9UV1RnM05vN2stSUxvUGVIb1JPRmVvdVNTWkk5ODdPcmtaWWR4SDlBRUpXY3g1YmhOWnh5UVZHbWRtemRmMW5YcXVRZy0wVVhnUlBoZ0liV1BpNUlUWFpzREdENWRfU2NKNDVaU0Zwbk5KYlhHdkJwaVpmbldyMkh6QTl4N2RDMV9zSVpGdk9YRmdfdEItZ0x1WQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-08T11:15:43+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Improving Information Supplied with Gabapentinoids (Pregabalin/Gabapentin), Benzodiazepines and Z-Drugs",
       "summary_de": "The MHRA has reviewed the warnings regarding addiction, dependence, withdrawal, and tolerance for gabapentin, pregabalin, benzodiazepines, and z-drugs. The findings (detailed in the Public Assessment Report) were that it was necessary to strengthen these warnings in the product information and on packaging to better inform healthcare professionals and patients of these known risks.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -824,16 +980,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPY1dNVVI1bld0TUl5bDdIdnZXTjZlVF9OOHR2V2d6anhTcy12YWh5ZG1PSTRnaXBMWEFlSFBzenFJYzR1Qzd4dkpGOG51YkE2TC0yMFlyNzI5bjkwVVlUMEVTVG5qTjFqWXctUUNWUldPTDU1b1dTalFxaTBlMDloRzEtXzdvSHdGcFNIcUFkUDhfcVJ6VUhRX0dsRGRMd0ZUeDlzNFRmcUFqaE95dXB5LXhRaGkyTzVMaUtIb21uUXRfaTdueGtWZkFYSXdZTmlCYUVyeFBYazdIb1hfYVRJWFYxMjlfTlk0b01KeXZVVGwxWS1CdEMzRTRn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-08T10:53:19+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Clinical investigations for medical devices",
-      "summary_de": "How to notify the MHRA of your intention to carry out a clinical investigation for medical devices.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/guidance/notify-mhra-about-a-clinical-investigation-for-a-medical-device",
-      "published_at": "2026-01-08T10:45:10+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -990,16 +1136,6 @@
       "type": "Studie"
     },
     {
-      "title": "Professor Sir Aziz Sheikh: Towards next-generation pharmacovigilance capabilities for the UK",
-      "summary_de": "As medicines and medical technologies become more complex, there are exciting opportunities to further strengthen our safety monitoring systems.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/professor-sir-aziz-sheikh-towards-next-generation-pharmacovigilance-capabilities-for-the-uk",
-      "published_at": "2026-01-08T00:00:00+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Besser leben - Biohacking: Wie man seinem Wohlfühlcode auf die Spur kommt - Gesundheit - SZ.de",
       "summary_de": "Besser leben - Biohacking: Wie man seinem Wohlfühlcode auf die Spur kommt - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1030,18 +1166,6 @@
       "type": "News"
     },
     {
-      "title": "Nirogacestat hydrobromide approved to treat desmoid tumours",
-      "summary_de": "As with any medicine, the MHRA will keep the safety and effectiveness of Nirogacestat hydrobromide under close review.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/nirogacestat-hydrobromide-approved-to-treat-desmoid-tumours",
-      "published_at": "2026-01-07T16:45:37+00:00",
-      "category": "Studie",
-      "tags": [
-        "Europa"
-      ],
-      "type": "Studie"
-    },
-    {
       "title": "National Obesity Audit, July 2025 - September 2025 [Management Information]",
       "summary_de": "This National Obesity Audit (NOA) publication presents a series of developing measures related to weight management services (WMS) in England. It aims to bring together existing comparable data from the different types of adult and children’s WMS across England in order to drive improvement for the benefit of those living with overweight and obesity.This publication includes data on NHS funded …",
       "source_name": "Publication Feed",
@@ -1052,12 +1176,12 @@
       "type": "News"
     },
     {
-      "title": "Decision: Medical devices given exceptional use authorisations",
-      "summary_de": "List of manufacturers and their medical devices granted an exemption by MHRA. The list also includes manufacturers whose exemption expired or was cancelled.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations",
-      "published_at": "2026-01-07T15:50:39+00:00",
-      "category": "Europa",
+      "title": "Nach Brandanschlag auf Netz - Stromausfall: Grundbetrieb in Kliniken per Notstrom möglich - Gesundheit - SZ.de",
+      "summary_de": "Nach Brandanschlag auf Netz - Stromausfall: Grundbetrieb in Kliniken per Notstrom möglich - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZVJodXlsakN5R0w5bEpHbV85cktCMGNkbnA0S2h6QkxkSlFqQWt6S1loOUVuR3FnNWJsLWxvdEFyZlpzRXFfc1hCamZxRFlQaG9pVnVPZTR5MVd1TVVDZzlOeVVjQTk3d0hEalZoMFh4UlJydzZkenp2NUtYS1NXOW9LSmZvZUpJN28xdkQ3NWlobG9JZ0ZwdmExQ19KOTBsVDRQT0FJcXhfMUhGSlljal8zcVQtUWhiX0hMYWRjN0c0ZUQ0czRwVnBhYTN2NXZpcEpWcUpGcHg2Nlp1N0tSU2JqN25JSjI5ajJ0U2RVdnR6RldqWTRpS0owSFhIZDh1Y2tGYzVERQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-07T15:56:39+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1152,16 +1276,6 @@
       "type": "News"
     },
     {
-      "title": "Field Safety Notices: 29 December 2025 to 2 January 2026",
-      "summary_de": "List of Field Safety Notices from 29 December 2025 to 2 January 2026.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-29-december-2025-to-2-january-2026",
-      "published_at": "2026-01-07T09:19:39+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Beiträge zur Krankenkasse: So teuer wird Ihre Krankenversicherung in diesem Jahr - DIE ZEIT",
       "summary_de": "Beiträge zur Krankenkasse: So teuer wird Ihre Krankenversicherung in diesem Jahr &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
@@ -1177,16 +1291,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOdWNTSnRlaDlGTHNCdkpyRFh5Z0JVb3RDZEFKSHRxajFMV0FfTG9pNG1SLW8xV200Z0VXZ0VkUXpwb09lSjhpakNzQXNuakpTUHRHRW55MFNqeVhUWThWVE9pWE1tM1AxOXl1TENJOVRDaXJSRTJhS291NTJEOC1fWTFmTkIzNG8wdHRENk54dmZhOGNTd0k4a0xMS1pRRWZFUEh1S1RMUElJSGlGYnpTSkczUGpRNFN6LVJvb1VxbnNROUMyemZwZkRUZGpMZUpyMkw5Wl9NeTVxMGdEVTYtZ3dqQlVTeGFJdTh3NGFyYmQzWjFncG1NZ3htUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-07T08:00:06+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Wohin sende ich den Heil- und Kostenplan für meine Zahnbehandlung? - Techniker Krankenkasse",
-      "summary_de": "Wohin sende ich den Heil- und Kostenplan für meine Zahnbehandlung? &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT2x2SzJpNUJ1VHhlMzNjVFRTZUlnNVRfYXd0MDZERFJXUVpfZDNRRUo1V1RkX0xfWEZwd005ZTRETzlWQU9uZ2laSU1uWDY0WEZmLWp1a09xXzVMVURVSk1DelprUVN1MldLY09MNG4waDkzR3V6ZmgxVUZaZWJuR1VRR0JlOV80dGl4X1hDcWhvSzgxclZuNXFwb09CUnJXc1lES0owMkZ2bFJiVlJOZm92Qk9kcFlQYjJZa1dHZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-07T08:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1455,32 +1559,12 @@
       "type": "News"
     },
     {
-      "title": "Decision: Human medicines: register of electronic export certificates",
-      "summary_de": "Department of Health and Social Care and MHRA register of electronic export certificates (human).",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/human-medicines-register-of-electronic-export-certificates",
-      "published_at": "2026-01-05T16:50:58+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Mentale Gesundheit: Forschungsprojekt zu Depressionen in der DDR startet - DIE ZEIT",
       "summary_de": "Mentale Gesundheit: Forschungsprojekt zu Depressionen in der DDR startet &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbWJCNVd0MDRyRzUtQ3gxeW11Q3I1QnFWd1JyazRUS1c3LXhDSm5mSExYaWRtUHpvd1pXS2dzR0sySkloQlc1bDROTDFWTlh2bHhUV0hTX0g1ekthVlhUUHpvZmlMelNsanZ3dnJRaUtBM0tCQ3ROWUJUNjdvb3hDMm5PRVdKOG41SU9xenJ4bjRpdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-05T12:46:03+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "MHRA welcomes Professor Jacob George as he starts Chief Medical and Scientific Officer role",
-      "summary_de": "In this new role, Professor George will lead the Agency’s science strategy and will oversee the MHRA’s scientific, research and innovation activities.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/mhra-welcomes-professor-jacob-george-as-he-starts-chief-medical-and-scientific-officer-role",
-      "published_at": "2026-01-05T11:24:51+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -1550,12 +1634,12 @@
       "type": "News"
     },
     {
-      "title": "Klinik für Allgemein- und Viszeralchirurgie München Klinik Harlaching Sanatoriumsplatz 2, 81545 München - hek.de",
-      "summary_de": "Klinik für Allgemein- und Viszeralchirurgie München Klinik Harlaching Sanatoriumsplatz 2, 81545 München &nbsp;&nbsp; hek.de",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOeTFKV3RwbkV1NVd4aDBPX3c1VzVzX3FFQzhHd05wX0F1NExrbldzTmVpRVRMLWNwMlczMHYzdEEwdzZuQUI1V1VnT3N5cmxzcWpYSEZtUnVPS3d3WGxNYWk0c0U0SWhzM1pQZ3BQOFhjRGpCTkE3dWFvWEM0bUI4alJTaDA2d2tZeWNUekZ0Y2hGTjV3MTMxaDg5MWxxNGFWR0tiQkR0RWhCcnFzTFFPV3RmZ2gtckpLTG1DYzhTU1J3T3c1a3VEYVhXUkFncmVrdTI4RmkweWZwbWJkbjBSYTh1QUwzcmpjM0Q2LXN5anpsS3U4aG5ZSHFnY2x2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-03T06:54:19+00:00",
-      "category": "News",
+      "title": "Arzt / Facharzt Radiologie Hoheluft Stellenangebote in Baden-Württemberg (0) - ärztestellen",
+      "summary_de": "Arzt / Facharzt Radiologie Hoheluft Stellenangebote in Baden-Württemberg (0) &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbUFIanhoZlhYVlU1R2owWHlFakRpRkhzcWVnMklaeF9DNjQtM3NxUzBvZXRoSFgybmNHSklwVUlpeVNQeVR3aFM1NkhSZnRqTk5VM01uUWhuQ1NVZFJXSUd6b3pjSWM1SGVRWFZLa0VBOXo1eE1tSFI2RnEtVXVyMGtyS05KR0FMWlUyR1dWX2l0WHNWbGFNeHRlVGVOT2tibXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-02T21:12:23+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1568,18 +1652,6 @@
       "category": "Radiologie",
       "tags": [],
       "type": "News"
-    },
-    {
-      "title": "MHRA approves zapomeran (Kostaive) mRNA COVID-19 vaccine",
-      "summary_de": "As with any medicine, the MHRA will keep the safety and effectiveness of zapomeran under close review.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/mhra-approves-zapomeran-kostaive-mrna-covid-19-vaccine",
-      "published_at": "2026-01-02T13:37:25+00:00",
-      "category": "Studie",
-      "tags": [
-        "Europa"
-      ],
-      "type": "Studie"
     },
     {
       "title": "Diagnostic Imaging articles: Update",
@@ -1605,12 +1677,12 @@
       "type": "News"
     },
     {
-      "title": "Guidance: Operational Information Sharing",
-      "summary_de": "Guidance for Marketing Authorisation (MA) applicants on providing consent to share operational information during the MA application process.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/operational-information-sharing",
-      "published_at": "2026-01-02T09:00:00+00:00",
-      "category": "Europa",
+      "title": "Mutterschutz und Beschäftigungsverbot - Techniker Krankenkasse",
+      "summary_de": "Mutterschutz und Beschäftigungsverbot &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaWtVN3M3V0QybFpweWppbnRmWUNrQlhrYU1rUlBjc0c5Q3B1RzVzTjhxaWlCa2RnRmhCWlBlZDNaRTRlVmxVSkdWZE5qblBXNmVTam8yVGZjalo2X0hfRzE0X0E5WnJ1aVBmMmtwNTl1djNkUDF1NGx1NFd6eDBTaFlwUkQxcnlJbGpzRVlSQWNPdnZBcEJSUUtVdVhIbTVaWFVHTHpXR1d2blFaVTdQWW1sUHZSaEw1TTRmXzFXb1RjRVBFdXJuWWgtTTdfZnVS?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-01T17:32:16+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1685,16 +1757,6 @@
       "type": "News"
     },
     {
-      "title": "Field Safety Notices: 22-26 December 2025",
-      "summary_de": "List of Field Safety Notices for 22-26 December 2025",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-22-26-december-2025",
-      "published_at": "2025-12-30T15:12:10+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -1741,16 +1803,6 @@
       "source_url": "https://www.diagnosticimaging.com/view/out-of-the-mouths-of-babes-radiologist-potential-is-everywhere",
       "published_at": "2025-12-29T12:52:00+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "MHRA urges public to avoid illegal online weight-loss medicines this New Year",
-      "summary_de": "As many people consider lifestyle changes at the start of the year, the Medicines and Healthcare products Regulatory Agency (MHRA) is urging the public to make sure any weight-loss medicines they use are safe, effective and legitimate.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/mhra-urges-public-to-avoid-illegal-online-weight-loss-medicines-this-new-year",
-      "published_at": "2025-12-29T10:05:04+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -1807,26 +1859,6 @@
       "type": "News"
     },
     {
-      "title": "Guidance: COVID-19 test validation approved products",
-      "summary_de": "Find out which COVID-19 test products have been approved.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/covid-19-test-validation-approved-products",
-      "published_at": "2025-12-24T17:28:24+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Keep the warmth, lose the risk: MHRA and National Fire Chiefs Council issue winter emollient safety warning",
-      "summary_de": "As colder weather arrives, the Medicines and Healthcare products Regulatory Agency (MHRA) and the National Fire Chiefs Council (NFCC) are urging the public to be aware of fire risks linked to emollient skin creams.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/keep-the-warmth-lose-the-risk-mhra-and-national-fire-chiefs-council-issue-winter-emollient-safety-warning",
-      "published_at": "2025-12-24T09:31:42+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -1847,12 +1879,12 @@
       "type": "News"
     },
     {
-      "title": "How medicines affect gut bacteria could inform safer, more effective use",
-      "summary_de": "Understanding gut microbiome interactions with medicines could help explain differences in how people respond to treatment and build on existing medicine safety knowledge to support safer, more effective prescribing in the future.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/how-medicines-affect-gut-bacteria-could-inform-safer-more-effective-use",
-      "published_at": "2025-12-23T10:04:44+00:00",
-      "category": "Europa",
+      "title": "Was ist digitale Gesundheitskompetenz? - Techniker Krankenkasse",
+      "summary_de": "Was ist digitale Gesundheitskompetenz? &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY29LOHhkNzZ3cEJySm9EWk1mZEJGTEwta3dmcDU5NmMyd09MeUx1Q19oc0dIQUNwcjR2N0RzRVQzQ1FIVS13TEVId29TWllfNGRNajNBSGVxQmV1aU1fZy1iRTZmR0RKdmRKbXoxVlZ5UFZIZ2JtWEtxSWx2UHczOFIxUjNRQU9EUDR2c1ZzZUFXZlgxeTY3dFFIVnJaR1lkcW1XOXlkdHZqRVdSaFBnUjU4N0JNelY4dE5SNS1rSEtycnE2X3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-12-23T08:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2216,16 +2248,6 @@
       "tags": [
         "Versorgung"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Handelsblatt-Ranking: TK bietet beste Unternehmensqualität - Techniker Krankenkasse",
-      "summary_de": "Handelsblatt-Ranking: TK bietet beste Unternehmensqualität &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWXhVY3JyUkRhMjVJRDltaHI3bmExQ0VXZVZDRFQtNTh2WGZlZWtNcHhTY0ZQNkoxWnFNVGZ2Mi1oWnlZXzVRMlVkSFEzX1hGOC1CZ090ZDhyUW11TTUwN0p0TG5lelJKcV80M2hNS2h0RjFOSXh2RHE5bjBsSThnSVRzY0taYkJSU1dIaGx2QmVIMkljd1JXOHY1YWU0NGxYa1V1eTVGREFkTVlrM21SRW8tN25CSHd1a3ZOeWxwaEFYcXl5d2RjYl9acl8yZU9i?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-16T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
@@ -2671,8 +2693,8 @@
       "type": "News"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-12-08T08:00:00+00:00",
@@ -2775,29 +2797,6 @@
       "published_at": "2025-12-02T08:00:00+00:00",
       "category": "News",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheitspolitik: Gesetzliche Krankenkassen reichen Klage gegen Bund ein - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Gesetzliche Krankenkassen reichen Klage gegen Bund ein &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUnFhVkNkZUdQY1kwMHlrdGFMem5lQ2JRRlNRV2QxUjBfRlE4MHdPaWR3ekZEaXJwV2FycC1mRjFIa2JsYjlxRnhKWTFFcFhfMVFUWnhnUGZEeTJKZ05ENXRPX2NvUlRvd0VnVHVfU2VibFNsd3U4d3pKT3kxQlpjUTR2dF9qaVFYM2N3OEdzQ2otV1ZlcUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-01T08:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Pressemitteilung: Die Klagewelle rollt an – Krankenkassen verklagen den Bund auf 10 Mrd. Euro",
-      "summary_de": "Der Staat als Träger der Fürsorge hat die Krankenkassen damit beauftragt, die gesundheitliche Versorgung der Bürgergeldbeziehenden zu übernehmen. Die Krankenkassen haben diese Aufgabe entsprechend übernommen. Aber statt für diese Leistung voll zu bezahlen, lässt der für die Finanzierung zuständige Bund die Krankenkassen auf rund zwei Dritteln der Kosten sitzen. Das sind derzeit rund 10 Mrd. Euro Jahr für Jahr. Vor …",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2160877.jsp",
-      "published_at": "2025-12-01T07:28:11+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Versorgung",
-        "Wirtschaft"
-      ],
       "type": "News"
     }
   ],
