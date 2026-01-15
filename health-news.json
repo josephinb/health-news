@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-01-15T12:31:42.421528+00:00",
+  "generated_at": "2026-01-15T15:18:38.035062+00:00",
   "window_days": 42,
-  "count": 312,
+  "count": 306,
   "items": [
+    {
+      "title": "Decision: Parallel import licences granted in 2025",
+      "summary_de": "Parallel import licences granted in 2025.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/parallel-import-licences-granted-in-2025",
+      "published_at": "2026-01-15T14:19:01+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Decision: Marketing authorisations granted in 2025",
+      "summary_de": "Marketing authorisations granted in 2025.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/marketing-authorisations-granted-in-2025",
+      "published_at": "2026-01-15T14:18:29+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "M6-C Artificial Cervical Disc, Spinal Kinetics LLC: New monitoring requirements for the risk of osteolysis",
+      "summary_de": "The MHRA has conducted an assessment following reports of osteolysis and early device failure in the literature and is issuing new monitoring requirements for patients implanted with the M6-C artificial cervical disc.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/drug-device-alerts/m6-c-artificial-cervical-disc-spinal-kinetics-llc-new-monitoring-requirements-for-the-risk-of-osteolysis",
+      "published_at": "2026-01-15T14:00:17+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheitsministerium: Forschungsförderung zu Frauengesundheit gestartet",
+      "summary_de": "Das Bundesgesundheitsministerium (BMG) hat den Startschuss f&uuml;r mehr Forschung zum Thema Frauengesundheit gegeben. Interessierte k&ouml;nnen sich mit ihren Forschungsvorhaben um Mittel aus den F&ouml;rdert&ouml;pfen bewerben.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/forschungsfoerderung-zu-frauengesundheit-gestartet-161919/",
+      "published_at": "2026-01-15T13:45:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Decision: Medical devices given exceptional use authorisations",
+      "summary_de": "List of manufacturers and their medical devices granted an exemption by MHRA. The list also includes manufacturers whose exemption expired or was cancelled.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations",
+      "published_at": "2026-01-15T13:20:56+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Schlummernde Quallen: Schlaf als Neuronenschutz",
+      "summary_de": "Schlaf scheint auch f&uuml;r Lebewesen ohne zentrales Nervensystem wichtige Funktionen zu erf&uuml;llen. So weisen Quallen und Seeanemonen &auml;hnliche Schlafmuster wie der Mensch auf.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/schlaf-als-neuronenschutz-161916/",
+      "published_at": "2026-01-15T13:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Clinical trials for medicines: apply for authorisation in the UK",
+      "summary_de": "How to apply for a clinical trial including eligibility, phases, model IMPDs, costs and how to make changes to your application.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-apply-for-authorisation-in-the-uk",
+      "published_at": "2026-01-15T12:51:13+00:00",
+      "category": "Studie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "Studie"
+    },
+    {
+      "title": "Warken im FAZ-Interview: »Leistungskürzung ist ein Kampfbegriff«",
+      "summary_de": "Bundesgesundheitsministerin Nina Warken (CDU) spricht im Interview mit der FAZ &uuml;ber Reformvorhaben, Kassenfinanzen und Krisenresilienz sowie &uuml;ber die Frage, ob man beim BMG eigentlich rechnen kann.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/leistungskuerzung-ist-ein-kampfbegriff-161918/",
+      "published_at": "2026-01-15T12:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Schlaf: Die tägliche Therapieeinheit für das Gehirn",
       "summary_de": "Wer nachts schlecht schl&auml;ft, sp&uuml;rt das auch tags&uuml;ber: Warum schon kleine Schlafdefizite unser seelisches Gleichgewicht ins Wanken bringen und wie wir guten Schlaf f&ouml;rdern k&ouml;nnen.",
@@ -734,6 +816,16 @@
       "type": "News"
     },
     {
+      "title": "Sachsen-Anhalt: Kollegen zweifelten an fachlicher Qualifikation von Taleb A. als Arzt - tagesschau.de",
+      "summary_de": "Sachsen-Anhalt: Kollegen zweifelten an fachlicher Qualifikation von Taleb A. als Arzt &nbsp;&nbsp; tagesschau.de",
+      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObXllcWZHcktsYmN3SXVUTHU4NnMtWldRMHRQam85X0JUc2gzVzkwamdZMi1GakpfcnJLTW56a0FhMnZEel9BTm1jTmIyT0V1OXhweXpNODFFRUNrUE5rVWYxN2RjREl1R2ZhbElTMFJVcXlMdjNIeWtsZEJOcFNjSE1xLTFYMURFQUxiS1pkQVQtcFFXVDFnWE82ZEpnZHY1RzBaWHhzTC0tSVJ1Mjc0eldTUEU5VFZQcDl6TDUyUml0cHF2SEh0Q3gxUDkzRnh3VTNV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-14T14:25:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Schärfere Versandauflagen: EU-Notifizierung für Apothekenreform eingeleitet",
       "summary_de": "Die Bundesregierung hat zur Apothekenreform wie angek&uuml;ndigt das Notifizierungsverfahren bei der EU eingeleitet. Weil die in der Verordnung geplanten &Auml;nderungen den grenz&uuml;berschreitenden Versandhandel ber&uuml;hren, k&ouml;nnen die EU-Kommission und andere Mitgliedstaaten eine Stellungnahme abgeben.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -838,16 +930,6 @@
       "type": "News"
     },
     {
-      "title": "„Wenn aus Unterstützung die Pflege eines Angehörigen wird“ - RP Online",
-      "summary_de": "„Wenn aus Unterstützung die Pflege eines Angehörigen wird“ &nbsp;&nbsp; RP Online",
-      "source_name": "\"site:rp-online.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX25XY3dGczBQa3l6RnBnM01CbEVRc1dqVnp6ajBSZlBva3VqbFlKaUN5c0lJV2FMMGZFZmdiUkRZclRhTnp5SnVCckVWQ1VncllPOEdRYkNUNnIyT2l6dEgtR3VadHRLV0M2QXJubDVNUnk1RHBqUGFhZVo5N3FHdk5KeFBOcmdaWFRTUkpVcVI2U1d5TUhqOFBn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-14T11:49:00+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Grünen-Politiker Dahmen : Die Gefahr in der Kennedy-Attacke",
       "summary_de": "Nach der Attacke von US-Gesundheitsminister Robert F. Kennedy Jr. gegen seine deutsche Amtskollegin Nina Warken (CDU) hat der Gr&uuml;nen-Gesundheitspolitiker Janosch Dahmen vor politischem Machtmissbrauch der US-Administration gewarnt. Liberale Demokratien seien bedroht.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -888,16 +970,6 @@
       "type": "Studie"
     },
     {
-      "title": "Kinder : Zahnarztbesuch wird ins »Gelbe Heft« aufgenommen",
-      "summary_de": "Die Kassenzahn&auml;rztliche Bundesvereinigung (KZBV) und der GKV-Spitzenverband teilen mit, dass ab 1. Januar 2026 alle Fr&uuml;herkennungsuntersuchungen von Kindern verbindlich im &raquo;Gelben Heft&laquo; festgehalten werden &ndash; so auch die zahn&auml;rztlichen.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/zahnarztbesuch-wird-ins-gelbe-heft-aufgenommen-161873/",
-      "published_at": "2026-01-14T10:15:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit: Jeder siebte Arzt kommt inzwischen aus dem Ausland - DIE ZEIT",
       "summary_de": "Gesundheit: Jeder siebte Arzt kommt inzwischen aus dem Ausland &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -918,22 +990,12 @@
       "type": "News"
     },
     {
-      "title": "Wunden nähen, Zähne ziehen: Was Astronauten medizinisch können müssen",
-      "summary_de": "Von der ISS in die Notaufnahme: Das geht nicht so einfach. Astronauten lernen deshalb, einige medizinische Probleme&nbsp; selbst zu behandeln, f&uuml;r die man normalerweise zum Arzt oder Zahnarzt gehen w&uuml;rde.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/was-astronauten-medizinisch-koennen-muessen-161870/",
-      "published_at": "2026-01-14T10:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Digitalisierung: Warum ein KI-Gutschein für Apotheken sinnvoll wäre",
-      "summary_de": "Die SPD m&ouml;chte einen staatlich finanzierten KI-Gutschein f&uuml;r mittelst&auml;ndische Unternehmen einf&uuml;hren, um die Digitalisierung im Land voranzutreiben. Was ein solcher Gutschein f&uuml;r Apotheken bedeuten w&uuml;rde, erkl&auml;rt der KI-Experte Marc Kriesten.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/warum-ein-ki-gutschein-fuer-apotheken-sinnvoll-waere-161847/",
-      "published_at": "2026-01-14T09:30:00+00:00",
-      "category": "Wirtschaft",
+      "title": "MRI technique shows promise for diagnosing 'at risk' MASH patients",
+      "summary_de": "The findings address a clinical need, as noninvasive, accurate diagnostic tools are critical for identifying patients at risk...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15814729/mri-technique-shows-promise-for-diagnosing-at-risk-mash-patients",
+      "published_at": "2026-01-14T09:36:07+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -968,6 +1030,16 @@
       "type": "News"
     },
     {
+      "title": "DBT's performance suffers when imaging extremely dense breasts",
+      "summary_de": "Digital breast tomosynthesis (DBT) has lower sensitivity when imaging extremely dense breasts compared with other density categories...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15814678/dbts-performance-suffers-when-imaging-extremely-dense-breasts",
+      "published_at": "2026-01-14T09:06:40+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "5 hilfreiche Tricks - Statt Tiefkühlpizza: So entfachen Sie Ihre Lust aufs Kochen - Gesundheit - SZ.de",
       "summary_de": "5 hilfreiche Tricks - Statt Tiefkühlpizza: So entfachen Sie Ihre Lust aufs Kochen - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -983,6 +1055,16 @@
       "source_name": "AuntMinnie",
       "source_url": "https://www.auntminnie.com/editors-note/article/15814576/auntminniecom-digital-xray-insider",
       "published_at": "2026-01-14T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Presurgical mpMRI helps predict chronic kidney disease risk",
+      "summary_de": "Preoperative multiparametric MRI (mpMRI) helps predict patients' chronic kidney disease risk after nephrectomy.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15814675/presurgical-mpmri-helps-predict-chronic-kidney-disease-risk",
+      "published_at": "2026-01-14T07:56:19+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1109,7 +1191,7 @@
     },
     {
       "title": "ACS reports milestone increases in cancer survival",
-      "summary_de": "Cancer mortality continues to drop, with five-year survival rates for the most common cancers reaching milestones.",
+      "summary_de": "Five-year survival rates for the most common cancers have reached milestones, according to the American Cancer Society (ACS).",
       "source_name": "AuntMinnie",
       "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15814517/acs-cancer-report-finds-survival-rate-increases",
       "published_at": "2026-01-13T18:47:53+00:00",
@@ -1144,16 +1226,6 @@
       "source_url": "https://www.diagnosticimaging.com/view/fda-clears-emerging-lu800-handheld-ultrasound-device",
       "published_at": "2026-01-13T17:17:00+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Sexueller Missbrauch: Arzt soll in Klinik Kinder missbraucht haben - DIE ZEIT",
-      "summary_de": "Sexueller Missbrauch: Arzt soll in Klinik Kinder missbraucht haben &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdF80ZTNVa2c2V0tYSXlYRTVJZXRZSjZqWmtHOTktS3BPa01Qa1FoSmU0c0MyR2lRTkF4UDJWUnp3WTJSWWN2RkdSNXU3Y0JmcnVWblZRbElEMF92U0MyRTZMNnVUUkFDb1hBSWZmQ1A0b1RQbDA5aWtWUDBEZlFlRmVseXRsTkNWOVVya1g3YUU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-13T15:46:12+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1270,10 +1342,10 @@
       "type": "News"
     },
     {
-      "title": "AI proves more sensitive than rads for identifying ENE",
+      "title": "AI proves more sensitive than rads for identifying extranodal extension",
       "summary_de": "The algorithm bested head and neck cancer specialists for detecting pathologic lymph node extranodal extension.",
       "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15814556/ai-proves-more-sensitive-than-rads-for-identifying-ene",
+      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15814556/ai-proves-more-sensitive-than-rads-for-identifying-extranodal-extension",
       "published_at": "2026-01-13T09:05:32+00:00",
       "category": "News",
       "tags": [],
@@ -1662,16 +1734,6 @@
       "type": "News"
     },
     {
-      "title": "Imaging pricing study shows highest-cost U.S. states",
-      "summary_de": "Researchers analyzed three common diagnostic imaging codes for cash pricing, discounting trends, and affordability.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ultrasound/article/15814365/imaging-pricing-study-shows-highestcost-us-states",
-      "published_at": "2026-01-12T09:55:30+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -1744,84 +1806,6 @@
       "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-collection-verification-reporting-of-safety-events",
       "published_at": "2026-01-12T09:00:01+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Guidance: Common issues identified during clinical trial applications",
-      "summary_de": "This guidance identifies common issues with validation and assessment of clinical trial applications and how to avoid them.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/common-issues-identified-during-clinical-trial-applications",
-      "published_at": "2026-01-12T09:00:01+00:00",
-      "category": "Studie",
-      "tags": [
-        "Europa"
-      ],
-      "type": "Studie"
-    },
-    {
-      "title": "Clinical trials for medicines: expert advice",
-      "summary_de": "Clinical trial applications that need expert advice from a specialist group or committee.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-expert-advice",
-      "published_at": "2026-01-12T09:00:01+00:00",
-      "category": "Studie",
-      "tags": [
-        "Europa"
-      ],
-      "type": "Studie"
-    },
-    {
-      "title": "Guidance: Archiving and retention of clinical trial records",
-      "summary_de": "Information on clinical trial record retention and archiving requirements including requirements for ownership, data integrity, and transitional provisions.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/archiving-and-retention-of-clinical-trial-records",
-      "published_at": "2026-01-12T09:00:01+00:00",
-      "category": "Studie",
-      "tags": [
-        "Europa"
-      ],
-      "type": "Studie"
-    },
-    {
-      "title": "Clinical trials regulations: transitional arrangements",
-      "summary_de": "Guidance on transitional arrangements for the Clinical Trials Regulations.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/guidance/clinical-trials-regulations-transitional-arrangements",
-      "published_at": "2026-01-12T09:00:01+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Clinical trials for medicines: apply for approval in the UK",
-      "summary_de": "How to apply for a clinical trial from 28 April 2026, including eligibility, documentation and registration in a public registry.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-apply-for-approval-in-the-uk",
-      "published_at": "2026-01-12T09:00:00+00:00",
-      "category": "Studie",
-      "tags": [
-        "Europa"
-      ],
-      "type": "Studie"
-    },
-    {
-      "title": "FAPI-PET shows promise in patients with liver fibrosis",
-      "summary_de": "null",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15814456/fapipet-shows-promise-in-patients-with-liver-fibrosis",
-      "published_at": "2026-01-12T08:51:56+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "POCUS lessens patient anxiety, pain in biliary disease diagnosis",
-      "summary_de": "Compared with standard care, POCUS imaging may lead to less anxiety and pain for patients being diagnosed with acute cholecystitis...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ultrasound/article/15814436/pocus-lessens-patient-anxiety-pain-in-biliary-disease-diagnosis",
-      "published_at": "2026-01-12T07:40:50+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -2046,26 +2030,6 @@
       "source_url": "https://www.diagnosticimaging.com/view/fda-clears-1-5t-mri-platform-helium-free-technology",
       "published_at": "2026-01-08T17:36:00+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit: Gesundheitsamt warnt: Mpox-Infektionen jetzt auch in Berlin - DIE ZEIT",
-      "summary_de": "Gesundheit: Gesundheitsamt warnt: Mpox-Infektionen jetzt auch in Berlin &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLVJzblVFN0tTTVVFNlVlcmQ1SWxNeG15cEZaendGNkFMYjg5UVUzYUlCdFdEd3lpdl9NWVpxRnBTZDlxWUtuWE1KWWZPVmZjcWRMT2d6SWlja1l1bzN1QlprTmJ0cG9JS3I0aDN2MFBSNmFOTmhpMHJVQ19KdnV0WDJPWHg5X2o3aUNzSFN3VFhqUkMzNldZMU5n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-08T15:11:04+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Wetter und Gesundheit: Schneeschaufeln bei Kälte kann das Herz belasten - DIE ZEIT",
-      "summary_de": "Wetter und Gesundheit: Schneeschaufeln bei Kälte kann das Herz belasten &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZGhBM1htZ0FGVFFiZXlKTTJEa3E0R2ZrMUw4OG1ZVm1yU3ljT2RkSUlHMTU1ejlyb21nMkNRWTd6cmJfZ05HR2QwTkFVS2pqdmF2a2VTYnIxU2hoazB1cnJIcWRPRVM5OG5aZjdIczhSSzNINDdzSV9JVGVYM250enNoQ1BVb0pnZFhiTEd3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-08T14:36:01+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -3067,16 +3031,6 @@
       "type": "News"
     },
     {
-      "title": "Die Techniker - starke Leistungen mit Auszeichnung - Techniker Krankenkasse",
-      "summary_de": "Die Techniker - starke Leistungen mit Auszeichnung &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNDN4TFR6a1hKY3FIb0VFRFM1cV92dkFZcmpadGFkYTJVOTY4X1YzVEw2YmxDa21BSTBKU0NjSWhzem41VWJLY1F3ZWEweUFTRF9TOFVPVjhNYy14cWpNOHkzVFpSUEJ2bzZha0t3TG9yM2xNTlpLVGNBNDJqMUFOTk5tWnJJWHFUV25oeG5uRHBSRmphQVBJZ3h5cGJ4YllLYW5FQVNyWVhBWmJCZHJSQ2xRa0FqaXR5LTV2X09UYzQ2cTRCX1VjMFpVU00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-10T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Microplastics: European Parliament requests scientific advice from EFSA",
       "summary_de": "EFSA experts will review the latest evidence on microplastics, including how microplastics enter and affect the human body; how they are transferred into food; and the methods to assess related risks. They will also provide updated dietary exposure estimates based on new data from the literature. EFSA’s scientific advice, which is expected to be published by the end of 2027, …",
       "source_name": "EFSA | News",
@@ -3144,16 +3098,6 @@
       "type": "News"
     },
     {
-      "title": "MRT-App: DRK-Kinderklinik zieht positive Bilanz - 2025 - Innovation & Medizintechnik - hcm-magazin.de",
-      "summary_de": "MRT-App: DRK-Kinderklinik zieht positive Bilanz - 2025 - Innovation & Medizintechnik &nbsp;&nbsp; hcm-magazin.de",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMVNvdUlIX1hWVk5ib2tIQ1hEaVZ4QmVOUm9oRVJVRWdILUYtdXRVTHQ4bkFBbVBuRHJCNVFWdVp3TEpHeTNCaVFOa19lNDZRcWR1eEVXaWpfdWZWMGJkZ0ZPRDVkN1ZDVEFOTnFJSllQUlhRb1N6OFR5ZzNjMEpSek5vRUlMcGxpYmh3enNiajlzaDRwb2dCWUFn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-07T08:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "US-Gesundheitspolitik: USA nehmen Hepatitis-Impfempfehlung für Neugeborene zurück - DIE ZEIT",
       "summary_de": "US-Gesundheitspolitik: USA nehmen Hepatitis-Impfempfehlung für Neugeborene zurück &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
@@ -3183,16 +3127,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Medizin & Pflege in der Godeshöhe - Die Johanniter",
-      "summary_de": "Medizin & Pflege in der Godeshöhe &nbsp;&nbsp; Die Johanniter",
-      "source_name": "\"site:johanniter.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSnd2YUJVOTZROGNELW13YWdjdGhyUTJZbEtMYnBhQkluMUstTmxRYmNnVHJtbTJ6aWFSek0zdVUtTC1QNzdYUk11UHFmeDhCdmZUU1RKc3dXeXdoc1l6clR6aFFqUTVKVWtGQktzNEIyVEhzaGNxb2RBUUVCOFdEUWN3UDd0c3RESjhzaV9CbzczVEM1?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-04T14:56:33+00:00",
-      "category": "Versorgung",
-      "tags": [],
       "type": "News"
     }
   ],
