@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-01-17T15:13:46.697589+00:00",
+  "generated_at": "2026-01-17T18:19:54.243293+00:00",
   "window_days": 42,
   "count": 311,
   "items": [
     {
-      "title": "Pflege: Brandenburg stärkt Nachbarschaftshilfe für Pflegedürftige - DIE ZEIT",
-      "summary_de": "Pflege: Brandenburg stärkt Nachbarschaftshilfe für Pflegedürftige &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZHpSM1VnYmdOYmZBdHhRdzhhakxWX01pRTNDRTFnMkZUYmtncXpvZ3ZhbnRJNWp5Y1QzaFNjVURkUzZDdzFwV3RfVjF2VE1qbkpmbnA1TzhHYW1FZndSbDdDYno2QVlMWS12N3JPZkotZ3J5RktMWDZBNm55S2ZaVXhuR3Q0WUlsMzZNek5nUVVDbnRUZnRVUlpPV1Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-17T14:15:27+00:00",
-      "category": "Versorgung",
+      "title": "Diagnostic Imaging articles: Update",
+      "summary_de": "",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/diagnostic-imaging-weekly-scan-january-11-january-17",
+      "published_at": "2026-01-17T15:34:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -24,12 +24,32 @@
       "type": "News"
     },
     {
+      "title": "Pflege: Brandenburg stärkt Nachbarschaftshilfe für Pflegedürftige - DIE ZEIT",
+      "summary_de": "Pflege: Brandenburg stärkt Nachbarschaftshilfe für Pflegedürftige &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZHpSM1VnYmdOYmZBdHhRdzhhakxWX01pRTNDRTFnMkZUYmtncXpvZ3ZhbnRJNWp5Y1QzaFNjVURkUzZDdzFwV3RfVjF2VE1qbkpmbnA1TzhHYW1FZndSbDdDYno2QVlMWS12N3JPZkotZ3J5RktMWDZBNm55S2ZaVXhuR3Q0WUlsMzZNek5nUVVDbnRUZnRVUlpPV1Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-17T14:15:27+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gesundheitspolitik: Beknackt sterben ist auch keine Lösung - DIE ZEIT",
       "summary_de": "Gesundheitspolitik: Beknackt sterben ist auch keine Lösung &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbGp3dEV2aFpTeU05Rmt0UUtDNWxPR1ZIQ2hKaUxzUW00djJQbkZKSXZXYlRPRm14cV9tSDVrT2R6V1cwdklHSDBNZ1pPVEp0MzdOX1lmMFJNWE9YVFVGem9WSzd6S3hiYy1tbjU4RmxWWTJVei1VNWlpdVdoNmJtLXFNUUpCZlpSN3NSdmdoZnZLRFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-17T11:20:05+00:00",
       "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Notfälle: Paketbote übersieht Familie – Säugling im Krankenhaus - DIE ZEIT",
+      "summary_de": "Notfälle: Paketbote übersieht Familie – Säugling im Krankenhaus &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLVNBM3hLTTlIQ2htMUVZV2N3Z0dGaGYxdGpaeVB3dEtPLWRvVDZXTXVxS2xDTE1ZMW9LamhsSlZIV3RwZDVnMUpSZ04xdzA4bDhKU3R5WFpmNlYydTZoMnVjd180X0gxQmxnY0FOQkcxQ3Vvck00Yk5yd0w2LVIyNVc3MTNTSXJaOFpqWVMzNXItT28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-17T10:20:25+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -62,6 +82,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ3RpM0ZnNENwV0FhOW54N2Z6bVA5MTFETzBVZXUtV1hIS3F3MzJxdi10LTRFUTJHRXlfRnJKT0FVMFRFQzJZNUhDZ2VxdWNVZzVqNEtHZE4zcTJGZEwwT08xM3Bqal9vTUE1SFJ2OElBVUFjTHVBb2xkOWpBNGNaa05SS0t1Qm94ZmNDMV9fNUtDYmVkdHRuNmd3azJ4dw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-17T07:48:12+00:00",
       "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Familienrezept - Nach Mamas Art: So wird Matjes ganz einfach zum Häckerle - Gesundheit - SZ.de",
+      "summary_de": "Familienrezept - Nach Mamas Art: So wird Matjes ganz einfach zum Häckerle - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRWhMeGx3S09PZG5mOUlmNE0yclRjU3ViVkREeG1hT21HcnlmaDNLTjRuX1JfTFZYd2JyV2lPU2tvMG11S1lFdHFuaTlROXd4Tzh3ajlObDhDckhLTUoxSTJqRG93TGZXMUJDZ1oxTkpUNWVyUmkyVVhWUGlZOHBWVEdNVU1sWXNSQ3ptTkZreFNFM1AwOHJoQWJXazBhZG5PSWJXeTBrSmtUUGNrMlk2Z2RKRExUVVNnMTF1NFlIUkN3dEtDV0N2eEw0eXdidXNTMnpPYlR1VFRWV2JUalJ4MU5oZUR6T0MyNjJiTlZjbTJyQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-17T05:00:06+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -206,16 +236,6 @@
       "type": "News"
     },
     {
-      "title": "Pflege: Saarland hilft bei Anwerbung von ausländischen Pflegekräften - DIE ZEIT",
-      "summary_de": "Pflege: Saarland hilft bei Anwerbung von ausländischen Pflegekräften &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQmxSa2xUaktRbXB4VHR6QmJZNV9xSE4yNFVrR0RQMG4wc0JIOTIwdkpLOFM5eEtDcXZ5N3NGSy1xek1PdWRSYzJTQmlIYlFjVUM4dVJvQnZ1Z3ozbUFHMDZSRXZzQzJTZlZtT0JpdHFldXhYREVxelFXTzR2QmdTMUpQMk9GVmJaaUh0WmlkbENwemZOT21QdGJRUHZjNUk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-16T14:04:49+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Für viele schlimmer als ein Mensch: Warum der Tod eines Haustiers so weh tut",
       "summary_de": "Der Tod eines Haustiers kann f&uuml;r viele Menschen schmerzhafter sein als der Verlust eines nahestehenden Menschen. Eine neue Studie zeigt, wie tief die emotionale Bindung zu Tieren ist &ndash; und warum diese Trauer oft untersch&auml;tzt wird.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -348,16 +368,6 @@
       "type": "News"
     },
     {
-      "title": "Krankenhausreform: Notfallversorgung an Klinik Bad Arolsen wird eingestellt - DIE ZEIT",
-      "summary_de": "Krankenhausreform: Notfallversorgung an Klinik Bad Arolsen wird eingestellt &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX0ZacVY5ek43bk9nbnFLaFNHNDUxWGNsNi1WYWZIRGQ0NVg5b1RETVYyelAwZk1RQy1CNTVUZnB1VG9XdlBqZVBDZWpLeWlOM3UtUFpCRFpYNjlqV29VaWxWcEtyaGRHeUFOY0VEMzdhNWVtcmV1U0o1WWpoRVpfa283c3BiZ1liUDE0T2U0NWFNZTk1Mklz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-16T12:40:48+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Vorwurf der »Laienmedizin«: Warken verteidigt Apothekenreform gegenüber Ärzteschaft",
       "summary_de": "Auf dem Neujahrsempfang der &Auml;rzteschaft wurde wieder einmal scharfe Kritik an der geplanten Apothekenreform ge&uuml;bt. Doch Gesundheitsministerin Nina Warken (CDU) verteidigte ihre Pl&auml;ne und betonte die Notwendigkeit, die Lasten der Gesundheit Versorgung auf mehrere Schultern zu verteilen.&nbsp;",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -368,8 +378,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Bad Kreuznach - Barmer",
-      "summary_de": "BARMER Krankenkasse in Bad Kreuznach &nbsp;&nbsp; Barmer",
+      "title": "BARMER Krankenkasse in Bad Kreuznach - BARMER",
+      "summary_de": "BARMER Krankenkasse in Bad Kreuznach &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcGI1cEVzeTZYZkpVZzlwNmNKMTdoRFB2eGVheGZ5U2p1V2s0ckdoNEpEZDBkcC1aWFVQRlg0ZjdYakJIN3NvSzVJQ0hXeE1RZGEzUkpTWFYzSzlzT0t5Z0lFNjBSVUZIZnZHTG1RanNOSlVneEFUSlI4SU9OdjBQbzNfWmtZQUNvSXR0OVZhbUlJb3ZaLXhNb0s3ajRCenJXbHFpdEY3UXhTR0d2NHVOVTUxT2RNa3EtZzJuVkpyalBGYzZVMmNsSi1kOEZPaVhCaDhQWDE4aFNvQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-16T12:07:06+00:00",
@@ -386,6 +396,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Neues Hochleistungs-CT stärkt Herzdiagnostik am AKH Celle - Celler Presse",
+      "summary_de": "Neues Hochleistungs-CT stärkt Herzdiagnostik am AKH Celle &nbsp;&nbsp; Celler Presse",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZzR3Rmlra0ozU1p6RTBUWUJrNmw1YV96YnlvMmw4RzU0UTA5eEpuNU1zdnhfNU5ZVlFWU21fZ1hnQ25ZUVNoUFBZU0JfTkM1S1VwcDJoMTFHMVJnODRzcEpIWEN5REhwV2tRMm9ocXMxTkNhSmx0Qnc5ZlhyYzQtckVJUzdtbkl1UFN6VkpfclFjYUpKUmlKdFZ2dw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-16T11:30:26+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Krankenhausreform - Notfallversorgung an Klinik Bad Arolsen wird eingestellt - Gesundheit - SZ.de",
@@ -778,18 +798,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Mannheim - Barmer",
-      "summary_de": "BARMER Krankenkasse in Mannheim &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOelJHQ09mWkJiUXk1eE5YTGlPWnhXSmNhU0ZBNmxCTUpiUWFUdjRFbmNobGp6NGpnTy1CMlZUV1Ewc0lmdy1scERpNU5NNUFYOF80bUtVNjR2RXFWbTZDWXhSaE9YOWpjVzhXRl94RHhHZFRfRE1LckVJd1NoN0V2RU1iR2xqcElNXzRlUjFqdDh2WmQyOEhYM1NXYUtsNEtIMF80Ykpsb1puelc2cWh2eHRWUlFxclBYQkRSbllWdzRBZ2RaMjJDQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T14:34:24+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Bochum - Barmer",
-      "summary_de": "BARMER Krankenkasse in Bochum &nbsp;&nbsp; Barmer",
+      "title": "BARMER Krankenkasse in Bochum - BARMER",
+      "summary_de": "BARMER Krankenkasse in Bochum &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdHVRSHF1QjhSeFlqc3hsQkJkRjdvLUdETE94VnZHVXM0YWJhbjJ2djAxZTNIMjNYZ2c3MEdXZl9JbmlFT2xTNERVbUIyc3JfMmxNeVBBV1J1ZUNnQWJFM0l1cVpFYTFUb1hvbEIyWXBJRVFwSV9fNGdpNHotZE4yLXJ6eEs0Zy16aFBDdGZHX2l1WHB4aVFpUzZkb1ZDcnNLZkZaTVdabkVRSHlKcG9heWdra1B0c0lyRGhvR25kWHpPQ3ByeGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T14:34:23+00:00",
@@ -798,8 +808,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Montabaur - Barmer",
-      "summary_de": "BARMER Krankenkasse in Montabaur &nbsp;&nbsp; Barmer",
+      "title": "BARMER Krankenkasse in Montabaur - BARMER",
+      "summary_de": "BARMER Krankenkasse in Montabaur &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdWx1eVdleVZaWjdqWExhNGtQSjFaUGJTdjNSeUt6bTlCM1ZYV3ZvYXA1LXdyU0JmcFBzNkkwMUpYcTZ5T3NaZm8tb1J5aFRnTHh6Tzl3dTRIZUZRVXNYcm85VkNLeTdMek9aSk56S0JyMnFpdVR1UFBBOFBqNE5zcVMyNXRrV25IYjk3cjJNd2pidHZRQkh2V0w5MlEyT0RwajRNeGlTRjNNbVJoYXFnN2R5RmJJeW9fOUczamtMbnVIbzd2NlYyZVZB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T14:34:19+00:00",
@@ -1350,6 +1360,16 @@
       "type": "News"
     },
     {
+      "title": "Hier schwebt ein MRT in die neue Chemnitzer Poliklinik - Freie Presse",
+      "summary_de": "Hier schwebt ein MRT in die neue Chemnitzer Poliklinik &nbsp;&nbsp; Freie Presse",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ0VERjIzNkdJaG14WDY3eXJzR052akJ5VGtUMGliNUxIaHhOR3BELVNUZ014LXdCMnhUTDlua0ozbTFaNlFBODk0azM0N184cjJoQkQ2ZGRsUDVCcktTZzFsUnR1b0JwbldzTnlucjFUVmlIUDlBZnJYem1iOVlQdkdXZldZVzFJa3pPTmJLbXk0Z0VxanhGTkVaUjlnWGx5S0pZdk9uUWNQVkQ1YzNwdFFreHJIN2ZiNFNDa0dwOURtalhQNVBtSG5keF84Wlk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-14T16:30:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gesundheit: Mehr Ärzte, weniger Zahnarztpraxen und Apotheken - DIE ZEIT",
       "summary_de": "Gesundheit: Mehr Ärzte, weniger Zahnarztpraxen und Apotheken &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -1646,16 +1666,6 @@
       "source_url": "https://www.diagnosticimaging.com/view/breast-mri-study-suggests-black-women-31-percent-more-likely-to-have-high-bpe",
       "published_at": "2026-01-14T00:32:00+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Partnerland der Grünen Woche - Buttermilch, Sanddorn, Fisch: So isst Mecklenburg-Vorpommern - Gesundheit - SZ.de",
-      "summary_de": "Partnerland der Grünen Woche - Buttermilch, Sanddorn, Fisch: So isst Mecklenburg-Vorpommern - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQUkVmZy1UVFhPZGMwWU9VRk03LWhPdGN4aU1ybURUV1IxSXhjbWpGeDVFa3U1bUsyVFJVOFJFaHMwa3E5QTB4V2I4WWNaYV9FRHpkdnk1UlpyZ2lVd1d0aE5zb2JaTGpIYUZwZndtVTd6eEg1ak5zcFU5VF9LT2tPUDdpNndRa0pDSzRCYzZmcTBIaFhzcXJoV0tOcU9fQlpRNl9BWkxnUXp2Vk5CTm5TLWdfSWVBVUFlRUdObkZpalBhenk5cGxXR2FZdldYUFBJemZabkFWelVJU1FoVjNxeG95b05zdGVCOGlIYmdYaVBVS3NBd1J3Z1Axdm5MTzllQXhjQXpMNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-13T23:05:22+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1962,16 +1972,6 @@
       "type": "News"
     },
     {
-      "title": "Einigung - Mehr Geld für Kliniken - eine gute Nachricht? - Gesundheit - SZ.de",
-      "summary_de": "Einigung - Mehr Geld für Kliniken - eine gute Nachricht? - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTmxCZnA5TU5zVjR1OGx1OUx2QjJmcEpaWWE3RnZZY3poaEl1V1RveFVSWXZRb1NiR1h3N19jSGJOTC1iUVdaNnpNNENVVjVhME80b2N2UE45QlptdXBxZkhyTmdJRS1VWGJwb0FocUViSUxBYVJDQU5Id2VZR1NlcWxWQzdYYUlVSEdXMTZSX2xoOUt1elM1ZWljcV9MOGE5UWhzeDBDQUpwckQwNG1LNWhjeWhGb0xvLW1oS2pJWUdZR2xjT3ZmNWhudGdaUlpmeDFFdTJrVG0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-12T16:28:05+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Tarifstreit - Verdi ruft DRK-Personal zum Streik auf - Klinik wehrt sich - Gesundheit - SZ.de",
       "summary_de": "Tarifstreit - Verdi ruft DRK-Personal zum Streik auf - Klinik wehrt sich - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -2034,6 +2034,18 @@
       "type": "News"
     },
     {
+      "title": "Neues CT-Gerät: Radiologie 360° am Evangelischen Krankenhaus Bergisch Gladbach erweitert Kapazitäten - LokalKlick.eu",
+      "summary_de": "Neues CT-Gerät: Radiologie 360° am Evangelischen Krankenhaus Bergisch Gladbach erweitert Kapazitäten &nbsp;&nbsp; LokalKlick.eu",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOHJpdjRwQjRxRXFEbFhLSThqU2FDU3ZsVXZvVXl3azdmd1JLMENBQ2hpQVVVOVNJS1V1cTU3Wm0yT1FXOUJKd2FnRGVTdVpFX0ZYWDFLWmVKc2NpZWRmWnJJVnhNWkdQbWFibjNPUzc4cEZmYnJHY2JUQUNJeDExY2pMR2NNQjd0QjRyODBRWXJObFNUc002SW1OLTV3SUo1WDRkX3YtejNIaWhsYXktVTRoeS1XMzRZR1BBdkc3RVBuVlEwNzlob21kX01GVUFNNFQxZk1R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-12T00:02:56+00:00",
+      "category": "Radiologie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "News"
+    },
+    {
       "title": "Physiology‐ versus angiography‐guided percutaneous coronary intervention for people with coronary artery disease",
       "summary_de": "Physiology‐ versus angiography‐guided percutaneous coronary intervention for people with coronary artery disease",
       "source_name": "Cochrane Library RSS feed.",
@@ -2082,16 +2094,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSGlYZ25HbXkwRnlGUlg5N0dRRnZJTlAtRWFnRHhkZUxUWjhBY1h0a0ZTb1hLUzJtblhiekVnYXY0aHZhdXUzWjh4MGVGbnNUUEJSa3EzUHFOM19CLV9hRkhveDY2dzRhLWE4VUFkUml5clR4dVAteTEtSkFSZEl0UmxxUEYxbXhDSS14a3otcGxzRThhWWdWNjhEUVA0SDJyM2NhNTFYSjhkallobFpOWjNsa2JkbWtiQ2lKdW1HRlBkRmlCSGhnMnVvX0dfRUJXT3hqby1JNlhpclpFNHZBY1VtakVDSm15WjA5M1VhQW9XdG9QTVJ3Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-10T23:00:00+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit: Warken weist Vorwürfe von US-Minister scharf zurück - DIE ZEIT",
-      "summary_de": "Gesundheit: Warken weist Vorwürfe von US-Minister scharf zurück &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb3gzSHF4YWNxRUhNQ0EzcHpKVU9naXNwaTVka1laeHNEQ29fSi1Kc2ZET1JjVjNBRzZXcTZDOHR5bzZrTkxoXzJkWU9YVnRqTDMyenNiczZzRmRhQjc2aWo2UmRyUWtPdWptUHZJbklpTkEwTFUwZUlUTzVCX0h3WEJZeThxSTVCSC1jdldrNzhwa2t5VVBvSA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-10T20:57:10+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2659,16 +2661,6 @@
       "type": "News"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/top-five-mammography-content-2025",
-      "published_at": "2025-12-30T10:59:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Krankenkassen: Koalitionspolitiker wollen Milliarden bei Gesundheit einsparen - DIE ZEIT",
       "summary_de": "Krankenkassen: Koalitionspolitiker wollen Milliarden bei Gesundheit einsparen &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
@@ -2710,6 +2702,16 @@
       "tags": [
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Oberarzt (m/w/d) Nuklearmedizin - ärztestellen",
+      "summary_de": "Oberarzt (m/w/d) Nuklearmedizin &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSnF6ZHB2YkdvWVZEQnlGNjhSVUxsNTk4Ri1xdm9mZG9VeC0zbWRNMU92cnk3MVhVcWZrTXdVVHdmNGkwNllkOG94NTIzQ244S05pOVdldzJxZDItT1NDQ0pETDh6eEJnNmpIWmNVUGhNV0pkbmRlWlpqYmtLdm8wRldoSE12TFFiOGtN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-12-22T08:49:46+00:00",
+      "category": "Radiologie",
+      "tags": [],
       "type": "News"
     },
     {
@@ -3125,8 +3127,8 @@
       "type": "News"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-12-08T08:00:00+00:00",
