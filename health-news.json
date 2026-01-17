@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-01-17T06:21:37.781357+00:00",
+  "generated_at": "2026-01-17T09:14:17.644718+00:00",
   "window_days": 42,
-  "count": 308,
+  "count": 311,
   "items": [
+    {
+      "title": "PZ Briefing: Die Top-News der Woche",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten der Woche aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-der-woche-161968/",
+      "published_at": "2026-01-17T08:00:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Notfälle: Paketbote übersieht Familie – Säugling im Krankenhaus - DIE ZEIT",
+      "summary_de": "Notfälle: Paketbote übersieht Familie – Säugling im Krankenhaus &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLVNBM3hLTTlIQ2htMUVZV2N3Z0dGaGYxdGpaeVB3dEtPLWRvVDZXTXVxS2xDTE1ZMW9LamhsSlZIV3RwZDVnMUpSZ04xdzA4bDhKU3R5WFpmNlYydTZoMnVjd180X0gxQmxnY0FOQkcxQ3Vvck00Yk5yd0w2LVIyNVc3MTNTSXJaOFpqWVMzNXItT28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-17T07:39:06+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Familienrezept - Nach Mamas Art: So wird Matjes ganz einfach zum Häckerle - Gesundheit - SZ.de",
+      "summary_de": "Familienrezept - Nach Mamas Art: So wird Matjes ganz einfach zum Häckerle - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRWhMeGx3S09PZG5mOUlmNE0yclRjU3ViVkREeG1hT21HcnlmaDNLTjRuX1JfTFZYd2JyV2lPU2tvMG11S1lFdHFuaTlROXd4Tzh3ajlObDhDckhLTUoxSTJqRG93TGZXMUJDZ1oxTkpUNWVyUmkyVVhWUGlZOHBWVEdNVU1sWXNSQ3ptTkZreFNFM1AwOHJoQWJXazBhZG5PSWJXeTBrSmtUUGNrMlk2Z2RKRExUVVNnMTF1NFlIUkN3dEtDV0N2eEw0eXdidXNTMnpPYlR1VFRWV2JUalJ4MU5oZUR6T0MyNjJiTlZjbTJyQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-17T05:00:06+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Winterwelle - Infektionen in Hessen sprunghaft gestiegen - Gesundheit - SZ.de",
       "summary_de": "Winterwelle - Infektionen in Hessen sprunghaft gestiegen - Gesundheit &nbsp;&nbsp; SZ.de",
@@ -706,6 +736,16 @@
       "type": "News"
     },
     {
+      "title": "BARMER Krankenkasse in Mannheim - BARMER",
+      "summary_de": "BARMER Krankenkasse in Mannheim &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOelJHQ09mWkJiUXk1eE5YTGlPWnhXSmNhU0ZBNmxCTUpiUWFUdjRFbmNobGp6NGpnTy1CMlZUV1Ewc0lmdy1scERpNU5NNUFYOF80bUtVNjR2RXFWbTZDWXhSaE9YOWpjVzhXRl94RHhHZFRfRE1LckVJd1NoN0V2RU1iR2xqcElNXzRlUjFqdDh2WmQyOEhYM1NXYUtsNEtIMF80Ykpsb1puelc2cWh2eHRWUlFxclBYQkRSbllWdzRBZ2RaMjJDQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T14:34:24+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "BARMER Krankenkasse in Montabaur - BARMER",
       "summary_de": "BARMER Krankenkasse in Montabaur &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
@@ -803,16 +843,6 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/leistungskuerzung-ist-ein-kampfbegriff-161918/",
       "published_at": "2026-01-15T12:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Elektronische Patientenakte: Ein Jahr ePA – eine Bilanz",
-      "summary_de": "Ein Jahr gibt es sie jetzt: die ePA f&uuml;r alle, wie sie so sch&ouml;n hei&szlig;t. Am 15.Januar 2025 war die Einf&uuml;hrung der elektronischen Patientenakte gestartet. W&auml;hrend die Kassenseite positive Bilanz zieht, f&auml;llt die Resonanz seitens der Pharmabranche verhalten aus.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/ein-jahr-epa-eine-bilanz-161911/",
-      "published_at": "2026-01-15T12:00:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
@@ -1498,6 +1528,16 @@
       "type": "News"
     },
     {
+      "title": "Arzneimittel im internationalen Vergleich zu teuer | Die Techniker - Presse & Politik - Techniker Krankenkasse",
+      "summary_de": "Arzneimittel im internationalen Vergleich zu teuer | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN3ZTM3JCMFRScDIzaFg0aWlndVhJODFxa3pwbVNybWRfWGFJQ1czQ25iUHhQQ2Fjc3NHQVdaY3plVjFieWdQdEJVV0wyMkJCakJhX2otSkhvOHZRbkE0X3g0SkstYnFTUnZfZGpUdE9PNmFxZm5iZEpJUzJDODNMX2htTU9BUHRFZXU1dkJ5TkpWWlBlVVVsN05INWpDV0U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-14T07:58:33+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Presurgical mpMRI helps predict chronic kidney disease risk",
       "summary_de": "Preoperative multiparametric MRI (mpMRI) helps predict patients' chronic kidney disease risk after nephrectomy.",
       "source_name": "AuntMinnie",
@@ -1969,6 +2009,18 @@
       "published_at": "2026-01-12T09:55:00+00:00",
       "category": "Radiologie",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Neues CT-Gerät: Radiologie 360° am Evangelischen Krankenhaus Bergisch Gladbach erweitert Kapazitäten - LokalKlick.eu",
+      "summary_de": "Neues CT-Gerät: Radiologie 360° am Evangelischen Krankenhaus Bergisch Gladbach erweitert Kapazitäten &nbsp;&nbsp; LokalKlick.eu",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOHJpdjRwQjRxRXFEbFhLSThqU2FDU3ZsVXZvVXl3azdmd1JLMENBQ2hpQVVVOVNJS1V1cTU3Wm0yT1FXOUJKd2FnRGVTdVpFX0ZYWDFLWmVKc2NpZWRmWnJJVnhNWkdQbWFibjNPUzc4cEZmYnJHY2JUQUNJeDExY2pMR2NNQjd0QjRyODBRWXJObFNUc002SW1OLTV3SUo1WDRkX3YtejNIaWhsYXktVTRoeS1XMzRZR1BBdkc3RVBuVlEwNzlob21kX01GVUFNNFQxZk1R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-12T00:02:56+00:00",
+      "category": "Radiologie",
+      "tags": [
+        "Europa"
+      ],
       "type": "News"
     },
     {
@@ -2449,6 +2501,16 @@
       "type": "News"
     },
     {
+      "title": "Kostenrechner für Zahnersatz - DAK-Gesundheit - dak.de",
+      "summary_de": "Kostenrechner für Zahnersatz - DAK-Gesundheit &nbsp;&nbsp; dak.de",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52aGJEclRtTmxEYVFLbFRQcjRFMW5fNTd1b0l5cjd3QWYtUU1fZ0Q4WGpaYmVlWkhGWmpiS0c5VlFyVmdQTGxVV3loaXpXN0Z5Y2J5UHBjYTc1bFVCVE5HOEVsTUh4ZW44YzBTa3R6VHVuNjNPNWc4Y3JsMTVfZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-05T13:14:52+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -2475,16 +2537,6 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-rapid-cancer-registration-data/current/current",
       "published_at": "2026-01-05T10:35:37+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Krankenkasse für ein gesünderes Leben | BARMER - BARMER",
-      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-05T08:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2817,16 +2869,6 @@
       "type": "News"
     },
     {
-      "title": "Verbesserung für Patienten: Herz-Jesu-Krankenhaus jetzt mit CT-MRT-Zentrum - Osthessen|News",
-      "summary_de": "Verbesserung für Patienten: Herz-Jesu-Krankenhaus jetzt mit CT-MRT-Zentrum &nbsp;&nbsp; Osthessen|News",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYkgwMkpMMEV6OG52cG5lTHhGQy1JaFFqY0FKSEZrRmY2ZE9VRnN5Z3VjYXlsdXpuQ2NYNjMxSHhHUTBqRDUtWFpxS001QnBQbDlSWVlIWGVHZVRTWEJxZGVVUUdvZUFJZEVkVENrT3g2TFJELUpSTkxqM2dlN1J4TklmbkdxSFczTjNna0ZkSFIzQkRaNDVBSUVfOURCMFQ5UGs2YkVXNlRmSUQwQjJDZGFSSFdfQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-18T08:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Interventions for treating tibial shaft fractures in children",
       "summary_de": "Interventions for treating tibial shaft fractures in children",
       "source_name": "Cochrane Library RSS feed.",
@@ -3125,16 +3167,6 @@
       "tags": [
         "Versorgung"
       ],
-      "type": "News"
-    },
-    {
-      "title": "US-Gesundheitspolitik: USA nehmen Hepatitis-Impfempfehlung für Neugeborene zurück - DIE ZEIT",
-      "summary_de": "US-Gesundheitspolitik: USA nehmen Hepatitis-Impfempfehlung für Neugeborene zurück &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTnBYRUlJeDRHZ2xBZUNJTE1ZOXJST1lJSW9vNjMzQVhhRFh5UjFXWG9HRXVoNXd6aEhsZ0ZCTEFZbFRRQ29wenM2c09GY1JyTG81b0xkVk5FbWF1S2VQT0tsbllfclUzXzkzOWV0OE1TRmtxclVHYllMV2tBaWNKTGdkWjRWdGpwTjhWRV9BSGU4M0k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-06T08:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
       "type": "News"
     }
   ],
