@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-01-22T04:06:03.405928+00:00",
+  "generated_at": "2026-01-22T06:25:19.894909+00:00",
   "window_days": 42,
-  "count": 290,
+  "count": 292,
   "items": [
+    {
+      "title": "Gehirnforschung: Wie Belohnung unsere Empathie formt",
+      "summary_de": "Psychologen zeigen, wie sich Empathie durch emotionale Belohnung konditionieren l&auml;sst. Einf&uuml;hlungsverm&ouml;gen&nbsp;ist also weniger eine feste Eigenschaft, sondern laut einer Studie viel mehr das Ergebnis emotionalen Lernens unseres Gehirns.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/wie-belohnung-unsere-empathie-formt-161922/",
+      "published_at": "2026-01-22T06:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
     {
       "title": "Wechseljahre - Mittel bei Menopause-Beschwerden: Pflanzlich wirkt schwächer - Gesundheit - SZ.de",
       "summary_de": "Wechseljahre - Mittel bei Menopause-Beschwerden: Pflanzlich wirkt schwächer - Gesundheit &nbsp;&nbsp; SZ.de",
@@ -14,12 +24,54 @@
       "type": "News"
     },
     {
+      "title": "Eigenbeteiligungen: Pflege im Heim immer teurer - wie lange noch? - DIE ZEIT",
+      "summary_de": "Eigenbeteiligungen: Pflege im Heim immer teurer - wie lange noch? &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOelY2d1ZEWmg1T2lHelZ3b0swVjBXUmJSemJuQ1VxZUJuNlhfSWVMTU1hQmVpUVdDQ1kxZTl3Ylk5YVNMWWhKY2RqUjVVWVlDdHVBNWk1elk0ZjJQalJHN2RGQ2VGbUdmYmVYbjg3a3AwWHI3Z2lhamlGcVR2aGdrb0k5Qlc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-22T02:00:05+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Eigenbeteiligungen - Pflege im Heim immer teurer - wie lange noch? - Gesundheit - SZ.de",
       "summary_de": "Eigenbeteiligungen - Pflege im Heim immer teurer - wie lange noch? - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSVN6b0dxQXh5X2d0Q05haHUweVpyMm5fSEZwa2FQRnFPNmFSTFptWHZlMG92aV85eUdiQkthWGtnbXhJSV9Edm9OZ19GT0dZSHFLem96VmpSeF94S2lzVldRTlZvV1hlX2tzYzEwaklUNFEtaHI3TFJ6OEZzSkV1Ni1Qc2ptUVRMVmxOa0xRN0F6LXlaZU9HMEhvUFdBRVAtZXZTcFhpWVc0LVRDS2tHZ2lJSTRYUkxaN216c0lFRzBoaWtTUlNjYV9fekd3Y2ZEWFNYT3BIOElHZHdXbERYMFVpUU4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-22T02:00:05+00:00",
       "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pflege im Heim: Zuzahlung steigt weiter - FAZ",
+      "summary_de": "Pflege im Heim: Zuzahlung steigt weiter &nbsp;&nbsp; FAZ",
+      "source_name": "\"site:faz.net medizin\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOVAyREhxTTNyMXpoc3lJeVhxWlpDMHk3Vl9DN1NVMWwyZ3JlQlNHTDFJN1QxMmJ4Wi15YWZodmlrV1k4VUNrZnc5WTE5aHJOUWZENXQ3TEg1cG1oU1IzVEVqUUR6Y0dTT0k1UzBDMUc0NVpfSVJxdkpwbG5KeDZsQ1J2Nkhyd2lfUFZjWDFVN1VrLVFGOXdqVXB4V1dCeDJGU2REVXF1b1hIWXNvRGNCdzYzUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-22T01:58:20+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pflege: Kosten für Platz im Pflegeheim steigen deutlich an - DIE ZEIT",
+      "summary_de": "Pflege: Kosten für Platz im Pflegeheim steigen deutlich an &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS3JtUFN5ajlHSVNfODNPbE9CSjlkMElRd2YyV3MtdVhZUjRLay1yRWNRU0RPa3Q0SVlyTlk0OERUdGdBb3JHQjdhMHUxaVRYaW9zekVzMjRrd2RqMEJFXzdOTlNLTTg5dGc4ZnBtdjBPYXJHdjVTMjRLUVNvOGNlcWp3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-22T01:25:28+00:00",
+      "category": "Versorgung",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Spezialität aus dem Wallis - Keine Panik: Diese „Cholera“ ist essbar - als Gemüsekuchen - Gesundheit - SZ.de",
+      "summary_de": "Spezialität aus dem Wallis - Keine Panik: Diese „Cholera“ ist essbar - als Gemüsekuchen - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOblo0VVhVbzU5WnBZTC1QRWJWWC1KcDI1bkt6NXN6ODE4ajgzTUpLQUpKUmZ3dDZpb2YwWEZaa2FYTGg4ZXI5MV8xZ1BsemZ3YWhocGJ3Ri1ucmZEQ2FjSVpKY1lUN2NJeHRnLUdUSkhWMnk4bzdCUzZJSGJMVWRnYlVCeTZCOHdPdHhvNmtOTjVLcXRKellJV053Vml3ODdVVXpQNU03TjB3NjkwOWJZZHFJVTBPMi1HQkN0VGNVeUtFbm13TkhXZFJvWUg5OXdSTk9rZVJuTTNsVERocU5uYlZXNGdGc0lqMzE4X08zOTdPWEZCcFJuT19fS0RfVm9k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-21T23:05:11+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -188,6 +240,26 @@
       "type": "News"
     },
     {
+      "title": "Integrating breast and lung cancer screening could identify LC earlier",
+      "summary_de": "Leveraging the reach of mammography programs may improve lung cancer (LC) screening uptake.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15815232/integrating-breast-and-lung-cancer-screening-could-identify-lc-earlier",
+      "published_at": "2026-01-21T18:47:53+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "What's AI's impact on radiologist burnout?",
+      "summary_de": "Despite optimism about AI implementation in radiology, how AI affects radiologist burnout in the real-world remains a 'black box...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15815223/whats-ais-impact-on-radiologist-burnout",
+      "published_at": "2026-01-21T17:51:03+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -294,6 +366,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/mercosur-koennte-am-eugh-scheitern-pharmabranche-entsetzt-162095/",
       "published_at": "2026-01-21T15:04:08+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Erstmeldung Arzneimittel: NAROPIN 10mg/ml Amp.10ml Injektionsl&#246;sung pU: Aspen Pharma Trading Limited",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-01-21T14:53:21+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -498,6 +580,16 @@
       "type": "News"
     },
     {
+      "title": "Misinformation may be driving underuse of lung cancer screening",
+      "summary_de": "Misinformation about the harms of CT lung cancer screening may cause eligible patients to forego or not be offered the exams.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/practice-management/article/15815270/misinformation-may-be-driving-underuse-of-lung-cancer-screening",
+      "published_at": "2026-01-21T08:53:11+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Debatte um Krankmeldungen - Krankschreibung per Telefon - Ministerin Drese kontert Merz - Gesundheit - SZ.de",
       "summary_de": "Debatte um Krankmeldungen - Krankschreibung per Telefon - Ministerin Drese kontert Merz - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -518,20 +610,20 @@
       "type": "News"
     },
     {
-      "title": "Riskante Selbstoptimierung: Peptid-Hype in Tech-Kreisen",
-      "summary_de": "Einige Biohacker, gerade aus der Tech-Branche, zeigen hohe Experimentierbereitschaft bei der Selbstoptimierung. Ein neuer Trend ist die Injektion von Peptiden, meist aus chinesischen Quellen, die weder zugelassen noch gepr&uuml;ft sind.",
+      "title": "Häufige Magen-Darm-Erkrankungen: Was wirklich hilft und was schadet",
+      "summary_de": "Refluxerkrankung, infekti&ouml;se Diarrh&ouml; und Reizdarm sind ausgesprochen h&auml;ufige und auch belastende Krankheitsbilder. Was kann man gegen die Beschwerden machen und was sollte man bei der Therapie unbedingt vermeiden?",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/peptid-hype-in-tech-kreisen-162051/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/was-wirklich-hilft-und-was-schadet-162068/",
       "published_at": "2026-01-21T08:00:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Häufige Magen-Darm-Erkrankungen: Was wirklich hilft und was schadet",
-      "summary_de": "Refluxerkrankung, infekti&ouml;se Diarrh&ouml; und Reizdarm sind ausgesprochen h&auml;ufige und auch belastende Krankheitsbilder. Was kann man gegen die Beschwerden machen und was sollte man bei der Therapie unbedingt vermeiden?",
+      "title": "Riskante Selbstoptimierung: Peptid-Hype in Tech-Kreisen",
+      "summary_de": "Einige Biohacker, gerade aus der Tech-Branche, zeigen hohe Experimentierbereitschaft bei der Selbstoptimierung. Ein neuer Trend ist die Injektion von Peptiden, meist aus chinesischen Quellen, die weder zugelassen noch gepr&uuml;ft sind.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/was-wirklich-hilft-und-was-schadet-162068/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/peptid-hype-in-tech-kreisen-162051/",
       "published_at": "2026-01-21T08:00:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
@@ -568,6 +660,16 @@
         "Versorgung",
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "2023 version of AASLD improves ultrasound HCC surveillance",
+      "summary_de": "Using the latest version of the American Association for the Study of Liver Diseases (AASLD) improves HCC surveillance.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ultrasound/article/15815226/2023-version-of-aasld-improves-ultrasound-hcc-surveillance",
+      "published_at": "2026-01-21T07:08:25+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
@@ -631,31 +733,11 @@
       "type": "News"
     },
     {
-      "title": "Is risk-based breast cancer screening more beneficial for patients?",
-      "summary_de": "Population risk-based breast cancer screening may led to “similar or greater benefits” than age-based screening, results showed...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15815116/is-riskbased-breast-cancer-screening-more-beneficial-for-patients",
-      "published_at": "2026-01-20T18:59:49+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Unfall: Vorfahrt missachtet – zwei Menschen nach Unfall in Klinik - DIE ZEIT",
       "summary_de": "Unfall: Vorfahrt missachtet – zwei Menschen nach Unfall in Klinik &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQWdQMnZQSWZvbDVpX0M3SEhkRjFfVmpTZWxPeExUQ1pfOE5zaThCdUotelotaERuY01CNlEwSHRoWERpSEhCeVc0SGhObXE5dXd2c3ZTcWVGUlFVdV9ENm0zZ3Axb1Nfb2R1bm53bHJWbTJhR0tXQ3BxSTA1VkszYkJiZGljaTB0NUlhS1hBbDIwbmcyVlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-20T18:38:21+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Straßenambulanz Frankfurt: Wenn Krankheit kein Zuhause kennt - FAZ",
-      "summary_de": "Straßenambulanz Frankfurt: Wenn Krankheit kein Zuhause kennt &nbsp;&nbsp; FAZ",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONUpwRzBYOW1LalZ4clVJM3V2VGNiVjNMQ0F2d1JKZU9IUUZLclJCLVUzdjBmLTR2VkRoVEhOMEUxNWxSYlRFSUJsZW5qSGVaSUVkSHlQODNtZG81NUp2QmlmMHp3SThVWDNRLXdWUVBiOEdRUWtNRTBGVG1CVTBVRmk1dzZKd05RYjFLaWdTRlE1X2tjVmZtVXFic1VFSmxrekNxLThfV29Cbi1JajFjODlXQi1waWVpTFM2OWVPQU9fQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-20T18:35:42+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -763,22 +845,22 @@
       "type": "News"
     },
     {
-      "title": "PZ Briefing: Die Top-News vom 20.1.2026",
-      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-2012026-162053/",
-      "published_at": "2026-01-20T15:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gerinnungshemmung: Weniger ist mehr",
       "summary_de": "Kardiovaskul&auml;re Ereignisse zu verhindern, ist das Ziel jeder gerinnungshemmenden Therapie. Wichtig ist dabei aber auch, das Blutungsrisiko der Patienten im Blick zu haben. Aus diesem Grund sind die Empfehlungen mittlerweile zur&uuml;ckhaltender geworden.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/weniger-ist-mehr-162052/",
       "published_at": "2026-01-20T15:00:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "PZ Briefing: Die Top-News vom 20.1.2026",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-2012026-162053/",
+      "published_at": "2026-01-20T15:00:00+00:00",
+      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -869,16 +951,6 @@
       "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15815156/ultralowdose-pcct-viable-for-emphysema-assessment",
       "published_at": "2026-01-20T13:06:20+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Vortrag über Ethische Intelligenz: Bringt uns KI moralisch weiter?",
-      "summary_de": "Fast genau so alt wie die Entwicklung von Maschinen durch den Menschen ist seine Angst vor ihnen. Dieses Gef&uuml;hl hat sich mit der rasanten Entwicklung der KI verbreitet und vertieft. Zu Recht, wie der Philosoph Markus Gabriel beim Pharmacon Schladming ausf&uuml;hrte. Die einzige Chance, die uns aus seiner Sicht noch bleibt: klare Regeln und Gesetze, die die KI dazu bringen, …",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/bringt-uns-ki-moralisch-weiter-162036/",
-      "published_at": "2026-01-20T13:00:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -1003,6 +1075,16 @@
       "type": "News"
     },
     {
+      "title": "20. Qualitätskonferenz zum Thema Pflege in Linstow - tagesschau.de",
+      "summary_de": "20. Qualitätskonferenz zum Thema Pflege in Linstow &nbsp;&nbsp; tagesschau.de",
+      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ3dXSHNEYkw3NFBWQkI2V1F0djhtZ2dId1E0cDUtSnRFQTMwdDFZM1lOUW5YN1ZUNGRxWEtJbWYxVXFiWi15eG41aXFjanJyRlB3VlNsOUg5ZkthTm5Jeml2N0VBVUlWODQxVlNsVnJQTzdDUXlJNnFlX1U2RXhPM3dkSmVkWDBXclktRnlaeUpiZmliOENqT2JSdFExYzhnc0F5cGc0Uk9zcHpwWlhSRHZSWWdsTEJ4V19iRV9hN0t3Zzd0bDN6V3BLQUVwSlJJcGd0cVZB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-20T07:11:00+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "US-Präsidentschaft: Was ein Jahr Trump für Forschung und Gesundheit bedeutet - DIE ZEIT",
       "summary_de": "US-Präsidentschaft: Was ein Jahr Trump für Forschung und Gesundheit bedeutet &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -1033,16 +1115,6 @@
       "type": "News"
     },
     {
-      "title": "Mitgliederbefragung geplant - Es rumort gewaltig - welche Zukunft hat die Pflegekammer? - Gesundheit - SZ.de",
-      "summary_de": "Mitgliederbefragung geplant - Es rumort gewaltig - welche Zukunft hat die Pflegekammer? - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNN3ZqcVh4Ml9nWlhzak5wSnoxZmRWYloweFotWGNDN1ltU2tDdXk3c3MzTmMyeUp6LTliRnpoNUFVMVR0TG1hVVRiUlpUSjRKTU5keFhSUHl5T2xDYU5DOXdQbE83aXdUTkdIR0ZKYll5VGFic1RkUDR3SU8xQmhuenQwVnBwQjJ1d19JRVJYY2k1bTZDanJnNnZpRTM1dnB2TXpvSFhTN2lHRjMzWldqSUl0ZGtWQjBsNDZuejV6MFJYcmw1UnFKRkNGS3BsN2VGc2RwUjJLaVJWY2NpY0lCRWxBd0FEUEdvUjIyOXMwNkQtRTVwcHZUTEdGQWgzODUz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-20T03:00:17+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Occupational therapy for multiple sclerosis",
       "summary_de": "Occupational therapy for multiple sclerosis",
       "source_name": "Cochrane Library RSS feed.",
@@ -1067,6 +1139,16 @@
       "summary_de": "Gesundheit: Warken überprüft Regeln für telefonische Krankschreibung &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbzZHNU9iQkZvdkEwcFBpcjBvT0VFLVhSY3VGSm1rU3YyeTJGQ3BYbUY3cTZBbjkwU1BuUmZHcGxsbVlGeExjUnAzSzYxODF5S3hEeHhvek9Vc2wwcVFsWHRYZGJnLWllaC1IdGlUVHFFUDRva0FEWS1nZnZsdWdLY3hJZ2VzUWZoT3JjYmtMVHFITUZxdFQ3dA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-19T18:44:38+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit - Warken überprüft Regeln für telefonische Krankschreibung - Gesundheit - SZ.de",
+      "summary_de": "Gesundheit - Warken überprüft Regeln für telefonische Krankschreibung - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMzJuZVB0WGo1bmRWSGFkc1J6YlhNaUFGUlNRUC02UHZzMFJFS05XZDN0bjctaFJyaGhMdC1sM2txaGlsdjZnSzJQWkw0WWFQaU9lRlJvN2dZX0VfUVJzZkhfTzZONXEzb05pU25UeGxEY1M0WndtS0JpX0RGcWlLM2hETk00RElaQklnejFEd25jQ0UzcGxOTlVpU3dlWlNaNXBMMlRsY1BiOVpqYzVaYXBYTnFrMWp1eU5ZaHd0V1pNRVZfQ2xoM0U3RGRaYWxfSzdLdUxZaktLR2xiMFdQZkNBOE9KNWZPTVN3Z3VnZXA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-19T18:44:38+00:00",
       "category": "News",
       "tags": [],
@@ -1210,6 +1292,16 @@
       "source_name": "Pressemitteilungen | IQTIG",
       "source_url": "https://iqtig.org/presse/pressemitteilungen/news/iqtig-startet-neue-bewertungsrunde-zur-bewertung-von-zertifikaten-fuer-den-bundes-klinik-atlas/",
       "published_at": "2026-01-19T07:20:29+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Forschung zu Robotik-Akzeptanz: Fitness mit \"Ameca\" – Können Roboter in der Pflege helfen? - DIE ZEIT",
+      "summary_de": "Forschung zu Robotik-Akzeptanz: Fitness mit \"Ameca\" – Können Roboter in der Pflege helfen? &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSTRQVzBycE52Vk9JRDlocTc3T1h4ZllTZWJsOEs2amNKSmcyZm5fZ3hCWTM5dUYxVlM3WVZ1dzljWU5NX3E3QjJxT2ZSaEhkeENselpZZE13dVNQUklhekJIdkVtMG8wMUt3S3hnOHZ2SllCdjhEbUNCLVRrSDB3WVBPOTZpY3ZLYlR5NUJ0Z2lNTmdl?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-19T05:30:06+00:00",
       "category": "Versorgung",
       "tags": [],
       "type": "News"
@@ -1363,18 +1455,6 @@
       "category": "Studie",
       "tags": [
         "Europa"
-      ],
-      "type": "Studie"
-    },
-    {
-      "title": "Week in Review: AI and the radiology workforce | Imaging pricing | Recreational drug use",
-      "summary_de": "Articles on the impact of AI on the radiology workforce and the cost of imaging prices in the U.S. were the most highly viewed...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/editors-note/article/15814934/week-in-review-ai-and-the-radiology-workforce-imaging-pricing-recreational-drug-use",
-      "published_at": "2026-01-17T08:00:00+00:00",
-      "category": "Studie",
-      "tags": [
-        "Radiologie"
       ],
       "type": "Studie"
     },
@@ -1589,6 +1669,16 @@
       "type": "News"
     },
     {
+      "title": "Aufarbeitung der Pandemie - Ministerium verteidigt Corona-Maßnahmen und sieht Schwächen - Gesundheit - SZ.de",
+      "summary_de": "Aufarbeitung der Pandemie - Ministerium verteidigt Corona-Maßnahmen und sieht Schwächen - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQOVh2dC1URGV1UGRvYW0yVUtmSkh0ZW9US3VTak42cWZXb29DMHlBUE1OWE1sWjVoSmR4Mk0wanJwN3ZfZmEyT1E2eHJRbV8wTjdkV2ZrM0hiMUJaaFlFZzdJbEVjLWtnNEN0RnR4VHRqalBKOUdnelNXV1lPTWw0NVNGMXdRNkh2YzgwazVDZlZuZnlYZExEd1lzSkg4WlNpWVRqQzhDdmxxcVd5WVZGNUZlbFNrb2VCV1c3Z3F1djY4dHpzNnkwVkx3MnhqZXlUdlZVeHBDNWU3VmNZV1ltNjVsVnFIU2NYWFBhNG96VW5EdnhGZEdNWHA0NWJoVm0yRW1ZcWVTRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-16T10:46:30+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gesundheit: Mehr Geld für Behandlung in Krankenhäusern in Sachsen-Anhalt - DIE ZEIT",
       "summary_de": "Gesundheit: Mehr Geld für Behandlung in Krankenhäusern in Sachsen-Anhalt &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -1605,26 +1695,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPM3FSSUxzNjFFUS1nUXR5OHJJT3Y2OURuVFhzakJNaVBRazYzc25tQkg5TG9HOE5XdlF4WlVwdFJ5eU13UzdXWGY1WE42V3VfR2VTZmRmcS1JM1VwLWQwRzk5YURiUV9zNmtuR1o2Y0Q2QWVPeHJSWXhVUTRpMVM5dERmYlVSX3dCQmJ6WmplU1Jhek1JSE9sejF3VUJZYk05Wmo4aGRwNlU5Rzl6TEViR2E5cDViNG5OM05Hd1dkUWQzdUJidXFoQVBJREJsTTBUSEZfNkMyMDNORHc0Q1VVMkYxSDNNbzhjUjk3ZFktVWhzckUw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-16T10:43:10+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "DEXA offers new clues on bone health in astronauts",
-      "summary_de": "With longer stays in space projected, safeguarding astronaut skeletal health has become even more important.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15814915/dexa-offers-new-clues-on-bone-health-in-astronauts",
-      "published_at": "2026-01-16T09:32:22+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Who can be a certified radiology equipment specialist?",
-      "summary_de": "The Association for the Advancement of Medical Instrumentation has updated its certified radiology equipment specialist program...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/practice-management/service/equipment/article/15814620/who-can-be-a-certified-radiology-equipment-specialist",
-      "published_at": "2026-01-16T09:20:37+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1849,16 +1919,6 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Cloppenburg - Barmer",
-      "summary_de": "BARMER Krankenkasse in Cloppenburg &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPczBLelhRTHZlX0VFVVZVam8yTHc3TDdocTJrVExaSy1HZ1R5LXI4ZzZhNW5IeTdPc202RE1jR0V3djRHdkF1N1JhWllVcl9hU05jNXJtQWd5alJOMVh2QkVpUWZFU0dFbjBCc2JfcERzb3F6OTU2eU1maDRSSnloNmxLVWpmdUt3a2ZJWTlXNC1fTzVneGhoNnBCbWdScWhROEh6OGQzanNxVDA3LUhVcXNjM2lDQ0V2aUFxSXhXQ3Babm5iMUNlYzR0LXg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T14:34:28+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "BARMER Krankenkasse in Eschweiler - Barmer",
       "summary_de": "BARMER Krankenkasse in Eschweiler &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
@@ -1939,40 +1999,10 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Wesel - Barmer",
-      "summary_de": "BARMER Krankenkasse in Wesel &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaGs0MC1UTmFXbi1jbnV2SHA4cVBBcnJaLThUS2VRNXAtY1QyOXA5TjVlY3JDbGhxS3FucHlaTC1zM3lYSDRxZUNnRllfdU1XZHJFME9DejZvd3J5b0V2MjB5MUh0elRtcjdHeURtVmg4aXNvcVBDZlhTWktJZV9sSWtlUHFCNHk4WjlzOTI2LVRHcmVhWjFEXzYwZDNRSFhTNzhfbnh0N19VSG9wQ0ZYcWpFRnJnN0hydFgyMzJhZ09uc3VK?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T14:34:19+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "BARMER Krankenkasse in Bad Kreuznach - Barmer",
       "summary_de": "BARMER Krankenkasse in Bad Kreuznach &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcGI1cEVzeTZYZkpVZzlwNmNKMTdoRFB2eGVheGZ5U2p1V2s0ckdoNEpEZDBkcC1aWFVQRlg0ZjdYakJIN3NvSzVJQ0hXeE1RZGEzUkpTWFYzSzlzT0t5Z0lFNjBSVUZIZnZHTG1RanNOSlVneEFUSlI4SU9OdjBQbzNfWmtZQUNvSXR0OVZhbUlJb3ZaLXhNb0s3ajRCenJXbHFpdEY3UXhTR0d2NHVOVTUxT2RNa3EtZzJuVkpyalBGYzZVMmNsSi1kOEZPaVhCaDhQWDE4aFNvQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T14:34:17+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Memmingen - Barmer",
-      "summary_de": "BARMER Krankenkasse in Memmingen &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWUc1R0R6VVlZMTFVZFF5c2c0WUdpNFRJUG1OUnpralJpeng3bmpsbFRUNU54QW1BdURzbFNONkNTN1E3dkJFcWRuWWczM29uMUk4UFNtdEdsREdvckxTVDljS2VGWGpsRmpHRnNRWFAtXzNKS0FEeWw4aHJuc1gtSDNEUE1MSWxPeThPZ3FvYUxlYl9URFgzMHlHZ1djOV90SGlTVU1FdXd4UWxBb1VIanlIemNWelZheWVzSXB6US11U3Z1N0JYd1Zn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T14:34:17+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Görlitz - Barmer",
-      "summary_de": "BARMER Krankenkasse in Görlitz &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbEtVb0tOWloxTjg1X1V6ZThEQXZDbFRodUFUcHlWM3VOUEFtakFmVVJETlRsTTgwWGJENDJYRDdzN2p6Y3VtVUNtN3BhSTl4RGZTWkt3ZF9IbTVoY0RhNXJOTHR5QnJvTjBpMnZnVXN6Y1o0OVJUNmoxcVE4djFrM05renZMUFJYSVlIa3FITG9RQ3Q4WW1KZ01NUDJfcVZwNzVnQ1BjckRYN0o5ZmV1My1POWkwUms4UFpnTWs0bHVwVWFSSU4wcQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T14:34:17+00:00",
       "category": "News",
       "tags": [],
@@ -2003,16 +2033,6 @@
       "summary_de": "BARMER Krankenkasse in Karlsruhe &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU3Jlc1p3Z00tV3I4M0RCWk1nQkZ4R3Q5eHd3Wm9hamFQeWpQa1g4ZVVjYmtGMnpWRkdUMFhXZjRnTUdCYXdRT0ZzYmRZemxqMmJtS3hMRXU3REJ5eXBJQWJTNWY0bnNnRkVWZVZYVVJKNmc0SFE5NTFuUmtxWWltcW9XSTZQdE96dm02aDhzR1V1TzFjbWV3QkJZdnNFbzBydDJaSlVpREtNaDVrUUcwQ0pMZWp4MGpabzRSX0J3SU4xWGVmbldvZjRR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T14:34:11+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Kaiserslautern - Barmer",
-      "summary_de": "BARMER Krankenkasse in Kaiserslautern &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTTlJd0ExNmRTZUNYZzYwbG5CYTZqUDdBN0k1SngwU3RoSmNvT2ZkTk5fMURnVE1UdHh0Zkw5YU5oOWZlcGk0QldES3JLT2Y1T1EyaGZhV1o2Y1FNR1lVWWZSczhraTdUVFNYRHhwbDMtc1VEaGpIOE1jMzhkS3h0eHF1Q2E3aVJ3djEzVEZkU3U2Qm1XUk1McHFUMnlFeDZ0cGZiSGZWUEIzN3djV0F5TnZHSjVSanhoUTBEZFRHMEZqbXBQdkZLcmJ0OGpBOUtQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T14:34:11+00:00",
       "category": "News",
       "tags": [],
@@ -2124,16 +2144,6 @@
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcDRmaldyaEp3TjhHQThjdkYtZ0M4d2ZBQkhqTk1LYWZqR0l4Ym9iWWlxV0h1MTNGOXYxdkFpYU5yRnp6UlNlU0tkd1ZuRTBMQVB0UzdIV2pEMGdTTWRzbGFBSUpEUVZ2WmJGblhkbGh3YkZaWDhHbUQxNkJWcUFId292MGNma1YxcDRvM2ZwcmN3Q1ZuQ2x3dzdlcENFd19MNS1zSEtPY2swbkJRbHU5SkNBaHE5dUVIbGJvb1B3b01EbDFTZjMxU2RGZG1saDVzT1gzZVhERTNRX25WOUZBQ2pxbzZvV0FlOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T14:34:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Blutkonserven fehlen - Grippe, Impfung, Zahn gezogen: Wann geht Blutspenden wieder? - Gesundheit - SZ.de",
-      "summary_de": "Blutkonserven fehlen - Grippe, Impfung, Zahn gezogen: Wann geht Blutspenden wieder? - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSHVBV2pWa1lmWTZ2LVRLOGRhZUN0Nk5kU1NXWmJnR2JXZGN2d0lSb045Wmd4TEU0UzFLZHJIaS0ydllIRDQ1RHZUM20wLU5PLWpBZjM1a3htMnp6TUdQWkdQTnV1dm1PNkFaUzFVWHljTzVlcW43ZFpmMUNwWmk4NjFYOWRmS1V1X0xQa1JRbVRKZ0Fmc2xKUXZLSURHVkpvaFZaQWpkOUs1VG9XNndtdkZvcTJ2VjdNOHFUZ09tTW1kak9pQVQwQ05LajJYTnlUeE9ndkQ2YnFfV2ZsSEpxMlhESEVhaGUzS0dNdWtHV0NpOFhPNmZOYUN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T10:57:47+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -2328,6 +2338,16 @@
       "source_name": "Diagnostic Imaging articles",
       "source_url": "https://www.diagnosticimaging.com/view/another-take-ola-maintaining-certification-american-board-of-radiology",
       "published_at": "2026-01-12T09:55:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "MRT für Selbstzahler? Radiologe verrät, wann es sinnvoll ist & was es kostet - morgenpost.de",
+      "summary_de": "MRT für Selbstzahler? Radiologe verrät, wann es sinnvoll ist & was es kostet &nbsp;&nbsp; morgenpost.de",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWU9FRzFLckxBMXlHcV85UVJZTU9jSGlYWU5ocjBDa3FVLUI4cTUxUkpVZzZJZXVWTVVVRXN1azlSZkprMUxwcWw0ZVdVaU9sZnJyWEk5WE13Z05QOHoteU1CUkFGaU9TSjRBWHNBc0ZXZkVtVnMzSWVGRU8wVXRBVEJQR2t3dG9OMEJJNDFKbFQySHVDbnRCUndGakFIR3czSkpTXzVOZmQ1UjBVSVEyc2JXbkpKenhQdW1Cb29TN2h5Q2lkZ1E3Z3BvS0ZhdDdCbGtz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-12T08:00:00+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -2742,16 +2762,6 @@
       "type": "News"
     },
     {
-      "title": "Oberarzt (m/w/d) Nuklearmedizin - ärztestellen",
-      "summary_de": "Oberarzt (m/w/d) Nuklearmedizin &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSnF6ZHB2YkdvWVZEQnlGNjhSVUxsNTk4Ri1xdm9mZG9VeC0zbWRNMU92cnk3MVhVcWZrTXdVVHdmNGkwNllkOG94NTIzQ244S05pOVdldzJxZDItT1NDQ0pETDh6eEJnNmpIWmNVUGhNV0pkbmRlWlpqYmtLdm8wRldoSE12TFFiOGtN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2025-12-22T08:49:46+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Das ändert sich 2026 für Versicherte der gesetzlichen Kranken- und Pflegeversicherung",
       "summary_de": "Höhere Beiträge, Erweiterungen der ePA, eine neue Mindestmenge: Mit dem Jahreswechsel kommen verschiedene Änderungen auf Versicherte der gesetzlichen Krankenversicherung (GKV) und sozialen Pflegeversicherung (SPV) zu. Der Verband der Ersatzkassen e. V. (vdek) zeigt, welche Neuerungen 2026 anstehen.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -2835,6 +2845,16 @@
       "tags": [
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Erweitert und modernisiert: Radiologie am Herz-Jesu-Krankenhaus offiziell eröffnet - fuldaerzeitung.de",
+      "summary_de": "Erweitert und modernisiert: Radiologie am Herz-Jesu-Krankenhaus offiziell eröffnet &nbsp;&nbsp; fuldaerzeitung.de",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWG9TMnk3Uml5TWU2ZEFKOXdZMnhFelYwV1lzN1F2OGdHWlFJTzNpQXlQU19pTDZvbU1zVVJqT1lnc3prZ1RwcHFZTkZscE9SV3lEU3FJSHh1Tzk4YUN4SFRIOW04NXpLMlM2ME9GbHg4X3ZaM0FtWlhEWWxoWXJxZ2pkZXhlVHBsR3I1cjVPUkdHdGNhMWxCM2tIdkZiSXpJd2t1MHdYTzdBamZzSTg1MHExYUN0LXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-12-17T08:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
       "type": "News"
     },
     {
