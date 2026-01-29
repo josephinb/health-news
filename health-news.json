@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-01-29T18:34:51.480858+00:00",
+  "generated_at": "2026-01-29T21:20:32.184154+00:00",
   "window_days": 42,
-  "count": 331,
+  "count": 332,
   "items": [
+    {
+      "title": "Diagnostic Imaging articles: Update",
+      "summary_de": "",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/top-five-radiology-content-january-2026",
+      "published_at": "2026-01-29T18:37:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Gesundheit von Künstlern im Fokus: Wohl weltweit einmalige Professur geschaffen - tagesschau.de",
       "summary_de": "Gesundheit von Künstlern im Fokus: Wohl weltweit einmalige Professur geschaffen &nbsp;&nbsp; tagesschau.de",
@@ -75,7 +85,7 @@
     },
     {
       "title": "AOK: Baden-Württemberg als Vorbild für die Primärversorgung",
-      "summary_de": "Wenn es nach der AOK geht, k&ouml;nnte das derzeit umfassend diskutierte Prim&auml;rversorgungsmodell auf Erfahrungen in Baden-W&uuml;rttemberg aufbauen. Dort gibt es das&nbsp;&raquo;bundesweit fortschrittlichste Versorgungssystem haus&auml;rztlicher Steuerung&laquo;.",
+      "summary_de": "Wenn es nach der AOK geht, k&ouml;nnte das derzeit umfassend diskutierte Prim&auml;rversorgungsmodell auf Erfahrungen in Baden-W&uuml;rttemberg aufbauen. Dort gebe es das &raquo;bundesweit fortschrittlichste Versorgungssystem haus&auml;rztlicher Steuerung&laquo;.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/baden-wuerttemberg-als-vorbild-fuer-die-primaerversorgung-162361/",
       "published_at": "2026-01-29T16:00:00+00:00",
@@ -239,16 +249,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZ3NvUnNodTdwUkx2cTVBaVcwRklDQ3o2ZzNwRFRTZk9Vbk1mU2VNaEsyY2hhZGRva0w4RGt1WWxzeElWb0FQNWRSd0IzMVBPSzdONTJvZ3RjdzFHbktFWUkxVWstdlZraUNEblh0dTB2dzVLRjJOWUFtS1BJb0k4Z3VDR09iYnFuM3dvV0lHVDBMS1Q2NGN4eFZ2LWR6N0lhYVZGWjhnZjFmaVUwZEY2X1VqY21VVEpOWUppdTRab0lnZ3BxaGpzaDJKX3B4Y3B6Qy0yU0VCZWQ2Vko4ZzY5Nnp2R0JGOGhENHRCWWdsVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-29T14:06:47+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Pforzheim: Fixierter Patient verbrennt – schwere Vorwürfe gegen Ärzte - FAZ",
-      "summary_de": "Pforzheim: Fixierter Patient verbrennt – schwere Vorwürfe gegen Ärzte &nbsp;&nbsp; FAZ",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ2N0NFhtNk9pcklxY0VmLWJtbWQ0XzVtaFQxYm5sU2pmWVFwbjRMeEVoOVVYMnFtZmI1NERweUZTcE1QbGQzMFJQZjUyU0RySllkZndGYnRZc1JWenlXVEZTa0Q3Q20wY1Byeml1YU90OHlfenQ5MUQwNUtYaDMtalNWYVRFenlnN09nVnlVTl9fU2g0ZEY4N2FUQnYyM0s4NkpMT2VFeXdlbTAzYUdTRmVxYV9ySFZSX0c0cGlGMEFVY3UyNzBYbDJadGNIWTN6QkJoOQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-29T13:36:31+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -774,6 +774,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/erhoehen-cgrp-hemmer-das-herz-kreislauf-risiko-162324/",
       "published_at": "2026-01-28T15:20:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Qualitätsindikatoren | Klinik für Kinder- und Jugendmedizin | in 06749 Bitterfeld-Wolfen - HEK",
+      "summary_de": "Qualitätsindikatoren | Klinik für Kinder- und Jugendmedizin | in 06749 Bitterfeld-Wolfen &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNaXFRb1NTMkhaaDllRjFtbVlDM1RNNEg4dmNrWW1VdnUzLU9Idk1VM2VENGlKaU5EZ19JU0R4T0pfWGhJdWxGM3JLVXVRc242WUM2ZWU3OEVDem04VjRsdm4tRGxfdzhfUThWZTAtaW83S2lwNG1temliWV9pUEhjc0ZHQy1yeU5ZbnVhSG44VFJYZGZOWVc1Z01kZTZxWVh4YnR1ODNtQmJDUVJKRnJKSXROU21xNXVjVEt6Ym94MGZEMU5QaHgyZlJwMlo0RDhIbmVBSWJTNngzVVNCaG90cE5wQ3djLWFMY1lSaUNjVDNyNFpYVkI5MVRDSTJFNEI0MmxCcXA2VXpJQWdPWTI5LTJZaGpLV2FmOFJrbldqN2EtWEFvMy1YQXJaZHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-28T14:55:07+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1469,18 +1479,6 @@
       "type": "News"
     },
     {
-      "title": "Neues CT-Gerät: Radiologie 360° im Florence-Nightingale-Krankenhaus erweitert Kapazitäten - lokalklick.eu",
-      "summary_de": "Neues CT-Gerät: Radiologie 360° im Florence-Nightingale-Krankenhaus erweitert Kapazitäten &nbsp;&nbsp; lokalklick.eu",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWEJHM2lvZUg2ZGRBQUxWeWdvM043MXVNQzdxb1pXS2RiTHFkRWJsVzRTUmhOSHdxSUVmeThra19KdlEyd3BFTXJhdWIzU3JDSjhnSnI3ek1FaThLRHRKSVJoTkNCOWdSWF93dVZvQk5jaHM5ZFZ1QVNPMHVTZGluUmpwWko3NF9LcjNiTkN1cTZsLTJfLTlRVExzQkRRVl8yZ3EyRmEtanJ3Q2FMRDB3bXRPdUdlamxSRnZQTTQtemxKNFdBTFNPVHE3TmNRQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-26T00:00:56+00:00",
-      "category": "Radiologie",
-      "tags": [
-        "Europa"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Professorin erklärt - Nicht nur aushalten: Wie gestalte ich die Wechseljahre? - Gesundheit - SZ.de",
       "summary_de": "Professorin erklärt - Nicht nur aushalten: Wie gestalte ich die Wechseljahre? - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1974,6 +1972,16 @@
       "type": "News"
     },
     {
+      "title": "Die Sachbezugswerte 2026 | Die Techniker - Firmenkunden - Techniker Krankenkasse",
+      "summary_de": "Die Sachbezugswerte 2026 | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX2EzUzQ1TFdqWWZqTzgzU2lwYVN6cDFzbnFUc3hLeEJUVlNCY3hQRS1RcFlseFJEYnhSU0lvU3JRajRrYnc3aFF2SmNEVEdEZlY4R1Y4d2phb0o5dlpMQmY0QXVVUEZPRVVuMWwzWk83N2NaaHpyWndtLXA2Q2phbEY3dGppTC1OeEVKdk9xajVnakFfRnVlTzBxSkJHVFU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-21T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Pressemitteilung: Mehr Qualität in der Versorgung durch neuen Personalmix in der Pflege",
       "summary_de": "Das Modellprogramm zur Weiterentwicklung der Personalbemessung in der vollstationären Pflege des GKV-Spitzenverbandes ist abgeschlossen. Die an dem Modell beteiligten Einrichtungen wurden bei der Umsetzung des im Modellprogramm entwickelten neuen Personalkonzepts begleitet.",
       "source_name": "GKV-SV Presseinformationen",
@@ -2138,16 +2146,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "DAK-Gesundheit fordert Krankenstands-Gipfel beim Kanzler - dak.de",
-      "summary_de": "DAK-Gesundheit fordert Krankenstands-Gipfel beim Kanzler &nbsp;&nbsp; dak.de",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY3kyQWhSR2pEUU1oSVdKcjNRQnhiUTJ5Rjk4M1U1emJhX2NreUUtRGdWTFVuRHRJNXZvLVJrcGpaMEoxT01JXy1GU0F6SmE4aGhDbVQxS0hyaGxZWlQ2R19kVTFOU2plNzVNOTMwUEhMNTdrSkJpeGpZRzJZX0pSeHNlc040TTgxODdNbkd1VnJmSndOeVhqbV9zNWdpemFUNVl4UTVlUmhkWXdHcU1VTWEzSDVSMVZUem5aYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-19T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
@@ -2941,6 +2939,16 @@
       "type": "News"
     },
     {
+      "title": "BARMER Krankenkasse in Falkensee - BARMER",
+      "summary_de": "BARMER Krankenkasse in Falkensee &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSlpMTEpmenJXcnJNTnVKbmlhYmZIZFhqYWp3eDNaQl9tMmxNWlRoNTdzS0xrbFctZWlxVXVEVHllUDBLeDFhT2xJaTltX01Ia1daOW40eXFSM2tHVlRVT2lXS1BWN2pvSDVDXzl2SmpEOGJXbGQtMjhFZ3hCM21abmVFeHI2REZZYUJfT0I0WHdTcEtTMFJfWFFKODFQbEswZGV3ZU1sMXBYRUxwVUY3WXFHZS1UYjZVa3c2YTFCY2FHbmQ1M281cmRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -3026,16 +3034,6 @@
       "source_name": "Diagnostic Imaging articles",
       "source_url": "https://www.diagnosticimaging.com/view/breast-mri-study-suggests-black-women-31-percent-more-likely-to-have-high-bpe",
       "published_at": "2026-01-14T00:32:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/fda-clears-emerging-lu800-handheld-ultrasound-device",
-      "published_at": "2026-01-13T17:17:00+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -3277,6 +3275,16 @@
         "Versorgung",
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Mini­jobs: Wann sich schwan­kende Entgelt­höhen auf die Versi­che­rungs­pflicht auswirken - Techniker Krankenkasse",
+      "summary_de": "Mini­jobs: Wann sich schwan­kende Entgelt­höhen auf die Versi­che­rungs­pflicht auswirken &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ1FydnFYUkp4SU83aEc0bm9rYWQtbDNkNTRYRFhfNDFYVGs5TGl1U2F6eDBnNDdtNWstYmQ1QlYwRDJuSWhsSEtmM1Z6QjY5c0x5ekZwamw5Nm9ST3JldHVnWGE5MnFrTmQ3MHhmMmIzQnBkWHRtWTI2cXhsX2pYdk5JMFlhbHZBNzBwb0p2VUFTTV80Xy1nNUticVBTSU9VWnZnZF9teXdmMXVVSWFRSExMNVJITjhhWU13TXZkR01oYXhVclZKdWJlVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-01T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
