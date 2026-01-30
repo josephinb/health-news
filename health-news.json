@@ -1,8 +1,150 @@
 {
-  "generated_at": "2026-01-30T12:38:18.990304+00:00",
+  "generated_at": "2026-01-30T15:27:13.020140+00:00",
   "window_days": 42,
-  "count": 347,
+  "count": 337,
   "items": [
+    {
+      "title": "Decision: Medical devices given exceptional use authorisations",
+      "summary_de": "List of manufacturers and their medical devices granted an exemption by MHRA. The list also includes manufacturers whose exemption expired or was cancelled.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations",
+      "published_at": "2026-01-30T15:05:09+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Infektionen - Grippe breitet sich weiter aus - RSV-Welle angelaufen - Gesundheit - SZ.de",
+      "summary_de": "Infektionen - Grippe breitet sich weiter aus - RSV-Welle angelaufen - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZXdpYUh5RnlXcmNfWnRiVWRuRG0tTWZTLTZ5cjF1ekxlblYyanNVSDFoYWR5Y3N5a2NlSm1kSi10Zmd3ZWZtRnVDcEQyMERETHR4UW9XQnZIT1hCMXRvYU5lWGlDWnhSOUppVU5OcUhYZ2QtRmJHU0FEZVNhRXhOVFJ5Zm9zTmVsQW9EeklBUUFVSXFabXZ4UzdodDZNaEhEQ2VoeUhHTjZPZXZJLUNaOTBqSmFPbk1adzVoeTh1ZXYtNnJxa0Z0b29LcVlTYS1ySUdlbDU3dkNScm1lSTJ2RXNlVG5pYnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-30T15:04:04+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "PZ Briefing: Die Top-News vom 30.1.2026",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-3012026-162393/",
+      "published_at": "2026-01-30T15:02:08+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Fettleber: Nächste Indikation für Semaglutid, nächstes Präparat",
+      "summary_de": "Bislang gibt es mit Ozempic&reg;, Wegovy&reg; und Rybelsus&reg; drei verschiedene Semaglutid-haltige Fertigarzneimittel auf dem deutschen Markt. Nach der EU-Zulassungsempfehlung bei MASH k&ouml;nnte Nummer 4 bald folgen: Kayshild&reg;.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/naechste-indikation-fuer-semaglutid-naechstes-praeparat-162391/",
+      "published_at": "2026-01-30T15:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [
+        "Europa"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Wirtschaft: Wilcke-Pasternacki übernimmt die Leitung von »Gesund leben«",
+      "summary_de": "Ab Februar &uuml;bernimmt Tanja Wilcke-Pasternacki die Leitung der &raquo;Gesund leben&laquo;-Apothekenkooperation, der eigenen Angaben zufolge rund 3.600 Apotheken z&auml;hlen. Dies teilte das Unternehmen in einer Pressemitteilung mit.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/wilcke-pasternacki-uebernimmt-die-leitung-von-gesund-leben-162389/",
+      "published_at": "2026-01-30T14:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Berberin bei Adipositas: Schadet nicht, bringt aber auch nichts",
+      "summary_de": "In den sozialen Medien wird Vieles als Wundermittel zum Abnehmen verkauft &ndash; auch der Naturstoff Berberin. Jetzt hat eine randomisierte klinische Studie untersucht, ob Berberin Fettpolster abschmelzen kann.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/schadet-nicht-bringt-aber-auch-nichts-162383/",
+      "published_at": "2026-01-30T14:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Apothekensterben: 34 Schließungen in Hessen im vergangenen Jahr",
+      "summary_de": "Auch im Jahr 2025 setzte sich in Hessen das Apothekensterben mit 34 weiteren Schlie&szlig;ungen auf hohem Niveau fort. Dies teilte die Landesapothekerkammer Hessen in einer Pressemitteilung mit.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/34-schliessungen-in-hessen-im-vergangenen-jahr-162386/",
+      "published_at": "2026-01-30T13:45:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: Atomoxe - 1 A Pharma 10 mg Hartkapseln pU: 1 A Pharma GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-01-30T13:44:47+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "GoRedBeat2026 : »Es ist total sexy, seinen Blutdruck zu wissen«",
+      "summary_de": "Mit 35 Prozent sind Herz-Kreislauf-Erkrankungen bis heute die h&auml;ufigste Todesursache von Frauen in Deutschland. Das Event GoRedBeat der Healthcarefrauen e.V. machte gestern unter dem Motto &raquo;Kein Frauenherz wird &uuml;bersehen&laquo;&nbsp; auf die Herzgesundheit von Frauen aufmerksam.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/es-ist-total-sexy-seinen-blutdruck-zu-wissen-162388/",
+      "published_at": "2026-01-30T13:44:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "AKWL: Bielefelds Oberbürgermeisterin besucht Apotheke",
+      "summary_de": "Christiana Bauer, Oberb&uuml;rgermeisterin von Bielefeld, besuchte eine Apotheke, um sich &uuml;ber die Ursachen der steigenden Apothekenschlie&szlig;ungen zu informieren.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/bielefelds-oberbuergermeisterin-besucht-apotheke-162385/",
+      "published_at": "2026-01-30T13:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Ski: Lindsey Vonn nach Sturz in Crans-Montana in Klinik geflogen - FAZ",
+      "summary_de": "Ski: Lindsey Vonn nach Sturz in Crans-Montana in Klinik geflogen &nbsp;&nbsp; FAZ",
+      "source_name": "\"site:faz.net medizin\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTzBWZldDbDQ1eXQ4VHBxcGVOM2tnaUNrWUxrSTZaWWdabkFYUTdnRUZGd1ZtWmdId1NpbDZaZ1ltSnlsRVZwSXEwRFY2TWlNNG1tR1FyeUtNSklQNlY2X0tWbmo1WmVRSkVnX3ZmelJyVll2LWU0MlBLaU5ZUTkwSDhKdjBybDduTUxGZW80YzhaMmxTOU9yWWlzeWI4aWQ1dUlsUHowN0lDQmFCZElYdE1LZE1RbTc0bTQtTks1RlNyakU2Tl9YQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-30T13:20:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "RSV-Welle: Warum weniger Kinder in die Klinik müssen - Spiegel",
+      "summary_de": "RSV-Welle: Warum weniger Kinder in die Klinik müssen &nbsp;&nbsp; Spiegel",
+      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS21OLVI0ZVhINDhxdEFEUGNxSkxNMldtSUptTGx4WUZFQXd0OGMxNlVsVHlXSDNIbGQ5VlBHWjUydU9OYlRHdmc4UF9sbVBlc2F1dTR0RzE2VHNlMnNxLV85SEMyNUZtTUgtSmptMVBETzJORlFVZ19CdGxHS1AtLXZkODZhNEd2R2IxdTdHLWhaZTl6UDFVRkRTcW5zUktzOUJxSEtDbWotV3VERUw1TlR2V01fQUx0eGdRSTBUOEhTbWs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-30T12:58:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Longevity: Wie sehr bestimmen unsere Gene, wie lange wir leben?",
+      "summary_de": "Pr&auml;gen unsere Gene unsere Lebenserwartung viel st&auml;rker als angenommen? Eine Analyse deutet in diese Richtung. Wie lange man lebt, soll zu mehr als 50 Prozent erblich bedingt sein &ndash; und doch l&auml;sst sich vieles beeinflussen.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/wie-sehr-bestimmen-unsere-gene-wie-lange-wir-leben-162381/",
+      "published_at": "2026-01-30T12:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Saarland : Neuer Standort für Vetter Pharma",
+      "summary_de": "Das Unternehmen&nbsp;Vetter Pharma will noch in diesem Jahr mit dem Bau eines neuen Standorts im Saarland beginnen. Bald sollen hier bis zu 2000 Menschen besch&auml;ftigt werden.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/neuer-standort-fuer-vetter-pharma-162384/",
+      "published_at": "2026-01-30T12:18:09+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Decision: Orphan registered medicinal products",
       "summary_de": "A list of authorised orphan medicinal products registered by the UK licensing authority.",
@@ -14,10 +156,10 @@
       "type": "News"
     },
     {
-      "title": "EU: Verheyen: Volle Unabhängigkeit von Generika nicht möglich",
+      "title": "EU-Abgeordnete Verheyen: Volle Unabhängigkeit von Generika nicht möglich",
       "summary_de": "Die PZ hat mit Sabine Verheyen (CDU), EU-Abgeordnete und&nbsp;erste Vizepr&auml;sidentin des Europ&auml;ischen Parlaments, &uuml;ber die Produktion von Medikamenten in Europa und den Reformbedarf der&nbsp;Europ&auml;ischen Union (EU) gesprochen.&nbsp;&nbsp;",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/verheyen-volle-unabhaengigkeit-von-generika-nicht-moeglich-162373/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/volle-unabhaengigkeit-von-generika-nicht-moeglich-162373/",
       "published_at": "2026-01-30T11:30:00+00:00",
       "category": "Europa",
       "tags": [],
@@ -60,26 +202,6 @@
       "source_url": "https://www.ema.europa.eu/en/news/first-immunotherapy-based-treatment-recommended-advanced-anal-cancer",
       "published_at": "2026-01-30T10:50:18+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Endemeldung Arzneimittel: Mycophenols&#228;ure HEXAL 180 mg magensaftresistente Tabletten pU: H e x a l Aktiengesellschaft",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-01-30T10:47:12+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Ski: Lindsey Vonn nach Sturz in Crans-Montana in Klinik geflogen - FAZ",
-      "summary_de": "Ski: Lindsey Vonn nach Sturz in Crans-Montana in Klinik geflogen &nbsp;&nbsp; FAZ",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTzBWZldDbDQ1eXQ4VHBxcGVOM2tnaUNrWUxrSTZaWWdabkFYUTdnRUZGd1ZtWmdId1NpbDZaZ1ltSnlsRVZwSXEwRFY2TWlNNG1tR1FyeUtNSklQNlY2X0tWbmo1WmVRSkVnX3ZmelJyVll2LWU0MlBLaU5ZUTkwSDhKdjBybDduTUxGZW80YzhaMmxTOU9yWWlzeWI4aWQ1dUlsUHowN0lDQmFCZElYdE1LZE1RbTc0bTQtTks1RlNyakU2Tl9YQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-30T10:44:46+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -274,20 +396,20 @@
       "type": "News"
     },
     {
-      "title": "Anhörung im Gesundheitsausschuss : Schnellere Anerkennung für ausländische Fachkräfte",
-      "summary_de": "Die Abschl&uuml;sse ausl&auml;ndischer Fachkr&auml;fte sollen schneller im deutschen Gesundheitswesen anerkannt werden. Am Mittwoch wurde der Gesetzentwurf im&nbsp;Gesundheitsausschuss des Bundestags diskutiert. Neben viel grunds&auml;tzlicher Unterst&uuml;tzung &auml;u&szlig;erten die Verb&auml;nde auch Bedenken.&nbsp;",
+      "title": "AlphaGenome: KI-System entschlüsselt Steuerung der Gene",
+      "summary_de": "Googles KI-Ableger DeepMind hat ein System entwickelt, das mit k&uuml;nstlicher Intelligenz das Genom und dessen Steuerung analysiert. Es soll besser sein als bisherige Modelle. Erste Ergebnisse stellen die Entwickler jetzt vor.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/schnellere-anerkennung-fuer-auslaendische-fachkraefte-162367/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/ki-system-entschluesselt-steuerung-der-gene-162365/",
       "published_at": "2026-01-29T17:00:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "AlphaGenome: KI-System entschlüsselt Steuerung der Gene",
-      "summary_de": "Googles KI-Ableger DeepMind hat ein System entwickelt, das mit k&uuml;nstlicher Intelligenz das Genom und dessen Steuerung analysiert. Es soll besser sein als bisherige Modelle. Erste Ergebnisse stellen die Entwickler jetzt vor.",
+      "title": "Anhörung im Gesundheitsausschuss : Schnellere Anerkennung für ausländische Fachkräfte",
+      "summary_de": "Die Abschl&uuml;sse ausl&auml;ndischer Fachkr&auml;fte sollen schneller im deutschen Gesundheitswesen anerkannt werden. Am Mittwoch wurde der Gesetzentwurf im&nbsp;Gesundheitsausschuss des Bundestags diskutiert. Neben viel grunds&auml;tzlicher Unterst&uuml;tzung &auml;u&szlig;erten die Verb&auml;nde auch Bedenken.&nbsp;",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/ki-system-entschluesselt-steuerung-der-gene-162365/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/schnellere-anerkennung-fuer-auslaendische-fachkraefte-162367/",
       "published_at": "2026-01-29T17:00:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
@@ -474,16 +596,6 @@
       "type": "News"
     },
     {
-      "title": "Pforzheim: Fixierter Patient verbrennt – schwere Vorwürfe gegen Ärzte - FAZ",
-      "summary_de": "Pforzheim: Fixierter Patient verbrennt – schwere Vorwürfe gegen Ärzte &nbsp;&nbsp; FAZ",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ2N0NFhtNk9pcklxY0VmLWJtbWQ0XzVtaFQxYm5sU2pmWVFwbjRMeEVoOVVYMnFtZmI1NERweUZTcE1QbGQzMFJQZjUyU0RySllkZndGYnRZc1JWenlXVEZTa0Q3Q20wY1Byeml1YU90OHlfenQ5MUQwNUtYaDMtalNWYVRFenlnN09nVnlVTl9fU2g0ZEY4N2FUQnYyM0s4NkpMT2VFeXdlbTAzYUdTRmVxYV9ySFZSX0c0cGlGMEFVY3UyNzBYbDJadGNIWTN6QkJoOQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-29T13:36:31+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Vogelgrippe - Geflügelpest: Seit September 437.000 Tiere in MV getötet - Gesundheit - SZ.de",
       "summary_de": "Vogelgrippe - Geflügelpest: Seit September 437.000 Tiere in MV getötet - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -591,16 +703,6 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/pantazis-will-rolle-der-apotheken-schaerfen-162345/",
       "published_at": "2026-01-29T11:47:01+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Apothekenvergütung: AOK: Sparen statt Fixum erhöhen",
-      "summary_de": "Ein angepasstes Fixum soll kommen, hat Bundesgesundheitsministerin Nina Warken (CDU) im PZ-Talk &raquo;Alex&lsquo; Doppelte Dosis&laquo; versichert. Die Krankenkasse DAK Gesundheit preist eine Erh&ouml;hung in den k&uuml;nftigen Ausgabenblock der Kassen ein &ndash; das kann der AOK-Bundesverband nicht nachvollziehen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/aok-sparen-statt-fixum-erhoehen-162342/",
-      "published_at": "2026-01-29T11:45:10+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
@@ -726,26 +828,6 @@
       "type": "News"
     },
     {
-      "title": "Ernährung: Eiweißbedarf pflanzlich decken? Darauf kommt es an",
-      "summary_de": "Tofu, Linsen, Vollkornbrot: alles pflanzliche Lebensmittel, die reich an Eiwei&szlig; sind. Clever kombinieren - das ist das Motto f&uuml;r alle, die den Bedarf ohne Fleisch und Eier decken wollen. So geht's.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/eiweissbedarf-pflanzlich-decken-darauf-kommt-es-an-162336/",
-      "published_at": "2026-01-29T08:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Lernen mit KI-Unterstützung: KI kann geistig träge machen",
-      "summary_de": "K&uuml;nstliche Intelligenz kann Lernenden zwar helfen, kurzfristig bessere Leistungen zu erzielen. Gleichzeitig nimmt sie jedoch den Anreiz, Informationen nachhaltig zu verinnerlichen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/ki-kann-geistig-traege-machen-162320/",
-      "published_at": "2026-01-29T08:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit: DAK-Report: Mehr Essstörungen bei Teenagern - DIE ZEIT",
       "summary_de": "Gesundheit: DAK-Report: Mehr Essstörungen bei Teenagern &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -764,36 +846,6 @@
       "category": "News",
       "tags": [],
       "type": "News"
-    },
-    {
-      "title": "Anämie: Vor Operationen rechtzeitig behandeln",
-      "summary_de": "Menschen mit einer An&auml;mie erleiden nach einer Operation mehr Komplikationen als Personen&nbsp; ohne An&auml;mie. Wenn an&auml;mische Zust&auml;nde rechtzeitig pr&auml;operativ behandelt werden, nimmt die postoperative Komplikationsrate ab.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/vor-operationen-rechtzeitig-behandeln-162299/",
-      "published_at": "2026-01-29T07:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Özdemir im Interview : »Der Rückgang der Apothekenzahl alarmiert mich«",
-      "summary_de": "Die PZ hat mit Cem &Ouml;zdemir, Spitzenkandidat von B&uuml;ndnis 90/ Die Gr&uuml;nen f&uuml;r die Landtagswahlen in Baden-W&uuml;rttemberg, &uuml;ber die Rolle der Apotheken im Gesundheitssystem gesprochen.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/der-rueckgang-der-apothekenzahl-alarmiert-mich-162328/",
-      "published_at": "2026-01-29T06:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Lebenszufriedenheit: Langes Single-Sein belastet die Psyche",
-      "summary_de": "Junge Erwachsene, die dauerhaft Single bleiben, verlieren einer Studie zufolge mit der Zeit st&auml;rker an Lebenszufriedenheit und f&uuml;hlen sich einsamer. Die Belastung nimmt besonders in den sp&auml;ten Zwanzigern zu.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/langes-single-sein-belastet-die-psyche-161891/",
-      "published_at": "2026-01-29T06:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
     },
     {
       "title": "Neues MRT-Gerät in Magdeburg: Wie Patienten von der Millionen-Investition profitieren - volksstimme.de",
@@ -898,16 +950,6 @@
       "type": "News"
     },
     {
-      "title": "Patientenfall: Bluthochdruck weg mit Tipps aus der Apotheke",
-      "summary_de": "Eine Medikationsanalyse sollte kl&auml;ren, ob sich die Arzneimittel optimieren lassen. Schlie&szlig;lich bekam die stark adip&ouml;se Patientin ihren Blutdruck allein mit Lifestyle-&Auml;nderungen in den Griff &ndash; dank Beratung und stetiger Motivation durch ihre Apothekerin.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/bluthochdruck-weg-mit-tipps-aus-der-apotheke-162323/",
-      "published_at": "2026-01-28T17:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Todesursachen - Lungentumore sind bei Frauen und Männern häufigster Krebstod - Gesundheit - SZ.de",
       "summary_de": "Todesursachen - Lungentumore sind bei Frauen und Männern häufigster Krebstod - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -944,16 +986,6 @@
       "source_url": "https://www.gov.uk/government/news/mhra-issues-new-guidance-for-people-using-mental-health-apps-and-technologies",
       "published_at": "2026-01-28T16:11:54+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "USA: »Ihre Stärke hacken sie sich gerade kurz und klein«",
-      "summary_de": "Die US-amerikanische Arzneimittelpolitik und das daraus resultierende Risiko f&uuml;r das deutsche Gesundheitssystem wurden heute auf dem BMC-Kongress diskutiert.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/ihre-staerke-hacken-sie-sich-gerade-kurz-und-klein-162332/",
-      "published_at": "2026-01-28T16:00:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -1014,16 +1046,6 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/december-2025",
       "published_at": "2026-01-28T15:29:54+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "PZ Briefing: Die Top-News vom 28.1.2026",
-      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-2812026-162331/",
-      "published_at": "2026-01-28T15:28:08+00:00",
-      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -1378,16 +1400,6 @@
       "type": "News"
     },
     {
-      "title": "Erster Nachweis außerhalb USA - Vogelgrippe bei Kuh in den Niederlanden – Was bedeutet das? - Gesundheit - SZ.de",
-      "summary_de": "Erster Nachweis außerhalb USA - Vogelgrippe bei Kuh in den Niederlanden – Was bedeutet das? - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPejZRTXZKc1Vsd3Y3WTRWN2JodUpnMG1Kellud2pLU3F5WVBqaWFDN0ppaFcxUU1wUzBEMm5VNzNzNEhFcFVsMXJJX1p0M2haX0RHZlFEXzZ4elE2eTBxYVd4ZTlEX3NoaVJ1ejgzSDFyNlgzdWZtOFJBbndZUndwc3dzNE1GUGlTR19OU1o2UFFPY2dGSnlPUFg2a1JKNVo3dFV0eVhzWXY5QS1FSXAwdWVTSEJfNEw0ZHV1LW9Cb25pU1paMUJuTjNKbUlmcjdxOWlHdUNiZ0RnTXZiMTlWbmxfRE05ai1WTFc4ZjNCdkxobDNnRTlDSE91LVBBUzhDVjQyakdfUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-27T00:00:04+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Clinically indicated removal versus routine removal of peripheral venous catheters",
       "summary_de": "Clinically indicated removal versus routine removal of peripheral venous catheters",
       "source_name": "Cochrane Library RSS feed.",
@@ -1413,16 +1425,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQR2FDLUhDMFM2ekpGSUR4TFVnbFZibnNiY2doOGNzeFI2ZkNBektNWWtrZjVoam55SDVZSDI2SV9aNXlLVVJMMV8tckZPQmoyaV9hbmxtT0p1Mi1ZV0M4emgyUXpsdWotWHF4dW1DbzZTZ29sZGF1eTN3Wk9jdy1LSU9jSzlaMml3REdwZ3Rtc082aE16bWF0Vnk5dHVza0tQeEV2eFd1QWdHaTFWMXpHUElWYWd2Wi1MU0ROZzBLbU5PTTlqc21hQ1ZRa1ZVMFd2OXREWXg0bHNZai1mM0tIR25mQkg0RFh0a1JodGtPUktiTU9SMVE0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-26T23:05:06+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Wellness zu Hause - Ab in die Wanne! 7 Fragen rund ums Baden - Gesundheit - SZ.de",
-      "summary_de": "Wellness zu Hause - Ab in die Wanne! 7 Fragen rund ums Baden - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVEFlNjUyUVFMYXRWdGRZN1dGb0tVYUlha1VzRVktSU5rUlA0emJXb3l1dzlZbzcyVlJKSDhaaXk2QzVYRTZVSElTNDNjUTNCT1BRMlN3TGk0SUdlSk8zdF9jaDJtTWVkbngwN3NNMjR5V2NqWmlRZFl0cXlCakhDQnpJMll0SWtIRFhWX3ZkRW5VdXhBWnFJUGVNS09VSEJjS1praHlXcUkwaUotTHc1Sm9TMnZDVHdBWldvR3ZDejBTdkFNd1dhTkFPX2ltcnQtZU5hZTUyb0xVa0RNMlpB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-26T23:05:05+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1514,16 +1516,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOc2Zfb2EyYjR3MWh6X0RaR2c0N1B2bXlfZ29XLTQxTEFHZWlycWdxSXJKc3BGQ1BvNkNuZDI1STVkQXR6djdLa3JlT05uanFwUjk0c1ptM1IyemwwbzlDcW9qbGpUVGVRSGhpYmFubU4wY0xvd3l4SVdYbF9IdDlWVFJxS3QyUG80NW1CMkFrV1Rfb0M4czJ5Y1RNeS1WSHY0a09hM1FCWkxXNThERTdoODdvdTJfbV9PSFlzcW81SzVRTlZ3Q1pXMVJVNG1Rd3JuQXVnZmQ3d1h3VUR6RUlNOGxUcW5GaUp2bkxERE5CZXZCUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-26T15:41:02+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Safety Public Assessment Reports",
-      "summary_de": "These reports explain our assessment of the scientific evidence used to lead to regulatory decisions on the safety of medicines or medicines classes.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/guidance/safety-public-assessment-reports",
-      "published_at": "2026-01-26T15:33:31+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -1713,36 +1705,6 @@
       "type": "News"
     },
     {
-      "title": "Krankenstadt von Arbeitnehmern - DAK: Krankenstand in Schleswig-Holstein stabil - Gesundheit - SZ.de",
-      "summary_de": "Krankenstadt von Arbeitnehmern - DAK: Krankenstand in Schleswig-Holstein stabil - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcDEzam5iN0x6dHVraUlMcDNvWllOQ1JSVmQ1dTRVV2U1T2hnUm12eVlMUVp4MkkycmFKUXBBejhfckRiSVNPR2J1S3BkOERnNll0Nk5WeXlLRWJKNWpCQU80WDA2aUUwblg3WW5CSlZlNU1qZDBSa3BHTy1NbTR4bFZ2Sm1Dd0htOUtSbjU0SzRydWJnaVdfLTRqM1BmMS1vMUJ6UTNSc0xldE5JaXBrV1pwejZSYTljYlpkWmswa2xkQl9EZXhVLVkzbjBxUVdFNDdyaWpYdC1VM0hhM0dxQVVtVUNhOG9STVRzXzJJblNCcUlMMzBtaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-24T04:20:04+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Datenauswertung - Krankenstand verharrt auf gleichbleibendem Niveau - Gesundheit - SZ.de",
-      "summary_de": "Datenauswertung - Krankenstand verharrt auf gleichbleibendem Niveau - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSmozNHl5em1iYzhYVVJpUUZvejdKZ3pSS1k0RnlHeTZ4bWRsLVRSRldOSTluakN1S2g2eUtsTHVjOWQ0NVpCRl9HZE9TeHRyTm8ydjF1b0N4bEZvQkRURzEyejRwdEFjemFvV2pmQnhHV3REUmNfNjVzaGRjcFFWVVAtYmx2Tm4zM09qMzF2Z1M2RWpVUWc0dHZiODF5V09XTzg5M3V5SWp3V0ZJVzJyNkI3c2xsREU5QUducmdEV01tU0lBSjljRjItSldQVlVuVWVZX3ZOdGd2b2VwUTYxNTNUeG5jX1g3ZFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-24T04:00:14+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Krankschreibungen - Krankenstand in Brandenburg verharrt auf hohem Niveau - Gesundheit - SZ.de",
-      "summary_de": "Krankschreibungen - Krankenstand in Brandenburg verharrt auf hohem Niveau - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWkFJbXU5OW9ZYW4zT1hkZ29wdE4xVFF5TzN2VVJQQVYxUVdKRnl1TVJlTVgzV0JaNEhxbEwyTmh1NS1CUEZpTnhwMDFzeG5YcXFrQ1FtcTF4THFmVTBKYVZGV2stQUhWQ0gwRDAxekRfU1R0cEo3elI0LVFiUFFzdkxfbXRrWUw0X2p3SmR0M290UTBxYXdTRjdRS005dnJNVE83dnlDZDlxYXphWFZnblJKOFBhaUppRTVLSFRNem1pMExkU0dlYjhjZGI3TG5lWnRjNm5HRVZ2U1pYaGRRWEo0V2JRcHBMQjJ3dm1xVHhMZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-24T03:00:34+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Arbeitsunfähigkeit - Krankmeldungen im Südwesten leicht rückläufig - Gesundheit - SZ.de",
       "summary_de": "Arbeitsunfähigkeit - Krankmeldungen im Südwesten leicht rückläufig - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1757,16 +1719,6 @@
       "summary_de": "Gesundheit: Bayern waren 2025 seltener krankgeschrieben &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOGUyXzgzSnpJY0hqam9LY1FMLVRNcUk0WFZuWnVUQ2NOSS1rTDV5SDYwSjhQUGFHUWw3dFdYUGRxLTFVZFNiQ0VJLVZGOHIzb0pEc3hGZm5oUURKUzNmY3ItanR0NmZPS2V5Z0tXZDdEbll0SkFPc1dvblFNSU42QlZGS3ZPZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-24T03:00:05+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit - Bayern waren 2025 seltener krankgeschrieben - Bayern - SZ.de",
-      "summary_de": "Gesundheit - Bayern waren 2025 seltener krankgeschrieben - Bayern &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdnhqUXhjSkhkT0x6TmM0RzJnUXFaS2hNOW1SNDg0Qm5kZFFJSi1Eb1Q4ZTJBUFlScktNMXJRbmNfeGh5TDhnbnppemV3aUlxeE9FYW9jOFFaR1VFZ1ZTUTdydlB6cEUwbE1ZQzRqa2NyVDZlblBuQU5FajVEbjA0eE1mRC1RNlJDZGd3MUVOdmItUkozNjNLUTRDdjhDOXF4VHR2b2c4Z0tvTW5BR2w1MWdVUWd1YkFLUWJyakxxWnNZWXNTZGc3N2pJZmtLWjJ4ZHVjM093?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-24T03:00:05+00:00",
       "category": "News",
       "tags": [],
@@ -1808,26 +1760,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMTVFWmo1YzUxYUJHOGdTWlNuNGt0em55Z1UwWmRFM2s2VFFDZUlmU1d1Z3J2WDBkb2R3X3VqUktGTFRWekQyU1RxUXhpVjVmcHZwTFFNUHhtMThUVkZRU0JwM2tjbXA1TXNzVUFUbzRqbXZNeFh1WGlFZ0ljQ2YxalVYRkRCa0lhYXMySlhGeXJQbzJnSEd0VXgzU0ZZdnd6ZWU1eDVPZHhQZk04TEdlWE94OGk0dklwcllzSkJmbk5OVk1VYUNVSVRsQi0xbWhEY1JZWlN5Zjh3NzU5ZlNRMHhWZ0tNM2M5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-23T15:40:22+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Yoga für die Gesundheit: Wundermittel oder Esoterik? - SZ.de",
-      "summary_de": "Yoga für die Gesundheit: Wundermittel oder Esoterik? &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSlROMGRTZTZwSTBaX2lEMmpKaC1BNTRWbl9YbGVmcWVxQk5vcDVGVDg5Vk9yX1dLdzJlMmlucFpsOUQzYUloNTgyck1pZDY2UGdjVkJWLTFfWlMwYzdxUTFFWGk3WnJfT3B5dy1lVmw4OGszQnNuMExKckNEbDhzaGJ3RHhzZVk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-23T15:19:56+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Grippewelle - Immer mehr Grippe-Erkrankungen - bisher 45 Todesfälle - Gesundheit - SZ.de",
-      "summary_de": "Grippewelle - Immer mehr Grippe-Erkrankungen - bisher 45 Todesfälle - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQnFFU3FUWmlOdEQ3ZmxScmliTFNoSXpkUGx0M3VfcWhaYXRCZ3gzdEg1X0l4TUpybmRCc1JXbUFZNVZwRzlDbmJGOVlHbmpxdXRpb29aUTFPMDdqNkJIS3F4SWpxalVDNVl6YVJLWWxzSk4wX1BHZXBWZC1XNWxZUU1qdUxlRWlyVkxSTkcxZl9USDlZeGl5Q0RZQm1qR1J1QXlBbDJ6aWE4ZVhYeUREaG1WX2otRDBQNFd6dkEtS1BfSGgtS0EwLXhKQkFhSGVDUGsxcGFnY1hGRUhZakhSTDFjWHJRQnpn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-23T14:45:31+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1981,18 +1913,6 @@
       "category": "Gesundheitspolitik",
       "tags": [
         "Versorgung",
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
-      "title": "Kosten für Pflege im Heim erneut gestiegen - tagesschau.de",
-      "summary_de": "Kosten für Pflege im Heim erneut gestiegen &nbsp;&nbsp; tagesschau.de",
-      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM0l3S1F5S0tqLXMyNDFLVnEzTmdIeDJFWS1EUmdpUFZGQmQxZjYxdEl0MW5nLWoyMVRpQWR6VTE0YnJzU3k2bW40ZXQ1dzJYTHlPMHJWOWxPVHlmT01yWVBqcXlUcGpkdFF1bC0yemY4N1d3YUF2ZTNXM0NiUE9obQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-22T07:01:00+00:00",
-      "category": "Versorgung",
-      "tags": [
         "Wirtschaft"
       ],
       "type": "News"
@@ -2222,16 +2142,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "DAK-Gesundheit fordert Krankenstands-Gipfel beim Kanzler - dak.de",
-      "summary_de": "DAK-Gesundheit fordert Krankenstands-Gipfel beim Kanzler &nbsp;&nbsp; dak.de",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY3kyQWhSR2pEUU1oSVdKcjNRQnhiUTJ5Rjk4M1U1emJhX2NreUUtRGdWTFVuRHRJNXZvLVJrcGpaMEoxT01JXy1GU0F6SmE4aGhDbVQxS0hyaGxZWlQ2R19kVTFOU2plNzVNOTMwUEhMNTdrSkJpeGpZRzJZX0pSeHNlc040TTgxODdNbkd1VnJmSndOeVhqbV9zNWdpemFUNVl4UTVlUmhkWXdHcU1VTWEzSDVSMVZUem5aYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-19T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
@@ -2895,16 +2805,6 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Alzey - BARMER",
-      "summary_de": "BARMER Krankenkasse in Alzey &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQUNiSjZpbXMzMzVtcTlUS29FTDJQc2lQMV95MDBoY3ZySlZHaGpNUDdpVTNsZEVXZ1BWbHBmenJBNDRCY21jOVk0U1J5eUwxbFEtUzRtSGlvYVJteHphUHAybTJ3blpqR2lLN3g0SWdKc1hWTEpwOTFZeVd6VFBTYWdzMFNyWVFxQ2lGa2pXckNnZGNJclJRWDBNSFJ1QmhYYmxQNFZoS2EybjhkN2JFNG5lY3BfMHlGM2l4WGN4bU5uNUZ5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "BARMER Krankenkasse in Oldenburg - BARMER",
       "summary_de": "BARMER Krankenkasse in Oldenburg &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
@@ -3165,16 +3065,6 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Cham - BARMER",
-      "summary_de": "BARMER Krankenkasse in Cham &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQTNBYWF0MXFvaW9UU1RqRkZIamZvTEdBX0xzcTVWMnMwNGoySkJEVmJlc0hETkROSGJVb2o1WVRhWlozMWFDSEJiT21YTEgyUURpQTNqdjFDRUZaREl6RDMzS2pRWURUMmZJaTQzNWJHem9Jd1JYYjF0Sms4STMzdUo0cU93RzdEX0oxalNoS0VQcUhSbkxIRlhVb042OGFrLWhVcjVPR212Zm4xeU5zWjRtNW5ia19wclBxTExOejdTTGM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -3296,6 +3186,16 @@
       "tags": [
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "MRT für Selbstzahler? Radiologe verrät, wann es sinnvoll ist & was es kostet - morgenpost.de",
+      "summary_de": "MRT für Selbstzahler? Radiologe verrät, wann es sinnvoll ist & was es kostet &nbsp;&nbsp; morgenpost.de",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWU9FRzFLckxBMXlHcV85UVJZTU9jSGlYWU5ocjBDa3FVLUI4cTUxUkpVZzZJZXVWTVVVRXN1azlSZkprMUxwcWw0ZVdVaU9sZnJyWEk5WE13Z05QOHoteU1CUkFGaU9TSjRBWHNBc0ZXZkVtVnMzSWVGRU8wVXRBVEJQR2t3dG9OMEJJNDFKbFQySHVDbnRCUndGakFIR3czSkpTXzVOZmQ1UjBVSVEyc2JXbkpKenhQdW1Cb29TN2h5Q2lkZ1E3Z3BvS0ZhdDdCbGtz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-12T08:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
       "type": "News"
     },
     {
