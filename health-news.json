@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-01-31T06:30:09.461126+00:00",
+  "generated_at": "2026-01-31T09:21:46.579140+00:00",
   "window_days": 42,
-  "count": 327,
+  "count": 326,
   "items": [
+    {
+      "title": "PZ Briefing: Die Top-News der Woche",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten der Woche aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-der-woche-162392/",
+      "published_at": "2026-01-31T08:00:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Gesundheit: Angststörungen bei Mädchen in Niedersachsen nehmen zu - DIE ZEIT",
       "summary_de": "Gesundheit: Angststörungen bei Mädchen in Niedersachsen nehmen zu &nbsp;&nbsp; DIE ZEIT",
@@ -316,6 +326,16 @@
       "type": "News"
     },
     {
+      "title": "AI improves radiologists' performance for identifying lung cancer on CT",
+      "summary_de": "The findings \"support integrating AI into chest CT workflows to enhance early-stage lung cancer detection,\" researchers noted.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15816015/ai-improves-radiologists-performance-for-identifying-lung-cancer-on-ct",
+      "published_at": "2026-01-30T09:28:01+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Falschmeldung zu Impfungen: »Turbokrebs«-Mythos macht immer wieder die Runde",
       "summary_de": "Impfgegner sind auch nach der Corona-Pandemie in sozialen Netzwerken unterwegs. Sie warnen vor angeblich schwersten Nebenwirkungen und sprechen von &raquo;Turbokrebs&laquo;. Was hinter dieser Falschmeldung steckt.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -596,22 +616,22 @@
       "type": "News"
     },
     {
-      "title": "EU-Freihandelsabkommen: Indien streicht Zölle für EU-Arzneimittel",
-      "summary_de": "Als »Mutter aller Deals« bezeichnete Indiens Premier Modi das neue Freihandelsabkommen mit der EU. Für die Pharmabranche bedeutet es den weitgehenden Abbau der Zölle auf EU-Arzneimittel von derzeit 11 Prozent. Sehr zur Freude der deutschen Pharma-Unternehmen. Beim Thema Patentschutz gibt sich die Branche aber noch zurückhaltend.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/indien-streicht-zoelle-fuer-eu-arzneimittel-162353/",
-      "published_at": "2026-01-29T14:30:00+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Mentale Erschöpfung: Nichtstun – der Kreativ-Kick fürs Gehirn",
       "summary_de": "St&auml;ndige Reize halten das Gehirn zwar auf Trab, f&ouml;rdern aber nicht unbedingt seine Kreativit&auml;t. Eine Neurowissenschaftlerin erl&auml;utert, wie wichtig bewusste Pausen f&uuml;r Einfallsreichtum und emotionale Regulation sind.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/nichtstun-der-kreativ-kick-fuers-gehirn-162348/",
       "published_at": "2026-01-29T14:30:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "EU-Freihandelsabkommen: Indien streicht Zölle für EU-Arzneimittel",
+      "summary_de": "Als »Mutter aller Deals« bezeichnete Indiens Premier Modi das neue Freihandelsabkommen mit der EU. Für die Pharmabranche bedeutet es den weitgehenden Abbau der Zölle auf EU-Arzneimittel von derzeit 11 Prozent. Sehr zur Freude der deutschen Pharma-Unternehmen. Beim Thema Patentschutz gibt sich die Branche aber noch zurückhaltend.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/indien-streicht-zoelle-fuer-eu-arzneimittel-162353/",
+      "published_at": "2026-01-29T14:30:00+00:00",
+      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -746,16 +766,6 @@
       "category": "Europa",
       "tags": [],
       "type": "News"
-    },
-    {
-      "title": "Schlaf-Wach-Rhythmus: Nachteulen haben häufiger Herz-Kreislauf-Krankheiten",
-      "summary_de": "Nachteulen leben einer Studie zufolge oft unges&uuml;nder. Die gute Nachricht: Einiges daran l&auml;sst sich &auml;ndern - auch ohne fr&uuml;her ins Bett zu gehen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/nachteulen-haben-haeufiger-herz-kreislauf-krankheiten-162347/",
-      "published_at": "2026-01-29T11:47:47+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
     },
     {
       "title": "Tarifauseinandersetzungen - Weitere Warnstreiks im Uniklinikum in Kiel - Gesundheit - SZ.de",
@@ -1318,16 +1328,6 @@
       "type": "News"
     },
     {
-      "title": "Krankenkasse muss nicht für Nierentransplantation in den Niederlanden zahlen – News - Deutsches Ärzteblatt",
-      "summary_de": "Krankenkasse muss nicht für Nierentransplantation in den Niederlanden zahlen – News &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObERqanhNZ1RTOTBuOW82cnliT3FicUZPNU04WTkwUTNWYjVzOS02TUN1Zy0zSXUxdmo1ZnBPTjhhSjNmUDBHZUFFc2kwSWl6OGNxUFJHOVZJcVhIMi05SVVxTVRGa2ZMNDZhZG1KMW1ZdjZBR01SblFYVlZwcFpQWXR4NkowUmdlcWN2UmhzTEx3NlZsREJaLTBJV3lLZFF0NnhhOWpmQndPYXltMVFLdnBkNm81Z0dVOHlPSmtFenZ3Vkx6ckluTjkzUHhiSHFuWmF2aDZqb2VUQzNjNnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-27T12:05:12+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit: 180 Millionen Euro für Neubau der Sana Kliniken Lübeck - DIE ZEIT",
       "summary_de": "Gesundheit: 180 Millionen Euro für Neubau der Sana Kliniken Lübeck &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -1446,16 +1446,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-27T09:01:51+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "CT, MRI analysis reveal benefits of embolization procedure for hematoma",
-      "summary_de": "CT and MRI outcomes support the use of meningeal artery embolization in patients with chronic subdural hematomas.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/interventional/article/15815693/ct-mri-analysis-reveal-benefits-of-embolization-procedure-for-hematoma",
-      "published_at": "2026-01-27T09:00:05+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1663,18 +1653,6 @@
       "type": "News"
     },
     {
-      "title": "Neues CT-Gerät: Radiologie 360° im Florence-Nightingale-Krankenhaus erweitert Kapazitäten - LokalKlick.eu",
-      "summary_de": "Neues CT-Gerät: Radiologie 360° im Florence-Nightingale-Krankenhaus erweitert Kapazitäten &nbsp;&nbsp; LokalKlick.eu",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWEJHM2lvZUg2ZGRBQUxWeWdvM043MXVNQzdxb1pXS2RiTHFkRWJsVzRTUmhOSHdxSUVmeThra19KdlEyd3BFTXJhdWIzU3JDSjhnSnI3ek1FaThLRHRKSVJoTkNCOWdSWF93dVZvQk5jaHM5ZFZ1QVNPMHVTZGluUmpwWko3NF9LcjNiTkN1cTZsLTJfLTlRVExzQkRRVl8yZ3EyRmEtanJ3Q2FMRDB3bXRPdUdlamxSRnZQTTQtemxKNFdBTFNPVHE3TmNRQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-26T00:00:56+00:00",
-      "category": "Radiologie",
-      "tags": [
-        "Europa"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Stationäre Behandlung - Warum die Psychiatrie kein Ort der Angst ist - Gesundheit - SZ.de",
       "summary_de": "Stationäre Behandlung - Warum die Psychiatrie kein Ort der Angst ist - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1751,6 +1729,16 @@
       "source_url": "https://www.diagnosticimaging.com/view/radiology-roundup-new-fda-clearances-january-18-january-24",
       "published_at": "2026-01-24T13:05:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Inseltreff und Hausarztpraxis - Borkum bekommt Versorgungszentrum – Telemedizin im Fokus - Gesundheit - SZ.de",
+      "summary_de": "Inseltreff und Hausarztpraxis - Borkum bekommt Versorgungszentrum – Telemedizin im Fokus - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNdXRKVmxHR2hzOGc4cnREMlF6QTVPcm5CQUNJZmk2WTVBWEhIdWR1TWpvOWE0MkpfNWxqWTBxT0FSbVVyQTJwa2tPSVIzWlBJN25Bek5UbnE5VXlUd2xHeGFJeWlZWG1KZmMwWlMzMFR6dUl0NVlNeUpjRXk3NDJZVVBkd1Q4NGZ0czNQYW55MVVSdVdSckUwWHFBT3lwWUM5NXp5SHItQUN3OUtybTFwa3JBaXdhc2lCMXU2ZGZUYmlQeGpoZ2czQWtqempuWkFxSjBKT0RLTmFXMnpPcG9qV0QyNU1aZnVPTnhEX2R2MVUtNkdpaU9scEJOQ3NNSEIzcFFN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-24T11:06:28+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -3005,6 +2993,16 @@
       "type": "News"
     },
     {
+      "title": "Professur Medizin mit Schwerpunkt heilkundliche Pflegepraxis - ZEIT Stellenmarkt",
+      "summary_de": "Professur Medizin mit Schwerpunkt heilkundliche Pflegepraxis &nbsp;&nbsp; ZEIT Stellenmarkt",
+      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQmFyc1hMSmRaVm11MmRLZk5LVFc3d05XbzZlbC1HU1NRaVlWS3FxejVmU3JiQUdEZUVZMzYwS1BDSTBDYVVPRVRsLVpJeEpZbkF6ZzFyNjRVMW9oNTRhUXhKeXktajJzVXg4a2ZyM3Vtdm9lMWo4T2pKQ2FQb2xudVFOQjRXaTNwbE83M0JDZWNPSFJLaHE0MURrSkpZdjB4ektXUFdpNzRBcmttUS1uTlE3STdCM2ZiZWpzbzdPUHZuRVpQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Anti‐vascular endothelial growth factor (anti‐VEGF) agents for neovascular age‐related macular degeneration (nAMD): a network meta‐analysis",
       "summary_de": "Anti‐vascular endothelial growth factor (anti‐VEGF) agents for neovascular age‐related macular degeneration (nAMD): a network meta‐analysis",
       "source_name": "Cochrane Library RSS feed.",
@@ -3051,16 +3049,6 @@
       "source_url": "https://www.efsa.europa.eu/en/podcast/episode-36-nice-m-eat-you-what-are-alternative-proteins",
       "published_at": "2026-01-14T11:01:57+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Übers Dach eingeschwebt: Poliklinik Chemnitz hat neues MRT - MDR",
-      "summary_de": "Übers Dach eingeschwebt: Poliklinik Chemnitz hat neues MRT &nbsp;&nbsp; MDR",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWVZtaGV1VERmaXl2bWVaMFJLMlVoLWNWdDZoY0NkejZGR3V3Qk5SUmlqNXJyRFJhamFxdndEY3RUSEpVM0JiNDdjbXB0YlVhRlJRdkNIUHd5WXh4NUUtQ2VQVkt5RFBXbnBWeTZiWFVLa19hbU5PZ0hhVHdlMnZuVWN5QWxYNEpQdnVVM1NucnFlR0RC0gGaAUFVX3lxTFA0OFF4Y0lEVklXWjNoZHc4ZTAwZnR2aTJ4N0p1WHU1ZmJMemo0TGl1VHFva1A5Z0dmbXhwNUZUWXhIN2lHZ1I3c1U3ZmxhWUR0b0pOR282eEhwS2FhZHI3RzdjbUtDeE1rQ0V2Nm90Z0VWR2lDOGJNV01lM29HczctOGJvbWotTjNEd0VsUHFhVVRVeDZNeTRzcWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-14T08:00:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
