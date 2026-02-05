@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-02-04T21:26:28.911291+00:00",
+  "generated_at": "2026-02-05T01:22:58.369878+00:00",
   "window_days": 42,
-  "count": 356,
+  "count": 279,
   "items": [
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Erstmeldung Arzneimittel: Takrozem 1 mg/g Salbe pU: Pierre Fabre Medicament",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-02-04T17:55:40+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Streik in Düsseldorf: Bis zu 70.000 Euro pro Jahr in der Pflege – diese Gehälter zahlt die Uniklinik - RP Online",
       "summary_de": "Streik in Düsseldorf: Bis zu 70.000 Euro pro Jahr in der Pflege – diese Gehälter zahlt die Uniklinik &nbsp;&nbsp; RP Online",
@@ -238,16 +248,6 @@
       "type": "News"
     },
     {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: Prostavasin 20 µg pU: Amdipharm Limited",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-02-04T12:38:42+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Schlafforschung: Frühes Aufstehen ist nicht für jeden gut",
       "summary_de": "Fr&uuml;h aufstehen gilt als Symbol f&uuml;r Disziplin, Erfolg und Selbstoptimierung. Doch die Schlafforschung warnt: Wer gegen seine innere Uhr lebt, riskiert Folgen f&uuml;r die Gesundheit und Leistungsf&auml;higkeit.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -464,16 +464,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/versender-ranking-in-bewegung-162479/",
       "published_at": "2026-02-04T09:06:09+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Facharzt / Oberarzt Innere Medizin Schwerpunkt Pneumologie (m/w/d), Frankfurter Rotkreuz-Kliniken e.V. - FAZ Stellenmarkt",
-      "summary_de": "Facharzt / Oberarzt Innere Medizin Schwerpunkt Pneumologie (m/w/d), Frankfurter Rotkreuz-Kliniken e.V. &nbsp;&nbsp; FAZ Stellenmarkt",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb0xYenhrV3BwRWVBTTBLMHVXdUVRY2ZEWTFFMC1jWkxkbEg2SDczanpPNkw5SndjRnNJSHM1SmlWYkpmTGc0T1pNVGpDQzB6d0ljSmNYdFA4MXk2dG9xZnBoVHVfVlItejhNVDFwNEF2UHVGTXdEN1Bjc1BLeHNkeEQyOGk5UWVoUzF4bFlEWV8xX0RMTUZHcEVMeUxTQ2F2LTVTcEltcVF3YkVmbGlCdDEwYXk0U24yZ0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-04T08:49:12+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -700,26 +690,6 @@
       "type": "News"
     },
     {
-      "title": "Chefarzt Radiologie Katholisches Krankenhaus St. Johann Nepomuk Stellenangebote - ärztestellen",
-      "summary_de": "Chefarzt Radiologie Katholisches Krankenhaus St. Johann Nepomuk Stellenangebote &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdVdCcHdIM3pDQkJGYWg2NzZPRTB0UGNQaEd6NFNWRDhnSGxrU2FDeDNPRk1va1RZY0c2dGFtSl92NjRzM1V5aUtQa1hXclFleEl3dXIxWmYwNVdHVFNSUGk3RGtkQlBNdnZKczRXVFFONFc5RkhPcEIzOWN6Vlc3ODVMbXhTRTd0OUhCSEhmMmxyM3JQSXAxdkZHdTNURjk2U1NERGFZakJTSVpXaU1vU0x3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-03T20:48:55+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Chefarzt Radiologie Jüdisches Krankenhaus Berlin Stellenangebote - ärztestellen",
-      "summary_de": "Chefarzt Radiologie Jüdisches Krankenhaus Berlin Stellenangebote &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWmlMblJWQ001aGxoczNwSGQyMjI5TU1IMURaTngwd3J1cG93VUVpVEpUXzd5TUc4c3B6MTVqQ294aV9hNzNIVjR5aTlyS2laZjFuT0MwSlJSQTlOY0l3Nkp6Qk0xeVJtby1kYTJmcWtaUjc4d21lY01ObDdUTzRkX0VfZjJSU1Q3SHk2QmtwVzBMeVhhNE82bWE2d3RjcDJH?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-03T20:48:54+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Chefarzt Radiologie Schön Klinik SE Stellenangebote - ärztestellen",
       "summary_de": "Chefarzt Radiologie Schön Klinik SE Stellenangebote &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
@@ -870,16 +840,6 @@
       "type": "News"
     },
     {
-      "title": "Oberarzt (m/w/d) - Innere Medizin / Gastroenterologie, Rems-Murr-Kliniken gGmbH - FAZ Stellenmarkt",
-      "summary_de": "Oberarzt (m/w/d) - Innere Medizin / Gastroenterologie, Rems-Murr-Kliniken gGmbH &nbsp;&nbsp; FAZ Stellenmarkt",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSy1RcW05amFKUFNnUzctSGpaaXlmUzFrdGtKZmZUemdoZ05SLXpjVGRJdjBHS2FmQXYyNnMtNjFIT2wtcldBS1lRMU0xaXJfTThycTZMZEFkUzRUdFVEZHU5RzR0QnQ1Y3pJNm16ck95Qzh0YmNwWHpiaGlDTW1hY0V0OWsxak43cVRBQ0xoSWw3c3NzUGVVS21oZjVRSTFQOTNHYl9n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-03T11:49:52+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Krankheiten - Krebs-Behandlungen in Kliniken: Lungenkrebs am häufigsten - Gesundheit - sueddeutsche.de",
       "summary_de": "Krankheiten - Krebs-Behandlungen in Kliniken: Lungenkrebs am häufigsten - Gesundheit &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -920,41 +880,11 @@
       "type": "News"
     },
     {
-      "title": "Sektionsleiter Allgemeine Innere Medizin (m/w/d), Rems-Murr-Kliniken gGmbH - FAZ Stellenmarkt",
-      "summary_de": "Sektionsleiter Allgemeine Innere Medizin (m/w/d), Rems-Murr-Kliniken gGmbH &nbsp;&nbsp; FAZ Stellenmarkt",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUF9PRzI4aXpHU2tUT0hJd1Raa3J2NzZLd0hnQXhqTVlQMDkzV1V6NFZtSjlfend1QWVpbEJvRjBaLWtrZjk1Q3YzQTdobUpONXFJM0pYczFvX3hfNExwNHgydzd3RGMtalZ1YnhibTZNTU5GbmttcVpIaERSbzBaREN6M0pwTHhoeUp1WkpUMWNuNGw4NVFxYkRkbw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-03T10:16:16+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Erkrankungen - Keine Scheu vor dem Screening: Aufruf zu Früherkennung - Gesundheit - sueddeutsche.de",
       "summary_de": "Erkrankungen - Keine Scheu vor dem Screening: Aufruf zu Früherkennung - Gesundheit &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQLWotQWstcHEydTQycU5CdFhXMTRsaXoyUTVnWGJuUV9IbnNWN2tDS240NjVYWWFjUFpScVF1OHo2cG1EMVExb3cwZFFXUzlSbnpLTV9iYXZNQ1I2X0JvTjEzd1Zfd3FpNHAyTFp4NlNVYlpRdzZVY19SZXdoakNkNXJVZ21VLXV4SHV5MG1uQy1oTHpoV1c0Q3VTbmRsY0lXNHlWUlhlZy1FMG9qNWZFZDhwcF96NDVzX2VZa1phY2RWYm5TcUFWb1lVZkphN0JHUkh4bnc5TV92SFdXNUZsZHFXM2tRREdVZFFpLQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-03T10:08:06+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Sektionsleiter Allgemeine Innere Medizin (m/w/d), Rems-Murr-Kliniken gGmbH - FAZ Stellenmarkt",
-      "summary_de": "Sektionsleiter Allgemeine Innere Medizin (m/w/d), Rems-Murr-Kliniken gGmbH &nbsp;&nbsp; FAZ Stellenmarkt",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTEdOcG4tZVFJWFB2eTg4UmV4ZHB6UXhGbUdMX2R0eU5NcXJqbGNmcC1zS1BUNmtTT0ZPRVBIeHNsQjhPVjcybDlIandwbjhpN3JMaGdkemxqOElZZVh3dlBWVE9hdGJIQnNzRV9fWkpmeW9oVzJhdmRWWFNTVzNucGlrakpMdVAyQk4yUDdBb0RFTjdmRW12RTJJaVh3TzRkZWs2Vw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-03T09:18:39+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Oberarzt (m/w/d) Notaufnahme mit Fachrichtung Innere Medizin, Rems-Murr-Kliniken gGmbH - FAZ Stellenmarkt",
-      "summary_de": "Oberarzt (m/w/d) Notaufnahme mit Fachrichtung Innere Medizin, Rems-Murr-Kliniken gGmbH &nbsp;&nbsp; FAZ Stellenmarkt",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ3V0RGY0ODY4QV9VOVZ5U1pHa2JPUjlZX3RHaWZldlExdE93VEg2NTlGX2tDa2JnTG9WZlRnYzRoZ0ZMWFRFQXc3RlpYWUIwYTlMYlhpeDRfT1ZlMzZjOF9YRV9HWG44R1Jjb05DQU5QQ1JOMExrYWozeVB6QWdUQklnR1JGOGtlOWJWSk9IVEk1b3dqWkZsU3pRTk40c3dDa25qbHhqaXRMZTJwWHgzbzlWdUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-03T09:18:39+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1420,6 +1350,16 @@
       "type": "News"
     },
     {
+      "title": "Stellenangebote für Ärzte & Ärztinnen | Arzt Jobs - ärztestellen",
+      "summary_de": "Stellenangebote für Ärzte & Ärztinnen | Arzt Jobs &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNTHUxT1F5RW1LaHJZN2k0TlFXYVRRaHUtRXhJV1RKblRMYnZVaVBJaHNMMlBEWTNpSVBlOEc2enowU2xyUC10TFlpdGlZcE5hQTVjd2I2Mlp3b09ZLUUwNEdyS0xMWDlUc2xWYmRLLU5KeE1tcEhURUE2SktTZlZfbkRRakc4RXk2UWNuU000ODlZcHhQYnpucU1HTXZ2R0pOMnlyaGJXbzNhTk0wdklUaEdaSWFhOS1RVmlFeGY0ZDRkSjNqN2ZiX0JyM0hsY2dKcTZ4Z2xsQUNQeVlKemRuTGJGLVR5U0N5V0JUeUplVzM3bUN5c0JMRlpXYVJKYjNhNklCdXZjZzZHSFR1?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-31T03:45:56+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Geburtshilfe - Geburtskliniken in Hessen: Land sieht Versorgung gesichert - Gesundheit - sueddeutsche.de",
       "summary_de": "Geburtshilfe - Geburtskliniken in Hessen: Land sieht Versorgung gesichert - Gesundheit &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1610,6 +1550,16 @@
       "type": "News"
     },
     {
+      "title": "Gesundheit von Künstlern im Fokus: Wohl weltweit einmalige Professur geschaffen - tagesschau.de",
+      "summary_de": "Gesundheit von Künstlern im Fokus: Wohl weltweit einmalige Professur geschaffen &nbsp;&nbsp; tagesschau.de",
+      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOem16bWYtWThlbElDT3p0dmJZS0tXSjJseUp5OTMwNWRCcUhBN2tPdFJnRkhFSG1oRjU3RmNFbE1RUEtKX25FWlF4OUdYSjNsLVJ1d0dpOGRRRlhWQ3NJekpQc1E1a3FkVzJZRlVUdDlHWm53MUZCQTdyUUFSOTRRcDNkOGp0SHo1cWN5bUFURWZCcXFoRzQ5MUZLd3hBU1VUbTdDbnBwRUZQdEJjS0g5TXAyUnRXZG5ZelltdV9CS25JYU9RUWFNbEFtZmtadmNyeU9US3RvVnd4bkUwaTRRUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-29T17:32:14+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "\"Die Medizin wird absolut hierarchisch gesteuert, wie die Armee\" - DIE ZEIT",
       "summary_de": "\"Die Medizin wird absolut hierarchisch gesteuert, wie die Armee\" &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
@@ -1690,16 +1640,6 @@
       "type": "Studie"
     },
     {
-      "title": "Community Services Statistics, November 2025",
-      "summary_de": "This is a monthly report on publicly funded community services for people of all ages using data from the Community Services Data Set (CSDS) reported in England for November 2025. It has been developed to help achieve better outcomes and provide data that will be used to commission services in a way that improves health, reduces inequalities, and supports service …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/community-services-statistics-for-children-young-people-and-adults/november-2025",
-      "published_at": "2026-01-29T15:00:41+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Guidance: GLP-1 medicines for weight loss and diabetes: what you need to know",
       "summary_de": "Guidance on the safe and effective use of GLP-1 medicines for weight loss and diabetes.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1752,62 +1692,12 @@
       "type": "News"
     },
     {
-      "title": "Röntgen: Main-Kinzig-Kliniken nutzen KI für Frakturerkennung - Klinik Management aktuell",
-      "summary_de": "Röntgen: Main-Kinzig-Kliniken nutzen KI für Frakturerkennung &nbsp;&nbsp; Klinik Management aktuell",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTlVVSU9CWlBBdnRGbG5yS2ZDb0VkLS13ejdxbHVGZW1iRmFFb3RhX0p1RWxSZkdJUGZUaTk5dWI5UWY5QTVCSEFiZHR6SHo1aWhrVzN1SlJtNVZ2c2pQdVAwVjJaR3hJVldTcjkxZVRWRUt6ZUFCT1ExQVRZZE4zOE1SWTRabURoM3duSVk3NkFnUG9MYlRIX19tWk9PSHc0THVBYXRackhVTXZXLTVvdC13UzlPWFJKWFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-29T10:58:39+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Methodensymposium des IQTIG zur Eignung von Qualitätsindikatoren - Save the Date: 11. Mai 2026",
       "summary_de": "Berlin, 29. Januar 2026 – Das IQTIG veranstaltet am 11. Mai 2026&nbsp;ein Symposium zum Thema „Eignung von Qualitätsindikatoren\".&nbsp;Die Veranstaltung richtet sich an Wissenschaftlerinnen und Wissenschaftler, Praktikerinnen und Praktiker in der Qualitätssicherung sowie Vertreterinnen und Vertreter der an der Qualitätssicherung beteiligten Institutionen. Mit der Veranstaltung präsentiert das IQTIG einerseits die Eignungskriterien, mit denen das Institut Qualitätsindikatoren im Auftrag des Gemeinsamen Bundesausschusses …",
       "source_name": "Pressemitteilungen | IQTIG",
       "source_url": "https://iqtig.org/presse/pressemitteilungen/news/methodensymposium-des-iqtig-zur-eignung-von-qualitaetsindikatoren-save-the-date-11-mai-2026/",
       "published_at": "2026-01-29T09:58:00+00:00",
       "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Fit Notes Issued by GP Practices, England, September 2025",
-      "summary_de": "The Statement of Fitness for Work (the Med3 form or 'fit note') was introduced in April 2010 across England, Wales and Scotland. It enables healthcare professionals to give advice to their patients about the impact of their health condition on their fitness for work and is used to provide medical evidence for employers or to support a claim to health-related …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/fit-notes-issued-by-gp-practices/september-2025",
-      "published_at": "2026-01-29T09:31:11+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "NHS Workforce Statistics - November 2025",
-      "summary_de": "This report shows monthly numbers of NHS Hospital and Community Health Services (HCHS) staff. The data is split between staff working in NHS Trusts and other core organisations in England (excluding primary care staff), and staff working in NHS support organisations and central bodies. Data are available as full-time equivalent and headcount and for all months from 30 September 2009 …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-workforce-statistics/november-2025",
-      "published_at": "2026-01-29T09:31:08+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "NHS Sickness Absence Rates, October 2025",
-      "summary_de": "This report shows monthly sickness absence rates of NHS Hospital and Community Health Services (HCHS) staff working in NHS Trusts and other core organisations and NHS Support Organisations and Central Bodies. Data is presented by NHS England region, ICS area, organisation, organisation type, staff group and reason for sickness absence. We welcome feedback on the methodology and tables within this …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-sickness-absence-rates/october-2025",
-      "published_at": "2026-01-29T09:31:04+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "NHS Staff Earnings Estimates, November 2025",
-      "summary_de": "This report shows average annual earnings for the following four earnings measures, provisionally showing overall figures for the NHS HCHS workforce (excluding primary care staff) in England in NHS Trusts and other core organisations in England and NHS Support Organisations and Central Bodies.Mean annual basic pay per FTE – is the mean amount of basic pay paid per 1 full-time …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-staff-earnings-estimates/november-2025",
-      "published_at": "2026-01-29T09:31:01+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -1880,56 +1770,6 @@
       "source_url": "https://www.diagnosticimaging.com/view/breast-mri-study-peritumoral-edema-reduced-disease-free-survival-breast-cancer-young-women",
       "published_at": "2026-01-28T18:55:00+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Submissions via Online Consultation Systems in General Practice, December 2025",
-      "summary_de": "This publication provides information about the number of clinical or administrative submissions that general practices receive from their patients via Online Consultation Systems. This information is published monthly and includes practice-level data about system availability and usage.Data is included for the following measures:• Practices: The total count of practices along with the number of practices known to have an Online …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/submissions-via-online-consultation-systems-in-general-practice/december-2025",
-      "published_at": "2026-01-28T15:36:33+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "SACT Activity Dashboard, January 2026 update",
-      "summary_de": "The Systemic Anti-Cancer Therapy (SACT) Activity dashboard reports SACT data from all NHS providers in England. The dashboard presents a count of systemic anti-cancer therapy activity by patients, regimens and drug administrations from January 2019 and can be viewed at England, Cancer Alliance, and Integrated Care Board level. The latest update provides a refresh of the SACT data presented in …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/sact-activity-dashboard/current",
-      "published_at": "2026-01-28T15:35:24+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Radiotherapy Dose and Fractionation dashboard, January 2026 update",
-      "summary_de": "Radiotherapy Dose and Fractionation, dashboard January 2026 update",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/radiotherapy-dose-and-fractionation/current",
-      "published_at": "2026-01-28T15:34:38+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Cloud Based Telephony Data in General Practice, December 2025",
-      "summary_de": "This publication provides information about the number of cloud based telephony calls received by general practices. This information is published monthly and includes practice-level data.The publication will present a high-level time series from October 2024 onwards, showing monthly counts grouped by day and time of call of:• The total count of practices included in this publication• The total number of …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/cloud-based-telephony-data-in-general-practice/december-2025",
-      "published_at": "2026-01-28T15:31:13+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Appointments in General Practice, December 2025",
-      "summary_de": "The aim of the publication is to inform users about activity and usage of GP appointments historically and how primary care is impacted by seasonal pressures, such as winter. NHS England publishes this information to support winter preparedness and provide information about some activity within primary care. The publication covers historic appointments, marked as attended or did not attend, from …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/december-2025",
-      "published_at": "2026-01-28T15:29:54+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -2042,16 +1882,6 @@
       "type": "News"
     },
     {
-      "title": "Health Survey for England, 2024",
-      "summary_de": "The Health Survey for England (HSE) is used to estimate the proportion of people in England who have health conditions, and the prevalence of risk factors and behaviours associated with certain health conditions. The surveys provide regular information that cannot be obtained from other sources.",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/health-survey-for-england/2024",
-      "published_at": "2026-01-27T09:34:13+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Clinically indicated removal versus routine removal of peripheral venous catheters",
       "summary_de": "Clinically indicated removal versus routine removal of peripheral venous catheters",
       "source_name": "Cochrane Library RSS feed.",
@@ -2145,6 +1975,16 @@
       "type": "News"
     },
     {
+      "title": "Wie sich die Diagnostik im Krankenhaus Papenburg verändert hat und was Patienten davon haben - noz.de",
+      "summary_de": "Wie sich die Diagnostik im Krankenhaus Papenburg verändert hat und was Patienten davon haben &nbsp;&nbsp; noz.de",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWjJXSnZmckdMQlhtdHJQeW01MklCSHQyeFROVmQwVHl2UV9tZkJNWnd6Z2ZacGh3elVoUmd0TE1Xbk5RX3lCN3N1eVRLZVQ0eDB1VTZoUXVsM1N6blhjQnVMRnBCV2ZBeVUwejlZZnJBYmREaXBhclAyRVFYR0J3aUJNYWpGTlNIRGtfQWRwVnd5ZVA4cTd2Um5iRENPVld6OHE5TTFSNzlTbUV6d2Q5U1N2eVA1NXlLaUt6cUJCNC1Qa3I2ZzFBRHFGVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-24T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -2211,66 +2051,6 @@
       "source_url": "https://www.diagnosticimaging.com/view/whats-coming-down-the-pike-in-radiology-in-2026-",
       "published_at": "2026-01-22T17:56:00+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Maternity Services Monthly Statistics, Final October 2025, Provisional November 2025, official statistics",
-      "summary_de": "This statistical release makes available the most recent monthly data on NHS-funded maternity services in England, using data submitted to the Maternity Services Data Set (MSDS).This is the latest report from version 2.0 of the data set, which has been in place since April 2019. This latest version was a significant change from the previous 1.5 version which added support …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/maternity-services-monthly-statistics/final-october-2025-provisional-november-2025-official-statistics",
-      "published_at": "2026-01-22T09:31:28+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "General Practice Workforce, 31 December 2025",
-      "summary_de": "The General Practice Workforce series of Official Statistics presents a snapshot of the primary care general practice workforce. A snapshot statistic relates to the situation at a specific date, which for these workforce statistics is now the last calendar day each month.This monthly snapshot reflects the general practice workforce at 31 December 2025. These statistics present full-time equivalent (FTE) and …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/general-and-personal-medical-services/31-december-2025",
-      "published_at": "2026-01-22T09:31:23+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Primary Care Network Workforce, 31 December 2025",
-      "summary_de": "Primary Care Networks were created in July 2019 to provide accessible and integrated primary, mental health, and community care for patients. The bulk of the PCN workforce consists of Direct Patient Care staff, funded by the Additional Roles Reimbursement Scheme (ARRS), and each PCN has the flexibility and autonomy to determine which roles are required to meet the specific needs …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/primary-care-network-workforce/31-december-2025",
-      "published_at": "2026-01-22T09:31:18+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Statistics on people with a learning disability and autistic people in mental health hospitals, AT: December 2025, MHSDS: November 2025",
-      "summary_de": "Latest monthly statistics on people with a learning disability and autistic people in inpatient services from the Assuring Transformation (AT) collection and Mental Health Services Data Set (MHSDS).Data on inpatients with learning disabilities and/or autism are being collected both within the AT collection and MHSDS. There are differences in the inpatient figures between the AT and MHSDS data sets and …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/learning-disability-services-statistics/at-december-2025-mhsds-november-2025",
-      "published_at": "2026-01-22T09:31:13+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Primary Care Dementia Data, December 2025",
-      "summary_de": "NHS England collect and publish data about people with dementia at each GP practice in England, to enable NHS GPs and commissioners to make informed choices about how to plan their dementia services around patients’ needs.The publication includes the rate of dementia diagnosis. As not everyone with dementia has a formal diagnosis, this statistic compares the number of people thought …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/primary-care-dementia-data/december-2025",
-      "published_at": "2026-01-22T09:31:07+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Primary Care Workforce Recruited through the Additional Roles Reimbursement Scheme (ARRS), 1 October 2024 – 31 December 2025 [Management Information]",
-      "summary_de": "Additional funding of £82 million was announced in August 2024 to support the inclusion of recently qualified GPs in the Additional Roles Reimbursement Scheme (ARRS) for 2024/25 with funding only available for GPs who had qualified within the last 2 years. As a result, the primary care network directed enhanced service (PCN DES) was amended for 2024/25 to expand the …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-primary-care-workforce-recruited-through-the-additional-roles-reimbursement-scheme-arrs/1-october-2024---31-december-2025",
-      "published_at": "2026-01-22T09:31:01+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -2433,26 +2213,6 @@
       "type": "Studie"
     },
     {
-      "title": "Network Contract DES (MI) - December 2025",
-      "summary_de": "A framework for GP contract reform to implement The NHS Long Term Plan published in January 2019 which describes significant investment in Primary Care Networks (PCNs) through the Network Contract Directed Enhanced Service (DES). The seventh year of the Network Contract DES began in April 2025. The data provides information to allow effective management of the contract. The indicators are …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-network-contract-des/england-december-2025",
-      "published_at": "2026-01-20T10:13:18+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "NHS App Management Information - December 2025",
-      "summary_de": "This publication provides information about the number of users and usage for the NHS App, and for features that are available through the NHS App. Data are included for the following measures, at ICB and national granularity: - NHS App monthly logins: The volume of NHS App sessions recorded over a calendar month. - NHS App monthly unique user logins: …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-app-statistics/december-2025",
-      "published_at": "2026-01-20T09:40:34+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "KI im Krankenhaus: Bedeutung, Nutzen und Risiken aus Sicht der IT-Leitung, Adiccon GmbH, Story - PresseBox",
       "summary_de": "KI im Krankenhaus: Bedeutung, Nutzen und Risiken aus Sicht der IT-Leitung, Adiccon GmbH, Story &nbsp;&nbsp; PresseBox",
       "source_name": "\"site:pressebox.de radiologie\" - Google News",
@@ -2605,312 +2365,12 @@
       "type": "Studie"
     },
     {
-      "title": "Provisional Monthly Hospital Episode Statistics for Admitted Patient Care, Outpatient and Accident and Emergency data, April 2025 - November 2025",
-      "summary_de": "Hospital Episodes Statistics (HES) is a data warehouse containing records of all patients admitted to NHS hospitals in England. It contains details of inpatient care and outpatient appointments. Hospital episode statistics (HES) statistics are produced and published on a monthly basis. The data are provisional and should therefore be treated as an estimate until the final National Statistics annual publications.",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/provisional-monthly-hospital-episode-statistics-for-admitted-patient-care-outpatient-and-accident-and-emergency-data/april-2025---november-2025",
-      "published_at": "2026-01-15T09:36:30+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "NHS Talking Therapies Monthly Statistics Including Employment Advisors, Performance November 2025",
-      "summary_de": "This statistical release makes available the most recent NHS Talking Therapies for anxiety and depression monthly data, including activity, waiting times, and outcomes such as recovery.NHS Talking Therapies is run by the NHS in England and offers NICE-approved therapies for treating people with depression or anxiety. This release also includes statistics about NHS Talking Therapies employment advisor services.We hope this …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-talking-therapies-monthly-statistics-including-employment-advisors/performance-november-2025",
-      "published_at": "2026-01-15T09:32:23+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Patients Registered at a GP Practice, January 2026",
-      "summary_de": "Data for this publication are extracted each month as a snapshot in time from the Primary Care Registration database within the PDS (Personal Demographics Service) system. This release is an accurate snapshot as at 1 January 2026.Figures are reported by gender and single year of age (SYOA) and five-year age bands (up to age 95+) at GP Practice, Primary Care …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/patients-registered-at-a-gp-practice/january-2026",
-      "published_at": "2026-01-15T09:32:15+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Mental Health Services Monthly Statistics, Performance November 2025",
-      "summary_de": "This publication provides the timeliest picture available of people using NHS funded secondary mental health, learning disabilities and autism services in England, excluding those who are solely in contact with Talking Therapies. This information will be of use to people needing access to information quickly for operational decision making and other purposes. More detailed information on the quality and completeness …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mental-health-services-monthly-statistics/performance-november-2025",
-      "published_at": "2026-01-15T09:32:07+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Integrated Urgent Care Aggregate Data Collection (IUC ADC) for December 2025 (Provisional statistics)",
-      "summary_de": "Integrated Urgent Care (IUC) describes a range of services including NHS 111 and Out of Hours services, which aim to ensure a seamless patient experience with minimum handoffs and access to a clinician where required.This data is published on the NHS England website. Please follow the link below.",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-integrated-urgent-care-aggregate-data-collection-iuc-adc/for-december-2025",
-      "published_at": "2026-01-15T09:32:03+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "2-hour Urgent Community Response Performance metrics for November 2025 (provisional), and October 2025 (final)",
-      "summary_de": "The 2-hour urgent community response (UCR) monthly key performance indicators are focused on the delivery of UCR services in England. The data is collected through the community services dataset (CSDS).The indicators include:The percentage of 2-hour UCR referrals that achieved the 2-hour standard in the reporting month The number of 2-hour UCR referrals in scope of the 2-hour standard that were …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-2-hour-urgent-community-response-performance-metrics/for-november-2025-provisional-and-october-2025-final",
-      "published_at": "2026-01-15T09:31:58+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Waiting List Minimum Data Set for week ending 28 December 2025",
-      "summary_de": "The Waiting List Minimum Dataset (WLMDS) is a weekly data collection relating to demand, activity and waiting lists for elective care.Providers of NHS services that fall within the scope of Referral to Treatment (RTT), such as acute trusts, specialist trusts and any other provider of consultant-led services for NHS patients (including independent sector providers) submit data weekly to NHS England.This …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-waiting-list-minimum-data-set/for-week-ending-28-december-2025",
-      "published_at": "2026-01-15T09:31:53+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Waiting times for suspected and diagnosed cancer patients for November 2025",
-      "summary_de": "These reports provide information on the waiting times of people referred with suspected cancer or breast symptoms and subsequently told the outcome of their diagnosis, and treated for cancer by the NHS in England.This data is published on the NHS England website. Please follow the link below.",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-waiting-times-for-suspected-and-diagnosed-cancer-patients/for-november-2025",
-      "published_at": "2026-01-15T09:31:51+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Virtual Ward Capacity and Occupancy statistics for December 2025",
-      "summary_de": "Virtual wards (also known as hospital at home) allow patients to get the care they need at home safely and conveniently, rather than being in hospital. This includes either preventing avoidable hospital admissions or supporting people to safely leave hospital sooner.Systems are asked to continue to embed, standardise and scale virtual ward capacity, ensuring that local virtual ward services are …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-virtual-ward-capacity-and-occupancy-statistics/for-december-2025",
-      "published_at": "2026-01-15T09:31:49+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "UEC Bed Availability & Occupancy for December 2025",
-      "summary_de": "Daily returns are collected from acute trusts and includes data bed availability for adult and paediatric general and acute beds – split by Core and Escalation beds, as well as adult critical care, paediatric intensive care and neonatal critical care. The data also includes counts of patients with a Length of Stay (LOS) of 7+, 14+ and 21+ days.The publication …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-uec-bed-availability--occupancy/for-december-2025",
-      "published_at": "2026-01-15T09:31:46+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Integrated Urgent Care Aggregate Data Collection (IUC ADC) for November 2025 (Official statistics)",
-      "summary_de": "The IUC ADC became the official source of IUC statistics in April 2021, when the NHS 111 Minimum Dataset (NHS 111 MDS) was merged into a revised version of the IUC ADC. Since then, a provisional subset of the IUC ADC data is published in the month after the collection end date (eg, April data published in May), with the …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-integrated-urgent-care-aggregate-data-collection-iuc-adc/for-november-2025",
-      "published_at": "2026-01-15T09:31:45+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Mixed Sex Accommodation breaches for November 2025",
-      "summary_de": "The NHS Operating Framework for 2012-2013 confirmed that all providers of NHS funded care are expected to eliminate mixed-sex accommodation, except where it is in the overall best interest of the patient.From 1 December 2010, the collection of monthly Mixed-Sex Accommodation (MSA) breaches was introduced. NHS organisations submit data on the number of occurrences of unjustified mixing in relation to …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-mixed-sex-accommodation-breaches/for-november-2025",
-      "published_at": "2026-01-15T09:31:43+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "A&E attendances and emergency admissions for December 2025 and Quarterly report (Q3)",
-      "summary_de": "The Weekly and Monthly A&amp;E Attendances and Emergency Admissions collection collects the total number of attendances in the specified period for all A&amp;E types, including Urgent Treatment Centres, Minor Injury Units and Walk-in Centres, and of these, the number discharged, admitted or transferred within four hours of arrival.",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-ae-attendances-and-emergency-admissions/for-december-2025-and-quarterly-report-q3",
-      "published_at": "2026-01-15T09:31:37+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic waiting times and activity for November 2025",
-      "summary_de": "The monthly diagnostics collection collects data on waiting times and activity for 15 key diagnostic tests and procedures.This data is published on the NHS England website. Please follow the link below.",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-diagnostics-waiting-times-and-activity-data/for-november-2025",
-      "published_at": "2026-01-15T09:31:35+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Ambulance Quality Indicators Systems Indicators for December 2025",
-      "summary_de": "This contains the Ambulance Systems Indicators (AmbSYS) for all eleven Ambulance Services in England.This data is published on the NHS England website. Please follow the link below.",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-ambulance-quality-indicators-systems-indicators/for-december-2025",
-      "published_at": "2026-01-15T09:31:32+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Ambulance Quality Indicators Clinical Outcomes for August 2025",
-      "summary_de": "This contains the Ambulance Clinical Outcomes (AmbCO) for all eleven Ambulance Services in England.This data is published on the NHS England website. Please follow the link below.",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-ambulance-quality-indicators-clinical-outcomes/for-august-2025",
-      "published_at": "2026-01-15T09:31:30+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Timeliness of Acute Hospital Discharges (Discharge Ready Date) for November 2025",
-      "summary_de": "The suite of metrics report on the percentage of discharges within certain thresholds and the total bed days after discharge ready date for patients discharged within certain thresholds.Data are shown at national and provider organisation level.This dataset is for all acute trusts and more information on the metrics and exclusions can be found in the technical guidance file further down.This …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-timeliness-of-acute-hospital-discharges-discharge-ready-date/for-november-2025",
-      "published_at": "2026-01-15T09:31:26+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Supplementary ECDS Analysis November 2025 (Final)",
-      "summary_de": "ECDS allows NHS England to provide information to support the care provided in emergency departments by including the data items needed to understand capacity and demand and help improve patient care.The Emergency Care Data Set (ECDS) collects information about why people attend emergency departments and the treatment they receive to:improve patient care through better and more consistent information allow better …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-supplementary-ecds-analysis/november-2025-final",
-      "published_at": "2026-01-15T09:31:24+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Supplementary ECDS Analysis December 2025 (Provisional)",
-      "summary_de": "ECDS allows NHS England to provide information to support the care provided in emergency departments by including the data items needed to understand capacity and demand and help improve patient care.The Emergency Care Data Set (ECDS) collects information about why people attend emergency departments and the treatment they receive to:improve patient care through better and more consistent information allow better …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-supplementary-ecds-analysis/december-2025-provisional",
-      "published_at": "2026-01-15T09:31:20+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Specialist Advice Activity to November 2025",
-      "summary_de": "Monthly specialist advice activity returns are collected from Integrated Care Boards (ICBs) as part of the System Elective Recovery Outpatient Collection (System EROC).The data are available by ‘type of specialist advice’. For the purposes of this data collection, the different types are categorised as:Pre-referral Advice & Guidance (A&amp;G) Post-referral triage services that offer specialist advice Other equivalent models.Specialist Advice facilitates …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-specialist-advice-activity/to-november-2025",
-      "published_at": "2026-01-15T09:31:18+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Referral to treatment waiting times statistics for consultant-led elective care for November 2025",
-      "summary_de": "Monthly RTT waiting times data has been published since March 2007. Initially data was only published for cases where patients started treatment during the month and the treatment involved admission to hospital (completed admitted pathways). Completed non-admitted pathway data (cases where patients completed their RTT pathway during the month for reasons other than an inpatient or day case admission to …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-referral-to-treatment-waiting-times-statistics-for-consultant-led-elective-care/for-november-2025",
-      "published_at": "2026-01-15T09:31:15+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Delayed Discharges in an acute setting for December 2025",
-      "summary_de": "The Intermediate Care Data Collection was introduced on 29 July 2024, and was previously the Community Daily Discharge Sitrep. Amendments were made to ensure alignment with the Intermediate Care Framework and improve the insight available to systems, regions and nationally, to support demand and capacity planning and service improvements.The Intermediate Care data collection has comparable data with the Community Daily …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-delayed-discharges-in-an-intermediate-care-setting/for-december-2025",
-      "published_at": "2026-01-15T09:31:12+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Delayed Discharges in an acute setting for December 2025",
-      "summary_de": "Daily returns are collected from acute trusts through the COVID-19 acute daily discharge situation report (sitrep) and include data on daily discharges from acute settings.The publication contains management data which has been set up for COVID-19 incident management and collected on a rapid turn-round basis from the NHS. The speed of the collection only permits minimal validation to be undertaken …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-delayed-discharges-in-an-acute-setting-for-march-2025/for-december-2025",
-      "published_at": "2026-01-15T09:31:10+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Community health service waiting lists for November 2025",
-      "summary_de": "This publication contains monthly information on waiting lists and times for community health services in England.",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-community-health-service-waiting-lists/for-november-2025",
-      "published_at": "2026-01-15T09:31:07+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Category 2 Ambulance Response Times by ICB",
-      "summary_de": "For our accredited official statistics on ambulances, see the Ambulance Quality Indicators landing page.Additional spreadsheets will be published below according to the same AmbSYS timetable on the AQI landing page above. They are classified as management information because the contents have been collected with a tight turn round time.",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-category-2-ambulance-response-times-by-icb/january-2026",
-      "published_at": "2026-01-15T09:31:05+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Ambulance Handover Times by Acute Trust",
-      "summary_de": "Handover times can be found below and are statistical releases produced by the NHSE.",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-ambulance-handover-times-by-acute-trust/january-2026",
-      "published_at": "2026-01-15T09:31:03+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "NHS 111 online statistics, December 2025",
-      "summary_de": "NHS 111 online (https://111.nhs.uk/) is a fast and convenient alternative to the 111 phone service for people who want to access 111 digitally.Data from 111 online were first published as Management Information in July 2023. This means that the publication is not badged as Official Statistics but every effort is still made to adhere to the Code of Practice for …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-111-online/december-2025",
-      "published_at": "2026-01-15T09:31:01+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Human medicines in 2025",
       "summary_de": "In 2025, EMA recommended 104 medicines for marketing authorisation. Of these, 38 had a new active substance which had never been authorised in the European Union (EU) before.…",
       "source_name": "News and press releases",
       "source_url": "https://www.ema.europa.eu/en/news/human-medicines-2025",
       "published_at": "2026-01-15T08:33:36+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Bad Kreuznach - BARMER",
-      "summary_de": "BARMER Krankenkasse in Bad Kreuznach &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcGI1cEVzeTZYZkpVZzlwNmNKMTdoRFB2eGVheGZ5U2p1V2s0ckdoNEpEZDBkcC1aWFVQRlg0ZjdYakJIN3NvSzVJQ0hXeE1RZGEzUkpTWFYzSzlzT0t5Z0lFNjBSVUZIZnZHTG1RanNOSlVneEFUSlI4SU9OdjBQbzNfWmtZQUNvSXR0OVZhbUlJb3ZaLXhNb0s3ajRCenJXbHFpdEY3UXhTR0d2NHVOVTUxT2RNa3EtZzJuVkpyalBGYzZVMmNsSi1kOEZPaVhCaDhQWDE4aFNvQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Kitzingen - BARMER",
-      "summary_de": "BARMER Krankenkasse in Kitzingen &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR1VoMUhNSWhuM2JWWGtIaFN5UkU2N1RfaWI5cU1VS1Vxc2Z4OXhYZFlnb0hrNjZGd0Vvd090a2NXNGpIaUpGamJjeTNqUjdwUGwyRFRpYWpnLU9hUDJYZTJjN3cxS2htcDZvM3kwc2VGTnNCZWJGQ0NFMEFMb0xRSjZLMXBwbmxxd0syNkh3cV9pVERTWkJCWFY1SXVJVm14NXVNUzgwN2xfLUtRR0t3ME14N2VGLWx1ZUtwVkRxdHlLc1RIQnBGaTBB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Montabaur - BARMER",
-      "summary_de": "BARMER Krankenkasse in Montabaur &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdWx1eVdleVZaWjdqWExhNGtQSjFaUGJTdjNSeUt6bTlCM1ZYV3ZvYXA1LXdyU0JmcFBzNkkwMUpYcTZ5T3NaZm8tb1J5aFRnTHh6Tzl3dTRIZUZRVXNYcm85VkNLeTdMek9aSk56S0JyMnFpdVR1UFBBOFBqNE5zcVMyNXRrV25IYjk3cjJNd2pidHZRQkh2V0w5MlEyT0RwajRNeGlTRjNNbVJoYXFnN2R5RmJJeW9fOUczamtMbnVIbzd2NlYyZVZB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2955,70 +2415,10 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Haldensleben - BARMER",
-      "summary_de": "BARMER Krankenkasse in Haldensleben &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMEpYclQxNFdvVkxxS0xXSUxzdVotR0FKellhM2R4LUlpUU5CZ05fdDBtZ25WUWlHOWlvU1hyYWhIQ1pSSllZeVcyeTZ4WmNzb2pQdzNOOEpHYy1IQ05namZ4S0ViSVNXWEVqQV9LM1h5Y21jZXFOQ0NhVHJDLWcyX19EWkl0NlJiM3pVcFBjZWlrRUg1Um5mRlRfS3ZmLXRBbHVDUWttcmdzWFc4VmZVZlF5SGlmMUZGdnJySEtiekFWUkE5aUd1ZkVaUEkzdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Wiesbaden - BARMER",
-      "summary_de": "BARMER Krankenkasse in Wiesbaden &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSW93RmJ1UHB2UzRmbGdtNWZMNGZSWFNJbUtyVzJVOUY4MEtmOHpRb3B1N19wa2FPdTVQRDd0anh5bGt1eXAzMGVtYkJsTEllUDB1VVBYUFVHM1ZxVlVITjkydmNSdjJuOTVfVnhYWloxQm1rTmlFNWdiVnFNM0pYNkxDOE5HTS0zakdmOURINlN3NGpsYXVzOExWcDVBZi1vS3FSNEE2a1BwUWlDTEQzeW96bTJEQ0RYWUxYSVJvY0c3c0ZOVWdIbGJ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Worms - BARMER",
-      "summary_de": "BARMER Krankenkasse in Worms &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX0NmRW5CM3RsRmcwa1RyUjNROF9jX0hDTVpvblBjNUFxZ1hmcjJRb2I4Q3lHTTRDQ2wxZlZPQWJvQXJXX1E5VU9HcHo0WFdBUWV5bVVGSFhxTFBwVElHZ2VEN0xmOXNqaGxWN0tlSVJQbXAzUk1pckZuVGo2cVdaQ1k2OHJoSTVOcmNkb3EtU3U2dmVSN2I1VElfYk96Z0ZXXzhxakFNSWprVGw3UDEtaE1kVjJrQTdIZ3g0Q1B6alNaQl9j?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Gelsenkirchen - BARMER",
-      "summary_de": "BARMER Krankenkasse in Gelsenkirchen &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdmt1QWFDdnlVR3FSR3ZuSkdjQ2RvOG52WVBjeDNfWUNfWUpaVWpYb2lWYWNmQUN6c3VEQzg1eUZ4TUJIX054LWN2VzBxYll4MktMc3lnMlhqeTk1a0xhZWhYRklsRVlLejlBZXhZWURBOG85WE9ET3A1d2VyOUcwQnRxVWhieTRxZHhfT1pQcC1acksyck5tNHhfS2dpRzEtWVh0RGdVMWVYa1ZCZDJtQnduUlVMWG8wRXRpQmFzZDdzRVoxa2g0YmNBMFByTWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Bochum - BARMER",
-      "summary_de": "BARMER Krankenkasse in Bochum &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdHVRSHF1QjhSeFlqc3hsQkJkRjdvLUdETE94VnZHVXM0YWJhbjJ2djAxZTNIMjNYZ2c3MEdXZl9JbmlFT2xTNERVbUIyc3JfMmxNeVBBV1J1ZUNnQWJFM0l1cVpFYTFUb1hvbEIyWXBJRVFwSV9fNGdpNHotZE4yLXJ6eEs0Zy16aFBDdGZHX2l1WHB4aVFpUzZkb1ZDcnNLZkZaTVdabkVRSHlKcG9heWdra1B0c0lyRGhvR25kWHpPQ3ByeGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "BARMER Krankenkasse in Borken - BARMER",
       "summary_de": "BARMER Krankenkasse in Borken &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbk9KVzhmMlJJS0tOSkdYdGhBWk1TUEYwaWVxYTIwNjYxdXowcDAtZ093ajJ5U0xvTmZvTnZkOUY5ZmwzSEZxYURRU3RKc0FTNldTWnA3UllkdGs3YjM1OWNrYTBtLXB6SzRVNmF5VThEbWNISExiTXZ2VDZRY3ZQTUpzWnY1dGs4TjNkSDE0ZFBEeGktUFRUOUZOVER4QjZfWUxQSVotazRmWXhWSmJrZWNBS3BOajIyRHJ6RV9IRlVtNDZnZHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Eschweiler - BARMER",
-      "summary_de": "BARMER Krankenkasse in Eschweiler &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYi1Jakk1ci04cmg0WDk3QTJoMFJxYkZEelI2SGVGbUxqMG4yMVpJTXZHcktwbURoUjRUMlhkajI1NTljcEg5bS1xZEh6djdmcy1LMlZUdUFSYWJmQThreFhRdHpHRlpmMl9nM2JJaFNnMmdZVW55RDBWa1dfbFhOSFVnZXY0czYtdFFqdW5VWXdrNDVhWGRXMVBieE5ZVUpCS193MEhjR1F3X2ZsektqVlo3QnkxeWpQekxLSHNwYXRmQVJ5a0ZoSTM3UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -3035,50 +2435,10 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Gummersbach - BARMER",
-      "summary_de": "BARMER Krankenkasse in Gummersbach &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMWl2cUJUQXkySE1VQlQ2T1kxZFFnb1dHU1lNTnc0SEpWQnF5TzhjdEhaT1l4NG1iUzIzNy1OZHBLQ3pEM09xZDh2NThLYnRHelhCSW5mMmM3ZVYtb3NKazA5SUtBVmRvdDZfVWZudkljTTdyZ3Y1MFBISGtadTBqMlNwZ1k0NkljRFI2elNScC1VWnhJTktwYVduRjFibHppQmdLN1c0YUdseG15dHhiUUktVFo0WXY2WVBLdi03VWVjZkdUS2Z0WEtvWlg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Plauen - BARMER",
-      "summary_de": "BARMER Krankenkasse in Plauen &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZVY0anFmRVRNRnRUczVGenZ1ZjJvYldZWUVBUTRKWExFX1QzZmt3WG5pWktTREhnQ2g5SXVEZWQydVQyTTNTTEdlMDZDdXhqSmY5U2RQanVEZS1teTVna0JaZFV0djMyVFpGbGM4ZFBxNmIyR2p1TnhIVF94V2laREJTYUFfVnlILWJ0VDN0RkxSU3FnRDVKb0puWmlkYU92ZnBybFFpRjA0RlZJODV5emVrRGJSM3FFckpWN0FvUXJLSW01dkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Freising - BARMER",
-      "summary_de": "BARMER Krankenkasse in Freising &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcGhvQzdDdzJtMTNldk5aaTdkVVdhenVKSWYwVnlsVlgyNWN2c1hleUVUMVdLcndMSzRjdnc2VHRZZUdBQ3BDWXdBd1RfOHlPZzNjSGdyb0tELW9lQU1vRWdtM0g3eV9COUU1ZEE1WjBacEhqVEJIc3p5cGlKQnptWnliZDQ4X3FFWk5YWkR2SnZ4amFQSkl3WmNjZHdheEtHRXlBb0dXV0FMcXNnekFJdUlib0Y5a0k5SjgybE1RSjlZVW5NMGpOUA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "BARMER Krankenkasse in Tübingen - BARMER",
       "summary_de": "BARMER Krankenkasse in Tübingen &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa09tbWk1ZDViYlVFcm9qYXZ2LWczNkViaWlVenlNZkVTUFdYOTVtWkl3T3lQNTJTN2k1RGszQXZzUVQ4bmRCSVItemE1enJGNS1ESXUtdjlBeVlxRWRzTVVzWnVqcUxKQmJ2Z05XdEFqandmQVZoNXlqOTlkWW00Q0h6RVNTbjVlVjZxQU1jcE54QXBFLU9sZ2paYm91R21yc2pBNFJ4dTVXd3JFaVllVW9LaS1VbDRsRmtuV2JSMGhZQnR2Znk2RzRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Wittlich - BARMER",
-      "summary_de": "BARMER Krankenkasse in Wittlich &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVUM1c1NaOUhaR2NyTjFWUEc0b0ZrWUVhaGN6T3lzc0dISmdBbTRfZDBXeUhQR2lDcjc0OW5fbTJZbVhyQ3NKdTh6TmdFZDlkR29nQmQ2THIxY3lkT05EU2tncjZQdmxxSTR3bWVQeG9GNGhTazVDNVBuTF9nTVpYWEo3R3lYOG9MZDJvR2NXcWp2VGV2X2xsLXNKY2JJNTRRQk4xTVRCQjhVYzUzVHhCOExwV2VwTEQxSlVnV244QVY5dDQ3YmM1ZQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -3095,30 +2455,10 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Bergheim - BARMER",
-      "summary_de": "BARMER Krankenkasse in Bergheim &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONmdlZGgtSndjb3ZsVzZ6cUR5aXJlSWVLOXgwX2hMcGhDb2I0aHhHZ0ZfMXVUR2p5OS1DeVRIcDdUbWFrbzN4Wmt0WEJuUkh0TkpyWVZqNlVBeG9kT0tKOEJ1N1ItZEp1TlIwdWN6b1ZPcURLdkVyWjY3cUp3V0s4RXUyQmpMV0ttbnhaQ2Z0THR1TWV3YTF0N0hvbm1iNE5KZ1NhcXBoYXpHYTQ4cDNqTVZEX1o4U0llR1JReTZXbXpISG5qN0xlZQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "BARMER Krankenkasse in Oldenburg - BARMER",
       "summary_de": "BARMER Krankenkasse in Oldenburg &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3pjZUQyVU0tVlctaG9OeEdRdFd1cUpWTFBtdDRiZGkzZ3VBSFMyUHNMdDF4aGlqRzI1OV9vQ0JXUmt3QWQ4dUh4em1Oal9VNXFqTFNhUmNHUzV3bHNEaVRjdzhSTFdOV242VElqNk9ZSlI5LVlJSHRUSVpuLXIzR1N5eWV1cW9udXR6UVZNeU1QOWxiNktuY2V0UGt4S3luMXZVY3dJVWhGUUduc01WZDl1TWxVSmFPd0Q2MHZhdVAxNnAyRDA5TDd3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Bernburg - BARMER",
-      "summary_de": "BARMER Krankenkasse in Bernburg &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT1lPQW9JVVUzY084MlVwQ2x5SGx1dmlDZXJJWXFMTUszNnZEaGoxZUhYYlF2SXZWYmVqbThjT1ZOdEFGME1IZmhnY21UN2ROQ2JKcHYtek1JS0pGTEhXTlVXR1hhekQ3SjRxMVptcGYtVGZlbVdTdEpnYWY0UFRxQjdMVFlsWEo2dW93WGk5VXNmOER1U2hrbDItamFsM1lURkhxMGNzUWpiSkhfeENkREVlcktVUmZicmtqa3NBLXJUUTV2dWZPUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -3135,16 +2475,6 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Ludwigshafen - BARMER",
-      "summary_de": "BARMER Krankenkasse in Ludwigshafen &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORDNPazdkQmZrcnY2QlF6WWpaWVJNdWxmcjk4M2pmNGhBcFl0TDlmS3g5WHVTTGJiMjA0U1o5a3JqV1FVS28tWUVKemtYMUFaNmlxWUJVbGt5V2dLVFNST3EzaGg5em5GUnpnVmp3VmROVTVqZnRFNTRBSm1fc2FiYlZuOGhNbWJzVklxeU9KWEZjamFiU0s5Sl8xQ3NObVVVMXNRMENaaHp5X2RfVVJwWW9CMHV0cjhvWU0zZnJjcUVkSjhERG1ITS1EMWxSUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "BARMER Krankenkasse in Karlsruhe - BARMER",
       "summary_de": "BARMER Krankenkasse in Karlsruhe &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
@@ -3155,30 +2485,10 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Trier - BARMER",
-      "summary_de": "BARMER Krankenkasse in Trier &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUG9VX0l0dUNqcDFrdldhdVcyMlJUaVU5U0x4QlFnd3dGVzMzRW5CMFZEQm5IWlBVNGJralNwLXdmb0hXbHktNjBZN2tFWHNjRzR1VEFRQVlQWGQza0RNdm9TTUY2Z3dwbks1a0luVlJ6bWpSLXlCU01LSENKS3dmd1U1MkcxWDUxd2JHX21BNkdPeTRVNnc2MFdVMTRiRUVjM2cyRThiWFJFTVNNb0tDaHhpbGNlbm9YZ2RNSGhFSC01eDVu?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "BARMER Krankenkasse in Berlin Charlottenburg-Wilmersdorf - BARMER",
       "summary_de": "BARMER Krankenkasse in Berlin Charlottenburg-Wilmersdorf &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcDRmaldyaEp3TjhHQThjdkYtZ0M4d2ZBQkhqTk1LYWZqR0l4Ym9iWWlxV0h1MTNGOXYxdkFpYU5yRnp6UlNlU0tkd1ZuRTBMQVB0UzdIV2pEMGdTTWRzbGFBSUpEUVZ2WmJGblhkbGh3YkZaWDhHbUQxNkJWcUFId292MGNma1YxcDRvM2ZwcmN3Q1ZuQ2x3dzdlcENFd19MNS1zSEtPY2swbkJRbHU5SkNBaHE5dUVIbGJvb1B3b01EbDFTZjMxU2RGZG1saDVzT1gzZVhERTNRX25WOUZBQ2pxbzZvV0FlOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Lübben - BARMER",
-      "summary_de": "BARMER Krankenkasse in Lübben &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdVdJU1ZMWW1RcmdZbWxRSXNoNnRoaDBuN2k0b2x0YmZaXzh2ZG1jaV9ELTVUUFZsU2djUzNhWU1VNlBEa2k0NTMwRWRSMmtjWnN1S1BrT3RKRXdQc3VDekV4TGZhWjFpbnRISmdiZDdrUVhVWjAyb0hHUjF5RFdpN3JHUjlkdGhSNGkzcV9iZVU2UUc2N2J1Q1NaaXV0MXFYLWVWclhERXdhb3JkVk1lRjhtQ2hKMy1ucHJtOW9aZF9ySnBQUW5j?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -3225,16 +2535,6 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Falkensee - BARMER",
-      "summary_de": "BARMER Krankenkasse in Falkensee &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSlpMTEpmenJXcnJNTnVKbmlhYmZIZFhqYWp3eDNaQl9tMmxNWlRoNTdzS0xrbFctZWlxVXVEVHllUDBLeDFhT2xJaTltX01Ia1daOW40eXFSM2tHVlRVT2lXS1BWN2pvSDVDXzl2SmpEOGJXbGQtMjhFZ3hCM21abmVFeHI2REZZYUJfT0I0WHdTcEtTMFJfWFFKODFQbEswZGV3ZU1sMXBYRUxwVUY3WXFHZS1UYjZVa3c2YTFCY2FHbmQ1M281cmRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "BARMER Krankenkasse in Bonn - BARMER",
       "summary_de": "BARMER Krankenkasse in Bonn &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
@@ -3265,30 +2565,10 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Lauf - BARMER",
-      "summary_de": "BARMER Krankenkasse in Lauf &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNanlpcGFaX0lOaXV5aFNLVm12RHltNkYyRWJ2eEFpeGFMaFlHVU1VYUlYbmVsYjEwcDBaWG4zQ3V1dURYNHB4QXZMMDlkWF90QlVjSEV3Mk4weUxZQ0VCYXZxcTBBTTF0WlFWWjhXU2hZNkJRWDRvOVlzOFZpcXdIWXFER0xfQ1RXWmJfUXZkX2Q1eFdIbDBOTnVaS2hRY1llWkl0bHRCdS1nVVdTMUdYT05oTUtCbUlXUVBBOVZ5VFhKZ0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "BARMER Krankenkasse in Göttingen - BARMER",
       "summary_de": "BARMER Krankenkasse in Göttingen &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZzlPUjJMMFV3MUJnYVpzUUVTby1TNnJoR21DaC1YSG9zdFA3eS1qLUZYWktNanYtbEMwR0ZKZ3J1WkdLSWdydElwWVlJc0YyQWlrUGNHclBrT3NUWGRwRHlGdk1icVpjMjJxQUNiRGx6THhFR0NkX002NnM1WVVoZE40SzhQbDZHVEtuYVNzQU1OZW5hcUtnV05MbzJGc2ZZZFpCbUVXVkFxQUlheUtISkg4R2xqb3c4a2twdGg5NlNxM2s1dkl4Z3RwUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Offenbach - BARMER",
-      "summary_de": "BARMER Krankenkasse in Offenbach &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNnZkcnI0N0pfV09jOVdhcC1TUW5lMzMzZ0R4eXVxLUk2WW5zbEhwUHlBcDhXMHBMejhfREFmb3BPOG9zcjFOM0hhZkxFVGF4M25HbVRBbWN6NDJBS3hjNDJRSTJpYVdjcnZfM0VDS3RFQmItX2RWaGF0NlZ3WWRodUlURVZmYnpUVDFqelNENlQxR0Z2N0hGWDk1Y1NMcmRkRmRpUEFPTlZEUTg1d0hFMVh1WV95bEctSzBvaXpqYi1hTFV4RU02QlV3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -3305,30 +2585,50 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Rastatt - BARMER",
-      "summary_de": "BARMER Krankenkasse in Rastatt &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Osterode - BARMER",
+      "summary_de": "BARMER Krankenkasse in Osterode &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNnZ2djFvSkU1MlNPWnloQzU5bGVfSUlTZmp3bll0ejZQV2YweHUzWVZtWlFUUTJNb0gxbGlOZjE5bFFvaHVrQVh3ZGdETXIydnB5WmZXU2g4N1JtbjJlWHlKSGo5NmlCZ2g0aFp4em9SVXFTellyVWJJTUJVS2t2ZGdEZmRiV2xxbGV5cXlFV2E0bzgzdV9ScGZSakd4RldYQVpTSmpOUDJFczg2X2RQdFl2ZnZjSUVNc28wUWs3cnNXMnQ1bmlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdG1KdllLZHRwYjhOeXlyT0ZVQVdxUEYwWUllZTdjdklwWE5OX2RvbTdaeEh2STZkdEVrbGFYUFpqS05rZXItTi0xdW1mWWhJNE1kRDM5YVF1V25WRGY3YjZpYmxBSGtUSzA5dGI4eGphVG41SVkyRFpNMWxzMVRXdXIwRVlPNTNWUmVTTmdrb213M192Z3dwSl9LalNwS1ZxVnU0UlNLSzBHV3JnN1MwVzNSbVNyN0loZUFTZUlBNFBnZG0weUVrVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Mannheim - BARMER",
-      "summary_de": "BARMER Krankenkasse in Mannheim &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Kaiserslautern - BARMER",
+      "summary_de": "BARMER Krankenkasse in Kaiserslautern &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOelJHQ09mWkJiUXk1eE5YTGlPWnhXSmNhU0ZBNmxCTUpiUWFUdjRFbmNobGp6NGpnTy1CMlZUV1Ewc0lmdy1scERpNU5NNUFYOF80bUtVNjR2RXFWbTZDWXhSaE9YOWpjVzhXRl94RHhHZFRfRE1LckVJd1NoN0V2RU1iR2xqcElNXzRlUjFqdDh2WmQyOEhYM1NXYUtsNEtIMF80Ykpsb1puelc2cWh2eHRWUlFxclBYQkRSbllWdzRBZ2RaMjJDQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTTlJd0ExNmRTZUNYZzYwbG5CYTZqUDdBN0k1SngwU3RoSmNvT2ZkTk5fMURnVE1UdHh0Zkw5YU5oOWZlcGk0QldES3JLT2Y1T1EyaGZhV1o2Y1FNR1lVWWZSczhraTdUVFNYRHhwbDMtc1VEaGpIOE1jMzhkS3h0eHF1Q2E3aVJ3djEzVEZkU3U2Qm1XUk1McHFUMnlFeDZ0cGZiSGZWUEIzN3djV0F5TnZHSjVSanhoUTBEZFRHMEZqbXBQdkZLcmJ0OGpBOUtQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Memmingen - BARMER",
-      "summary_de": "BARMER Krankenkasse in Memmingen &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Cham - BARMER",
+      "summary_de": "BARMER Krankenkasse in Cham &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWUc1R0R6VVlZMTFVZFF5c2c0WUdpNFRJUG1OUnpralJpeng3bmpsbFRUNU54QW1BdURzbFNONkNTN1E3dkJFcWRuWWczM29uMUk4UFNtdEdsREdvckxTVDljS2VGWGpsRmpHRnNRWFAtXzNKS0FEeWw4aHJuc1gtSDNEUE1MSWxPeThPZ3FvYUxlYl9URFgzMHlHZ1djOV90SGlTVU1FdXd4UWxBb1VIanlIemNWelZheWVzSXB6US11U3Z1N0JYd1Zn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQTNBYWF0MXFvaW9UU1RqRkZIamZvTEdBX0xzcTVWMnMwNGoySkJEVmJlc0hETkROSGJVb2o1WVRhWlozMWFDSEJiT21YTEgyUURpQTNqdjFDRUZaREl6RDMzS2pRWURUMmZJaTQzNWJHem9Jd1JYYjF0Sms4STMzdUo0cU93RzdEX0oxalNoS0VQcUhSbkxIRlhVb042OGFrLWhVcjVPR212Zm4xeU5zWjRtNW5ia19wclBxTExOejdTTGM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "BARMER Krankenkasse in Brandenburg a.d.H. - BARMER",
+      "summary_de": "BARMER Krankenkasse in Brandenburg a.d.H. &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZjE1RW5CN3NXazltQkZTeFhjbnZhNTBOTTk2VERaOC1kWXRqOWxQMHdiNzU5cE9mU0pIRmlEbFREQmY0WG9SZlJYQ29EU2U5VGpoRWZuOFFBWUcxUmh5MkdhejA3MFBIZDhvSTJjQWxEOEdrWWZ2WUpYMG5wRWozMU05aGxQMllrRXF6MVNFZklzQ0k1cGxuOHI5d2t3emY1UDA3bzluOXBsaFhPTUNzMThialdQRVBPNkI2RngyNjl1ZUl6YVlKa2IyMzlCYmlxTEszVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "BARMER Krankenkasse in Frankfurt (Main) - BARMER",
+      "summary_de": "BARMER Krankenkasse in Frankfurt (Main) &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRDlDSVhHbjB0ME9kV3dEUXI4ekNSUC1GaDQ0STQwNFRESnBCYy1KZW5yMzBLd3RaY1EyQ0wyV3ptQnpQZEtBMC1IQ201YVFWODNjT05aY2EwdU5xS3ZySkNSTFNuS0otMVJzUDVHeVZSWC15VDdPWHNFUXNoLXhNZDVCSHAyb0puUWNuS0Zzd2FoVUtHaTgwR3NqX2ZsTGNxS2ZRSElMR2tCRHQ2aENpLWlhNTA3bXpIcXI4VlV3NWdlREFocDNhTVNqczRpMUhG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -3355,51 +2655,11 @@
       "type": "News"
     },
     {
-      "title": "Provisional Accident and Emergency Quality Indicators for England, November 2025, by provider",
-      "summary_de": "Provisional Accident and Emergency Quality Indicators for England, November 2025, by providerThe measures included in this publication report on data coverage in ECDS compared with the emergency monthly situation reports MSitAE published by NHS England and NHS Improvement. They also report statistics for total time in A&amp;E, time to assessment, time to treatment, A&amp;E attendances that left before treatment and …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/provisional-accident-and-emergency-quality-indicators-for-england/november-2025-by-provider",
-      "published_at": "2026-01-14T12:19:35+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Episode 36 – Nice to m-eat you: what are alternative proteins?",
       "summary_de": "Legumes, mealworm powder and duck cell biomass may seem worlds apart but they all feature in conversations about how our food system is evolving. Join us as we discuss why!&nbsp;",
       "source_name": "EFSA | News",
       "source_url": "https://www.efsa.europa.eu/en/podcast/episode-36-nice-m-eat-you-what-are-alternative-proteins",
       "published_at": "2026-01-14T11:01:57+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "U1 - Wahl­er­klä­rung zum Umla­ge­satz nicht vergessen - Techniker Krankenkasse",
-      "summary_de": "U1 - Wahl­er­klä­rung zum Umla­ge­satz nicht vergessen &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbDZ4ZjF5WkxaVGJSeEcxcEhLb1lLbHRUTjZVaDhfZEZJZkZWS0ZoVTl5ajhrVFQ5VkpYUFBfM3NHcnBocE85YUNnbVFOT1B0dGNpdzF0dThYWmJQNmVrWURaamg5cy1pckxYSnlKbmNOcmJzWDl2TE5ZX2RpSGhvaDIyTWZVNVkzX1NkY0dRaF9HZkp6bWVIaWJsZG9jMzBTMmtHbm5vLXFoUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-14T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Wie erhalten Studierende einen Versicherungsnachweis der Krankenkasse? - dak.de",
-      "summary_de": "Wie erhalten Studierende einen Versicherungsnachweis der Krankenkasse? &nbsp;&nbsp; dak.de",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb3NnUktDQWFEYTFwekxsZmdocjdseWJaYmVfY0hyS1oxaklDaGpDbDJ0ckhjS3pzMDVydW11Qk5saFR2M09ndjFSTVVhZ0hTVHU5anV5VkdJMmhWTWtDZFJwN3hyRHItR1FUZ0k5QnJNemg4S21ZbXBNS1NDY3E2angzTmJqbXFhZkUtV0ZaOWpKQXFDOU9KdE83VnN4NHhMZm81Vk5TWWJ4RFNVRlNGNnVMVjJVQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-14T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "[MI] GP Contract Services - England, 2025-26",
-      "summary_de": "The GP Contract Services publication provides data relating to the delivery of primary care services across England, agreed within the GP contract(s) between NHS England and the British Medical Association's (BMA) General Practitioners Committee (GPC). These data are primarily used for payment and management information purposes as well as for wider usage to help support commissioning, planning and policy decisions. …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/gp-contract-services/2025-26",
-      "published_at": "2026-01-13T15:29:53+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
@@ -3439,16 +2699,6 @@
       "type": "News"
     },
     {
-      "title": "NHS App Management Information - November 2025",
-      "summary_de": "This publication provides information about the number of users and usage for the NHS App, and for features that are available through the NHS App. Data are included for the following measures, at ICB and national granularity: - NHS App monthly logins: The volume of NHS App sessions recorded over a calendar month. - NHS App monthly unique user logins: …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-app-statistics/november-2025",
-      "published_at": "2026-01-10T09:31:03+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Änderungen bei mehreren Verfahren nach der „Richtlinie zur datengestützten einrichtungsübergreifenden Qualitätssicherung” (DeQS-RL)",
       "summary_de": "Berlin, 8. Januar 2026 - Mit Beginn des Erfassungsjahres 2026 gibt es Änderungen bei der Durchführung mehrerer Qualitätssicherungsverfahren. Grund sind Beschlüsse des Gemeinsamen Bundesausschusses (G-BA). Dessen Richtlinien sind die Grundlage für das IQTIG, um QS-Verfahren im Auftrag des G-BA durchzuführen. Alle Änderungen betreffen Verfahren nach der “Richtlinie zur datengestützten einrichtungsübergreifenden Qualitätssicherung” (DeQS-RL).",
       "source_name": "Pressemitteilungen | IQTIG",
@@ -3458,26 +2708,6 @@
       "tags": [
         "Versorgung"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Summary Hospital-level Mortality Indicator (SHMI) - Deaths associated with hospitalisation, England, September 2024 - August 2025",
-      "summary_de": "This publication of the SHMI relates to discharges in the reporting period September 2024 - August 2025.The SHMI is the ratio between the actual number of patients who die following hospitalisation at the trust and the number that would be expected to die on the basis of average England figures, given the characteristics of the patients treated there. The SHMI …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/shmi/2026-01",
-      "published_at": "2026-01-08T09:31:05+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Das Hautkrebs-Screening beim Arzt - Techniker Krankenkasse",
-      "summary_de": "Das Hautkrebs-Screening beim Arzt &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMjBJZmFlb0dSclJ5Q1lLeHQ0MmVydTQ4TkVTU1pRdzFqa3NCU3Z1MHVBeWNZQTlSZ0hmUGo5NFloOXN4bFRMZ3VhaGtIOXpodUI4cHg3N1ZfTXI1dEhySTgwR1pTZkJuN24yVEpOS2xiQnpqZDFaTk03YWVJX3VYSlFJV3dJZDBUQXJhMWtNWk85cHBJeGhIZXVmY3AxQjBNOW5JU2lSWHo1eGtqYkw0LUtqVTdNZHpOR01mVFRHZGRWUGpuaFI3VW5fSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-08T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
@@ -3534,16 +2764,6 @@
       "type": "News"
     },
     {
-      "title": "Mentale Gesundheit: Forschungsprojekt zu Depressionen in der DDR startet - DIE ZEIT",
-      "summary_de": "Mentale Gesundheit: Forschungsprojekt zu Depressionen in der DDR startet &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbWJCNVd0MDRyRzUtQ3gxeW11Q3I1QnFWd1JyazRUS1c3LXhDSm5mSExYaWRtUHpvd1pXS2dzR0sySkloQlc1bDROTDFWTlh2bHhUV0hTX0g1ekthVlhUUHpvZmlMelNsanZ3dnJRaUtBM0tCQ3ROWUJUNjdvb3hDMm5PRVdKOG41SU9xenJ4bjRpdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-05T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Pressemitteilung: GKV-Versichertenbefragung: Jeder dritte Versicherte unzufrieden mit Wartezeit auf Facharzttermin",
       "summary_de": "Gesetzlich Versicherte wünschen sich einen schnelleren Zugang zu Behandlungen in fachärztlichen Praxen, in der hausärztlichen Versorgung sind sie mehrheitlich zufrieden. Dies ist ein Ergebnis der repräsentativen GKV-Versichertenbefragung 2025, die im Auftrag des GKV-Spitzenverbandes durchgeführt wurde.",
       "source_name": "GKV-SV Presseinformationen",
@@ -3576,6 +2796,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdFBmU0dwNXlsV3R1SDFSNTc3S2duZWxrTW9oai1BY3k0c3NKcGJ0QlR0enZlYklvZUtOeVUwM1pjS0JJb1hGMzY0SHNyTEoza1FWSW1Tb2sycmlDNkppTWdobExBRFRwRjhMV2tuWENxSFpBMVl0ZS1jaTlGeTN2NUlHVWYtdFBGN0pscw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-12-31T08:00:00+00:00",
       "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Was ist Traditionelle Chinesische Medizin? - BARMER",
+      "summary_de": "Was ist Traditionelle Chinesische Medizin? &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWs2MFVlbFNwTTBkRTkxY2JEZHVNbDR2bldCdFlhYmlWQ18zRUFNNzk3d1prMXBIczZ4d282Z3l6SmR6a1Q0bmtMV01yYlRXeTU1Mi1QWHJGMWhhOUxaU3dtcjZpTEd0aG5DWEdNMnNjamdNTzdhMkctT09LSmVhT2pHcFhDNlVvRnpBZW1XS25Wcm91RHBUVDZMX0ktNGZFdlYxbmlPUFhwdW1mZ1pJenU0dlNlNUVLRmYzYQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-12-30T08:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
