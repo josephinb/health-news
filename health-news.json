@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-07T04:25:23.176265+00:00",
+  "generated_at": "2026-02-07T06:33:25.046350+00:00",
   "window_days": 42,
-  "count": 364,
+  "count": 345,
   "items": [
     {
       "title": "\"Ich denke erst ans Geld, dann an meine Gesundheit\" - DIE ZEIT",
@@ -34,22 +34,12 @@
       "type": "News"
     },
     {
-      "title": "Could CEUS improve BI-RADS assessment?",
-      "summary_de": "Adding Contrast-enhanced ultrasound (CEUS) to BI-RADS could help improve classification of breast lesions.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15816589/could-ceus-improve-birads-assessment",
-      "published_at": "2026-02-06T18:47:11+00:00",
+      "title": "Personal | Klinik für Psychiatrie, Psychosomatik und Psychotherapie | Städtisches Krankenhaus Eisenhüttenstadt GmbH in 15890 Eisenhüttenstadt - HEK",
+      "summary_de": "Personal | Klinik für Psychiatrie, Psychosomatik und Psychotherapie | Städtisches Krankenhaus Eisenhüttenstadt GmbH in 15890 Eisenhüttenstadt &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPNE1GTUlhMnFtYXYtS2lYRHdnMUpLT2VsN251ZmROdFYyQk51TDNnQnJNd0YwZmhoOER4WXZYSmdacjQ0ZTUwR0pzVl9KaUdkTHZMbTNVbWF1R2RYRVJzNVJnQnI3SGRLdHFISk9pMmdSRUx0R0VpOUFCTy13SGpQRTlOdDhSSGltRHJtb3B3YXN5dkU3VFpERWFKMVgzZmFUZExZTVBrV2R6WVRzV0pHU1NXSV9HUkNERUNXSGdEc0o1d2VlaTV1QWRQeWpYb0MwZGc1bVNkTTNMQmtTMFl1V01ldFNEckp2NUZGM3I2RVVkcHJXZjlxcFRWQ3FNbUo0YUotY284b052MExTck94Wlpzc2t5RkNUVkxVQzFHSFRWQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-06T19:45:44+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Do young athletes with low back pain need advanced imaging?",
-      "summary_de": "Survey findings may support efforts to reduce unnecessary imaging in this population.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15816586/do-young-athletes-with-low-back-pain-need-advanced-imaging",
-      "published_at": "2026-02-06T18:19:08+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -342,16 +332,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcU81dlBRNmR3UHdJckJSV211OVNfTlpIUFFuVVJmMHNyaUZfUnZsVzdndGJLTnpTQ1RKZ08xWUFpQVNONFMwZ1J2MUZXdVVsNWZzUVg2VllvYzI5V0xEQ3BxTDBCSjdMcVlycm9uZXltWmNTQ2s2VzlBMjNMalBnX2xoZ3pPN0U3M1R1bFU5Q3BISEs3YTdheEhUS21kM042RFk3NVBfNERlLVpEWEw3UnFlaThZR3ZJSl9uQ2pCdVp2WkRzWU9RYmtGWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-06T11:14:36+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "PSMA-PET/CT best for staging prostate cancer",
-      "summary_de": "The finding is from a head-to-head comparison of PSMA-PET/CT with five other techniques.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15816609/psmapetct-best-for-staging-prostate-cancer",
-      "published_at": "2026-02-06T10:27:58+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -856,16 +836,6 @@
       "type": "News"
     },
     {
-      "title": "Microwave ablation safe for tumors close to the heart",
-      "summary_de": "Data on the safety and efficacy of microwave ablation to these high-risk lesions is limited.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/interventional/article/15816513/microwave-ablation-safe-for-tumors-close-to-the-heart",
-      "published_at": "2026-02-05T09:33:21+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Access to crisis care via NHS 111 - Mental Health, December 2025",
       "summary_de": "This publication introduces a newly established data collection for demand and call handling data items related to accessing crisis care via the NHS111 'select MH option'. This data will provide important insights into how accessible the crisis care system is helping to identify any gaps or inefficiencies. Additionally, the data will be used to support demand and capacity planning across …",
       "source_name": "Publication Feed",
@@ -886,16 +856,6 @@
       "type": "News"
     },
     {
-      "title": "Task-specific LLMs more accurate than general ones for identifying ILNs",
-      "summary_de": "AI-based tools that \"automatically identify and flag actionable findings can optimize patient tracking,\" researchers noted.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15816506/taskspecific-llms-more-accurate-than-general-ones-for-identifying-ilns",
-      "published_at": "2026-02-05T09:07:24+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "vdek veröffentlicht digitale Klinik-Landkarten für 2026 – neue Mindestmenge enthalten",
       "summary_de": "Der vdek hat seine Mindestmengenkarten für das Jahr 2026 veröffentlicht. Erstmals darin enthalten sind auch Kliniken, die Herztransplantationen durchführen dürfen – diese Mindestmenge gilt neu seit diesem Jahr. „Die Karten zeigen auch mit Blick auf die laufende Krankenhausreform, wie effektiv eine Strukturierung der stationären Versorgung anhand klarer Qualitätskriterien ist“, so vdek-Vorstandsvorsitzende Ulrike Elsner.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -905,16 +865,6 @@
       "tags": [
         "Versorgung"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Breast MRI with half-dose gadopiclenol comparable to gadobutrol exams",
-      "summary_de": "The results are particularly good news for patients who require repeated MR imaging.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/breast/article/15816493/breast-mri-with-halfdose-gadopiclenol-comparable-to-gadobutrol-exams",
-      "published_at": "2026-02-05T07:25:25+00:00",
-      "category": "Radiologie",
-      "tags": [],
       "type": "News"
     },
     {
@@ -944,16 +894,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaV9fX3NkbElMRXVmbG4tMmNweFp4MW9sRFZONmVDblllTm9Pdmhnd1d4dkQ3ZzhBdE5PdVYyRFdYb21yQTNVaFFMcFloYVB2WUQxN2h1M3U3SnJwWlYyeUhiTWRSV0RiYkFrMUhWTXNuaDlyMHFRNWN6LVdaMUNBQW5hUTkzLVZFd0otb2t1azNiUndib2Z6Nnd1ZGJ4M3AwaXZyQUU2QWoycnpHSUh5ZVN4ZzZVRUxfc2Fr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-04T23:00:00+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "30 Prozent der Norddeutschen haben Schwierigkeiten bei der Arztsuche | Die Techniker - Presse & Politik - Techniker Krankenkasse",
-      "summary_de": "30 Prozent der Norddeutschen haben Schwierigkeiten bei der Arztsuche | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMi1TQk1oUnJJYXpXeU5DUGtvdURDMTJVUUtyekdFc3ppdzZTbWNUcUFPMVlYNTlkd1pkZ1I2dzV4aUk2ZmRmVE9xVEY3MkJyalNrMEc0a0dwenNWYTVxOXBKWW8xaU81SVV4TjF0MUs1b2hBdjJYMDFBTWtKNl9rWkc0REYtV2tuN3M0WG1uRlN3OS10Yk84QlVpZkNOaTJIMGZFeWJsOC1pbDhZUTQ1Sll3UzVSOTZobTgzRDRiV1dKdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-04T23:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1162,16 +1102,6 @@
       "type": "News"
     },
     {
-      "title": "25 years of CT technology advances translate to lower radiation doses",
-      "summary_de": "CT radiation doses have been reduced by a factor of two to 10, researchers have reported.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15816362/25-years-of-ct-technology-advances-translate-to-lower-radiation-doses",
-      "published_at": "2026-02-04T10:18:23+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Zahlen zu Krebserkrankungen - Krebsregister: Anstieg von Krebsfällen in Schleswig-Holstein - Gesundheit - SZ.de",
       "summary_de": "Zahlen zu Krebserkrankungen - Krebsregister: Anstieg von Krebsfällen in Schleswig-Holstein - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1187,16 +1117,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOY1hpWW5ETlk1OFNiOE1obGg4S2l3cTJCUThRYnppdDlWSUNjUnNYN1JRVFUyNUs4SXdpcFA1VXZBVGxRWFdVcXRfQUVfdWhZdkJXRDlNeFNfX3EzNEVkaklaRlMxVFJneEFwM3AxMkJfRFJqWjcyTmRWU0syb1RkbUlucnZZUTQxRXpIVWc2ajRqSjhEdUtoVFp1clRLa1hHdzAwZWpJMGh5eDdJTFlPR1FFN28zeXY4MmgxR25aMUJxRVFCR3RmZVc2MjM0aGxsY290MU1TYUNWSXJ0VV9PdkhxajJhcS14cDRLTk9yWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-04T09:52:53+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "MIT team reports success from wearable breast ultrasound device",
-      "summary_de": "Researchers have developed a wearable breast ultrasound device that successfully imaged breast cysts in a patient.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ultrasound/article/15816360/mit-team-reports-success-from-wearable-breast-ultrasound-device",
-      "published_at": "2026-02-04T09:21:30+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1222,16 +1142,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "AuntMinnie.com Molecular Imaging Insider",
-      "summary_de": "In this edition of our Molecular Imaging Insider, we're highlighting a study describing the development of AI models that can...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/editors-note/article/15816298/auntminniecom-molecular-imaging-insider",
-      "published_at": "2026-02-04T08:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "\"Ich denke erst ans Geld, dann an meine Gesundheit\" - DIE ZEIT",
@@ -1354,16 +1264,6 @@
       "type": "News"
     },
     {
-      "title": "Chefarzt Radiologie Jüdisches Krankenhaus Berlin Stellenangebote - ärztestellen",
-      "summary_de": "Chefarzt Radiologie Jüdisches Krankenhaus Berlin Stellenangebote &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWmlMblJWQ001aGxoczNwSGQyMjI5TU1IMURaTngwd3J1cG93VUVpVEpUXzd5TUc4c3B6MTVqQ294aV9hNzNIVjR5aTlyS2laZjFuT0MwSlJSQTlOY0l3Nkp6Qk0xeVJtby1kYTJmcWtaUjc4d21lY01ObDdUTzRkX0VfZjJSU1Q3SHk2QmtwVzBMeVhhNE82bWE2d3RjcDJH?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-03T20:48:54+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -1404,16 +1304,6 @@
       "type": "News"
     },
     {
-      "title": "Oberarzt (m/w/d) - Innere Medizin / Gastroenterologie, Rems-Murr-Kliniken gGmbH - FAZ Stellenmarkt",
-      "summary_de": "Oberarzt (m/w/d) - Innere Medizin / Gastroenterologie, Rems-Murr-Kliniken gGmbH &nbsp;&nbsp; FAZ Stellenmarkt",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSy1RcW05amFKUFNnUzctSGpaaXlmUzFrdGtKZmZUemdoZ05SLXpjVGRJdjBHS2FmQXYyNnMtNjFIT2wtcldBS1lRMU0xaXJfTThycTZMZEFkUzRUdFVEZHU5RzR0QnQ1Y3pJNm16ck95Qzh0YmNwWHpiaGlDTW1hY0V0OWsxak43cVRBQ0xoSWw3c3NzUGVVS21oZjVRSTFQOTNHYl9n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-03T11:49:52+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit: Feinstaub in Sachsen-Anhalt erreicht Spitzenwerte - DIE ZEIT",
       "summary_de": "Gesundheit: Feinstaub in Sachsen-Anhalt erreicht Spitzenwerte &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -1449,26 +1339,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQLWotQWstcHEydTQycU5CdFhXMTRsaXoyUTVnWGJuUV9IbnNWN2tDS240NjVYWWFjUFpScVF1OHo2cG1EMVExb3cwZFFXUzlSbnpLTV9iYXZNQ1I2X0JvTjEzd1Zfd3FpNHAyTFp4NlNVYlpRdzZVY19SZXdoakNkNXJVZ21VLXV4SHV5MG1uQy1oTHpoV1c0Q3VTbmRsY0lXNHlWUlhlZy1FMG9qNWZFZDhwcF96NDVzX2VZa1phY2RWYm5TcUFWb1lVZkphN0JHUkh4bnc5TV92SFdXNUZsZHFXM2tRREdVZFFpLQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-03T10:08:06+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "AI detects Alzheimer’s on brain perfusion SPECT scans",
-      "summary_de": "The model aims to enhance the consistency and confidence of SPECT interpretation supporting current workflows.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15816289/ai-detects-alzheimers-on-brain-perfusion-spect-scans",
-      "published_at": "2026-02-03T09:57:01+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Oberarzt (m/w/d) Notaufnahme mit Fachrichtung Innere Medizin, Rems-Murr-Kliniken gGmbH - FAZ Stellenmarkt",
-      "summary_de": "Oberarzt (m/w/d) Notaufnahme mit Fachrichtung Innere Medizin, Rems-Murr-Kliniken gGmbH &nbsp;&nbsp; FAZ Stellenmarkt",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ3V0RGY0ODY4QV9VOVZ5U1pHa2JPUjlZX3RHaWZldlExdE93VEg2NTlGX2tDa2JnTG9WZlRnYzRoZ0ZMWFRFQXc3RlpYWUIwYTlMYlhpeDRfT1ZlMzZjOF9YRV9HWG44R1Jjb05DQU5QQ1JOMExrYWozeVB6QWdUQklnR1JGOGtlOWJWSk9IVEk1b3dqWkZsU3pRTk40c3dDa25qbHhqaXRMZTJwWHgzbzlWdUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-03T09:18:39+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1694,16 +1564,6 @@
       "type": "News"
     },
     {
-      "title": "Gesundheits- und Krankenpfleger (gn*) Pflegefachmann (gn*) Altenpfleger (gn*) Innere Medizin - FAZ Stellenmarkt",
-      "summary_de": "Gesundheits- und Krankenpfleger (gn*) Pflegefachmann (gn*) Altenpfleger (gn*) Innere Medizin &nbsp;&nbsp; FAZ Stellenmarkt",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUkh4Z09rRUlhbkhrZ1U2aUk0ZHduZlBkUTVMS3MxcGMwNUlpbjlnb3NlaVFWUlVYWEdXWjNJajEzVlJNZGJfWFozOTJSaDNZbDcyb1VNVG8yTE8xVjg1SWxfdmJQa01pVEJmcV9MbnNDeFhsc053V1RCd3N2OFpHTHJKVFk0M0lKdHVfV052ZVhjQkFjOXdSb3gtOFMyS1o4QV9NQzBrMlRZaXphNG1aMnVROFhvVE5fYnVldjQ5TGxPZ2N1Z21qMGR2OWJXc0JTWVhXSw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-02T09:19:41+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "iga.Report 49 der Initiative Gesundheit und Arbeit: Gesunde und sichere Arbeit macht Unternehmen attraktiver",
       "summary_de": "Was bindet Mitarbeitende an ein Unternehmen und was macht es für neue Fachkräfte attraktiv? Der neue iga.Report 49 „Gesunde, sichere Arbeit – ein Schlüssel für die Arbeitgeberattraktivität?“ der Initiative Gesundheit und Arbeit (iga) untersucht den Zusammenhang zwischen Betrieblicher Gesundheitsförderung (BGF), Arbeitsschutz und Arbeitgeberattraktivität.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -1809,26 +1669,6 @@
       "source_name": "\"site:faz.net medizin\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaTR5aVNycWJ4Q3dsZU51dm1OWmxUT0dUQ2Z2b3ZmbzRTeWpDQjFPbVBlWWNBbkxWamV2Tm9jRHR6eWJLN3pzVkI5Q2xrN2Z2TzdSNExRNng4MVZvUjhFOVZWczVCek5RX3V3bVhkZC03amk0bU5nRF80WXVfZHl6MExyU1dRMFdWZVdENU5FNkhzM1ZZdlFWOFh0UXdqR3pUMm95ZjlweWR5OVE0VmxSay1pSHVsWmJNZzRUUkExX3RQRUtBbTFOTQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-31T10:55:09+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit: Angststörungen bei Mädchen in Niedersachsen nehmen zu - DIE ZEIT",
-      "summary_de": "Gesundheit: Angststörungen bei Mädchen in Niedersachsen nehmen zu &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM2FpOXlaeVF5aWpBY1A3QjFaNXZpenp4Z1cwZkdWVnhla3hfemNMeU9La0JFSFoxZk5rRXZSYm9UUkNkN3JlT2xobWFZdWQtWjdMaWFyYzFRZndDM21VeEVpTm5ZbGEycTB1b0V3Qm9KNS1oMk96cktIX1hDN3FQT0dHQkUyb1RjZ0RaWW9Ici02Y0dHR2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-31T05:00:04+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit - Angststörungen bei Mädchen in Niedersachsen nehmen zu - Gesundheit - SZ.de",
-      "summary_de": "Gesundheit - Angststörungen bei Mädchen in Niedersachsen nehmen zu - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPazFpX0l6LUMxV0JUMFhKMEp1SzBOSlBTNWVTaG5NdEFrcjZqYUctMzlFWi1VTGlKenNMcW51OGU1cF9tTk9VQ3Etbm4xSmdNS1JzRGZiTVNNaUg4ZzY5djA1R21nSi1HNm5UUUV1YnVsQnFpRlpNUm5HU0hVaEVFYmlrclRGYmhDMzNUV3VDekY1RDFjY0lHMDRfcmFINnlJS2V2LUhjYXlsMjRkRk1TZG02RWNQOU92N2FRMWxRVDdEYkg5b3VBWVlFUElzZEZoWVY0ckZyVXZLaG9PY0VNLVZxckNodGVaX0RV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-31T05:00:04+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -2119,6 +1959,16 @@
       "type": "News"
     },
     {
+      "title": "Krank im Urlaub - was rechtlich gilt | Die Techniker - Firmenkunden - Techniker Krankenkasse",
+      "summary_de": "Krank im Urlaub - was rechtlich gilt | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV1BneHZIQ2dzQnFfb3NOeV8xV3MwUzh6b0hkUzdxZDNTSzlpMXNnM2VfWmpaY0ZITFNFcDRUMlQtSDFENUZ0TGtjYS1GQ2ROUGFuWFpreEFRemZ2QnhxQTVnMFh5T21Xa0tpNjZnVG9xblI0WTFadTZXX1lnblZNM2d1UzFSUndKSXhyQnA4MmNfME45Q3E4RThKN0EyM0lhTjB2U0p6TUhkblNNVVM2c0FaNDhlZFEyVko0YTdWV1lTaEJhTTNITTQzdFA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-28T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Neues Verfahren QS Sepsis am 1. Januar 2026 in den Regelbetrieb gestartet",
       "summary_de": "Berlin, 28. Januar 2026 - Mit der Diagnostik und Therapie der Sepsis (QS Sepsis) ist am 1. Januar 2026 ein neues Qualitätssicherungsverfahren in den bundesweiten Regelbetrieb gestartet. Das Verfahren verfolgt unter anderem das Ziel, die Sterblichkeit sowie neu auftretende Morbiditäten von Patientinnen und Patienten mit Sepsis zu reduzieren. Es ist das 17. Verfahren unter der “Richtlinie zur datengestützten einrichtungsübergreifenden Qualitätssicherung” …",
       "source_name": "Pressemitteilungen | IQTIG",
@@ -2250,6 +2100,16 @@
       "source_url": "https://www.diagnosticimaging.com/view/stealth-assets-to-pursue-early-in-your-radiology-career",
       "published_at": "2026-01-26T10:50:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "GFO Klinik Engelskirchen - St. Josef Krankenhaus Stellenangebote in Brühl (0) - ärztestellen",
+      "summary_de": "GFO Klinik Engelskirchen - St. Josef Krankenhaus Stellenangebote in Brühl (0) &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa293aXZlazBDTEU5VkNkZG9Bb1hES29RZ3dXdDNKU2NxQUVtVUZnT1dFQzE5NXA2aEZfSnRGREJrVExKZWJfSXF2dDhUT1B3NThoV1BuZTd5NWNfcXBkQlNzM1o5MjlaZlJ5QXlkeERRTzlYaWt0V3ZwTHBnb1NqSktMcGx2Nk1pd3JYYkR2dWdPOEFYNkZzaUFuc195eU1yNGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-26T10:18:09+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2500,6 +2360,16 @@
       "type": "News"
     },
     {
+      "title": "Die Sachbezugswerte 2026 | Die Techniker - Firmenkunden - Techniker Krankenkasse",
+      "summary_de": "Die Sachbezugswerte 2026 | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX2EzUzQ1TFdqWWZqTzgzU2lwYVN6cDFzbnFUc3hLeEJUVlNCY3hQRS1RcFlseFJEYnhSU0lvU3JRajRrYnc3aFF2SmNEVEdEZlY4R1Y4d2phb0o5dlpMQmY0QXVVUEZPRVVuMWwzWk83N2NaaHpyWndtLXA2Q2phbEY3dGppTC1OeEVKdk9xajVnakFfRnVlTzBxSkJHVFU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-21T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Pflege im Heim: Eigenanteil in MV weiter gestiegen - tagesschau.de",
       "summary_de": "Pflege im Heim: Eigenanteil in MV weiter gestiegen &nbsp;&nbsp; tagesschau.de",
       "source_name": "\"site:tagesschau.de \"Gesundheitspolitik\"\" - Google News",
@@ -2571,26 +2441,6 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-app-statistics/december-2025",
       "published_at": "2026-01-20T09:40:34+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "KI im Krankenhaus: Bedeutung, Nutzen und Risiken aus Sicht der IT-Leitung, Adiccon GmbH, Story - PresseBox",
-      "summary_de": "KI im Krankenhaus: Bedeutung, Nutzen und Risiken aus Sicht der IT-Leitung, Adiccon GmbH, Story &nbsp;&nbsp; PresseBox",
-      "source_name": "\"site:pressebox.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORGI3ekVXVkxEak82VGxfZGd0QzFubVkyTWpaR3J0eDRXUXRZcHZmVS03c3Nrd0ExbS12WV9VLXc2TUxrVmRxbDNRRDdMdTJIZTlSazBjWF9DN0JJcXpZcVBVWGJyYXRwX3E3WkJyZTJLelY0Q0d2TjVpZ0twUUllU3MzRVlJck1BTVRjaU91dzAxaHhoZWpjeXJueXp0Q1RCYy02c0d4cGEycEhpU0puQ09xQmNNX1JDWUZpaXkxeE5ybVNjZEFSQUxpUmY4ZWoxaUpKcVJ3bw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-20T09:21:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Alleine reisen: Ein Boost für die mentale Gesundheit? - BARMER",
-      "summary_de": "Alleine reisen: Ein Boost für die mentale Gesundheit? &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3JsMklBblhWZGhjamdPb1RTVmdGUk51RUwxMUh3RXB6ZWVudS1kMzFyNGpKOGFzV2wtX0ZNS1ZTVnlhVEFXQnV0T1JTajMtQ202c1ZKX0dnV2ZvVHY0WUFRaWdLU0FwMFkzZVVRbUtiNTJjVThkOWg0NmMtcURtdmlKWTVVZS1xTVppOGNxTWMwUF9nMjBB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-20T08:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2703,6 +2553,16 @@
       "source_url": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-12-15-january-2026",
       "published_at": "2026-01-16T11:00:00+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Doppelfacharzt Radiologie/Nuklearmedizin oder Nuklearmedizin - ärztestellen",
+      "summary_de": "Doppelfacharzt Radiologie/Nuklearmedizin oder Nuklearmedizin &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObHZmajhDc0hUV2lkUEd2NGF5SmJ0YTZrMzdtRWQ3SDB5V2tXU01RQkZ0SzFIQy0zdmp2N3kxYVRuemRSdXJhQ2ZkSi10TnJVeDFwVUpyTFVtQlFSUUdiWlpISnZMLXIzWDBVNzhCMEVYSDUxak1jUlFGRmtNWkh5b0gzRmhzaXlCZm5uenU2cTRWbGFKOUZhSGZDc3I2ZmIzWnJ6NmhPNW5KMDFRNjdZQzFJOEpQTXNrQ3pF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-16T08:00:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -3147,20 +3007,20 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Plauen - BARMER",
-      "summary_de": "BARMER Krankenkasse in Plauen &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Freising - BARMER",
+      "summary_de": "BARMER Krankenkasse in Freising &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZVY0anFmRVRNRnRUczVGenZ1ZjJvYldZWUVBUTRKWExFX1QzZmt3WG5pWktTREhnQ2g5SXVEZWQydVQyTTNTTEdlMDZDdXhqSmY5U2RQanVEZS1teTVna0JaZFV0djMyVFpGbGM4ZFBxNmIyR2p1TnhIVF94V2laREJTYUFfVnlILWJ0VDN0RkxSU3FnRDVKb0puWmlkYU92ZnBybFFpRjA0RlZJODV5emVrRGJSM3FFckpWN0FvUXJLSW01dkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcGhvQzdDdzJtMTNldk5aaTdkVVdhenVKSWYwVnlsVlgyNWN2c1hleUVUMVdLcndMSzRjdnc2VHRZZUdBQ3BDWXdBd1RfOHlPZzNjSGdyb0tELW9lQU1vRWdtM0g3eV9COUU1ZEE1WjBacEhqVEJIc3p5cGlKQnptWnliZDQ4X3FFWk5YWkR2SnZ4amFQSkl3WmNjZHdheEtHRXlBb0dXV0FMcXNnekFJdUlib0Y5a0k5SjgybE1RSjlZVW5NMGpOUA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Freising - BARMER",
-      "summary_de": "BARMER Krankenkasse in Freising &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Wolfenbüttel - BARMER",
+      "summary_de": "BARMER Krankenkasse in Wolfenbüttel &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcGhvQzdDdzJtMTNldk5aaTdkVVdhenVKSWYwVnlsVlgyNWN2c1hleUVUMVdLcndMSzRjdnc2VHRZZUdBQ3BDWXdBd1RfOHlPZzNjSGdyb0tELW9lQU1vRWdtM0g3eV9COUU1ZEE1WjBacEhqVEJIc3p5cGlKQnptWnliZDQ4X3FFWk5YWkR2SnZ4amFQSkl3WmNjZHdheEtHRXlBb0dXV0FMcXNnekFJdUlib0Y5a0k5SjgybE1RSjlZVW5NMGpOUA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeE5obVU1dGV5TWpuVFBOcGhmRFFzSE5pM3FBQzA0UGNxUVkwOGE5WnZ3UTZNQVdOVmlkZXZZUHY3bWljeXh5ekJiNWZIa0ZiMVlFTkQ4dGRuU3N1THhfLVNobkFrN2dseEowU1k0YWZRTnNENUJ5a1FRSW1FdGt4RVJQdDFIdnBnQ0hKWlItWmRBdnhUeTc3anI2UkZyOGc2MzV6OEZFVDhWbUhWWHZobW1PZFlEclpXbUM5WFlZR1lkVDhheDEzR1ZKTHpaSU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -3387,86 +3247,6 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Offenbach - BARMER",
-      "summary_de": "BARMER Krankenkasse in Offenbach &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNnZkcnI0N0pfV09jOVdhcC1TUW5lMzMzZ0R4eXVxLUk2WW5zbEhwUHlBcDhXMHBMejhfREFmb3BPOG9zcjFOM0hhZkxFVGF4M25HbVRBbWN6NDJBS3hjNDJRSTJpYVdjcnZfM0VDS3RFQmItX2RWaGF0NlZ3WWRodUlURVZmYnpUVDFqelNENlQxR0Z2N0hGWDk1Y1NMcmRkRmRpUEFPTlZEUTg1d0hFMVh1WV95bEctSzBvaXpqYi1hTFV4RU02QlV3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Waldshut-Tiengen - BARMER",
-      "summary_de": "BARMER Krankenkasse in Waldshut-Tiengen &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQVcxVmxfRHNQbExsdm8xQ0ZYdFhMaktsaVFnZUh3MlBVUDhIRXhYWk1wckN6eEZHMEg5SU9oejRRNm9USUt5TDluTGVPb012cnBZTWl5RVB3cGc5b2dsbmh6VGE0eW05SHRlcnduc2picEVsd2NGY1JKUGdIQnczd2JyMkYycVRVbUJSWG5yem1ndm82TkdsbEFxdkJ3U2pRZkxoeXRUYlBTY2haRmFyaTRqdVFtS181OER3MVp1ai1faXJ1dUZEZmdUTS16RlF4cFJv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Friedberg - BARMER",
-      "summary_de": "BARMER Krankenkasse in Friedberg &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWXFHbnEyQkc3QW5TLVpqd0dfUE9uUm15ZWFrcU52N005TUFvMk9WNThLVC1kZktrQWx3UmxxdHZLU19valBqa0x2SjJCSUFkZjRYVzlLcXBnUjV6UWpzbFVJTW5aR1FKNnhZSzhFNmVBWng3TUp5ZVhrUTVReTJ5MXFpb1RDR0ozVktheG1YRE42LW1hZ09MOEZDQUxaejF0RVgzZjF0eFgtVjBuZlhiZHY3TTlMZ3dzUmx4T3pmS20xVm5hQnU2a0lB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Osterode - BARMER",
-      "summary_de": "BARMER Krankenkasse in Osterode &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdG1KdllLZHRwYjhOeXlyT0ZVQVdxUEYwWUllZTdjdklwWE5OX2RvbTdaeEh2STZkdEVrbGFYUFpqS05rZXItTi0xdW1mWWhJNE1kRDM5YVF1V25WRGY3YjZpYmxBSGtUSzA5dGI4eGphVG41SVkyRFpNMWxzMVRXdXIwRVlPNTNWUmVTTmdrb213M192Z3dwSl9LalNwS1ZxVnU0UlNLSzBHV3JnN1MwVzNSbVNyN0loZUFTZUlBNFBnZG0weUVrVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Rastatt - BARMER",
-      "summary_de": "BARMER Krankenkasse in Rastatt &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNnZ2djFvSkU1MlNPWnloQzU5bGVfSUlTZmp3bll0ejZQV2YweHUzWVZtWlFUUTJNb0gxbGlOZjE5bFFvaHVrQVh3ZGdETXIydnB5WmZXU2g4N1JtbjJlWHlKSGo5NmlCZ2g0aFp4em9SVXFTellyVWJJTUJVS2t2ZGdEZmRiV2xxbGV5cXlFV2E0bzgzdV9ScGZSakd4RldYQVpTSmpOUDJFczg2X2RQdFl2ZnZjSUVNc28wUWs3cnNXMnQ1bmlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Mannheim - BARMER",
-      "summary_de": "BARMER Krankenkasse in Mannheim &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOelJHQ09mWkJiUXk1eE5YTGlPWnhXSmNhU0ZBNmxCTUpiUWFUdjRFbmNobGp6NGpnTy1CMlZUV1Ewc0lmdy1scERpNU5NNUFYOF80bUtVNjR2RXFWbTZDWXhSaE9YOWpjVzhXRl94RHhHZFRfRE1LckVJd1NoN0V2RU1iR2xqcElNXzRlUjFqdDh2WmQyOEhYM1NXYUtsNEtIMF80Ykpsb1puelc2cWh2eHRWUlFxclBYQkRSbllWdzRBZ2RaMjJDQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Memmingen - BARMER",
-      "summary_de": "BARMER Krankenkasse in Memmingen &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWUc1R0R6VVlZMTFVZFF5c2c0WUdpNFRJUG1OUnpralJpeng3bmpsbFRUNU54QW1BdURzbFNONkNTN1E3dkJFcWRuWWczM29uMUk4UFNtdEdsREdvckxTVDljS2VGWGpsRmpHRnNRWFAtXzNKS0FEeWw4aHJuc1gtSDNEUE1MSWxPeThPZ3FvYUxlYl9URFgzMHlHZ1djOV90SGlTVU1FdXd4UWxBb1VIanlIemNWelZheWVzSXB6US11U3Z1N0JYd1Zn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Görlitz - BARMER",
-      "summary_de": "BARMER Krankenkasse in Görlitz &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbEtVb0tOWloxTjg1X1V6ZThEQXZDbFRodUFUcHlWM3VOUEFtakFmVVJETlRsTTgwWGJENDJYRDdzN2p6Y3VtVUNtN3BhSTl4RGZTWkt3ZF9IbTVoY0RhNXJOTHR5QnJvTjBpMnZnVXN6Y1o0OVJUNmoxcVE4djFrM05renZMUFJYSVlIa3FITG9RQ3Q4WW1KZ01NUDJfcVZwNzVnQ1BjckRYN0o5ZmV1My1POWkwUms4UFpnTWs0bHVwVWFSSU4wcQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "EMA and FDA set common principles for AI in medicine development",
       "summary_de": "EMA and the U.S. Food and Drug Administration (FDA) have jointly identified ten principles for good artificial intelligence (AI) practice in the medicines lifecycle.The…, \"The guiding principles of good AI practice in drug development are a first step of a renewed EU-US cooperation in the field of novel medical technologies. The…, The use of AI technologies across the medicines lifecycle …",
       "source_name": "News and press releases",
@@ -3652,6 +3432,26 @@
       "type": "News"
     },
     {
+      "title": "Mutterschutz und Beschäftigungsverbot - Techniker Krankenkasse",
+      "summary_de": "Mutterschutz und Beschäftigungsverbot &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaWtVN3M3V0QybFpweWppbnRmWUNrQlhrYU1rUlBjc0c5Q3B1RzVzTjhxaWlCa2RnRmhCWlBlZDNaRTRlVmxVSkdWZE5qblBXNmVTam8yVGZjalo2X0hfRzE0X0E5WnJ1aVBmMmtwNTl1djNkUDF1NGx1NFd6eDBTaFlwUkQxcnlJbGpzRVlSQWNPdnZBcEJSUUtVdVhIbTVaWFVHTHpXR1d2blFaVTdQWW1sUHZSaEw1TTRmXzFXb1RjRVBFdXJuWWgtTTdfZnVS?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-01T17:32:16+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Mini­jobs: Wann sich schwan­kende Entgelt­höhen auf die Versi­che­rungs­pflicht auswirken - Techniker Krankenkasse",
+      "summary_de": "Mini­jobs: Wann sich schwan­kende Entgelt­höhen auf die Versi­che­rungs­pflicht auswirken &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ1FydnFYUkp4SU83aEc0bm9rYWQtbDNkNTRYRFhfNDFYVGs5TGl1U2F6eDBnNDdtNWstYmQ1QlYwRDJuSWhsSEtmM1Z6QjY5c0x5ekZwamw5Nm9ST3JldHVnWGE5MnFrTmQ3MHhmMmIzQnBkWHRtWTI2cXhsX2pYdk5JMFlhbHZBNzBwb0p2VUFTTV80Xy1nNUticVBTSU9VWnZnZF9teXdmMXVVSWFRSExMNVJITjhhWU13TXZkR01oYXhVclZKdWJlVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-01T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gesundheitspolitik: Bayern will Cannabis-Legalisierung zurückdrehen - DIE ZEIT",
       "summary_de": "Gesundheitspolitik: Bayern will Cannabis-Legalisierung zurückdrehen &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
@@ -3690,6 +3490,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUnhwTnFBT2lvYWJPdF82QlA0M2trdE1kOWx4RGhzd0NqSm9CMklKX2sycEhNeFhrQ1pmbUd1emVZNHJ3bEdCckJ6eDNlbjk4bU8xOTlyS2lrSVlOVTZkM1h4LU9xMnJpbnNPOU40NjZmOU5WUEZDOXpJcWh2UHQ2NHVxMTM3TFJjb2tfVGJBMGpxUDNSWnNydWFpM1huWUQ0WU5XbE1hcXpIWTM2MWowUmJsWkZOTWJxNzBQNFRPZHlmelZxX3hvUVUxb1R1dw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2025-12-29T08:00:00+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Assistenzarzt / Arzt in Weiterbildung Radiologie Stellenangebote in Bayern (2) - ärztestellen",
+      "summary_de": "Assistenzarzt / Arzt in Weiterbildung Radiologie Stellenangebote in Bayern (2) &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX3lvcXJsZTdlVThYdGpoWTJza21mWHdZcV9ONUswQzQ2a3hiMXNmVVNibTYxSTFTNF9tUXNIbXNlY1k3SHRKSnRZbHU1SEJ3cXpyUDUwbnF6SGlydkFfV1VTeUxoNTk3RWRHUmc2QzJCS2RoaGt3ZGM4WWZHeXVzSTk4RkpXQnAzbF8yUEtnVzdnSXNVMnBBbFFvcmluLUQ1RUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2025-12-27T09:04:18+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     }
