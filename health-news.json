@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-02-14T06:36:00.818833+00:00",
+  "generated_at": "2026-02-14T09:24:22.235462+00:00",
   "window_days": 42,
-  "count": 308,
+  "count": 311,
   "items": [
+    {
+      "title": "PZ Briefing: Die Top-News der Woche",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten der Woche aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-der-woche-162808/",
+      "published_at": "2026-02-14T08:00:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "deinMRT – Radiologische Diagnostik für eine bewusste Vorsorge: Aufmerksamkeit für die eigene Gesundheit - RP Online",
       "summary_de": "deinMRT – Radiologische Diagnostik für eine bewusste Vorsorge: Aufmerksamkeit für die eigene Gesundheit &nbsp;&nbsp; RP Online",
@@ -20,6 +30,16 @@
       "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
       "published_at": "2026-02-13T20:23:58+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "CEUS outshines color Doppler imaging for indeterminate kidney lesions",
+      "summary_de": "CEUS outperformed color Doppler ultrasound in a study focusing on indeterminate kidney lesions.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ultrasound/article/15817215/ceus-outshines-color-doppler-imaging-for-indeterminate-kidney-lesions",
+      "published_at": "2026-02-13T18:51:45+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -126,20 +146,20 @@
       "type": "News"
     },
     {
-      "title": "Bayern: Roche eröffnet neues Diagnostik-Innovationszentrum",
-      "summary_de": "Der Pharmakonzern Roche hat rund 300 Millionen Euro in Bayern in sein neues Diagnostik-Innovationszentrum investiert. K&uuml;nftig soll dort unter anderem an In-vitro-Diagnostika f&uuml;r verschiedene Bereiche geforscht werden. Herzst&uuml;ck der neuen Anlage ist ein W&uuml;rfel.",
+      "title": "Hätten Sie es gewusst?: In der Liebe differenziert das Gehirn",
+      "summary_de": "Liebe f&uuml;hlt sich nicht nur unterschiedlich an &ndash; sie zeigt sich im Gehirn auch verschieden. Romantische, freundschaftliche und tierbezogene Zuneigung erzeugen n&auml;mlich jeweils andere neuronale Muster.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/roche-eroeffnet-neues-diagnostik-innovationszentrum-162786/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/in-der-liebe-differenziert-das-gehirn-162737/",
       "published_at": "2026-02-13T14:30:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Hätten Sie es gewusst?: In der Liebe differenziert das Gehirn",
-      "summary_de": "Liebe f&uuml;hlt sich nicht nur unterschiedlich an &ndash; sie zeigt sich im Gehirn auch verschieden. Romantische, freundschaftliche und tierbezogene Zuneigung erzeugen n&auml;mlich jeweils andere neuronale Muster.",
+      "title": "Bayern: Roche eröffnet neues Diagnostik-Innovationszentrum",
+      "summary_de": "Der Pharmakonzern Roche hat rund 300 Millionen Euro in Bayern in sein neues Diagnostik-Innovationszentrum investiert. K&uuml;nftig soll dort unter anderem an In-vitro-Diagnostika f&uuml;r verschiedene Bereiche geforscht werden. Herzst&uuml;ck der neuen Anlage ist ein W&uuml;rfel.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/in-der-liebe-differenziert-das-gehirn-162737/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/roche-eroeffnet-neues-diagnostik-innovationszentrum-162786/",
       "published_at": "2026-02-13T14:30:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
@@ -216,20 +236,20 @@
       "type": "News"
     },
     {
-      "title": "Flut in Mosambik: AoG startet Nothilfeeinsatz",
-      "summary_de": "Kommenden Montag schickt die Hilfsorganisation Apotheker ohne Grenzen ein erstes Team nach Mosambik, um die lokalen Gesundheitsstrukturen zu entlasten. Das afrikanische Land erlebt derzeit heftige &Uuml;berschwemmungen.",
+      "title": "OTC-Versand: Dm kontert Klage der Wettbewerbszentrale",
+      "summary_de": "Dm verst&ouml;&szlig;t aus Sicht der Wettbewerbszentrale mit dem OTC-Versand gegen arzneimittel- und apothekenrechtliche Vorgaben, beim Landgericht Karlsruhe wurde Klage erhoben. Die Drogeriekette weist die Vorw&uuml;rfe zur&uuml;ck.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/aog-startet-nothilfeeinsatz-162769/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/dm-kontert-klage-der-wettbewerbszentrale-162784/",
       "published_at": "2026-02-13T12:00:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "OTC-Versand: Dm kontert Klage der Wettbewerbszentrale",
-      "summary_de": "Dm verst&ouml;&szlig;t aus Sicht der Wettbewerbszentrale mit dem OTC-Versand gegen arzneimittel- und apothekenrechtliche Vorgaben, beim Landgericht Karlsruhe wurde Klage erhoben. Die Drogeriekette weist die Vorw&uuml;rfe zur&uuml;ck.",
+      "title": "Flut in Mosambik: AoG startet Nothilfeeinsatz",
+      "summary_de": "Kommenden Montag schickt die Hilfsorganisation Apotheker ohne Grenzen ein erstes Team nach Mosambik, um die lokalen Gesundheitsstrukturen zu entlasten. Das afrikanische Land erlebt derzeit heftige &Uuml;berschwemmungen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/dm-kontert-klage-der-wettbewerbszentrale-162784/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/aog-startet-nothilfeeinsatz-162769/",
       "published_at": "2026-02-13T12:00:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
@@ -320,6 +340,16 @@
       "type": "News"
     },
     {
+      "title": "New benchmark helps monitor cumulative CT radiation dose",
+      "summary_de": "The findings highlight the need for systematic dose tracking and rigorous justification of imaging.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15817229/new-benchmark-helps-monitor-cumulative-ct-radiation-dose",
+      "published_at": "2026-02-13T10:01:31+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Grippeimpfstoffe: Influvac-Nachschub kommt aus Italien",
       "summary_de": "Die Grippewelle h&auml;lt an und veranlasst doch noch einige, sich impfen zu lassen. Jetzt teilte das Paul-Ehrlich-Institut mit, dass der Impfstoff Influvac&reg; mit italienischer Beschriftung in Deutschland zur Verf&uuml;gung steht.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -346,6 +376,16 @@
       "source_url": "https://www.gov.uk/guidance/blood-authorisations-and-safety-reporting",
       "published_at": "2026-02-13T09:52:57+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Study questions routine use of radiotherapy after bone surgery",
+      "summary_de": "Findings suggest a possible hazard associated with postoperative radiotherapy.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/radiation-oncology-therapy/article/15817232/study-questions-routine-use-of-radiotherapy-after-bone-surgery",
+      "published_at": "2026-02-13T09:41:27+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -570,16 +610,6 @@
       "type": "News"
     },
     {
-      "title": "Entlassmanagement: Mit Hochrisiko-Medikamenten aus der Notaufnahme",
-      "summary_de": "In den USA bekommt einer von 15 &auml;lteren Menschen bei Entlassung aus der Notaufnahme ein potenziell ungeeignetes Medikament. Vor allem zwei Arzneimittelgruppen fallen hier ins Auge.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/mit-hochrisiko-medikamenten-aus-der-notaufnahme-162747/",
-      "published_at": "2026-02-12T14:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit und KI : Als Ärzte ihm nicht weiterhelfen konnten, fragte er ChatGPT - DIE ZEIT",
       "summary_de": "Gesundheit und KI : Als Ärzte ihm nicht weiterhelfen konnten, fragte er ChatGPT &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -646,6 +676,16 @@
       "source_url": "https://www.efsa.europa.eu/en/news/fish-and-seafood-consumption-eu-awareness-dietary-advice-mercury",
       "published_at": "2026-02-12T09:57:43+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Chest x-rays reveal atherosclerosis in patients undergoing amputations",
+      "summary_de": "Lower limb amputation is an increasingly common major complication of advanced peripheral arterial disease and diabetes mellitus...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15817125/chest-xrays-reveal-atherosclerosis-in-patients-undergoing-amputations",
+      "published_at": "2026-02-12T09:50:19+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1000,6 +1040,16 @@
       "type": "News"
     },
     {
+      "title": "3D MRI technique helps plan treatment for pediatric heart conditions",
+      "summary_de": "The method makes 'heart muscle and heart valves visible while making blood and surrounding tissues transparent,' researchers noted...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15817099/3d-mri-technique-helps-plan-treatment-for-pediatric-heart-conditions",
+      "published_at": "2026-02-12T09:18:52+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Ärztemangel - 214 für 60: Bewerbungen für Landarztquote stabil - Gesundheit - SZ.de",
       "summary_de": "Ärztemangel - 214 für 60: Bewerbungen für Landarztquote stabil - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1066,6 +1116,26 @@
       "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcF82Qm1JR1ZDbWE5X0NORlFfbjNlc3FVUjNNWlJHOXhwZmZpYnhrS0kxVF91RHNqaEE4MUtmbDRTUVBDVkZkbzNTOXRLWkFqQ3RkN2JYc2lPUGQyWVIzVDZNQzZNanFhcXdQQmdBOHRLVy1hUzlabXFsUXp1bHNIU2Y1TElNc0JSd1VxUndiMWR2SURyQlFSUVVqWlZ6bTNkZ0k2YzBQd0ZnQWd4b0EwWUd5RERoeGFqNXl2TTY1WXh6QWd4R3FkMmxGY21xYXJYSFhCSHFXcTNOYUxl?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-11T23:00:00+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Clinicians, beware: CT diagnostic accuracy varies by adnexal lesion type",
+      "summary_de": "The modality correctly diagnoses dermoids and simple cysts, but is not as effective at identifying other types of adnexal lesions...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15816937/clinicians-beware-ct-diagnostic-accuracy-varies-by-adnexal-lesion-type",
+      "published_at": "2026-02-11T18:03:54+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Radiology coding update for 2026",
+      "summary_de": "In a new column, Erin Stephens of Healthcare Administrative Partners reviews the 2026 CPT code changes.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/practice-management/article/15816942/radiology-coding-update-for-2026",
+      "published_at": "2026-02-11T17:26:21+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1189,6 +1259,16 @@
       "type": "News"
     },
     {
+      "title": "Klinik für Frauenheilkunde und Geburtshilfe - HEK",
+      "summary_de": "Klinik für Frauenheilkunde und Geburtshilfe &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVGdJQzl1VjNqMTE4bXJWQ2ZLX2stMXp5cmNTOTdtNVM2XzNvb0xYX2pfZ2YyVDNJYnVOSXNMRlh6WUxUcW1vaFFFbVZPRHhMNnJLbTYySGVyOVA5V0Q3a0FxSS1KbDc0NzU4eThfc25Cek5nMFNzcUk5Z0dQZXBqU1pLQkZEV2Y3ZmVQVVlWMnM3d0hoUHNGWWhVLTJ2NjJvRUE2aU0zR3g0c1B1SWFnenpLbU1jRnQydy1RcmhaUk4wN2VlRXB3WUpiaXd3NlFpRE9wWk41WHhTVWs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-11T09:59:05+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Versorgung von Kranken - Forschungsprojekt zu Medikamentenlieferung per Drohne - Gesundheit - SZ.de",
       "summary_de": "Versorgung von Kranken - Forschungsprojekt zu Medikamentenlieferung per Drohne - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1211,12 +1291,32 @@
       "type": "News"
     },
     {
+      "title": "Could AI scoring help with managing DCIS?",
+      "summary_de": "An AI model showed associations with recurrence after DCIS surgery and performed comparably to established clinical risk models...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15816964/could-ai-scoring-help-with-managing-dcis",
+      "published_at": "2026-02-11T09:00:27+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Bier, Wein, Schnaps und Co - Jugendliche viel seltener wegen Alkoholvergiftung in Klinik - Gesundheit - SZ.de",
       "summary_de": "Bier, Wein, Schnaps und Co - Jugendliche viel seltener wegen Alkoholvergiftung in Klinik - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNQXVtMXl2aGRKa2VCZ3dOcXNNRGtaMHd4LTNaRGQ0akZGcGhPUmdTWkNLRWQ3WW5aYmJBLWVlM21BMTFGMUF6QzBHdUxGMVRIMlVSRmcxS1Z1VmR6Ym14TVp1Y2lWTUJ6RHM0dGNWeGZQRkt5Y0JtaU5wYVZjeF9LQ18yYVEzLUJqRUstZmJOTE8zZ3JLajNWNnVKdFFkYjFMOHhlZ2x1aDYwaFVGaHY2UURRMDc2Ym9OcEtCZS1oQ3RHWGM0cExENDBUc2x5cVFKbFZZRjhkc0ZkM0pFOGZXRnJ3Qk0xM1F3cDRxcG9YbzhGSXY4bXFHczFoLUhSNkxtOUtN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-11T08:48:47+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "AuntMinnie.com Women's Imaging Insider",
+      "summary_de": "In this edition of the Women's Imaging Insider, we cover new research on DCIS trends, AI-mammography, wearable breast ultrasound...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15816806/auntminniecom-womens-imaging-insider",
+      "published_at": "2026-02-11T08:00:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1351,16 +1451,6 @@
       "type": "News"
     },
     {
-      "title": "Chirurgische Klinik - HEK",
-      "summary_de": "Chirurgische Klinik &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNREgtR0l6dUhfa1FkdjRmN0QyTjluNGRXQjdvZGpDQ2ZwaGVBYjl0QVM0bHp0SXdaY0JQd0pRZHkzV3VybnFUZ0ZoRWtGSFk3TVB6RktsaWRuRHZmeDRoeDVhMnZYb0FGYmQzdEVteGVsNzFoSGtaU25WMWFFVXplNkZaQ3U2cVpUZXBjM3d0cGtiUFozeFFnVDY2eEwwQU1CV3BaaGxxUlJEdU0ycGRReTV0VExRTFBvdjYxcTg1LWdnb25UODQwX3l1MzkzdE0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-10T11:33:17+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Field Safety Notices: 02-06 February 2026",
       "summary_de": "List of Field Safety Notices: 02-06 February 2026",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1391,11 +1481,21 @@
       "type": "News"
     },
     {
+      "title": "Super-resolution deep learning reconstruction improves CCTA",
+      "summary_de": "The commercially available image reconstruction algorithm outperformed standard hybrid iterative reconstruction for assessing...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15816827/superresolution-deep-learning-reconstruction-improves-ccta",
+      "published_at": "2026-02-10T09:23:22+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Krankenkasse für ein gesünderes Leben | BARMER - Barmer",
       "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-10T07:00:53+00:00",
+      "published_at": "2026-02-10T07:04:50+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1407,36 +1507,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Cc0RwUTF3TVFmVDcyd0RqN2tndTJYUG5PSkE5dnY5MDhsNDdvUjBzVXFCQ0RXVHZjZDZ2MWJJMUswRi14Y2drREdfbE55Q1BTMkcwTHhpQmczUzhlTVJBOEJkdlFreEZqN2x4Rg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-10T06:48:30+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Personal | Klinik für Mund-, Kiefer-, Gesichtschirurgie und Plastische Operationen | Klinikum Saarbrücken gGmbH in 66119 Saarbrücken - HEK",
-      "summary_de": "Personal | Klinik für Mund-, Kiefer-, Gesichtschirurgie und Plastische Operationen | Klinikum Saarbrücken gGmbH in 66119 Saarbrücken &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQLVZYZ3Q3WXh1NE1hd0VRb1FXeUJZdTNrdGpScEllUTV6VHVPVGVxLVFmWDlIYkw4YTNpcFJpMTJyTWVxWTJjSElETjNUeHRGVUxmSEszbWhFV0NJVHhjME1LcEVLTVdMbmdsTUJxSmdfUzFVaUJuVEJtb2ttc3NMdHNUQ0w0clNKaGxraWpsZ2lzRnJ0N014Y25vNWpXREV3Z2Vxc05qcXlkRUxxajkzLTJqVHk0SzVtU0J0UW1kZWU1RnRyYko1dGNhcWp1NWRzV3F4XzZTbGYxWGhRc1VhT3JDTGpPQmFlbXYxWlZNcXl1Y0RpLUtkZk5XOFVsZGRMOGlpY2NrdzBkR3ZRTlhZZA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-10T04:14:40+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Medizinische Leistungsangebote | Klinik für Psychosomatik und Psychotherapie | Zentrum für Integrative Psychiatrie Kiel - ZIP gGmbH in 24105 Kiel - HEK",
-      "summary_de": "Medizinische Leistungsangebote | Klinik für Psychosomatik und Psychotherapie | Zentrum für Integrative Psychiatrie Kiel - ZIP gGmbH in 24105 Kiel &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPVGpCYkZibDVMUnVsSXlmV3VQRmV6aTBMdkVrLUhCUkZUdGFYVW9vSURhWmJZelprTkxkNEljNjVaOW05OG93WU1HVjQwSVZ5RVZxTXJtQWZKc19LNUlUR3ZQNk02X2VwZy1OYXRuRml4QnJ6SHpVRGtEUUxyTWtUWkYzTFh6LWhoWXoyajBOZHB3TzBOU0JqaXhGQS00WHNqdXhjVWl0VFVDdXZjNHhQSWNOcnVsTHJKUkhCWlBMeVl2ekZMaVVHVGtmeWprbWtHZ2FaTXpmVTg2UldoQ29lQnFYUjVNT0laVFBqaUFhbHhCQU5sRmxkMEZHc3U3VzQ5UzRXcjJGZThtS2t6eGRIYUZGYmhvVkl3Tk1qRUdVYUhkdFU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-10T04:12:57+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Qualitätsindikatoren | Klinik für Psychosomatik und Psychotherapie | in 24105 Kiel - HEK",
-      "summary_de": "Qualitätsindikatoren | Klinik für Psychosomatik und Psychotherapie | in 24105 Kiel &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQQVFyb0dUeVh6M1JuUXZyZERPNU42MWVvUlVlbVNyNkRRVkExbmhpanR3bURTcjJQVmZ1aS1pcWlDZW5kM0RCbHBVTWxlTmtITFpscjk4YnRKWTRDc3Ywa2RMdlRmRUtNMlNmX21xMVdSNjZ2cWh2VHIxN1d1REVqMm9tbmlqQ19ET3pmcHlsQmFNcVJud3ZzQ21wcTFpQWh3cm1Wc0hRRHlkREd1ZnhNOGVYcTR4enhTRnc5VzhqMXB1V1BtR1VKd2dTVVZNWmhDbnpmUlg3OUtJc1drOXJoZEw2MVItaDJYd2NwTEFiWGVJN1kzTVNtVENpbHpBSGVBWW52Ry12NElNVVpnR1ZPaGFtcFFiTDg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-10T03:35:34+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1457,16 +1527,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUFdMVlNiZTZGaHoybnpQYi1fUTJXZEt6aWJMYWVqOEZ4V3FyTHRySnpmSFB6OWFjU1Rnd0Z6akxTN3ZXS0N4dmpfOG5GNTZud3hZeDdXZ1RfWUlNMnpuQmNxUk5iWkN3MlVlc1ZPbi0zYkNWM1k4RlBCbTBxcE43Xy0yd2JUWWZyWDdqc3RBT1hxV2xjUFdwYUFlMnlnVktWckxwZk5nTXM5dzIzRkZxOUt1akYxUjRYb3hDTWhIQV9iT2o5a1BzRXFCZnMwVUlySmFwSXBaRU9sNkk3bFhKMndpMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-10T03:00:28+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Medizinische Leistungsangebote | Klinik für Notfall- und Akutmedizin | Carl-von-Basedow-Klinikum Saalekreis, Standort Merseburg in 06217 Merseburg - HEK",
-      "summary_de": "Medizinische Leistungsangebote | Klinik für Notfall- und Akutmedizin | Carl-von-Basedow-Klinikum Saalekreis, Standort Merseburg in 06217 Merseburg &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOYkREWVZuR2V3M0ZSMFBuVE1GN1Nxd2RPamprWUN5VTdjWUJFM2I0X2t2S1dPYmNiWkJUMFJRbFlvMWJSc2pKenNmX2cwV1duaF9HUTFtZWNuRG83bHROTGFwY2J0d2p3LVNCOUVzTnFTTnNIWThFYVVBY0J5VkxVUEVSeHo2b29maWlLc2JQdzFPaW9TWXVGbU95WXRCakpVcERib0FXVGtvaDczQnhubS1QUEhTMmg5eUN0ZS1ybjlzaFFqcXE1dnYwMnFJZWIyN2JRcTZKOUV3V2UwandNWXZsQ0RhcEQyY240cG90S3dJN0xwTVJfR1FNRTEyc0RhM3BjQmFVRjZNaHFmbVVhNDB2OGdaWnd4MkNNRFZqSTF1QkZn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-10T00:32:37+00:00",
-      "category": "Versorgung",
       "tags": [],
       "type": "News"
     },
@@ -1693,21 +1753,21 @@
       "type": "Studie"
     },
     {
-      "title": "Klinik für Innere Medizin/Schwerpunkt Gastroenterologie - HEK",
-      "summary_de": "Klinik für Innere Medizin/Schwerpunkt Gastroenterologie &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZWprUzdXa2ZJZTdZbkREaWt0WWpvYVhUaW9NNjZEUWdMR0Y3N1ByclVoai15VjNCMTZjYXNnNW9vN3hLLTViVUFObHg0eGp1dDlpZDByTVBNYlB0YkFHc2lBWVNtMUZueVRjZkUwbFozOXZxN3JKOHJ1Y1hoRUVoU3V6RllFdTF5WUozcHFtd0dPSkpsUy1VOWptbXg2RmRodGlOajFSdFdrVXBoTUpvajA1WEd5a3QwcU14TXlaaU5EUm9lRmhKVElqVjZGX1liZmZUdUZ0ZlNZeTdRdGk5d3RyWktQUFd3ZWg0dElRbUtZaXFHZEY4QWJpWnVTamhETVQzWWt3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-08T12:56:58+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Innere Medizin/Schwerpunkt Geriatrie - HEK",
       "summary_de": "Innere Medizin/Schwerpunkt Geriatrie &nbsp;&nbsp; HEK",
       "source_name": "\"site:hek.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTjlHN2tMcmVSTmZCRXo3TzNDSHdVa2xBUkpLSVlfa05JRVN2aFFIOF9ma1ZVZ1o2Z0JBOG85VDU0Q0xGcjQyVUhXQWhRQmMxcExDMEpQWnpCRnZIY1E4TDZ2eW5jcFJ1VWRyV3NyMzVjTWdkT0VlTVQxSllpQmFfeDhqQkEtdTRJX25RZm1WU3d3VWFuMHJKemRHd0FVNFdoNDl3MU9HX2Z1QVJ4ZVFiQzNyOXZlVExUQnZRbzdDR29qdlQtRkc4ME1hcG5XT3dGZUtVYlh5emRjWWdCV1pwUHE2SQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-08T02:05:19+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Klinik für Gynäkologie//Klinik für Senologie - Brustzentrum Ruhrgebiet - HEK",
+      "summary_de": "Klinik für Gynäkologie//Klinik für Senologie - Brustzentrum Ruhrgebiet &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPLWNUWW9fRm42c1BDVEE1SGRxMkJLblhtc25YRDhNMHpFTlNkdG5OT2QxVlI5X2dlTTNDTllpNkhQM0otMzdfZWx0cS0zR2ZvLVVsanl4cVpEN21MeTU3clE5N2dJOHFEaXc0V2RCYnlyMHUtVHY5ZEw3VVlkY0ZDN2EwSzl4Y1pRUFJOSmx3YlVwX0FhUUI5d3BHMXdONWdMSFZ1Qk56b3dybEVWdTNTQnZ3Y09hOG9KbmtxVmtWOUZCaUxuU1I4eW1JMUFXRUxLdVQ0cS1ZRmJlaWhhSmptRzJmbEhFeUFKd1JUelMxTVhVSTNFNlU1VTF6SndEWGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-08T02:02:32+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1723,21 +1783,11 @@
       "type": "News"
     },
     {
-      "title": "Behandlungsmaßnahmen (OPS) | Klinik für Innere Medizin | Sana Kliniken Düsseldorf GmbH, Krankenhaus Gerresheim in 40625 Düsseldorf - HEK",
-      "summary_de": "Behandlungsmaßnahmen (OPS) | Klinik für Innere Medizin | Sana Kliniken Düsseldorf GmbH, Krankenhaus Gerresheim in 40625 Düsseldorf &nbsp;&nbsp; HEK",
+      "title": "Qualitätsindikatoren | Klinik für Viszeralmedizin | in 40625 Düsseldorf - HEK",
+      "summary_de": "Qualitätsindikatoren | Klinik für Viszeralmedizin | in 40625 Düsseldorf &nbsp;&nbsp; HEK",
       "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPY1pDQzNIZEJQaXQ0ZDlCbTNpQWNnNTltVTJsc2drOHN1VWdmbHJxMmQ5MnlaUDFkQXZWal9BXy1rWldRUmFTSF9rVi15MzgzZDNlWFF1WkhDcTM0NFZwS1lHUjhfTkFrZVg5aHluZ19hN1k2SF9NUDhtY3I3Z01QN2luN1p2SXdyYnR0RmNSTFJvc3A3UWFtSlRibnIwb0xlLVA3Mzg3SWFoU2phY3VvUlZ3Ym4xUlBiU3FwUGg0dkpudHRTWXBKREV4b180c0haZnh4MzBxV09RUUE0LWRzRnNVQW1Fckp6N050bDBzUmJ2MWE2TTBNblRYSklmVUI3VF9VN1pCeFQ2cFpRdVduQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-07T14:12:45+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Personal | Klinik für Plastische Chirurgie | Sana Kliniken Düsseldorf GmbH, Krankenhaus Gerresheim in 40625 Düsseldorf - HEK",
-      "summary_de": "Personal | Klinik für Plastische Chirurgie | Sana Kliniken Düsseldorf GmbH, Krankenhaus Gerresheim in 40625 Düsseldorf &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOMVJINVNhV2c5dWxPclZZNWo5ZmRxVW1MZjk3bzl4aUpXUEFFSF9FUEkyMjVWQlJ4dEhrSUt1ZU8zS3Nnem4xV1l3MDNLZHd5b24xd29sYUZ0c251LVlrSkR1U3l1Vlc1NTZINXF4cjZZaE9hMm5GVVRnSUN2b1hNRW9uZUIySDdlSWQwYVJBcWlfR1dmR25GUW1vVW9NUWxUV3MzN29MejNQWE9tOTlUV1JQaUdnZS1fcEplWko2cU84ejM4eWhBcEpiWUlFeDUyTk1JLTEzX0dEZG85WHJZMWJfQVN4QnUyamE5Z09KNG02R21sQVVDMHZQbF9vSUNOcXJF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-07T13:25:52+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNc3NMVHNJem1FenYwUXY4R2M5LXVxY1l0YjIzRHVscXJsZ1dzS283MnJhLWg0cnFjNFU3WkJVUG9kRHN2Tlc2akVCRmthRkF6c2MySkMySlE1X3hVVlpiOGl0NU5XdXZra0NySHh4SFh1eW9ncEJFSlN3TFdEdUwzN0FnYmpPbnFQRXd1M3dzYVY4Q0IyMzcxTEd4aVBCUkV3cFYwQXNYMUhOSk82TktXSlZnZW1BVFlzdE9Zc1d1SDBUMEJ1UW5PZWxDNVFseFIxRzZ5X3p4ZVY4UWw0OTRlYmx3dmhtMUkzVTFncUtzRTg0eDlJWXUwNWtRNXMzSHFxYXpmYzk5MktMYmJhNmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-07T13:49:30+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1799,7 +1849,7 @@
       "summary_de": "Gesundheitspolitik: Günstigere Medikamente? Trump startet neues Regierungsportal &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSm1pd3FxZVU5Uk56WlpMX252akd5OWs1QXlfYjBLakhmcFFBNXBmNnRySGhSbzgyZXdXRV92b0lwQnBSZlo5aGVkR0JaQnk3SGlrdko4UkJueWJIOU1mdnVGVFJVRkNBY0lPVi1QN3FzZTF5WGV5YUpSRy1QOG5SRG1TZkNWTEhXQzlvVjBZTElwV21YMkxJMEFNaWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-06T01:38:31+00:00",
+      "published_at": "2026-02-06T08:00:00+00:00",
       "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
@@ -1887,16 +1937,6 @@
       "type": "News"
     },
     {
-      "title": "Verden: Neues MRT-Gerät setzt auf KI und Nachhaltigkeit - Weser Kurier",
-      "summary_de": "Verden: Neues MRT-Gerät setzt auf KI und Nachhaltigkeit &nbsp;&nbsp; Weser Kurier",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSEt4OUt2VnQxSTdXYkxncEw0c1RJYmRoR043bkxxUzFUTzJacmpldjlQVVFaaDl6anIxa2M3SFV1WEx0aXdPQmtJVGpMY3RFaFYzSWgtcW5yN1JSdktwYmdTenlYQm52ZjNTSTlUQVhXcW9PTlc3dzBSNDF5eDFxNk5saTlkSXJUaDBXRHRyc1U3MElydHhuTWNSZTU3V1BVa1VNX2RKNnhqNDBiX0lTYVczSkk0N0xNOFNlTjh1Zjc2ZVhlT2t1NndrUHJCMXN1WWh3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-05T08:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Ginkgo biloba for cognitive impairment and dementia",
       "summary_de": "Ginkgo biloba for cognitive impairment and dementia",
       "source_name": "Cochrane Library RSS feed.",
@@ -1917,16 +1957,6 @@
         "Versorgung"
       ],
       "type": "News"
-    },
-    {
-      "title": "Studie: Homeoffice ist produktiver - bis zu einem Kipppunkt | Die Techniker - Presse & Politik - Techniker Krankenkasse",
-      "summary_de": "Studie: Homeoffice ist produktiver - bis zu einem Kipppunkt | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeGlaY1FhWU5MbEVKdUl0eXBXQllZU0Jncm5qMWVoY0NkNExOUHc2Y1pDaFF0dUNWZFdhaWtPdTFpc0xvU3F0OXgwT0EwZmFUSnkzd08zRGw3LTEzRWR4U1hUYmNZRWJXLWFTYW9VSHFaUF9jamtDdUZWdDZmcDJCSlRXY2FNMFpTWkFqQ25DMkpycDBjeF9acDUtYVVvVDZKREE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-04T08:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
     },
     {
       "title": "BARMER Krankenkasse in Haldensleben - Barmer",
@@ -1965,16 +1995,6 @@
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2026/tabaksteuer-mehrwertsteuer-arzneimittel.html?pk_campaign=rss",
       "published_at": "2026-02-03T09:00:00+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "DAK-Gesundheit - dak.de",
-      "summary_de": "DAK-Gesundheit &nbsp;&nbsp; dak.de",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ncWpLdkxWblBBZTZMREM3c1pMZ0dOa1VsLXhINkJNOFloOTF3dHRCRXlJTjA3VlpmRVk2VUhGUVRTWXV3NFpfSWtPRk5tLXh5eE42SENDRU9ja3hTcXdBb1BjcmprczJVc29Hc21HNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-03T04:15:45+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2264,6 +2284,16 @@
       "type": "News"
     },
     {
+      "title": "Krank im Urlaub - was rechtlich gilt | Die Techniker - Firmenkunden - Techniker Krankenkasse",
+      "summary_de": "Krank im Urlaub - was rechtlich gilt | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV1BneHZIQ2dzQnFfb3NOeV8xV3MwUzh6b0hkUzdxZDNTSzlpMXNnM2VfWmpaY0ZITFNFcDRUMlQtSDFENUZ0TGtjYS1GQ2ROUGFuWFpreEFRemZ2QnhxQTVnMFh5T21Xa0tpNjZnVG9xblI0WTFadTZXX1lnblZNM2d1UzFSUndKSXhyQnA4MmNfME45Q3E4RThKN0EyM0lhTjB2U0p6TUhkblNNVVM2c0FaNDhlZFEyVko0YTdWV1lTaEJhTTNITTQzdFA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-28T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Neues Verfahren QS Sepsis am 1. Januar 2026 in den Regelbetrieb gestartet",
       "summary_de": "Berlin, 28. Januar 2026 - Mit der Diagnostik und Therapie der Sepsis (QS Sepsis) ist am 1. Januar 2026 ein neues Qualitätssicherungsverfahren in den bundesweiten Regelbetrieb gestartet. Das Verfahren verfolgt unter anderem das Ziel, die Sterblichkeit sowie neu auftretende Morbiditäten von Patientinnen und Patienten mit Sepsis zu reduzieren. Es ist das 17. Verfahren unter der “Richtlinie zur datengestützten einrichtungsübergreifenden Qualitätssicherung” …",
       "source_name": "Pressemitteilungen | IQTIG",
@@ -2327,6 +2357,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "GFO Klinik Engelskirchen - St. Josef Krankenhaus Stellenangebote in Brühl (0) - ärztestellen",
+      "summary_de": "GFO Klinik Engelskirchen - St. Josef Krankenhaus Stellenangebote in Brühl (0) &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa293aXZlazBDTEU5VkNkZG9Bb1hES29RZ3dXdDNKU2NxQUVtVUZnT1dFQzE5NXA2aEZfSnRGREJrVExKZWJfSXF2dDhUT1B3NThoV1BuZTd5NWNfcXBkQlNzM1o5MjlaZlJ5QXlkeERRTzlYaWt0V3ZwTHBnb1NqSktMcGx2Nk1pd3JYYkR2dWdPOEFYNkZzaUFuc195eU1yNGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-26T10:18:09+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Meldung: Bessere Versorgung durch digital gestützte Versorgungssteuerung",
@@ -3019,6 +3059,16 @@
       "type": "News"
     },
     {
+      "title": "U1 - Wahl­er­klä­rung zum Umla­ge­satz nicht vergessen - Techniker Krankenkasse",
+      "summary_de": "U1 - Wahl­er­klä­rung zum Umla­ge­satz nicht vergessen &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbDZ4ZjF5WkxaVGJSeEcxcEhLb1lLbHRUTjZVaDhfZEZJZkZWS0ZoVTl5ajhrVFQ5VkpYUFBfM3NHcnBocE85YUNnbVFOT1B0dGNpdzF0dThYWmJQNmVrWURaamg5cy1pckxYSnlKbmNOcmJzWDl2TE5ZX2RpSGhvaDIyTWZVNVkzX1NkY0dRaF9HZkp6bWVIaWJsZG9jMzBTMmtHbm5vLXFoUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-14T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "gemeinsame Pressemitteilung: Das Gelbe Heft kommt jetzt mit zum Zahnarztbesuch",
       "summary_de": "Seit dem 1. Januar 2026 werden neben den neun ärztlichen auch die sechs zahnärztlichen Früherkennungsuntersuchungen (Z1 bis Z6) bei allen Kindern im Alter von sechs Monaten bis zum vollendeten sechsten Lebensjahr im sogenannten Gelben Heft dokumentiert. Sie umfassen die klinische Untersuchung und Beratung zur Mundhygiene, Ernährung sowie zur Fluorid-Anwendung. Die Kassenzahnärztliche Bundesvereinigung (KZBV) und der GKV-Spitzenverband begrüßen diesen Schritt.",
       "source_name": "GKV-SV Presseinformationen",
@@ -3043,30 +3093,10 @@
       "type": "News"
     },
     {
-      "title": "MRT für Selbstzahler? Radiologe verrät, wann es sinnvoll ist & was es kostet - Berliner Morgenpost",
-      "summary_de": "MRT für Selbstzahler? Radiologe verrät, wann es sinnvoll ist & was es kostet &nbsp;&nbsp; Berliner Morgenpost",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWU9FRzFLckxBMXlHcV85UVJZTU9jSGlYWU5ocjBDa3FVLUI4cTUxUkpVZzZJZXVWTVVVRXN1azlSZkprMUxwcWw0ZVdVaU9sZnJyWEk5WE13Z05QOHoteU1CUkFGaU9TSjRBWHNBc0ZXZkVtVnMzSWVGRU8wVXRBVEJQR2t3dG9OMEJJNDFKbFQySHVDbnRCUndGakFIR3czSkpTXzVOZmQ1UjBVSVEyc2JXbkpKenhQdW1Cb29TN2h5Q2lkZ1E3Z3BvS0ZhdDdCbGtz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-12T08:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Schneller, präziser, patientennah: Kirchheims Radiologie setzt auf MRT-Technologie mit KI - Nürtinger Zeitung",
       "summary_de": "Schneller, präziser, patientennah: Kirchheims Radiologie setzt auf MRT-Technologie mit KI &nbsp;&nbsp; Nürtinger Zeitung",
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSGlYZ25HbXkwRnlGUlg5N0dRRnZJTlAtRWFnRHhkZUxUWjhBY1h0a0ZTb1hLUzJtblhiekVnYXY0aHZhdXUzWjh4MGVGbnNUUEJSa3EzUHFOM19CLV9hRkhveDY2dzRhLWE4VUFkUml5clR4dVAteTEtSkFSZEl0UmxxUEYxbXhDSS14a3otcGxzRThhWWdWNjhEUVA0SDJyM2NhNTFYSjhkallobFpOWjNsa2JkbWtiQ2lKdW1HRlBkRmlCSGhnMnVvX0dfRUJXT3hqby1JNlhpclpFNHZBY1VtakVDSm15WjA5M1VhQW9XdG9QTVJ3Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-11T08:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Trotz Helios-Klinik-Schließung in Breisach: Radiologe, Urologie und Neurologie bleiben weiter erreichbar - Badische Zeitung",
-      "summary_de": "Trotz Helios-Klinik-Schließung in Breisach: Radiologe, Urologie und Neurologie bleiben weiter erreichbar &nbsp;&nbsp; Badische Zeitung",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ0ZpUXJ1QnJFZWxIOTBiZDdKR05kRkk5NUdkc216OTRubjZqOTVUY2F4T3VNYTRfMXJMSWZKN01ab2NNejFPX2hTcXdDSlB6Wm5LOTNCVWNsVkllcnBpSWlESFo0TXkwMnlqblVVZmo1TzF4aGp1S05rYVJobV9YYjh2LVU4Zy1jTjc1OC1sS0EtWW9tNVlFOWhiNGx6ZWZmUGxQR0FNblVjY3hKZ1hwTkRNOVRnaHlTWloyR0VRSUhObW9YOTZ3NmYwRGI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-11T08:00:00+00:00",
       "category": "Radiologie",
       "tags": [],
@@ -3082,6 +3112,16 @@
       "tags": [
         "Versorgung"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Das Hautkrebs-Screening beim Arzt - Techniker Krankenkasse",
+      "summary_de": "Das Hautkrebs-Screening beim Arzt &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMjBJZmFlb0dSclJ5Q1lLeHQ0MmVydTQ4TkVTU1pRdzFqa3NCU3Z1MHVBeWNZQTlSZ0hmUGo5NFloOXN4bFRMZ3VhaGtIOXpodUI4cHg3N1ZfTXI1dEhySTgwR1pTZkJuN24yVEpOS2xiQnpqZDFaTk03YWVJX3VYSlFJV3dJZDBUQXJhMWtNWk85cHBJeGhIZXVmY3AxQjBNOW5JU2lSWHo1eGtqYkw0LUtqVTdNZHpOR01mVFRHZGRWUGpuaFI3VW5fSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-08T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
@@ -3105,16 +3145,6 @@
         "Versorgung",
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Unfälle auf Reisen vermeiden: Tipps für einen unfallfreien Urlaub - Techniker Krankenkasse",
-      "summary_de": "Unfälle auf Reisen vermeiden: Tipps für einen unfallfreien Urlaub &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbkx0aktLbV93Q2xyZlNmZWJxTzZkRWFmR19JeDZwUTdDQ2d3WHJlMFlwZlBjYzc3azU1N01Scmx3OVl3bHAzQXNqTGdtSC1aMzk1U2hpdWpSeFEtYmdwckxja1dSSUdBLWtvczN5YTBTY3BkWjVQMGJKdnp6S1o0U1I1UlVWS3ZONk0yLUZyMEl5MjVDMXljdTZRV2UtSkU1V3FYQnl3bjNXUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-06T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
