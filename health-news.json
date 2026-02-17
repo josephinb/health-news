@@ -1,13 +1,115 @@
 {
-  "generated_at": "2026-02-17T09:40:12.967410+00:00",
+  "generated_at": "2026-02-17T12:45:00.074166+00:00",
   "window_days": 42,
-  "count": 289,
+  "count": 296,
   "items": [
+    {
+      "title": "Abkommen: EU und WHO gehen gegen Antibiotikaresistenzen vor",
+      "summary_de": "Die EU-Kommission und die Weltgesundheitsorganisation (WHO) haben ihre Ma&szlig;nahmen gegen Antibiotikaresistenzen verst&auml;rkt.&nbsp;Damit sollen Forschung und Programme auf globaler, regionaler und nationaler Ebene gesteuert werden.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/eu-und-who-gehen-gegen-antibiotikaresistenzen-vor-162877/",
+      "published_at": "2026-02-17T12:18:42+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Renten- und Pflegereform: PKV warnt: Bis zu 300 Milliarden Euro Mehrkosten bis 2040",
+      "summary_de": "Laut Frankfurter Allgemeine (FAZ) k&ouml;nnte die anstehende Pflegereform J&uuml;ngere noch teurer zu stehen kommen als das bereits beschlossene Rentenpaket. Die Zeitung beruft sich auf eine unver&ouml;ffentlichte Studie des Wissenschaftlichen PKV-Instituts (WIP).",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/pkv-warnt-bis-zu-300-milliarden-euro-mehrkosten-bis-2040-162875/",
+      "published_at": "2026-02-17T12:14:08+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Adipositas: Wer abnehmen will, braucht Hilfe – und zwar lebenslang",
+      "summary_de": "Es sind meist nicht fehlendes Wissen und mangelnder Wille, wenn es mit dem Abnehmen oder Gewichthalten nicht klappt. Dahinter steckt eine komplexe Pathophysiologie. Daher ist es auch mit den Abnehmspritzen allein nicht getan.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/wer-abnehmen-will-braucht-hilfe-und-zwar-lebenslang-162874/",
+      "published_at": "2026-02-17T11:22:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Clinical trials for medicines: modifying a clinical trial approval",
+      "summary_de": "Guidance on the various types of modifications that can be made to a clinical trial approval.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-modifying-a-clinical-trial-approval",
+      "published_at": "2026-02-17T11:08:52+00:00",
+      "category": "Studie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "Studie"
+    },
+    {
+      "title": "Gesundheit: Klimakrise begünstigt Zecken – mehr Hirnhautentzündungen - DIE ZEIT",
+      "summary_de": "Gesundheit: Klimakrise begünstigt Zecken – mehr Hirnhautentzündungen &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeDdVUVBIR3BQRE1IT3ZuWXQ2cmhnc2JBWDRKZVNVb1dlUGFMUk5nLUd3SEJ4NHZZd0RzalZyRlduSGNMWUVkMFNzT1VWTlFkaGpZRnVqdDNJVkZIazVfQ1haQk40dENVNDlpWFNjdXZxaUxoVWVfNG1YZHRNeXdING43NE1WRFdLdE42Mm56QTFFN1N2VGFr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-17T11:04:09+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Erstmeldung Arzneimittel: Sitagliptin PUREN 50 mg Filmtabletten pU: PUREN Pharma GmbH & Co. KG",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-02-17T10:34:38+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "EFSA finds sucralose safe when used as currently authorised; cannot confirm safety of extending its use",
+      "summary_de": "EFSA’s experts concluded that the sweetener sucralose (E 955) continues to be safe for consumers for its currently authorised uses as a food additive.&nbsp;",
+      "source_name": "EFSA | News",
+      "source_url": "https://www.efsa.europa.eu/en/news/efsa-finds-sucralose-safe-when-used-currently-authorised-cannot-confirm-safety-extending-its",
+      "published_at": "2026-02-17T10:03:17+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Class 3 Medicines Recall: Norgine Limited, MOVICOL Ease Citrus Powder for oral solution 13.7 g, EL(26)A/08",
+      "summary_de": "Norgine Limited is recalling one batch of product as a precautionary measure due to some units containing low amounts of active ingredients.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/drug-device-alerts/class-3-medicines-recall-norgine-limited-movicol-ease-citrus-powder-for-oral-solution-13-dot-7-g-el-26-a-slash-08",
+      "published_at": "2026-02-17T10:00:42+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Landtagswahl 2026 | Die Techniker - Presse & Politik - Techniker Krankenkasse",
+      "summary_de": "Landtagswahl 2026 | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMHFqQjA4Y3oya2NJejVXTVFVd3BneE9WVmlJemlYaTVjbFlzZ0dfMkhURkV4MEREejVtWTJ4Mzdrb1pobTZjcHg3LXI3MEFoUWpFdnpVLUk1WF93S2FNcmI3VXdjR1djVGdVT2wweURQZVc0M3lidWZCdXc3WTh5TkpvbzlGRXV0MjhWN0JPU3A1dnE1SEVYanAtc3RrdFM3dF9PNVdkV1hmOG5nSjF1aGVjNnQydi1YOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-17T10:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Fasten-Ranking: Fleisch-Verzicht steht bei Jüngeren auf Platz eins",
       "summary_de": "Die Mehrheit der Deutschen h&auml;lt Fasten f&uuml;r gesundheitlich sinnvoll. Besonders gro&szlig; ist die Zustimmung bei den unter 30-J&auml;hrigen. Am h&auml;ufigsten geht es um den Verzicht auf Alkohol, S&uuml;&szlig;igkeiten, Fleisch und Rauchen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/fleisch-verzicht-steht-bei-juengeren-auf-platz-eins-162835/",
+      "published_at": "2026-02-17T09:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Patienten auf Intensivstation: Infusionen sicherer machen",
+      "summary_de": "Die Erarbeitung von Standardkonzentrations- und Kompatibilit&auml;tslisten f&uuml;r Infusionen kann die Arzneimitteltherapiesicherheit von Intensivpatienten nachhaltig sicherer machen. Dieses Ziel verfolgen zwei Projekte mit Krankenhausapothekern in Schl&uuml;sselrollen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/infusionen-sicherer-machen-162707/",
       "published_at": "2026-02-17T09:30:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
@@ -104,14 +206,74 @@
       "type": "News"
     },
     {
-      "title": "Klinik für Orthopädie - HEK",
-      "summary_de": "Klinik für Orthopädie &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeFlaang4alZlYmlGbkVJdGU5ekhHSk5OYVNNN2dhOXhYd2p0MTYwbDJWZTNwMnRacGFodGVmVE9sU2xNTW9qdXEyY3lCcENSdlJxaEFOeGJZWG53ZEZGcDV6RzFYN2ItMEM5RjZRcVliOV8xUnBhNnpyeGZ5dWFkNjZZYTk1MUxEaEw3UTJ5R0NaUldVNWhwZTAtZnI2RktTTlF1ODM3WktIQzNfV1AyUHRTc2tfcU5qU3FFdHlNRlVYT3hVVXJ6QnlOOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-16T23:47:23+00:00",
-      "category": "News",
+      "title": "Respiratory support during endotracheal intubation to improve intubation success in neonates",
+      "summary_de": "Respiratory support during endotracheal intubation to improve intubation success in neonates",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016332",
+      "published_at": "2026-02-17T00:00:00+00:00",
+      "category": "Studie",
       "tags": [],
-      "type": "News"
+      "type": "Studie"
+    },
+    {
+      "title": "Interventions for fatigue management after traumatic brain injury",
+      "summary_de": "Interventions for fatigue management after traumatic brain injury",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006448.pub2",
+      "published_at": "2026-02-17T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Financial arrangements for rehabilitation services in health systems: an overview of systematic reviews",
+      "summary_de": "Financial arrangements for rehabilitation services in health systems: an overview of systematic reviews",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016327",
+      "published_at": "2026-02-17T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Preoperative interventions for reducing anxiety in school‐age children undergoing surgery: a network meta‐analysis",
+      "summary_de": "Preoperative interventions for reducing anxiety in school‐age children undergoing surgery: a network meta‐analysis",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016330",
+      "published_at": "2026-02-17T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "KRAS G12C inhibitors versus chemotherapy in second line and beyond in adults with advanced or metastatic non‐small cell lung cancer (NSCLC) harbouring the KRAS G12C mutation",
+      "summary_de": "KRAS G12C inhibitors versus chemotherapy in second line and beyond in adults with advanced or metastatic non‐small cell lung cancer (NSCLC) harbouring the KRAS G12C mutation",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016054",
+      "published_at": "2026-02-17T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Risk scoring for the primary prevention of cardiovascular disease",
+      "summary_de": "Risk scoring for the primary prevention of cardiovascular disease",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016333",
+      "published_at": "2026-02-17T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Intravenous chemotherapy versus intra‐arterial chemotherapy for retinoblastoma",
+      "summary_de": "Intravenous chemotherapy versus intra‐arterial chemotherapy for retinoblastoma",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013695.pub2",
+      "published_at": "2026-02-17T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "Reform der Pflege: Warken will mehr Geld für Pflegeheime - FAZ",
@@ -135,16 +297,6 @@
         "Versorgung"
       ],
       "type": "Studie"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: Fluoxetin Micro Labs 30 mg Hartkapseln pU: Micro Labs GmbH",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-02-16T16:27:19+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "ApoLife Auswertung: Sinkende Apothekenerträge in Österreich",
@@ -327,12 +479,42 @@
       "type": "News"
     },
     {
+      "title": "Stefan Kraus spricht über Einsamkeit in der Pflege | Die Techniker - Presse & Politik - Techniker Krankenkasse",
+      "summary_de": "Stefan Kraus spricht über Einsamkeit in der Pflege | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORHBXeHBlUmlqS1liV0IzTkFhaG9DcWNIdW1NMzI0OTJpSmdpUXlfTnNrTjNubUNFMEFfeXlHV3NFSFVneG81U1B4Zk0zSWpFZGRzak9IenB4UnRfVzRQa2lnNlY4ZjZmTmgza2pVREJJdURlc0tRb3VNWm5CSEU3UG14MFdvczdJYzU5TWdJTk93WGRYTzN4REp6UTNmZEU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-16T09:45:00+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pirmorady: Krankheit kann einsam machen | Die Techniker - Presse & Politik - Techniker Krankenkasse",
+      "summary_de": "Pirmorady: Krankheit kann einsam machen | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUTlKRFY0am5NOTJFbFd2T19Va1loUXdfQlVON0IyVDlZTHU3M3NoOXVFZWtlU3RoMXBxNmNEU29haG55STBUbVZ0MHJWRERuc3lkZmFsZzZ6ZklzUkg5NEh4QzJtbUQzU21KZGJ3cHhNRnNiWTJZOThsUDBtVlBlcFdwT0s4RkphY0NGLXBMaEdyMGFNTEE5b1VrZTFiQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-16T09:30:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "MediCheck: Ärztliches Feedback stärkt Kompetenz bei Medikationsanalysen",
       "summary_de": "Eine neue Funktion im MediCheck unterst&uuml;tzt Apotheker bei der Medikationsanalyse und vermittelt Sicherheit in der Kommunikation mit den &Auml;rzten.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/aerztliches-feedback-staerkt-kompetenz-bei-medikationsanalysen-162826/",
       "published_at": "2026-02-16T09:00:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Ein Podcast für Mentale Gesundheit | Die Techniker - Presse & Politik - Techniker Krankenkasse",
+      "summary_de": "Ein Podcast für Mentale Gesundheit | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeGVvd3RNVzlLQS1GZm5mMm1tMmdLQTUxUUJYWkM2b05ZYUF6c1RLYWhOVlFmbjNvdXdIYjhlZGRDS25NRklIY21udjdVZlo2WmpfSFBEWnV1d25DamluVTdkLUp6bTNFVjl0TTYxMExfUTZrZDJxUG5aN2l3VDJqT2N2MG1zWEwya29idndPWU1YbjRTX1JyRVBfVVhUQ21YQjIybmVaSHJ4TDV0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-16T08:37:45+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -407,16 +589,6 @@
       "type": "Studie"
     },
     {
-      "title": "„Wir vergeuden viel Geld und Personal in der Pflege“ - FAZ",
-      "summary_de": "„Wir vergeuden viel Geld und Personal in der Pflege“ &nbsp;&nbsp; FAZ",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdHYzWUh4NElyY2FYQTNoa002dFgwNXNaQXVoQUNoMnhsTUFuVlhDaUVRYXd5cGxNSTJscWRrUnMxTnVzSHFmUDJKR0FOVHFQLXlSYktDdnY4UUVqZEtaYzY1UlFfRnJGREhCdXZtWGN3Qlpjc1NKeDlGdVI0cTFwTVJhV3hmNDVfdWVvX2FzckM2OVVCNktwa3g5T096QWxjV2RzelB4TkI3d2RvOHJQTUJKQXV1bnZEajlkZEJwYzdGM3JjcXpmR24tTUJHVFNTOF9pUGZGcTlUTHlqdnpBMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-15T17:48:31+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Fastenzeit - Umfrage: Mehrheit der jungen Menschen findet Fasten sinnvoll - Gesundheit - SZ.de",
       "summary_de": "Fastenzeit - Umfrage: Mehrheit der jungen Menschen findet Fasten sinnvoll - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -431,6 +603,16 @@
       "summary_de": "Psychische Gesundheit: Angststörungen seit Corona: Teenie-Mädchen leiden besonders &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT19lQXkzT252SGVBSmQyd3ZOanhBWUtmWTE4MkVfWWkzczk5bjVZcTd5eDY3Y2ppdXQtZzZfSlpQcnNFWjMzN0NrRnhvb3c3T05KU0tCX3RFelB2V045RUJxTUJVTndNNEVkN3ZwOE1XV2JyMTZMQTVudGlTRjFmTDU3THBFXzA1MlRWbkVJMVJ3WXlsU2xQYlYzYUg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-15T04:00:09+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Psychische Gesundheit - Angststörungen seit Corona: Teenie-Mädchen leiden besonders - Bayern - SZ.de",
+      "summary_de": "Psychische Gesundheit - Angststörungen seit Corona: Teenie-Mädchen leiden besonders - Bayern &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZldvRU5mcGFHT2l5UjFlVTZwR1BjcXNYN2tLdUdGWUkxQ2p4UWRXanlQNFlPN2hHQ0ZmcHl1MnVFU09JbTJSRW01SWJiNTFGWmc0dnQxNmxaUWdKQmlqVkx6TkYwQlM4ajlLblpUNVFRODEteXZtX0VjckR0ZEYwdlBSZ3pieXhrZDhNSmxyZndmZkhIU1pRc0QxLW5KNTV1ZmkydFZCa2NaUWswTG1KZlNyT2U1d0Nicms5bXJoV09KUUJvT0ZBaDNBeVNzU3F3cjZzWDhqZzU4MG1UOGxFSTJUMVhZbDhEZzN4b3F1MFh0NnZVNzNCVmtLTQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-15T04:00:09+00:00",
       "category": "News",
       "tags": [],
@@ -467,32 +649,12 @@
       "type": "News"
     },
     {
-      "title": "Psychiatrie und Psychotherapie VOSS Kliniken Klinik Forschung Stellenangebote in Münster - ärztestellen",
-      "summary_de": "Psychiatrie und Psychotherapie VOSS Kliniken Klinik Forschung Stellenangebote in Münster &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxPY2dVc2diRzlMWUFESldnQTB2OFRMUGZUUDVBajJsNmZGY3R1cFl5NXB1UGxNZnRxZ2cwb0c2Uk1LdDRwV1J6ZEhHYURvVEx5cnVER3Bkbkd3RW54VVNQT1pXNDZwSDNfNUxpanVHeXN5SU1Zd0dGUmFjOXJ5V2tBam9mbWpWSVk3MENGX19wc2wyTno2YjJHMFZPM1UtOVpodV9mZmdaRjRNWmkxanFZWVJOcVpQdlZUWHdveV9kcXM1VmNfb2lTcmJjWkY4bHdiNlFOM0RPSjlMOGQ3ZzktdDh6bXhicU5jUWt6SkJUUXlYZ2Q0NTVfZGpjeWk4SEVPdFRqam52YWdOSFB0V0l6dmtSbkZXQWZnb3RuYldyWWtJNjJ2N0lFVFo3RjhHQVdLQmpnS0MwUG51ZTRjaFBiTDJHYjdwR3dlR29MX2lmZDU0YzFYemlJd0IzUUphajJpbzFXTjcwSkFNQmpMVmpYM3k1a3BDLXo4ZHhKNkpHMW9mbTNVZElBck5LaGFVR01DRDRQUi1DemxfVzE4RHNQVU8yVFZabXlkVVBfMEtpYjJHQk96Qnl2aHJMcHJsVWJIQ3pFU1ZMS1pyQXpNOV95cjBtRV9TcVh4cUE5LWxZZ0tKcWJHbm01TjEwa1B5MFpHeXIwRHhPQUxRS0VFRi0zNTBNcFRTdG44Vko5Z0R0SDI5a3FsclNhSWNHcUZIdmQya3I5WkN0NXBfcmxzMi1N?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-15T01:03:22+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Nykturie: Aufstehen statt Ausschlafen",
       "summary_de": "Rund die H&auml;lfte aller Menschen &uuml;ber 65 Jahre steht mindestens ein- oder zweimal pro Nacht auf, um Wasser zu lassen. Das kann den Schlaf massiv st&ouml;ren und die Lebensqualit&auml;t deutlich mindern. Was kann das Apothekenteam empfehlen?",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/aufstehen-statt-ausschlafen-162740/",
       "published_at": "2026-02-14T23:00:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Klinik für Innere Medizin - HEK",
-      "summary_de": "Klinik für Innere Medizin &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOams5TlhPZi1FMlpqVlFqN2FRRUJDdm4yS1I4ZVh3eEF6VDlkakx4c3VZSTRZZVNWWjBuX2c0M2xmeGlNTlg3aXdpU0huY0JEZGdnNmdpTUZIWHFmMTh1dFhMRko5WW1HVWU1YUc3c3V2aGpiSTh0YkYwSGVBWFFJLXR2R3FfTVA2YmNodUUzdW80RVB2Mi1VSDRWY1JzX1dfRVRSUzZ4WE5TbDlDYV9ic2NLZjVka1VVVFZySnVsYlZWaHRrR0FXWEpLdXRSRG96Wk1xaE01WQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-14T17:28:59+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -579,46 +741,6 @@
         "Wirtschaft"
       ],
       "type": "Studie"
-    },
-    {
-      "title": "Teilmengenabrechnung: BMG unbeeindruckt von BSG-Rezeptur-Urteil",
-      "summary_de": "Apotheken m&uuml;ssen keine Teilmengen von Rezepturen abrechnen, weder bei Fertigarzneimitteln noch bei Wirk- und Hilfsstoffen. Das hat das Bundessozialgericht (BSG) festgestellt. Das Bundesgesundheitsministerium (BMG) folgt indes der Kassenauslegung &ndash; und betont nun seine Regelungskompetenz.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/bmg-unbeeindruckt-von-bsg-rezeptur-urteil-162787/",
-      "published_at": "2026-02-13T15:20:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Zum dritten Mal in Folge: Aponet.de als bestes Gesundheitsportal ausgezeichnet",
-      "summary_de": "Aponet.de wurde zum dritten Mal in Folge&nbsp;als bestes Gesundheitsportal Deutschlands ausgezeichnet. Es punktet vor allem durch die Qualit&auml;t seiner Inhalte.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/aponetde-als-bestes-gesundheitsportal-ausgezeichnet-162805/",
-      "published_at": "2026-02-13T15:15:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "PZ Briefing: Die Top-News vom 13.2.2026",
-      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-1322026-162804/",
-      "published_at": "2026-02-13T15:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Indikationserweiterung: Mepolizumab jetzt auch für COPD-Patienten",
-      "summary_de": "Der Antik&ouml;rper Mepolizumab ist seit 2016 auf dem Markt, anfangs nur bei schwerem Asthma. Nun kam mit COPD sogar eine f&uuml;nfte Indikation hinzu.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/mepolizumab-jetzt-auch-fuer-copd-patienten-162803/",
-      "published_at": "2026-02-13T15:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Meeting highlights from the Committee for Veterinary Medicinal Products (CVMP) 10-12 February 2026",
@@ -741,16 +863,6 @@
       "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15817229/new-benchmark-helps-monitor-cumulative-ct-radiation-dose",
       "published_at": "2026-02-13T10:01:31+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "1,8 Millionen Euro für Selbsthilfe | Die Techniker - Presse & Politik - Techniker Krankenkasse",
-      "summary_de": "1,8 Millionen Euro für Selbsthilfe | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3dRYjNPbVg1WTMwZHo2bXBlS0tIam45amswOF9PbDB0bmc5dHR2ZTk2UUlvdG5XS3ZwQ3RZMWVFZkNCZ2wxSGxvMmlIanRSNW9saS1ZOUh5RGZhTWgwRXpGUU5DQkZYQ04xSHNhUkNLLVF6QjhPRWQxTFRkbV9DSW1hakViYXpRYnN2YVc1NEhQTEMwaldLMkk1WUYtS0VTOFp0WlJ1MVR6VnE5azFjVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-13T10:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1536,6 +1648,26 @@
       "type": "News"
     },
     {
+      "title": "Klinik für Allgemeinchirurgie Westallgäu-Klinikum Wangen Am Engelberg 29, 88239 Wangen im Allgäu - HEK",
+      "summary_de": "Klinik für Allgemeinchirurgie Westallgäu-Klinikum Wangen Am Engelberg 29, 88239 Wangen im Allgäu &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVUFhbkVva1RDMFR2cEh5ZWd2RGprb0FkNmQtQmpKQlhqZGVVODV6S0xiY2pzTDhNZnctcnl4LXFwM2F6MkFvdl81WHBPTzA2VlM5VkxBa3hDQV90c3VSM2JTWDk3Z3NqcjV1NS00RmtRZjNUSXpJVmZOREowT1ktek80Y2FPdmJxbk1IV25tYjhnaUEwT1Yydm1OYmg5RS0xVWJUdjZodFpFNlVRUTdLRDlIbFRnQ0pabEZqWWdFQTR2ODNCdHBxbF9kNFotb2hoc09UNnpzZkd5T1RxT3ZvY0V3Q3lYOEV4VDBIb0ZnV1Ytc3A5RkY2ZTZXTQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-11T08:20:25+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Alle Beratungsblätter auf einen Blick | Die Techniker - Firmenkunden - Techniker Krankenkasse",
+      "summary_de": "Alle Beratungsblätter auf einen Blick | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43VEFremJYTjNLd3dGYk4tTGsxcWhzYU83TXVQcG5KNWxRTkpBbkFXNnE2RGZST256bGpCS0hnbE53M2Fja3FndkRRWEpUMUZtQl9DZUZ5S0ZvT2FjN2FfbGVtNVJhYXpJOEJhaUVYN1R5a2YyNWszSjdBRGM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-11T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "AuntMinnie.com Women's Imaging Insider",
       "summary_de": "In this edition of the Women's Imaging Insider, we cover new research on DCIS trends, AI-mammography, wearable breast ultrasound...",
       "source_name": "AuntMinnie",
@@ -1604,26 +1736,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Sehr seltene Erkrankung - Säugling in Berlin an Meningokokken gestorben - Gesundheit - SZ.de",
-      "summary_de": "Sehr seltene Erkrankung - Säugling in Berlin an Meningokokken gestorben - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxON1RNdzFFVFFfcFdya1FhUWxmQ016R3diN0RlVmxkS2JGTXZIYV9jNWY1a2YxUFgzeU0xY2llNnoxRzZCeHBSbDB5cU04WDR3VXcyT1JqVWc5TFlSaFc0TV9XVmlvYi1QQV9aSy1TNGtldDk4RHJQTm56NmlpQW9fbndpQUlRVTFNN2lGM1BySjdfY2NFbzRNQzZKNjYyTnJkeHgybElXZ2ZtbmlBWS1NZFdMbjZ0QllQXzZMZVZlSXpKOGFodm04MmFVc3lROW92NWFxekQtdlpDUDVWRXJQczM0RklVWV9pOGhXR0pmX0Y?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-10T16:55:22+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Belegabteilung für Hals-, Nasen-, Ohrenheilkunde Krankenhaus Mechernich St. Elisabeth Str. 2-6, 53894 Mechernich - HEK",
-      "summary_de": "Belegabteilung für Hals-, Nasen-, Ohrenheilkunde Krankenhaus Mechernich St. Elisabeth Str. 2-6, 53894 Mechernich &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPMzluYV8wMXBiZEFMY2RXNXU2akgwdGh0N1JBNXN3MjBVdThySGQ2dXZZdFNYTFYyRF9xcDEzVHl1cTNqd2I1NjFBOS1BVi01Uk9rSlRnRHc4UENudllsY2FmdU5KZlY2OXMxUVZRLU5ib1M0Uno1U1lRQzI1LVlfRDFZSXBCaW1GSThUVWI2cldmU2tuU2xobUpWdGxKaTVRb0tnUnJ3V0c3Q0pxNF8tQ1ZPSXhGdmJOUkpXVWtXTnVsbmh0WjlMQXJSam5pSVYwa1JvRTVMZWlxb3NRQ0sxMmRPTnB2eUdQWGx2YlhPMDBjUUpPTXdzTVFabTdiS0Fx?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-10T16:29:01+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Oxford-Studie zu Gesundheit und KI: Chatbots versagen bei Medizin-Fragen - FAZ",
@@ -1700,8 +1812,18 @@
       "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-10T07:00:53+00:00",
+      "published_at": "2026-02-10T07:04:50+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Wechsel von der PKV in die GKV - Barmer",
+      "summary_de": "Wechsel von der PKV in die GKV &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Cc0RwUTF3TVFmVDcyd0RqN2tndTJYUG5PSkE5dnY5MDhsNDdvUjBzVXFCQ0RXVHZjZDZ2MWJJMUswRi14Y2drREdfbE55Q1BTMkcwTHhpQmczUzhlTVJBOEJkdlFreEZqN2x4Rg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-10T06:48:30+00:00",
+      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -1711,6 +1833,16 @@
       "source_name": "\"site:hek.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQLVZYZ3Q3WXh1NE1hd0VRb1FXeUJZdTNrdGpScEllUTV6VHVPVGVxLVFmWDlIYkw4YTNpcFJpMTJyTWVxWTJjSElETjNUeHRGVUxmSEszbWhFV0NJVHhjME1LcEVLTVdMbmdsTUJxSmdfUzFVaUJuVEJtb2ttc3NMdHNUQ0w0clNKaGxraWpsZ2lzRnJ0N014Y25vNWpXREV3Z2Vxc05qcXlkRUxxajkzLTJqVHk0SzVtU0J0UW1kZWU1RnRyYko1dGNhcWp1NWRzV3F4XzZTbGYxWGhRc1VhT3JDTGpPQmFlbXYxWlZNcXl1Y0RpLUtkZk5XOFVsZGRMOGlpY2NrdzBkR3ZRTlhZZA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-10T04:14:40+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Qualitätsindikatoren | Klinik für Neurochirurgie | in 66119 Saarbrücken - HEK",
+      "summary_de": "Qualitätsindikatoren | Klinik für Neurochirurgie | in 66119 Saarbrücken &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcDRsS3RCWncyelY0Zkg0ZUF6dlltQlI0ZWVjODVlTG53R3htbjQ5MkJydGZNN2kwX2MxVnhld1hncktTUnBMbXliVWlYMmJGYldxaktvYUIwZjZCaHZZM2ZFWHlGbnd3Qlo5ajFReTB4Z0FUdkplSzFROVF2djlEOGZ2NVRaVE01NTZ6VDlESS1LUTBndGNQZ0VhQ0ZIYy11MGRYemZOMnVwbDhtc1FSRjhQS1NMODlsdjBmREUwUzZfZk1PbGFGc2o4eFU2ZWtMRm9BZ0luX0FZYi0yLVU1M285VXpjRVZid2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-10T03:36:28+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1776,26 +1908,6 @@
       "type": "News"
     },
     {
-      "title": "Guidance: Updates to CIR 520/2012 – Information for UK Marketing Authorisation Holders",
-      "summary_de": "This guidance clarifies the expectations on the application of the further pharmacovigilance provisions set out within the updated CIR 520/2012 for UK authorised products.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/updates-to-cir-5202012-information-for-uk-marketing-authorisation-holders",
-      "published_at": "2026-02-09T17:06:00+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Decision: Suspended and revoked licences and registrations for manufacturers and wholesalers of medicines and ingredients",
-      "summary_de": "Public list of companies in the UK who have had their licence/registration to manufacture or wholesale medicines/ingredients revoked or suspended.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/suspended-licences-for-manufacturers-and-wholesalers-of-medicines",
-      "published_at": "2026-02-09T12:19:39+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "vdek: Keine Mehrbelastungen für Versicherte. Ausgaben in den Griff bekommen",
       "summary_de": "Der vdek warnt vor neuen Gesundheitsabgaben auf Miet- und Kapitaleinkünfte. Statt zusätzlicher Belastungen für Versicherte fordert er konsequente Ausgabenbegrenzung, Strukturreformen im Gesundheitswesen und die vollständige Finanzierung versicherungsfremder Leistungen durch den Staat.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -1833,6 +1945,16 @@
       "source_name": "\"site:hek.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZWprUzdXa2ZJZTdZbkREaWt0WWpvYVhUaW9NNjZEUWdMR0Y3N1ByclVoai15VjNCMTZjYXNnNW9vN3hLLTViVUFObHg0eGp1dDlpZDByTVBNYlB0YkFHc2lBWVNtMUZueVRjZkUwbFozOXZxN3JKOHJ1Y1hoRUVoU3V6RllFdTF5WUozcHFtd0dPSkpsUy1VOWptbXg2RmRodGlOajFSdFdrVXBoTUpvajA1WEd5a3QwcU14TXlaaU5EUm9lRmhKVElqVjZGX1liZmZUdUZ0ZlNZeTdRdGk5d3RyWktQUFd3ZWg0dElRbUtZaXFHZEY4QWJpWnVTamhETVQzWWt3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-08T12:56:58+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Klinik für Orthopädie und Unfallchirurgie - HEK",
+      "summary_de": "Klinik für Orthopädie und Unfallchirurgie &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaDZZcGRRMDJ5UjZUMW1rbmtKc3F2UkVETGhubUFHSjFpTExCZ2ZyWUJpdWpLSjRGYmtsSHpQbHMwaG9MWVhqc25pRGVVMTNnTzRjMXB6WnBBbHN4MVFvcTJyNU16dXIxQm9ZNi1lQ0VEQXV2cUJJSU9XM2ZRejM0SU9wRl9qMlJuajZfX1NLSTdSRmVWRlRnc2F2cG9DRkJ6bE9UTXFhT0dTUWNXWllCU00wN2E0MUtBbG5LNjdRZUluYWhhU2NaQWJscTFvTVNZTS1vYlJlZ1FCdFJHT1BRVEdFS21yaUttWWhGcHh3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-07T22:53:46+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1992,16 +2114,6 @@
       "type": "News"
     },
     {
-      "title": "DAK-Gesundheit: Vorstand - dak.de",
-      "summary_de": "DAK-Gesundheit: Vorstand &nbsp;&nbsp; dak.de",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NaThqblg4QlhxbW56RU9lMnBvZUVqbHhIVGVWYzFfdnVXZWZEVmtmUjd6YVlrZzlWTEd5WHJqdWRJTE9sQnNuWDVkT09nZTBHa293QkxzMnNHZzV4OUNHNzc4V2I4TDRUSGVyb0tDUTBuNXNGVUF4RUFoZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-03T04:15:44+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Metformin for asthma exacerbations",
       "summary_de": "Metformin for asthma exacerbations",
       "source_name": "Cochrane Library RSS feed.",
@@ -2112,26 +2224,6 @@
       "type": "News"
     },
     {
-      "title": "No mesh fixation versus mesh fixation in laparoscopic groin hernia repair",
-      "summary_de": "No mesh fixation versus mesh fixation in laparoscopic groin hernia repair",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016319",
-      "published_at": "2026-01-30T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Anabolic medications for rehabilitation after hip fracture in older people",
-      "summary_de": "Anabolic medications for rehabilitation after hip fracture in older people",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016226",
-      "published_at": "2026-01-30T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
       "title": "Meldung: Güte-Siegel GKV: IGeL versus GKV-Leistungen",
       "summary_de": "In der heutigen Folge des IGeL-Podcast geht es u.a. darum, welchen Unterschied Evidenz zwischen GKV-Regelleistungen und den sogenannten Individuellen Gesundheitsleistungen, kurz IGeL, ausmacht. Dr. Martin Krasney, Vorstandsmitglied des GKV-Spitzenverbands, äußert sich in der Folge über Sinn und Unsinn von Selbstzahlerleistungen in ärztlichen Praxen, weshalb es nur wenige IGeL in den Regel-Katalog der gesetzlichen Krankenkassen schaffen und darüber, dass Kassenleistungen zu …",
       "source_name": "GKV-SV Presseinformationen",
@@ -2192,36 +2284,6 @@
       "category": "News",
       "tags": [],
       "type": "News"
-    },
-    {
-      "title": "Diagnostic tests for autism spectrum disorder (ASD) in preschool children",
-      "summary_de": "Diagnostic tests for autism spectrum disorder (ASD) in preschool children",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016321",
-      "published_at": "2026-01-29T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Tenecteplase versus alteplase for acute ischemic stroke",
-      "summary_de": "Tenecteplase versus alteplase for acute ischemic stroke",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016325",
-      "published_at": "2026-01-29T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Enteral lipid supplements for the prevention and treatment of parenteral nutrition‐associated liver disease in infants",
-      "summary_de": "Enteral lipid supplements for the prevention and treatment of parenteral nutrition‐associated liver disease in infants",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014353.pub2",
-      "published_at": "2026-01-29T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
     },
     {
       "title": "Submissions via Online Consultation Systems in General Practice, December 2025",
@@ -2317,26 +2379,6 @@
         "Versorgung"
       ],
       "type": "News"
-    },
-    {
-      "title": "Minimally invasive surgery (robot‐assisted or laparoscopic) versus open surgery for presumed benign ovarian tumours",
-      "summary_de": "Minimally invasive surgery (robot‐assisted or laparoscopic) versus open surgery for presumed benign ovarian tumours",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015717",
-      "published_at": "2026-01-28T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Behavioural interventions for improving oral hygiene in adults with periodontal diseases",
-      "summary_de": "Behavioural interventions for improving oral hygiene in adults with periodontal diseases",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012049.pub2",
-      "published_at": "2026-01-28T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
     },
     {
       "title": "Meldung: Primärversorgung als zentrales Instrument für eine bessere und moderne Versorgung",
@@ -2458,16 +2500,6 @@
       "type": "News"
     },
     {
-      "title": "Episode 32 – Data vs stereotypes: what Europeans eat",
-      "summary_de": "What do Europeans eat? We’re talking data - why it’s crucial for healthy diets. Join us as we test stereotypes and learn why we may start wearing data chips on our teeth!",
-      "source_name": "EFSA | News",
-      "source_url": "https://www.efsa.europa.eu/en/podcast/episode-32-data-vs-stereotypes-what-europeans-eat",
-      "published_at": "2026-01-20T15:46:54+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Use of paracetamol during pregnancy unchanged in the EU",
       "summary_de": "Update as of 20 January 2026Recent publication confirms no increased risk of autism, ADHD or intellectual disabilityA recent systematic review and meta-analysis published in The…, “Paracetamol remains an important option to treat pain or fever in pregnant women. Our advice is based on a rigorous assessment of the available scientific data and we…, As included in the product information for …",
       "source_name": "News and press releases",
@@ -2478,6 +2510,16 @@
         "Europa"
       ],
       "type": "Studie"
+    },
+    {
+      "title": "BARMER Krankenkasse in Helmstedt - Barmer",
+      "summary_de": "BARMER Krankenkasse in Helmstedt &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQVA5eTV5OG1KaEg5cjZoQXVjWFBjRU96WTlnY2hoaWgwZzBZN1NlSXVKVTgzb0c2T2l2TnhrOG13MEN0MWVibnUxLVNpSDJ3aW96b0NNTlJfenUxdTRhdkhXRlpVZUVWTU9PbktnbjczYzVGNUt5TlN5eDBSU1RNd0lNTlEtZGFnUTFTTzV6cFRVc01IaUVXelNxMmVJMGwtTDRxc0FlQmJMb0E4Y2VzdHJRUGlITmh3ZHk5Qk1iZVlDcVItb3FrYlhB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-20T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "US-Präsidentschaft: Was ein Jahr Trump für Forschung und Gesundheit bedeutet - DIE ZEIT",
@@ -2532,16 +2574,6 @@
       "type": "News"
     },
     {
-      "title": "Arthrose mit chronischen Schmerzen: Bottroper Krankenhaus bietet neue Therapie - WAZ | Westdeutsche Allgemeine Zeitung",
-      "summary_de": "Arthrose mit chronischen Schmerzen: Bottroper Krankenhaus bietet neue Therapie &nbsp;&nbsp; WAZ | Westdeutsche Allgemeine Zeitung",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPalVwM1RMRnNPaTd3ZUtRN0NlbEdpcEl2ZkllVEJablpoMjEyN2JDNmY3cmZ4TWxmWWpTRU9mcGJnZVdSTFc2eE9LOXFrRXBYUTJISlJFWHg1NUtCWS1kYkVaY1BWb29TSHpUdVdQZ3BJdjRBdE5sWVlmMVVxSl9WSC1yTHpvWG9UYWZ4ajlGaWxIU2dKcnIyMnRBTlg2ZFN0OE9QQkNuWmswVmhyS1IzWXpndXowTmJ2T1NocVY0ZVp0QVpPZ1AtMHpuMUZES2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-18T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheitspolitik: Beknackt sterben ist auch keine Lösung - DIE ZEIT",
       "summary_de": "Gesundheitspolitik: Beknackt sterben ist auch keine Lösung &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
@@ -2582,6 +2614,26 @@
       "type": "News"
     },
     {
+      "title": "BARMER Krankenkasse in Bad Belzig - Barmer",
+      "summary_de": "BARMER Krankenkasse in Bad Belzig &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMkJCZW5rRmtrVjBxdHBVT2ZQVThWT2lDNnFMbzlHN2Y1RWN3OWRYV0JHR1otQm9hbkZIZGhMSzAwdlN0Yl8wRlJIRnNCcjVFYlJUWWROd3M5b2Jaek80clJ0Z2xsQlUySmxiRk9VTF9GTkN3Q0RKLWstWTRaUlAtSVFfX1JsenNEUDRVLWtlX250aFFIa05qNlBZS1BHVFdmUlJuVHlFZUNkZkNuaFV3S012Umt2WlA0VV9tWUUxNGlVN29lR1BEZFg5MA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "BARMER Krankenkasse in Tauberbischofsheim - Barmer",
+      "summary_de": "BARMER Krankenkasse in Tauberbischofsheim &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ0d1dGg3dy1FeDFmVmN2N0pBb2ZaWk5DVmx4anNDc3dZblVaVGUyNzc5S3JNaDIwRTY5NU5FZkhhSWJRVmczZThoc0FRbU9XblVXR2ZrRlFvVWdldFpldnFXbGwwUnRaZjlkRFVOcjhMQW5NeDhHaGZ5Q0V1ZjkzZ0dXRXBLV0h1ZVZoZ2xCVXduWnpvUXNmRkQ0NlBldi11VVpMMk1ZSlBzTENnbHVpM0xHSXNqelR3ZmRVTlZfZVFlM2xIS0QtbXg1cUlfWDRtTDNtbXlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "BARMER Krankenkasse in Weinheim - Barmer",
       "summary_de": "BARMER Krankenkasse in Weinheim &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
@@ -2596,6 +2648,16 @@
       "summary_de": "BARMER Krankenkasse in Wiesbaden &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSW93RmJ1UHB2UzRmbGdtNWZMNGZSWFNJbUtyVzJVOUY4MEtmOHpRb3B1N19wa2FPdTVQRDd0anh5bGt1eXAzMGVtYkJsTEllUDB1VVBYUFVHM1ZxVlVITjkydmNSdjJuOTVfVnhYWloxQm1rTmlFNWdiVnFNM0pYNkxDOE5HTS0zakdmOURINlN3NGpsYXVzOExWcDVBZi1vS3FSNEE2a1BwUWlDTEQzeW96bTJEQ0RYWUxYSVJvY0c3c0ZOVWdIbGJ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "BARMER Krankenkasse in Worms - Barmer",
+      "summary_de": "BARMER Krankenkasse in Worms &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX0NmRW5CM3RsRmcwa1RyUjNROF9jX0hDTVpvblBjNUFxZ1hmcjJRb2I4Q3lHTTRDQ2wxZlZPQWJvQXJXX1E5VU9HcHo0WFdBUWV5bVVGSFhxTFBwVElHZ2VEN0xmOXNqaGxWN0tlSVJQbXAzUk1pckZuVGo2cVdaQ1k2OHJoSTVOcmNkb3EtU3U2dmVSN2I1VElfYk96Z0ZXXzhxakFNSWprVGw3UDEtaE1kVjJrQTdIZ3g0Q1B6alNaQl9j?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -2642,6 +2704,26 @@
       "type": "News"
     },
     {
+      "title": "BARMER Krankenkasse in Plauen - Barmer",
+      "summary_de": "BARMER Krankenkasse in Plauen &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZVY0anFmRVRNRnRUczVGenZ1ZjJvYldZWUVBUTRKWExFX1QzZmt3WG5pWktTREhnQ2g5SXVEZWQydVQyTTNTTEdlMDZDdXhqSmY5U2RQanVEZS1teTVna0JaZFV0djMyVFpGbGM4ZFBxNmIyR2p1TnhIVF94V2laREJTYUFfVnlILWJ0VDN0RkxSU3FnRDVKb0puWmlkYU92ZnBybFFpRjA0RlZJODV5emVrRGJSM3FFckpWN0FvUXJLSW01dkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "BARMER Krankenkasse in Freising - Barmer",
+      "summary_de": "BARMER Krankenkasse in Freising &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcGhvQzdDdzJtMTNldk5aaTdkVVdhenVKSWYwVnlsVlgyNWN2c1hleUVUMVdLcndMSzRjdnc2VHRZZUdBQ3BDWXdBd1RfOHlPZzNjSGdyb0tELW9lQU1vRWdtM0g3eV9COUU1ZEE1WjBacEhqVEJIc3p5cGlKQnptWnliZDQ4X3FFWk5YWkR2SnZ4amFQSkl3WmNjZHdheEtHRXlBb0dXV0FMcXNnekFJdUlib0Y5a0k5SjgybE1RSjlZVW5NMGpOUA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "BARMER Krankenkasse in Tübingen - Barmer",
       "summary_de": "BARMER Krankenkasse in Tübingen &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
@@ -2662,10 +2744,10 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Bergheim - Barmer",
-      "summary_de": "BARMER Krankenkasse in Bergheim &nbsp;&nbsp; Barmer",
+      "title": "BARMER Krankenkasse in Lemgo - Barmer",
+      "summary_de": "BARMER Krankenkasse in Lemgo &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONmdlZGgtSndjb3ZsVzZ6cUR5aXJlSWVLOXgwX2hMcGhDb2I0aHhHZ0ZfMXVUR2p5OS1DeVRIcDdUbWFrbzN4Wmt0WEJuUkh0TkpyWVZqNlVBeG9kT0tKOEJ1N1ItZEp1TlIwdWN6b1ZPcURLdkVyWjY3cUp3V0s4RXUyQmpMV0ttbnhaQ2Z0THR1TWV3YTF0N0hvbm1iNE5KZ1NhcXBoYXpHYTQ4cDNqTVZEX1o4U0llR1JReTZXbXpISG5qN0xlZQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ05UU21KWjJERXJYbklCM1g5bDAtenNDdF9KZXJEcVhHRlBMZnc2Rkd4M0QyYkM2bm9vZlRqSDlyUGFZWk1hN19vbFZ2WDhUZUZvWF9jLWtYNHhTMHhKUnltU3JIVlltYUw2RjByWE16cVpqODFEdFl3RkNsbXFjQUhzd2V1TmNaNlphemd4aG9fcTdTOW01OVU5QUZObktDNk5nRnN6Y2xDRHdkdWJkSEJ1MXlIeWE2Rl9tNmh4Nlo5TUQx?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -2702,6 +2784,16 @@
       "type": "News"
     },
     {
+      "title": "BARMER Krankenkasse in Schwäbisch Hall - Barmer",
+      "summary_de": "BARMER Krankenkasse in Schwäbisch Hall &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRzExM0U0UUdacmZhRjNJWkdhaGlYQjFiU1p0Y20wUDRnN0JkWjlXUERYS3BPMC1BWEhyekhZc1JSRG8zd2llV2tHMUJ5dXpTWkFjU3RsZlM3VFBmMkgyMGx2a0JIU0NZWld2bmFzNmljU2hscVh0YS0wWHhJeWluWGFUS1NsdjgzS1NsT1ZyTkU3SDlkQTlCaHEtWVFMLV9rWUJzRGgwSG1ZQkRpazZFeTQ3eXBhU1VSNUdYMXJKNGJIemlCTE1LakEzVmxwSVV2d0RV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "BARMER Krankenkasse in Karlsruhe - Barmer",
       "summary_de": "BARMER Krankenkasse in Karlsruhe &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
@@ -2732,10 +2824,50 @@
       "type": "News"
     },
     {
+      "title": "BARMER Krankenkasse in Lübben - Barmer",
+      "summary_de": "BARMER Krankenkasse in Lübben &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdVdJU1ZMWW1RcmdZbWxRSXNoNnRoaDBuN2k0b2x0YmZaXzh2ZG1jaV9ELTVUUFZsU2djUzNhWU1VNlBEa2k0NTMwRWRSMmtjWnN1S1BrT3RKRXdQc3VDekV4TGZhWjFpbnRISmdiZDdrUVhVWjAyb0hHUjF5RFdpN3JHUjlkdGhSNGkzcV9iZVU2UUc2N2J1Q1NaaXV0MXFYLWVWclhERXdhb3JkVk1lRjhtQ2hKMy1ucHJtOW9aZF9ySnBQUW5j?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "BARMER Krankenkasse in Ansbach - Barmer",
       "summary_de": "BARMER Krankenkasse in Ansbach &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT1RVQUFudjJJRE5WZzcwRTYzLTZ5RVlFemh4OHRwQzkwUVYtbmtuQS12VHhhVkZKWm93aE5XWDhoNF9ya0pXd2stWE9Nanp3dWZDX08zam16cDV5a3NOLVFMM29TQzQzY2dIQmJ2WVNQOHZXcEpuZXJYTThOZWR5UjEwTFVoMWVSeTB2N0dTeEhBWC1lUV9kZ0ZWdXI0MzZCbDFKM2xCY0ExUWg2MDFiYjZkd0k1XzBsclRCSkVNV0luVUxUQUxz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "BARMER Krankenkasse in Hamburg Altona - Barmer",
+      "summary_de": "BARMER Krankenkasse in Hamburg Altona &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMl9MLUpZdkRiNFJUQTViQ3lHdV8zVV9tVFFxcHZ3azNURzRoYUNqR0E5TzJWaVRNUWdQbDJ4VVcybGpQZHNsMEo4NnZVWGFieHdzbHRMQ1k3Snc5YlRhcTBYZ2RtVDIwbTVBWUdqM1FJMksyV2hEZ21FSEpOWEFZTXEzWjdaSjVHMWpNRUNqajQ1a19aZ2c5VmdYaE9NZzZWdUJYN09fV1ZoYlJFdWZPbGhVcjVCdjE1TDAtQ0tRYjk0OG8yaGZUQWhsZzR2WHpl?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "BARMER Krankenkasse in Leverkusen - Barmer",
+      "summary_de": "BARMER Krankenkasse in Leverkusen &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS2VKYTJ4QTZrU09PMDdlR05pVUxnT3dQVFBWNWRnaG95enI0bm5idklMcnFKVzRRWnVWcHRueG5qM0tiUzVVNFlOX2JESzlQblpDN1pGX3VtemNOUUI4VEx4cUV1TE1ZZVdkeG9xdTM5TkRqU2Vya1BKR2ExUHR3cWhnbkVob0ZiZHZUa083eWgxYUlhUTBhUVlfRHh4X1NoUTNzVWN1Umtmc2NqbUhINzhzQWpZOERyZzVSd0syYVA2RFVaWGxVSjVOaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "BARMER Krankenkasse in München Mitte - Barmer",
+      "summary_de": "BARMER Krankenkasse in München Mitte &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRVhFQjFOWGsxeHA2WTdrVnBqbFJkRjNTYi0wTVNfYnA5TC1zSmVGQnBpdkw1UzQ0UkdOTXdzcXpXN1JfT0R4VHRPU09rRVA2N1g2ZWlrRnB3OUhPaVpWVjFmV2FRTmZtdXdLWTQzb3N1Z3ZVVjJHYXItV1V2YTRTakF5TDNaRFpfZUtEN1JZbEhvLVBCNUtBT2pRMTBsNGxUejRQNEsyT2lEM3oxZ2p0Zmp4Y1l5YVc4RGV2aFFDZElZdUV2ZERVTnV5TTVKNkZu?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -2756,16 +2888,6 @@
       "summary_de": "BARMER Krankenkasse in Falkensee &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSlpMTEpmenJXcnJNTnVKbmlhYmZIZFhqYWp3eDNaQl9tMmxNWlRoNTdzS0xrbFctZWlxVXVEVHllUDBLeDFhT2xJaTltX01Ia1daOW40eXFSM2tHVlRVT2lXS1BWN2pvSDVDXzl2SmpEOGJXbGQtMjhFZ3hCM21abmVFeHI2REZZYUJfT0I0WHdTcEtTMFJfWFFKODFQbEswZGV3ZU1sMXBYRUxwVUY3WXFHZS1UYjZVa3c2YTFCY2FHbmQ1M281cmRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Bonn - Barmer",
-      "summary_de": "BARMER Krankenkasse in Bonn &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd2pBcmVfREhadmhfc05ydzFyRGpncjZtMDBtU3pKbTlTNW5MVFlYcFhEWXpIRkMtX2xoVmZfV0FlVnJFLXBqbTNxNFRkLUxDV2N2QnR5R2c4VzY3RGltX1NYTTNRWEtBUFQ0ZXdGYS1rODNxbWE0QzhvQTBVM1d6LVZGdURiZVVreTZJcXhfMVowb2lZRFh0ZmlyWERPU2p2bXp5RUQ3S2hsRmR5QmxRQzBFUVBERGF2YVhsNE9vQWpLV3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -2802,98 +2924,38 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Mannheim - Barmer",
-      "summary_de": "BARMER Krankenkasse in Mannheim &nbsp;&nbsp; Barmer",
+      "title": "BARMER Krankenkasse in Offenbach - Barmer",
+      "summary_de": "BARMER Krankenkasse in Offenbach &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOelJHQ09mWkJiUXk1eE5YTGlPWnhXSmNhU0ZBNmxCTUpiUWFUdjRFbmNobGp6NGpnTy1CMlZUV1Ewc0lmdy1scERpNU5NNUFYOF80bUtVNjR2RXFWbTZDWXhSaE9YOWpjVzhXRl94RHhHZFRfRE1LckVJd1NoN0V2RU1iR2xqcElNXzRlUjFqdDh2WmQyOEhYM1NXYUtsNEtIMF80Ykpsb1puelc2cWh2eHRWUlFxclBYQkRSbllWdzRBZ2RaMjJDQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNnZkcnI0N0pfV09jOVdhcC1TUW5lMzMzZ0R4eXVxLUk2WW5zbEhwUHlBcDhXMHBMejhfREFmb3BPOG9zcjFOM0hhZkxFVGF4M25HbVRBbWN6NDJBS3hjNDJRSTJpYVdjcnZfM0VDS3RFQmItX2RWaGF0NlZ3WWRodUlURVZmYnpUVDFqelNENlQxR0Z2N0hGWDk1Y1NMcmRkRmRpUEFPTlZEUTg1d0hFMVh1WV95bEctSzBvaXpqYi1hTFV4RU02QlV3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Memmingen - Barmer",
-      "summary_de": "BARMER Krankenkasse in Memmingen &nbsp;&nbsp; Barmer",
+      "title": "BARMER Krankenkasse in Waldshut-Tiengen - Barmer",
+      "summary_de": "BARMER Krankenkasse in Waldshut-Tiengen &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWUc1R0R6VVlZMTFVZFF5c2c0WUdpNFRJUG1OUnpralJpeng3bmpsbFRUNU54QW1BdURzbFNONkNTN1E3dkJFcWRuWWczM29uMUk4UFNtdEdsREdvckxTVDljS2VGWGpsRmpHRnNRWFAtXzNKS0FEeWw4aHJuc1gtSDNEUE1MSWxPeThPZ3FvYUxlYl9URFgzMHlHZ1djOV90SGlTVU1FdXd4UWxBb1VIanlIemNWelZheWVzSXB6US11U3Z1N0JYd1Zn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQVcxVmxfRHNQbExsdm8xQ0ZYdFhMaktsaVFnZUh3MlBVUDhIRXhYWk1wckN6eEZHMEg5SU9oejRRNm9USUt5TDluTGVPb012cnBZTWl5RVB3cGc5b2dsbmh6VGE0eW05SHRlcnduc2picEVsd2NGY1JKUGdIQnczd2JyMkYycVRVbUJSWG5yem1ndm82TkdsbEFxdkJ3U2pRZkxoeXRUYlBTY2haRmFyaTRqdVFtS181OER3MVp1ai1faXJ1dUZEZmdUTS16RlF4cFJv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Cham - Barmer",
-      "summary_de": "BARMER Krankenkasse in Cham &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQTNBYWF0MXFvaW9UU1RqRkZIamZvTEdBX0xzcTVWMnMwNGoySkJEVmJlc0hETkROSGJVb2o1WVRhWlozMWFDSEJiT21YTEgyUURpQTNqdjFDRUZaREl6RDMzS2pRWURUMmZJaTQzNWJHem9Jd1JYYjF0Sms4STMzdUo0cU93RzdEX0oxalNoS0VQcUhSbkxIRlhVb042OGFrLWhVcjVPR212Zm4xeU5zWjRtNW5ia19wclBxTExOejdTTGM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "title": "Professur Medizin mit Schwerpunkt heilkundliche Pflegepraxis - Ernst-Abbe-Hochschule Jena - ZEIT Stellenmarkt",
+      "summary_de": "Professur Medizin mit Schwerpunkt heilkundliche Pflegepraxis - Ernst-Abbe-Hochschule Jena &nbsp;&nbsp; ZEIT Stellenmarkt",
+      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQmFyc1hMSmRaVm11MmRLZk5LVFc3d05XbzZlbC1HU1NRaVlWS3FxejVmU3JiQUdEZUVZMzYwS1BDSTBDYVVPRVRsLVpJeEpZbkF6ZzFyNjRVMW9oNTRhUXhKeXktajJzVXg4a2ZyM3Vtdm9lMWo4T2pKQ2FQb2xudVFOQjRXaTNwbE83M0JDZWNPSFJLaHE0MURrSkpZdjB4ektXUFdpNzRBcmttUS1uTlE3STdCM2ZiZWpzbzdPUHZuRVpQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Brandenburg a.d.H. - Barmer",
-      "summary_de": "BARMER Krankenkasse in Brandenburg a.d.H. &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZjE1RW5CN3NXazltQkZTeFhjbnZhNTBOTTk2VERaOC1kWXRqOWxQMHdiNzU5cE9mU0pIRmlEbFREQmY0WG9SZlJYQ29EU2U5VGpoRWZuOFFBWUcxUmh5MkdhejA3MFBIZDhvSTJjQWxEOEdrWWZ2WUpYMG5wRWozMU05aGxQMllrRXF6MVNFZklzQ0k1cGxuOHI5d2t3emY1UDA3bzluOXBsaFhPTUNzMThialdQRVBPNkI2RngyNjl1ZUl6YVlKa2IyMzlCYmlxTEszVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Frankfurt (Main) - Barmer",
-      "summary_de": "BARMER Krankenkasse in Frankfurt (Main) &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRDlDSVhHbjB0ME9kV3dEUXI4ekNSUC1GaDQ0STQwNFRESnBCYy1KZW5yMzBLd3RaY1EyQ0wyV3ptQnpQZEtBMC1IQ201YVFWODNjT05aY2EwdU5xS3ZySkNSTFNuS0otMVJzUDVHeVZSWC15VDdPWHNFUXNoLXhNZDVCSHAyb0puUWNuS0Zzd2FoVUtHaTgwR3NqX2ZsTGNxS2ZRSElMR2tCRHQ2aENpLWlhNTA3bXpIcXI4VlV3NWdlREFocDNhTVNqczRpMUhG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Simmern - Barmer",
-      "summary_de": "BARMER Krankenkasse in Simmern &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUWdwTkVlOEZ2VW4wWk1yM0NpaHlTUm9xNkZZa0VPS3dvTmg3bW4zZWRkQUdQV1FzalUwYmtVbGNoY3Z4QVdPMVBEZnVLNUdMSW9Za1dmQ3VnaTFjSjUyQkIwWTh2Y2lsLU9Tb294a21iQUhTMzdBSGtudmc1ZXUxd2w1b01Wc1RIOThZdzZmdVJzSnBESDg0X0h6d3cyUk5tTlF6X1ljWlhTOFcwa1h6cG5ybE9VVk9nSEQ0amwydEN0SlVjYjdn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Pforzheim - Barmer",
-      "summary_de": "BARMER Krankenkasse in Pforzheim &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU0Y4b0xkR3ZZUGp6azRXT010NnowOUZEaHR6VW5NSWFHbDg0bWZXdFlBQW9zV0VWWUhQV1ZHT2cyMktRR041UERFNEhNU3BHSE1QRXViTFJBSzJpN0tsWHlHZzJOV3liM2o2WFVpaDJZRUdlOHBpb0dwM0xnT2ZVSW5FWm1TOU43M2h2aVphMEpIaVpUVlpfZzl5eTVZY25qZDdqeXd5bnlYb2hoZktaeldSemp5U0pKb0RLc2ViM1FkYmg4aWtLLU9B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Ludwigsburg - Barmer",
-      "summary_de": "BARMER Krankenkasse in Ludwigsburg &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQclJVOGx6LVl3MEUteXhpbW5xX2RubmlUXzQ1Qmx0dVk0SW1PTEFSTi1aMTJuYlNqcXh1ZzBLYWtYa0tMTjMzSWRGNng1b0E4b2F4LXBUcHpCeDF3LUxGaGtqUlNSY1V6VHpOdC1YUmdGY3pCb0FwMi00Q0stOV93OHd2enJfWHpJdHo5ZTlvdXBhVG1OVG40NjVpZWtSenBLeFJ5eGZYdG5BSTNjS1BaUm4wVFZDeU1walN1TkRNSU50S1RGbm5fUjA0VG4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Euskirchen - Barmer",
-      "summary_de": "BARMER Krankenkasse in Euskirchen &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSzZJQ2tpdUl2RlZDNldwQ0RmRGI2S0ZKSU1Hd2RyQW1qLU5nTWRibWp6RFZfajIycWRXSkZHSG5XaGNxa3lNMTZpTUtFeGtEN0N6RkVUbGo1RThzdFVBb0lhd1V2Y3BiQUNoUm9tUldoZlg2ZkFyemNDNktSb0dVMVdSUW50TEl5U21SSHA1TEZqakZIS19vODZoVzZJdmp0UlgyMVo1X2FqXzdLYXFiNElZVV8wdzdEWmJ0VjRfMnlYNndTSkNqZWFYQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Übers Dach eingeschwebt: Poliklinik Chemnitz hat neues MRT - MDR",
-      "summary_de": "Übers Dach eingeschwebt: Poliklinik Chemnitz hat neues MRT &nbsp;&nbsp; MDR",
+      "title": "Übers Dach eingeschwebt: Poliklinik Chemnitz hat neues MRT - MDR.DE",
+      "summary_de": "Übers Dach eingeschwebt: Poliklinik Chemnitz hat neues MRT &nbsp;&nbsp; MDR.DE",
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWVZtaGV1VERmaXl2bWVaMFJLMlVoLWNWdDZoY0NkejZGR3V3Qk5SUmlqNXJyRFJhamFxdndEY3RUSEpVM0JiNDdjbXB0YlVhRlJRdkNIUHd5WXh4NUUtQ2VQVkt5RFBXbnBWeTZiWFVLa19hbU5PZ0hhVHdlMnZuVWN5QWxYNEpQdnVVM1NucnFlR0RC0gGaAUFVX3lxTFA0OFF4Y0lEVklXWjNoZHc4ZTAwZnR2aTJ4N0p1WHU1ZmJMemo0TGl1VHFva1A5Z0dmbXhwNUZUWXhIN2lHZ1I3c1U3ZmxhWUR0b0pOR282eEhwS2FhZHI3RzdjbUtDeE1rQ0V2Nm90Z0VWR2lDOGJNV01lM29HczctOGJvbWotTjNEd0VsUHFhVVRVeDZNeTRzcWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-14T08:00:00+00:00",
@@ -2923,6 +2985,16 @@
       "tags": [
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Schneller, präziser, patientennah: Kirchheims Radiologie setzt auf MRT-Technologie mit KI - Nürtinger Zeitung",
+      "summary_de": "Schneller, präziser, patientennah: Kirchheims Radiologie setzt auf MRT-Technologie mit KI &nbsp;&nbsp; Nürtinger Zeitung",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSGlYZ25HbXkwRnlGUlg5N0dRRnZJTlAtRWFnRHhkZUxUWjhBY1h0a0ZTb1hLUzJtblhiekVnYXY0aHZhdXUzWjh4MGVGbnNUUEJSa3EzUHFOM19CLV9hRkhveDY2dzRhLWE4VUFkUml5clR4dVAteTEtSkFSZEl0UmxxUEYxbXhDSS14a3otcGxzRThhWWdWNjhEUVA0SDJyM2NhNTFYSjhkallobFpOWjNsa2JkbWtiQ2lKdW1HRlBkRmlCSGhnMnVvX0dfRUJXT3hqby1JNlhpclpFNHZBY1VtakVDSm15WjA5M1VhQW9XdG9QTVJ3Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-11T08:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
       "type": "News"
     },
     {
