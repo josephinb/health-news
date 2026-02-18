@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-02-17T21:28:29.722908+00:00",
+  "generated_at": "2026-02-18T01:29:06.585108+00:00",
   "window_days": 42,
-  "count": 288,
+  "count": 285,
   "items": [
+    {
+      "title": "'Quadruple low' PCCT protocol improves lung cancer imaging",
+      "summary_de": "The findings could translate to better care for patients who require repeated contrast-enhanced imaging.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15817416/quadruple-low-pcct-protocol-improves-lung-cancer-imaging",
+      "published_at": "2026-02-17T18:38:26+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Allergische Konjunktivitis: Rötungen und Reizungen lindern",
       "summary_de": "Im Fr&uuml;hjahr beginnt f&uuml;r Betroffene die Allergiesaison. Ger&ouml;tete Augen sind dann ein h&auml;ufiger Beratungsanlass. Was sich dann empfiehlt &ndash; und was nicht.",
@@ -116,11 +126,21 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Klimakrise begünstigt Zecken – mehr Hirnhautentzündungen - DIE ZEIT",
-      "summary_de": "Gesundheit: Klimakrise begünstigt Zecken – mehr Hirnhautentzündungen &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit: Klimakrise begünstigt Zecken – mehr Hirnhautentzündungen - zeit.de",
+      "summary_de": "Gesundheit: Klimakrise begünstigt Zecken – mehr Hirnhautentzündungen &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeDdVUVBIR3BQRE1IT3ZuWXQ2cmhnc2JBWDRKZVNVb1dlUGFMUk5nLUd3SEJ4NHZZd0RzalZyRlduSGNMWUVkMFNzT1VWTlFkaGpZRnVqdDNJVkZIazVfQ1haQk40dENVNDlpWFNjdXZxaUxoVWVfNG1YZHRNeXdING43NE1WRFdLdE42Mm56QTFFN1N2VGFr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-17T13:46:50+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "(S+) Bremen: Geht ein Kormoran ins Krankenhaus - Spiegel",
+      "summary_de": "(S+) Bremen: Geht ein Kormoran ins Krankenhaus &nbsp;&nbsp; Spiegel",
+      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcHFQalpZT3dEQ2J2T2RvSTJVVnFPWXI2X3VFcmVmelVjaEZuSDdxNnZXaHBfMVRLVlFLd2dfaVQxdTQwNmRRTkdjaTF5dkp5emNKelBWRklXQ1lpYVd2VWROZEY4ZDVLTTFlOGwyUVNxZ3VXMmFURjRPamtCM2xSUHRyVERjZm9lTktEV242azR1OTF2Z3g2MG5yODVuOGR4M0pPRDNjZ1BFVlU2UEwtb0c5d2F6Y2VyUEVONGJ6SVdIR0FwOXlVTUtIU21RVTdlRjVEZGx3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-17T13:44:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -228,6 +248,16 @@
       "type": "News"
     },
     {
+      "title": "Cardiac MRI-based ML model predicts MACE risk for STEMI patients",
+      "summary_de": "A machine-learning (ML) model based on cardiac MRI and clinical parameters performed well in a study of STEMI patients.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15817433/cardiac-mribased-ml-model-predicts-mace-risk-for-stemi-patients",
+      "published_at": "2026-02-17T09:44:21+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Fasten-Ranking: Fleisch-Verzicht steht bei Jüngeren auf Platz eins",
       "summary_de": "Die Mehrheit der Deutschen h&auml;lt Fasten f&uuml;r gesundheitlich sinnvoll. Besonders gro&szlig; ist die Zustimmung bei den unter 30-J&auml;hrigen. Am h&auml;ufigsten geht es um den Verzicht auf Alkohol, S&uuml;&szlig;igkeiten, Fleisch und Rauchen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -254,6 +284,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/jeder-dritten-kinderzahnpasta-fehlt-fluorid-162857/",
       "published_at": "2026-02-17T09:10:30+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Low-value x-ray persists in patients with maxillofacial trauma",
+      "summary_de": "Targeted interventions to reduce low-value imaging may improve diagnostic accuracy.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15817432/lowvalue-xray-persists-in-patients-with-maxillofacial-trauma",
+      "published_at": "2026-02-17T07:22:07+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -298,8 +338,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Zwei Drittel der Brandenburger mit Pflege unzufrieden - DIE ZEIT",
-      "summary_de": "Gesundheit: Zwei Drittel der Brandenburger mit Pflege unzufrieden &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit: Zwei Drittel der Brandenburger mit Pflege unzufrieden - zeit.de",
+      "summary_de": "Gesundheit: Zwei Drittel der Brandenburger mit Pflege unzufrieden &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ2szNFRkelJIZnhoT2s5NWdDOUNzTUpVUkthRXlNVlc1RV9ISUxYb2RWMDhYTTlkbkpFdmJfZnpYUzJ6UWxsQXFfWUIyYy1ZS0FZUFd3MENCSmZIZzlTbWxlTmNsaGdqSjRUYVcxU3ZjMUcwcno2S05ZTGRNWjAtMV94ajFhMmY4b1M4VllUTVR6Y1U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-17T03:00:22+00:00",
@@ -318,8 +358,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Mehrheit in Berlin gibt Pflege schlechte Noten - DIE ZEIT",
-      "summary_de": "Gesundheit: Mehrheit in Berlin gibt Pflege schlechte Noten &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit: Mehrheit in Berlin gibt Pflege schlechte Noten - zeit.de",
+      "summary_de": "Gesundheit: Mehrheit in Berlin gibt Pflege schlechte Noten &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMnRZVVZSWXZrLTVUd3JVMEdYaWpZZ0lqNUxoMHlFSElIMzZCOGxrSGxGbGFCUDdRWFc0eFVmZDk5eVpvUEN4ZHJ5UEJFb0JQY09jVTJIRS10YmZsXzZLS213TXNHT0JzY1dJNHA2SGdXN01vWmhtODhaT2d6Z1I5RE5VVVRKQlE4c2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-17T03:00:14+00:00",
@@ -333,16 +373,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMUV5OXoxSjdlY0RNUk1fbDlHTnpILUdEaTRTWnlmdTQ1VlRuWk9Qemp2ODVCOE5tWG1FYjFTVmdtUm1KbmFsY0EzZXgtaWpwMTdtbzdEOTRzeE80ZUd2VHVjbTdpdTJSRzVUellWSmpZVVlsMFg1TU9QYlZUTHlJTVJxSUFncTZkTzFFQmRfdXVDemZYSVNDZTNyWkhhbVJpdng2elhyTDZ3NEdsUklCZXRjNVFGTnlnUjRTMkVub2ZqaTNZTDhFVlFuUnV1UDFIa01BamRfOThXbUJ5VHEw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-17T03:00:14+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Personal | Klinik für Gynäkologie und Geburtshilfe | Paul Gerhardt Diakonie Krankenhaus und Pflege GmbH in 06886 Lutherstadt Wittenberg - HEK",
-      "summary_de": "Personal | Klinik für Gynäkologie und Geburtshilfe | Paul Gerhardt Diakonie Krankenhaus und Pflege GmbH in 06886 Lutherstadt Wittenberg &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOeDZQcl9BRUVvalZmbThNYjNndGxYYzRoY0NlLWh6THQwQkV0QkhKT2ljalctYVlBbnEzUU9iemNRRmNGaWRrcFdqRC1KdVpyWV9feld3MHFaZV9tUENMREJCYmREYzJVUU41SzhDNGVrSmNCbV92dEJpb2E5eFJ5UGRqQjFVR1RpcWFmeEtmQ0VuUGs1emdCU0d5WnNPbWNtZERVQUc3VU1LdkR3cl80djFnclVzRTZPaWFvR29QQmx0N3hKVGtmazV4OFJBc3F2MnhTM2Q5RVluanUydWhweVNsOFJGZ3JXTUQ3dWJCbU16LXBMNVdWUXpyVnpVRXVfZVlhR0NwTHloS0JEakcweHVJR25EUEU2?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-17T00:55:04+00:00",
       "category": "Versorgung",
       "tags": [],
       "type": "News"
@@ -671,8 +701,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Arzt: Rückgang bei Alkoholmissbrauch Jugendlicher trügerisch - DIE ZEIT",
-      "summary_de": "Gesundheit: Arzt: Rückgang bei Alkoholmissbrauch Jugendlicher trügerisch &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit: Arzt: Rückgang bei Alkoholmissbrauch Jugendlicher trügerisch - zeit.de",
+      "summary_de": "Gesundheit: Arzt: Rückgang bei Alkoholmissbrauch Jugendlicher trügerisch &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNklRWTJaaERWRE83eERKQXk4b2dPWUd2R2plUGtWVVVhS1QyZ0NYRklQbVY5N1QtdkxsSDZCajh0cEVLbEJKTHk5eG9WZlJLN1VWQVE3d0RmSXQ5ZnB2b00ybURPR2phUXZDNjZtRlZpN1JtZmdjbkRPQWRCem1Gd3VKSFJKcVYtVHNvdmoybXJkUVgzRHNGbjhvQ2Qwdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-16T03:00:05+00:00",
@@ -731,8 +761,8 @@
       "type": "News"
     },
     {
-      "title": "Psychische Gesundheit: Angststörungen seit Corona: Teenie-Mädchen leiden besonders - DIE ZEIT",
-      "summary_de": "Psychische Gesundheit: Angststörungen seit Corona: Teenie-Mädchen leiden besonders &nbsp;&nbsp; DIE ZEIT",
+      "title": "Psychische Gesundheit: Angststörungen seit Corona: Teenie-Mädchen leiden besonders - zeit.de",
+      "summary_de": "Psychische Gesundheit: Angststörungen seit Corona: Teenie-Mädchen leiden besonders &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT19lQXkzT252SGVBSmQyd3ZOanhBWUtmWTE4MkVfWWkzczk5bjVZcTd5eDY3Y2ppdXQtZzZfSlpQcnNFWjMzN0NrRnhvb3c3T05KU0tCX3RFelB2V045RUJxTUJVTndNNEVkN3ZwOE1XV2JyMTZMQTVudGlTRjFmTDU3THBFXzA1MlRWbkVJMVJ3WXlsU2xQYlYzYUg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-15T04:00:09+00:00",
@@ -741,8 +771,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Mit 100 an der Beinpresse: Rudi, der Star im Fitnessstudio - DIE ZEIT",
-      "summary_de": "Gesundheit: Mit 100 an der Beinpresse: Rudi, der Star im Fitnessstudio &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit: Mit 100 an der Beinpresse: Rudi, der Star im Fitnessstudio - zeit.de",
+      "summary_de": "Gesundheit: Mit 100 an der Beinpresse: Rudi, der Star im Fitnessstudio &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb2kzVXBteXZfcGlJeldka2dmcGdNSWJVYVl5bWNnME4yYzY4bDZDSVZPcWFRS09xUldzcWwwUGlqLWYydDN5LVkybVFOYU1DQTctNW83M183TTQxczJZMW52SEN2cVF1NGk4TWptck15VHpqdHlxb2NGd09FMjNWQW14NG50QjRRb0tMN2VLaldJcm9oUTFv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-15T04:00:07+00:00",
@@ -843,8 +873,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Gericht verbietet Discounter Werbeaussagen zu E-Zigaretten - DIE ZEIT",
-      "summary_de": "Gesundheit: Gericht verbietet Discounter Werbeaussagen zu E-Zigaretten &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit: Gericht verbietet Discounter Werbeaussagen zu E-Zigaretten - zeit.de",
+      "summary_de": "Gesundheit: Gericht verbietet Discounter Werbeaussagen zu E-Zigaretten &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRTBEdF80em1JQkhaY2l0a0VCNkNWeUpOQ1Q0NFZLSUNaMlhjVlFxVnZlWVA5YTd0S1dPaURiemprak5sa2RpcWdZUVlhTy1lTE5Bdy1SYzJkaVpUOUpOR0VSRnByNXNhZG9YdUNyenhhTlhlSkQxaWdZVlRsb3RMWUtPWkRULVNNWGxpc1d5aGxheUhxSDFveENB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-13T12:52:34+00:00",
@@ -858,16 +888,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdnA0cXQ0RWNwbV85VVNrOENla2EwNWM1bHVtZnFEZk9wc2RxUjdCbzEyci00dEdlS3E2SjdIaDM3UWY4TGc5UzBCVnp3SVpNSkJVclBzckltNGRudzdoRXRoSGo2dEVDczE3MFpzWWNraHBqN3JDSWJucmlJelBoT3BKdFFZYW9WQUcwb0psQlVib3RaVm4tX3dES1BxS3JLM21fR3RXdFRvQnVWTHV1eUd1dVlyc1FNRjB0eFZnd0h1bGY4enFvLUlrV2NNZVVrUjF4Nk5yb24xQTZORm0wUkdoakxWbE51TzQ1WmFybGE5d3lXOXJPdngzTzA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-13T12:46:46+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Stipendien am Promotionskolleg (PK 059) \"New Public Health: Gesundheitsförderung und Krankheitsprävention im Lebenslauf\" - ZEIT Stellenmarkt",
-      "summary_de": "Stipendien am Promotionskolleg (PK 059) \"New Public Health: Gesundheitsförderung und Krankheitsprävention im Lebenslauf\" &nbsp;&nbsp; ZEIT Stellenmarkt",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPVkotQk02d2puQWhFa0VWMEJESVotZUxMbzdWNUpqa1ZrWEltbWZZX1BrTlFKellQWDNpaGxuNUpYc3ZJX0FfLXZORFo3dGRUSF9iUWRoMEc1UlpRdXNFTEpfVlNnN2hvYUw0bmhPcXFrSEc0M1lSQUM5cGZsT1lqVnVianNzRFdmdjZPODRFZEw1aEhnWnYtaVp0MFBpcFJpd3BELWVvNENsSFY1NTJVV0hQeDNLWC1MZTF6dWxMbnplcE04N1BfYkpaMlNzWFFDdHdhbTlpeW1xOGtwTlZrdEczeG1fcG80cjFUOGw3YmJza3UyS0NRaGtyUzJyX3RsRjBSZU9zdnc3NU1HS0p3Z3FHemRwbWhzTHhwVkdpMUd1Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-13T12:31:18+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -943,6 +963,16 @@
       "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15817229/new-benchmark-helps-monitor-cumulative-ct-radiation-dose",
       "published_at": "2026-02-13T10:01:31+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "1,8 Millionen Euro für Selbsthilfe | Die Techniker - Presse & Politik - Techniker Krankenkasse",
+      "summary_de": "1,8 Millionen Euro für Selbsthilfe | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3dRYjNPbVg1WTMwZHo2bXBlS0tIam45amswOF9PbDB0bmc5dHR2ZTk2UUlvdG5XS3ZwQ3RZMWVFZkNCZ2wxSGxvMmlIanRSNW9saS1ZOUh5RGZhTWgwRXpGUU5DQkZYQ04xSHNhUkNLLVF6QjhPRWQxTFRkbV9DSW1hakViYXpRYnN2YVc1NEhQTEMwaldLMkk1WUYtS0VTOFp0WlJ1MVR6VnE5azFjVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-13T10:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1047,8 +1077,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Entwarnung fürs Trinkwasser in fünf Orten Vorpommerns - DIE ZEIT",
-      "summary_de": "Gesundheit: Entwarnung fürs Trinkwasser in fünf Orten Vorpommerns &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit: Entwarnung fürs Trinkwasser in fünf Orten Vorpommerns - zeit.de",
+      "summary_de": "Gesundheit: Entwarnung fürs Trinkwasser in fünf Orten Vorpommerns &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNlRPMUpCTDdGR1lLUzM2Q0JTVF9BdlAzTXRmM0FRdk9HRGJuS25xU3NQeWhEX2p1cllIVkEwWC1vMF9HV01xU0dvYS00RGNFbFF6S0xVRWFvMGtQdHEyN2tLb05PcThrczFJcUpFTU1jN084aTR0RDFVcEFmaE5RdHZTblVvYks1TE1NRUZ6WWxPb0ZyRmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-12T15:03:07+00:00",
@@ -1057,8 +1087,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit und KI : Als Ärzte ihm nicht weiterhelfen konnten, fragte er ChatGPT - DIE ZEIT",
-      "summary_de": "Gesundheit und KI : Als Ärzte ihm nicht weiterhelfen konnten, fragte er ChatGPT &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit und KI : Als Ärzte ihm nicht weiterhelfen konnten, fragte er ChatGPT - zeit.de",
+      "summary_de": "Gesundheit und KI : Als Ärzte ihm nicht weiterhelfen konnten, fragte er ChatGPT &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNelRuVTEyTXA4UVhCaFFFN1hQQjdtOXA1Tko0eVZCR2FQT3RnMXVjNGc5OGwtMGV1amtZdUhZb1JiS0g1YWt4VHhzZGZfN2ZaengzX21HcTU2dEV1STNqbUFlTjdtRzNWTmxkUVRmRDQ4LVgzZUFxYTJZbTFITFMzaWd6ekFxajFjazBCeXNsX3g0Y2ZkNko2SjFQSjFzM19ic29NdU5xWVhWTzQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-12T13:14:09+00:00",
@@ -1507,18 +1537,8 @@
       "type": "News"
     },
     {
-      "title": "Blutspenden - Blutkonserven-Mangel überwunden: „Tolle Spendenbereitschaft“ - Gesundheit - SZ.de",
-      "summary_de": "Blutspenden - Blutkonserven-Mangel überwunden: „Tolle Spendenbereitschaft“ - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQzFpb1NheXRYOHBDelNSU2hSMnlEc1cyWnF4Z3AxQlpmQWNEMmI1Umk5b0RIOU1WTHpOQTRpUm1zNXpZLWNmUnlRbzZyRk9jVWp0TzdRcDEwdGRzNDZxZmUya21xUUpGUnpoZmEtY2xaSHh1OU1HdnJvUVdqQWNiOHFFbV9ZQ3RiT1VES0E2RVVKejJpeFdLSmZjTjFLSGNhN3ZTQUw2VHB6dkNrZkxCX0gtLVJHb2JqY192WUNJOXdqXzUzcDNXNXY5TzAyZmhuMDBfbkZxeFB1YlNrTXFFZGR3UWdUWXBuWTBGalJnWEw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-12T03:00:31+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit: Sachsens Kassen verteidigen telefonische Krankschreibung - DIE ZEIT",
-      "summary_de": "Gesundheit: Sachsens Kassen verteidigen telefonische Krankschreibung &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit: Sachsens Kassen verteidigen telefonische Krankschreibung - zeit.de",
+      "summary_de": "Gesundheit: Sachsens Kassen verteidigen telefonische Krankschreibung &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc0szUHBhZGR6UW0zd01JUUluQS1DWFFKZlRoMnNlM01aZFRlQVJlY0tLbEFWMi1oQU5iV3lrQ3hCUXZJSjZnNFRpd0FCTjNEZ1NZanJfTDZnQ3BtQjgxUlphd2MzU3NieWNBdmVna3ktbUJvNjBlSl9yTl9QcE9MSUhzTXFiN1RDbUhPR3ZIMGJLQk9KSGpz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-12T03:00:12+00:00",
@@ -1557,28 +1577,8 @@
       "type": "Studie"
     },
     {
-      "title": "Clinicians, beware: CT diagnostic accuracy varies by adnexal lesion type",
-      "summary_de": "The modality correctly diagnoses dermoids and simple cysts, but is not as effective at identifying other types of adnexal lesions...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15816937/clinicians-beware-ct-diagnostic-accuracy-varies-by-adnexal-lesion-type",
-      "published_at": "2026-02-11T18:03:54+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Radiology coding update for 2026",
-      "summary_de": "In a new column, Erin Stephens of Healthcare Administrative Partners reviews the 2026 CPT code changes.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/practice-management/article/15816942/radiology-coding-update-for-2026",
-      "published_at": "2026-02-11T17:26:21+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheitspolitik: Bürgerschaft stimmt für Zucker-Abgabe - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Bürgerschaft stimmt für Zucker-Abgabe &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheitspolitik: Bürgerschaft stimmt für Zucker-Abgabe - zeit.de",
+      "summary_de": "Gesundheitspolitik: Bürgerschaft stimmt für Zucker-Abgabe &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc0RoUExrbzZMN1NrOWRlZHhtSExkNVQyZDZGMVdxNmk4MkNhWDA3YXVuXy00V01CT2pqdVA5UE80azAzZ2FwaEJYcHdmMF9pNXl2aVFqcVc0cjBzMlQtbS1IcGkwMngySUEwalJjdl8teHZwMDNmRnBMRk1IYXg0aw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-11T16:15:34+00:00",
@@ -1708,18 +1708,8 @@
       "type": "News"
     },
     {
-      "title": "AuntMinnie.com Women's Imaging Insider",
-      "summary_de": "In this edition of the Women's Imaging Insider, we cover new research on DCIS trends, AI-mammography, wearable breast ultrasound...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/editors-note/article/15816806/auntminniecom-womens-imaging-insider",
-      "published_at": "2026-02-11T08:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit: Masernfälle in Europa sinken – aber WHO bleibt besorgt - DIE ZEIT",
-      "summary_de": "Gesundheit: Masernfälle in Europa sinken – aber WHO bleibt besorgt &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit: Masernfälle in Europa sinken – aber WHO bleibt besorgt - zeit.de",
+      "summary_de": "Gesundheit: Masernfälle in Europa sinken – aber WHO bleibt besorgt &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYXVaanBBNmt1N0lKYXBFNWxXSHJMSGVHX3htR0VzLUhETDJMZzRHQ2FCanduajI1WE1KTU1HQ1lPM0lLSVVhcVNYVU5MOVRCNlpMSkprSGVKVkRRdjZWRjdfSWZQQk55czR0TmlJeVI3UHNQMkdNUlIwa1dIVzF4T0lJeU5VMml2Ty1KeE0xVDVRU2M?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-11T07:00:07+00:00",
@@ -1798,12 +1788,22 @@
       "type": "News"
     },
     {
-      "title": "Krankenkasse für ein gesünderes Leben | BARMER - BARMER",
-      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; BARMER",
+      "title": "Krankenkasse für ein gesünderes Leben | BARMER - Barmer",
+      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-10T07:04:50+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Medizinische Leistungsangebote | Klinik für Notfall- und Akutmedizin | Carl-von-Basedow-Klinikum Saalekreis, Standort Merseburg in 06217 Merseburg - HEK",
+      "summary_de": "Medizinische Leistungsangebote | Klinik für Notfall- und Akutmedizin | Carl-von-Basedow-Klinikum Saalekreis, Standort Merseburg in 06217 Merseburg &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOYkREWVZuR2V3M0ZSMFBuVE1GN1Nxd2RPamprWUN5VTdjWUJFM2I0X2t2S1dPYmNiWkJUMFJRbFlvMWJSc2pKenNmX2cwV1duaF9HUTFtZWNuRG83bHROTGFwY2J0d2p3LVNCOUVzTnFTTnNIWThFYVVBY0J5VkxVUEVSeHo2b29maWlLc2JQdzFPaW9TWXVGbU95WXRCakpVcERib0FXVGtvaDczQnhubS1QUEhTMmg5eUN0ZS1ybjlzaFFqcXE1dnYwMnFJZWIyN2JRcTZKOUV3V2UwandNWXZsQ0RhcEQyY240cG90S3dJN0xwTVJfR1FNRTEyc0RhM3BjQmFVRjZNaHFmbVVhNDB2OGdaWnd4MkNNRFZqSTF1QkZn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-10T00:32:37+00:00",
+      "category": "Versorgung",
       "tags": [],
       "type": "News"
     },
@@ -1860,8 +1860,28 @@
       "type": "Studie"
     },
     {
-      "title": "Gesundheitspolitik: Günstigere Medikamente? Trump startet neues Regierungsportal - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Günstigere Medikamente? Trump startet neues Regierungsportal &nbsp;&nbsp; DIE ZEIT",
+      "title": "Klinik für Innere Medizin/Schwerpunkt Gastroenterologie - HEK",
+      "summary_de": "Klinik für Innere Medizin/Schwerpunkt Gastroenterologie &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZWprUzdXa2ZJZTdZbkREaWt0WWpvYVhUaW9NNjZEUWdMR0Y3N1ByclVoai15VjNCMTZjYXNnNW9vN3hLLTViVUFObHg0eGp1dDlpZDByTVBNYlB0YkFHc2lBWVNtMUZueVRjZkUwbFozOXZxN3JKOHJ1Y1hoRUVoU3V6RllFdTF5WUozcHFtd0dPSkpsUy1VOWptbXg2RmRodGlOajFSdFdrVXBoTUpvajA1WEd5a3QwcU14TXlaaU5EUm9lRmhKVElqVjZGX1liZmZUdUZ0ZlNZeTdRdGk5d3RyWktQUFd3ZWg0dElRbUtZaXFHZEY4QWJpWnVTamhETVQzWWt3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-08T12:56:58+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Klinik für Orthopädie und Unfallchirurgie - HEK",
+      "summary_de": "Klinik für Orthopädie und Unfallchirurgie &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaDZZcGRRMDJ5UjZUMW1rbmtKc3F2UkVETGhubUFHSjFpTExCZ2ZyWUJpdWpLSjRGYmtsSHpQbHMwaG9MWVhqc25pRGVVMTNnTzRjMXB6WnBBbHN4MVFvcTJyNU16dXIxQm9ZNi1lQ0VEQXV2cUJJSU9XM2ZRejM0SU9wRl9qMlJuajZfX1NLSTdSRmVWRlRnc2F2cG9DRkJ6bE9UTXFhT0dTUWNXWllCU00wN2E0MUtBbG5LNjdRZUluYWhhU2NaQWJscTFvTVNZTS1vYlJlZ1FCdFJHT1BRVEdFS21yaUttWWhGcHh3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-07T22:53:46+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheitspolitik: Günstigere Medikamente? Trump startet neues Regierungsportal - zeit.de",
+      "summary_de": "Gesundheitspolitik: Günstigere Medikamente? Trump startet neues Regierungsportal &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSm1pd3FxZVU5Uk56WlpMX252akd5OWs1QXlfYjBLakhmcFFBNXBmNnRySGhSbzgyZXdXRV92b0lwQnBSZlo5aGVkR0JaQnk3SGlrdko4UkJueWJIOU1mdnVGVFJVRkNBY0lPVi1QN3FzZTF5WGV5YUpSRy1QOG5SRG1TZkNWTEhXQzlvVjBZTElwV21YMkxJMEFNaWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-06T08:00:00+00:00",
@@ -1964,8 +1984,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Haldensleben - BARMER",
-      "summary_de": "BARMER Krankenkasse in Haldensleben &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Haldensleben - Barmer",
+      "summary_de": "BARMER Krankenkasse in Haldensleben &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMEpYclQxNFdvVkxxS0xXSUxzdVotR0FKellhM2R4LUlpUU5CZ05fdDBtZ25WUWlHOWlvU1hyYWhIQ1pSSllZeVcyeTZ4WmNzb2pQdzNOOEpHYy1IQ05namZ4S0ViSVNXWEVqQV9LM1h5Y21jZXFOQ0NhVHJDLWcyX19EWkl0NlJiM3pVcFBjZWlrRUg1Um5mRlRfS3ZmLXRBbHVDUWttcmdzWFc4VmZVZlF5SGlmMUZGdnJySEtiekFWUkE5aUd1ZkVaUEkzdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-04T08:00:00+00:00",
@@ -2317,8 +2337,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik: Krankenkassen planen Navigator-App für Rezepte und Arzt-Überweisungen - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Krankenkassen planen Navigator-App für Rezepte und Arzt-Überweisungen &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheitspolitik: Krankenkassen planen Navigator-App für Rezepte und Arzt-Überweisungen - zeit.de",
+      "summary_de": "Gesundheitspolitik: Krankenkassen planen Navigator-App für Rezepte und Arzt-Überweisungen &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFgxN2pZaEoya0UtMW01cm9PLURDUVZXUFFTTzY4Z05XOENVOUpBUzVkMHl6Wm5hNEg1dXVlVzdidjJfVUFEZHlZdG9KZUlaY0lkNVZ6UDFLakxtY1dtWUVQYzRTbEdWaW14RnBXcmlzd1NsUGRyaXNCTzJfYUJQZ3FKWjJzOFFPNHQwNm9wTnBPcDdxejNPajVXYlpGQXdUcnlQdTMxSTk0aVNodnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-26T08:00:00+00:00",
@@ -2412,8 +2432,8 @@
       "type": "Studie"
     },
     {
-      "title": "BARMER Krankenkasse in Helmstedt - BARMER",
-      "summary_de": "BARMER Krankenkasse in Helmstedt &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Helmstedt - Barmer",
+      "summary_de": "BARMER Krankenkasse in Helmstedt &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQVA5eTV5OG1KaEg5cjZoQXVjWFBjRU96WTlnY2hoaWgwZzBZN1NlSXVKVTgzb0c2T2l2TnhrOG13MEN0MWVibnUxLVNpSDJ3aW96b0NNTlJfenUxdTRhdkhXRlpVZUVWTU9PbktnbjczYzVGNUt5TlN5eDBSU1RNd0lNTlEtZGFnUTFTTzV6cFRVc01IaUVXelNxMmVJMGwtTDRxc0FlQmJMb0E4Y2VzdHJRUGlITmh3ZHk5Qk1iZVlDcVItb3FrYlhB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-20T08:00:00+00:00",
@@ -2422,8 +2442,8 @@
       "type": "News"
     },
     {
-      "title": "US-Präsidentschaft: Was ein Jahr Trump für Forschung und Gesundheit bedeutet - DIE ZEIT",
-      "summary_de": "US-Präsidentschaft: Was ein Jahr Trump für Forschung und Gesundheit bedeutet &nbsp;&nbsp; DIE ZEIT",
+      "title": "US-Präsidentschaft: Was ein Jahr Trump für Forschung und Gesundheit bedeutet - zeit.de",
+      "summary_de": "US-Präsidentschaft: Was ein Jahr Trump für Forschung und Gesundheit bedeutet &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZXozcWs5c1hlbFpZbkJQVDJWY0JNT0k4ZVhGdjJLTmNmTVlYT2JiOEMwV2lNUGI4dXNMaU5BMkYyYjlJSWJwTWl4WUNzc25sZ2JnUENabzhYYkVncjJIVlhVR0tYaDlDeHBuMHowTkh1YjM2eDAtZG0xcDZ3NkxUanNUdGJ2M2g1REl4MEh6dmdwOUR1Z183Mw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-20T08:00:00+00:00",
@@ -2464,8 +2484,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik: Beknackt sterben ist auch keine Lösung - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Beknackt sterben ist auch keine Lösung &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheitspolitik: Beknackt sterben ist auch keine Lösung - zeit.de",
+      "summary_de": "Gesundheitspolitik: Beknackt sterben ist auch keine Lösung &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ3RpM0ZnNENwV0FhOW54N2Z6bVA5MTFETzBVZXUtV1hIS3F3MzJxdi10LTRFUTJHRXlfRnJKT0FVMFRFQzJZNUhDZ2VxdWNVZzVqNEtHZE4zcTJGZEwwT08xM3Bqal9vTUE1SFJ2OElBVUFjTHVBb2xkOWpBNGNaa05SS0t1Qm94ZmNDMV9fNUtDYmVkdHRuNmd3azJ4dw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-18T08:00:00+00:00",
@@ -2474,8 +2494,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik: Beknackt sterben ist auch keine Lösung - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Beknackt sterben ist auch keine Lösung &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheitspolitik: Beknackt sterben ist auch keine Lösung - zeit.de",
+      "summary_de": "Gesundheitspolitik: Beknackt sterben ist auch keine Lösung &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbGp3dEV2aFpTeU05Rmt0UUtDNWxPR1ZIQ2hKaUxzUW00djJQbkZKSXZXYlRPRm14cV9tSDVrT2R6V1cwdklHSDBNZ1pPVEp0MzdOX1lmMFJNWE9YVFVGem9WSzd6S3hiYy1tbjU4RmxWWTJVei1VNWlpdVdoNmJtLXFNUUpCZlpSN3NSdmdoZnZLRFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-17T08:00:00+00:00",
@@ -2484,8 +2504,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Kitzingen - BARMER",
-      "summary_de": "BARMER Krankenkasse in Kitzingen &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Kitzingen - Barmer",
+      "summary_de": "BARMER Krankenkasse in Kitzingen &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR1VoMUhNSWhuM2JWWGtIaFN5UkU2N1RfaWI5cU1VS1Vxc2Z4OXhYZFlnb0hrNjZGd0Vvd090a2NXNGpIaUpGamJjeTNqUjdwUGwyRFRpYWpnLU9hUDJYZTJjN3cxS2htcDZvM3kwc2VGTnNCZWJGQ0NFMEFMb0xRSjZLMXBwbmxxd0syNkh3cV9pVERTWkJCWFY1SXVJVm14NXVNUzgwN2xfLUtRR0t3ME14N2VGLWx1ZUtwVkRxdHlLc1RIQnBGaTBB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2494,8 +2514,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Montabaur - BARMER",
-      "summary_de": "BARMER Krankenkasse in Montabaur &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Montabaur - Barmer",
+      "summary_de": "BARMER Krankenkasse in Montabaur &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdWx1eVdleVZaWjdqWExhNGtQSjFaUGJTdjNSeUt6bTlCM1ZYV3ZvYXA1LXdyU0JmcFBzNkkwMUpYcTZ5T3NaZm8tb1J5aFRnTHh6Tzl3dTRIZUZRVXNYcm85VkNLeTdMek9aSk56S0JyMnFpdVR1UFBBOFBqNE5zcVMyNXRrV25IYjk3cjJNd2pidHZRQkh2V0w5MlEyT0RwajRNeGlTRjNNbVJoYXFnN2R5RmJJeW9fOUczamtMbnVIbzd2NlYyZVZB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2504,8 +2524,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Aschaffenburg - BARMER",
-      "summary_de": "BARMER Krankenkasse in Aschaffenburg &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Aschaffenburg - Barmer",
+      "summary_de": "BARMER Krankenkasse in Aschaffenburg &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUUI2UHhxREdQNWRKbHVvNFJPTXBJNjFaUUFuTkNxR2VHbmtic19jR1d4ZFJQSGVoOHdubGdfU0hxTlZQcXBKck9lWHpnZmU2REdGM3p5Ym9SUTA5Z0xkbTBna2lyd3F6YVh3dzhqbFN2STF3WmlYeDl6NDdVcktLbzlNVE1qTG0wQnRLU2FmN3hTNEJOaDRySnBwTlE4LXV2NV9HZmFpcGhTUVRtek55QTFJbjZOUDN3RGUyby0wQW5VMFdubFQ0eUxYbVp6czg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2514,8 +2534,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Bad Belzig - BARMER",
-      "summary_de": "BARMER Krankenkasse in Bad Belzig &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Bad Belzig - Barmer",
+      "summary_de": "BARMER Krankenkasse in Bad Belzig &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMkJCZW5rRmtrVjBxdHBVT2ZQVThWT2lDNnFMbzlHN2Y1RWN3OWRYV0JHR1otQm9hbkZIZGhMSzAwdlN0Yl8wRlJIRnNCcjVFYlJUWWROd3M5b2Jaek80clJ0Z2xsQlUySmxiRk9VTF9GTkN3Q0RKLWstWTRaUlAtSVFfX1JsenNEUDRVLWtlX250aFFIa05qNlBZS1BHVFdmUlJuVHlFZUNkZkNuaFV3S012Umt2WlA0VV9tWUUxNGlVN29lR1BEZFg5MA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2524,8 +2544,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Tauberbischofsheim - BARMER",
-      "summary_de": "BARMER Krankenkasse in Tauberbischofsheim &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Tauberbischofsheim - Barmer",
+      "summary_de": "BARMER Krankenkasse in Tauberbischofsheim &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ0d1dGg3dy1FeDFmVmN2N0pBb2ZaWk5DVmx4anNDc3dZblVaVGUyNzc5S3JNaDIwRTY5NU5FZkhhSWJRVmczZThoc0FRbU9XblVXR2ZrRlFvVWdldFpldnFXbGwwUnRaZjlkRFVOcjhMQW5NeDhHaGZ5Q0V1ZjkzZ0dXRXBLV0h1ZVZoZ2xCVXduWnpvUXNmRkQ0NlBldi11VVpMMk1ZSlBzTENnbHVpM0xHSXNqelR3ZmRVTlZfZVFlM2xIS0QtbXg1cUlfWDRtTDNtbXlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2534,18 +2554,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Wiesbaden - BARMER",
-      "summary_de": "BARMER Krankenkasse in Wiesbaden &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSW93RmJ1UHB2UzRmbGdtNWZMNGZSWFNJbUtyVzJVOUY4MEtmOHpRb3B1N19wa2FPdTVQRDd0anh5bGt1eXAzMGVtYkJsTEllUDB1VVBYUFVHM1ZxVlVITjkydmNSdjJuOTVfVnhYWloxQm1rTmlFNWdiVnFNM0pYNkxDOE5HTS0zakdmOURINlN3NGpsYXVzOExWcDVBZi1vS3FSNEE2a1BwUWlDTEQzeW96bTJEQ0RYWUxYSVJvY0c3c0ZOVWdIbGJ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Worms - BARMER",
-      "summary_de": "BARMER Krankenkasse in Worms &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Worms - Barmer",
+      "summary_de": "BARMER Krankenkasse in Worms &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX0NmRW5CM3RsRmcwa1RyUjNROF9jX0hDTVpvblBjNUFxZ1hmcjJRb2I4Q3lHTTRDQ2wxZlZPQWJvQXJXX1E5VU9HcHo0WFdBUWV5bVVGSFhxTFBwVElHZ2VEN0xmOXNqaGxWN0tlSVJQbXAzUk1pckZuVGo2cVdaQ1k2OHJoSTVOcmNkb3EtU3U2dmVSN2I1VElfYk96Z0ZXXzhxakFNSWprVGw3UDEtaE1kVjJrQTdIZ3g0Q1B6alNaQl9j?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2554,18 +2564,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Bochum - BARMER",
-      "summary_de": "BARMER Krankenkasse in Bochum &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdHVRSHF1QjhSeFlqc3hsQkJkRjdvLUdETE94VnZHVXM0YWJhbjJ2djAxZTNIMjNYZ2c3MEdXZl9JbmlFT2xTNERVbUIyc3JfMmxNeVBBV1J1ZUNnQWJFM0l1cVpFYTFUb1hvbEIyWXBJRVFwSV9fNGdpNHotZE4yLXJ6eEs0Zy16aFBDdGZHX2l1WHB4aVFpUzZkb1ZDcnNLZkZaTVdabkVRSHlKcG9heWdra1B0c0lyRGhvR25kWHpPQ3ByeGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Borken - BARMER",
-      "summary_de": "BARMER Krankenkasse in Borken &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Borken - Barmer",
+      "summary_de": "BARMER Krankenkasse in Borken &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbk9KVzhmMlJJS0tOSkdYdGhBWk1TUEYwaWVxYTIwNjYxdXowcDAtZ093ajJ5U0xvTmZvTnZkOUY5ZmwzSEZxYURRU3RKc0FTNldTWnA3UllkdGs3YjM1OWNrYTBtLXB6SzRVNmF5VThEbWNISExiTXZ2VDZRY3ZQTUpzWnY1dGs4TjNkSDE0ZFBEeGktUFRUOUZOVER4QjZfWUxQSVotazRmWXhWSmJrZWNBS3BOajIyRHJ6RV9IRlVtNDZnZHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2574,8 +2574,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Aachen - BARMER",
-      "summary_de": "BARMER Krankenkasse in Aachen &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Aachen - Barmer",
+      "summary_de": "BARMER Krankenkasse in Aachen &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRUZMcnRoSko2YlVvNi1MM0kyQ1ViX0dZUmhhT3NRUGV2b0o0elpRQmFZUnRQSU01TWxfQ25XTzRsYkJoaXcybnNTMDZaR2FVMWN3cDBJakpZNDgzNkg3dVh2X2Nsb1lyQkxzeXV6QklsUlo3blBTZEZ4c1RFbFljcmtmU293Rm5kdlhZcmtKalk5MlQtSVR6UnRZR1B3a3VTSUVIY20yRU1NZ3p6NFBsUWVSZ0NueUUzcjNPY2plRHFadGJwaWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2584,8 +2584,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Plauen - BARMER",
-      "summary_de": "BARMER Krankenkasse in Plauen &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Plauen - Barmer",
+      "summary_de": "BARMER Krankenkasse in Plauen &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZVY0anFmRVRNRnRUczVGenZ1ZjJvYldZWUVBUTRKWExFX1QzZmt3WG5pWktTREhnQ2g5SXVEZWQydVQyTTNTTEdlMDZDdXhqSmY5U2RQanVEZS1teTVna0JaZFV0djMyVFpGbGM4ZFBxNmIyR2p1TnhIVF94V2laREJTYUFfVnlILWJ0VDN0RkxSU3FnRDVKb0puWmlkYU92ZnBybFFpRjA0RlZJODV5emVrRGJSM3FFckpWN0FvUXJLSW01dkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2594,18 +2594,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Freising - BARMER",
-      "summary_de": "BARMER Krankenkasse in Freising &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcGhvQzdDdzJtMTNldk5aaTdkVVdhenVKSWYwVnlsVlgyNWN2c1hleUVUMVdLcndMSzRjdnc2VHRZZUdBQ3BDWXdBd1RfOHlPZzNjSGdyb0tELW9lQU1vRWdtM0g3eV9COUU1ZEE1WjBacEhqVEJIc3p5cGlKQnptWnliZDQ4X3FFWk5YWkR2SnZ4amFQSkl3WmNjZHdheEtHRXlBb0dXV0FMcXNnekFJdUlib0Y5a0k5SjgybE1RSjlZVW5NMGpOUA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Tübingen - BARMER",
-      "summary_de": "BARMER Krankenkasse in Tübingen &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Tübingen - Barmer",
+      "summary_de": "BARMER Krankenkasse in Tübingen &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa09tbWk1ZDViYlVFcm9qYXZ2LWczNkViaWlVenlNZkVTUFdYOTVtWkl3T3lQNTJTN2k1RGszQXZzUVQ4bmRCSVItemE1enJGNS1ESXUtdjlBeVlxRWRzTVVzWnVqcUxKQmJ2Z05XdEFqandmQVZoNXlqOTlkWW00Q0h6RVNTbjVlVjZxQU1jcE54QXBFLU9sZ2paYm91R21yc2pBNFJ4dTVXd3JFaVllVW9LaS1VbDRsRmtuV2JSMGhZQnR2Znk2RzRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2614,8 +2604,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Wittlich - BARMER",
-      "summary_de": "BARMER Krankenkasse in Wittlich &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Wittlich - Barmer",
+      "summary_de": "BARMER Krankenkasse in Wittlich &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVUM1c1NaOUhaR2NyTjFWUEc0b0ZrWUVhaGN6T3lzc0dISmdBbTRfZDBXeUhQR2lDcjc0OW5fbTJZbVhyQ3NKdTh6TmdFZDlkR29nQmQ2THIxY3lkT05EU2tncjZQdmxxSTR3bWVQeG9GNGhTazVDNVBuTF9nTVpYWEo3R3lYOG9MZDJvR2NXcWp2VGV2X2xsLXNKY2JJNTRRQk4xTVRCQjhVYzUzVHhCOExwV2VwTEQxSlVnV244QVY5dDQ3YmM1ZQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2624,18 +2614,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Siegen - BARMER",
-      "summary_de": "BARMER Krankenkasse in Siegen &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRnFyWmlNR2RibzRVX0lKa1BBdG9pVDVCZEdCNGNRRTZrOThwX05xUkNGQldSblA4STBoMGN1N1JqaFVGbl9KVXF5cG5xQjZYenZOLWxCZXFJc2JwQUNCTm1xQjM3MkR1UEcxekUzNktESFZnNnlSTFppaVVNZDl3dUZuTWJFWGF3dmoxVlVFODdhVFVPdGF4aGVIMWcxNEwzR3NHWUhxdmc0dWF3OEtzNEdFRXZmeWU2LTdqV1hLeUZyUHlFSGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Lemgo - BARMER",
-      "summary_de": "BARMER Krankenkasse in Lemgo &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Lemgo - Barmer",
+      "summary_de": "BARMER Krankenkasse in Lemgo &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ05UU21KWjJERXJYbklCM1g5bDAtenNDdF9KZXJEcVhHRlBMZnc2Rkd4M0QyYkM2bm9vZlRqSDlyUGFZWk1hN19vbFZ2WDhUZUZvWF9jLWtYNHhTMHhKUnltU3JIVlltYUw2RjByWE16cVpqODFEdFl3RkNsbXFjQUhzd2V1TmNaNlphemd4aG9fcTdTOW01OVU5QUZObktDNk5nRnN6Y2xDRHdkdWJkSEJ1MXlIeWE2Rl9tNmh4Nlo5TUQx?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2644,8 +2624,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Oldenburg - BARMER",
-      "summary_de": "BARMER Krankenkasse in Oldenburg &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Oldenburg - Barmer",
+      "summary_de": "BARMER Krankenkasse in Oldenburg &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3pjZUQyVU0tVlctaG9OeEdRdFd1cUpWTFBtdDRiZGkzZ3VBSFMyUHNMdDF4aGlqRzI1OV9vQ0JXUmt3QWQ4dUh4em1Oal9VNXFqTFNhUmNHUzV3bHNEaVRjdzhSTFdOV242VElqNk9ZSlI5LVlJSHRUSVpuLXIzR1N5eWV1cW9udXR6UVZNeU1QOWxiNktuY2V0UGt4S3luMXZVY3dJVWhGUUduc01WZDl1TWxVSmFPd0Q2MHZhdVAxNnAyRDA5TDd3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2654,8 +2634,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Bernburg - BARMER",
-      "summary_de": "BARMER Krankenkasse in Bernburg &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Bernburg - Barmer",
+      "summary_de": "BARMER Krankenkasse in Bernburg &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT1lPQW9JVVUzY084MlVwQ2x5SGx1dmlDZXJJWXFMTUszNnZEaGoxZUhYYlF2SXZWYmVqbThjT1ZOdEFGME1IZmhnY21UN2ROQ2JKcHYtek1JS0pGTEhXTlVXR1hhekQ3SjRxMVptcGYtVGZlbVdTdEpnYWY0UFRxQjdMVFlsWEo2dW93WGk5VXNmOER1U2hrbDItamFsM1lURkhxMGNzUWpiSkhfeENkREVlcktVUmZicmtqa3NBLXJUUTV2dWZPUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2664,8 +2644,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Solingen - BARMER",
-      "summary_de": "BARMER Krankenkasse in Solingen &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Solingen - Barmer",
+      "summary_de": "BARMER Krankenkasse in Solingen &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa1NxejZWbGZScGkwLTlzaTh2YnlWeF82UFNOd3R1NGxubWpzUVpaOElFOHh3M0QxZy1HUFlwLXdpdHBNYWZoMjRIRWN4UWFXeWdkZWVtemRIY2FaS25qc2N6cWZFQ1Nmbk1sb0VqdzdzbmhpektvMVFVa3NndFVhcFRtbkJrbDdwdDBLSzhEU0R1RXVwd1k1bFN6UnEwMVI5NWEtSkNHN0FhbnpFTWIxaDVkLTMyVXUxZXlxVXpEbV9CZ0s1cGN0cQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2674,8 +2654,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Schwäbisch Hall - BARMER",
-      "summary_de": "BARMER Krankenkasse in Schwäbisch Hall &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Schwäbisch Hall - Barmer",
+      "summary_de": "BARMER Krankenkasse in Schwäbisch Hall &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRzExM0U0UUdacmZhRjNJWkdhaGlYQjFiU1p0Y20wUDRnN0JkWjlXUERYS3BPMC1BWEhyekhZc1JSRG8zd2llV2tHMUJ5dXpTWkFjU3RsZlM3VFBmMkgyMGx2a0JIU0NZWld2bmFzNmljU2hscVh0YS0wWHhJeWluWGFUS1NsdjgzS1NsT1ZyTkU3SDlkQTlCaHEtWVFMLV9rWUJzRGgwSG1ZQkRpazZFeTQ3eXBhU1VSNUdYMXJKNGJIemlCTE1LakEzVmxwSVV2d0RV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2684,8 +2664,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Karlsruhe - BARMER",
-      "summary_de": "BARMER Krankenkasse in Karlsruhe &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Karlsruhe - Barmer",
+      "summary_de": "BARMER Krankenkasse in Karlsruhe &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU3Jlc1p3Z00tV3I4M0RCWk1nQkZ4R3Q5eHd3Wm9hamFQeWpQa1g4ZVVjYmtGMnpWRkdUMFhXZjRnTUdCYXdRT0ZzYmRZemxqMmJtS3hMRXU3REJ5eXBJQWJTNWY0bnNnRkVWZVZYVVJKNmc0SFE5NTFuUmtxWWltcW9XSTZQdE96dm02aDhzR1V1TzFjbWV3QkJZdnNFbzBydDJaSlVpREtNaDVrUUcwQ0pMZWp4MGpabzRSX0J3SU4xWGVmbldvZjRR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2694,8 +2674,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Suhl - BARMER",
-      "summary_de": "BARMER Krankenkasse in Suhl &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Suhl - Barmer",
+      "summary_de": "BARMER Krankenkasse in Suhl &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTnlEaF9VbjN0SFZXN1diRGdVbUtYWFlJdlhLV29URWhoOEoxM1hpQmNKcUROd1NTc1pVcHlRcmlRbEFOOUxhQ1V6QV9HaFVoaWlHYk41cTVKdVY4ZDlBLWItT3NmajdheEFWSzIyMmJIRDliU2tWZWE3Uy1KVHk2d3N2MjlfSHI3MlZnN0EwOW1vZzJIbWdUaWpCcEc4a3N0R2s1R2toZmFXcHFmcFE0dXhCb2RTNTh4UmozNjl0aHVJQk0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2704,18 +2684,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Freyung - BARMER",
-      "summary_de": "BARMER Krankenkasse in Freyung &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVnQ3UkFZRHl0c0N1MVhKbDZLRVJTcFVYVzFZOEpPbWlqTnU0V0RpMVl2dDN5bmZrTzRhUFlna1F2Z2l5bVJiOGVINjAwOHM4YjQwcWYwU3hhaWJXNFowT3o2dGt2ZU54RDQzeVFmNktEeF9qZlk3REV1Sk5HcWQwVEZvLVlMOU1WRC1OUG1XcHVTQ0NIdUVxU2RBWGhvR0ZMSXdDd2xLckJFMDcyZXd2amxGNjhYaFJqNXFKWTNIRVM4RWlnN3Vn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Trier - BARMER",
-      "summary_de": "BARMER Krankenkasse in Trier &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Trier - Barmer",
+      "summary_de": "BARMER Krankenkasse in Trier &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUG9VX0l0dUNqcDFrdldhdVcyMlJUaVU5U0x4QlFnd3dGVzMzRW5CMFZEQm5IWlBVNGJralNwLXdmb0hXbHktNjBZN2tFWHNjRzR1VEFRQVlQWGQza0RNdm9TTUY2Z3dwbks1a0luVlJ6bWpSLXlCU01LSENKS3dmd1U1MkcxWDUxd2JHX21BNkdPeTRVNnc2MFdVMTRiRUVjM2cyRThiWFJFTVNNb0tDaHhpbGNlbm9YZ2RNSGhFSC01eDVu?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2724,8 +2694,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Berlin Charlottenburg-Wilmersdorf - BARMER",
-      "summary_de": "BARMER Krankenkasse in Berlin Charlottenburg-Wilmersdorf &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Berlin Charlottenburg-Wilmersdorf - Barmer",
+      "summary_de": "BARMER Krankenkasse in Berlin Charlottenburg-Wilmersdorf &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcDRmaldyaEp3TjhHQThjdkYtZ0M4d2ZBQkhqTk1LYWZqR0l4Ym9iWWlxV0h1MTNGOXYxdkFpYU5yRnp6UlNlU0tkd1ZuRTBMQVB0UzdIV2pEMGdTTWRzbGFBSUpEUVZ2WmJGblhkbGh3YkZaWDhHbUQxNkJWcUFId292MGNma1YxcDRvM2ZwcmN3Q1ZuQ2x3dzdlcENFd19MNS1zSEtPY2swbkJRbHU5SkNBaHE5dUVIbGJvb1B3b01EbDFTZjMxU2RGZG1saDVzT1gzZVhERTNRX25WOUZBQ2pxbzZvV0FlOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2734,8 +2704,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Lübben - BARMER",
-      "summary_de": "BARMER Krankenkasse in Lübben &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Lübben - Barmer",
+      "summary_de": "BARMER Krankenkasse in Lübben &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdVdJU1ZMWW1RcmdZbWxRSXNoNnRoaDBuN2k0b2x0YmZaXzh2ZG1jaV9ELTVUUFZsU2djUzNhWU1VNlBEa2k0NTMwRWRSMmtjWnN1S1BrT3RKRXdQc3VDekV4TGZhWjFpbnRISmdiZDdrUVhVWjAyb0hHUjF5RFdpN3JHUjlkdGhSNGkzcV9iZVU2UUc2N2J1Q1NaaXV0MXFYLWVWclhERXdhb3JkVk1lRjhtQ2hKMy1ucHJtOW9aZF9ySnBQUW5j?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2744,8 +2714,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Ansbach - BARMER",
-      "summary_de": "BARMER Krankenkasse in Ansbach &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Ansbach - Barmer",
+      "summary_de": "BARMER Krankenkasse in Ansbach &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT1RVQUFudjJJRE5WZzcwRTYzLTZ5RVlFemh4OHRwQzkwUVYtbmtuQS12VHhhVkZKWm93aE5XWDhoNF9ya0pXd2stWE9Nanp3dWZDX08zam16cDV5a3NOLVFMM29TQzQzY2dIQmJ2WVNQOHZXcEpuZXJYTThOZWR5UjEwTFVoMWVSeTB2N0dTeEhBWC1lUV9kZ0ZWdXI0MzZCbDFKM2xCY0ExUWg2MDFiYjZkd0k1XzBsclRCSkVNV0luVUxUQUxz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2754,8 +2724,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Hamburg Altona - BARMER",
-      "summary_de": "BARMER Krankenkasse in Hamburg Altona &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Hamburg Altona - Barmer",
+      "summary_de": "BARMER Krankenkasse in Hamburg Altona &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMl9MLUpZdkRiNFJUQTViQ3lHdV8zVV9tVFFxcHZ3azNURzRoYUNqR0E5TzJWaVRNUWdQbDJ4VVcybGpQZHNsMEo4NnZVWGFieHdzbHRMQ1k3Snc5YlRhcTBYZ2RtVDIwbTVBWUdqM1FJMksyV2hEZ21FSEpOWEFZTXEzWjdaSjVHMWpNRUNqajQ1a19aZ2c5VmdYaE9NZzZWdUJYN09fV1ZoYlJFdWZPbGhVcjVCdjE1TDAtQ0tRYjk0OG8yaGZUQWhsZzR2WHpl?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2764,8 +2734,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Leverkusen - BARMER",
-      "summary_de": "BARMER Krankenkasse in Leverkusen &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Leverkusen - Barmer",
+      "summary_de": "BARMER Krankenkasse in Leverkusen &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS2VKYTJ4QTZrU09PMDdlR05pVUxnT3dQVFBWNWRnaG95enI0bm5idklMcnFKVzRRWnVWcHRueG5qM0tiUzVVNFlOX2JESzlQblpDN1pGX3VtemNOUUI4VEx4cUV1TE1ZZVdkeG9xdTM5TkRqU2Vya1BKR2ExUHR3cWhnbkVob0ZiZHZUa083eWgxYUlhUTBhUVlfRHh4X1NoUTNzVWN1Umtmc2NqbUhINzhzQWpZOERyZzVSd0syYVA2RFVaWGxVSjVOaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2774,18 +2744,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in München Mitte - BARMER",
-      "summary_de": "BARMER Krankenkasse in München Mitte &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRVhFQjFOWGsxeHA2WTdrVnBqbFJkRjNTYi0wTVNfYnA5TC1zSmVGQnBpdkw1UzQ0UkdOTXdzcXpXN1JfT0R4VHRPU09rRVA2N1g2ZWlrRnB3OUhPaVpWVjFmV2FRTmZtdXdLWTQzb3N1Z3ZVVjJHYXItV1V2YTRTakF5TDNaRFpfZUtEN1JZbEhvLVBCNUtBT2pRMTBsNGxUejRQNEsyT2lEM3oxZ2p0Zmp4Y1l5YVc4RGV2aFFDZElZdUV2ZERVTnV5TTVKNkZu?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Eberswalde - BARMER",
-      "summary_de": "BARMER Krankenkasse in Eberswalde &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Eberswalde - Barmer",
+      "summary_de": "BARMER Krankenkasse in Eberswalde &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbi0yRkIyVTBwc19UV05LLVc0X0Q2c3ZkalpiWHFsa2oxZTFTeVA4SF9mdGhWWVFpcDA5bk0tbzM5M3YtRVluN2RYWXF4VTRXcVB6eDVEVVA1eENjWnhXWWQwam8xeWlCSVlnTkUwNVJ4LUdFbl9zdk9YTzlLWFk0ckhOVkRDUGx0dE1wTnI0OVh1YjF2eDJidE9sZjVLQ1lUcVFRTFlMOUVLbFU0VUZvSnJXb2tPRExrNXRpMGViVDdsRVdIT0tIMHh2RQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2794,8 +2754,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Falkensee - BARMER",
-      "summary_de": "BARMER Krankenkasse in Falkensee &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Falkensee - Barmer",
+      "summary_de": "BARMER Krankenkasse in Falkensee &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSlpMTEpmenJXcnJNTnVKbmlhYmZIZFhqYWp3eDNaQl9tMmxNWlRoNTdzS0xrbFctZWlxVXVEVHllUDBLeDFhT2xJaTltX01Ia1daOW40eXFSM2tHVlRVT2lXS1BWN2pvSDVDXzl2SmpEOGJXbGQtMjhFZ3hCM21abmVFeHI2REZZYUJfT0I0WHdTcEtTMFJfWFFKODFQbEswZGV3ZU1sMXBYRUxwVUY3WXFHZS1UYjZVa3c2YTFCY2FHbmQ1M281cmRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2804,8 +2764,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Zittau - BARMER",
-      "summary_de": "BARMER Krankenkasse in Zittau &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Zittau - Barmer",
+      "summary_de": "BARMER Krankenkasse in Zittau &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONmpRWWF5T3JZb25XQnRGUGc1OUtVM0tZZEdHUlhfNVNFYjRJWGp1SFVOTmtwajg3LXlLb0pxMmdoZGc3dU1KWGVmZUtSWTZjelBrbEg5OF9nczh5ZEdzN2ZILXZQSjRfVlFtTE4tZXRtMHN5SVVJRFMtVTNWdkFScjcxWjg1VXk0Nmh1bjhxZFJqaXpKbi0wbnFGa3k3RmhXMDFSZEl6bEpySHc4SXdUNllVQ2ZRbGxyNDdGdElYX2NLc2JOUFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2814,8 +2774,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Halberstadt - BARMER",
-      "summary_de": "BARMER Krankenkasse in Halberstadt &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Halberstadt - Barmer",
+      "summary_de": "BARMER Krankenkasse in Halberstadt &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLVJjbnlReFNsUUFKalF0Qy1PV054MkUyTDlROUJGUTdOeUlEQ3NYRW9xWGNCYWFldllxeXpxQmdyRmdIekxQaVJ2UXNGS3A5R3JHQXIzcHQ4YjFoYTRNbXlvRVpPY2FiQkRLVEVkNU1hcWZDTjVNTHNzNmFGMkhVTEotZU9PbVYwOWhSamJYdUdlMnZhUmJMQnhUVzR5UVpxZEFkNXR2ZWN6ejZBbU1qVmtzX190ajI2M0g2VDBvYnJjazI3SFo2LWN4NU4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2824,8 +2784,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Göttingen - BARMER",
-      "summary_de": "BARMER Krankenkasse in Göttingen &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Göttingen - Barmer",
+      "summary_de": "BARMER Krankenkasse in Göttingen &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZzlPUjJMMFV3MUJnYVpzUUVTby1TNnJoR21DaC1YSG9zdFA3eS1qLUZYWktNanYtbEMwR0ZKZ3J1WkdLSWdydElwWVlJc0YyQWlrUGNHclBrT3NUWGRwRHlGdk1icVpjMjJxQUNiRGx6THhFR0NkX002NnM1WVVoZE40SzhQbDZHVEtuYVNzQU1OZW5hcUtnV05MbzJGc2ZZZFpCbUVXVkFxQUlheUtISkg4R2xqb3c4a2twdGg5NlNxM2s1dkl4Z3RwUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2834,8 +2794,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Offenbach - BARMER",
-      "summary_de": "BARMER Krankenkasse in Offenbach &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Offenbach - Barmer",
+      "summary_de": "BARMER Krankenkasse in Offenbach &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNnZkcnI0N0pfV09jOVdhcC1TUW5lMzMzZ0R4eXVxLUk2WW5zbEhwUHlBcDhXMHBMejhfREFmb3BPOG9zcjFOM0hhZkxFVGF4M25HbVRBbWN6NDJBS3hjNDJRSTJpYVdjcnZfM0VDS3RFQmItX2RWaGF0NlZ3WWRodUlURVZmYnpUVDFqelNENlQxR0Z2N0hGWDk1Y1NMcmRkRmRpUEFPTlZEUTg1d0hFMVh1WV95bEctSzBvaXpqYi1hTFV4RU02QlV3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2844,8 +2804,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Waldshut-Tiengen - BARMER",
-      "summary_de": "BARMER Krankenkasse in Waldshut-Tiengen &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Waldshut-Tiengen - Barmer",
+      "summary_de": "BARMER Krankenkasse in Waldshut-Tiengen &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQVcxVmxfRHNQbExsdm8xQ0ZYdFhMaktsaVFnZUh3MlBVUDhIRXhYWk1wckN6eEZHMEg5SU9oejRRNm9USUt5TDluTGVPb012cnBZTWl5RVB3cGc5b2dsbmh6VGE0eW05SHRlcnduc2picEVsd2NGY1JKUGdIQnczd2JyMkYycVRVbUJSWG5yem1ndm82TkdsbEFxdkJ3U2pRZkxoeXRUYlBTY2haRmFyaTRqdVFtS181OER3MVp1ai1faXJ1dUZEZmdUTS16RlF4cFJv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2854,8 +2814,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Osterode - BARMER",
-      "summary_de": "BARMER Krankenkasse in Osterode &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Osterode - Barmer",
+      "summary_de": "BARMER Krankenkasse in Osterode &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdG1KdllLZHRwYjhOeXlyT0ZVQVdxUEYwWUllZTdjdklwWE5OX2RvbTdaeEh2STZkdEVrbGFYUFpqS05rZXItTi0xdW1mWWhJNE1kRDM5YVF1V25WRGY3YjZpYmxBSGtUSzA5dGI4eGphVG41SVkyRFpNMWxzMVRXdXIwRVlPNTNWUmVTTmdrb213M192Z3dwSl9LalNwS1ZxVnU0UlNLSzBHV3JnN1MwVzNSbVNyN0loZUFTZUlBNFBnZG0weUVrVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2864,8 +2824,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Dortmund Innenstadt West - BARMER",
-      "summary_de": "BARMER Krankenkasse in Dortmund Innenstadt West &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Dortmund Innenstadt West - Barmer",
+      "summary_de": "BARMER Krankenkasse in Dortmund Innenstadt West &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUmVQTTFSWGdabm12eGdiX2txY2hpTkJhakFodkpsNnlfOG5nQU9oQ2RUME1WSjBIbGhfVjNfSE9lakZXbnU2ZF91OFdaNXhGcXZpWUI1dGJEem9RREd6YTc3a1R6dzE2eTZqbGk5MUExbUlsd1NMUzhYQl9Pb2JLU0QtWlpSbDN3ZWRyQ0NFeHFkSzBSaWppRU5qZnRnYzBpOFhuVGFXWHU2VkJRRE9UM1dZS3pOQW84Qk45X1o1NmR1ZHFoZHFWX25kelVmaEI4MmpoTXZRcDBZV3pkRUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
@@ -2874,12 +2834,22 @@
       "type": "News"
     },
     {
-      "title": "Übers Dach eingeschwebt: Poliklinik Chemnitz hat neues MRT - MDR",
-      "summary_de": "Übers Dach eingeschwebt: Poliklinik Chemnitz hat neues MRT &nbsp;&nbsp; MDR",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWVZtaGV1VERmaXl2bWVaMFJLMlVoLWNWdDZoY0NkejZGR3V3Qk5SUmlqNXJyRFJhamFxdndEY3RUSEpVM0JiNDdjbXB0YlVhRlJRdkNIUHd5WXh4NUUtQ2VQVkt5RFBXbnBWeTZiWFVLa19hbU5PZ0hhVHdlMnZuVWN5QWxYNEpQdnVVM1NucnFlR0RC0gGaAUFVX3lxTFA0OFF4Y0lEVklXWjNoZHc4ZTAwZnR2aTJ4N0p1WHU1ZmJMemo0TGl1VHFva1A5Z0dmbXhwNUZUWXhIN2lHZ1I3c1U3ZmxhWUR0b0pOR282eEhwS2FhZHI3RzdjbUtDeE1rQ0V2Nm90Z0VWR2lDOGJNV01lM29HczctOGJvbWotTjNEd0VsUHFhVVRVeDZNeTRzcWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-14T08:00:00+00:00",
-      "category": "Radiologie",
+      "title": "BARMER Krankenkasse in Memmingen - Barmer",
+      "summary_de": "BARMER Krankenkasse in Memmingen &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWUc1R0R6VVlZMTFVZFF5c2c0WUdpNFRJUG1OUnpralJpeng3bmpsbFRUNU54QW1BdURzbFNONkNTN1E3dkJFcWRuWWczM29uMUk4UFNtdEdsREdvckxTVDljS2VGWGpsRmpHRnNRWFAtXzNKS0FEeWw4aHJuc1gtSDNEUE1MSWxPeThPZ3FvYUxlYl9URFgzMHlHZ1djOV90SGlTVU1FdXd4UWxBb1VIanlIemNWelZheWVzSXB6US11U3Z1N0JYd1Zn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "BARMER Krankenkasse in Görlitz - Barmer",
+      "summary_de": "BARMER Krankenkasse in Görlitz &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbEtVb0tOWloxTjg1X1V6ZThEQXZDbFRodUFUcHlWM3VOUEFtakFmVVJETlRsTTgwWGJENDJYRDdzN2p6Y3VtVUNtN3BhSTl4RGZTWkt3ZF9IbTVoY0RhNXJOTHR5QnJvTjBpMnZnVXN6Y1o0OVJUNmoxcVE4djFrM05renZMUFJYSVlIa3FITG9RQ3Q4WW1KZ01NUDJfcVZwNzVnQ1BjckRYN0o5ZmV1My1POWkwUms4UFpnTWs0bHVwVWFSSU4wcQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2930,8 +2900,8 @@
       "type": "News"
     },
     {
-      "title": "Beiträge zur Krankenkasse: So teuer wird Ihre Krankenversicherung in diesem Jahr - DIE ZEIT",
-      "summary_de": "Beiträge zur Krankenkasse: So teuer wird Ihre Krankenversicherung in diesem Jahr &nbsp;&nbsp; DIE ZEIT",
+      "title": "Beiträge zur Krankenkasse: So teuer wird Ihre Krankenversicherung in diesem Jahr - zeit.de",
+      "summary_de": "Beiträge zur Krankenkasse: So teuer wird Ihre Krankenversicherung in diesem Jahr &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORGcyakRwSFhRVmxvZG9xSDNQV01xUTI2YWRpN3czQVpPQnB0eW5yQi1Fa09FdER5bDl2Nk0xVmdfRGQ5U0lwbXBsQ2lqOGY4Q3dnRzFXZzhWQ29RVTVaRHhiV3daV2phQjBUTTN2VVRLRm5XVUVUa2JCRklUNGxTNGlscGFhLXNYZzRmZmMtQ1dGMDVI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-07T08:00:00+00:00",
