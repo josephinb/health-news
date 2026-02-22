@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-02-22T04:44:46.894713+00:00",
+  "generated_at": "2026-02-22T06:38:26.004216+00:00",
   "window_days": 42,
-  "count": 296,
+  "count": 310,
   "items": [
+    {
+      "title": "Kinderarzt in U-Haft - Missbrauch in Klinik? Wie wird der Kinderschutz überprüft - Gesundheit - SZ.de",
+      "summary_de": "Kinderarzt in U-Haft - Missbrauch in Klinik? Wie wird der Kinderschutz überprüft - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeWRERmhlMGIyYXo3T2NnX1JSbmU0MFZoNVJ6TDJ6Z1F1TE0wYUExVkZuUVJCM0lpUUpDVmtuamMzM2FkbzBJY2psM2FYR1lzZDR2Q3NRZzBMWXB5eUk3T3RHNDZ3dVdpZ3ZubzczM2dlWnRxLWlvWVdyS2VRUlQ3SGxQaEY3VWlrNHFIdWViRzdfT1NiRnRhU3M4WUx1TGtmQngwcmtBQnItN1ZkZlNkUU01MFhsU0RMVlNfSDRhNEVlWnlJcG56azFieUY3NEJRVnZyYnNZTHJXX01oejExUXFNdnRqNHZQajZSQU8zdG9VZjhNb2NLZDVwNDg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-22T05:00:23+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Regelbrüche während Pandemie - Mehr als 1.000 Verfahren zu Corona-Verstößen in Hessen - Gesundheit - SZ.de",
       "summary_de": "Regelbrüche während Pandemie - Mehr als 1.000 Verfahren zu Corona-Verstößen in Hessen - Gesundheit &nbsp;&nbsp; SZ.de",
@@ -92,6 +102,16 @@
       "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Week in Review: The rise of theranostics | Breast imager shortage | new Ultrasound MinnieCast episode",
+      "summary_de": "Part 7 in our series 'The rise of theranostics' and a new ultrasound MinnieCast were among the top stories on AuntMinnie last...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15817829/week-in-review-the-rise-of-theranostics-breast-imager-shortage-new-ultrasound-minniecast-episode",
+      "published_at": "2026-02-21T08:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "Medizin - Modellstudiengang (Staatsexamen) Universität Bielefeld - HeyStudium",
@@ -376,6 +396,16 @@
       "type": "News"
     },
     {
+      "title": "PET predicts faster cognitive decline in women than men",
+      "summary_de": "Women initially outperformed men at low brain tau levels, but the advantage diminished as tau levels increased over time.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15817814/pet-predicts-faster-cognitive-decline-in-women-than-men",
+      "published_at": "2026-02-20T09:57:19+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "OTC-Versand aus Tschechien: Dm-Manager hinterfragt Fremdbesitzverbot",
       "summary_de": "Seit Mitte Dezember versendet dm OTC-Arzneimittel aus Tschechien. Das hat inzwischen die Wettbewerbszentrale auf den Plan gerufen, die gegen das Modell Klage eingereicht hat. Die Drogeriekette versteht sich derweil als besonders gewissenhafte Versandapotheke, vom Gesetzgeber dazu gezwungen, das Fremdbesitzverbot zu umgehen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -386,12 +416,32 @@
       "type": "News"
     },
     {
+      "title": "Unclear explanations of contrast MRI exams heighten patient anxiety",
+      "summary_de": "The good news is that this anxiety can be mitigated by a thoughtful and thorough pre-exam orientation.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15817778/unclear-explanations-of-contrast-mri-exams-heighten-patient-anxiety",
+      "published_at": "2026-02-20T08:04:30+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Botendienst-Korso: Apothekenprotest beim CDU-Parteitag",
       "summary_de": "Vor dem CDU-Parteitag in Stuttgart findet zur Stunde eine Protestaktion von Apotheken statt. Botendienstautos fahren um das Veranstaltungsgel&auml;nde in Stuttgart.&nbsp;",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/apothekenprotest-beim-cdu-parteitag-162978/",
       "published_at": "2026-02-20T08:00:09+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Mammography screening improves survival for late-stage cancers",
+      "summary_de": "Women with screen-detected late-stage cancer have greater survival compared with women who do not undergo mammography screening...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15817774/mammography-screening-improves-survival-for-latestage-cancers",
+      "published_at": "2026-02-20T07:33:57+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -452,6 +502,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/welche-supplemente-sinnvoll-sind-162974/",
       "published_at": "2026-02-19T17:00:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Radiopharmaceutical therapy use increased 20-fold over a decade",
+      "summary_de": "Intravenous administrations of cancer therapies such as Xofigo, Lutathera, and Pluvicto have increased by more than 2000%.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/radiation-oncology-therapy/article/15817592/radiopharmaceutical-therapy-use-increased-20fold-over-a-decade",
+      "published_at": "2026-02-19T16:50:53+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -758,6 +818,16 @@
       "type": "News"
     },
     {
+      "title": "AI accurately flags follow-up imaging recommendations",
+      "summary_de": "An AI agent significantly improved the identification of missed diagnostic opportunities in radiologist notes.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15817694/ai-accurately-flags-followup-imaging-recommendations",
+      "published_at": "2026-02-19T10:10:47+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Aufbewahrungsfristen: Was Sie 2026 entsorgen können | Die Techniker - Firmenkunden - Techniker Krankenkasse",
       "summary_de": "Aufbewahrungsfristen: Was Sie 2026 entsorgen können | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
@@ -807,6 +877,16 @@
       "tags": [
         "Europa"
       ],
+      "type": "News"
+    },
+    {
+      "title": "SCCT: CT-first imaging protocol could transform chest pain evaluation",
+      "summary_de": "Cardiac CT -- particularly coronary CT angiography -- is reshaping the diagnostic pathway for patients with chest pain.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15817677/scct-ctfirst-imaging-protocol-could-transform-chest-pain-evaluation",
+      "published_at": "2026-02-19T09:24:12+00:00",
+      "category": "Radiologie",
+      "tags": [],
       "type": "News"
     },
     {
@@ -992,6 +1072,36 @@
       "type": "News"
     },
     {
+      "title": "Using GPT‑4o with CT exams helps diagnose ovarian cancer earlier",
+      "summary_de": "Early detection of ovarian cancer is a persistent challenge, with more than half still diagnosed at metastatic stages.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15817536/using-gpt4o-with-ct-exams-helps-diagnose-ovarian-cancer-earlier",
+      "published_at": "2026-02-18T09:32:10+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Survey: Nearly 4 out of 5 practices short on breast imagers",
+      "summary_de": "New survey data point to staffing shortages of breast radiologists among U.S. practices.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15817540/survey-nearly-4-out-of-5-practices-short-on-breast-imagers",
+      "published_at": "2026-02-18T07:27:23+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pooled evidence: Lu-177 PSMA-617 vs. established therapies in mCRPC",
+      "summary_de": "Lu-177 PSMA-617 has a 36% relative reduction in risk of progression versus standard therapies.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/radiation-oncology-therapy/article/15817474/pooled-evidence-lu177-psma617-vs-established-therapies-in-mcrpc",
+      "published_at": "2026-02-18T07:04:18+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Ehrenpräsident des FC Bayern: Hoeneß warnt: WM mit 48 Teams gefährdet Spieler-Gesundheit - DIE ZEIT",
       "summary_de": "Ehrenpräsident des FC Bayern: Hoeneß warnt: WM mit 48 Teams gefährdet Spieler-Gesundheit &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -1148,6 +1258,16 @@
       "summary_de": "Gesundheit: Zwei Drittel der Brandenburger mit Pflege unzufrieden &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ2szNFRkelJIZnhoT2s5NWdDOUNzTUpVUkthRXlNVlc1RV9ISUxYb2RWMDhYTTlkbkpFdmJfZnpYUzJ6UWxsQXFfWUIyYy1ZS0FZUFd3MENCSmZIZzlTbWxlTmNsaGdqSjRUYVcxU3ZjMUcwcno2S05ZTGRNWjAtMV94ajFhMmY4b1M4VllUTVR6Y1U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-17T03:00:22+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit - Zwei Drittel der Brandenburger mit Pflege unzufrieden - Gesundheit - SZ.de",
+      "summary_de": "Gesundheit - Zwei Drittel der Brandenburger mit Pflege unzufrieden - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRkhOUkYzQUN5SGRNM29MZ3V0cnpMMTFad3Ixa29yNzJ5UWM2RDA2cU8wc3V1M2R0MFVFQW5ZbkdOaHBXdXZMNWNxZDVqR0ZnbmJqQlA1Nlp5aWZiYXJIT1BJYmF1djlUNUV2c0NjZEM5VXBqM1lzWlFPUTFDaUlsZ1V4ZldJd3pSemsxR0hUelNYcjdvaGVIN0pjM3BibTZyMmFpeGdSTmhWRUNIOU93b3pUbGdnYTBHU1dNT2JlbXlwa0RrVjc4NzdNb0VxN1VJZzJUdTVaN085REdQeGRQM2dRVGZObVVI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-17T03:00:22+00:00",
       "category": "Versorgung",
       "tags": [],
@@ -1352,16 +1472,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Fastenzeit - Umfrage: Mehrheit der jungen Menschen findet Fasten sinnvoll - Gesundheit - SZ.de",
-      "summary_de": "Fastenzeit - Umfrage: Mehrheit der jungen Menschen findet Fasten sinnvoll - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObm5UWFEyRUYxWTFuUGxzaHRuUzlvU1lKejFFMzhEcXo4QmNpbXk4MUdIT0RKSHh1QXpCLVJKMGNFNE50bjhZVGVxZlpNaXFnYUxZME91UmFBejJ4TUlPZE11TU1ZWk9CYzd2TlE2cjJ6LTROLXZCc0JCckJwdVQzcDYzMUhYdXU5VUtQVFVpS0lGaFNHTEVuUERtc1ZLbDBySmJpdFUzXzBubWhDNVBDZ1MwMk9EZ2Ntak9QUkRQNmNQdGJnaElzZ1dGVkltYXdpNjB3eEtPbGVxalhxVHN6akxvbnhMNmtvczQ5NzFkaTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-15T05:00:06+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "deinMRT – Radiologische Diagnostik für eine bewusste Vorsorge: Aufmerksamkeit für die eigene Gesundheit - RP Online",
@@ -1965,16 +2075,6 @@
       "type": "News"
     },
     {
-      "title": "Auszeichnungen für DAK-Gesundheit - dak.de",
-      "summary_de": "Auszeichnungen für DAK-Gesundheit &nbsp;&nbsp; dak.de",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FN21Fb0I4bFVCZEowbi1RMzlWSDBHWGJkeG5DZnc5SlpkOUtHTnBHb0YzVVJfcmFRdVpnS1d0VjlrYUhWczVHMHJtSGdWTVhpaWRQRWFGUWhLS1ppMWNXa3ctODRFLVczb29ULUVQVHR6em8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-10T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Clarithromycin for treating sepsis in adults",
       "summary_de": "Clarithromycin for treating sepsis in adults",
       "source_name": "Cochrane Library RSS feed.",
@@ -2424,16 +2524,6 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Helmstedt - BARMER",
-      "summary_de": "BARMER Krankenkasse in Helmstedt &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQVA5eTV5OG1KaEg5cjZoQXVjWFBjRU96WTlnY2hoaWgwZzBZN1NlSXVKVTgzb0c2T2l2TnhrOG13MEN0MWVibnUxLVNpSDJ3aW96b0NNTlJfenUxdTRhdkhXRlpVZUVWTU9PbktnbjczYzVGNUt5TlN5eDBSU1RNd0lNTlEtZGFnUTFTTzV6cFRVc01IaUVXelNxMmVJMGwtTDRxc0FlQmJMb0E4Y2VzdHJRUGlITmh3ZHk5Qk1iZVlDcVItb3FrYlhB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-20T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "US-Präsidentschaft: Was ein Jahr Trump für Forschung und Gesundheit bedeutet - DIE ZEIT",
       "summary_de": "US-Präsidentschaft: Was ein Jahr Trump für Forschung und Gesundheit bedeutet &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
@@ -2530,16 +2620,6 @@
       "summary_de": "BARMER Krankenkasse in Bad Belzig &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMkJCZW5rRmtrVjBxdHBVT2ZQVThWT2lDNnFMbzlHN2Y1RWN3OWRYV0JHR1otQm9hbkZIZGhMSzAwdlN0Yl8wRlJIRnNCcjVFYlJUWWROd3M5b2Jaek80clJ0Z2xsQlUySmxiRk9VTF9GTkN3Q0RKLWstWTRaUlAtSVFfX1JsenNEUDRVLWtlX250aFFIa05qNlBZS1BHVFdmUlJuVHlFZUNkZkNuaFV3S012Umt2WlA0VV9tWUUxNGlVN29lR1BEZFg5MA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Tauberbischofsheim - BARMER",
-      "summary_de": "BARMER Krankenkasse in Tauberbischofsheim &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ0d1dGg3dy1FeDFmVmN2N0pBb2ZaWk5DVmx4anNDc3dZblVaVGUyNzc5S3JNaDIwRTY5NU5FZkhhSWJRVmczZThoc0FRbU9XblVXR2ZrRlFvVWdldFpldnFXbGwwUnRaZjlkRFVOcjhMQW5NeDhHaGZ5Q0V1ZjkzZ0dXRXBLV0h1ZVZoZ2xCVXduWnpvUXNmRkQ0NlBldi11VVpMMk1ZSlBzTENnbHVpM0xHSXNqelR3ZmRVTlZfZVFlM2xIS0QtbXg1cUlfWDRtTDNtbXlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -2670,16 +2750,6 @@
       "summary_de": "BARMER Krankenkasse in Bergheim &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONmdlZGgtSndjb3ZsVzZ6cUR5aXJlSWVLOXgwX2hMcGhDb2I0aHhHZ0ZfMXVUR2p5OS1DeVRIcDdUbWFrbzN4Wmt0WEJuUkh0TkpyWVZqNlVBeG9kT0tKOEJ1N1ItZEp1TlIwdWN6b1ZPcURLdkVyWjY3cUp3V0s4RXUyQmpMV0ttbnhaQ2Z0THR1TWV3YTF0N0hvbm1iNE5KZ1NhcXBoYXpHYTQ4cDNqTVZEX1o4U0llR1JReTZXbXpISG5qN0xlZQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Lemgo - BARMER",
-      "summary_de": "BARMER Krankenkasse in Lemgo &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ05UU21KWjJERXJYbklCM1g5bDAtenNDdF9KZXJEcVhHRlBMZnc2Rkd4M0QyYkM2bm9vZlRqSDlyUGFZWk1hN19vbFZ2WDhUZUZvWF9jLWtYNHhTMHhKUnltU3JIVlltYUw2RjByWE16cVpqODFEdFl3RkNsbXFjQUhzd2V1TmNaNlphemd4aG9fcTdTOW01OVU5QUZObktDNk5nRnN6Y2xDRHdkdWJkSEJ1MXlIeWE2Rl9tNmh4Nlo5TUQx?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -2980,6 +3050,76 @@
       "summary_de": "BARMER Krankenkasse in Schleswig &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaXhFS1MxNGoxeHlzNXlZdWs3V2dLUXllaWh2S1hZMVhCZ1NnWlhabVhtcjlWSFlaSlNmaW8wbjRleEpmd0VjR1hKZ2VnT3lYTDlhTFZFbU5welJZcWhQV0dFV1JJWlBWcVM0bmlDUjhqOExMeksxYnlrWXc1TnhIVTNMRzhPc1NWTllGeGNRVDVWekswS29seHhfczZOM0wyMU1lbkpyaWFoUkpsS0xKR1RDVjJFNTZjd21Kc0tYRDg0aXdva2pnRm13?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "BARMER Krankenkasse in Brandenburg a.d.H. - BARMER",
+      "summary_de": "BARMER Krankenkasse in Brandenburg a.d.H. &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZjE1RW5CN3NXazltQkZTeFhjbnZhNTBOTTk2VERaOC1kWXRqOWxQMHdiNzU5cE9mU0pIRmlEbFREQmY0WG9SZlJYQ29EU2U5VGpoRWZuOFFBWUcxUmh5MkdhejA3MFBIZDhvSTJjQWxEOEdrWWZ2WUpYMG5wRWozMU05aGxQMllrRXF6MVNFZklzQ0k1cGxuOHI5d2t3emY1UDA3bzluOXBsaFhPTUNzMThialdQRVBPNkI2RngyNjl1ZUl6YVlKa2IyMzlCYmlxTEszVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "BARMER Krankenkasse in Frankfurt (Main) - BARMER",
+      "summary_de": "BARMER Krankenkasse in Frankfurt (Main) &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRDlDSVhHbjB0ME9kV3dEUXI4ekNSUC1GaDQ0STQwNFRESnBCYy1KZW5yMzBLd3RaY1EyQ0wyV3ptQnpQZEtBMC1IQ201YVFWODNjT05aY2EwdU5xS3ZySkNSTFNuS0otMVJzUDVHeVZSWC15VDdPWHNFUXNoLXhNZDVCSHAyb0puUWNuS0Zzd2FoVUtHaTgwR3NqX2ZsTGNxS2ZRSElMR2tCRHQ2aENpLWlhNTA3bXpIcXI4VlV3NWdlREFocDNhTVNqczRpMUhG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "BARMER Krankenkasse in Karlstadt - BARMER",
+      "summary_de": "BARMER Krankenkasse in Karlstadt &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNWdtMHhhd0ZfLXJHelhETnJHQVJfbjRqdHJEZm1Yekp5d3ROQldPVUp6ZXlBSHZQaE1mYmFJQWFTWEZBQkZTRFREdUEzZUwxVlpQUzFjZjYwSWs2dS1lRldDYy1yZDRpWjg1YV9Fc2FENHZ6RjF4Yk03WjNCTlpmTkUxUlF3VGUzdDlrd1JqN2FjUGdwb214TzVrWmxIRUlUSDhTV0IwSEU2YTRocEFvajh4Z3ZCVThZMXhNTXpDWldrQ05KckNoV09B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "BARMER Krankenkasse in Simmern - BARMER",
+      "summary_de": "BARMER Krankenkasse in Simmern &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUWdwTkVlOEZ2VW4wWk1yM0NpaHlTUm9xNkZZa0VPS3dvTmg3bW4zZWRkQUdQV1FzalUwYmtVbGNoY3Z4QVdPMVBEZnVLNUdMSW9Za1dmQ3VnaTFjSjUyQkIwWTh2Y2lsLU9Tb294a21iQUhTMzdBSGtudmc1ZXUxd2w1b01Wc1RIOThZdzZmdVJzSnBESDg0X0h6d3cyUk5tTlF6X1ljWlhTOFcwa1h6cG5ybE9VVk9nSEQ0amwydEN0SlVjYjdn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "BARMER Krankenkasse in Amberg - BARMER",
+      "summary_de": "BARMER Krankenkasse in Amberg &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVEM5UVpTUllueUowcmlYbW1JZmFoSmZKRGNkX3doR2h4cjZDbW12S1pnUGhZZU1GNGc2Wnd1WjRoTXhmQTBTUUZldDhiYnNyOWo0NndvR2lLVE42N0NpUjFhSDhvekpoTzJfY19XeWVkU3NVVjNOV1RVTUtVTnN3TzR6MTFncnFwaEROUXpIQ0lGdV94VDBZSUNUWUk2U19HU01zUENxTUFrUi1rMDN0ODdJXzFTQnozQi1LMm5OZ3pydEliVWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "BARMER Krankenkasse in Gütersloh - BARMER",
+      "summary_de": "BARMER Krankenkasse in Gütersloh &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPN1ZKWmVhZThHQWlYU1QxdHRJSHZZcW02Y08zdmdmZFFRRzMxY1dlNFZwOWRKdlNEVUM1ZWc4bjlBVTJOR2ZIT0VEWU1fN2ZieE43M2E5ZU1OQ2tvalZXanVMNFVLNWlheTFhY3R5MUxBZ09qbkM5a04wd0MtelA2US1Iem9DNHFrai00ZzE5MlFqNEE4QjJORElYUS1obWI2eC1DT2ZuZjJDV05ya0dNM29tZTkzOGtMNFAyUHhIWmozbm9ESnhnYjNDdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "BARMER Krankenkasse in Minden - BARMER",
+      "summary_de": "BARMER Krankenkasse in Minden &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZUc4OGZub19QV01UM0U3UHF6OHlpT1Bad1NnVzVkdkZLeWlMc2txY2JJd2lrNW4zUEJCNmxjM1hjVkxyUGxadGV3Yk1GcFVVQU1wY3VZSjZaT3dqUkpDZm1IQUQwU2FEQlhXbTdkbWE3RkxNZHpMbGVuYUM1aTZ3UUpkVUtITFFDRTF4aGFocnlDODN4RGJWY09tcDN3cjBseTVBRS1lYjlfajduR0d4T09EU2lQR0YtSnJBSDVQRGVMTFhKUHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
       "category": "News",
       "tags": [],
