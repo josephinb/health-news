@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-24T21:27:32.728020+00:00",
+  "generated_at": "2026-02-25T01:28:20.955062+00:00",
   "window_days": 42,
-  "count": 285,
+  "count": 294,
   "items": [
     {
       "title": "Verbändefusion: Sachsen-Anhalt gibt Vermögen frei",
@@ -10,16 +10,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/sachsen-anhalt-gibt-vermoegen-frei-163076/",
       "published_at": "2026-02-24T20:20:09+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Olympische Winterspiele - Nach Viererbob-Sturz: Österreicher aus Klinik entlassen - Sport - SZ.de",
-      "summary_de": "Olympische Winterspiele - Nach Viererbob-Sturz: Österreicher aus Klinik entlassen - Sport &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSFVNYXMxb25hSFFPQ254RWdPR041WEZqbEkteG9OZ0lJdE56QzRtTHdBZ2JfekFCOUFjSFpPSGExQnMyaDdkRWh1dXVLZ1hrakZWMHMwVldiRG43TXY0dHBkSVJRV2VFdTJGQjNaUzctSURpTTQ1a0Y5My1pOERZX1lCZlgyQjFBN0owMUFuMXFZWnFhRGxRaVlNVUpib085SU9yTzlTdUxiaWtTS213UzJlWTY4NU5JY1B5RWZhalMtdEk3WU8yUHBQTGNfc01sY0tuWFpGSzVhOHlXUEtDTXNGbFNrUHNnbVJZc3JqSlI0UjFhUlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-24T19:19:48+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -84,6 +74,16 @@
         "Europa"
       ],
       "type": "Studie"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: Tranexams&#228;ure PUREN 100 mg/ml Injektionsl&#246;sung pU: Eugia Pharma (Malta) Limited",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-02-24T16:18:47+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "US-Zölle : »Alarmsignal für die Pharmabranche und den gesamten Handel«",
@@ -202,16 +202,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU2JlalBXVDM0VDNZMy02eGZqRHpSTkI4VkdSNm10LXBtdXJ2THhjMmpGbDhtdFRxYzFPajJlZ2dUZk1Pckt3ME4zaFlQZkpTMnFNNV8yZGRyOW16alVSbkxvbmNKcXFadnp4V3N5UGFJbXZ3SzhYa1gwRExwT1IycWJreWtzQV9zUlNha2Y2TjhPYXRrc3hid2NTUzJQUl83MEZOeVB4MnVFdTBpTmg3dC1BLUZlYTd3YWU0UEZCbXQ1M0RndUk2aEc1dVZYd2NYRUVrYjNod0VtbTFI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-24T12:21:56+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: Mydriaticum Stulln UD pU: Pharma Stulln GmbH",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-02-24T12:01:33+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -362,16 +352,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/steckbrief-amorolfin-162738/",
       "published_at": "2026-02-24T06:00:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Medizinische Klinik 1 - Gastroenterologie, Pneumologie und Endokrinologie - TK-Klinikführer",
-      "summary_de": "Medizinische Klinik 1 - Gastroenterologie, Pneumologie und Endokrinologie &nbsp;&nbsp; TK-Klinikführer",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQZ2pWVm1IQmhMem5jSGd1aTUxQjJlbzV2VEFJVkR4R25OWTV6V0lFQ09kU0VHbG5lRzNGYloybGtIU2NDeExleWQwSndsZUh3dHR6dDZnVzJVY09HM3JUTWRGUjJvdThDbUtqV3pITDBpcElNTmpmMWRrZzVhckcySFJZWkdlQWpOeEFSOUlLNlhMWGlfNjhybHg5WTNYTW54X1FIeHhKVk9pSXZBTE05Tkh2eVBCaFBaZWlpOEdyQ0p5YWVxZzgyWF9ua2hhcE1PV2VFcHd1cUotRDhzeEJPRUQ5LVdCQktzZWRKOXhTYnhiNFdONG9xeW1QMFFIWEJzRGtTVmtiaDZUNzcyZWhieGpHSG5UaTNGanlOSnpmdUZVX1pNUGhLZ3h3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-24T05:28:44+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1114,11 +1094,11 @@
       "type": "News"
     },
     {
-      "title": "Jeder Zweite wartet länger als vier Wochen auf Facharzttermin | Die Techniker - Presse & Politik - Techniker Krankenkasse",
-      "summary_de": "Jeder Zweite wartet länger als vier Wochen auf Facharzttermin | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVkwzWEl4dVcwdld1TWJhS0pJdlMyYkcyNjRnRUp6SGtJTFh0UjhMQkxZazR6LWcxSmtUR1lmYV9CZ0VPVDdtenh3d2xBazBWR3lRNnhTWlJOTWdFdkhBbng1Nmx4WGxkSGhTdlBiVEphNnBYcU5CVDAwRkVyYXUtejByY3Q1dWJneU9ZV2g0TXNlWXctcnpFMGF2R2FRZWFtemtyTGFzcTQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-19T09:00:00+00:00",
+      "title": "Gesundheit: Wie Schulpsychologen Schüler in Hessen beraten - DIE ZEIT",
+      "summary_de": "Gesundheit: Wie Schulpsychologen Schüler in Hessen beraten &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSWlRTU9OMjEyb1k1MlFydUZ1aGhRWUpVR21UTGxBTmhNSVF0dVU2QWRvRV8xb0ZxZGQ0REtBSkRneGpldHhVOUtvXzRWeW4weG5ubDRXMng3S3BWUWpGX0R2Z0lWRERRNlUxOTY1dm5DMl9KMEMxSFdiTzFvUlRGYk5QYTVRWlpnbVMw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-19T07:00:04+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1159,16 +1139,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYnJnZ1YxRzh1X1ptdDJJVFBiOWtFWklqcnJ6bkhfRnFLQkhDalF0TGk2QmJKN1VoaTUyNUFLLS00dDlicnhWWWoyb3M2VU9FWVFTXzNick9kYlFJcTU1YnYzcnpjVng0RTZFN2RDUkJ5cTZ3QTU2OE9MWXdtX05oQVZmdWZ0Q2gtTk1pWDNvZWQzOF96dzVoZFM4OUM5YnZiMmVUaTByNWhIVXBocW84U25pX1JsLUxTLTJ1M3RkaGh4UGVpcFdEYzUyUnZIUnppdVR5dU9FZGlJRDI4dF9US2daQ2RfOFFlQVd5MVAzTQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-19T02:00:04+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Facharzttermine: gesetzlich Versicherten | Die Techniker - Presse & Politik - Techniker Krankenkasse",
-      "summary_de": "Facharzttermine: gesetzlich Versicherten | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeXJEbUxWQlVPSTRpZS1xZlpmekR1U2hmZElkV1M2MEotakFPVVBlZDF5b2dZSFZUWHpIdjFiM1NRM0dILWhBODZPbkdJTHp4aXdaSDBIMWJkR0FQeHhscVRDYUdUZzdkM1FZYjJJMVJtZ1RaWWplZ0w0T1BuQTRwRk9iMjJBa21ZTE9YY3dOcXRNLWkyRDRsSEVnT1ZmZHBNQy13Yg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-18T23:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1294,6 +1264,16 @@
       "type": "News"
     },
     {
+      "title": "Klinik für Neurologie, klinische Neurophysiologie und Neurorehabilitation - HEK",
+      "summary_de": "Klinik für Neurologie, klinische Neurophysiologie und Neurorehabilitation &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOSjZEMlFFallEQ09XbTdUbm9KWkl3TlJOVEtWZmhvMHF2NnhzVkxkZy1NVGtteTNpVDkwSVUwQVh3LWU0SWRpZFdOUzRTb2pOTFA4T2lWVEx1cTAzZk14M3BhVzlGbC1HdHVGR1c4MlUxdWlGZzZ6bkdMcnVYdlZmQmQycUx3VWhuNVZmT2hmVE9VOHl4VjNOTkkzR0VrSUI2RHhMbjZiQ09IbE14QTgyakozOW5KTFpzb0s5X3BZY2RRRENhY2NIRFJFNmZnT3NrU25QcS1QSlBkOGdCS2MzQ250T0g5d3Ztek9tM3d1QmNidmhaMXhhRGtxdl9VVTVYblRWbjQyTS05MFRUQ0FlY01qT0o?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-17T05:08:02+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Respiratory support during endotracheal intubation to improve intubation success in neonates",
       "summary_de": "Respiratory support during endotracheal intubation to improve intubation success in neonates",
       "source_name": "Cochrane Library RSS feed.",
@@ -1369,6 +1349,16 @@
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDTWN3bVQtWVZ3X29IVmZUSGR2dXYzWlZiczJvT0NHVkNfdTBsdklrNE5fc1BOU2dVUFcyN01GMld4N3E2eGpLbnlzQlFPd21fUVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-16T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Klinik für Unfallchirurgie, Orthopädie und Sportmedizin - HEK",
+      "summary_de": "Klinik für Unfallchirurgie, Orthopädie und Sportmedizin &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbkwxRUFrUEV6R2tUS05qVnoxNW9zMTRPNmtoSUZydlpTc2U0OHhxSUtsLTJYZmdSUG42dUstMnAwWEJVd1pHZ0t4alFwdkVxVzZldk5LTFh3TnNqMEEwVUdfaTE4NVktOGFtdHN5N25ONE5BQlJoOU9FTkdDYkRMU1pTbzM3S1p2TlIzbTVxNlJfVHlmQjJnZ3FDWWs4MVdDbHB6dnBNaGlYSFB3STNIdW9PcnpxcnNjcHZJX0ItZTg1ZDFHM0dLODZXY1ZSQW1rTGd3QUVoQnBBSlVHcFlBOXNsbFJON2lKMjh2QjdLcFQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-16T04:13:15+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1858,6 +1848,16 @@
       "type": "Studie"
     },
     {
+      "title": "Medizinische Leistungsangebote | Frauenheilkunde | Klinik Preetz in 24211 Preetz - HEK",
+      "summary_de": "Medizinische Leistungsangebote | Frauenheilkunde | Klinik Preetz in 24211 Preetz &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUDJFeWtKemFudm5aWENlbGpkbkhSbmVWa1Utb2NzRmhKTG41bG41clhZMHBuVlA4Q2xZb2U4T09zTXhpSDQ4VkJjOWhyenhvZ2N4MXAxT3BHTlZaQUJWWnZEZ2hpNUQtUDdHckJBbkVXTFJacWY5MjZ6dGY3Qm9RZmhfY1kybFpITTlrM0dBd0NieXFGV3RKX0NXSGJUd00yZ3dZaW5WVjdELVY2XzZrYndRSnBPbkw1dmppLVI3VG0wbkJYZVhoT2pDbVM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-11T16:57:16+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Provisional Accident and Emergency Quality Indicators for England, December 2025, by provider",
       "summary_de": "Provisional Accident and Emergency Quality Indicators for England, December 2025, by providerThe measures included in this publication report on data coverage in ECDS compared with the emergency monthly situation reports MSitAE published by NHS England and NHS Improvement. They also report statistics for total time in A&amp;E, time to assessment, time to treatment, A&amp;E attendances that left before treatment and …",
       "source_name": "Publication Feed",
@@ -2331,18 +2331,6 @@
       "type": "News"
     },
     {
-      "title": "Neues CT-Gerät: Radiologie 360° im Florence-Nightingale-Krankenhaus erweitert Kapazitäten - LokalKlick.eu",
-      "summary_de": "Neues CT-Gerät: Radiologie 360° im Florence-Nightingale-Krankenhaus erweitert Kapazitäten &nbsp;&nbsp; LokalKlick.eu",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWEJHM2lvZUg2ZGRBQUxWeWdvM043MXVNQzdxb1pXS2RiTHFkRWJsVzRTUmhOSHdxSUVmeThra19KdlEyd3BFTXJhdWIzU3JDSjhnSnI3ek1FaThLRHRKSVJoTkNCOWdSWF93dVZvQk5jaHM5ZFZ1QVNPMHVTZGluUmpwWko3NF9LcjNiTkN1cTZsLTJfLTlRVExzQkRRVl8yZ3EyRmEtanJ3Q2FMRDB3bXRPdUdlamxSRnZQTTQtemxKNFdBTFNPVHE3TmNRQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-26T08:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [
-        "Europa"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Wie sich die Diagnostik im Krankenhaus Papenburg verändert hat und was Patienten davon haben - noz.de",
       "summary_de": "Wie sich die Diagnostik im Krankenhaus Papenburg verändert hat und was Patienten davon haben &nbsp;&nbsp; noz.de",
       "source_name": "\"radiologie\" - Google News",
@@ -2468,6 +2456,16 @@
       "type": "News"
     },
     {
+      "title": "BARMER Krankenkasse in Heilbronn - BARMER",
+      "summary_de": "BARMER Krankenkasse in Heilbronn &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX2t1THdDWHphV0w4SUZqbzJzdUdFTjRqbU5nV2Z2THlsQzlwM20wYU1VWGRCR2ozTUZocnd2UjNQUEJxNnQwS0hjaDlkeEhSMWpqN0M2TmVlLURDU3kxWDVVVDYtTktFUy1yQXZ5RTVFT1JjSEdhVWJyR1hwZktKcWxQZjREWGdJZG9SMEFkYlNwcS1GYk9RWWg2VGExQzRVQlJ2QVNycVpadVZxVWtzdVdWd1g1a1NSY3lydFB2bkR0UW1oWC1QNm9n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "BARMER Krankenkasse in Aschaffenburg - BARMER",
       "summary_de": "BARMER Krankenkasse in Aschaffenburg &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
@@ -2498,10 +2496,10 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Wiesbaden - BARMER",
-      "summary_de": "BARMER Krankenkasse in Wiesbaden &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Weinheim - BARMER",
+      "summary_de": "BARMER Krankenkasse in Weinheim &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSW93RmJ1UHB2UzRmbGdtNWZMNGZSWFNJbUtyVzJVOUY4MEtmOHpRb3B1N19wa2FPdTVQRDd0anh5bGt1eXAzMGVtYkJsTEllUDB1VVBYUFVHM1ZxVlVITjkydmNSdjJuOTVfVnhYWloxQm1rTmlFNWdiVnFNM0pYNkxDOE5HTS0zakdmOURINlN3NGpsYXVzOExWcDVBZi1vS3FSNEE2a1BwUWlDTEQzeW96bTJEQ0RYWUxYSVJvY0c3c0ZOVWdIbGJ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMjVNc3JaZjdPOTlSOVk0cGZBd2NGQTlxajVzeFNFSWI0X2pQblVnQ0dIX0JNYW4zQnFwdUZ5YWItUGNzRk41UmVVRGlVLUhYbXlQVXY0MzVRMjZ6dUVjNExxNTFuLUwwYTdTMHF4SkdLcU5ZZzF5R2dLVjZET29LdjZsbS1POWFUaXlFQXFZR1N3MkF3ODBndlFfLWRnbVBzeS1yME5ubFIwVnJoblM0OVczN1RKVUlXN0RTaS1uSmotWTlnTU1faw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -2578,6 +2576,16 @@
       "type": "News"
     },
     {
+      "title": "BARMER Krankenkasse in Freising - BARMER",
+      "summary_de": "BARMER Krankenkasse in Freising &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcGhvQzdDdzJtMTNldk5aaTdkVVdhenVKSWYwVnlsVlgyNWN2c1hleUVUMVdLcndMSzRjdnc2VHRZZUdBQ3BDWXdBd1RfOHlPZzNjSGdyb0tELW9lQU1vRWdtM0g3eV9COUU1ZEE1WjBacEhqVEJIc3p5cGlKQnptWnliZDQ4X3FFWk5YWkR2SnZ4amFQSkl3WmNjZHdheEtHRXlBb0dXV0FMcXNnekFJdUlib0Y5a0k5SjgybE1RSjlZVW5NMGpOUA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "BARMER Krankenkasse in Wolfenbüttel - BARMER",
       "summary_de": "BARMER Krankenkasse in Wolfenbüttel &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
@@ -2622,6 +2630,16 @@
       "summary_de": "BARMER Krankenkasse in Bergheim &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONmdlZGgtSndjb3ZsVzZ6cUR5aXJlSWVLOXgwX2hMcGhDb2I0aHhHZ0ZfMXVUR2p5OS1DeVRIcDdUbWFrbzN4Wmt0WEJuUkh0TkpyWVZqNlVBeG9kT0tKOEJ1N1ItZEp1TlIwdWN6b1ZPcURLdkVyWjY3cUp3V0s4RXUyQmpMV0ttbnhaQ2Z0THR1TWV3YTF0N0hvbm1iNE5KZ1NhcXBoYXpHYTQ4cDNqTVZEX1o4U0llR1JReTZXbXpISG5qN0xlZQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "BARMER Krankenkasse in Lemgo - BARMER",
+      "summary_de": "BARMER Krankenkasse in Lemgo &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ05UU21KWjJERXJYbklCM1g5bDAtenNDdF9KZXJEcVhHRlBMZnc2Rkd4M0QyYkM2bm9vZlRqSDlyUGFZWk1hN19vbFZ2WDhUZUZvWF9jLWtYNHhTMHhKUnltU3JIVlltYUw2RjByWE16cVpqODFEdFl3RkNsbXFjQUhzd2V1TmNaNlphemd4aG9fcTdTOW01OVU5QUZObktDNk5nRnN6Y2xDRHdkdWJkSEJ1MXlIeWE2Rl9tNmh4Nlo5TUQx?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -2818,30 +2836,10 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Offenbach - BARMER",
-      "summary_de": "BARMER Krankenkasse in Offenbach &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNnZkcnI0N0pfV09jOVdhcC1TUW5lMzMzZ0R4eXVxLUk2WW5zbEhwUHlBcDhXMHBMejhfREFmb3BPOG9zcjFOM0hhZkxFVGF4M25HbVRBbWN6NDJBS3hjNDJRSTJpYVdjcnZfM0VDS3RFQmItX2RWaGF0NlZ3WWRodUlURVZmYnpUVDFqelNENlQxR0Z2N0hGWDk1Y1NMcmRkRmRpUEFPTlZEUTg1d0hFMVh1WV95bEctSzBvaXpqYi1hTFV4RU02QlV3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "BARMER Krankenkasse in Waldshut-Tiengen - BARMER",
       "summary_de": "BARMER Krankenkasse in Waldshut-Tiengen &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQVcxVmxfRHNQbExsdm8xQ0ZYdFhMaktsaVFnZUh3MlBVUDhIRXhYWk1wckN6eEZHMEg5SU9oejRRNm9USUt5TDluTGVPb012cnBZTWl5RVB3cGc5b2dsbmh6VGE0eW05SHRlcnduc2picEVsd2NGY1JKUGdIQnczd2JyMkYycVRVbUJSWG5yem1ndm82TkdsbEFxdkJ3U2pRZkxoeXRUYlBTY2haRmFyaTRqdVFtS181OER3MVp1ai1faXJ1dUZEZmdUTS16RlF4cFJv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Friedberg - BARMER",
-      "summary_de": "BARMER Krankenkasse in Friedberg &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWXFHbnEyQkc3QW5TLVpqd0dfUE9uUm15ZWFrcU52N005TUFvMk9WNThLVC1kZktrQWx3UmxxdHZLU19valBqa0x2SjJCSUFkZjRYVzlLcXBnUjV6UWpzbFVJTW5aR1FKNnhZSzhFNmVBWng3TUp5ZVhrUTVReTJ5MXFpb1RDR0ozVktheG1YRE42LW1hZ09MOEZDQUxaejF0RVgzZjF0eFgtVjBuZlhiZHY3TTlMZ3dzUmx4T3pmS20xVm5hQnU2a0lB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -2894,6 +2892,96 @@
       "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbEtVb0tOWloxTjg1X1V6ZThEQXZDbFRodUFUcHlWM3VOUEFtakFmVVJETlRsTTgwWGJENDJYRDdzN2p6Y3VtVUNtN3BhSTl4RGZTWkt3ZF9IbTVoY0RhNXJOTHR5QnJvTjBpMnZnVXN6Y1o0OVJUNmoxcVE4djFrM05renZMUFJYSVlIa3FITG9RQ3Q4WW1KZ01NUDJfcVZwNzVnQ1BjckRYN0o5ZmV1My1POWkwUms4UFpnTWs0bHVwVWFSSU4wcQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-15T08:00:00+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "BARMER Krankenkasse in Wesel - BARMER",
+      "summary_de": "BARMER Krankenkasse in Wesel &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaGs0MC1UTmFXbi1jbnV2SHA4cVBBcnJaLThUS2VRNXAtY1QyOXA5TjVlY3JDbGhxS3FucHlaTC1zM3lYSDRxZUNnRllfdU1XZHJFME9DejZvd3J5b0V2MjB5MUh0elRtcjdHeURtVmg4aXNvcVBDZlhTWktJZV9sSWtlUHFCNHk4WjlzOTI2LVRHcmVhWjFEXzYwZDNRSFhTNzhfbnh0N19VSG9wQ0ZYcWpFRnJnN0hydFgyMzJhZ09uc3VK?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "BARMER Krankenkasse in Cloppenburg - BARMER",
+      "summary_de": "BARMER Krankenkasse in Cloppenburg &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPczBLelhRTHZlX0VFVVZVam8yTHc3TDdocTJrVExaSy1HZ1R5LXI4ZzZhNW5IeTdPc202RE1jR0V3djRHdkF1N1JhWllVcl9hU05jNXJtQWd5alJOMVh2QkVpUWZFU0dFbjBCc2JfcERzb3F6OTU2eU1maDRSSnloNmxLVWpmdUt3a2ZJWTlXNC1fTzVneGhoNnBCbWdScWhROEh6OGQzanNxVDA3LUhVcXNjM2lDQ0V2aUFxSXhXQ3Babm5iMUNlYzR0LXg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "BARMER Krankenkasse in Buchholz - BARMER",
+      "summary_de": "BARMER Krankenkasse in Buchholz &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY2RRRy1zQkNtRDNIYUNDVmU4dERmcWJCcVotdzM5emxkX1VYTVBSeG1ZQnlPb1oxQmdzdjYxSTN4YWxwa3RObnZlSzR3QVU0d2hzVnZXM1VhZ2p6bDB5UFJjUHgtYmhjSjdpRnJlTE1qazA5ekY1WExVWWhReWs0dm1QeW5CMmF4MkFZV1FoUTZiYUVaSk5IQkF2bTRVZkJybk5yc0xSSlJielNiYi05aGNHRmtSeDBFZmVxTUlPTUlPT0FSZnRVUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "BARMER Krankenkasse in Cham - BARMER",
+      "summary_de": "BARMER Krankenkasse in Cham &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQTNBYWF0MXFvaW9UU1RqRkZIamZvTEdBX0xzcTVWMnMwNGoySkJEVmJlc0hETkROSGJVb2o1WVRhWlozMWFDSEJiT21YTEgyUURpQTNqdjFDRUZaREl6RDMzS2pRWURUMmZJaTQzNWJHem9Jd1JYYjF0Sms4STMzdUo0cU93RzdEX0oxalNoS0VQcUhSbkxIRlhVb042OGFrLWhVcjVPR212Zm4xeU5zWjRtNW5ia19wclBxTExOejdTTGM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "BARMER Krankenkasse in Schleswig - BARMER",
+      "summary_de": "BARMER Krankenkasse in Schleswig &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaXhFS1MxNGoxeHlzNXlZdWs3V2dLUXllaWh2S1hZMVhCZ1NnWlhabVhtcjlWSFlaSlNmaW8wbjRleEpmd0VjR1hKZ2VnT3lYTDlhTFZFbU5welJZcWhQV0dFV1JJWlBWcVM0bmlDUjhqOExMeksxYnlrWXc1TnhIVTNMRzhPc1NWTllGeGNRVDVWekswS29seHhfczZOM0wyMU1lbkpyaWFoUkpsS0xKR1RDVjJFNTZjd21Kc0tYRDg0aXdva2pnRm13?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "BARMER Krankenkasse in Brandenburg a.d.H. - BARMER",
+      "summary_de": "BARMER Krankenkasse in Brandenburg a.d.H. &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZjE1RW5CN3NXazltQkZTeFhjbnZhNTBOTTk2VERaOC1kWXRqOWxQMHdiNzU5cE9mU0pIRmlEbFREQmY0WG9SZlJYQ29EU2U5VGpoRWZuOFFBWUcxUmh5MkdhejA3MFBIZDhvSTJjQWxEOEdrWWZ2WUpYMG5wRWozMU05aGxQMllrRXF6MVNFZklzQ0k1cGxuOHI5d2t3emY1UDA3bzluOXBsaFhPTUNzMThialdQRVBPNkI2RngyNjl1ZUl6YVlKa2IyMzlCYmlxTEszVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "BARMER Krankenkasse in Frankfurt (Main) - BARMER",
+      "summary_de": "BARMER Krankenkasse in Frankfurt (Main) &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRDlDSVhHbjB0ME9kV3dEUXI4ekNSUC1GaDQ0STQwNFRESnBCYy1KZW5yMzBLd3RaY1EyQ0wyV3ptQnpQZEtBMC1IQ201YVFWODNjT05aY2EwdU5xS3ZySkNSTFNuS0otMVJzUDVHeVZSWC15VDdPWHNFUXNoLXhNZDVCSHAyb0puUWNuS0Zzd2FoVUtHaTgwR3NqX2ZsTGNxS2ZRSElMR2tCRHQ2aENpLWlhNTA3bXpIcXI4VlV3NWdlREFocDNhTVNqczRpMUhG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "BARMER Krankenkasse in Karlstadt - BARMER",
+      "summary_de": "BARMER Krankenkasse in Karlstadt &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNWdtMHhhd0ZfLXJHelhETnJHQVJfbjRqdHJEZm1Yekp5d3ROQldPVUp6ZXlBSHZQaE1mYmFJQWFTWEZBQkZTRFREdUEzZUwxVlpQUzFjZjYwSWs2dS1lRldDYy1yZDRpWjg1YV9Fc2FENHZ6RjF4Yk03WjNCTlpmTkUxUlF3VGUzdDlrd1JqN2FjUGdwb214TzVrWmxIRUlUSDhTV0IwSEU2YTRocEFvajh4Z3ZCVThZMXhNTXpDWldrQ05KckNoV09B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Übers Dach eingeschwebt: Poliklinik Chemnitz hat neues MRT - MDR.DE",
+      "summary_de": "Übers Dach eingeschwebt: Poliklinik Chemnitz hat neues MRT &nbsp;&nbsp; MDR.DE",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWVZtaGV1VERmaXl2bWVaMFJLMlVoLWNWdDZoY0NkejZGR3V3Qk5SUmlqNXJyRFJhamFxdndEY3RUSEpVM0JiNDdjbXB0YlVhRlJRdkNIUHd5WXh4NUUtQ2VQVkt5RFBXbnBWeTZiWFVLa19hbU5PZ0hhVHdlMnZuVWN5QWxYNEpQdnVVM1NucnFlR0RC0gGaAUFVX3lxTFA0OFF4Y0lEVklXWjNoZHc4ZTAwZnR2aTJ4N0p1WHU1ZmJMemo0TGl1VHFva1A5Z0dmbXhwNUZUWXhIN2lHZ1I3c1U3ZmxhWUR0b0pOR282eEhwS2FhZHI3RzdjbUtDeE1rQ0V2Nm90Z0VWR2lDOGJNV01lM29HczctOGJvbWotTjNEd0VsUHFhVVRVeDZNeTRzcWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-14T08:00:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     }
