@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-03-01T18:23:50.948569+00:00",
+  "generated_at": "2026-03-01T21:16:13.583302+00:00",
   "window_days": 42,
-  "count": 261,
+  "count": 269,
   "items": [
+    {
+      "title": "\"Ich wusste, dass das die Krankheit war. Weh tat es mir trotzdem\" - DIE ZEIT",
+      "summary_de": "\"Ich wusste, dass das die Krankheit war. Weh tat es mir trotzdem\" &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOck5yelRuNUkyM2dnV002ZUdYU2ZsSzhsSUx0RkY0OVMwWGVKVjl4ZWNYTV9BT3hFazVtam5namlCcUZPU0thX09UWDVlTV9JcWpGWWpCa0l6aXVqREpVVEtTM1NURWpMMmlZNG1CN1d2RjFzdDFCMmFrQUl0VUQzcFZaT2hwZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-01T18:38:29+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Gesundheitsversorgung - Brandenburg gibt 2026 zwölf Millionen Euro für Polikliniken - Gesundheit - SZ.de",
       "summary_de": "Gesundheitsversorgung - Brandenburg gibt 2026 zwölf Millionen Euro für Polikliniken - Gesundheit &nbsp;&nbsp; SZ.de",
@@ -30,6 +40,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/aliud-veraergert-apotheken-163207/",
       "published_at": "2026-03-01T12:08:08+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Oberarzt Radiologie MVZ Klinik Stellenangebote - ärztestellen",
+      "summary_de": "Oberarzt Radiologie MVZ Klinik Stellenangebote &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcnRZLUxhSzRWNlF6cFdnaU1nRTJfZHZUMFZRZENZbTE5RW1uZm9TTE1td29zZGU2WEtnbGhVY2RXREU1YnZ2ZE45UjJhcGpQbEdqRjFxc0laMXJVeHNMMklHZEZTWnRZUzN2SHl5XzFBQ2M0cER0bURnampoZlVRWTlyVzlQdGI1NjY5SA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-01T11:24:17+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -168,6 +188,18 @@
       "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Week in Review: ECR coverage | Fatal MRI communication crisis | Heart imaging radiation doses vary",
+      "summary_de": "ECR 2026 begins on March 4, and our sister site, AuntMinnieEurope , will be offering extensive coverage.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15818405/week-in-review-ecr-coverage-fatal-mri-communication-crisis-heart-imaging-radiation-doses-vary",
+      "published_at": "2026-02-28T08:00:00+00:00",
+      "category": "Studie",
+      "tags": [
+        "Radiologie"
+      ],
+      "type": "Studie"
     },
     {
       "title": "Lilly lebt mit seltener Krankheit und viel Lebensmut - FAZ",
@@ -494,16 +526,6 @@
       "type": "News"
     },
     {
-      "title": "\"Ich wusste, dass das die Krankheit war. Weh tat es mir trotzdem\" - DIE ZEIT",
-      "summary_de": "\"Ich wusste, dass das die Krankheit war. Weh tat es mir trotzdem\" &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOck5yelRuNUkyM2dnV002ZUdYU2ZsSzhsSUx0RkY0OVMwWGVKVjl4ZWNYTV9BT3hFazVtam5namlCcUZPU0thX09UWDVlTV9JcWpGWWpCa0l6aXVqREpVVEtTM1NURWpMMmlZNG1CN1d2RjFzdDFCMmFrQUl0VUQzcFZaT2hwZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-27T12:28:26+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Mehr Kapazität für Analysen - Neues Laborzentrum in Halle soll Land krisenfester machen - Gesundheit - SZ.de",
       "summary_de": "Mehr Kapazität für Analysen - Neues Laborzentrum in Halle soll Land krisenfester machen - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -604,12 +626,32 @@
       "type": "News"
     },
     {
+      "title": "Physicians superior to LLMs in interpreting PET imaging",
+      "summary_de": "Four physicians identified tumor locations on F-18 FDG-PET scans with far higher accuracy than six large language models (LLMs...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15818418/physicians-superior-to-llms-in-interpreting-pet-imaging",
+      "published_at": "2026-02-27T10:24:12+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Reformpläne: Ersatzkassen wollen pDL-Zuschuss streichen",
       "summary_de": "Kurz vor der heutigen ersten Lesung des Apothekenversorgung-Weiterentwicklungsgesetzes (ApoVWG) fordern die Ersatzkassen, die Mittel f&uuml;r die pharmazeutischen Dienstleistungen (pDL) in die Nacht- und Notdienste zu stecken. Andere Pl&auml;ne des Bundesgesundheitsministeriums (BMG) halten sie indes f&uuml;r &raquo;grundfalsch&laquo;.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/ersatzkassen-wollen-pdl-zuschuss-streichen-163182/",
       "published_at": "2026-02-27T10:16:08+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "AI could help segment throat cancer tumors without use of contrast MRI",
+      "summary_de": "The findings could shift imaging workflows for patients who cannot safely receive gadolinium-based contrast.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15818415/ai-could-help-segment-throat-cancer-tumors-without-use-of-contrast-mri",
+      "published_at": "2026-02-27T10:13:25+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -828,16 +870,6 @@
       "type": "News"
     },
     {
-      "title": "Klinik für Neurologie - HEK",
-      "summary_de": "Klinik für Neurologie &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPeEo2RmRWcXh6T0hTNURxTFRJY1RFNkdTQWU0U01GV2hJV1JENWlWdjRVc2lTVzRfN01aNlZIZllDYjdENENwWDNvdVNRbS1TVDBJVGRSRGp4cC12cEtyb05zLXFaVjBaajdpRm1oVm1YeXNueVd5RFJnd0VEQUZ0S0Z2Z2lJcEpGU0pON1Ayc2phUDgyVjNGYlRBaE5oZkE5MTFpSUhyQy0zTUlrSC03R1JFeHYzdmVZVmlSdmhBYmZwTXk4RE5TSUtaZm4zUXp6NUx1WGZmX0lWakIyTWpVZzQ5eFBuVURReU5BX0NvSldnUlJ4VWdlUEhZcHJrOEpxUFMw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-26T15:08:31+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Vogelgrippe - Weitere Fälle von Geflügelpest bei Tierhaltern in Thüringen - Gesundheit - SZ.de",
       "summary_de": "Vogelgrippe - Weitere Fälle von Geflügelpest bei Tierhaltern in Thüringen - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -888,12 +920,32 @@
       "type": "News"
     },
     {
-      "title": "Personal | Klinik für Chirurgie | Erzgebirgsklinikum gGmbH – Haus Stollberg in 09366 Stollberg - HEK",
-      "summary_de": "Personal | Klinik für Chirurgie | Erzgebirgsklinikum gGmbH – Haus Stollberg in 09366 Stollberg &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYkY5TF9wcExHZmxBa1Z2U2VMMmtCWXVuUEhnOURqdF9sYUFEaTFMRFc5Q3NaUDNCamtheE41cDhSSU1WRm9WdE8wejhqdDB0LThoSV9SU1Y1Vzcyd2RTcnBNMXNvdjRGc1ozbms3NTRDOEhNSzBMZWlJVW9YVWFVS25UYmRnemlEWEdLMDNjMTFwVk56M2FWSEstZFZtQzhBbjFvOGFpcHNGT1pUWkxnZ2NsZzRWandfWTRkVEhBTnkwSE1vZmN1YzJRN1hBbE5ROGRjQ1hlVmZnR2NOOHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-26T10:00:55+00:00",
+      "title": "From silos to systems: Redefining radiology through network integration",
+      "summary_de": "In a new column, Charles Morris of Agfa HealthCare makes the case for imaging without boundaries.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/imaging-informatics/enterprise-imaging/article/15818312/agfa-healthcare-from-silos-to-systems-redefining-radiology-through-network-integration",
+      "published_at": "2026-02-26T10:16:56+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Challenges ahead as ABR prepares to reinstate oral exams",
+      "summary_de": "Surveyed program directors who personally took the oral boards view the change more favorably than those who did not.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/radiology-education/residents-fellows/article/15818302/challenges-ahead-as-abr-prepares-to-reinstate-oral-exams",
+      "published_at": "2026-02-26T10:01:47+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Cardiac MRI flags late gadolinium enhancement in Takotsubo patients",
+      "summary_de": "Late gadolinium enhancement was linked to earlier imaging after symptom onset and greater myocardial edema extent in a recent...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15818300/cardiac-mri-flags-late-gadolinium-enhancement-in-takotsubo-patients",
+      "published_at": "2026-02-26T09:47:37+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1018,16 +1070,6 @@
       "type": "News"
     },
     {
-      "title": "Ärztl. Geschäftsführer / Direktor Psychosomatische Medizin und Psychotherapie Stellenangebote in Hessen (0) - ärztestellen",
-      "summary_de": "Ärztl. Geschäftsführer / Direktor Psychosomatische Medizin und Psychotherapie Stellenangebote in Hessen (0) &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNY2NGR0dZYTZIanRNS241Q1liNnlXUDFuTXpGMmd1VUt5aEd3TzNnaHZmWWxrZHFRQ2c0RFAxZEZnVFpfell3bjRCaEFobWplYzV2cVhQOE9GNHNSMklwUE5DZVBBOEsxaXZEU05lT3lGeWhfYlprd2hoWUNoTWVQSm9wNzZSUC1iUFJhemZMOE9RUnpJaUdZZi0tSVo5NW9sZGZMSTY5cDg2NVJONjQyeUo2QVJEQmZJSHBqdlliUWdSeDBoS0tiY1ltcXNwdGt2bXJSQzRINUR4eExHcS1MZEFGQjRiV0MwV2hZNU1MOXdXVDViRGJvb3hKMWVqYkROYms1WFY0SlhPLXg1?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-26T02:45:41+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Aspirin and other nonsteroidal anti‐inflammatory drugs (NSAIDs) for preventing colorectal cancer and colorectal adenoma in the general population",
       "summary_de": "Aspirin and other nonsteroidal anti‐inflammatory drugs (NSAIDs) for preventing colorectal cancer and colorectal adenoma in the general population",
       "source_name": "Cochrane Library RSS feed.",
@@ -1044,6 +1086,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMkd1VVhRWWdSQmZJTGg1eGhtQlI2ekhpeDVSR3pTLUNyTktyREFUcnRNYzdDaVlnVFUyMzRFSnI4aWxuTXd1S0xlSU9zWWUwblJSenBOdGpnR1ZJUEJmR1V0U0RfLU4xM0NpdjZyaUdzQlU5NlF6TkJLcHJTX05HUVEwWTRxbF92ZHBxblNGVWttTEZCVm1FejdoWU1XX096WlNLREZmakVCdWNBZndOeUVVV2pISnZ5YU5YY1pZSnN2N2I4b0FLbFFmUU5fa0U5MXdfakJMSjZLNDlZZ2NsVkVKTF9SS2lZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-25T19:52:46+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "JAMA study shows wide global variation in cardiac imaging radiation dose",
+      "summary_de": "'Radiation doses varied significantly between imaging tests and among patients receiving the same tests,' researchers reported...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15818064/jama-study-shows-wide-global-variation-in-cardiac-imaging-radiation-dose",
+      "published_at": "2026-02-25T17:33:39+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1134,16 +1186,6 @@
       "type": "Studie"
     },
     {
-      "title": "Personal | Innere Medizin/Schwerpunkt Geriatrie | GRN - Klinik Sinsheim in 74889 Sinsheim - TK-Klinikführer",
-      "summary_de": "Personal | Innere Medizin/Schwerpunkt Geriatrie | GRN - Klinik Sinsheim in 74889 Sinsheim &nbsp;&nbsp; TK-Klinikführer",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRmN3c2RXLVJSa054cm9sZjRCeXVwWnE0V3JjZnpKUTVkazJybmJ1ZEo5dGh6UEVWbHV3WXJOYkowMkZxX1FuNVVpUzlaUW1TQmc1TWlXUEdyZEpRaWp0bmtMTWJ2OTk0WGQxR0RzckR0NjlLc0lUNVlGcGdkRjRoOEo1ZEV1dHRCeWc0b3lmVC1Peno1Nm5oc0F6anl6Y0ZzU3hzNkFQWVZQTzRWelVQeXBZU0RET21nZkpNcW81eU8zM1ZYcjdSYndxT3FjeXlENE5RZFZB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-25T10:36:58+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Depression – die unterschätzte Krankheit - Freunde der Zeit",
       "summary_de": "Depression – die unterschätzte Krankheit &nbsp;&nbsp; Freunde der Zeit",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
@@ -1186,6 +1228,16 @@
       "tags": [
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "LLM use rising for editing radiology research abstracts",
+      "summary_de": "More radiology researchers are using ChatGPT or other large language models (LLMs) to modify text in their research abstracts.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15818140/llm-use-rising-for-editing-radiology-research-abstracts",
+      "published_at": "2026-02-25T07:56:28+00:00",
+      "category": "Radiologie",
+      "tags": [],
       "type": "News"
     },
     {
@@ -1341,6 +1393,16 @@
       "type": "News"
     },
     {
+      "title": "How much solid waste do neurointerventions generate?",
+      "summary_de": "Researchers quantified waste generation in their neurointerventional angiography suite over 90 days.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/interventional/article/15818044/how-much-solid-waste-do-neurointerventions-generate",
+      "published_at": "2026-02-24T10:33:52+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Mentale Gesundheit: Mehr Depressionen und Ängste bei Mädchen nach Pandemie - DIE ZEIT",
       "summary_de": "Mentale Gesundheit: Mehr Depressionen und Ängste bei Mädchen nach Pandemie &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -1367,6 +1429,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOa2R2S196RE9kdHJXcDNEa0d2b1FMYnJiU000d2RfUjVlNVB0NTREZy1RbW1fei0xemxXTGJPQ1ctOUdCWnBWRVotSkFibTJuMzFucWx0TWJUbTlwdG9ZTWJrZml2NzBWbXhvbUxaWFlpS09tYUI0c1ZDakdzQVl5X1NpOFI4eXRJclV5dy1XZFZTZkNaU1B3TFlVeG9tNFNqdXQzalVTM2RfVnpvZTJnaHhiU2M5bnh2SnF2WS1yTkxtSXlhSnhSenRZaWpNV1FVRENKZ3V6d3NoenV3LWJVS1B3UGk3NUVGdkpYN3VaTlY4VnBqMDNN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-24T10:11:15+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Turnover increasing among radiology practices",
+      "summary_de": "Excessive workload, being a female, and working in nonacademic practices are tied to higher turnover among imaging practices.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/practice-management/article/15818043/turnover-increasing-among-radiology-practices",
+      "published_at": "2026-02-24T07:31:47+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1491,6 +1563,16 @@
       "type": "News"
     },
     {
+      "title": "Programmverantwortlicher Arzt (m/w/d) Mammographie-Screening - ärztestellen",
+      "summary_de": "Programmverantwortlicher Arzt (m/w/d) Mammographie-Screening &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb0dhVTJYY1oya25hVHZlYnFXaWloYnVyMThfWlhfQVBRMjF1TWVBSEo4aGoyRmdRQVZ4TElkOUtmQzV6Unkyc1dLT212Um5mMHJrTFZaNXRDSUJXLUYtaDRBTU40RUlxRWgzMGY5VmplbTlxclh0cVA1VVVBOE13c1J2cGo4VUprRDVITTFqeUc1NmNxb3JfWWN0Y29Sc3dpQ2pBNnlwQVJ4ZDk0Tnd3Nll4b0FzMndT?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-21T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Recruitment procedure opens for next Executive Director of the European Medicines Agency",
       "summary_de": "The vacancy notice for the next EMA Executive Director has been published in the Official Journal of the European Union, marking the beginning of the recruitment process for the…",
       "source_name": "News and press releases",
@@ -1526,16 +1608,6 @@
       "source_name": "EFSA | News",
       "source_url": "https://www.efsa.europa.eu/en/news/new-memorandum-understanding-mou-strengthens-cooperation-between-efsa-and-fao",
       "published_at": "2026-02-19T16:44:32+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "National Diabetes Audit Core Report 1: Care Processes and Treatment Targets 2024-25 Underlying data",
-      "summary_de": "The NDA provides a comprehensive view of diabetes care in England and Wales. It measures the effectiveness of diabetes healthcare against National Institute for Health and Care Excellence (NICE) Clinical Guidelines and NICE Quality Standards. The NDA supports improvement in the quality of diabetes care by enabling participating NHS services and organisations to: Assess local practice against NICE guidelines. Compare …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/national-diabetes-audit/report-1-cp-and-tt-data-release-2024-25/nda-report-1-cp-and-tt-data-release-2024-25",
-      "published_at": "2026-02-19T13:59:35+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
@@ -1805,16 +1877,6 @@
       "type": "Studie"
     },
     {
-      "title": "Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin - HEK",
-      "summary_de": "Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQ2FUeUpoRzlZMUZjYWNUQlNnMWVremZWXy1BWUlZNjZPWEJwaUxuWkxHMU1VVnJTXzVOdF9FZnNvWEtzLXVyZzFaczBMY1IwUDB3U0tkX0ZvU0lqUGZ4N3N4MGF4aFJsTnBYR2pCa1VXMjlJdUpfWWdGUzlRVEF3b1cxQVJJNkRCSFVlRXhPdlBkQWN3RF9oVEdZYU0zMEM3LWF3TWJsd0dIRFhBd21OQXN1WHFnMS00TFAwZjdUNkszT3o5S0xhZnJrTFBvbEtMWUxwN3hVWHVVWThCUzJGZWJjaGthS196cHJYNHZuWnlZdzE4RzBiR3l0RkRTNEE1TF9vbHJxdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-14T13:00:42+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "deinMRT – Radiologische Diagnostik für eine bewusste Vorsorge: Aufmerksamkeit für die eigene Gesundheit - RP Online",
       "summary_de": "deinMRT – Radiologische Diagnostik für eine bewusste Vorsorge: Aufmerksamkeit für die eigene Gesundheit &nbsp;&nbsp; RP Online",
       "source_name": "\"site:rp-online.de radiologie\" - Google News",
@@ -1899,6 +1961,16 @@
       "type": "Studie"
     },
     {
+      "title": "Facharzt/-ärztin Nuklearmedizin - ärztestellen",
+      "summary_de": "Facharzt/-ärztin Nuklearmedizin &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNk5YdlhLYktIelB6Y0oxNFJqenIxU3RUbTdxdHpVaGNEYW1iQmYxeG14SzB1ZVo4bmZXSkY5cjJ3WlJfTWtldHE4cFpkbGxMVHJUWkNGNXlWOEFsZktYbnVXLTg2OEIwdWExTlpJQVFRdGUtdmRxSUxvbVZla0pPX1Foc3Y2cEJRckFjQXNES1AxU1h6?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-12T23:00:23+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Episode 37 – No secret sauce: a recipe for transparent science",
       "summary_de": "Access to documents is a crucial ingredient of open science. But how do lawyers assess what requires protecting and what to release? Join us as we digest the law behind your menu.",
       "source_name": "EFSA | News",
@@ -1974,6 +2046,26 @@
       "source_name": "Publication Feed",
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/shmi/2026-02",
       "published_at": "2026-02-12T09:32:06+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "NHS Continuing Healthcare and NHS-funded Nursing Care for Q3 2025/26",
+      "summary_de": "This section contains statistics relating to the activity of NHS Continuing Healthcare and NHS-funded Nursing Care in England. Categories of activity covered are: eligibility, referrals, conversion rates, local resolutions and decision support tools.This data is published on the NHS England website. Please follow the link below.",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-nhs-continuing-healthcare-and-nhs-funded-nursing-care/q3-2025-26",
+      "published_at": "2026-02-12T09:31:44+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "NHS Cancelled Elective Operations, Q3 2025/26",
+      "summary_de": "Statistics and information on Cancelled Elective Operations. This section holds data on the number of cancelled elective operations and breaches of the standard. Data is also available on the total number of operating theatres and those which are dedicated day case theatres.This data is published on the NHS England website. Please follow the link below.",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-cancelled-elective-operations/q3-2025-26",
+      "published_at": "2026-02-12T09:31:43+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
@@ -2286,31 +2378,11 @@
       "type": "Studie"
     },
     {
-      "title": "Medizinische Leistungsangebote | Chirurgische Klinik | Bürgerhospital Frankfurt in 60318 Frankfurt am Main - HEK",
-      "summary_de": "Medizinische Leistungsangebote | Chirurgische Klinik | Bürgerhospital Frankfurt in 60318 Frankfurt am Main &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRm8zNEhrZjA5aGFFSG9rZENvMXF2clhFY3BORnprWlFUU1pHSU85eVY5aVZFSGNJRDBJN04zcXc2aFRzRk9xUU1RMC1jaGhEVWZmNGlsUFpYT0NZZWdmYlhzRlc3a2szazNEdklzOVpNTVY2b0NGZGVIY21XZm1qRmtMSjZ1SExmVU1iWkdjYUlYYzdVQ05ncl9nYi12NUk4V09Hd200TkhEUlZrN0RFRTFnckk4cjJDLUd3bW9pWklrN3BNTDhObVd2QTlJeWdSRE81QWZ4SWxhQmZ4M2Q5NXpnMWJjU2RRX3o3WUU1UnA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-10T12:15:51+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Veterinary drug residues in food: what’s the latest in the EU?",
       "summary_de": "In EFSA’s yearly report on residues of veterinary medicinal products in live animals and animal products.",
       "source_name": "EFSA | News",
       "source_url": "https://www.efsa.europa.eu/en/news/veterinary-drug-residues-food-whats-latest-eu",
       "published_at": "2026-02-10T10:19:49+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Personal Health Budgets: Quarter 3 2025-26",
-      "summary_de": "This publication provides Management Information (MI) for Integrated Care Boards (ICB) in England who submitted data on Personal Health Budgets (PHB) for Quarter 3 2025-26 (October - December 2025).",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/personal-health-budgets/2025-26-q3/personal-health-budgets-q3-2025-26",
-      "published_at": "2026-02-10T09:55:28+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
@@ -2353,6 +2425,26 @@
       "source_name": "\"site:hek.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTjlHN2tMcmVSTmZCRXo3TzNDSHdVa2xBUkpLSVlfa05JRVN2aFFIOF9ma1ZVZ1o2Z0JBOG85VDU0Q0xGcjQyVUhXQWhRQmMxcExDMEpQWnpCRnZIY1E4TDZ2eW5jcFJ1VWRyV3NyMzVjTWdkT0VlTVQxSllpQmFfeDhqQkEtdTRJX25RZm1WU3d3VWFuMHJKemRHd0FVNFdoNDl3MU9HX2Z1QVJ4ZVFiQzNyOXZlVExUQnZRbzdDR29qdlQtRkc4ME1hcG5XT3dGZUtVYlh5emRjWWdCV1pwUHE2SQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-08T02:05:19+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Besondere apparative Ausstattung | Klinik für Pädiatrie/Schwerpunkt Kinderneurologie | Sana Kliniken Düsseldorf GmbH, Krankenhaus Gerresheim in 40625 Düsseldorf - HEK",
+      "summary_de": "Besondere apparative Ausstattung | Klinik für Pädiatrie/Schwerpunkt Kinderneurologie | Sana Kliniken Düsseldorf GmbH, Krankenhaus Gerresheim in 40625 Düsseldorf &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOc05Wb3U1amFWalFqbEd4YmVOSmpFR2tVcUxLZE1ldWxVVkUzaDc5UFFVUW9qb2JIbXdWTEFfWGNLQmZYd3ZsQzJZa01JdmF4eXp2S01kcmFuYzFROW1LUXJWMm5QTE50REdKWHpVT3RxUGwySTdybjZvUS1FdUNWN1RJZFZUYVVOUUxIcVJWTmN0bmh3UVltaXFhWjMzSjJfZENPcmtkYVFwV0wzZThHRzBseE9aTkpBN09iRkllT0ZhOWNUQXpnNWFfNk1FRjZ5dzFTNW5BYzNEVUxacFpTbHFGWmFPcGp1bEpaNkYwN0N6MHBPYnZ2cHFBQVI0QWlkakItX21YcEpsODJiWXIwbkpHLWJ3c0FmVlRoS3FZSE9oWHR3Szg2WFpUX1gtdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-07T13:09:16+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Die Techniker - starke Leistungen mit Auszeichnung - Techniker Krankenkasse",
+      "summary_de": "Die Techniker - starke Leistungen mit Auszeichnung &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNDN4TFR6a1hKY3FIb0VFRFM1cV92dkFZcmpadGFkYTJVOTY4X1YzVEw2YmxDa21BSTBKU0NjSWhzem41VWJLY1F3ZWEweUFTRF9TOFVPVjhNYy14cWpNOHkzVFpSUEJ2bzZha0t3TG9yM2xNTlpLVGNBNDJqMUFOTk5tWnJJWHFUV25oeG5uRHBSRmphQVBJZ3h5cGJ4YllLYW5FQVNyWVhBWmJCZHJSQ2xRa0FqaXR5LTV2X09UYzQ2cTRCX1VjMFpVU00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-06T08:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -2432,12 +2524,12 @@
       "type": "News"
     },
     {
-      "title": "Röntgen, CT oder MRT? Radiologie-Chefin von Oberhavel-Klinik Hennigsdorf klärt auf - Märkische Allgemeine Zeitung",
-      "summary_de": "Röntgen, CT oder MRT? Radiologie-Chefin von Oberhavel-Klinik Hennigsdorf klärt auf &nbsp;&nbsp; Märkische Allgemeine Zeitung",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNb2tLQ0RIU283N1FFV19hV1J0YTFqbmJnRWVSUEs2N3JEUllJWVlJU0lHNTZ0VmNEYzVBYWRqZjVEcjFhd0JzQ0lPR1B0QzFsbmpzTDlrQ3JlUFZwM2VYWTFDRExOZ0wzUlhOXzVuWG80ZFNBNVlTdDJiam1rOFlxd0U2ZjhIQllRT1lGaG8za2EtcmxPQi1oTXRtX3VTd1hhVWJiVGl3OHRQMGFyREI2bXJqMFlzRUNBUzMtdEhQV2JwWEtXbDJ2dzN3SUdtcGsxVzAyQVFrMlJkQWdRNjZkYkRoSVdJUHhBUWY3WjhhZnQ0Z2pfbGpkUUoxcEs1b1XSAZsCQVVfeXFMTkpBYll3ajJSVUQ3bXBSUFNXWnJxR1ZXSnRYZTJnVDBiZWtTbHEyeUFRTGtOSDZ6Yk1keUVHZ3RhSllnelhEWkc2NWtfdnE4M2hiTWVFQXB2VXgwV3YzOUVhSDRxSHJpZTFaSklVUUJibmhZNl9hcmhFbDU1UGhLMzdoa0lfS2p6akRUQzJlNDhjYUFJR2xVaGxfR1ZXX0lNQktHYkRZM1NSQ3A1X0F0bkhQcVc2eGx3eDcxWjhCSjc2WkNyblFmN18wNjZzbnJXYXMxTzFNQ1ZGR3V0REhEdGJmdGcwamJRWDdnWXZVS2l1RUJmM2MyZWZpNTJ6NmtYWnF5cXJIdGhVVHRGT20zUS0xejRuM2JrODlsTQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-03T17:32:46+00:00",
-      "category": "Radiologie",
+      "title": "Julian Grabbe neuer Datenschutzbeauftragter der DAK-Gesundheit - dak.de",
+      "summary_de": "Julian Grabbe neuer Datenschutzbeauftragter der DAK-Gesundheit &nbsp;&nbsp; dak.de",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOS09jUmwtWUFoWDhzYkkyT3JxV2psX1BHMzdyUXRFTWpCMG9OZXIza3puSHZid0hfT0xtR09VX3hGeGFwM1JOWXpHbU9YWUFUaFdfaXBRM01lek1aS25fOUdwamF5b2N1eWdKNV9tRW1OekRLaWVJVVlRQnhtLVVjUzJKMEhQT0lwWDhiazBNazl0NjlpX2tJamQzNXdHSkJzNVplTXhPeTM5QzRiMzdyUm9idXdtcVVwdmFNeDRRV05uTVozSTVMclF0R252c0RiV2hqejl2TQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-03T08:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2608,16 +2700,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeG91OFFvWTVHQjY1aTdwREc2VU1ybzhVemJJbXE0VGtmZ3pQQi1QNVFDZ282QWcxV0I4SlNsRUJ6RU5UN0pfX0ZYTEgyclVnSHBtZ3RtQ3ZWVU43M3pnQ0ZCSjNqZVIwRkJtRlpmeDVxbHBsdExPbUt0QUVEMUhxZ0hfbWp4dU5fWk5EZW9JMTU4Y2phNU9uOFRwVVh5SGEySzBnTG1td1lhT0ljWFdudmxYN2FtUm1iYWFRWTRwQTlORDlXTlluX0VzMzVvdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-22T08:00:00+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Die Sachbezugswerte 2026 | Die Techniker - Firmenkunden - Techniker Krankenkasse",
-      "summary_de": "Die Sachbezugswerte 2026 | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX2EzUzQ1TFdqWWZqTzgzU2lwYVN6cDFzbnFUc3hLeEJUVlNCY3hQRS1RcFlseFJEYnhSU0lvU3JRajRrYnc3aFF2SmNEVEdEZlY4R1Y4d2phb0o5dlpMQmY0QXVVUEZPRVVuMWwzWk83N2NaaHpyWndtLXA2Q2phbEY3dGppTC1OeEVKdk9xajVnakFfRnVlTzBxSkJHVFU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-21T08:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
