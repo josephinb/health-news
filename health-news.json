@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-03-02T15:34:57.953723+00:00",
+  "generated_at": "2026-03-02T18:36:42.973413+00:00",
   "window_days": 42,
-  "count": 271,
+  "count": 260,
   "items": [
+    {
+      "title": "Decision: Orphan registered medicinal products",
+      "summary_de": "A list of authorised orphan medicinal products registered by the UK licensing authority.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/orphan-registered-medicinal-products",
+      "published_at": "2026-03-02T17:08:48+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Guidance: Early Access to Medicines Scheme: Overview",
+      "summary_de": "The Early Access to Medicines Scheme (EAMS) aims to give patients with life threatening or seriously debilitating conditions early access to medicines that show early signs of having a major advantage over existing therapeutics.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/early-access-to-medicines-scheme-overview",
+      "published_at": "2026-03-02T17:08:35+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pflanzliches Antidepressivum: Steckbrief Johanniskraut",
+      "summary_de": "Bei Johanniskraut denken Apotheker sofort an m&ouml;gliche Interaktionen. Nach einer sorgf&auml;ltigen Beratung kann das pflanzliche Antidepressivum Kunden mit leichten depressiven Episoden als erster Therapieversuch angeboten werden.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/steckbrief-johanniskraut-163190/",
+      "published_at": "2026-03-02T17:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Betrugsmasche: KI-Deepfakes werben für angebliche Medikamente",
+      "summary_de": "Laut Verbraucherzentralen nimmt der Betrug durch KI-Deepfake-Videos von Prominenten immer mehr zu. Dabei geht es auch um Werbung f&uuml;r angebliche Medikamente gegen Diabetes, Schwerh&ouml;rigkeit oder Prostatabeschwerden.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/ki-deepfakes-werben-fuer-angebliche-medikamente-163250/",
+      "published_at": "2026-03-02T16:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Multiresistente Erreger: Neue Leitlinie zur Antibiotikatherapie",
+      "summary_de": "Infektionen mit multiresistenten Erregern (MRE) verlaufen h&auml;ufig schwer bis lebensbedrohlich. Eine rasche, mikrobiologisch fundierte Therapieentscheidung ist das A und O. Eine neue Leitlinie widmet sich nun dem Einsatz von Reserveantibiotika.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/neue-leitlinie-zur-antibiotikatherapie-163242/",
+      "published_at": "2026-03-02T15:20:00+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Akzeptanz-Monitoring: Impfmythen halten sich hartnäckig",
       "summary_de": "Mehr als 60 Prozent der Bundesb&uuml;rger vertrauen auf Impfstoffe &ndash; doch viele glauben weiterhin an Mythen und f&uuml;rchten zu viele Impfungen f&uuml;r Kinder. Das zeigt die j&auml;hrliche Online-Befragung des Robert-Koch-Instituts.",
@@ -116,32 +166,12 @@
       "type": "News"
     },
     {
-      "title": "Bedenklicher Hang zu Impf-Mythen - SZ.de",
-      "summary_de": "Bedenklicher Hang zu Impf-Mythen &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMmFXcFBkMnhZZ1dFY09rWmlBSjB0WjhVam15LUFCSmMwZzE1YWdIblB5WlFTd0ZuRllMV1I5OE5SbXRfOFlqNlJhZ3pTT0hWQ0lGN196RWVFU2RhY0hLXzd0MmlqbzlxOUJVOG1tN00yUXdFRXl4YXQ3MFZFVkNLMXR1Q3c3NUhPV1FMQk9GWnRjTGZYYVFVQzJnZHFCMFEyM05F?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-02T13:06:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
       "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: Timonil Saft pU: Desitin Arzneimittel GmbH",
       "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
       "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
       "published_at": "2026-03-02T13:01:06+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Unfälle: Nach Zusammenstoß im Allgäu: Fahrer in Klinik gestorben - DIE ZEIT",
-      "summary_de": "Unfälle: Nach Zusammenstoß im Allgäu: Fahrer in Klinik gestorben &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRTRYNV82NXdYVXIzd3JQYUxNaW1lVXlOdlZJV0ZJVjFwZlU0aXNtUVA5SE1SQWsyTzJGZzN1Q2JjSXROaGRQMEQwUmlXVnQ2OGFzeGozb2ROcGtKSmF6SjhYSUVkajNRam9MZVVieW1RN0RUeklnS1dXZDFiMk1obk42bURZTWs1dFc5dHdRcl92ckR3Rk04?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-02T13:00:28+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -216,6 +246,16 @@
       "type": "News"
     },
     {
+      "title": "W2-Professur \"Künstliche Intelligenz\" - Hochschule Aalen - Technik, Wirtschaft und Gesundheit - ZEIT Stellenmarkt",
+      "summary_de": "W2-Professur \"Künstliche Intelligenz\" - Hochschule Aalen - Technik, Wirtschaft und Gesundheit &nbsp;&nbsp; ZEIT Stellenmarkt",
+      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMGVSRVJaOFhvanZ1REF5MTd6M3hOREtiZkNTNmQwNnZzMFpxeVc0M3JsMld0U1A3NG5MX0hFeWFNZEk3Smd2RkktQ3dZcFgzdzJrakp5di1JSW9ZWHhEaVdzWWpFclgzUnE3bHFldjRLZWNfTGwtUUJpMTZ2ckpvZHRYS1ZpQS1oUjhoNHRDNTQzN2FFNXpWb0c4SHFOb0hhekNKQlRKU3RyN2Y0cHNLcHVlZmM3ejFvekV3aDR3aWRpLTQ4MGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-02T11:31:13+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Mentale Gesundheit im Fokus: Ich fühle was, was du nicht siehst",
       "summary_de": "H&ouml;hen und Tiefen sind Teil des Lebens &ndash; entscheidend ist, mit welchen Strategien wir ihnen begegnen. Eine neue Ausstellung in Dresden beleuchtet psychische Erkrankungen aus k&uuml;nstlerischer Perspektive &ndash; und macht sie sp&uuml;rbar.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -275,26 +315,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/abda-informiert-11400-schueler-ueber-apothekenberufe-163194/",
       "published_at": "2026-03-02T09:30:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Zusatzbeitrag der Krankenkasse: Erklärung, Höhe, Wechsel - Barmer",
-      "summary_de": "Zusatzbeitrag der Krankenkasse: Erklärung, Höhe, Wechsel &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLNUM1bGdOX1dMR3M3V2RSMkdYQTR2MXExMUYtY2VyVTF4V1hwNUNzMHprQS1ZSG5iMkc5RVBacDZHNVM2ZHFTVVJGQ0FXYW81RXRQNlVZLTF5Z2Y5V05ackQ4eHlRUzZSeVBFUWV6WWo5QWhFQmw2YlRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-02T09:12:52+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Beschäftigung von Studierenden und Praktikant:innen - Techniker Krankenkasse",
-      "summary_de": "Beschäftigung von Studierenden und Praktikant:innen &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNclNWeGZGWjByZ2RJc2hNODlxR25XSTNxeWhkUGQ0YXNYR1BqTkJTM2FJVnpuNllZaFhmUEY0ZlQtM2FId1ByYWVqMmtnWTZKSHZGbTVYM2dOM2VDekZuN2NaQjUxZTNrNlJqWlN4cEoxOVdDM0E1a2pvTWUtN09TTU9ZUk9qR1ZsUVZfQW5KMjJ1RkVHNlNUX3o0ZzB5TlN3SV9BTjhiSTJETjFMSERTODJ5UzVIb29VOUp1RlBuME95WlMxOG9WUXh0S2RqV09XTTJPeGhBMnVzS21hZWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-02T09:05:13+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -384,16 +404,6 @@
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOck5yelRuNUkyM2dnV002ZUdYU2ZsSzhsSUx0RkY0OVMwWGVKVjl4ZWNYTV9BT3hFazVtam5namlCcUZPU0thX09UWDVlTV9JcWpGWWpCa0l6aXVqREpVVEtTM1NURWpMMmlZNG1CN1d2RjFzdDFCMmFrQUl0VUQzcFZaT2hwZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-01T18:38:29+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Medizinische Leistungsangebote | Klinik für Frauenheilkunde und Geburtshilfe | Ilmtalklinik GmbH Pfaffenhofen in 85276 Pfaffenhofen a. d. Ilm - HEK",
-      "summary_de": "Medizinische Leistungsangebote | Klinik für Frauenheilkunde und Geburtshilfe | Ilmtalklinik GmbH Pfaffenhofen in 85276 Pfaffenhofen a. d. Ilm &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPUld2aFdGcnhVWWlsX052cHRjekotQ3hkUEs1MC1KRXlkS2FqQ3M5Uk9xd3IyRUVmSkZjN1kzOW03STNVVGJJN24yT0NfT192OXdGVUM0dTNUWkNBVHhoMkJxRWZ0ZW5JT1RyV0VvclB4OHBSQUFxeENZbG8xN3JXN2pQd3BGOVd2enhMZlE1eGJtOW1RaW1QQ2dwV3JXU1hrMG5LaVdEVTFGU1hGQlBPRjBPM2NPT1NpV01tTFNtMlRxZDVVd2cyN2kyQ3AwX24tX1BrZERrYzVfaGY3c2R0eE9zeGdzX2xvYUpVYjNaU0FUd3MxMHFkSjhLWGZwZzR2OGJhYmMtZllaWllJNkZUMUkzOWhvTVc1bHZaRg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-01T17:40:09+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -521,16 +531,6 @@
       "type": "News"
     },
     {
-      "title": "Siemens MRT im Fokus: Warum Kliniken jetzt aufrüsten – und Patienten profitieren - AD HOC NEWS",
-      "summary_de": "Siemens MRT im Fokus: Warum Kliniken jetzt aufrüsten – und Patienten profitieren &nbsp;&nbsp; AD HOC NEWS",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdU5fXzdiMFI1cklOMGF1V3VNcW5qM2d2RWNESnVnNGdCRzFCQ1ZlRjd0RWphR2huNDlmcjJyOW9vendLVTcwRzYyWXVfUWQyZ0o2bTBraW42NzJWcVpOVE55aFNOT29kWEh1ZklXZ0FuN1lMQjgxZWhuMWdORkI5RXRDNWQ0dTcyRERyUWtFT3llNGFhSkJSdUxqcHktOWZfcHpDbW1HZHp3Y3l4LWVNbDdhLTg3b0FlT01CQ296T28yb0U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-01T02:55:21+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Qualitätsindikatoren | Klinik für Neurologie | in 21029 Hamburg - TK-Klinikführer",
       "summary_de": "Qualitätsindikatoren | Klinik für Neurologie | in 21029 Hamburg &nbsp;&nbsp; TK-Klinikführer",
       "source_name": "\"site:tk.de\" - Google News",
@@ -623,16 +623,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Personal | Klinik für Geriatrie | AMEOS Klinikum St. Clemens Oberhausen in 46145 Oberhausen - HEK",
-      "summary_de": "Personal | Klinik für Geriatrie | AMEOS Klinikum St. Clemens Oberhausen in 46145 Oberhausen &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUzVpejZGNjNWV1VMQXJNYUVJcVZ5QTNpN0Fza21uZTlqNm5zMEtaekcyel96S3FwZ05Vc3NrNThwemJVY1JMSTMzUVJEcUVBYUNQRG5rRHRhYmowTmFEdmNiWm80djk3dlZLZlVQR0NWRGsxQi1pX29wVVZUU1pHOUU1UjFJMDRwelI4YW1XQ2FjcXU4Y3Q5R0dGRHVMdlFZM21WaHB5TUlaRGQ1TGtYeWhNYUVoU3cxZ2xpRzhZaU8xVTFKcmEwcmpWWGtvTVZCdy1TNzhUQ1c1QXM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-28T03:47:28+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Allergie - Späterer Start, lange Saison: Was Allergikern jetzt droht - Gesundheit - SZ.de",
@@ -743,36 +733,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdzV4RUVFY1VzT2NqWEFNNGxjR1MtUGEtcy1RUHJaUERJb2hnM2VBQkxsckVILUZhUDRqc2xvYlROanhuZWFTYnNpM0FvYm5lT0F0UnhnMVlNZ1lTU3EyNVY2M05HV2hzdVRNVkZlcU05RDJaTW9wcFUxd3BqMS1aQkYxTlVSZHU0U09lS0hkN2stLThSZGhHY0thMEg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-27T15:05:09+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "PZ Briefing: Die Top-News vom 27.2.2026",
-      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-2722026-163203/",
-      "published_at": "2026-02-27T15:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gliome: Neues Arzneimittel für Hirntumoren bei Kindern in Sicht",
-      "summary_de": "Die EMA hat eine Zulassungsempfehlung f&uuml;r einen neuen Kinasehemmer f&uuml;r die h&auml;ufigste Form von Hirntumoren bei Kindern ausgesprochen. Zu den Nebenwirkungen geh&ouml;rt ein m&ouml;glicher Wechsel der Haarfarbe.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/neues-arzneimittel-fuer-hirntumoren-bei-kindern-in-sicht-163196/",
-      "published_at": "2026-02-27T14:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "ApoVWG : Pharma Deutschland fordert mutige Umsetzung",
-      "summary_de": "Anl&auml;sslich der ersten Lesung des Apothekenversorgung-Weiterentwicklungsgesetzes (ApoVWG) im Bundestag bekr&auml;ftigt der Verband Pharma Deutschland seine Unterst&uuml;tzung f&uuml;r eine grundlegende St&auml;rkung der Apotheken als vollwertige Gesundheitsdienstleister. Dies teilte der Verband in einer Pressemitteilung mit.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/pharma-deutschland-fordert-mutige-umsetzung-163198/",
-      "published_at": "2026-02-27T14:24:40+00:00",
-      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -918,7 +878,7 @@
     },
     {
       "title": "New medicine to treat paediatric low-grade glioma",
-      "summary_de": "EMA has recommended granting a conditional marketing authorisation in the European Union (EU) for Ojemda (tovorafenib) to treat patients aged 6 months and older with paediatric…",
+      "summary_de": "Updated on 2 March 2026:The description of the tumour in the opening paragraph has been amended.EMA has recommended granting a conditional marketing authorisation in the…",
       "source_name": "News and press releases",
       "source_url": "https://www.ema.europa.eu/en/news/new-medicine-treat-paediatric-low-grade-glioma",
       "published_at": "2026-02-27T09:25:43+00:00",
@@ -1041,21 +1001,21 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Mehr Berechtigte: Barmer will Reform der Pflegeversicherung - DIE ZEIT",
-      "summary_de": "Gesundheit: Mehr Berechtigte: Barmer will Reform der Pflegeversicherung &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSU5KTnlNVHNHT256Y2V0NmlybW4wRmNScmJ2X3d0MW1zbVhmTUxmU1BTekIwYjBTQXliZy1LaXBzU3BWcWJWYkJqSl96aFdRdmZTcG11Sk8xa0YyLXRXUWlzbGhvTEs4RmI2WFZYeFd0WS1MTzI3dERUUlVLZVh6OGNBMC05MFV4ZEJBWTk0NGxwSFZGc1BHQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-26T13:47:13+00:00",
+      "title": "Entfernung der Gallenblase (CHE) | Allgemeine Chirurgie/Schwerpunkt Abdominal- und Gefäßchirurgie | GRN - Klinik Eberbach in 69412 Eberbach - HEK",
+      "summary_de": "Entfernung der Gallenblase (CHE) | Allgemeine Chirurgie/Schwerpunkt Abdominal- und Gefäßchirurgie | GRN - Klinik Eberbach in 69412 Eberbach &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPMlFiczAyNDhPSS1Cei1yLTJGTlg2azBzRWRlYjFpOXd1eV9hVlJ1X2FyTlRQYUJKQWwwYkJtWXhOSF9KaDhLYkVsTzc2OEJ5bGd5ZmpJYzF6OE90TC1iaGpKTWRfS2VyejNFb0hwUDhLLUtmaW02OXNFT01WaGRBTndYQ09YRUxHZnIxY1VsczJOM0xESm5pZVg2SzNuZEJNWXloU2hOUHlxbkhQUmRfbmtjRGU1bHN2aVZjVFNRbFJyS2NNYXpzRWdrTjNqU2JHN2VXMHpKdmZUb3pkTFlWWTd2a1hlLUxCWGhfVFlHLXRtbTkyN1hOckdpWXdibFlxcWJIYnNmR1JXbmdPNVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-26T13:59:39+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Klinik für Anästhesie und Intensivmedizin - HEK",
-      "summary_de": "Klinik für Anästhesie und Intensivmedizin &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbW0wYjVWTG9zTmJEbndZRXRWRTFFMEk4cHpva2hVZFdsYWpGLVpvRUVHcDBTVktmRjlBM3MzOHhGdDE4ZkNUd1ZRRjJfNnNNS1ZmZm1XZkRxZno5QlVkLUlVaG8xR3R3cEN1RHprR1RFZGM0WHNvb1FCcE85VngxTzBSWUFOc3AxZlZrRkpiOFQ0SkxyNm40UExVM09kZ2YwY2Mya3NydlgxX2pCTHlPd05aSWxEVXo0cXdhb1pBLTZGa1VORGJJWFZEQms0dkNwYk0tN2xMbVlmY0lLTHY1NDJKYU4yYXR2aGlmakxB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-26T13:30:46+00:00",
+      "title": "Gesundheit: Mehr Berechtigte: Barmer will Reform der Pflegeversicherung - DIE ZEIT",
+      "summary_de": "Gesundheit: Mehr Berechtigte: Barmer will Reform der Pflegeversicherung &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSU5KTnlNVHNHT256Y2V0NmlybW4wRmNScmJ2X3d0MW1zbVhmTUxmU1BTekIwYjBTQXliZy1LaXBzU3BWcWJWYkJqSl96aFdRdmZTcG11Sk8xa0YyLXRXUWlzbGhvTEs4RmI2WFZYeFd0WS1MTzI3dERUUlVLZVh6OGNBMC05MFV4ZEJBWTk0NGxwSFZGc1BHQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-26T13:47:13+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1087,16 +1047,6 @@
       "source_url": "https://www.gov.uk/government/publications/strengthening-supply-chain-cyber-security-at-the-mhra",
       "published_at": "2026-02-26T12:11:28+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Informationen zum Datenschutz bei der Hanseatischen Krankenkasse Alle von uns erhobenen Daten unterliegen einem besonderen Schut - HEK",
-      "summary_de": "Informationen zum Datenschutz bei der Hanseatischen Krankenkasse Alle von uns erhobenen Daten unterliegen einem besonderen Schut &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR2RZZTBmZ19nYkw1enhnaWpJemNvbXZodV9PQ3NFQnVBenJBV0NaRi0ySVBSTTJJSmU3OEVGS2dNeFVvR3VSdkNsbnJxZXdlV2pjNzNyM0pCMldwY0tUc1JTQWNPRXJuRjE5d0k1a2tHaUp4VTJwbjE5VHlhMzRvRzhWWktTTGQ2YkZKb3B6dlRSM0xTWDVSSzNVek13WE5CcjlZaEt4YmdJYTZmbFcwTzFRTzg1SHJKLUp4QVdfUTFrOU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-26T11:13:04+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1303,16 +1253,6 @@
       "type": "Studie"
     },
     {
-      "title": "Decision: Orphan registered medicinal products",
-      "summary_de": "A list of authorised orphan medicinal products registered by the UK licensing authority.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/orphan-registered-medicinal-products",
-      "published_at": "2026-02-25T14:06:16+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "General Practice Workforce, 31 January 2026",
       "summary_de": "The General Practice Workforce series of Official Statistics presents a snapshot of the primary care general practice workforce. A snapshot statistic relates to the situation at a specific date, which for these workforce statistics is now the last calendar day each month.This monthly snapshot reflects the general practice workforce at 31 January 2026. These statistics present full-time equivalent (FTE) and …",
       "source_name": "Publication Feed",
@@ -1365,6 +1305,16 @@
         "Europa"
       ],
       "type": "Studie"
+    },
+    {
+      "title": "Personal | Innere Medizin/Schwerpunkt Geriatrie | GRN - Klinik Sinsheim in 74889 Sinsheim - TK-Klinikführer",
+      "summary_de": "Personal | Innere Medizin/Schwerpunkt Geriatrie | GRN - Klinik Sinsheim in 74889 Sinsheim &nbsp;&nbsp; TK-Klinikführer",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRmN3c2RXLVJSa054cm9sZjRCeXVwWnE0V3JjZnpKUTVkazJybmJ1ZEo5dGh6UEVWbHV3WXJOYkowMkZxX1FuNVVpUzlaUW1TQmc1TWlXUEdyZEpRaWp0bmtMTWJ2OTk0WGQxR0RzckR0NjlLc0lUNVlGcGdkRjRoOEo1ZEV1dHRCeWc0b3lmVC1Peno1Nm5oc0F6anl6Y0ZzU3hzNkFQWVZQTzRWelVQeXBZU0RET21nZkpNcW81eU8zM1ZYcjdSYndxT3FjeXlENE5RZFZB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-25T10:36:58+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Depression – die unterschätzte Krankheit - Freunde der Zeit",
@@ -1432,6 +1382,16 @@
       "type": "News"
     },
     {
+      "title": "Arzt / Facharzt Vollzeit Gesundheit Nord gGmbH - Klinikverbund Bremen Klinik Stellenangebote in Bremen - ärztestellen",
+      "summary_de": "Arzt / Facharzt Vollzeit Gesundheit Nord gGmbH - Klinikverbund Bremen Klinik Stellenangebote in Bremen &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSXRCeE1mOHd6RlpxN2dRN2M5bU9XT0RGRkZxLUt4bUc3cDRwaGZ4dVJvMWUtcjhNbVBmUnVvQkZNQ0prc2RXOTg2UmxqYjNIclRneE4tUzhmWjlCSXVTVmJBcjhfSVhmLUtUdjd1MVNoX2RsRmxILWNVZkxfMnFjdVNOTkhHTDFUeFk3RjRHdnRuZFZMbWtJLXRqVG1EWl9Sb0lVWktzWjlkRjFBdnR2ZzA0ZURpQ2huNFFDaDFHU05ZczIwTnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-24T20:49:34+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Psychiatrie und Psychotherapie GeRN® Gesellschaft für Radiologie und Nuklearmedizin GbR, Stellenangebote in Homburg | Ärztestellen - ärztestellen",
       "summary_de": "Psychiatrie und Psychotherapie GeRN® Gesellschaft für Radiologie und Nuklearmedizin GbR, Stellenangebote in Homburg | Ärztestellen &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
@@ -1468,28 +1428,6 @@
       "source_url": "https://www.gov.uk/guidance/apply-for-a-licence-to-market-a-medicine-in-the-uk",
       "published_at": "2026-02-24T17:38:19+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "MHRA approves imlunestrant tosylate (Inluriyo) - a new treatment for breast cancer",
-      "summary_de": "As with any medicine, the MHRA will keep the safety and effectiveness of imlunestrant tosylate under close review.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/mhra-approves-imlunestrant-tosylate-inluryo-a-new-treatment-for-breast-cancer",
-      "published_at": "2026-02-24T16:22:00+00:00",
-      "category": "Studie",
-      "tags": [
-        "Europa"
-      ],
-      "type": "Studie"
-    },
-    {
-      "title": "Zuwanderung - Immer mehr Ärzte kommen aus dem Ausland - Gesundheit - SZ.de",
-      "summary_de": "Zuwanderung - Immer mehr Ärzte kommen aus dem Ausland - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWkpkWUZ3VllRbXVRb3VNNDNmT1dpT0N3SjhicTBKNUE1UldqS3NKQV9PdS1Cc1VSZ09abUlWbTJfN3RLU3hfLWpEdUtnaTc1RHg5LUN3Z0VGckhWM2hrR01NbnRsdVJCWHlRM1pPOXNfQWZtUUNNbjZ0b1JRTzVuLUVkUnBKUUJmVVlDcHZoOWptTHZWNWhlZWZrdHAtWHkwVmhja1hpamJLaHJyMmNwOFA2NlE4bXpmLXhpS3lqbHNGYVZsLWE3cnpkR3EwSFltYXdrbUZhMC0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-24T14:39:43+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1594,16 +1532,6 @@
       "type": "News"
     },
     {
-      "title": "Medizinische Klinik 1 - Gastroenterologie, Pneumologie und Endokrinologie - TK-Klinikführer",
-      "summary_de": "Medizinische Klinik 1 - Gastroenterologie, Pneumologie und Endokrinologie &nbsp;&nbsp; TK-Klinikführer",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQZ2pWVm1IQmhMem5jSGd1aTUxQjJlbzV2VEFJVkR4R25OWTV6V0lFQ09kU0VHbG5lRzNGYloybGtIU2NDeExleWQwSndsZUh3dHR6dDZnVzJVY09HM3JUTWRGUjJvdThDbUtqV3pITDBpcElNTmpmMWRrZzVhckcySFJZWkdlQWpOeEFSOUlLNlhMWGlfNjhybHg5WTNYTW54X1FIeHhKVk9pSXZBTE05Tkh2eVBCaFBaZWlpOEdyQ0p5YWVxZzgyWF9ua2hhcE1PV2VFcHd1cUotRDhzeEJPRUQ5LVdCQktzZWRKOXhTYnhiNFdONG9xeW1QMFFIWEJzRGtTVmtiaDZUNzcyZWhieGpHSG5UaTNGanlOSnpmdUZVX1pNUGhLZ3h3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-24T05:28:44+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Psychische Gesundheit: Olympiasieger Rösch über Depressionen: War mental tot - DIE ZEIT",
       "summary_de": "Psychische Gesundheit: Olympiasieger Rösch über Depressionen: War mental tot &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -1654,26 +1582,6 @@
       "type": "News"
     },
     {
-      "title": "Impfung gegen Meningokokken - Techniker Krankenkasse",
-      "summary_de": "Impfung gegen Meningokokken &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNm9vc3dtbi0zZFNvaVZtQlgzSnAyRXE4eHZiXzRKQ0FNMjNHdDdQQW9iUFNzeEN6SGtHRXlqUVIxd0laYU1HQ2RoLUwycmpDQXkyMHBoanBjUEJzcDdpVzZGRXFBbHh4TEF2cXlGbVNYVzl0clBIQ0FvQ0tpWmttRFIyQl9oQmVMYnAtVkl0bGx1NldqUVV6Q19OVUxnci1kMDBVajlZMEcyVzJxRkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-23T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Programmverantwortlicher Arzt (m/w/d) Mammographie-Screening - ärztestellen",
-      "summary_de": "Programmverantwortlicher Arzt (m/w/d) Mammographie-Screening &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb0dhVTJYY1oya25hVHZlYnFXaWloYnVyMThfWlhfQVBRMjF1TWVBSEo4aGoyRmdRQVZ4TElkOUtmQzV6Unkyc1dLT212Um5mMHJrTFZaNXRDSUJXLUYtaDRBTU40RUlxRWgzMGY5VmplbTlxclh0cVA1VVVBOE13c1J2cGo4VUprRDVITTFqeUc1NmNxb3JfWWN0Y29Sc3dpQ2pBNnlwQVJ4ZDk0Tnd3Nll4b0FzMndT?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-21T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Recruitment procedure opens for next Executive Director of the European Medicines Agency",
       "summary_de": "The vacancy notice for the next EMA Executive Director has been published in the Official Journal of the European Union, marking the beginning of the recruitment process for the…",
       "source_name": "News and press releases",
@@ -1709,6 +1617,16 @@
       "source_name": "EFSA | News",
       "source_url": "https://www.efsa.europa.eu/en/news/new-memorandum-understanding-mou-strengthens-cooperation-between-efsa-and-fao",
       "published_at": "2026-02-19T16:44:32+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "National Diabetes Audit Core Report 1: Care Processes and Treatment Targets 2024-25 Underlying data",
+      "summary_de": "The NDA provides a comprehensive view of diabetes care in England and Wales. It measures the effectiveness of diabetes healthcare against National Institute for Health and Care Excellence (NICE) Clinical Guidelines and NICE Quality Standards. The NDA supports improvement in the quality of diabetes care by enabling participating NHS services and organisations to: Assess local practice against NICE guidelines. Compare …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/national-diabetes-audit/report-1-cp-and-tt-data-release-2024-25/nda-report-1-cp-and-tt-data-release-2024-25",
+      "published_at": "2026-02-19T13:59:35+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
@@ -1785,16 +1703,6 @@
       "tags": [
         "Europa"
       ],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Hamburg Harburg - Barmer",
-      "summary_de": "BARMER Krankenkasse in Hamburg Harburg &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNczlFajZMNW50dURPa2hpNGZBZzQ1LWctRE1MWmQtTUF0bTlJUGhqWktaQ05HdWVCMjZYWksxMHBLMmlnblNvakRJYXQtU1FhYTdhVlVCZVhNVWU1Zm00ZUZITTdpa0V0NTdwSU9kam1MXzVSMDlGUTNmN1UwbG1QVUdBREszR0hwUmRwUmxscFlESFRLNFkwZlRmaEVEQWFkNE1HVUNteDRVaThLcnNhSUxVcEZNbFJXcmZUZl8waTZoVE9rdk1wVS02LXlNVVlnTEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-19T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
@@ -1888,26 +1796,6 @@
       "type": "News"
     },
     {
-      "title": "Qualitätsindikatoren | Klinik für Palliativmedizin; Spezialisierte Ambulante Palliativversorgung (SAPV) | in 91522 Ansbach - HEK",
-      "summary_de": "Qualitätsindikatoren | Klinik für Palliativmedizin; Spezialisierte Ambulante Palliativversorgung (SAPV) | in 91522 Ansbach &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOZE0zeWdQYUJ1WWozUXdOMENDM3Q4RUl0VS0za1NyUlFQY29Nci1hZDhCMmxadm50bzc4c0U5RXVYV19RQk03enRwZUxQY0JSeGo5d2tsY3p1SmNJR0ZFRnpLSHdNRk56VXA1SklWX3ZuVV9TR2E4SWNJWGVkczRSX0R0YVcyNUpHV1pnVDZPVS1jMG1hOVJYQTBnNFRHcENiTEltcElLTWNqNE9mOGVidTJ3ejQtU09LUzVraW9ZOF9OZDhnLTVUYkg3UVQ1YkgyczZUSk9fa1ZGRkQ1azNIbUlHN1QxeVZYblpBTUJJU0JKV0JMczVpQlZTd1ZzanhsZmNEWGVhSUJOa1lDWE5kQ1ZPSmJEaU9lelE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-17T02:51:55+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Klinik für Orthopädie - HEK",
-      "summary_de": "Klinik für Orthopädie &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRHQwcUhjbXV5MndUcF9aZl9nbTdneFhaSjlPa2dUdkNLcVVacldPQzcwN3Q0Qmk4VEhySHV1anVIWHFsQktlaDVRcjBKN3dxQmZMcmZuRXZyYXNxZTBkYXRTYVhTNXVKQW8tV1ZvUU5ySDFoTC11N2FqMlV3Ul9zTjhQdVJsTU1DQnN4S29ZYXEwUWQ5SHR3aFJ6c09iRTd4NTgxZlZoZ3FSMkVXcko2cE9fODUwaS1qQlJqLTJZd3hhRjNZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-17T00:07:30+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Respiratory support during endotracheal intubation to improve intubation success in neonates",
       "summary_de": "Respiratory support during endotracheal intubation to improve intubation success in neonates",
       "source_name": "Cochrane Library RSS feed.",
@@ -1976,6 +1864,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Ihr Portal für Digitale Gesundheit - BARMER",
+      "summary_de": "Ihr Portal für Digitale Gesundheit &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDTWN3bVQtWVZ3X29IVmZUSGR2dXYzWlZiczJvT0NHVkNfdTBsdklrNE5fc1BOU2dVUFcyN01GMld4N3E2eGpLbnlzQlFPd21fUVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-16T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Intermittent fasting for adults with overweight or obesity",
@@ -2072,16 +1970,6 @@
       "type": "Studie"
     },
     {
-      "title": "Facharzt/-ärztin Nuklearmedizin - ärztestellen",
-      "summary_de": "Facharzt/-ärztin Nuklearmedizin &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNk5YdlhLYktIelB6Y0oxNFJqenIxU3RUbTdxdHpVaGNEYW1iQmYxeG14SzB1ZVo4bmZXSkY5cjJ3WlJfTWtldHE4cFpkbGxMVHJUWkNGNXlWOEFsZktYbnVXLTg2OEIwdWExTlpJQVFRdGUtdmRxSUxvbVZla0pPX1Foc3Y2cEJRckFjQXNES1AxU1h6?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-12T23:00:23+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Episode 37 – No secret sauce: a recipe for transparent science",
       "summary_de": "Access to documents is a crucial ingredient of open science. But how do lawyers assess what requires protecting and what to release? Join us as we digest the law behind your menu.",
       "source_name": "EFSA | News",
@@ -2147,26 +2035,6 @@
       "source_name": "Publication Feed",
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/shmi/2026-02",
       "published_at": "2026-02-12T09:32:06+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "National Wheelchair Data Collection Quarterly Publication, Q3 2025/26",
-      "summary_de": "This data supports the drive for improvements in wheelchair services. The collection has been published as an official statistics since quarter one of 2019-20 (April – June 2019).This data is published on the NHS England website. Please follow the link below.",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-national-wheelchair-data-collection/q3-2025-26",
-      "published_at": "2026-02-12T09:31:47+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "NHS Continuing Healthcare and NHS-funded Nursing Care for Q3 2025/26",
-      "summary_de": "This section contains statistics relating to the activity of NHS Continuing Healthcare and NHS-funded Nursing Care in England. Categories of activity covered are: eligibility, referrals, conversion rates, local resolutions and decision support tools.This data is published on the NHS England website. Please follow the link below.",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-nhs-continuing-healthcare-and-nhs-funded-nursing-care/q3-2025-26",
-      "published_at": "2026-02-12T09:31:44+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
@@ -2489,6 +2357,16 @@
       "type": "News"
     },
     {
+      "title": "Personal Health Budgets: Quarter 3 2025-26",
+      "summary_de": "This publication provides Management Information (MI) for Integrated Care Boards (ICB) in England who submitted data on Personal Health Budgets (PHB) for Quarter 3 2025-26 (October - December 2025).",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/personal-health-budgets/2025-26-q3/personal-health-budgets-q3-2025-26",
+      "published_at": "2026-02-10T09:55:28+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Medizinische Leistungsangebote | Klinik für Notfall- und Akutmedizin | Carl-von-Basedow-Klinikum Saalekreis, Standort Merseburg in 06217 Merseburg - HEK",
       "summary_de": "Medizinische Leistungsangebote | Klinik für Notfall- und Akutmedizin | Carl-von-Basedow-Klinikum Saalekreis, Standort Merseburg in 06217 Merseburg &nbsp;&nbsp; HEK",
       "source_name": "\"site:hek.de\" - Google News",
@@ -2526,6 +2404,16 @@
       "source_name": "\"site:hek.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZWprUzdXa2ZJZTdZbkREaWt0WWpvYVhUaW9NNjZEUWdMR0Y3N1ByclVoai15VjNCMTZjYXNnNW9vN3hLLTViVUFObHg0eGp1dDlpZDByTVBNYlB0YkFHc2lBWVNtMUZueVRjZkUwbFozOXZxN3JKOHJ1Y1hoRUVoU3V6RllFdTF5WUozcHFtd0dPSkpsUy1VOWptbXg2RmRodGlOajFSdFdrVXBoTUpvajA1WEd5a3QwcU14TXlaaU5EUm9lRmhKVElqVjZGX1liZmZUdUZ0ZlNZeTdRdGk5d3RyWktQUFd3ZWg0dElRbUtZaXFHZEY4QWJpWnVTamhETVQzWWt3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-08T12:56:58+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Innere Medizin/Schwerpunkt Geriatrie - HEK",
+      "summary_de": "Innere Medizin/Schwerpunkt Geriatrie &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTjlHN2tMcmVSTmZCRXo3TzNDSHdVa2xBUkpLSVlfa05JRVN2aFFIOF9ma1ZVZ1o2Z0JBOG85VDU0Q0xGcjQyVUhXQWhRQmMxcExDMEpQWnpCRnZIY1E4TDZ2eW5jcFJ1VWRyV3NyMzVjTWdkT0VlTVQxSllpQmFfeDhqQkEtdTRJX25RZm1WU3d3VWFuMHJKemRHd0FVNFdoNDl3MU9HX2Z1QVJ4ZVFiQzNyOXZlVExUQnZRbzdDR29qdlQtRkc4ME1hcG5XT3dGZUtVYlh5emRjWWdCV1pwUHE2SQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-08T02:05:19+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -2595,8 +2483,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Haldensleben - Barmer",
-      "summary_de": "BARMER Krankenkasse in Haldensleben &nbsp;&nbsp; Barmer",
+      "title": "BARMER Krankenkasse in Haldensleben - BARMER",
+      "summary_de": "BARMER Krankenkasse in Haldensleben &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMEpYclQxNFdvVkxxS0xXSUxzdVotR0FKellhM2R4LUlpUU5CZ05fdDBtZ25WUWlHOWlvU1hyYWhIQ1pSSllZeVcyeTZ4WmNzb2pQdzNOOEpHYy1IQ05namZ4S0ViSVNXWEVqQV9LM1h5Y21jZXFOQ0NhVHJDLWcyX19EWkl0NlJiM3pVcFBjZWlrRUg1Um5mRlRfS3ZmLXRBbHVDUWttcmdzWFc4VmZVZlF5SGlmMUZGdnJySEtiekFWUkE5aUd1ZkVaUEkzdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-04T08:00:00+00:00",
@@ -2654,6 +2542,18 @@
       "published_at": "2026-01-29T09:58:00+00:00",
       "category": "Versorgung",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Neues MRT-Gerät in Magdeburg: Wie Patienten von der Millionen-Investition profitieren - Volksstimme",
+      "summary_de": "Neues MRT-Gerät in Magdeburg: Wie Patienten von der Millionen-Investition profitieren &nbsp;&nbsp; Volksstimme",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbmlpNVBlOUFBcmhYc1F1QWlKc0tzcXY4Z0FtUUZtWDBTem5pMlVfNURVLThDOEZDV2FDc09SbFFYMUd4MHMydTFuQnRNajNBVTRZdlFlWXNBeGZCa0Yyb3dvTG5oa2NCMnVWcXBmLUZ1ZkZGeUNvRk42UkF3Q3E5WnhSTVpyTzlDRUxzQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-29T08:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -2755,16 +2655,6 @@
         "Versorgung",
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "BARMER Krankenkasse in Helmstedt - Barmer",
-      "summary_de": "BARMER Krankenkasse in Helmstedt &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQVA5eTV5OG1KaEg5cjZoQXVjWFBjRU96WTlnY2hoaWgwZzBZN1NlSXVKVTgzb0c2T2l2TnhrOG13MEN0MWVibnUxLVNpSDJ3aW96b0NNTlJfenUxdTRhdkhXRlpVZUVWTU9PbktnbjczYzVGNUt5TlN5eDBSU1RNd0lNTlEtZGFnUTFTTzV6cFRVc01IaUVXelNxMmVJMGwtTDRxc0FlQmJMb0E4Y2VzdHJRUGlITmh3ZHk5Qk1iZVlDcVItb3FrYlhB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-20T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
