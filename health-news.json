@@ -1,8 +1,158 @@
 {
-  "generated_at": "2026-03-03T12:39:46.819244+00:00",
+  "generated_at": "2026-03-03T15:40:41.699137+00:00",
   "window_days": 42,
-  "count": 259,
+  "count": 262,
   "items": [
+    {
+      "title": "ApoVWG-Stellungnahmen: Zwischen Versandverbot und Staatsapotheken",
+      "summary_de": "Morgen findet die Anh&ouml;rung zum Apothekenversorgung-Weiterentwicklungsgesetz (ApoVWG) im Bundestag statt. Neben der ABDA haben zahlreiche Verb&auml;nde aus dem Gesundheitswesen Stellungnahmen abgegeben, darunter auch einige Splittergruppen der Apothekerschaft.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/zwischen-versandverbot-und-staatsapotheken-163280/",
+      "published_at": "2026-03-03T15:24:08+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Psychische Erkrankungen: Diese DiGA gibt es",
+      "summary_de": "Mehr als 20 digitale Gesundheitsanwendungen (DiGA) richten sich mittlerweile an Menschen mit psychischen Erkrankungen. Welche Anwendungen verf&uuml;gbar sind und wo ihre Chancen und Grenzen liegen, zeigt dieser &Uuml;berblick.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/diese-diga-gibt-es-163230/",
+      "published_at": "2026-03-03T15:20:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "PZ Briefing: Die Top-News vom 3.3.2026",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-332026-163279/",
+      "published_at": "2026-03-03T15:14:08+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Human medicines: highlights of 2022",
+      "summary_de": "Update as of 3 March 2026This news was updated to accurately reflect the number of medicines with a new active substance recommended for marketing authorisation.In 2022, EMA…",
+      "source_name": "News and press releases",
+      "source_url": "https://www.ema.europa.eu/en/news/human-medicines-highlights-2022",
+      "published_at": "2026-03-03T14:58:00+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Apothekenreform im Gesundheitsausschuss: Kassen warnen vor neuen Kosten",
+      "summary_de": "Kurz bevor die&nbsp; geplante Apothekenreform im Gesundheitsausschuss besprochen wird, melden sich die Krankenkassen mit Stellungnahmen zu Wort. Die Kassen bef&uuml;rchten vor allem Kostensteigerungen und eine weitere Belastung ihrer prek&auml;ren Finanzen.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/kassen-warnen-vor-neuen-kosten-163271/",
+      "published_at": "2026-03-03T14:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit: NRW will Patienten gezielter zum passenden Arzt lotsen - DIE ZEIT",
+      "summary_de": "Gesundheit: NRW will Patienten gezielter zum passenden Arzt lotsen &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT2h4cXpRYndCempaV1Q0Y2hPRlpWOGRUamVYWXhIWGRURklaRjA2MHpwSWF1R0R3MDY3NlZDV1F6R0ctc0UzSEUwZU1pNGt6TkF6NlV3bXo2MkcwZnhha2FGN2dnMV9LdlBNYU44c0JRQVRjV25La1A0NVlIUlJFcmtrWGt1Z2o2YkUxV0VjeGtrZFNEQU5r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-03T13:49:21+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit - NRW will Patienten gezielter zum passenden Arzt lotsen - Gesundheit - SZ.de",
+      "summary_de": "Gesundheit - NRW will Patienten gezielter zum passenden Arzt lotsen - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTDFzeGpFcVFEQnhUVURxV09PV2c5cTFkWTRGdmpJa2pVQ1FqZDl0N3p1R3JRRlhKUkpxRi0yNWN0NW01MUlOS0ZQRk9xS3ZBVVk3RHVoeUlVRHJHZDYtbW5vdWpvV2VOSk9MejEzb3RweXJXWVlJbVNkT3czczlPblhfRTRqUlJ3ZjNWaElvR3dQNnJSYzRHd2xlLVJuel9kNEU3X19yVWVaZk85RFh1azFETFNwNFFjR0RMbUJ3c3JwWTFRelR3Q3pHV3JlZUl3Y1VHNlh4aHFULVItZG5zQjZfZXBaTE5lMHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-03T13:49:21+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Erstmeldung Arzneimittel: Xarelto 1 mg/ml Granulat zur Herstellung einer Suspension zum Einnehmen pU: Bayer Aktiengesellschaft",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-03-03T13:38:28+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Apothekenprotest : HAV ruft zur Beteiligung auf",
+      "summary_de": "Der Hessische Apothekerverband (HAV) ruft zur Beteiligung bei den bundesweiten Apothekenprotesten am 23. M&auml;rz auf. Laut einer internen Abfrage des Verbands werden sich viele Apotheken in Hessen daran beteiligen. Dies teilte der Verband heute in einer Pressemitteilung mit.&nbsp;&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/hav-ruft-zur-beteiligung-auf-163275/",
+      "published_at": "2026-03-03T13:16:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Studie - Hamburger Kinder häufiger übergewichtig - Gesundheit - SZ.de",
+      "summary_de": "Studie - Hamburger Kinder häufiger übergewichtig - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcWRrLXRJdWVYRE1CTU1aLWxCYkw5ejJJUWtHVXp6ZmwwSmE4U1RMUkpRWU5GcVZhLWZhOG1wSXBVYVhWT2hSUS1YbU5xa05USGduckZRZ00xREt1THFDMThPMjNzSmtfMEYwblVHeEV6TWNkTkwyQU9lMThXTzJuZ18tdDFzMWczdkVHeEs3Y1F2VmtDT0hTdDVJNFdZVGhLZFZ3Y3BXenVqQXQwSWlTVndhVDlsNkV3amxYNUlBQlZhUWpKMFdfNUN0Qzlfb1IxdUZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-03T13:13:53+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Geplante Vertretungsbefugnis: BVpta pocht auf neue Qualifikationsstufe",
+      "summary_de": "Ohne verpflichtende Weiterbildung soll es nach Meinung des Bundesverbands PTA (BVpta) keine PTA-Vertretungsbefugnis geben. In seiner Stellungnahme zum Apothekenversorgung-Weiterentwicklungsgesetz (ApoVWG) schl&auml;gt der Verband eine&nbsp;&raquo;Pharmazie-Assistenz&laquo; vor.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/bvpta-pocht-auf-neue-qualifikationsstufe-163272/",
+      "published_at": "2026-03-03T13:00:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "ApoVWG-Stellungnahme: Phagro will mehr Geld und Versender-Kontrolle",
+      "summary_de": "Die Gro&szlig;h&auml;ndler streiten im Rahmen der Apothekenreform auch f&uuml;r eine eigene Honorarerh&ouml;hung. In seiner Stellungnahme zum ApoVWG moniert der Phagro zudem eine Unsch&auml;rfe bei der geplanten Kontrolle der Versender.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/phagro-will-mehr-geld-und-versender-kontrolle-163269/",
+      "published_at": "2026-03-03T13:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Neue Sektion im Viersener Krankenhaus: LVR-Klinik baut orthopädische Versorgung aus - RP Online",
+      "summary_de": "Neue Sektion im Viersener Krankenhaus: LVR-Klinik baut orthopädische Versorgung aus &nbsp;&nbsp; RP Online",
+      "source_name": "\"site:rp-online.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOC1DN1hBb3pEWTd5U2xnNUNaWFd0bjR3UW5FVHpjYURkbHBBd0hZMDVFN3kzQWFYSEFscXNDdmdzWlNBd0M1LVppZmJtTkJ2LWNsbkFud3lrYU4yeUFydUNJcVhKdUI2NnZBY1hLMHhXUjduSy1Cdml1emV1ZWJGV29WR20wUTVWUEUyTHlkaDQ2SE1oM1dQXzNkNG9qTVhZS3c2eGhldHEtRjUxS3BJR0pKeDFlVnE3eTJlSjFtNElDQjJkYlNYODNJc00zVmN3YWJyeUhkUUxyQjQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-03T13:00:00+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Positive Psychologie: Akte der Freundlichkeit machen glücklich",
+      "summary_de": "Nette Gesten gegen&uuml;ber anderen steigern auch das eigene Wohlbefinden. Schon kleine Ver&auml;nderungen im Alltag k&ouml;nnen Gl&uuml;ck und Zufriedenheit sp&uuml;rbar f&ouml;rdern. Der Fr&uuml;hlingsanfang bietet den idealen Moment zum Umdenken.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/akte-der-freundlichkeit-machen-gluecklich-163202/",
+      "published_at": "2026-03-03T12:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Übergewicht bei Kindern - Adipositas bei Vorschulkindern wieder auf Vor-Corona-Niveau - Gesundheit - SZ.de",
+      "summary_de": "Übergewicht bei Kindern - Adipositas bei Vorschulkindern wieder auf Vor-Corona-Niveau - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOVEZ4ZU5oSDMybktPc2x1dU1jY2NINDR5RGNRbmtfM1otYnQxNEtZTjFnbDNrMGRmaldycmFTLUhwbDEzOEpwcFFCakxWZmFPaUlYUmdVbHNiU0RJOUtDYWRKWDF2bGxaZEFuTDl4bGFfN2ZJNXdacktWbGc5V2lUdjlKVEpFZDQycW8zTE1rdGE4Y0xsREVYbE16RG9qekx1ZWdJS1RHNzE5OVI4aWJSTl9vQjVvdTVhRnZfX0JMbnRMSnU2YVp6cG1EMjFGSXZuS2RsX3R0Zlg2bmlveHBxNlpwalRJeU9tbHJ5SVF0M3R1VWhmaDVPS1o1bG95OXF2Ml9j?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-03T11:50:39+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Neun von zehn KKH-Versicherten gehen jährlich zum Arzt – News - Deutsches Ärzteblatt",
       "summary_de": "Neun von zehn KKH-Versicherten gehen jährlich zum Arzt – News &nbsp;&nbsp; Deutsches Ärzteblatt",
@@ -34,16 +184,6 @@
       "type": "News"
     },
     {
-      "title": "Arzt und Patienten: NRW-Plan: Nummer 116 117 soll Patienten gezielter steuern - DIE ZEIT",
-      "summary_de": "Arzt und Patienten: NRW-Plan: Nummer 116 117 soll Patienten gezielter steuern &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT2h4cXpRYndCempaV1Q0Y2hPRlpWOGRUamVYWXhIWGRURklaRjA2MHpwSWF1R0R3MDY3NlZDV1F6R0ctc0UzSEUwZU1pNGt6TkF6NlV3bXo2MkcwZnhha2FGN2dnMV9LdlBNYU44c0JRQVRjV25La1A0NVlIUlJFcmtrWGt1Z2o2YkUxV0VjeGtrZFNEQU5r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-03T11:05:13+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Kontrolle behalten: Warum Emotionsregulation so wichtig ist",
       "summary_de": "Emotionen sind manchmal sch&ouml;n, manchmal unangenehm, aber insgesamt lebensnotwendig. Wichtig ist es, sie regulieren zu k&ouml;nnen. Wenn dabei etwas schiefl&auml;uft, kann das erhebliche Konsequenzen f&uuml;r die psychische Gesundheit haben.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -60,16 +200,6 @@
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2026/apothekenreform-flaechendeckende-arzneimittelversorgung-sichern.html?pk_campaign=rss",
       "published_at": "2026-03-03T11:00:00+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: Mylepsinum pU: TEVA GmbH",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-03-03T10:53:21+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -110,6 +240,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/amk-meldungen-auf-rekordhoch-163260/",
       "published_at": "2026-03-03T10:00:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Latest Xylella control options reviewed – have your say!",
+      "summary_de": "The draft analyses show that EU‑approved synthetic active substances currently demonstrate the most consistent effects in reducing vector survival, while a wide range of biological, non‑synthetic active substances and field-management practices continue to be investigated for their potential to reduce disease symptoms or bacterial populations in host plants.&nbsp; They also highlight several knowledge gaps, such as limited field‑scale studies (i.e. …",
+      "source_name": "EFSA | News",
+      "source_url": "https://www.efsa.europa.eu/en/news/latest-xylella-control-options-reviewed-have-your-say",
+      "published_at": "2026-03-03T09:59:49+00:00",
+      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -257,16 +397,6 @@
       "type": "News"
     },
     {
-      "title": "Prozesse: Baby stirbt nach Hausgeburt ohne Arzt – Frauen vor Gericht - DIE ZEIT",
-      "summary_de": "Prozesse: Baby stirbt nach Hausgeburt ohne Arzt – Frauen vor Gericht &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMFVhQWVtd2xINlpDdjBFSHYyekl5Nm56eldsNS1aV2U5VVhWN29rQzBqaG90Zmo2ZnRaOGZHWVp3NjZETm8zT2FUbVlwZlBscV8wTmpQS1lORUR6djB6SE9jRXp3Sk0zbVhiaWtWV0lWSmRwZFN3aHJMdzg5QlBtSDZYYkZiZ21tVVdJWF9BQlJwcm13Xzhz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-03T02:30:20+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Magnesium sulphate for treating acute bronchiolitis in children under two years of age",
       "summary_de": "Magnesium sulphate for treating acute bronchiolitis in children under two years of age",
       "source_name": "Cochrane Library RSS feed.",
@@ -297,21 +427,21 @@
       "type": "News"
     },
     {
-      "title": "Medimaps Group und Radiobotics geben strategischen Merger zwecks Erweiterung von KI-unterstütztem Portfolio für muskuloskelettale Bildgebung bekannt - Rutland Herald",
-      "summary_de": "Medimaps Group und Radiobotics geben strategischen Merger zwecks Erweiterung von KI-unterstütztem Portfolio für muskuloskelettale Bildgebung bekannt &nbsp;&nbsp; Rutland Herald",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOUHBlX21XZ2pDUG5IWV9DTVhpbTBDS0phbDdIdjBxd2l5M1VGQTRldDB3NUUxZm1EbnY4ZFMtTkFhSWIyaVhrMnVlQXVuQnl0VVRjamJQXzVzd2FSZlUxNERlS1YtZ3hZcDBGYlFhbmYwNXE5bXlfbzkyb2tlTjU3eUp1elZlajF4cWtpOTlMWFIyQ1VmbTMzbFY4aWsyWFRLaVBkcDFRTDlTV3BhblJiWFFlT0gzSFgtcmo5NWNDQkNKaDdVelgwVzh1N3ZoZmxxVVlKRWsyQ193aWhUS0lYT0I5SnNJaVVEd0VUejU2VFVvZGpabXJNWWM2cEdlN19UYU9WTjJHZEg2aTBkR2xLaElNOHVxVFN0TWJnQUxDZ0FBd0cwTDNEeGNWRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-02T20:30:27+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Medimaps Group und Radiobotics geben strategischen Merger zwecks Erweiterung von KI-unterstütztem Portfolio für muskuloskelettale Bildgebung bekannt - Business Wire",
       "summary_de": "Medimaps Group und Radiobotics geben strategischen Merger zwecks Erweiterung von KI-unterstütztem Portfolio für muskuloskelettale Bildgebung bekannt &nbsp;&nbsp; Business Wire",
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OQ3ZiOVBqbnEyUWs4cW5hZHUwRmw5S2NJOVFTaFFQX05sb1JUWTlsc0FPN2NRYk5Ibk1Wb1RwWWNudmt6QlREaXltb3psX3RBQ1YtbVB4ekRsSzM3blFORTNuUUhlVGM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-02T20:28:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "PACS: das digitale Zentrum der Bildgebung - healthcare-in-europe.com",
+      "summary_de": "PACS: das digitale Zentrum der Bildgebung &nbsp;&nbsp; healthcare-in-europe.com",
+      "source_name": "\"site:healthcare-in-europe.com radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pUDEtdjJCSjhpZDFJV3pud1AzcDIzellBdFMxWTBGRHNyNEhpUzlwNmZhcEJLbWRkM2I1NXNLR0ZxRTBPSTVoc09vbEpHUGZWOE9RUkVMcGRSekZWcy1MajQtOFJLYTZpWDVCdFBQSHFoNnpnM1EzZU9Ga1FIQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-02T17:15:25+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -353,16 +483,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/ki-deepfakes-werben-fuer-angebliche-medikamente-163250/",
       "published_at": "2026-03-02T16:00:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Media reporting overlooks parts of breast cancer screening guidelines",
-      "summary_de": "News media did not often address some parts of the U.S. Preventive Services Task Force's updated breast cancer screening guidelines...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15818402/media-reporting-overlooks-parts-of-breast-cancer-screening-guidelines",
-      "published_at": "2026-03-02T16:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -417,6 +537,16 @@
       "type": "Studie"
     },
     {
+      "title": "Großhändler: Sanacorp unterstützt Apothekenprotest",
+      "summary_de": "Die Apotheken protestieren am 23. M&auml;rz gegen die bislang ausbleibende Honorarerh&ouml;hung und Teile der Apothekenreform. Gro&szlig;h&auml;ndler Sanacorp unterst&uuml;tzt die geplanten Proteste.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/sanacorp-unterstuetzt-apothekenprotest-163245/",
+      "published_at": "2026-03-02T14:45:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Ärztemangel: Teamorientierte Versorgung statt Arztzentrierung",
       "summary_de": "In einer neuen Studie&nbsp;&raquo;Delegation im Praxisteam: Ein starker Hebel f&uuml;r die Sicherung der Versorgung&laquo; im Auftrag der Bertelsmann-Stiftung wird analysiert, was dem &uuml;berlasteten Gesundheitssystem helfen k&ouml;nnte. Demnach sollen &Auml;rztinnen und &Auml;rzte ihre Arbeit auf weitere Schultern verteilen.&nbsp;",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -427,16 +557,6 @@
         "Versorgung"
       ],
       "type": "Studie"
-    },
-    {
-      "title": "Großhändler: Sanacorp unterstützt Apothekenprotest",
-      "summary_de": "Die Apotheken protestieren am 23. M&auml;rz gegen die bislang ausbleibende Honorarerh&ouml;hung und Teile der Apothekenreform. Gro&szlig;h&auml;ndler Sanacorp unterst&uuml;tzt die geplanten Proteste.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/sanacorp-unterstuetzt-apothekenprotest-163245/",
-      "published_at": "2026-03-02T14:45:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Decision: Human medicines: register of electronic export certificates",
@@ -489,72 +609,12 @@
       "type": "News"
     },
     {
-      "title": "Keine Konnektoren nötig : Telekom startet neues TI-Angebot",
-      "summary_de": "Die Telekom startet mit TI-Connect ein neues Angebot, das ohne Konnektor einen Zugang zur Telematik-Infrastruktur (TI) bietet. Die Telekom sieht darin den Grundstein f&uuml;r den &Uuml;bergang zur TI 2.0.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/telekom-startet-neues-ti-angebot-163231/",
-      "published_at": "2026-03-02T13:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Genitalwarzen: HPV-Impfung kann schützen",
-      "summary_de": "Humane Papillomviren (HPV) k&ouml;nnen bestimmte Krebsarten ausl&ouml;sen. Und nicht nur das: Eine Infektion mit ihnen kann auch f&uuml;r unangenehme Warzen an Penis oder Vulva sorgen. Was man dazu wissen muss.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/hpv-impfung-kann-schuetzen-163224/",
-      "published_at": "2026-03-02T13:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "ApoVWG: CSU kündigt Widerstand gegen PTA-Vertretung an",
-      "summary_de": "Der Unions-Apothekenberichterstatter Stephan Pilsinger (CSU) ist gegen eine Apothekenreform mit PTA-Vertretung. Bei der Anh&ouml;rung im Gesundheitsausschuss an diesem Mittwoch will er ein Signal setzen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/csu-kuendigt-widerstand-gegen-pta-vertretung-an-163237/",
-      "published_at": "2026-03-02T12:44:30+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Afrikanische Schlafkrankheit: Positives Votum für Acoziborol",
-      "summary_de": "Die afrikanische Schlafkrankheit verl&auml;uft unbehandelt t&ouml;dlich. Jetzt hat sich die Europ&auml;ische Arzneimittelagentur (EMA) f&uuml;r die Zulassung von Acoziborol ausgesprochen. Eine orale Einzelgabe reicht zur Therapie.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/positives-votum-fuer-acoziborol-163212/",
-      "published_at": "2026-03-02T12:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Niedersachsen - Diagnose krankhaftes Übergewicht: 900.000 Menschen betroffen - Gesundheit - SZ.de",
       "summary_de": "Niedersachsen - Diagnose krankhaftes Übergewicht: 900.000 Menschen betroffen - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTS1hWEhoTVM2ZFJJS3B6TFNHLW1wV2NpeEM1X056ZlRUN0MtQjJiYUpqTzVtU3N0RklKcXZXM0FFOE5sOThWM0RKZG5YUklVWUlCVUFMYXFlRWctUm5CZlVfbnduSUdmTXdrZjJDaldVNm5waFp1RHVJR3A2cGd3UzVtb0VNbzZGbWVNZEUwTEdsNnJuTE1TaWtCOElkRmh5eFVUX21wTlZaTGVjYmFleGo0N2xfSWZYZ1IzR2NrOHFoSmYyMTVhZmladnFfMWcweGE5RzVaMVlxT2dLODFOVDExYml4MERJaHZyUE9DellrZkl5anc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-02T12:29:25+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Straßenlärm: Studie zeigt Auswirkungen auf Herz und Kreislauf",
-      "summary_de": "Forscher haben Verkehrsl&auml;rm in privaten Schlafzimmern eingespielt. Schon nach einer Nacht zeigten sich Ver&auml;nderungen, die langfristig Herzinfarkte oder Schlaganf&auml;lle beg&uuml;nstigen k&ouml;nnen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/studie-zeigt-auswirkungen-auf-herz-und-kreislauf-163220/",
-      "published_at": "2026-03-02T12:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Dr. Güldener: Apobank baut Anteile an Rechenzentrum aus",
-      "summary_de": "Die Deutsche Apotheker- und &Auml;rztebank (ApoBank) will sich im Abrechnungsmarkt breiter aufstellen und baut ihre Beteiligung an der Firmengruppe Dr. G&uuml;ldener weiter aus. Der Anteil am privaten Apotheken- und &Auml;rzte-Abrechnungszentrum Dr. G&uuml;ldener GmbH (A&Auml;A) wird um 9,9 Prozent erh&ouml;ht.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/apobank-baut-anteile-an-rechenzentrum-aus-163229/",
-      "published_at": "2026-03-02T11:45:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -575,36 +635,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMGVSRVJaOFhvanZ1REF5MTd6M3hOREtiZkNTNmQwNnZzMFpxeVc0M3JsMld0U1A3NG5MX0hFeWFNZEk3Smd2RkktQ3dZcFgzdzJrakp5di1JSW9ZWHhEaVdzWWpFclgzUnE3bHFldjRLZWNfTGwtUUJpMTZ2ckpvZHRYS1ZpQS1oUjhoNHRDNTQzN2FFNXpWb0c4SHFOb0hhekNKQlRKU3RyN2Y0cHNLcHVlZmM3ejFvekV3aDR3aWRpLTQ4MGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-02T11:31:13+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Mentale Gesundheit im Fokus: Ich fühle was, was du nicht siehst",
-      "summary_de": "H&ouml;hen und Tiefen sind Teil des Lebens &ndash; entscheidend ist, mit welchen Strategien wir ihnen begegnen. Eine neue Ausstellung in Dresden beleuchtet psychische Erkrankungen aus k&uuml;nstlerischer Perspektive &ndash; und macht sie sp&uuml;rbar.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/ich-fuehle-was-was-du-nicht-siehst-163178/",
-      "published_at": "2026-03-02T11:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Zusatzbeitrag der Krankenkasse: Wer zahlt ihn? - BARMER",
-      "summary_de": "Zusatzbeitrag der Krankenkasse: Wer zahlt ihn? &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbzhTbnVWMm5hcjQ1aFFXNl9uZUVYb2d1SU95Rlp2NndlaDlGNDdsWWFLQnVVZDVraGEwekdPZVVRWE5LRm1KdVZCU0VJVE1vaElLc21aR3ZLbWpMUUFpTUNONG1KNzJjWHh0VkE2azJ5b3RJQXljWjVTbGlZMHdlaWQ0YnpSNjdocUFnRWFDWE02dEpqQXRjZDg4TjBEekdHZTE5aA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-02T11:20:30+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Robert F. Kennedy Jr.: Ein Jahr mit verheerender Bilanz",
-      "summary_de": "Ein Jahr ist der umstrittene US-amerikanische Gesundheitsminister Robert F Kennedy Jr. jetzt im Amt. Es war &raquo;1 year of failure&laquo; (ein Jahr des Versagens), wie das renommierte Wissenschaftsjournal &raquo;The Lancet&laquo; bilanziert.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/ein-jahr-mit-verheerender-bilanz-163211/",
-      "published_at": "2026-03-02T11:00:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -816,18 +846,6 @@
       "type": "News"
     },
     {
-      "title": "Week in Review: ECR coverage | Fatal MRI communication crisis | Heart imaging radiation doses vary",
-      "summary_de": "ECR 2026 begins on March 4, and our sister site, AuntMinnieEurope , will be offering extensive coverage.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/editors-note/article/15818405/week-in-review-ecr-coverage-fatal-mri-communication-crisis-heart-imaging-radiation-doses-vary",
-      "published_at": "2026-02-28T08:00:00+00:00",
-      "category": "Studie",
-      "tags": [
-        "Radiologie"
-      ],
-      "type": "Studie"
-    },
-    {
       "title": "Seltene Diagnose - Lilly lebt mit seltener Krankheit und viel Lebensmut - Gesundheit - SZ.de",
       "summary_de": "Seltene Diagnose - Lilly lebt mit seltener Krankheit und viel Lebensmut - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -856,6 +874,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Personal | Klinik für Geriatrie | AMEOS Klinikum St. Clemens Oberhausen in 46145 Oberhausen - HEK",
+      "summary_de": "Personal | Klinik für Geriatrie | AMEOS Klinikum St. Clemens Oberhausen in 46145 Oberhausen &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUzVpejZGNjNWV1VMQXJNYUVJcVZ5QTNpN0Fza21uZTlqNm5zMEtaekcyel96S3FwZ05Vc3NrNThwemJVY1JMSTMzUVJEcUVBYUNQRG5rRHRhYmowTmFEdmNiWm80djk3dlZLZlVQR0NWRGsxQi1pX29wVVZUU1pHOUU1UjFJMDRwelI4YW1XQ2FjcXU4Y3Q5R0dGRHVMdlFZM21WaHB5TUlaRGQ1TGtYeWhNYUVoU3cxZ2xpRzhZaU8xVTFKcmEwcmpWWGtvTVZCdy1TNzhUQ1c1QXM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-28T03:47:28+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Allergie - Späterer Start, lange Saison: Was Allergikern jetzt droht - Gesundheit - SZ.de",
@@ -906,6 +934,16 @@
       "source_url": "https://www.gov.uk/guidance/good-clinical-practice-for-clinical-trials",
       "published_at": "2026-02-27T16:31:55+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Klinik für Allgemeinchirurgie Westallgäu-Klinikum Wangen Am Engelberg 29, 88239 Wangen im Allgäu - HEK",
+      "summary_de": "Klinik für Allgemeinchirurgie Westallgäu-Klinikum Wangen Am Engelberg 29, 88239 Wangen im Allgäu &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSWc0aDFPekVZN1NKcUY4ZFJlR2xZTTd4V0hIYjhUbHJqMnBHdzNyakF3NDU1NXJoQW5tRVBLNzdRc09ublVfRm45em9VQXE4dkRoQ3JBVG10MmgxN0RhbS1qcXFyX3N0WHNuVnJjcm1FbVZYSlIyWjdkeGJMUEpmcU9vaC04ZXg4LUxZM0dfSHdhQkNQNmdneTA5OEpwY0ZNLVI5R2EtTDBtXzZhSEFYb0NyaXdUUWNHczNEWlpDektPY3AwM2F4YlVYSF9hdUt4aDFxRFJBeEJEbXg0LUtILVRTclVGNnFMTm5zQV9CaGtoa2R0YnlhSw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-27T16:21:07+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -990,16 +1028,6 @@
       "type": "News"
     },
     {
-      "title": "Mehr Kapazität für Analysen - Neues Laborzentrum in Halle soll Land krisenfester machen - Gesundheit - SZ.de",
-      "summary_de": "Mehr Kapazität für Analysen - Neues Laborzentrum in Halle soll Land krisenfester machen - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWkJweTZCVHh1SDNNbEtJM0Z1ZGpSekVuZThwYjBCbTZZUnliOVIwd0I5YWRmTF8wNTRoSFRNbzB6M1dRLTI3OWJqRUhZYVM4R01VUXV1XzdONzV5cl94Y1VETWtHYTI5eVpsS3lyLWFKM2tra1QtRVN4WGFIaE42WFBCVVlzUGVqbVVEWFAyUktoTE96T1NWc3U3dERiaGpzZnk5SkdQVGdEcU9lYTllQVlVYlgtSEZudThtMzNGWWpNSDM3bVJMX1JNaWhKcXRZa0lXR2JlRV8ybmlpNjZQSFBJNW9QOGNEZGlPbXFpWGx6d1BtVlZ5ajZia25nVGZvRkZlYXN5WQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-27T12:03:13+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Poliklinik geplant - Zusage: Land steuert 24 Millionen für Wittstocker Klinik bei - Gesundheit - SZ.de",
       "summary_de": "Poliklinik geplant - Zusage: Land steuert 24 Millionen für Wittstocker Klinik bei - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1060,26 +1088,6 @@
       "type": "News"
     },
     {
-      "title": "Physicians superior to LLMs in interpreting PET imaging",
-      "summary_de": "Four physicians identified tumor locations on F-18 FDG-PET scans with far higher accuracy than six large language models (LLMs...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15818418/physicians-superior-to-llms-in-interpreting-pet-imaging",
-      "published_at": "2026-02-27T10:24:12+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "AI could help segment throat cancer tumors without use of contrast MRI",
-      "summary_de": "The findings could shift imaging workflows for patients who cannot safely receive gadolinium-based contrast.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15818415/ai-could-help-segment-throat-cancer-tumors-without-use-of-contrast-mri",
-      "published_at": "2026-02-27T10:13:25+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "New medicine to treat paediatric low-grade glioma",
       "summary_de": "Updated on 2 March 2026:The description of the tumour in the opening paragraph has been amended.EMA has recommended granting a conditional marketing authorisation in the…",
       "source_name": "News and press releases",
@@ -1099,6 +1107,16 @@
       "tags": [
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit: Zweite Runde für Landzahnärzte in Sachsen-Anhalt - DIE ZEIT",
+      "summary_de": "Gesundheit: Zweite Runde für Landzahnärzte in Sachsen-Anhalt &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU0Q5R1pSVTZkSkJaR0JHeHFmLVFfdjlfRTc0aEFXUTFzbEVURGJwNXRxUC1uZ19pUGotdnVEVHNyUGtPalVJU3REWjQ3SndObWtJaktIa2lIQmMxWlptaTVjZXM2QmRoVW5KZzRacUdFQnVOV2ppSTQzcjNyZnhkZWItRndXV3BsX2EyU0xnUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-27T08:30:08+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
@@ -1234,36 +1252,6 @@
       "type": "News"
     },
     {
-      "title": "From silos to systems: Redefining radiology through network integration",
-      "summary_de": "In a new column, Charles Morris of Agfa HealthCare makes the case for imaging without boundaries.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/imaging-informatics/enterprise-imaging/article/15818312/agfa-healthcare-from-silos-to-systems-redefining-radiology-through-network-integration",
-      "published_at": "2026-02-26T10:16:56+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Challenges ahead as ABR prepares to reinstate oral exams",
-      "summary_de": "Surveyed program directors who personally took the oral boards view the change more favorably than those who did not.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/radiology-education/residents-fellows/article/15818302/challenges-ahead-as-abr-prepares-to-reinstate-oral-exams",
-      "published_at": "2026-02-26T10:01:47+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Cardiac MRI flags late gadolinium enhancement in Takotsubo patients",
-      "summary_de": "Late gadolinium enhancement was linked to earlier imaging after symptom onset and greater myocardial edema extent in a recent...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15818300/cardiac-mri-flags-late-gadolinium-enhancement-in-takotsubo-patients",
-      "published_at": "2026-02-26T09:47:37+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Patient-Led Assessments of the Care Environment (PLACE), 2025",
       "summary_de": "This publication providers the results from the 2025 Patient-Led Assessments of the Care Environment (PLACE) Programme. PLACE assessments are an annual appraisal of the non-clinical aspects of NHS and independent/private healthcare settings, undertaken by teams made up of members of the public (known as patient assessors) and staff. The team must include a minimum of 2 patient assessors, making up …",
       "source_name": "Publication Feed",
@@ -1364,16 +1352,6 @@
       "type": "News"
     },
     {
-      "title": "Sachbearbeiter Leistungsbearbeitung (m/w/d) | Die Techniker - Karriere - Techniker Krankenkasse",
-      "summary_de": "Sachbearbeiter Leistungsbearbeitung (m/w/d) | Die Techniker - Karriere &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOUxDMUtuZl8zV0VOX0o5MzhGN2xjNVg5OFdieE9GenMxOVlqbWdpTWRBRVlMZ1VXY2V0a0lEc1hId21jaml3TnVacFNDVjgzMnF3VXNpSENyUXRxSUxzRmZIZkJUREdKU0xXNDlRZzlTNVhCNFRBNHhHQjZ3a0NxeTVYTkM3c3oxTzY4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-26T07:22:38+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "(S+) Medical Gaslighting: Wenn das Herz rast und der Arzt das nicht ernst nimmt - Spiegel",
       "summary_de": "(S+) Medical Gaslighting: Wenn das Herz rast und der Arzt das nicht ernst nimmt &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
@@ -1410,16 +1388,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMkd1VVhRWWdSQmZJTGg1eGhtQlI2ekhpeDVSR3pTLUNyTktyREFUcnRNYzdDaVlnVFUyMzRFSnI4aWxuTXd1S0xlSU9zWWUwblJSenBOdGpnR1ZJUEJmR1V0U0RfLU4xM0NpdjZyaUdzQlU5NlF6TkJLcHJTX05HUVEwWTRxbF92ZHBxblNGVWttTEZCVm1FejdoWU1XX096WlNLREZmakVCdWNBZndOeUVVV2pISnZ5YU5YY1pZSnN2N2I4b0FLbFFmUU5fa0U5MXdfakJMSjZLNDlZZ2NsVkVKTF9SS2lZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-25T19:52:46+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "JAMA study shows wide global variation in cardiac imaging radiation dose",
-      "summary_de": "'Radiation doses varied significantly between imaging tests and among patients receiving the same tests,' researchers reported...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15818064/jama-study-shows-wide-global-variation-in-cardiac-imaging-radiation-dose",
-      "published_at": "2026-02-25T17:33:39+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1462,16 +1430,6 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/general-and-personal-medical-services/31-january-2026",
       "published_at": "2026-02-25T13:46:08+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gefahr durch Edelgas - Risiko durch Radon? Ministerium wirbt für Messboxen - Gesundheit - SZ.de",
-      "summary_de": "Gefahr durch Edelgas - Risiko durch Radon? Ministerium wirbt für Messboxen - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbmhqWTlhLU1RNC0wbUhyaExjdTNyWHkzQTc5RFJTN0hZMFotekhQRmJtOWJjNDRKdW5zWHU4MmVGYnNfWFJsQ3MyQkNna0Y4S3cyNU5IWVJTdWx1czFDTzh3UkVNNWtnWVZUUTdoTGxiUFBjNnVPMkVEX2pTRWJxWXdhZGtIQk1QX0RWM3pvLWVCb1pyNk1SbEI1REtGOW1yQ09FVkhwRDZBN0djZWV4aDJGRkttbGtUa083d2p5eWlLUXFVTE1YSURIbHRUc015RUlmd3VxX2VuUTR5U3dYSjBYNG5wdjl5QmpQOVpfR1BMOFU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-25T13:29:24+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1520,6 +1478,16 @@
       "type": "Studie"
     },
     {
+      "title": "Depression – die unterschätzte Krankheit - Freunde der Zeit",
+      "summary_de": "Depression – die unterschätzte Krankheit &nbsp;&nbsp; Freunde der Zeit",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeDVMb3A3eEhaYnEycF9SbDVGSFNUcHVJN2d1TFI3am1yX09CTm41NkFVN3ZrdWcwMGxXeXBfdXA3TW9panhwR2ozSmFFS1k3bDFnQXNKMGlPTDFSZ2NGWHdRWWRkTnRfbXlfeWh3OVlqZkk1N2ozMVBYYmZqdTdZZ1dkRS1pVkFlR2ktUUo0ZENrZzFqZjdWb0ZHeHpPQmttOFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-25T10:16:08+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "DKG-Vorschläge zur Reformierung des Pflegebudgets bergen neue Finanzrisiken für die GKV",
       "summary_de": "Die Reformvorschläge der DKG sehen eine Finanzierung eines Pflege-Planbedarfs vor. Der vdek kritisiert, dass Krankenkassen damit Personal auch ohne tatsächlichen Nachweis refinanzieren müssten – mit erheblichen Mehrkosten für die GKV.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -1542,16 +1510,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "LLM use rising for editing radiology research abstracts",
-      "summary_de": "More radiology researchers are using ChatGPT or other large language models (LLMs) to modify text in their research abstracts.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15818140/llm-use-rising-for-editing-radiology-research-abstracts",
-      "published_at": "2026-02-25T07:56:28+00:00",
-      "category": "Radiologie",
-      "tags": [],
       "type": "News"
     },
     {
@@ -1601,26 +1559,6 @@
       "source_url": "https://www.gov.uk/guidance/national-assessment-procedure-for-medicines",
       "published_at": "2026-02-24T17:38:25+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit - Teils langes Warten auf einen Facharzttermin - Gesundheit - SZ.de",
-      "summary_de": "Gesundheit - Teils langes Warten auf einen Facharzttermin - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU2JlalBXVDM0VDNZMy02eGZqRHpSTkI4VkdSNm10LXBtdXJ2THhjMmpGbDhtdFRxYzFPajJlZ2dUZk1Pckt3ME4zaFlQZkpTMnFNNV8yZGRyOW16alVSbkxvbmNKcXFadnp4V3N5UGFJbXZ3SzhYa1gwRExwT1IycWJreWtzQV9zUlNha2Y2TjhPYXRrc3hid2NTUzJQUl83MEZOeVB4MnVFdTBpTmg3dC1BLUZlYTd3YWU0UEZCbXQ1M0RndUk2aEc1dVZYd2NYRUVrYjNod0VtbTFI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-24T12:21:56+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "How much solid waste do neurointerventions generate?",
-      "summary_de": "Researchers quantified waste generation in their neurointerventional angiography suite over 90 days.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/interventional/article/15818044/how-much-solid-waste-do-neurointerventions-generate",
-      "published_at": "2026-02-24T10:33:52+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1705,6 +1643,16 @@
       "type": "News"
     },
     {
+      "title": "Krankenkasse für ein gesünderes Leben | BARMER - BARMER",
+      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-20T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Standortleiter (m/w/d) – Dienstleistungszentrum für Radiologie, Neuroradiologie und Nuklearmedizin - ärztestellen",
       "summary_de": "Standortleiter (m/w/d) – Dienstleistungszentrum für Radiologie, Neuroradiologie und Nuklearmedizin &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
@@ -1720,6 +1668,26 @@
       "source_name": "Publication Feed",
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/medical-device-outcomes-registry-mdor/december-2025",
       "published_at": "2026-02-19T17:19:57+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "New Memorandum of Understanding (MoU) strengthens cooperation between EFSA and FAO",
+      "summary_de": "The agreement reflects a common objective: ensuring that innovation drives competitiveness while maintaining the highest standards of safety. Amid rapid technological change and increasing complexity, the three-year partnership will promote science-based solutions for safe, sustainable, and resilient food systems, aligned with One Health principles.&nbsp; Under the MoU, cooperation will cover areas such as plant and animal health, pesticide risk assessment …",
+      "source_name": "EFSA | News",
+      "source_url": "https://www.efsa.europa.eu/en/news/new-memorandum-understanding-mou-strengthens-cooperation-between-efsa-and-fao",
+      "published_at": "2026-02-19T16:44:32+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "EFSA and ECDC rapid outbreak assessment on cereulide incident: likelihood of exposure low",
+      "summary_de": "Key scientific findingsReported cases As of 13 February 2026, seven countries (Austria, Belgium, Denmark, France, Luxembourg, Spain and the United Kingdom) had reported cases under investigation involving infants with gastrointestinal symptoms who had consumed infant formula products. Investigations are ongoing to further identify cases, and assess whether recalled batches or other batches of infant formula products may have been the …",
+      "source_name": "EFSA | News",
+      "source_url": "https://www.efsa.europa.eu/en/news/efsa-and-ecdc-rapid-outbreak-assessment-cereulide-incident-likelihood-exposure-low",
+      "published_at": "2026-02-19T13:59:11+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
@@ -1819,6 +1787,16 @@
       "type": "News"
     },
     {
+      "title": "Antimicrobial resistance in foodborne bacteria remains a public health concern in Europe",
+      "summary_de": "While resistance to commonly used antimicrobials remains widespread in foodborne bacteria such as Salmonella and Campylobacter , several countries have reported progress in reducing resistance levels in humans and in food-producing animals. Because these foodborne bacteria can spread from animals and food to humans, causing severe infections that may require antimicrobial treatment, continued action under a One Health approach remains …",
+      "source_name": "EFSA | News",
+      "source_url": "https://www.efsa.europa.eu/en/news/antimicrobial-resistance-foodborne-bacteria-remains-public-health-concern-europe",
+      "published_at": "2026-02-18T10:01:33+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Screening for osteoporosis with bone densitometry in adults with risk factors for fractures",
       "summary_de": "Screening for osteoporosis with bone densitometry in adults with risk factors for fractures",
       "source_name": "Cochrane Library RSS feed.",
@@ -1849,22 +1827,22 @@
       "type": "Studie"
     },
     {
+      "title": "EFSA finds sucralose safe when used as currently authorised; cannot confirm safety of extending its use",
+      "summary_de": "EFSA’s experts concluded that the sweetener sucralose (E 955) continues to be safe for consumers for its currently authorised uses as a food additive.&nbsp;",
+      "source_name": "EFSA | News",
+      "source_url": "https://www.efsa.europa.eu/en/news/efsa-finds-sucralose-safe-when-used-currently-authorised-cannot-confirm-safety-extending-its",
+      "published_at": "2026-02-17T10:03:17+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Oberarzt (m/w/d) für unser Institut für Radiologie, Neuroradiologie und Nuklearmedizin - ärztestellen",
       "summary_de": "Oberarzt (m/w/d) für unser Institut für Radiologie, Neuroradiologie und Nuklearmedizin &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQXVxNGo0Z0ROakJWejM0dU82VjhZRG1NZmhZYzZwbUZJYWRZRkxaNWVQb0lyUWZhMkp4WlV6Slhjbm5JZWJRSGxZdnRRek91U3Y0OUpRVmZZaGZCN2JZc2lxTS1kZml1RG1fRDVpN1daU2tNbk1xYmpZeHBKajVDVVpkMDBXelhmcmJweTNMY2lzd1ZBcGJMLXpqZklpd3NKNm9xSmtXMWZTUUFVblJVd200S242TVN0V0F5ZWx3SUZqbEphamxndlRRZ2NLMWFtZktHRDZn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-17T08:00:00+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Klinik für Orthopädie - HEK",
-      "summary_de": "Klinik für Orthopädie &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRHQwcUhjbXV5MndUcF9aZl9nbTdneFhaSjlPa2dUdkNLcVVacldPQzcwN3Q0Qmk4VEhySHV1anVIWHFsQktlaDVRcjBKN3dxQmZMcmZuRXZyYXNxZTBkYXRTYVhTNXVKQW8tV1ZvUU5ySDFoTC11N2FqMlV3Ul9zTjhQdVJsTU1DQnN4S29ZYXEwUWQ5SHR3aFJ6c09iRTd4NTgxZlZoZ3FSMkVXcko2cE9fODUwaS1qQlJqLTJZd3hhRjNZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-17T00:07:30+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2059,6 +2037,26 @@
       "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UQVNMQlRXNElyUWZhZWx1Nmk0c29XUGxCcTV6V1JnSnlKUzlVSHRMZ0NPbTJBQ3JzdVFxTzlOXzRoM2tkYjdjbGI5SW5EMlVKd3FqdG02QVU2eUM2ZXZGOGNqS01aWU1uNmwwYTVjSUhwQ3l6empr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-12T15:24:26+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Episode 37 – No secret sauce: a recipe for transparent science",
+      "summary_de": "Access to documents is a crucial ingredient of open science. But how do lawyers assess what requires protecting and what to release? Join us as we digest the law behind your menu.",
+      "source_name": "EFSA | News",
+      "source_url": "https://www.efsa.europa.eu/en/podcast/episode-37-no-secret-sauce-recipe-transparent-science",
+      "published_at": "2026-02-12T11:19:07+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Fish and seafood consumption in the EU: awareness of dietary advice on mercury",
+      "summary_de": "New research by EFSA looks at how frequently EU consumers eat fish and other seafood likely to contain mercury and whether they are aware of national advice about how much of these species to include in their weekly diet.",
+      "source_name": "EFSA | News",
+      "source_url": "https://www.efsa.europa.eu/en/news/fish-and-seafood-consumption-eu-awareness-dietary-advice-mercury",
+      "published_at": "2026-02-12T09:57:43+00:00",
+      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -2303,6 +2301,16 @@
       "type": "News"
     },
     {
+      "title": "Pathologie, Robert Bosch Krankenhaus - HEK",
+      "summary_de": "Pathologie, Robert Bosch Krankenhaus &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcjJrb3lvV0FsUWVMMVRTcnVRZVkzZHY4ZmktM1VsalRld3didEN0N0l4Rm0xOE5YVHNBa2lmYWRrUDVyUENsZU92R2preUoyN1hKRkU3Vkw2YUFnckttV25DSGwwbzN2aUlSMnlGMUo3SS1HNUpsWDRQSm95ai1fTHFnSFgxMXk4eDJHOXJOM3J6VEFlZ1ZDeTVOVmN4RUNjc1R2SDVpYmxvdzBPajI3S05pS1dpRUxJX0tHY0hEWkV1b2xtLW1xdGRIdDZFOUd4TkxOdWhMQjI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-12T07:07:08+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Substitution of nurses for physicians in the hospital setting for patient, process of care, and economic outcomes",
       "summary_de": "Substitution of nurses for physicians in the hospital setting for patient, process of care, and economic outcomes",
       "source_name": "Cochrane Library RSS feed.",
@@ -2410,6 +2418,16 @@
       "type": "Studie"
     },
     {
+      "title": "Veterinary drug residues in food: what’s the latest in the EU?",
+      "summary_de": "In EFSA’s yearly report on residues of veterinary medicinal products in live animals and animal products.",
+      "source_name": "EFSA | News",
+      "source_url": "https://www.efsa.europa.eu/en/news/veterinary-drug-residues-food-whats-latest-eu",
+      "published_at": "2026-02-10T10:19:49+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Medizinische Leistungsangebote | Klinik für Notfall- und Akutmedizin | Carl-von-Basedow-Klinikum Saalekreis, Standort Merseburg in 06217 Merseburg - HEK",
       "summary_de": "Medizinische Leistungsangebote | Klinik für Notfall- und Akutmedizin | Carl-von-Basedow-Klinikum Saalekreis, Standort Merseburg in 06217 Merseburg &nbsp;&nbsp; HEK",
       "source_name": "\"site:hek.de\" - Google News",
@@ -2432,12 +2450,12 @@
       "type": "News"
     },
     {
-      "title": "Klinik für Innere Medizin/Schwerpunkt Gastroenterologie - HEK",
-      "summary_de": "Klinik für Innere Medizin/Schwerpunkt Gastroenterologie &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZWprUzdXa2ZJZTdZbkREaWt0WWpvYVhUaW9NNjZEUWdMR0Y3N1ByclVoai15VjNCMTZjYXNnNW9vN3hLLTViVUFObHg0eGp1dDlpZDByTVBNYlB0YkFHc2lBWVNtMUZueVRjZkUwbFozOXZxN3JKOHJ1Y1hoRUVoU3V6RllFdTF5WUozcHFtd0dPSkpsUy1VOWptbXg2RmRodGlOajFSdFdrVXBoTUpvajA1WEd5a3QwcU14TXlaaU5EUm9lRmhKVElqVjZGX1liZmZUdUZ0ZlNZeTdRdGk5d3RyWktQUFd3ZWg0dElRbUtZaXFHZEY4QWJpWnVTamhETVQzWWt3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-08T12:56:58+00:00",
-      "category": "News",
+      "title": "Provisional safe level for cannabidiol as a novel food",
+      "summary_de": "The European Commission considers that CBD qualifies as a novel food provided it meets the conditions of EU legislation on novel foods . Provisional safe level In an updated statement , EFSA’s expert Panel on Nutrition, Novel Foods and Food Allergens (NDA) set a provisional safe intake level for CBD of 0.0275 milligrams per kilogram of body weight per day …",
+      "source_name": "EFSA | News",
+      "source_url": "https://www.efsa.europa.eu/en/news/provisional-safe-level-cannabidiol-novel-food",
+      "published_at": "2026-02-09T09:54:12+00:00",
+      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -2500,6 +2518,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMEpYclQxNFdvVkxxS0xXSUxzdVotR0FKellhM2R4LUlpUU5CZ05fdDBtZ25WUWlHOWlvU1hyYWhIQ1pSSllZeVcyeTZ4WmNzb2pQdzNOOEpHYy1IQ05namZ4S0ViSVNXWEVqQV9LM1h5Y21jZXFOQ0NhVHJDLWcyX19EWkl0NlJiM3pVcFBjZWlrRUg1Um5mRlRfS3ZmLXRBbHVDUWttcmdzWFc4VmZVZlF5SGlmMUZGdnJySEtiekFWUkE5aUd1ZkVaUEkzdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-04T08:00:00+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "EFSA to host 5th European Conference on Xylella fastidiosa",
+      "summary_de": "EFSA is holding the 5th European Conference on Xylella fastidiosa in Bari, Italy from 23 to 25 June 2026. The event will gather researchers, risk assessors, risk managers and stakeholders to discuss the latest scientific advances on the detection, epidemiology and sustainable management of Xylella fastidiosa . The programme includes updates from major EU and national research initiatives as well …",
+      "source_name": "EFSA | News",
+      "source_url": "https://www.efsa.europa.eu/en/news/efsa-host-5th-european-conference-xylella-fastidiosa",
+      "published_at": "2026-02-02T14:03:09+00:00",
+      "category": "Europa",
       "tags": [],
       "type": "News"
     },
