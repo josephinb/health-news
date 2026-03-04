@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-03-03T21:27:48.862913+00:00",
+  "generated_at": "2026-03-04T01:22:57.874529+00:00",
   "window_days": 42,
-  "count": 271,
+  "count": 269,
   "items": [
+    {
+      "title": "Sucrose analgesia for venepuncture in neonates",
+      "summary_de": "Sucrose analgesia for venepuncture in neonates",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015221.pub2",
+      "published_at": "2026-03-04T00:01:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Ablation as effective as surgery for treating small kidney cancers",
+      "summary_de": "In patients with stage T1a kidney cancer, ablation shows comparable progression risk but fewer complications.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15818624/ablation-as-effective-as-surgery-for-treating-small-kidney-cancers",
+      "published_at": "2026-03-03T18:01:04+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Neue ARMIN-Ergebnisse: Ärzte akzeptieren apothekerliche Interventionen",
       "summary_de": "Vor drei Jahren zeigte die ARMIN-Studie, dass ein interprofessionelles Medikationsmanagement die Sterblichkeit bei Patienten mit Polymedikation senken kann. Eine neue Auswertung beleuchtet nun, welchen Anteil die Apotheken daran hatten.",
@@ -40,6 +60,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaTdfUVJvMUZMVXhoYVJUNmMzekYxMENac3QwWlk4Z3ZjdVVsTFdOX1FXbzFQeE40RXZfbkhFWG9ia0R2Q2w1WlRwUGtHclJkRTZQYzRoRy1tU2VQMjhfSFM4cFQyQi0yVUdlVzBTaUlKd24wWTM2OF9nV3p5cG9FRHVyS21hdzlqenlVZG5qbEhGWUVwak1kMXpSZS14bk95V1hjMERtZG05RGFrLUk4RkxObVpFaVZoaUFyWkxiVXB5UUEwbktYYkJfaTN1Z0lDVTRnZUtXS0I5Smxob0YtVWdzdW5reDZ6R2dHbWppQ0c4UkhUOC11UFJUWGxhdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-03T15:50:08+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: Mivacron 10mg pU: Aspen Pharma Trading Limited",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-03-03T15:36:24+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -120,16 +150,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTDFzeGpFcVFEQnhUVURxV09PV2c5cTFkWTRGdmpJa2pVQ1FqZDl0N3p1R3JRRlhKUkpxRi0yNWN0NW01MUlOS0ZQRk9xS3ZBVVk3RHVoeUlVRHJHZDYtbW5vdWpvV2VOSk9MejEzb3RweXJXWVlJbVNkT3czczlPblhfRTRqUlJ3ZjNWaElvR3dQNnJSYzRHd2xlLVJuel9kNEU3X19yVWVaZk85RFh1azFETFNwNFFjR0RMbUJ3c3JwWTFRelR3Q3pHV3JlZUl3Y1VHNlh4aHFULVItZG5zQjZfZXBaTE5lMHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-03T13:49:21+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: Xarelto 1 mg/ml Granulat zur Herstellung einer Suspension zum Einnehmen pU: Bayer Aktiengesellschaft",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-03-03T13:38:28+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -367,6 +387,16 @@
       "type": "Studie"
     },
     {
+      "title": "CEUS with perfluorobutane diagnoses small-cell HCC",
+      "summary_de": "Contrast-enhanced ultrasound (CEUS) with perfluorobutane performs well in diagnosing small-cell liver hepatocellular carcinoma...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ultrasound/article/15818653/ceus-with-perfluorobutane-diagnoses-smallcell-hcc",
+      "published_at": "2026-03-03T07:21:14+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Brustkrebs: Diese sechs Risikofaktoren sind vermeidbar",
       "summary_de": "Brustkrebs bleibt die h&auml;ufigste Krebserkrankung bei Frauen weltweit. Das zeigen neue Daten der Global Burden of Disease-Studie. Viele Todesf&auml;lle durch Brustkrebs w&auml;ren vermeidbar.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -473,6 +503,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQNDUtYnc5dFFxM2FHaEg0TGlaZXdrV2xnbHI0UWtTelkxZ29kOF8xXzBhNktKTVpuLTRyRDg4Zmp1RnNaRFI3VE0tQlpFdFBNdnNWUzEyaERaUjkteE1hUW9TQVk4cm0yNEVMOERHQ1NaYjZ0ZkNldjB6QjNucUtib0wwaE1jYS1mSWpBZ1RpcjNIbEJScm9ENlJsN2txT2tHV1BYMWdFak9sb3ltcHJVZGdRSE1IVVplc2JhWnZFNzZuQmZZbWVBOEVWWTF4eHJXek9YcUgxRFhLM2tXX2hhY1VNRi1qanE4OEF2SjRpUU5QaUhZWjNxYjFTUFZhRm56Sjd4a2hR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-02T23:35:13+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Medimaps Group und Radiobotics geben strategischen Merger zwecks Erweiterung von KI-unterstütztem Portfolio für muskuloskelettale Bildgebung bekannt - Rutland Herald",
+      "summary_de": "Medimaps Group und Radiobotics geben strategischen Merger zwecks Erweiterung von KI-unterstütztem Portfolio für muskuloskelettale Bildgebung bekannt &nbsp;&nbsp; Rutland Herald",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOUHBlX21XZ2pDUG5IWV9DTVhpbTBDS0phbDdIdjBxd2l5M1VGQTRldDB3NUUxZm1EbnY4ZFMtTkFhSWIyaVhrMnVlQXVuQnl0VVRjamJQXzVzd2FSZlUxNERlS1YtZ3hZcDBGYlFhbmYwNXE5bXlfbzkyb2tlTjU3eUp1elZlajF4cWtpOTlMWFIyQ1VmbTMzbFY4aWsyWFRLaVBkcDFRTDlTV3BhblJiWFFlT0gzSFgtcmo5NWNDQkNKaDdVelgwVzh1N3ZoZmxxVVlKRWsyQ193aWhUS0lYT0I5SnNJaVVEd0VUejU2VFVvZGpabXJNWWM2cEdlN19UYU9WTjJHZEg2aTBkR2xLaElNOHVxVFN0TWJnQUxDZ0FBd0cwTDNEeGNWRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-02T20:30:27+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -737,16 +777,6 @@
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeEs0T1Z4QW5WbnBSdmFmMnpETURTQU5zSHdnTWZsQUloMm8zYTYxc19OUEJNTVVoOUMwLXlUZmllRWN6SFA3ZHFGM1ZmUVdQd2IxdzdBRmE3blFRQ2Zqclc5MlBhWUozbGdfenV6c092dzVDeHNGVmMzRnNkcFA4RzBWSU9wYl91MUVIMnBJRWZGQmdUbDZxTlF4UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-02T06:30:05+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Krankenkassen zur Landtagswahl - Forderungen von AOK und TK an die neue Landesregierung - Gesundheit - SZ.de",
-      "summary_de": "Krankenkassen zur Landtagswahl - Forderungen von AOK und TK an die neue Landesregierung - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNenJTMkFpTC1LeEphc3RRb0JKRTBDd0E1cWZLdWVDQUJhV2QyaFBkRDBsRjlacFBQbDFTLUNxUEQ5YkQ2a3ZLVks2WmdPU1FWLWoxVFJUSS1mUjlxR0N3eVlQRnc0clFtd29BTlZYOFpweXpSbkZ6d2lPcDNOWWhTYXpPRHhvVUdDRVktci1STDdMa21PNVk4NmhQOVpZSEV5ZTZiQU1Uc3dZUjhUNmlsX0xwaTVDbEl5RHlndkp6TzFqNU1uc2tMaC0tQnItcEhFWDJ1ZWlFbXFYSDA3dHZqUFltVkxfOUR1TnhSaEFPVjdQUXV6b2RRcDVUUWNkTV94TXdtaA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-02T02:35:04+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1314,6 +1344,16 @@
       "type": "News"
     },
     {
+      "title": "Medizinische Leistungsangebote | Klinik für Orthopädie und Unfallchirurgie, Department Handchirurgie | Kreiskrankenhaus Gummersbach in 51643 Gummersbach - HEK",
+      "summary_de": "Medizinische Leistungsangebote | Klinik für Orthopädie und Unfallchirurgie, Department Handchirurgie | Kreiskrankenhaus Gummersbach in 51643 Gummersbach &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOb2xHQjFqbnN3ZUNmajY0ejBObU9zeGVZZGc3SEppdUg1czJiZS1KVnNya095MW93R2plaTU3LWZEY3VBTTBEbjJlUnk4OUtTNDZYNmx6aVFHZElaYTYwR3VSN29RR2ZUeFBXRDFZQ29YMDhBNXJVXzEtUmpKOF9fa3g0cGltUmlEOGpQbC1lUm0wdmZGTnRta2gtQUlxOFI2Y0RJbGNLWDhjdENTZTdaTFByaDJubERLeFRpbGVMdTBraE42eFhKcFhOTkZYQUYtWTU5dEd1VUFiZkduMjhuR1lSYjhKSlI0NEdaZWtoUm9wM2F2QWVtNHNJMXdjMUUtTndZemxSU1JIdGhpa25RTUhpUmdCcDk5OV9SUTNsUEtUMTJTSktOUTkyZE92bVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-26T13:05:59+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gesundheit - Mehr Berechtigte: Barmer will Reform der Pflegeversicherung - Bayern - SZ.de",
       "summary_de": "Gesundheit - Mehr Berechtigte: Barmer will Reform der Pflegeversicherung - Bayern &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1350,16 +1390,6 @@
       "source_url": "https://www.auntminnie.com/radiology-education/residents-fellows/article/15818302/challenges-ahead-as-abr-prepares-to-reinstate-oral-exams",
       "published_at": "2026-02-26T10:01:47+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Cardiac MRI flags late gadolinium enhancement in Takotsubo patients",
-      "summary_de": "Late gadolinium enhancement was linked to earlier imaging after symptom onset and greater myocardial edema extent in a recent...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15818300/cardiac-mri-flags-late-gadolinium-enhancement-in-takotsubo-patients",
-      "published_at": "2026-02-26T09:47:37+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1602,7 +1632,7 @@
     {
       "title": "Depression – die unterschätzte Krankheit - Freunde der Zeit",
       "summary_de": "Depression – die unterschätzte Krankheit &nbsp;&nbsp; Freunde der Zeit",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeDVMb3A3eEhaYnEycF9SbDVGSFNUcHVJN2d1TFI3am1yX09CTm41NkFVN3ZrdWcwMGxXeXBfdXA3TW9panhwR2ozSmFFS1k3bDFnQXNKMGlPTDFSZ2NGWHdRWWRkTnRfbXlfeWh3OVlqZkk1N2ozMVBYYmZqdTdZZ1dkRS1pVkFlR2ktUUo0ZENrZzFqZjdWb0ZHeHpPQmttOFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-25T10:16:08+00:00",
       "category": "News",
@@ -1632,36 +1662,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "LLM use rising for editing radiology research abstracts",
-      "summary_de": "More radiology researchers are using ChatGPT or other large language models (LLMs) to modify text in their research abstracts.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15818140/llm-use-rising-for-editing-radiology-research-abstracts",
-      "published_at": "2026-02-25T07:56:28+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Umfrage zur Pflege: Mehrheit im Norden erwartet schlechtere Pflegesituation - DIE ZEIT",
-      "summary_de": "Umfrage zur Pflege: Mehrheit im Norden erwartet schlechtere Pflegesituation &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZTBJaTRMbm16V0RSbzRoeUxmcWQzNklEbDBBblFZcGc1QnN6dmVpNmUzRnJZQWpnRXV5cDBTTkktWmJrbnJkYmhDc0haT28ycERId25SNEEySXdBRUMtdmdrQWFqRnVtcldLY3p6N242NmJJWDJjUVR2ZUxvM1NNYU1RQkNYNjJQNHhjcGVKWGR1dWVZdlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-25T04:00:26+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Wichtige Fakten zum Thema Gesundheit - tagesschau.de",
-      "summary_de": "Wichtige Fakten zum Thema Gesundheit &nbsp;&nbsp; tagesschau.de",
-      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOUYwV01jamU3LS14cHZBTThMT2N3ejB3dVZBQTk5R2pOSGVRSmZiOUYwdXVIUGwxVDVJWmo4dHR4ZnZoRTBsbUx1bXZPRU9Qc1lJWHhxUWkwMEVacHZKeVQ1cVlzZi1WekZYUHdpc3dMV0JEYkhIaXNkcVBJdXpIZ2xfVUlMZTgzN0lDWnowR0NYOXk0bk1YRUw5U1dmazB0NmprYm5PNVotenpZZnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-24T22:19:35+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
@@ -1725,16 +1725,6 @@
       "type": "News"
     },
     {
-      "title": "Programmverantwortlicher Arzt (m/w/d) Mammographie-Screening - ärztestellen",
-      "summary_de": "Programmverantwortlicher Arzt (m/w/d) Mammographie-Screening &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb0dhVTJYY1oya25hVHZlYnFXaWloYnVyMThfWlhfQVBRMjF1TWVBSEo4aGoyRmdRQVZ4TElkOUtmQzV6Unkyc1dLT212Um5mMHJrTFZaNXRDSUJXLUYtaDRBTU40RUlxRWgzMGY5VmplbTlxclh0cVA1VVVBOE13c1J2cGo4VUprRDVITTFqeUc1NmNxb3JfWWN0Y29Sc3dpQ2pBNnlwQVJ4ZDk0Tnd3Nll4b0FzMndT?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-21T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Recruitment procedure opens for next Executive Director of the European Medicines Agency",
       "summary_de": "The vacancy notice for the next EMA Executive Director has been published in the Official Journal of the European Union, marking the beginning of the recruitment process for the…",
       "source_name": "News and press releases",
@@ -1745,8 +1735,8 @@
       "type": "News"
     },
     {
-      "title": "Krankenkasse für ein gesünderes Leben | BARMER - Barmer",
-      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; Barmer",
+      "title": "Krankenkasse für ein gesünderes Leben | BARMER - BARMER",
+      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-20T08:00:00+00:00",
@@ -1909,8 +1899,8 @@
       "type": "News"
     },
     {
-      "title": "Unsere Meldungen zur Gesundheitspolitik - Barmer",
-      "summary_de": "Unsere Meldungen zur Gesundheitspolitik &nbsp;&nbsp; Barmer",
+      "title": "Unsere Meldungen zur Gesundheitspolitik - BARMER",
+      "summary_de": "Unsere Meldungen zur Gesundheitspolitik &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1POW5DdG5OQjZOT3RqcDFBbUxiUk5CUmdONV9zQUozV3FPaGZrNTlwSVI0R2hyeG03Y1RlcUdlQkMtS2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-18T08:00:00+00:00",
@@ -2049,6 +2039,16 @@
       "type": "Studie"
     },
     {
+      "title": "Ihr Portal für Digitale Gesundheit - BARMER",
+      "summary_de": "Ihr Portal für Digitale Gesundheit &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDTWN3bVQtWVZ3X29IVmZUSGR2dXYzWlZiczJvT0NHVkNfdTBsdklrNE5fc1BOU2dVUFcyN01GMld4N3E2eGpLbnlzQlFPd21fUVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-16T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Intermittent fasting for adults with overweight or obesity",
       "summary_de": "Intermittent fasting for adults with overweight or obesity",
       "source_name": "Cochrane Library RSS feed.",
@@ -2141,26 +2141,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Facharzt/-ärztin Nuklearmedizin - ärztestellen",
-      "summary_de": "Facharzt/-ärztin Nuklearmedizin &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNk5YdlhLYktIelB6Y0oxNFJqenIxU3RUbTdxdHpVaGNEYW1iQmYxeG14SzB1ZVo4bmZXSkY5cjJ3WlJfTWtldHE4cFpkbGxMVHJUWkNGNXlWOEFsZktYbnVXLTg2OEIwdWExTlpJQVFRdGUtdmRxSUxvbVZla0pPX1Foc3Y2cEJRckFjQXNES1AxU1h6?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-12T23:00:23+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Mehrfachbeschäftigung - Techniker Krankenkasse",
-      "summary_de": "Mehrfachbeschäftigung &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQVdzSXFEVXZ4bTJQd1lGbW1xTWRLR2ZoX0E2SmlGYlJGOHVsYmpmWDBHNDBtZkhmLUQwcW9mMGo2emdNdk5oVEF4VVVvRnNqSFg3RHhJamt3YzB3S3kyd1dKaG1tMkptVDNsdkRkRTFuM0VwcFpnU3dtRGwtYlc2M0hiQjR5SUFiT0NkUHhzWUYtMW94SzVCckN2ZnJIbk9yV1RiSTZiZWJaMHlybDZBRlF2VC1Jbm5RU25F?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-12T18:40:57+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Pharma 2026 - Handelsblatt Live",
@@ -2510,14 +2490,14 @@
       "type": "News"
     },
     {
-      "title": "Treatment for primary avascular necrosis of the lower limb in childhood",
-      "summary_de": "Treatment for primary avascular necrosis of the lower limb in childhood",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016326",
-      "published_at": "2026-02-11T00:00:00+00:00",
-      "category": "Studie",
+      "title": "Klinik für Kinder- und Jugendmedizin - HEK",
+      "summary_de": "Klinik für Kinder- und Jugendmedizin &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYnF1ZXdXTHdyTlVJU0ZVTFVyQmpqcUdZLUxJZHJjYTJPc2hESldvMUZZZWRoUldtM2dwM3VBbU10Nkg1dllnRVdUQTRVNVZhZW9sc3c4MTNhVTJrY1k0Z2gxaUFqeVVnSHZjWjBpWUhPamp5c3J5ZEJwelFxOWs1U0RfY2JhaEtrNV9jR2FFVURYWk40OVczQWFzdVJDRDJtUFBIY2Q2bG4zUHk4WjZ1dUNVZzcydHB2R0VsbmZvck5CdUQ1dEhVVGhEeExJUTB4ZU1pMThIeFQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-10T18:18:16+00:00",
+      "category": "News",
       "tags": [],
-      "type": "Studie"
+      "type": "News"
     },
     {
       "title": "Veterinary drug residues in food: what’s the latest in the EU?",
