@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-03-05T04:40:41.791398+00:00",
+  "generated_at": "2026-03-05T06:41:15.414378+00:00",
   "window_days": 42,
-  "count": 223,
+  "count": 220,
   "items": [
+    {
+      "title": "Perimenopause: Geist und Seele können leiden",
+      "summary_de": "Nebel im Kopf, Stimmungsschwankungen, schlechter Schlaf: In der Perimenopause leiden viele Frauen an psychischen und kognitiven Beschwerden. Wie hormonelle Ver&auml;nderungen das Nervensystem beeinflussen, r&uuml;ckt zunehmend ins Zentrum der Forschung.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/geist-und-seele-koennen-leiden-163131/",
+      "published_at": "2026-03-05T06:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Bildung - Neues Kompetenzzentrum bietet Hilfe für erschöpfte Lehrer - Gesundheit - SZ.de",
       "summary_de": "Bildung - Neues Kompetenzzentrum bietet Hilfe für erschöpfte Lehrer - Gesundheit &nbsp;&nbsp; SZ.de",
@@ -19,16 +29,6 @@
       "source_name": "\"site:faz.net medizin\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaVFybnhrWE45R2gwalFubmoteDd0eXNnZWpBVnFsdktjdlhRZVBnSmlweV84cVVyY0JGUy1KTUtYWXphcWlQNlViS3d3QU4xdDM0RzB1Si1zRXFRdUo3ZjVaZWQzbmZxRldCLXVLV0o1UHpoeUw5eHByVzZaUWF4dzQ5RnVaVXJNRTlDRDIxWUJzMzJFazN5b3FEbE9BbjR6R191MmJDamlEcWhpSkZ2UXF1dGptR2RLYVd1RQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-04T23:49:39+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "ECR: Lessons from ACR's improvement initiative on prostate MRI quality",
-      "summary_de": "Prostate MRI is an essential tool for prostate cancer workup and management, but its image quality can be highly variable.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15818783/ecr-lessons-from-acrs-improvement-initiative-on-prostate-mri-quality",
-      "published_at": "2026-03-04T18:36:20+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -224,20 +224,20 @@
       "type": "News"
     },
     {
-      "title": "Digitalisierung: Gedisa startet Podcast »Bits & Blister«",
-      "summary_de": "Mit ihrem neuen Podcast will die Gedisa Apothekerinnen und Apotheker bei der Digitalisierung unterst&uuml;tzen und Austausch dazu f&ouml;rdern. In der Auftaktfolge steht der TI-Messenger im Fokus.&nbsp;",
+      "title": "Neue Statistik: Die häufigsten Gründe für Klinikaufenthalte bei Frauen",
+      "summary_de": "Herzinfarkte und &auml;hnliche Erkrankungen sind f&uuml;r Frauen gef&auml;hrlicher als f&uuml;r M&auml;nner. Zum Weltfrauentag hat das Statistische Bundesamt Zahlen zu Geschlechterunterschieden ver&ouml;ffentlicht &ndash; darunter auch die h&auml;ufigsten Gr&uuml;nde f&uuml;r einen station&auml;ren Aufenthalt.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/gedisa-startet-podcast-bits-blister-163304/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-haeufigsten-gruende-fuer-klinikaufenthalte-bei-frauen-163305/",
       "published_at": "2026-03-04T13:00:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Neue Statistik: Die häufigsten Gründe für Klinikaufenthalte bei Frauen",
-      "summary_de": "Herzinfarkte und &auml;hnliche Erkrankungen sind f&uuml;r Frauen gef&auml;hrlicher als f&uuml;r M&auml;nner. Zum Weltfrauentag hat das Statistische Bundesamt Zahlen zu Geschlechterunterschieden ver&ouml;ffentlicht &ndash; darunter auch die h&auml;ufigsten Gr&uuml;nde f&uuml;r einen station&auml;ren Aufenthalt.",
+      "title": "Digitalisierung: Gedisa startet Podcast »Bits & Blister«",
+      "summary_de": "Mit ihrem neuen Podcast will die Gedisa Apothekerinnen und Apotheker bei der Digitalisierung unterst&uuml;tzen und Austausch dazu f&ouml;rdern. In der Auftaktfolge steht der TI-Messenger im Fokus.&nbsp;",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/die-haeufigsten-gruende-fuer-klinikaufenthalte-bei-frauen-163305/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/gedisa-startet-podcast-bits-blister-163304/",
       "published_at": "2026-03-04T13:00:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
@@ -386,16 +386,6 @@
       "type": "News"
     },
     {
-      "title": "Local or regional clinical AI test beds may emerge in U.S.",
-      "summary_de": "null",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15818664/local-or-regional-clinical-ai-test-beds-may-emerge-in-us",
-      "published_at": "2026-03-04T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "ECR 2026: Ziehm Imaging präsentiert neue OP-Tisch-Steuerung und innovative endovaskuläre Softwarelösung - PresseBox",
       "summary_de": "ECR 2026: Ziehm Imaging präsentiert neue OP-Tisch-Steuerung und innovative endovaskuläre Softwarelösung &nbsp;&nbsp; PresseBox",
       "source_name": "\"site:pressebox.de radiologie\" - Google News",
@@ -474,16 +464,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Personal | Kliniken für Innere Medizin | St. Josef-Hospital Bochum in 44791 Bochum - HEK",
-      "summary_de": "Personal | Kliniken für Innere Medizin | St. Josef-Hospital Bochum in 44791 Bochum &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObFg0SUlaUXE5dHd3d1JWTFRLNUNZTDR6Vk11d3Q5VE1ZdkVBclhBU0pGSUpnZEc0ZElYZ1RCYklXMWgtMy1VWS1mZ3dyVzF6OEU4cG5xcG9uLVV6YXZLV2kyU05PMnBQSWF3NkJPQ3Qwd05LVG5DNFZfcU9zMmMwQ0Nxc0pPSUZsbmdWbk83TmtRTFNxd0k4a1FzOHg3MTFKQ1RtRHBYZVVFMzFITlRyS3ZSNWlqQ3Jna0pWRlNYRnlKMHFpSGhtRDZTYXBISU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-03T19:21:36+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Ablation as effective as surgery for treating small kidney cancers",
@@ -696,16 +676,6 @@
       "type": "News"
     },
     {
-      "title": "ApoVWG-Stellungnahme: KBV sieht »Aushöhlung ärztlicher Kompetenzen«",
-      "summary_de": "Gegen die Pl&auml;ne des Bundesgesundheitsministeriums (BMG), dass Apotheken mehr impfen sollen und mehr Freiheiten bei der Arzneimittelabgabe bekommen, wollen sich die &Auml;rzte zur Wehr setzen. Kassen&auml;rztliche Bundesvereinigung (KBV) und Bundes&auml;rztekammer (B&Auml;K) &uuml;ben in ihren Stellungnahmen scharfe Kritik.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/kbv-sieht-aushoehlung-aerztlicher-kompetenzen-163268/",
-      "published_at": "2026-03-03T11:16:08+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Flächendeckende Arzneimittelversorgung sichern: Differenzierte Vergütungsregelungen anstatt pauschaler Erhöhung des Packungsfixums",
       "summary_de": "Vor der Bundestagsanhörung zum ApoVWG spricht sich der Verband der Ersatzkassen (vdek) für eine gezielte Honorarreform zur Sicherung der flächendeckenden Arzneimittelversorgung aus. Eine pauschale Erhöhung des Packungsfixums lehnt der vdek wegen hoher Mehrkosten für die GKV ab.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -756,6 +726,16 @@
         "Versorgung",
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Medizinische Leistungsangebote | Allgemein- und Viszeralchirurgie | Asklepios Klinik St. Georg in 20099 Hamburg - HEK",
+      "summary_de": "Medizinische Leistungsangebote | Allgemein- und Viszeralchirurgie | Asklepios Klinik St. Georg in 20099 Hamburg &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQ2FRaDBiSFFXSThSb2xTYlVhekg2SFhBZTV5ZlFYVmZ6aTNCakFjS0dOTnl4Y1Y4d2IyT2JoSlJQblpnamxqRDhCaWRZTXJWeURHVE1TN3poZDFLR2R0LUhBMDZIeTkxc1VjU0VudzM1MDlxNnp5TF9vOVBLaG1zRWxUSnZtNnZSa3lsUnBzSDRtNTRIS2d5UVBFNUtJeGRCUS1HZmpuczZlREFjWGU4ZWdCMlh1ajVDWjJEdlgwQWZ1aThrMXNocldCdFZJMFcyQUVuRFVOWlI4UFp3a3BWOXI0SzNiWGVYWVlvQjktaTA5Qjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-03T08:56:20+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
@@ -819,16 +799,6 @@
       "type": "Studie"
     },
     {
-      "title": "Vorsorge - Barmer-Report: Rückgang bei Grippeimpfungen ab 60 Jahren - Gesundheit - SZ.de",
-      "summary_de": "Vorsorge - Barmer-Report: Rückgang bei Grippeimpfungen ab 60 Jahren - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTG9LMldUWlpLM2NUN2t3MkNrNlBjM2FDdXh3N2JzMHVvaHpJTHBLTUlhRVFONG5vWUoycy13NVoyX1Roc2ZuRTFxR3NQSEtzaF8wMVhoaUZ4dDItX2FBQ0o2dzFrUERWYWppS1FQdHM3dVFiMm5vUkpKeDYwd1JLVHFjbVhleXYzMFlxMnFGMTNJVVhXTi1DMmNaREowQThfTTJGLTVpcnhnZlpYSGxvY0l2R29SOHhIQzI2Y1A5ZmZIeHJjbGJ3cVVCenZIT0hrWHlfdmI3ZE50Snp0ZFRUSGVaS01kcnhSU0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-03T03:00:08+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Magnesium sulphate for treating acute bronchiolitis in children under two years of age",
       "summary_de": "Magnesium sulphate for treating acute bronchiolitis in children under two years of age",
       "source_name": "Cochrane Library RSS feed.",
@@ -865,16 +835,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQNDUtYnc5dFFxM2FHaEg0TGlaZXdrV2xnbHI0UWtTelkxZ29kOF8xXzBhNktKTVpuLTRyRDg4Zmp1RnNaRFI3VE0tQlpFdFBNdnNWUzEyaERaUjkteE1hUW9TQVk4cm0yNEVMOERHQ1NaYjZ0ZkNldjB6QjNucUtib0wwaE1jYS1mSWpBZ1RpcjNIbEJScm9ENlJsN2txT2tHV1BYMWdFak9sb3ltcHJVZGdRSE1IVVplc2JhWnZFNzZuQmZZbWVBOEVWWTF4eHJXek9YcUgxRFhLM2tXX2hhY1VNRi1qanE4OEF2SjRpUU5QaUhZWjNxYjFTUFZhRm56Sjd4a2hR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-02T23:35:13+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "PACS: das digitale Zentrum der Bildgebung - healthcare-in-europe.com",
-      "summary_de": "PACS: das digitale Zentrum der Bildgebung &nbsp;&nbsp; healthcare-in-europe.com",
-      "source_name": "\"site:healthcare-in-europe.com radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pUDEtdjJCSjhpZDFJV3pud1AzcDIzellBdFMxWTBGRHNyNEhpUzlwNmZhcEJLbWRkM2I1NXNLR0ZxRTBPSTVoc09vbEpHUGZWOE9RUkVMcGRSekZWcy1MajQtOFJLYTZpWDVCdFBQSHFoNnpnM1EzZU9Ga1FIQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-02T17:15:25+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -949,6 +909,16 @@
       "type": "News"
     },
     {
+      "title": "EQS-News: ECR 2026: Esaote Group stellt bahnbrechende Entwicklungen in den Bereichen Ultraschall, MRI und Enterprise Imaging vor - boerse.de - boerse.de",
+      "summary_de": "EQS-News: ECR 2026: Esaote Group stellt bahnbrechende Entwicklungen in den Bereichen Ultraschall, MRI und Enterprise Imaging vor - boerse.de &nbsp;&nbsp; boerse.de",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQ2lYYkEtTFYxeUEzMVlnc2xCRXFHa0FOb2plUmx1NXAweUdlWEVtMGRqMmk0bG10REwyZGdqQnQxSnpRSm5CRWdzZEpqdkZORVdveDgwRzRvS1BtSzlvMk1Ha3lnYlJwX1RZeWxqLUpUU2lsUFIwdUhrNXNmd3R6SXQ0T2N2VmE4Y2xNc1k5dDJQd2hHRVBlQ0I3UVczM3JhZVFQZk1OaXJ4X0RmTzVkZFFCUFdwM21PaHVMNjBTanVUWElaWHYySFhoWE9FZERONDZPS18wdlVpbWpmbVRzcElhbnBJQkhFU2NVb0Iwc29VMl9NYjZzUUx5eFDSAYICQVVfeXFMTjFPdTVYckEwX04wNFRUN2E2eHdjMDZGcjZkeGV4aXJ5NzBBTnZyLU9ZUC1yVHp0Z0JaS2d2Sk9nOXNnQmxJM1QzZ1JLTl9CeHplZjVJa3Z0LWhSTGxSb3dOTUVmNGlPNW5TSVp3XzB5aUJXcEQwZERSMXZBR3VpMnhxcnNmcnhMa3dmaXYtUzRpRk5CQmFKNndPQ0FRa05XZWhWeUJLenVqRTJJNER4THhMNVo4ekhpVVBPWXNNYUtDTnpORmlGMEtSbVdnSERlM09TRlZrb2xUakNnVVNNUUlodUZPZ042djBTdzRtTG16SUE4dmZmRUdIYmRYaFpiX1hn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-02T11:35:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "W2-Professur \"Künstliche Intelligenz\" - Hochschule Aalen - Technik, Wirtschaft und Gesundheit - ZEIT Stellenmarkt",
       "summary_de": "W2-Professur \"Künstliche Intelligenz\" - Hochschule Aalen - Technik, Wirtschaft und Gesundheit &nbsp;&nbsp; ZEIT Stellenmarkt",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
@@ -1007,16 +977,6 @@
       "source_name": "AuntMinnie",
       "source_url": "https://www.auntminnie.com/clinical-news/ultrasound/article/15818514/survey-most-ultrasound-users-may-not-have-access-to-cleaning-guides",
       "published_at": "2026-03-02T09:13:53+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Klinik und Poliklinik für Neurologie - HEK",
-      "summary_de": "Klinik und Poliklinik für Neurologie &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWVBZU3g2ajRYRldoUG9UZFBRaUV3RFdCeDBfM1VvYXBodWZTVEpGcnFUNVJldXFKTlhoSUpaSTIxemNCZE1wc1pHY2p6eThrcFNZb3pscjc0U1Z6ekZqS0I3YVpSTEFCTkhlSm84UVhDRUwteUpvSmtSR1pXQUprdEpYM21HQnZIbkFMWlI5RXVXZDRReGZ6a1F2VlJvX3dkSUFaODhMRUZaQnFlRTdIb1ZtOUJxMmlrYWxENDZ4dmNfZ1VTU21TOG5HVTJCa0puelhnc0o3Tkt1eXBsMmRqMndOZmJYdjR0V2t0RnRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-02T08:09:17+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1380,16 +1340,6 @@
       "type": "News"
     },
     {
-      "title": "Sachbearbeiter Leistungsbearbeitung (m/w/d) | Die Techniker - Karriere - Techniker Krankenkasse",
-      "summary_de": "Sachbearbeiter Leistungsbearbeitung (m/w/d) | Die Techniker - Karriere &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNjRNN1lFZ19HMUh2VTBWemxqS1FPM0tYNVJtQ1J3VHVWdjV6UE1DNTc1QVBQVVFBdTdzOURDcXRFc2Zoa1Bqbmkwc0FPOHFJazFXTTZFNFcwR1o3TkFrZjJrQ0ppVUJmLTE0eXhGa2k0QnlUQ3F0THV4RFVabTJFNDZMdkpETWdiOVZv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-27T10:44:07+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Physicians superior to LLMs in interpreting PET imaging",
       "summary_de": "Four physicians identified tumor locations on F-18 FDG-PET scans with far higher accuracy than six large language models (LLMs...",
       "source_name": "AuntMinnie",
@@ -1504,6 +1454,16 @@
       "type": "Studie"
     },
     {
+      "title": "Klinik für Anästhesie und Intensivmedizin - HEK",
+      "summary_de": "Klinik für Anästhesie und Intensivmedizin &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbW0wYjVWTG9zTmJEbndZRXRWRTFFMEk4cHpva2hVZFdsYWpGLVpvRUVHcDBTVktmRjlBM3MzOHhGdDE4ZkNUd1ZRRjJfNnNNS1ZmZm1XZkRxZno5QlVkLUlVaG8xR3R3cEN1RHprR1RFZGM0WHNvb1FCcE85VngxTzBSWUFOc3AxZlZrRkpiOFQ0SkxyNm40UExVM09kZ2YwY2Mya3NydlgxX2pCTHlPd05aSWxEVXo0cXdhb1pBLTZGa1VORGJJWFZEQms0dkNwYk0tN2xMbVlmY0lLTHY1NDJKYU4yYXR2aGlmakxB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-26T13:30:46+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Apothekenreform: Apotheken vor Ort werden gestärkt, aber wirtschaftliche Mechanismen zur Abgabe von Arzneimitteln aufgeweicht",
       "summary_de": "Der Bundestag berät erstmals über das Apothekenversorgung-Weiterentwicklungsgesetz. Der vdek unterstützt die Stärkung der Apotheken vor Ort, kritisiert jedoch die Lockerung wirtschaftlicher Vorgaben bei Rabattarzneimitteln und warnt vor zusätzlichen GKV-Belastungen durch neue Leistungen.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -1529,6 +1489,26 @@
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52ZlE1NFlfNENDc0dxVi1UUnl4dktKcE40UGlqRmdtWXFYdURWdGlINnh1Ty0tOE9yUnpoN0g0NmNjWmphMHdGaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-26T11:39:49+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "From silos to systems: Redefining radiology through network integration",
+      "summary_de": "In a new column, Charles Morris of Agfa HealthCare makes the case for imaging without boundaries.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/imaging-informatics/enterprise-imaging/article/15818312/agfa-healthcare-from-silos-to-systems-redefining-radiology-through-network-integration",
+      "published_at": "2026-02-26T10:16:56+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Challenges ahead as ABR prepares to reinstate oral exams",
+      "summary_de": "Surveyed program directors who personally took the oral boards view the change more favorably than those who did not.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/radiology-education/residents-fellows/article/15818302/challenges-ahead-as-abr-prepares-to-reinstate-oral-exams",
+      "published_at": "2026-02-26T10:01:47+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1751,6 +1731,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON0tuMU9tMVE2Z2dJZ212WkpCMjdSVFVxb1YtSFh2QXY3S0wwTzlnTk9pMG9VUU9QYkZGZHU1MHluYzJXMDNSX1NVOEFtM3NCYTZFa3p6T25lc29tY01CR2JHZk13STFnZDFGeTQyU3BFdl8yWXhfdWdrbkcwVkVwN1hveE93Ym93QngwOWhxbmlFVm41RWlyNk9qZEpFWElrcl82NWpUcjhUT3NpXzc4M2lmX3FvS2NLQ2JsNHFVUWNiUjJBM0xTRml5bnY3V1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-19T08:00:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Medizinische Leistungsangebote | Frauenheilkunde und Geburtshilfe | Hinterland-Klinik gGmbH in 35216 Biedenkopf - HEK",
+      "summary_de": "Medizinische Leistungsangebote | Frauenheilkunde und Geburtshilfe | Hinterland-Klinik gGmbH in 35216 Biedenkopf &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNd0EwbVBwUU95OHAzZ2NvMWJGLVV6ODFDd1FXTWtvY0ZWZEJQZlBONW9QbDdWZUpTM1FKZXRfUTJPNHJ1UHBzTFBuMEU1blB2dzU4cGJkVnAyVmdWRWlLOWR4REtqR3FZa2plbmtWeU14aE1BM05Mc0tPSDBzUkpveWlMWGpvUWZEQjAtdjRkdE0ycXUwU2NKYlFiTWhzSDl2WGVLQV9wcWVrak1SMC15SE5XZ3QySEFTZmltLVNLdlYxUTdTTlZEdVFpV1FFVHdndnR0NDdaM20yUjFRY1RtQWU4STd1MGNHMmM0ZmwwSDhla0RkZVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-18T22:30:22+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2088,16 +2078,6 @@
       "type": "News"
     },
     {
-      "title": "Klinik für Innere Medizin/Schwerpunkt Gastroenterologie - HEK",
-      "summary_de": "Klinik für Innere Medizin/Schwerpunkt Gastroenterologie &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZWprUzdXa2ZJZTdZbkREaWt0WWpvYVhUaW9NNjZEUWdMR0Y3N1ByclVoai15VjNCMTZjYXNnNW9vN3hLLTViVUFObHg0eGp1dDlpZDByTVBNYlB0YkFHc2lBWVNtMUZueVRjZkUwbFozOXZxN3JKOHJ1Y1hoRUVoU3V6RllFdTF5WUozcHFtd0dPSkpsUy1VOWptbXg2RmRodGlOajFSdFdrVXBoTUpvajA1WEd5a3QwcU14TXlaaU5EUm9lRmhKVElqVjZGX1liZmZUdUZ0ZlNZeTdRdGk5d3RyWktQUFd3ZWg0dElRbUtZaXFHZEY4QWJpWnVTamhETVQzWWt3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-08T12:56:58+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Die Techniker - Deutschlands beste Krankenkasse 2026 - Die Techniker - Techniker Krankenkasse",
       "summary_de": "Die Techniker - Deutschlands beste Krankenkasse 2026 - Die Techniker &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
@@ -2256,16 +2236,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFgxN2pZaEoya0UtMW01cm9PLURDUVZXUFFTTzY4Z05XOENVOUpBUzVkMHl6Wm5hNEg1dXVlVzdidjJfVUFEZHlZdG9KZUlaY0lkNVZ6UDFLakxtY1dtWUVQYzRTbEdWaW14RnBXcmlzd1NsUGRyaXNCTzJfYUJQZ3FKWjJzOFFPNHQwNm9wTnBPcDdxejNPajVXYlpGQXdUcnlQdTMxSTk0aVNodnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-01-26T08:00:00+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Wie sich die Diagnostik im Krankenhaus Papenburg verändert hat und was Patienten davon haben - noz.de",
-      "summary_de": "Wie sich die Diagnostik im Krankenhaus Papenburg verändert hat und was Patienten davon haben &nbsp;&nbsp; noz.de",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWjJXSnZmckdMQlhtdHJQeW01MklCSHQyeFROVmQwVHl2UV9tZkJNWnd6Z2ZacGh3elVoUmd0TE1Xbk5RX3lCN3N1eVRLZVQ0eDB1VTZoUXVsM1N6blhjQnVMRnBCV2ZBeVUwejlZZnJBYmREaXBhclAyRVFYR0J3aUJNYWpGTlNIRGtfQWRwVnd5ZVA4cTd2Um5iRENPVld6OHE5TTFSNzlTbUV6d2Q5U1N2eVA1NXlLaUt6cUJCNC1Qa3I2ZzFBRHFGVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-24T08:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
