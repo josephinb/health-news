@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-06T18:34:42.499938+00:00",
+  "generated_at": "2026-03-06T21:22:50.240030+00:00",
   "window_days": 42,
-  "count": 273,
+  "count": 264,
   "items": [
     {
       "title": "Geflügelkrankheit - Weitere Fälle von Newcastle-Krankheit festgestellt - Gesundheit - SZ.de",
@@ -20,16 +20,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/ist-die-darmbarriere-noch-ganz-dicht-163296/",
       "published_at": "2026-03-06T17:00:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Kriminalität: Verteidigung weist Mordvorwürfe gegen Arzt der MHH zurück - DIE ZEIT",
-      "summary_de": "Kriminalität: Verteidigung weist Mordvorwürfe gegen Arzt der MHH zurück &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV21MbkJuOGdmcXVoNG4tam1yR3MxcmlDU2hBbzB0QUhJVDhaRWotYlQyZ2FkOU5hdFpfSVROSHRXRV93ZGRCTHhaUVEzR2NXTy16SmV3TTNtOFk5bUFLbGFyZUJOcVFBWVFUQnNPOUFYaXNKREdDY2lMSklnemtYalg5Z0ZRZzJISTNfRDNrVjhkVWtFYW93M0t2cw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-06T16:59:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -158,7 +148,7 @@
       "summary_de": "Viszerales Fettgewebe beeinflusst Alterung und Gesundheit des Gehirns unterschiedlich – News &nbsp;&nbsp; Deutsches Ärzteblatt",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdVVhU2lhcmotMzlKNnRIbV9lVjdkWlFma3k2TFhYUHAtdU5TQ3JkRkFRVDBpVk85U2Z4OEo1TjN1aG9rc0hVVjlRLVJDdS1DR2dNRzZlVFphOG1oYTBNTWpVZEJxOVVCWFMwVEF2eUVfdmp4UjEtODNZN3pBQjMxQ2NrclJtbnFtcDFzQ1Z4MDFNUHNwWXpRREhhRVM4ZXJUX25ELWlZNjB6SGNxUzAxOEhiRjNlVmxyU3E4blk5RzJvdnlGd2YxdzYxYjc5UVVFRHllUTZwT20xb096RFprNURMZDZlOFcwMmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-06T14:11:23+00:00",
+      "published_at": "2026-03-06T14:11:25+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -840,16 +830,6 @@
       "type": "News"
     },
     {
-      "title": "Tiergesundheit: Newcastle-Krankheit breitet sich auf Geflügelhöfen aus - DIE ZEIT",
-      "summary_de": "Tiergesundheit: Newcastle-Krankheit breitet sich auf Geflügelhöfen aus &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNazNheTdPOEhnV2RlMWl3QWs2b1pCZllKQ3lsRUxuQWpaS0Q2Y3lYc2dJR0tSVVR4UFoteFFrc0hXNzJGZ2NVdnMwcElwQ184SjQ2UURRX09JbjhRNGdFWi15THdfUmZ4YzBGOVV0VFJHOVFPaVVSNzE2TUhQMDRaNzNUN0ZKTDlCNTZfNzFXMklzV3M1cl9QRV9UREI3YVg2SzNpV1Nfb2tibjl4WGp5a09UZXBJNGM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-05T09:12:03+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Meldung: Keine Entwarnung bei GKV-Finanzen",
       "summary_de": "Auch wenn die gesetzlichen Krankenkassen das Jahr 2025 mit einem Überschuss von 3,5 Mrd. Euro abgeschlossen haben, „gibt es null Grund zur Entwarnung“, wie Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, im Gespräch mit der Neuen Osnabrücker Zeitung (NOZ) betont.",
       "source_name": "GKV-SV Presseinformationen",
@@ -862,61 +842,11 @@
       "type": "News"
     },
     {
-      "title": "DL segmentation of chest muscle volume shows promise for COPD patients",
-      "summary_de": "Deep learning (DL)-based muscle volume assessment from routine CT scans could help identify COPD patients with comorbid sarcopenia...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15818917/dl-segmentation-of-chest-muscle-volume-shows-promise-for-copd-patients",
-      "published_at": "2026-03-05T08:56:21+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "ECR: 'Black swan events' demand informed imaging infrastructure",
-      "summary_de": "Experts discuss how to plan for \"black swan events\" -- that is, battlefield and mass casualty incidents.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15818839/ecr-black-swan-events-demand-informed-imaging-infrastructure",
-      "published_at": "2026-03-05T08:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "ECR: Integrating actionable reporting into the imaging workflow",
-      "summary_de": "Radiologists can promote actionable reporting by avoiding common pitfalls and communicating with referrers.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/practice-management/article/15818831/ecr-integrating-actionable-reporting-into-the-imaging-workflow",
-      "published_at": "2026-03-05T08:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "HPI: Workforce attrition higher in radiology subspecialties",
-      "summary_de": "Subspecialties are an area of particular concern within the trend of increased radiology workforce attrition.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/practice-management/careers/article/15818815/hpi-workforce-attrition-higher-in-radiology-subspecialties",
-      "published_at": "2026-03-05T07:53:59+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Formel 1 in Melbourne: Aston Martin vibriert stark, Adrian Newey sorgt sich um Gesundheit der Fahrer - Spiegel",
       "summary_de": "Formel 1 in Melbourne: Aston Martin vibriert stark, Adrian Newey sorgt sich um Gesundheit der Fahrer &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMDJUeW5uUUt6c0s5WWlfVHZkTW5fdmt5TXpuVF9JM2JINHhCSUdncmdScHhhYkpDVV9JQVo3Z2I1ZWFLZHhGRmJDV2ZFQnF3MzdrZXlQY2ZzZjJJV0ViRnFtVnZOVVJnX1NfRkVJZnBFdl9ub1Z5ZmcySmptMXktWjZlTTF5LTdibTFPOEVwd1JPbTRrU1Nrc1pYcE5zanBiLVg5QXAzYkJ5YlZSQjQ1MjZIMkk3UHNyVmpwYXJMd2puVGVBTW5xTXlNYUx4VFZEUzBOa3BuY3JiaGJIbzV5NXhxNGtqWlFkd255SmpTcEg2RV9MMGZJZ0JoaWtJdlVtUVpraw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-05T07:46:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Leitender Oberarzt (w/m/d) - Innere Medizin Pneumologie - Stellenmarkt FAZ",
-      "summary_de": "Leitender Oberarzt (w/m/d) - Innere Medizin Pneumologie &nbsp;&nbsp; Stellenmarkt FAZ",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaHMwYkpfZzliZUVycDMwMTFEQnZCTjZ5eDBfRVU3dU9uWkVvOGxZTEcxdnlnQnJURlpjdHBvVTYwZk45MC1qckIxTFZFMnFpYS1zdUlVYm9lTzEwWUwtcWlSVktzdmd1ZDBfTnItSmJSX1NhYW05UWwzYlQ0dnRVRktiWHNKRlZQT0R0Z0F2eFFfQ1NWSWJpUktoMlhGY2x6cVFqTnpjTzB5QUU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-05T07:45:44+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -952,11 +882,11 @@
       "type": "Studie"
     },
     {
-      "title": "ECR: Lessons from ACR's improvement initiative on prostate MRI quality",
-      "summary_de": "Prostate MRI is an essential tool for prostate cancer workup and management, but its image quality can be highly variable.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15818783/ecr-lessons-from-acrs-improvement-initiative-on-prostate-mri-quality",
-      "published_at": "2026-03-04T18:36:20+00:00",
+      "title": "Klinik für Allgemeinchirurgie - HEK",
+      "summary_de": "Klinik für Allgemeinchirurgie &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdjVySmlLT3JRTHJZWDFwYk5hZG42bGkxSVdvejZKbkRGWU01NEpiUlFMZUtseEhBZFBYd0pOZG9TUDNLR1pEYzFmN0hxYlFSaXpkWnNVSlY3VkZFMzB3OXN0RjlKbWQtX1A0eTJNNkZ2V0ZWYnVfLXRTdmdpZm9iNmJYM2ZpSHVnWGJOT1FRS0ZrSTM2RHhWQlZjWGQ3dEo0ekU4Yk9wcC1ncloxQVlJRU1sS1ZpNmtrT0NrZ3ozMTdrWmxnWWg1eGNYUGtYNE9zaU43RmhkdmR4bjA0NTN0QnFaTXBxa2F5cVV2bGF3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-04T23:54:33+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1014,7 +944,7 @@
     {
       "title": "Kunst und Gesundheit: Gucken Sie sich diese Bilder genau an. Ist gut für Ihre Gesundheit! - DIE ZEIT",
       "summary_de": "Kunst und Gesundheit: Gucken Sie sich diese Bilder genau an. Ist gut für Ihre Gesundheit! &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON29nVy1pZFhTck9DQmVKRC1Yd2Y0aWZOQThHUnk4bTFzT3FDV0RCUWw0eE9Wc0duLTFHcDZ3SVV5Y0M3VFBDOVlnN3lBNnh0V2VoYmtwVWFlMU1McmZUZ1FwRDZMem1WaWVEVk9ab1JXNzdBckJUd01ybnRjOGREb04yNUVRb0VQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-04T15:54:01+00:00",
       "category": "News",
@@ -1144,42 +1074,12 @@
       "type": "News"
     },
     {
-      "title": "AI model shows promise for reading CT scans like a radiologist would",
-      "summary_de": "null",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15818808/ai-model-shows-promise-for-reading-ct-scans-like-a-radiologist-would",
-      "published_at": "2026-03-04T09:11:13+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "TK-Chef Baas zum KHAG: ”Mas­sive Ausnahmen schwä­chen Reform - der Ball liegt nun bei den Ländern” - Techniker Krankenkasse",
       "summary_de": "TK-Chef Baas zum KHAG: ”Mas­sive Ausnahmen schwä­chen Reform - der Ball liegt nun bei den Ländern” &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN0w0VDhQYnU2OTdCSGVsSVR0N1pjaVVoVHp5N0txSzlFUGFtLVV3eUhmM3dWVE05V0ViODl5ZU50X3YyNzlsLVdGakdtV2JtVGdlUUUtdEFFNzNTZGhGUHcyVzVoOVlVQ1RERGhwTHJlZ25mSElXbmNXWndKTG1nbF9tb1p4cFhiaXNVZ3pmZHRhb2tCZFhvcC1NbFFFRm5jbnM4UVJKVVY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-04T08:00:00+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Local or regional clinical AI test beds may emerge in U.S.",
-      "summary_de": "null",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15818664/local-or-regional-clinical-ai-test-beds-may-emerge-in-us",
-      "published_at": "2026-03-04T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "ECR: Radiologists discuss evidence for, societal impact of radiology AI",
-      "summary_de": "null",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15818809/ecr-radiologists-discuss-evidence-for-societal-impact-of-radiology-ai",
-      "published_at": "2026-03-04T07:52:58+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1224,11 +1124,11 @@
       "type": "Studie"
     },
     {
-      "title": "Ablation as effective as surgery for treating small kidney cancers",
-      "summary_de": "In patients with stage T1a kidney cancer, ablation shows comparable progression risk but fewer complications.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15818624/ablation-as-effective-as-surgery-for-treating-small-kidney-cancers",
-      "published_at": "2026-03-03T18:01:04+00:00",
+      "title": "Personal | Kliniken für Innere Medizin | St. Josef-Hospital Bochum in 44791 Bochum - HEK",
+      "summary_de": "Personal | Kliniken für Innere Medizin | St. Josef-Hospital Bochum in 44791 Bochum &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObFg0SUlaUXE5dHd3d1JWTFRLNUNZTDR6Vk11d3Q5VE1ZdkVBclhBU0pGSUpnZEc0ZElYZ1RCYklXMWgtMy1VWS1mZ3dyVzF6OEU4cG5xcG9uLVV6YXZLV2kyU05PMnBQSWF3NkJPQ3Qwd05LVG5DNFZfcU9zMmMwQ0Nxc0pPSUZsbmdWbk83TmtRTFNxd0k4a1FzOHg3MTFKQ1RtRHBYZVVFMzFITlRyS3ZSNWlqQ3Jna0pWRlNYRnlKMHFpSGhtRDZTYXBISU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-03T19:21:36+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1354,16 +1254,6 @@
         "Versorgung",
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "CEUS with perfluorobutane diagnoses small-cell HCC",
-      "summary_de": "Contrast-enhanced ultrasound (CEUS) with perfluorobutane performs well in diagnosing small-cell liver hepatocellular carcinoma...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ultrasound/article/15818653/ceus-with-perfluorobutane-diagnoses-smallcell-hcc",
-      "published_at": "2026-03-03T07:21:14+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
@@ -1582,6 +1472,16 @@
       "type": "News"
     },
     {
+      "title": "Gesundheit - Schätzung: Bis zu 460.000 Frauen mit Endometriose in Bayern - Bayern - SZ.de",
+      "summary_de": "Gesundheit - Schätzung: Bis zu 460.000 Frauen mit Endometriose in Bayern - Bayern &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbVk4TElPblhNMnIzUl9obzJJa25FdUQ1LUdOa0NobnpkZEh0ZXU0X3BSeXFkeEs4cVdHOXhyak1tUlhjZVpiTW1Dejh1M1NBdDc0YlIyRlNIalQ2V3hfLWcyZldEcXRqbEZ3VUpTWTUyOTBGOG1WYWlqbXhzY01lWm9sZUg0M3NTM0J5U0lzX2p1VFdYR0FBYlpvbjNZUVZVRDZuV1U5WV9EN2MwZVZLOVJoVGpWcmVXX25ZbEdsLUFXZ2xfcU1WWEdnZ0JTZ01LWUpsV3ZyUkxhTm0yVkJfb0hSQThQejZISXpj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-01T03:00:53+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Qualitätsindikatoren | Klinik für Neurologie | in 21029 Hamburg - TK-Klinikführer",
       "summary_de": "Qualitätsindikatoren | Klinik für Neurologie | in 21029 Hamburg &nbsp;&nbsp; TK-Klinikführer",
       "source_name": "\"site:tk.de\" - Google News",
@@ -1746,6 +1646,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Klinik für Urologie - HEK",
+      "summary_de": "Klinik für Urologie &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPXy0wVnVSckdLZC1oMXVoRTJzcjU5SHc3NHVsdl93aUdFRDJPeDdWbklUNnRTeUllTXFxUVRKN1BBN3daSEtoN0J4Y1Y1YVBRT1dyRDZoc094ZEM0ZTdNZXozX0MwS0diQUl2NGZVRXo3Q1ZnTjJyWWU2Ulg5RVBsS0NGN0NlSGs5dW1tZWlmUTdKWnlaejdqTjVRZWFHNnp6WWR0aDhyNy0zQ3lIR3hmUERWbW9MRUdlYVVndk91bWNOdnoycEJrZEFVUlI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-26T13:31:16+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Apothekenreform: Apotheken vor Ort werden gestärkt, aber wirtschaftliche Mechanismen zur Abgabe von Arzneimitteln aufgeweicht",
