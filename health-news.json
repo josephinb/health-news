@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-07T09:22:05.531694+00:00",
+  "generated_at": "2026-03-07T12:32:10.264469+00:00",
   "window_days": 42,
-  "count": 267,
+  "count": 271,
   "items": [
     {
       "title": "PZ Briefing: Die Top-News der Woche",
@@ -12,6 +12,16 @@
       "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Week in Review: ECR doesn't disappoint | Global breast cancer cases surge | ABR board certification changes",
+      "summary_de": "null",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15818998/week-in-review-ecr-doesnt-disappoint-global-breast-cancer-cases-surge-abr-board-certification-changes",
+      "published_at": "2026-03-07T08:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "Geflügelkrankheit - Weitere Fälle von Newcastle-Krankheit festgestellt - Gesundheit - SZ.de",
@@ -372,6 +382,16 @@
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2026/internationaler-frauentag-teilhabe-arbeitsleben-frauengesundheit.html?pk_campaign=rss",
       "published_at": "2026-03-06T09:00:00+00:00",
       "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Radiologie Klinikum Westmünsterland GmbH Klinik MVZ Stellenangebote - ärztestellen",
+      "summary_de": "Radiologie Klinikum Westmünsterland GmbH Klinik MVZ Stellenangebote &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdXdLbVR0QkRKeERxQ0VKVk1Ed20wMVVvalFYY0tyUlpKSDNKYlBER19LZUFka25YTVE2TUpicHQwQ1F6MlRMSy02ZWpKQmpFUEE2bjlSd0QwN1laaTFYQjlZRWlxYTc1Sm1BdGtyTjF1YmRrVEdDU3prbnRMRTJNMkIzTUIxT0JFQVNlNEZHTHhxN1N0UUVWVVR4ZGFtN1g4TFF6Z2tTclVhNk0wd05FNjEwdDZidDBK?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-06T08:54:16+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1132,16 +1152,6 @@
       "type": "News"
     },
     {
-      "title": "Local or regional clinical AI test beds may emerge in U.S.",
-      "summary_de": "null",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15818664/local-or-regional-clinical-ai-test-beds-may-emerge-in-us",
-      "published_at": "2026-03-04T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "ECR: Radiologists discuss evidence for, societal impact of radiology AI",
       "summary_de": "null",
       "source_name": "AuntMinnie",
@@ -1190,16 +1200,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Personal | Kliniken für Innere Medizin | St. Josef-Hospital Bochum in 44791 Bochum - HEK",
-      "summary_de": "Personal | Kliniken für Innere Medizin | St. Josef-Hospital Bochum in 44791 Bochum &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObFg0SUlaUXE5dHd3d1JWTFRLNUNZTDR6Vk11d3Q5VE1ZdkVBclhBU0pGSUpnZEc0ZElYZ1RCYklXMWgtMy1VWS1mZ3dyVzF6OEU4cG5xcG9uLVV6YXZLV2kyU05PMnBQSWF3NkJPQ3Qwd05LVG5DNFZfcU9zMmMwQ0Nxc0pPSUZsbmdWbk83TmtRTFNxd0k4a1FzOHg3MTFKQ1RtRHBYZVVFMzFITlRyS3ZSNWlqQ3Jna0pWRlNYRnlKMHFpSGhtRDZTYXBISU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-03T19:21:36+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Man jailed for ten years for convictions including selling prescription-only medicines worth more than £3.7million",
@@ -1443,6 +1443,16 @@
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeEs0T1Z4QW5WbnBSdmFmMnpETURTQU5zSHdnTWZsQUloMm8zYTYxc19OUEJNTVVoOUMwLXlUZmllRWN6SFA3ZHFGM1ZmUVdQd2IxdzdBRmE3blFRQ2Zqclc5MlBhWUozbGdfenV6c092dzVDeHNGVmMzRnNkcFA4RzBWSU9wYl91MUVIMnBJRWZGQmdUbDZxTlF4UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-02T06:30:05+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Sachsen-Anhalt - Die Poliklinik: ein Modell gegen Ärztemangel? - Gesundheit - SZ.de",
+      "summary_de": "Sachsen-Anhalt - Die Poliklinik: ein Modell gegen Ärztemangel? - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUk9iUkU3bi1ZUGwtbi1ZcHBPeHdUMFJCcXkzWmhtVFFud01fWHp0cnBxVEZIdWFLczN6T2RtOG9GRFlKaXFRX1E4dlU4alVUWjlSZDlyMEFqemtlYS1ueERkd2U2QVo5Rndyc2xkY1FBTmN0djdic0IwOU9KYnJhbVlrM09URUdtbWhxaFVtMFR4YkRLUXBRaEk2ZGVWcVVqbW1uQ2JIZWpGdkU1Zjh5ZWdNckRaYzVhWTNIbEtFZ1o3b0UxUnlMdVotdHhJTjkxdDVPTGd0WnNjejdmcmhES2xn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-02T03:04:05+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1848,6 +1858,16 @@
       "type": "News"
     },
     {
+      "title": "Personal | Innere Medizin/Schwerpunkt Geriatrie | GRN - Klinik Sinsheim in 74889 Sinsheim - TK-Klinikführer",
+      "summary_de": "Personal | Innere Medizin/Schwerpunkt Geriatrie | GRN - Klinik Sinsheim in 74889 Sinsheim &nbsp;&nbsp; TK-Klinikführer",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRmN3c2RXLVJSa054cm9sZjRCeXVwWnE0V3JjZnpKUTVkazJybmJ1ZEo5dGh6UEVWbHV3WXJOYkowMkZxX1FuNVVpUzlaUW1TQmc1TWlXUEdyZEpRaWp0bmtMTWJ2OTk0WGQxR0RzckR0NjlLc0lUNVlGcGdkRjRoOEo1ZEV1dHRCeWc0b3lmVC1Peno1Nm5oc0F6anl6Y0ZzU3hzNkFQWVZQTzRWelVQeXBZU0RET21nZkpNcW81eU8zM1ZYcjdSYndxT3FjeXlENE5RZFZB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-25T10:36:58+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "DKG-Vorschläge zur Reformierung des Pflegebudgets bergen neue Finanzrisiken für die GKV",
       "summary_de": "Die Reformvorschläge der DKG sehen eine Finanzierung eines Pflege-Planbedarfs vor. Der vdek kritisiert, dass Krankenkassen damit Personal auch ohne tatsächlichen Nachweis refinanzieren müssten – mit erheblichen Mehrkosten für die GKV.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -1923,11 +1943,11 @@
       "type": "News"
     },
     {
-      "title": "Programmverantwortlicher Arzt (m/w/d) Mammographie-Screening - ärztestellen",
-      "summary_de": "Programmverantwortlicher Arzt (m/w/d) Mammographie-Screening &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb0dhVTJYY1oya25hVHZlYnFXaWloYnVyMThfWlhfQVBRMjF1TWVBSEo4aGoyRmdRQVZ4TElkOUtmQzV6Unkyc1dLT212Um5mMHJrTFZaNXRDSUJXLUYtaDRBTU40RUlxRWgzMGY5VmplbTlxclh0cVA1VVVBOE13c1J2cGo4VUprRDVITTFqeUc1NmNxb3JfWWN0Y29Sc3dpQ2pBNnlwQVJ4ZDk0Tnd3Nll4b0FzMndT?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-21T08:00:00+00:00",
+      "title": "Impfung gegen Meningokokken - Techniker Krankenkasse",
+      "summary_de": "Impfung gegen Meningokokken &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNm9vc3dtbi0zZFNvaVZtQlgzSnAyRXE4eHZiXzRKQ0FNMjNHdDdQQW9iUFNzeEN6SGtHRXlqUVIxd0laYU1HQ2RoLUwycmpDQXkyMHBoanBjUEJzcDdpVzZGRXFBbHh4TEF2cXlGbVNYVzl0clBIQ0FvQ0tpWmttRFIyQl9oQmVMYnAtVkl0bGx1NldqUVV6Q19OVUxnci1kMDBVajlZMEcyVzJxRkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-23T08:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1943,8 +1963,8 @@
       "type": "News"
     },
     {
-      "title": "Krankenkasse für ein gesünderes Leben | BARMER - Barmer",
-      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; Barmer",
+      "title": "Krankenkasse für ein gesünderes Leben | BARMER - BARMER",
+      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-20T08:00:00+00:00",
@@ -2077,6 +2097,16 @@
       "type": "News"
     },
     {
+      "title": "Klinik für diagnostische und interventionelle Radiologie - HEK",
+      "summary_de": "Klinik für diagnostische und interventionelle Radiologie &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbURpNWJuWEoyeVB5NHlIYVJBTUo3bzlOd2JHbTIwaDVBSmVvWXFhUUY2OTI4d1dQNWJIeFhacXU1c0hyZU4wZW53Q0lxcWxYZ2NMQ3VrMFN2UWxBOG1aaTVzRFczTFB1UC03T2cxN29BWWEyOG5QbUpCcG0xdncxMzlHLVp6c1o4OG5qVFg0dkF6bm10TnVpOGVKNTZPUk5maUdFT1oxandrQ0ZlZXRJSGpEcEZLWlhFSFBqdmg1bWlIeTM4U3VOMy1sLW8ta1YxN3A0Zm9CMUxLMG5KcjV3dlpwdC1XcUpabzJ6cUt3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-18T14:31:24+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Antimicrobial resistance in foodborne bacteria remains a public health concern in Europe",
       "summary_de": "While resistance to commonly used antimicrobials remains widespread in foodborne bacteria such as Salmonella and Campylobacter , several countries have reported progress in reducing resistance levels in humans and in food-producing animals. Because these foodborne bacteria can spread from animals and food to humans, causing severe infections that may require antimicrobial treatment, continued action under a One Health approach remains …",
       "source_name": "EFSA | News",
@@ -2097,20 +2127,20 @@
       "type": "Studie"
     },
     {
-      "title": "Folic acid supplementation and malaria susceptibility and severity among people taking antifolate antimalarial drugs in endemic areas",
-      "summary_de": "Folic acid supplementation and malaria susceptibility and severity among people taking antifolate antimalarial drugs in endemic areas",
+      "title": "Exercise for multidirectional instability of the shoulder",
+      "summary_de": "Exercise for multidirectional instability of the shoulder",
       "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014217.pub2",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015450.pub2",
       "published_at": "2026-02-18T00:00:00+00:00",
       "category": "Studie",
       "tags": [],
       "type": "Studie"
     },
     {
-      "title": "Exercise for multidirectional instability of the shoulder",
-      "summary_de": "Exercise for multidirectional instability of the shoulder",
+      "title": "Folic acid supplementation and malaria susceptibility and severity among people taking antifolate antimalarial drugs in endemic areas",
+      "summary_de": "Folic acid supplementation and malaria susceptibility and severity among people taking antifolate antimalarial drugs in endemic areas",
       "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015450.pub2",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014217.pub2",
       "published_at": "2026-02-18T00:00:00+00:00",
       "category": "Studie",
       "tags": [],
@@ -2167,16 +2197,6 @@
       "type": "Studie"
     },
     {
-      "title": "Intravenous chemotherapy versus intra‐arterial chemotherapy for retinoblastoma",
-      "summary_de": "Intravenous chemotherapy versus intra‐arterial chemotherapy for retinoblastoma",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013695.pub2",
-      "published_at": "2026-02-17T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
       "title": "Financial arrangements for rehabilitation services in health systems: an overview of systematic reviews",
       "summary_de": "Financial arrangements for rehabilitation services in health systems: an overview of systematic reviews",
       "source_name": "Cochrane Library RSS feed.",
@@ -2191,6 +2211,16 @@
       "summary_de": "Interventions for fatigue management after traumatic brain injury",
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006448.pub2",
+      "published_at": "2026-02-17T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Intravenous chemotherapy versus intra‐arterial chemotherapy for retinoblastoma",
+      "summary_de": "Intravenous chemotherapy versus intra‐arterial chemotherapy for retinoblastoma",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013695.pub2",
       "published_at": "2026-02-17T00:00:00+00:00",
       "category": "Studie",
       "tags": [],
@@ -2568,11 +2598,11 @@
       "type": "News"
     },
     {
-      "title": "Klinik für Urologie und Kinderurologie - HEK",
-      "summary_de": "Klinik für Urologie und Kinderurologie &nbsp;&nbsp; HEK",
+      "title": "Klinik für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie | in 58515 Lüdenscheid - HEK",
+      "summary_de": "Klinik für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie | in 58515 Lüdenscheid &nbsp;&nbsp; HEK",
       "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOX3pHeEhBMGxvWFlVbEUxS2dSM0Uzak5QVk1Lek1qOGpCS1pCdEJNMFZFQ1pXbjBoa2c4ek4tRnRTQ2I1QzlQTEFPODR2dG5aV29RQ2g5TEluNHR0bEdfOHMzbFBqVThkUEFSX1BpeTRNU2c5blFXSU1qYVlGeUhOeHpNQU13bFdPV3NfOS16cFlOd1g1M09fdkhHYU4xVzhuejJ5Ynk1TF9CQXl5X2VzalFrNnJpWTRDU3RXWHVjQkhPYjdEX0hEX1c0aFpCZk03VUY1MzN4aHRWZ1Y4MFgtcF9SVnJPcFpJV0l1WjZzM1hsazFzM01R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-07T10:21:42+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQRkMxRzZNOEhfekJJZkFVdzNxNzVNd25hSDQ4ZmVwcHJ1NGRUMW5zWXNxSHBRaE9mdW4wX2N1cnZRcGdHLUVwTlpoQ2ZKUS05ZnNmTnkwajZOdC1HYUhuZk92R2VvODFsb3Uwc0VmdVBXZEJSck5GTjdjNVVJbVFoZWJmLUpWZDdhNEFBd1lCWUEtVm1HeVdGNnFERGxHUGpkYzFHTVFzLWxDb1ZQWGRhSWQ3RjR5WnRvaURFNTQxajRuRUtKVXBDbEFSOUFLNFZtcmxPR05Pdjk0QV92NzZFNmdDM0VyQkJtd2dzQXQwa3ZsT1R5am1fN3Ixclo3cDJHSHNvTjVaZ1VJUXVZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-09T03:43:18+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -2618,8 +2648,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Haldensleben - Barmer",
-      "summary_de": "BARMER Krankenkasse in Haldensleben &nbsp;&nbsp; Barmer",
+      "title": "BARMER Krankenkasse in Haldensleben - BARMER",
+      "summary_de": "BARMER Krankenkasse in Haldensleben &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMEpYclQxNFdvVkxxS0xXSUxzdVotR0FKellhM2R4LUlpUU5CZ05fdDBtZ25WUWlHOWlvU1hyYWhIQ1pSSllZeVcyeTZ4WmNzb2pQdzNOOEpHYy1IQ05namZ4S0ViSVNXWEVqQV9LM1h5Y21jZXFOQ0NhVHJDLWcyX19EWkl0NlJiM3pVcFBjZWlrRUg1Um5mRlRfS3ZmLXRBbHVDUWttcmdzWFc4VmZVZlF5SGlmMUZGdnJySEtiekFWUkE5aUd1ZkVaUEkzdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-04T08:00:00+00:00",
@@ -2689,6 +2719,16 @@
       "tags": [
         "Versorgung"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Spezialist/-in Business Continuity Management - Risikomanagement (m/w/d) - DAK-Gesundheit",
+      "summary_de": "Spezialist/-in Business Continuity Management - Risikomanagement (m/w/d) &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN1ktbDE0TU9waDVmdHNlWUxQdzZUaUVfVVVuMzFLRnF1bHJlT0s3TnBWSm42b09JUGItN2txVDFQTC16ckhGVGJDMGQtT3lpS0s5R0U4d29EVTloZUVhSEdCLXVXWlBfTUp6ZHY1SWtZdUVkd0tnei1SVGF3cHlWeFVWa3VBUU1nU2lmVU03T1NJWDRpWjNyUzZPNm1taHBoZHpRV1hIQVlxUHdnM2xPMGE5YnpMMm9SOThJY2FWdTZ2Um8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-01-28T01:17:31+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
