@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-03-07T06:30:44.179230+00:00",
+  "generated_at": "2026-03-07T09:22:05.531694+00:00",
   "window_days": 42,
-  "count": 257,
+  "count": 267,
   "items": [
+    {
+      "title": "PZ Briefing: Die Top-News der Woche",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten der Woche aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-der-woche-163384/",
+      "published_at": "2026-03-07T08:00:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Geflügelkrankheit - Weitere Fälle von Newcastle-Krankheit festgestellt - Gesundheit - SZ.de",
       "summary_de": "Geflügelkrankheit - Weitere Fälle von Newcastle-Krankheit festgestellt - Gesundheit &nbsp;&nbsp; SZ.de",
@@ -114,22 +124,22 @@
       "type": "News"
     },
     {
-      "title": "Hormonfreie Verhütung: Auf der Suche nach Alternativen zur Pille",
-      "summary_de": "In einem Forschungsprojekt soll daran gearbeitet werden, besonders nebenwirkungsarme Verh&uuml;tungsmittel zu entwickeln, die nicht auf Hormonwirkungen beruhen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/auf-der-suche-nach-alternativen-zur-pille-163406/",
-      "published_at": "2026-03-06T15:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "PZ Briefing: Die Top-News vom 6.3.2026",
       "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-632026-163407/",
       "published_at": "2026-03-06T15:00:00+00:00",
       "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Hormonfreie Verhütung: Auf der Suche nach Alternativen zur Pille",
+      "summary_de": "In einem Forschungsprojekt soll daran gearbeitet werden, besonders nebenwirkungsarme Verh&uuml;tungsmittel zu entwickeln, die nicht auf Hormonwirkungen beruhen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/auf-der-suche-nach-alternativen-zur-pille-163406/",
+      "published_at": "2026-03-06T15:00:00+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -366,16 +376,6 @@
       "type": "News"
     },
     {
-      "title": "Radiologie Klinikum Westmünsterland GmbH Klinik MVZ Stellenangebote - ärztestellen",
-      "summary_de": "Radiologie Klinikum Westmünsterland GmbH Klinik MVZ Stellenangebote &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdXdLbVR0QkRKeERxQ0VKVk1Ed20wMVVvalFYY0tyUlpKSDNKYlBER19LZUFka25YTVE2TUpicHQwQ1F6MlRMSy02ZWpKQmpFUEE2bjlSd0QwN1laaTFYQjlZRWlxYTc1Sm1BdGtyTjF1YmRrVEdDU3prbnRMRTJNMkIzTUIxT0JFQVNlNEZHTHhxN1N0UUVWVVR4ZGFtN1g4TFF6Z2tTclVhNk0wd05FNjEwdDZidDBK?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-06T08:54:16+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Meldung: Qualität der Patientenversorgung bei Krankenhausreform im Blick behalten",
       "summary_de": "Anlässlich der heutigen 2./3. Lesung des Krankenhausreformanpassungsgesetz (KHAG) im Deutschen Bundestag erklärte Stefanie Stoff-Ahnis, stellvertretende Vorstandsvorsitzende des GKV-Spitzenverbandes, im Gespräch mit der “Neuen Osnabrücker Zeitung” (NOZ, Freitagsausgabe): „Der Kompromiss nach langen und schwierigen Verhandlungen hat mehr Licht als Schatten. Eine Verabschiedung wäre daher besser, als wenn die Reform abermals verschoben würde.”",
       "source_name": "GKV-SV Presseinformationen",
@@ -406,6 +406,26 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "ECR: LLMs help patients understand breast imaging reports",
+      "summary_de": "Hemal Grover, MD, shared results from two studies of how LLMs can improve report readability for patients.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15818937/ecr-llms-help-patients-understand-breast-imaging-reports",
+      "published_at": "2026-03-06T08:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "ECR: Cardiac imaging is at the 'heart' of precision medicine",
+      "summary_de": "The heart beats 2.5 billion times in a person's lifetime and \"never has a day off,\" presenter Michelle Williams, PhD, noted.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/subspecialties/cardiovascular-radiology/cardiac-imaging/article/15819028/ecr-cardiac-imaging-is-at-the-heart-of-precision-medicine",
+      "published_at": "2026-03-06T07:02:51+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "US-Studie: GLP-1-Rezeptoragonisten senken Risiko für Suchterkrankungen",
@@ -465,18 +485,6 @@
       "published_at": "2026-03-05T23:30:34+00:00",
       "category": "Versorgung",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gestiegene Kosten für Pflege und Schutz: Kölner Dom nimmt Eintritt - tagesschau.de",
-      "summary_de": "Gestiegene Kosten für Pflege und Schutz: Kölner Dom nimmt Eintritt &nbsp;&nbsp; tagesschau.de",
-      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzbDJodWZEZzFEcDRadFBEODRJVkJtcG5PR0ZDQldZYmVJTHRoRjdsU1VTMy1YVzQ3ZjV3UWZ2c3FVaUVSdkEwenRQcmszNXlVSXFfU3N0dFRDY0haVTgzdWlsY2VLT2FlNWhyX1JTQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-05T19:49:02+00:00",
-      "category": "Versorgung",
-      "tags": [
-        "Wirtschaft"
-      ],
       "type": "News"
     },
     {
@@ -600,22 +608,22 @@
       "type": "News"
     },
     {
-      "title": "PZ Briefing: Die Top-News vom 5.3.2026",
-      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-532026-163332/",
-      "published_at": "2026-03-05T15:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Nach 30 Jahren: Newcastle-Krankheit breitet sich wieder aus",
       "summary_de": "Nach 30 krankheitsfreien Jahren breitet sich die Newcastle-Krankheit wieder unter Gefl&uuml;gel in Deutschland aus. Beh&ouml;rden sehen eine erhebliche Gefahr f&uuml;r Gefl&uuml;gelbest&auml;nde und Zoos. Auch Menschen k&ouml;nnen sich infizieren.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/newcastle-krankheit-breitet-sich-wieder-aus-163322/",
       "published_at": "2026-03-05T15:00:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "PZ Briefing: Die Top-News vom 5.3.2026",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-532026-163332/",
+      "published_at": "2026-03-05T15:00:00+00:00",
+      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -636,16 +644,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/wie-gefaehrlich-ist-herpes-fuer-babys-163132/",
       "published_at": "2026-03-05T14:30:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Trotzdem keine Entwarnung : Krankenkassen beenden 2025 mit Milliardenplus",
-      "summary_de": "Die Gesetzliche Krankenversicherung (GKV) hat im vergangenen Jahr ein Plus von 3,5 Milliarden Euro erzielt. Doch der GKV-Spitzenverband sieht angesichts der Ausgabendynamik keinen Grund zur Entwarnung. Die Bundesregierung arbeitet an tiefgreifenden Reformen.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/krankenkassen-beenden-2025-mit-milliardenplus-163328/",
-      "published_at": "2026-03-05T14:15:00+00:00",
-      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -760,12 +758,12 @@
       "type": "News"
     },
     {
-      "title": "Acht Betriebe in Deutschland betroffen: Newcastle-Krankheit breitet sich auf Geflügelhöfen aus - Spiegel",
-      "summary_de": "Acht Betriebe in Deutschland betroffen: Newcastle-Krankheit breitet sich auf Geflügelhöfen aus &nbsp;&nbsp; Spiegel",
-      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZDBPeUJoWVUta0RycGZMY0RXU0JHLVRPYWlqOWdWYUJUSzZVZUNGS3FIbDN4QXM3c2FNTU5idmp5QnVscTd3RjlDMVdmY2RSWnJVbVkyRlRmeHM3OGROQkNGR1EtYms1NWR6dVlILTFVZ0QxOURfVGhYdTA0eU9oZi10ZUwyV1pydnVlRklGRjVLWUVEU1VKWVFTVDMwLXV1TTRMbDJVdE9OZHNaMHI1cFdPRjlIZHN1YzNzYVp1bGRPbWg5U2Y5Rmk4ekJzalY4RVJMcXhBR1poTVB2d1pqN3Z5Z2ZlMzF3QzhFYlN5OEdEVjFGVVVDMElpVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-05T10:01:00+00:00",
-      "category": "News",
+      "title": "Ltd. Oberarzt (m/w/d) Klinik für Diagnostische und Interventionelle Radiologie und MR-Tomographie - ärztestellen",
+      "summary_de": "Ltd. Oberarzt (m/w/d) Klinik für Diagnostische und Interventionelle Radiologie und MR-Tomographie &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ2xNazYtTHJLUS16MkR3VTEtS2Y3ZF9wTGNEWTJaX1gzMi15UDVRd21qa2NDY3BCSHE4VkFvbXE5TjJfeXN6MW9JNkJURFlTcmxiTXdra0RTNkUzQTZUNlpjdFRNWHlyeDIzbmk4WERYNDMxcjYzOTA3NjE2TUlRWjhwVEZmUGt6aXl2TEpKdjFMSGQzbU5UYjFzZnR5RUlhOUlEWEhIbmQ4NGhPcVIxVVozTVZNb3RCaUFJWG5ocURDOGhRX0dVNWlR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-05T10:00:07+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -800,6 +798,16 @@
       "type": "News"
     },
     {
+      "title": "Krankenhaus Eisenstadt: Photon-Counting-CT sorgt für präzise Diagnosen - MeinBezirk.at",
+      "summary_de": "Krankenhaus Eisenstadt: Photon-Counting-CT sorgt für präzise Diagnosen &nbsp;&nbsp; MeinBezirk.at",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY29ONzU4UVJyVFhZdHo5SUZwOS1XU1BCOUhoa2VyY21Fd21tRGNQMWZ4V1ZxVFpEWUFQbzR5VE1EM05DanZidVNPUXB0YWt2dnlhQXRIUlJDVWozNDQ1QXJva3E0ZlhPbGpBbVpGN1k4M0lKVUMxUGhXMVVjejN1cmR1Q3N2WkoybG9Tdmc1R1dZdlFza2F2ZGFNSnhBakxfcEItOGZyenBIT2s?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-05T09:42:15+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Appointments in General Practice, January 2026 [Delayed due to Technical Issues from 26/02/26]",
       "summary_de": "The aim of the publication is to inform users about activity and usage of GP appointments historically and how primary care is impacted by seasonal pressures, such as winter. NHS England publishes this information to support winter preparedness and provide information about some activity within primary care. The publication covers historic appointments, marked as attended or did not attend, from …",
       "source_name": "Publication Feed",
@@ -829,6 +837,46 @@
       "tags": [
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "DL segmentation of chest muscle volume shows promise for COPD patients",
+      "summary_de": "Deep learning (DL)-based muscle volume assessment from routine CT scans could help identify COPD patients with comorbid sarcopenia...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15818917/dl-segmentation-of-chest-muscle-volume-shows-promise-for-copd-patients",
+      "published_at": "2026-03-05T08:56:21+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "ECR: 'Black swan events' demand informed imaging infrastructure",
+      "summary_de": "Experts discuss how to plan for \"black swan events\" -- that is, battlefield and mass casualty incidents.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15818839/ecr-black-swan-events-demand-informed-imaging-infrastructure",
+      "published_at": "2026-03-05T08:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "ECR: Integrating actionable reporting into the imaging workflow",
+      "summary_de": "Radiologists can promote actionable reporting by avoiding common pitfalls and communicating with referrers.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/practice-management/article/15818831/ecr-integrating-actionable-reporting-into-the-imaging-workflow",
+      "published_at": "2026-03-05T08:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "HPI: Workforce attrition higher in radiology subspecialties",
+      "summary_de": "Subspecialties are an area of particular concern within the trend of increased radiology workforce attrition.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/practice-management/careers/article/15818815/hpi-workforce-attrition-higher-in-radiology-subspecialties",
+      "published_at": "2026-03-05T07:53:59+00:00",
+      "category": "Radiologie",
+      "tags": [],
       "type": "News"
     },
     {
@@ -870,6 +918,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "ECR: Lessons from ACR's improvement initiative on prostate MRI quality",
+      "summary_de": "Prostate MRI is an essential tool for prostate cancer workup and management, but its image quality can be highly variable.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15818783/ecr-lessons-from-acrs-improvement-initiative-on-prostate-mri-quality",
+      "published_at": "2026-03-04T18:36:20+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "WHO: Chile hat als zweites Land überhaupt die Krankheit Lepra besiegt - DIE ZEIT",
@@ -935,16 +993,6 @@
       "title": "Kunst und Gesundheit: Schauen Sie sich das mal an! Könnte Ihnen guttun - DIE ZEIT",
       "summary_de": "Kunst und Gesundheit: Schauen Sie sich das mal an! Könnte Ihnen guttun &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZWVYNGJjYmcxLTRJR19BQTh1Qk1pLV9iVkVSTUJfYS1pU0l3M1pFNnAxWXBkTXBVcmZFRW5IVzcyUFA2UE9TMFpRR19zYnBRdW9nOGoxNHA0UW0wajdRaHdWdGJycS1qZUs1RG9xVFRWTjdqQXpVTjV5UXJaNkVkYjl4VS1ZM01hSzdrcmZQSTJsdUZpRDgxLXZLNGxFQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-04T15:54:01+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Kunst und Gesundheit: Schauen Sie sich das mal an! Könnte Ihnen guttun - DIE ZEIT",
-      "summary_de": "Kunst und Gesundheit: Schauen Sie sich das mal an! Könnte Ihnen guttun &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNblpLRGpOS2VQSGRXTkxBVjE4M1dNY1RzSUhsenVHeV9CVzh0NzRmaFNxX2RpWmFHeEFEX2lTUUI2WElPUWJYUDJDclAzek9IR3RZT0hvc2xBMko5Q2tYaHVnX0MtS2JYVUcxMlVPcXp1UFdDOUFsNWpmSi1zbVlXdUJGSlpVMzdWQ1AzVlJXN29VUTQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-04T15:54:01+00:00",
       "category": "News",
@@ -958,6 +1006,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVjd5U09jZDFwT252b1JHR3llNTJ0LURZM0luSlR6Uy01S0N6aFdTT2ZsQ3ljVGZfTXZyTjctU05SZjhlQUNwTjcyY2tOM0xHcWZ6TE9XemxXb3d1TzNkM2dOeXlQeTM1YUdPMXgycmNFY05HWWQ0RlhFT09qTkVra0pic0d3RXJfTVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-04T15:31:57+00:00",
       "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Tierseuche - Zoo Stralsund schließt wegen Vogelgrippe - Gesundheit - SZ.de",
+      "summary_de": "Tierseuche - Zoo Stralsund schließt wegen Vogelgrippe - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSDE3d2NBd1g0YVVzVV9TQUtZUHA1VUZHeGROUlpzaFhNSU9BWEZ0YzZfdUVuRlVBcXd2b0E4YVBaXy1CNWZkdVdtcEdoR19LZG1HSjlPdU8xZ185cVZiVEpPWm5pTkVTd3UzRlh6UjM4N3dlTDhLV0VrX1hhczU3b3UtUTA5bS1KQnBXOTZWVS0zLU93VzZlM0NKN0EzVkVaRjBUMk1vTF9kT3A1NnZoQmRXeHlkWk0zNEVsVU9NR2ZWenh0aThXaHd6bHJwR1JBOXpNSTRIcGY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-04T15:25:42+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -977,16 +1035,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRkRUY1RYSGMxYmFDNEVnYnBTTDRKMXRPQXB0cThQVHJQWU9HWkwwVDdFTlg4ZUFHMU9Pb2o2d0cyT2dLMVUzUTctX3gtR2ZkOHRsWmM0YnkxSERyVzNoWEdnYmNENEFkU3dmUEtySGNTODJmUzVtUDdNZnBaU2phMnFrbGhROXVneUZ5bVdUSThYQkZSX0dpRlVWN25BX2dvcm1wOUJYRGhFdU9Rb3UzbHFSSGh6cjZfajl0VHlleWYwYXoyc1drSGVyMlVhejh1ZlpYTURWOWlVMEUxN2FhdWVYeEd2OVB6NzJtUDRyMXBWMmNaemkyYTg4YVhtd1pN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-04T14:27:28+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Tierseuche - Zoo Stralsund schließt wegen Vogelgrippe - Gesundheit - SZ.de",
-      "summary_de": "Tierseuche - Zoo Stralsund schließt wegen Vogelgrippe - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSDE3d2NBd1g0YVVzVV9TQUtZUHA1VUZHeGROUlpzaFhNSU9BWEZ0YzZfdUVuRlVBcXd2b0E4YVBaXy1CNWZkdVdtcEdoR19LZG1HSjlPdU8xZ185cVZiVEpPWm5pTkVTd3UzRlh6UjM4N3dlTDhLV0VrX1hhczU3b3UtUTA5bS1KQnBXOTZWVS0zLU93VzZlM0NKN0EzVkVaRjBUMk1vTF9kT3A1NnZoQmRXeHlkWk0zNEVsVU9NR2ZWenh0aThXaHd6bHJwR1JBOXpNSTRIcGY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-04T14:23:24+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1064,12 +1112,42 @@
       "type": "News"
     },
     {
+      "title": "AI model shows promise for reading CT scans like a radiologist would",
+      "summary_de": "null",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15818808/ai-model-shows-promise-for-reading-ct-scans-like-a-radiologist-would",
+      "published_at": "2026-03-04T09:11:13+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "TK-Chef Baas zum KHAG: ”Mas­sive Ausnahmen schwä­chen Reform - der Ball liegt nun bei den Ländern” - Techniker Krankenkasse",
       "summary_de": "TK-Chef Baas zum KHAG: ”Mas­sive Ausnahmen schwä­chen Reform - der Ball liegt nun bei den Ländern” &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN0w0VDhQYnU2OTdCSGVsSVR0N1pjaVVoVHp5N0txSzlFUGFtLVV3eUhmM3dWVE05V0ViODl5ZU50X3YyNzlsLVdGakdtV2JtVGdlUUUtdEFFNzNTZGhGUHcyVzVoOVlVQ1RERGhwTHJlZ25mSElXbmNXWndKTG1nbF9tb1p4cFhiaXNVZ3pmZHRhb2tCZFhvcC1NbFFFRm5jbnM4UVJKVVY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-04T08:00:00+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Local or regional clinical AI test beds may emerge in U.S.",
+      "summary_de": "null",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15818664/local-or-regional-clinical-ai-test-beds-may-emerge-in-us",
+      "published_at": "2026-03-04T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "ECR: Radiologists discuss evidence for, societal impact of radiology AI",
+      "summary_de": "null",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15818809/ecr-radiologists-discuss-evidence-for-societal-impact-of-radiology-ai",
+      "published_at": "2026-03-04T07:52:58+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1112,6 +1190,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Personal | Kliniken für Innere Medizin | St. Josef-Hospital Bochum in 44791 Bochum - HEK",
+      "summary_de": "Personal | Kliniken für Innere Medizin | St. Josef-Hospital Bochum in 44791 Bochum &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObFg0SUlaUXE5dHd3d1JWTFRLNUNZTDR6Vk11d3Q5VE1ZdkVBclhBU0pGSUpnZEc0ZElYZ1RCYklXMWgtMy1VWS1mZ3dyVzF6OEU4cG5xcG9uLVV6YXZLV2kyU05PMnBQSWF3NkJPQ3Qwd05LVG5DNFZfcU9zMmMwQ0Nxc0pPSUZsbmdWbk83TmtRTFNxd0k4a1FzOHg3MTFKQ1RtRHBYZVVFMzFITlRyS3ZSNWlqQ3Jna0pWRlNYRnlKMHFpSGhtRDZTYXBISU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-03T19:21:36+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Man jailed for ten years for convictions including selling prescription-only medicines worth more than £3.7million",
@@ -1237,6 +1325,16 @@
       "type": "News"
     },
     {
+      "title": "Gesundheit - Neun von zehn KKH-Versicherten gehen jährlich zum Arzt - Gesundheit - SZ.de",
+      "summary_de": "Gesundheit - Neun von zehn KKH-Versicherten gehen jährlich zum Arzt - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOd096SHNESHl3VlU2Nlo2aDNFTVo4aWhFSDdrYXpmRTVHSF9rMmloNHd2aElMN250djI3UUNkaTNWbmc5alhfMGRkWHhKWnl1b045RndqQmg3TnNKOGVyeW5hdnMyY1lHQVVndFFCMFVXOTVHZlFKZjRnZ0FTaUdXRmxhUGd4NVRuNGdWV1l1enJUVFpndU9QV0lQVzFZenV1enoxY0t3dHRvTE9JdDZEY0dRcExQcWh5cWE2aGFPN0RsWkxNUGpPSEJYM0ZQaF9XX3JYVG5aSjFVRlpZdjEyaURNcHNXRFJSWVRN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-03T03:30:06+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Suchthilfe - Hilfe für Crack-Süchtige - Land fördert Studie mit viel Geld - Gesundheit - SZ.de",
       "summary_de": "Suchthilfe - Hilfe für Crack-Süchtige - Land fördert Studie mit viel Geld - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1245,6 +1343,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Vorsorge - Barmer-Report: Rückgang bei Grippeimpfungen ab 60 Jahren - Gesundheit - SZ.de",
+      "summary_de": "Vorsorge - Barmer-Report: Rückgang bei Grippeimpfungen ab 60 Jahren - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTG9LMldUWlpLM2NUN2t3MkNrNlBjM2FDdXh3N2JzMHVvaHpJTHBLTUlhRVFONG5vWUoycy13NVoyX1Roc2ZuRTFxR3NQSEtzaF8wMVhoaUZ4dDItX2FBQ0o2dzFrUERWYWppS1FQdHM3dVFiMm5vUkpKeDYwd1JLVHFjbVhleXYzMFlxMnFGMTNJVVhXTi1DMmNaREowQThfTTJGLTVpcnhnZlpYSGxvY0l2R29SOHhIQzI2Y1A5ZmZIeHJjbGJ3cVVCenZIT0hrWHlfdmI3ZE50Snp0ZFRUSGVaS01kcnhSU0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-03T03:00:08+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Magnesium sulphate for treating acute bronchiolitis in children under two years of age",
@@ -1442,16 +1550,6 @@
       "type": "News"
     },
     {
-      "title": "Debatte über Abgabe - SPD-Politikerin: Zuckersteuer für besseren Gesundheitsschutz - Gesundheit - SZ.de",
-      "summary_de": "Debatte über Abgabe - SPD-Politikerin: Zuckersteuer für besseren Gesundheitsschutz - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcEpLMFNHc29TaE1xM0p6VnBNS2xHVk9aQUVWRmRGdzg5bkc1Wk9HZjZHN2xXSnlOQmdnVGFGRUxsUktrWUdyblNXeFlZSWhDeFhZd1pZMUJrS053eVlnM3FtZ243X0RyVVJLckJjUThQdUpZZzVwLV8wVlVUdVM0T2FidzczYndXMkwzNy14a0N0ZjNxTG4zS3pYelVnYUthMnlWc1VEZVJ6dDN5TTVOaGt4THNFVE9KTWVvYVU3VEQ2VUhtdFFidndOd2YzYnBtaWlxWVBYSWtGNzZ4bFNXamJqamtxNmRVckJ0Xy1tLWo0WnNkLTZ6ckk2ZWNyQlU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-28T15:33:07+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Weiterentwicklung des Stellungnahmeverfahren in der datengestützten QS: IQTIG mit Pilotprojekt beauftragt",
       "summary_de": "Berlin, 2. März 2026 – Das Stellungnahmeverfahren in der datengestützten Qualitätssicherung (QS) soll weiterentwickelt werden. Jetzt hat das IQTIG vom Gemeinsamen Bundesausschuss (G-BA) den Auftrag erhalten, sein im Januar 2026 vom G-BA beschlossenes Weiterentwicklungskonzept in einem Pilotprojekt zu testen. Dafür ausgewählt wurden die zwei Qualitätssicherungsverfahren Mammachirurgie und Dekubitusprophylaxe. Bis zum 31. Januar 2027 soll das IQTIG seinen Abschlussbericht über die …",
       "source_name": "Pressemitteilungen | IQTIG",
@@ -1464,22 +1562,22 @@
       "type": "News"
     },
     {
-      "title": "Krankenhaus in Mettmann: EVK probt den Ernstfall - RP Online",
-      "summary_de": "Krankenhaus in Mettmann: EVK probt den Ernstfall &nbsp;&nbsp; RP Online",
-      "source_name": "\"site:rp-online.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZFNHd2h0c2R4SFdjZlljTXRkVDdWSEtSM3pQWlYwZmxBS2hEY3lOc1BtLUhDQU56Y3NiWW43VFNxVHlrVkUzNTEtbDJhZG5DamZPWkxEdm1qa20wY29wd0RBN3ppOVdJZldlUVBHUWNHODlEYlJkWkl5MkcwT0NKWWQyNXJXcWhnZnVoWW8xQzVSSVRwTDZjdjdqdGhpS2hOaU5majZuU0ZhZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-28T08:10:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "ADHD Management Information - February 2026",
       "summary_de": "Attention deficit hyperactivity disorder (ADHD) is defined by the World Health Organization as being characterised by a persistent pattern of inattention and/or hyperactivity-impulsivity that has a direct negative impact on academic, occupational, or social functioning, the level of which is outside the limits of normal variation expected for age and level of intellectual functioning. Historically there has been no specific …",
       "source_name": "Publication Feed",
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-adhd/february-2026",
       "published_at": "2026-02-27T14:06:17+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Klinik für Pathologie Sana Kliniken Düsseldorf GmbH, Krankenhaus Gerresheim Gräulinger-Str. 120, 40625 Düsseldorf - TK-Klinikführer",
+      "summary_de": "Klinik für Pathologie Sana Kliniken Düsseldorf GmbH, Krankenhaus Gerresheim Gräulinger-Str. 120, 40625 Düsseldorf &nbsp;&nbsp; TK-Klinikführer",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZDIzeksxdVRzR04xNUcyX0d5QlowUWxpQ2U5TGNHczBKR001eTNQWlNxUHVEREpfOEJ4WDhJbXcyN295WG11ZGhkOTJsZV9MYTdnRFVvYmlWSTQ1NmlEMndLVkZ4eUMyUGFjcUwxYkpUX2FBclFLOWNabE5VUko2d3ZESktsSWFpdUV0T3dUd3dycWprRFpqNmctN0dvZDduTXZRT1B6bXZBUjItaHBuNGNVSDJBM1dlTlpva21HVTQxSjBvMXg3VjFJeHdiVm5ZNmRPMUV2Qm1WcGlxbmZ6RC1UZmpnY3gya2VKbVlHVnMxWk9PVHJVbndiV0hySk9ILVM3OExKU0IxZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-27T13:42:49+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1825,12 +1923,32 @@
       "type": "News"
     },
     {
+      "title": "Programmverantwortlicher Arzt (m/w/d) Mammographie-Screening - ärztestellen",
+      "summary_de": "Programmverantwortlicher Arzt (m/w/d) Mammographie-Screening &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb0dhVTJYY1oya25hVHZlYnFXaWloYnVyMThfWlhfQVBRMjF1TWVBSEo4aGoyRmdRQVZ4TElkOUtmQzV6Unkyc1dLT212Um5mMHJrTFZaNXRDSUJXLUYtaDRBTU40RUlxRWgzMGY5VmplbTlxclh0cVA1VVVBOE13c1J2cGo4VUprRDVITTFqeUc1NmNxb3JfWWN0Y29Sc3dpQ2pBNnlwQVJ4ZDk0Tnd3Nll4b0FzMndT?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-21T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Recruitment procedure opens for next Executive Director of the European Medicines Agency",
       "summary_de": "The vacancy notice for the next EMA Executive Director has been published in the Official Journal of the European Union, marking the beginning of the recruitment process for the…",
       "source_name": "News and press releases",
       "source_url": "https://www.ema.europa.eu/en/news/recruitment-procedure-opens-next-executive-director-european-medicines-agency",
       "published_at": "2026-02-20T13:22:00+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Krankenkasse für ein gesünderes Leben | BARMER - Barmer",
+      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-20T08:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2363,16 +2481,6 @@
       "type": "News"
     },
     {
-      "title": "Länderübersicht Griechenland | Die Techniker - Firmenkunden - Techniker Krankenkasse",
-      "summary_de": "Länderübersicht Griechenland | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOTZjcWNPdmNmbVdzMnBhRF9hNWFLTkw3QzRTcHhGRHZBYzk4NEdWOEFCbkdVWWxDTFJlQ3BUT29iYTJGaW5GbGVwaVg4VENCVHhIOWpYbHoyQVlSSnN6aG1mbFNNODdEWWNPdVVUbGtkX2VNcFJoTEVMSkZVZlFpV2k5TURkdXBxa3Y1M2tCU2djZF9IV2pXaDI4YTR1UVYwbDIyZGxyLU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-12T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Provisional Accident and Emergency Quality Indicators for England, December 2025, by provider",
       "summary_de": "Provisional Accident and Emergency Quality Indicators for England, December 2025, by providerThe measures included in this publication report on data coverage in ECDS compared with the emergency monthly situation reports MSitAE published by NHS England and NHS Improvement. They also report statistics for total time in A&amp;E, time to assessment, time to treatment, A&amp;E attendances that left before treatment and …",
       "source_name": "Publication Feed",
@@ -2460,11 +2568,11 @@
       "type": "News"
     },
     {
-      "title": "Klinik für Allgemein- und Visceralchirurgie | in 27474 Cuxhaven - HEK",
-      "summary_de": "Klinik für Allgemein- und Visceralchirurgie | in 27474 Cuxhaven &nbsp;&nbsp; HEK",
+      "title": "Klinik für Urologie und Kinderurologie - HEK",
+      "summary_de": "Klinik für Urologie und Kinderurologie &nbsp;&nbsp; HEK",
       "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTTJ0X1FMYmJCV2RsaTNXTm9jZ2oyNVVWUnNpa011MmdvZEJJY2kzdWM3aEwzeUllNDF3aU4yOHJTWTQzbUtLMHBwLXh3cGhRNDZ5aWV5R3I2YTBWNlh1Sm91NXAwSlJBTEVQU2JrWmoxb2NIOHJZV2p5d2ZLMUEtZGh1Wk5MUTE2aldETnJXem9vM1gweUFSeE9oOWZoUUkwTzFvOGVLOU5TOXhqM1djM21adERtczJhUmstRHFtWTAyMjVZTlEzX1c3NnE2U180c1ZmSmNDUV80Ymxz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-07T19:35:27+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOX3pHeEhBMGxvWFlVbEUxS2dSM0Uzak5QVk1Lek1qOGpCS1pCdEJNMFZFQ1pXbjBoa2c4ek4tRnRTQ2I1QzlQTEFPODR2dG5aV29RQ2g5TEluNHR0bEdfOHMzbFBqVThkUEFSX1BpeTRNU2c5blFXSU1qYVlGeUhOeHpNQU13bFdPV3NfOS16cFlOd1g1M09fdkhHYU4xVzhuejJ5Ynk1TF9CQXl5X2VzalFrNnJpWTRDU3RXWHVjQkhPYjdEX0hEX1c0aFpCZk03VUY1MzN4aHRWZ1Y4MFgtcF9SVnJPcFpJV0l1WjZzM1hsazFzM01R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-07T10:21:42+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -2581,16 +2689,6 @@
       "tags": [
         "Versorgung"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Spezialist/-in Business Continuity Management - Risikomanagement (m/w/d) - DAK-Gesundheit",
-      "summary_de": "Spezialist/-in Business Continuity Management - Risikomanagement (m/w/d) &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN1ktbDE0TU9waDVmdHNlWUxQdzZUaUVfVVVuMzFLRnF1bHJlT0s3TnBWSm42b09JUGItN2txVDFQTC16ckhGVGJDMGQtT3lpS0s5R0U4d29EVTloZUVhSEdCLXVXWlBfTUp6ZHY1SWtZdUVkd0tnei1SVGF3cHlWeFVWa3VBUU1nU2lmVU03T1NJWDRpWjNyUzZPNm1taHBoZHpRV1hIQVlxUHdnM2xPMGE5YnpMMm9SOThJY2FWdTZ2Um8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-28T01:17:31+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
