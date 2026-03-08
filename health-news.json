@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-03-08T09:22:38.476734+00:00",
+  "generated_at": "2026-03-08T12:33:33.556787+00:00",
   "window_days": 42,
-  "count": 269,
+  "count": 260,
   "items": [
+    {
+      "title": "Gesellschaft - Linke will Treffpunkte für Pflege, Kultur und Beratung - Wirtschaft - SZ.de",
+      "summary_de": "Gesellschaft - Linke will Treffpunkte für Pflege, Kultur und Beratung - Wirtschaft &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMnMxWlVSZEd0ZUl1TS1TTEFnYjBkdXh3bzdZUEdaa3J6Y2I0azFHOGNmOFdUOUVGdnNVRnVmYjUxWUlTUDRGYTl0VzcwSGowY3ZDcWliRmZSM295cm5ob1ZqVFVLUjAydnpReURVUEs4d0h3cWlpY0xsT1FBUTBSdGdkVjBWMktDYTlPbjF5cGZBNFBNanRIbkJob2JsV0pKaWlFbXRMUFJVeGU1N1VwbmNRb0dwQ3V0MndWRUIzdUtlRGxFZ3dmZ0JuTWs0V1ZEd0RsLTNwV3dYVUtPOFNjTnpVWEdITWtKWl9ZSw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-08T09:55:12+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Mehr Frauen im Saarland werden wegen Endometriose im Krankenhaus behandelt - tagesschau.de",
       "summary_de": "Mehr Frauen im Saarland werden wegen Endometriose im Krankenhaus behandelt &nbsp;&nbsp; tagesschau.de",
@@ -42,16 +52,6 @@
       "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
-    },
-    {
-      "title": "Week in Review: ECR doesn't disappoint | Global breast cancer cases surge | ABR board certification changes",
-      "summary_de": "null",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/editors-note/article/15818998/week-in-review-ecr-doesnt-disappoint-global-breast-cancer-cases-surge-abr-board-certification-changes",
-      "published_at": "2026-03-07T08:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
     },
     {
       "title": "Zwischen Medizin und Esoterik: Was bringt Vagusnerv-Stimulation? - SZ.de",
@@ -458,26 +458,6 @@
       "type": "Studie"
     },
     {
-      "title": "ECR: LLMs help patients understand breast imaging reports",
-      "summary_de": "Hemal Grover, MD, shared results from two studies of how LLMs can improve report readability for patients.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15818937/ecr-llms-help-patients-understand-breast-imaging-reports",
-      "published_at": "2026-03-06T08:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "ECR: Cardiac imaging is at the 'heart' of precision medicine",
-      "summary_de": "The heart beats 2.5 billion times in a person's lifetime and \"never has a day off,\" presenter Michelle Williams, PhD, noted.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/subspecialties/cardiovascular-radiology/cardiac-imaging/article/15819028/ecr-cardiac-imaging-is-at-the-heart-of-precision-medicine",
-      "published_at": "2026-03-06T07:02:51+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "US-Studie: GLP-1-Rezeptoragonisten senken Risiko für Suchterkrankungen",
       "summary_de": "GLP-1-Rezeptoragonisten, die gegen Typ-2-Diabetes und Adipositas eingesetzt werden, k&ouml;nnten auch das Risiko f&uuml;r Suchterkrankungen verringern. Darauf deutet eine gro&szlig;e US-Studie hin, die vor Kurzem im &raquo;British Medical Journal&laquo; ver&ouml;ffentlicht wurde.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -544,16 +524,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/otc-switches-machen-therapie-leitliniengerechter-163293/",
       "published_at": "2026-03-05T17:00:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Klinik für Allgemein-, Viszeral- und endokrine Chirurgie - Dr. med. Uwe Markert - HEK",
-      "summary_de": "Klinik für Allgemein-, Viszeral- und endokrine Chirurgie - Dr. med. Uwe Markert &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQRkV3VHJUUWhMR2kyQWlzXzQ1M2x3Q3dBSGFPZmlZa1JRMlpXSU1IUEd3dl9aWGd2RldnOTNyMmlXX0o1ZGxZbjR0Y3JoT1puMjVrYUV1WUt3am5DX1NPVnEtV1VuV3RxUnZhU0FuaFFKcl8tM2xOZTctQmhrcHNQQ01pMzFHYnE1T1RQYUJoS04tT1dHc0dqcXhrbnFZeGdWbTFtVTQ1dS1DQnBXUFpROG5vZGVqMHRFWGdrS05vcEhGLVpRZVRUdE9SZEhvYjg0cklJSUl1M0FvWk9Tek54UktWQ1N1X0lmT2FBNXVjdzMxQ1dvTVhjeGhTQk5GU2dZa0QxWXAtXzU1emdPeVM0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-05T16:53:26+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -900,46 +870,6 @@
       "type": "News"
     },
     {
-      "title": "DL segmentation of chest muscle volume shows promise for COPD patients",
-      "summary_de": "Deep learning (DL)-based muscle volume assessment from routine CT scans could help identify COPD patients with comorbid sarcopenia...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15818917/dl-segmentation-of-chest-muscle-volume-shows-promise-for-copd-patients",
-      "published_at": "2026-03-05T08:56:21+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "ECR: 'Black swan events' demand informed imaging infrastructure",
-      "summary_de": "Experts discuss how to plan for \"black swan events\" -- that is, battlefield and mass casualty incidents.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15818839/ecr-black-swan-events-demand-informed-imaging-infrastructure",
-      "published_at": "2026-03-05T08:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "ECR: Integrating actionable reporting into the imaging workflow",
-      "summary_de": "Radiologists can promote actionable reporting by avoiding common pitfalls and communicating with referrers.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/practice-management/article/15818831/ecr-integrating-actionable-reporting-into-the-imaging-workflow",
-      "published_at": "2026-03-05T08:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "HPI: Workforce attrition higher in radiology subspecialties",
-      "summary_de": "Subspecialties are an area of particular concern within the trend of increased radiology workforce attrition.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/practice-management/careers/article/15818815/hpi-workforce-attrition-higher-in-radiology-subspecialties",
-      "published_at": "2026-03-05T07:53:59+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Formel 1 in Melbourne: Aston Martin vibriert stark, Adrian Newey sorgt sich um Gesundheit der Fahrer - Spiegel",
       "summary_de": "Formel 1 in Melbourne: Aston Martin vibriert stark, Adrian Newey sorgt sich um Gesundheit der Fahrer &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
@@ -995,16 +925,6 @@
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLWhVZDktcmNzNHlzM0hsN1pRYWY1RDZzSXN3cXNxb3hXbmZOZWVLTngzUVF0dFdvSGl3RVBQaTJIaEE2UER4TEtzdTZoVFBfdWdaQ1BITTRiZEpaeVVnNWdxaUV3eHNTMFBsNFhaQjl6RXVvWXRmZFlUMUVtdjZNb013M1VDRkVjQ2t5RnRlRHY0ZDlEdngtMFM0OTF0ZjZsdEpRNWFKbWk3Wnlwd3dGRWNDUFgzeURYQlJIZk44VjA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-04T18:49:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "ECR: Lessons from ACR's improvement initiative on prostate MRI quality",
-      "summary_de": "Prostate MRI is an essential tool for prostate cancer workup and management, but its image quality can be highly variable.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15818783/ecr-lessons-from-acrs-improvement-initiative-on-prostate-mri-quality",
-      "published_at": "2026-03-04T18:36:20+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1192,32 +1112,12 @@
       "type": "News"
     },
     {
-      "title": "AI model shows promise for reading CT scans like a radiologist would",
-      "summary_de": "null",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15818808/ai-model-shows-promise-for-reading-ct-scans-like-a-radiologist-would",
-      "published_at": "2026-03-04T09:11:13+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "TK-Chef Baas zum KHAG: ”Mas­sive Ausnahmen schwä­chen Reform - der Ball liegt nun bei den Ländern” - Techniker Krankenkasse",
       "summary_de": "TK-Chef Baas zum KHAG: ”Mas­sive Ausnahmen schwä­chen Reform - der Ball liegt nun bei den Ländern” &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN0w0VDhQYnU2OTdCSGVsSVR0N1pjaVVoVHp5N0txSzlFUGFtLVV3eUhmM3dWVE05V0ViODl5ZU50X3YyNzlsLVdGakdtV2JtVGdlUUUtdEFFNzNTZGhGUHcyVzVoOVlVQ1RERGhwTHJlZ25mSElXbmNXWndKTG1nbF9tb1p4cFhiaXNVZ3pmZHRhb2tCZFhvcC1NbFFFRm5jbnM4UVJKVVY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-04T08:00:00+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "ECR: Radiologists discuss evidence for, societal impact of radiology AI",
-      "summary_de": "null",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15818809/ecr-radiologists-discuss-evidence-for-societal-impact-of-radiology-ai",
-      "published_at": "2026-03-04T07:52:58+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1302,6 +1202,16 @@
       "type": "News"
     },
     {
+      "title": "Studie - Hamburger Kinder häufiger übergewichtig - Gesundheit - SZ.de",
+      "summary_de": "Studie - Hamburger Kinder häufiger übergewichtig - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcWRrLXRJdWVYRE1CTU1aLWxCYkw5ejJJUWtHVXp6ZmwwSmE4U1RMUkpRWU5GcVZhLWZhOG1wSXBVYVhWT2hSUS1YbU5xa05USGduckZRZ00xREt1THFDMThPMjNzSmtfMEYwblVHeEV6TWNkTkwyQU9lMThXTzJuZ18tdDFzMWczdkVHeEs3Y1F2VmtDT0hTdDVJNFdZVGhLZFZ3Y3BXenVqQXQwSWlTVndhVDlsNkV3amxYNUlBQlZhUWpKMFdfNUN0Qzlfb1IxdUZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-03T13:13:53+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "Übergewicht bei Kindern - Adipositas bei Vorschulkindern wieder auf Vor-Corona-Niveau - Gesundheit - SZ.de",
       "summary_de": "Übergewicht bei Kindern - Adipositas bei Vorschulkindern wieder auf Vor-Corona-Niveau - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1330,6 +1240,16 @@
       "category": "Europa",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Studie zur Gesundheit im Pflegeberuf: So können Pflegekräfte gezielt entlastet werden - Barmer",
+      "summary_de": "Studie zur Gesundheit im Pflegeberuf: So können Pflegekräfte gezielt entlastet werden &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT2pBU0l6UEREcmU1dXRmcnMxQmd6MS1QNm5PWjlmYThBcFEySUJhc1NoLUs4aDE1M05NQllPeG9VNVBnN3Jwem9FXzZmVzJoT3BHd05mMXdrdlhGZDl2WmtuT01ibnVsZkM0QXdtNUk0OEQ0SFpHdklUSzE4OVd3dWcyTTlxOXp2ZUZuN3pJM2o2LXdObTRhb0R0Qnh4LUNMZXpZVg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-03T10:35:16+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "Latest Xylella control options reviewed – have your say!",
@@ -1440,16 +1360,6 @@
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OQ3ZiOVBqbnEyUWs4cW5hZHUwRmw5S2NJOVFTaFFQX05sb1JUWTlsc0FPN2NRYk5Ibk1Wb1RwWWNudmt6QlREaXltb3psX3RBQ1YtbVB4ekRsSzM3blFORTNuUUhlVGM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-02T20:28:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "PACS: das digitale Zentrum der Bildgebung - healthcare-in-europe.com",
-      "summary_de": "PACS: das digitale Zentrum der Bildgebung &nbsp;&nbsp; healthcare-in-europe.com",
-      "source_name": "\"site:healthcare-in-europe.com radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pUDEtdjJCSjhpZDFJV3pud1AzcDIzellBdFMxWTBGRHNyNEhpUzlwNmZhcEJLbWRkM2I1NXNLR0ZxRTBPSTVoc09vbEpHUGZWOE9RUkVMcGRSekZWcy1MajQtOFJLYTZpWDVCdFBQSHFoNnpnM1EzZU9Ga1FIQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-02T17:15:25+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -2195,16 +2105,6 @@
       "type": "Studie"
     },
     {
-      "title": "Innere Medizin Gastroenterologie - HEK",
-      "summary_de": "Innere Medizin Gastroenterologie &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUXd3SHlTWHN0ZGRrSWxVT1pDc294TkZGblMtYVk1MEd3X1pkQ0JIcTdQLXlQUjNfazR4UVRiQ0lCV2twUnpTWWd5R1RxRUV0cWRYTXpvbnI5VDFSNWhuQVAtX3FtMnlUb1Z1MlRCTGRDWVhQTEljb1hhLW5UR2hCQjZJSVM3RFJpN1JMY2ZwVVBOQmR2enF3NWs2bFFKVVlxNGxOeGpMV0xPYUpxLVNpbE1Wb1pjTFFpSkhHU2pxUGZHRVFIR21PdWxOSllCb3R5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-16T04:31:37+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Intermittent fasting for adults with overweight or obesity",
       "summary_de": "Intermittent fasting for adults with overweight or obesity",
       "source_name": "Cochrane Library RSS feed.",
@@ -2307,6 +2207,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Facharzt/-ärztin Nuklearmedizin - ärztestellen",
+      "summary_de": "Facharzt/-ärztin Nuklearmedizin &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNk5YdlhLYktIelB6Y0oxNFJqenIxU3RUbTdxdHpVaGNEYW1iQmYxeG14SzB1ZVo4bmZXSkY5cjJ3WlJfTWtldHE4cFpkbGxMVHJUWkNGNXlWOEFsZktYbnVXLTg2OEIwdWExTlpJQVFRdGUtdmRxSUxvbVZla0pPX1Foc3Y2cEJRckFjQXNES1AxU1h6?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-12T23:00:23+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Episode 37 – No secret sauce: a recipe for transparent science",
@@ -2576,22 +2486,22 @@
       "type": "News"
     },
     {
+      "title": "Medizinische Leistungsangebote | Klinik für Notfall- und Akutmedizin | Carl-von-Basedow-Klinikum Saalekreis, Standort Merseburg in 06217 Merseburg - HEK",
+      "summary_de": "Medizinische Leistungsangebote | Klinik für Notfall- und Akutmedizin | Carl-von-Basedow-Klinikum Saalekreis, Standort Merseburg in 06217 Merseburg &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOYkREWVZuR2V3M0ZSMFBuVE1GN1Nxd2RPamprWUN5VTdjWUJFM2I0X2t2S1dPYmNiWkJUMFJRbFlvMWJSc2pKenNmX2cwV1duaF9HUTFtZWNuRG83bHROTGFwY2J0d2p3LVNCOUVzTnFTTnNIWThFYVVBY0J5VkxVUEVSeHo2b29maWlLc2JQdzFPaW9TWXVGbU95WXRCakpVcERib0FXVGtvaDczQnhubS1QUEhTMmg5eUN0ZS1ybjlzaFFqcXE1dnYwMnFJZWIyN2JRcTZKOUV3V2UwandNWXZsQ0RhcEQyY240cG90S3dJN0xwTVJfR1FNRTEyc0RhM3BjQmFVRjZNaHFmbVVhNDB2OGdaWnd4MkNNRFZqSTF1QkZn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-10T00:32:37+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Provisional safe level for cannabidiol as a novel food",
       "summary_de": "The European Commission considers that CBD qualifies as a novel food provided it meets the conditions of EU legislation on novel foods . Provisional safe level In an updated statement , EFSA’s expert Panel on Nutrition, Novel Foods and Food Allergens (NDA) set a provisional safe intake level for CBD of 0.0275 milligrams per kilogram of body weight per day …",
       "source_name": "EFSA | News",
       "source_url": "https://www.efsa.europa.eu/en/news/provisional-safe-level-cannabidiol-novel-food",
       "published_at": "2026-02-09T09:54:12+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Klinik für Allgemein- und Visceralchirurgie | in 27474 Cuxhaven - HEK",
-      "summary_de": "Klinik für Allgemein- und Visceralchirurgie | in 27474 Cuxhaven &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTTJ0X1FMYmJCV2RsaTNXTm9jZ2oyNVVWUnNpa011MmdvZEJJY2kzdWM3aEwzeUllNDF3aU4yOHJTWTQzbUtLMHBwLXh3cGhRNDZ5aWV5R3I2YTBWNlh1Sm91NXAwSlJBTEVQU2JrWmoxb2NIOHJZV2p5d2ZLMUEtZGh1Wk5MUTE2aldETnJXem9vM1gweUFSeE9oOWZoUUkwTzFvOGVLOU5TOXhqM1djM21adERtczJhUmstRHFtWTAyMjVZTlEzX1c3NnE2U180c1ZmSmNDUV80Ymxz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-07T19:35:27+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
