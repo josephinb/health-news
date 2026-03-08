@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-08T04:28:58.752410+00:00",
+  "generated_at": "2026-03-08T06:34:03.542706+00:00",
   "window_days": 42,
-  "count": 269,
+  "count": 263,
   "items": [
     {
       "title": "Gesundheit: Influenzawelle in Sachsen-Anhalt geht deutlich zurück - DIE ZEIT",
@@ -32,16 +32,6 @@
       "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
-    },
-    {
-      "title": "Week in Review: ECR doesn't disappoint | Global breast cancer cases surge | ABR board certification changes",
-      "summary_de": "null",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/editors-note/article/15818998/week-in-review-ecr-doesnt-disappoint-global-breast-cancer-cases-surge-abr-board-certification-changes",
-      "published_at": "2026-03-07T08:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
     },
     {
       "title": "Zwischen Medizin und Esoterik: Was bringt Vagusnerv-Stimulation? - SZ.de",
@@ -838,16 +828,6 @@
       "type": "News"
     },
     {
-      "title": "Krankenhaus Eisenstadt: Photon-Counting-CT sorgt für präzise Diagnosen - MeinBezirk.at",
-      "summary_de": "Krankenhaus Eisenstadt: Photon-Counting-CT sorgt für präzise Diagnosen &nbsp;&nbsp; MeinBezirk.at",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY29ONzU4UVJyVFhZdHo5SUZwOS1XU1BCOUhoa2VyY21Fd21tRGNQMWZ4V1ZxVFpEWUFQbzR5VE1EM05DanZidVNPUXB0YWt2dnlhQXRIUlJDVWozNDQ1QXJva3E0ZlhPbGpBbVpGN1k4M0lKVUMxUGhXMVVjejN1cmR1Q3N2WkoybG9Tdmc1R1dZdlFza2F2ZGFNSnhBakxfcEItOGZyenBIT2s?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-05T09:42:15+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Appointments in General Practice, January 2026 [Delayed due to Technical Issues from 26/02/26]",
       "summary_de": "The aim of the publication is to inform users about activity and usage of GP appointments historically and how primary care is impacted by seasonal pressures, such as winter. NHS England publishes this information to support winter preparedness and provide information about some activity within primary care. The publication covers historic appointments, marked as attended or did not attend, from …",
       "source_name": "Publication Feed",
@@ -968,6 +948,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Lepra: Chile besiegt Krankheit – als erst zweites Land der Welt - Spiegel",
+      "summary_de": "Lepra: Chile besiegt Krankheit – als erst zweites Land der Welt &nbsp;&nbsp; Spiegel",
+      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLWhVZDktcmNzNHlzM0hsN1pRYWY1RDZzSXN3cXNxb3hXbmZOZWVLTngzUVF0dFdvSGl3RVBQaTJIaEE2UER4TEtzdTZoVFBfdWdaQ1BITTRiZEpaeVVnNWdxaUV3eHNTMFBsNFhaQjl6RXVvWXRmZFlUMUVtdjZNb013M1VDRkVjQ2t5RnRlRHY0ZDlEdngtMFM0OTF0ZjZsdEpRNWFKbWk3Wnlwd3dGRWNDUFgzeURYQlJIZk44VjA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-04T18:49:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "ECR: Lessons from ACR's improvement initiative on prostate MRI quality",
@@ -1172,6 +1162,16 @@
       "type": "News"
     },
     {
+      "title": "Local or regional clinical AI test beds may emerge in U.S.",
+      "summary_de": "null",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15818664/local-or-regional-clinical-ai-test-beds-may-emerge-in-us",
+      "published_at": "2026-03-04T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "ECR: Radiologists discuss evidence for, societal impact of radiology AI",
       "summary_de": "null",
       "source_name": "AuntMinnie",
@@ -1312,6 +1312,16 @@
         "Versorgung",
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit: Ministerin: HPV-Impfung kann vor Krebs schützen - DIE ZEIT",
+      "summary_de": "Gesundheit: Ministerin: HPV-Impfung kann vor Krebs schützen &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc2xmV3VEZmtjZFdveGxHTHZGMjZhS2lualZCTFlKZTM4eVdxVkIzQ082djQ5dENmQ0JTZEU4SHpaQ3hMYXljdVFqckJ1eE5Va0FjOXJpbGFhZWZnVmFPMjdDNld0SWVKb2dEVkMzZGhMZnhYT191U1Z1RUwzM0oyNU5ZbDJjMXNPR0xZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-03T06:25:21+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
@@ -1484,38 +1494,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcnRZLUxhSzRWNlF6cFdnaU1nRTJfZHZUMFZRZENZbTE5RW1uZm9TTE1td29zZGU2WEtnbGhVY2RXREU1YnZ2ZE45UjJhcGpQbEdqRjFxc0laMXJVeHNMMklHZEZTWnRZUzN2SHl5XzFBQ2M0cER0bURnampoZlVRWTlyVzlQdGI1NjY5SA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-01T11:24:17+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "„Hütte brennt“: Pflege-Ausgaben steigen weiter - SZ.de",
-      "summary_de": "„Hütte brennt“: Pflege-Ausgaben steigen weiter &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWG15amNRSVR6Q3pKMWowYmRGOE9lVHlrZHFBSDl3QlNWbmxLRUUtSXowT2E0aUtRUFVld095SDRQdU1LNERKc2EwQklqMTlkTVU0dHdJcXRyTmR4ZVNJeGFtcUFGbVpjOWpEVnBRS0xyMGtSdGt0TkdxTEw0bFY0LU9ScklqRVVNWm5nNnZlX1d5bUd2TkdockVhYmMwZGZHbGJXazNBN3lxaENxRGVSY2Y1dVRqQkVGSUNGeG9Jbi1faU5oMjFxWlB2N3R4SEJDLXNYeUhGMW9LVi1aMGtnUHhRbFhxUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-01T06:00:05+00:00",
-      "category": "Versorgung",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit und Pflege: DAK-Report zur Pflege: Befragte sehen viele Probleme - DIE ZEIT",
-      "summary_de": "Gesundheit und Pflege: DAK-Report zur Pflege: Befragte sehen viele Probleme &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcEtLc29iN0RDSFdndnVsMk9ibGs0U0pFT1N3WGxQVDVsZkZyUTdkYjlVSEFfaGJnemtrLTFpTVdDcmVZZ1VnMlVXb0pzeVozZ1c1a3hGTGhibUttNlREdEVvTTBHWXNCS1c2eG9OQVcwcjAyemhkb3p0TldNZTFZR3RHal85Q0F0Yk5fZUlBLUc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-01T04:30:10+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "DAK-Report zur Pflege: Befragte sehen viele Probleme - SZ.de",
-      "summary_de": "DAK-Report zur Pflege: Befragte sehen viele Probleme &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQLWRHMlVGTE9rSnpzelJVTkwxQzkwMzI5M05iX05XVFdHSlVFN0hSemlwRjR1bjJJYzUzSHkybnBzLXF2by04WDFGQTZOQjBmRV9JdnE4RXJEZHBCT2dLaUtCek1SNFVsa0VoNUZKNWRySTVqekRmTk5icVd0MjUtMmc3Z1hwRXFYLXNwVkxhQnNud0g1TUhUYlZyS2RPRHlYY2IzTjNoTjZNWjE2aUotWWVzbC1hS2RvTG9MbzBteWVRZGJVWGF6VE94N1hvcmRZeHY1b0xTZHdZdS0xWFZmMjg0bzk1WmtFVm9pVkg0eTRSMk9x?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-01T04:30:10+00:00",
-      "category": "Versorgung",
       "tags": [],
       "type": "News"
     },
@@ -1863,16 +1841,6 @@
       "type": "News"
     },
     {
-      "title": "Psychiatrie und Psychotherapie GeRN® Gesellschaft für Radiologie und Nuklearmedizin GbR, Stellenangebote in Homburg | Ärztestellen - ärztestellen",
-      "summary_de": "Psychiatrie und Psychotherapie GeRN® Gesellschaft für Radiologie und Nuklearmedizin GbR, Stellenangebote in Homburg | Ärztestellen &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQ2lIUXUtMk11MTRSUXdDVEp3ZWRqMkZISldmM182LXVYSnV3blZtM0tTZ19iaEhVQUR1bDZGTTJscERxR1AwMGhta1NybGRRaDBHNFNGRWdoOFdiUW5Pa1RvVXNTaWF1V3RDR2lxZ0x6eHozVXo1LXB0eXBhbTNnTU81dEJ5VFBRY1J2N05wbVJKSV9yUlRGZEtJX2Y2bm5LOGhRUkhpX3NyN2c3bE0wZk5pd2R3WUpvTkZ2ZzJZSzF2NTUxZ3dLaHJhbHg2TkRTZ3NvYS1vOFJvRmk1cUZLT2h5d1d4VFRlZk9jX0xn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-24T20:23:21+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Corticosteroids and antiviral treatment for Bell's palsy (idiopathic facial paralysis)",
       "summary_de": "Corticosteroids and antiviral treatment for Bell's palsy (idiopathic facial paralysis)",
       "source_name": "Cochrane Library RSS feed.",
@@ -1909,16 +1877,6 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-app-statistics/january-2026",
       "published_at": "2026-02-23T11:10:27+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Programmverantwortlicher Arzt (m/w/d) Mammographie-Screening - ärztestellen",
-      "summary_de": "Programmverantwortlicher Arzt (m/w/d) Mammographie-Screening &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb0dhVTJYY1oya25hVHZlYnFXaWloYnVyMThfWlhfQVBRMjF1TWVBSEo4aGoyRmdRQVZ4TElkOUtmQzV6Unkyc1dLT212Um5mMHJrTFZaNXRDSUJXLUYtaDRBTU40RUlxRWgzMGY5VmplbTlxclh0cVA1VVVBOE13c1J2cGo4VUprRDVITTFqeUc1NmNxb3JfWWN0Y29Sc3dpQ2pBNnlwQVJ4ZDk0Tnd3Nll4b0FzMndT?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-21T08:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2044,16 +2002,6 @@
       "tags": [
         "Europa"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Die Zukunft der digitalen Gesundheit gestalten - Barmer",
-      "summary_de": "Die Zukunft der digitalen Gesundheit gestalten &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VTHZfQ2lBNFY5NlVhRXhuaWt0MHlRMlR3QUE5SDlSTno0NWdNUkxFM0JKV2xXMWI5SnpaeV9UWHJlZ3Q3RlM0aWJPSmpNMml1VjNVTzJYVHBmY09NTmFIRTlJbnhTdEpYcWVseDRJLUtFNGta?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-19T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
@@ -2197,16 +2145,6 @@
       "type": "Studie"
     },
     {
-      "title": "Ihr Portal für Digitale Gesundheit - Barmer",
-      "summary_de": "Ihr Portal für Digitale Gesundheit &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDTWN3bVQtWVZ3X29IVmZUSGR2dXYzWlZiczJvT0NHVkNfdTBsdklrNE5fc1BOU2dVUFcyN01GMld4N3E2eGpLbnlzQlFPd21fUVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-16T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Intermittent fasting for adults with overweight or obesity",
       "summary_de": "Intermittent fasting for adults with overweight or obesity",
       "source_name": "Cochrane Library RSS feed.",
@@ -2309,16 +2247,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Facharzt/-ärztin Nuklearmedizin - ärztestellen",
-      "summary_de": "Facharzt/-ärztin Nuklearmedizin &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNk5YdlhLYktIelB6Y0oxNFJqenIxU3RUbTdxdHpVaGNEYW1iQmYxeG14SzB1ZVo4bmZXSkY5cjJ3WlJfTWtldHE4cFpkbGxMVHJUWkNGNXlWOEFsZktYbnVXLTg2OEIwdWExTlpJQVFRdGUtdmRxSUxvbVZla0pPX1Foc3Y2cEJRckFjQXNES1AxU1h6?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-12T23:00:23+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Episode 37 – No secret sauce: a recipe for transparent science",
@@ -2584,6 +2512,16 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/personal-health-budgets/2025-26-q3/personal-health-budgets-q3-2025-26",
       "published_at": "2026-02-10T09:55:28+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Experten über Klimawandel und Gesundheit - Barmer",
+      "summary_de": "Experten über Klimawandel und Gesundheit &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWm45Tzk2ZC1fa2ZEc0FpNGlGX0JLMmNqdzkxOTB1Y1lOMWUwZVRhOXlMT1ZySTBvY0xEd3lCZWdrZmp3M1BVb05ER0xvTFRrcTlWdXVta0tfZlQ0eFptdjFnTjhIbEpUVkJhbXFTQlAyYk5rRFNjenYyLTk1cUZhaU1pNXRLcmcxLURvY25ReldmSlJ4WnRiN3pWOWhycWJseTB5NUpZcE0zUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-10T08:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
