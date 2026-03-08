@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-08T01:26:35.685188+00:00",
+  "generated_at": "2026-03-08T04:28:58.752410+00:00",
   "window_days": 42,
-  "count": 264,
+  "count": 269,
   "items": [
     {
       "title": "Gesundheit: Influenzawelle in Sachsen-Anhalt geht deutlich zurück - DIE ZEIT",
@@ -32,6 +32,16 @@
       "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Week in Review: ECR doesn't disappoint | Global breast cancer cases surge | ABR board certification changes",
+      "summary_de": "null",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15818998/week-in-review-ecr-doesnt-disappoint-global-breast-cancer-cases-surge-abr-board-certification-changes",
+      "published_at": "2026-03-07T08:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "Zwischen Medizin und Esoterik: Was bringt Vagusnerv-Stimulation? - SZ.de",
@@ -438,6 +448,26 @@
       "type": "Studie"
     },
     {
+      "title": "ECR: LLMs help patients understand breast imaging reports",
+      "summary_de": "Hemal Grover, MD, shared results from two studies of how LLMs can improve report readability for patients.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15818937/ecr-llms-help-patients-understand-breast-imaging-reports",
+      "published_at": "2026-03-06T08:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "ECR: Cardiac imaging is at the 'heart' of precision medicine",
+      "summary_de": "The heart beats 2.5 billion times in a person's lifetime and \"never has a day off,\" presenter Michelle Williams, PhD, noted.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/subspecialties/cardiovascular-radiology/cardiac-imaging/article/15819028/ecr-cardiac-imaging-is-at-the-heart-of-precision-medicine",
+      "published_at": "2026-03-06T07:02:51+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "US-Studie: GLP-1-Rezeptoragonisten senken Risiko für Suchterkrankungen",
       "summary_de": "GLP-1-Rezeptoragonisten, die gegen Typ-2-Diabetes und Adipositas eingesetzt werden, k&ouml;nnten auch das Risiko f&uuml;r Suchterkrankungen verringern. Darauf deutet eine gro&szlig;e US-Studie hin, die vor Kurzem im &raquo;British Medical Journal&laquo; ver&ouml;ffentlicht wurde.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -473,16 +503,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTHlZd0REWTdtRS1fT2V1bVNhRXc5MFlfUFo4R3NRQTBYdlpwWEJPMXRkZFlBMG8tSTZqT25TVXJrbzhBXzNGVlk1SWhydmFGSnB0Wm5DSmxkOFR4eFE3MWFKUW1MWERVN0pPc0FfY3E4VURCWENwdFlmR3BKc0ZRNzVjV0c4el9wdnlCX05MVWlsS1JLUl9rZWNYckFFeUdyQzJwQ3ZrUjlyZ2ZISnVlSFVDSU11LXowWWR6WERUNjJSREJoTk9zeHNQQXRqdFlmNFRaVlBMdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-06T04:00:05+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheitsversorgung - Was bringt die Reform der Reform bei den Kliniken? - Gesundheit - SZ.de",
-      "summary_de": "Gesundheitsversorgung - Was bringt die Reform der Reform bei den Kliniken? - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRVpUUFNhRm1LMTBWY1A0WTJkcTI1MHU0dG5DX2NJbGhKTy1XMEZJZ1h2UGxic3h6NGhONl9GS0ZfSGwySExWTk1MS1Zudi1fV0JjZzZHNzljWEdQZ1NkMjRGSjh6UjFLWTNPc2gxcVBJY2NMWWFBLW52V3A1Vl9Gem54WjZPR3o3MzFzTkhtWE91OUkwbXd4MWtWd3cwVmpiNlFNVmFTc0Y2Y2ZUYkxrNkZMQ09uelZSTWgzNWZJbVJEWW0xVEwzU2pXV2JMZHY1UEJqOHRLVEJ2WWRuUVBSZUNKSEE2TWQtUE1SYnFxTmVsQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-06T03:05:05+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -860,6 +880,46 @@
       "type": "News"
     },
     {
+      "title": "DL segmentation of chest muscle volume shows promise for COPD patients",
+      "summary_de": "Deep learning (DL)-based muscle volume assessment from routine CT scans could help identify COPD patients with comorbid sarcopenia...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15818917/dl-segmentation-of-chest-muscle-volume-shows-promise-for-copd-patients",
+      "published_at": "2026-03-05T08:56:21+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "ECR: 'Black swan events' demand informed imaging infrastructure",
+      "summary_de": "Experts discuss how to plan for \"black swan events\" -- that is, battlefield and mass casualty incidents.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15818839/ecr-black-swan-events-demand-informed-imaging-infrastructure",
+      "published_at": "2026-03-05T08:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "ECR: Integrating actionable reporting into the imaging workflow",
+      "summary_de": "Radiologists can promote actionable reporting by avoiding common pitfalls and communicating with referrers.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/practice-management/article/15818831/ecr-integrating-actionable-reporting-into-the-imaging-workflow",
+      "published_at": "2026-03-05T08:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "HPI: Workforce attrition higher in radiology subspecialties",
+      "summary_de": "Subspecialties are an area of particular concern within the trend of increased radiology workforce attrition.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/practice-management/careers/article/15818815/hpi-workforce-attrition-higher-in-radiology-subspecialties",
+      "published_at": "2026-03-05T07:53:59+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Formel 1 in Melbourne: Aston Martin vibriert stark, Adrian Newey sorgt sich um Gesundheit der Fahrer - Spiegel",
       "summary_de": "Formel 1 in Melbourne: Aston Martin vibriert stark, Adrian Newey sorgt sich um Gesundheit der Fahrer &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
@@ -910,11 +970,11 @@
       "type": "Studie"
     },
     {
-      "title": "WHO: Chile hat als zweites Land überhaupt die Krankheit Lepra besiegt - DIE ZEIT",
-      "summary_de": "WHO: Chile hat als zweites Land überhaupt die Krankheit Lepra besiegt &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVFZsM3FIeTBJdWhYQmtJekUwRWNKUHNsMFZ4a0VpSXhmNEw2RHV6cWY0SWtzaG4zZ0NSRzVXSURkem8tMmdYZmo5U1ptTGxGQ19BR0dqT2JXcS1uc2hkY2tpRjhIMFRpYUpCUF83Sl9VdnF2djNVZkNyQm0tT0N4ampLVXZSRkplRjVZUW9pVE84aE9tRXQ2SDhwYTM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-04T17:39:47+00:00",
+      "title": "ECR: Lessons from ACR's improvement initiative on prostate MRI quality",
+      "summary_de": "Prostate MRI is an essential tool for prostate cancer workup and management, but its image quality can be highly variable.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15818783/ecr-lessons-from-acrs-improvement-initiative-on-prostate-mri-quality",
+      "published_at": "2026-03-04T18:36:20+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1092,12 +1152,32 @@
       "type": "News"
     },
     {
+      "title": "AI model shows promise for reading CT scans like a radiologist would",
+      "summary_de": "null",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15818808/ai-model-shows-promise-for-reading-ct-scans-like-a-radiologist-would",
+      "published_at": "2026-03-04T09:11:13+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "TK-Chef Baas zum KHAG: ”Mas­sive Ausnahmen schwä­chen Reform - der Ball liegt nun bei den Ländern” - Techniker Krankenkasse",
       "summary_de": "TK-Chef Baas zum KHAG: ”Mas­sive Ausnahmen schwä­chen Reform - der Ball liegt nun bei den Ländern” &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN0w0VDhQYnU2OTdCSGVsSVR0N1pjaVVoVHp5N0txSzlFUGFtLVV3eUhmM3dWVE05V0ViODl5ZU50X3YyNzlsLVdGakdtV2JtVGdlUUUtdEFFNzNTZGhGUHcyVzVoOVlVQ1RERGhwTHJlZ25mSElXbmNXWndKTG1nbF9tb1p4cFhiaXNVZ3pmZHRhb2tCZFhvcC1NbFFFRm5jbnM4UVJKVVY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-04T08:00:00+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "ECR: Radiologists discuss evidence for, societal impact of radiology AI",
+      "summary_de": "null",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15818809/ecr-radiologists-discuss-evidence-for-societal-impact-of-radiology-ai",
+      "published_at": "2026-03-04T07:52:58+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1235,21 +1315,21 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Ministerin: HPV-Impfung kann vor Krebs schützen - DIE ZEIT",
-      "summary_de": "Gesundheit: Ministerin: HPV-Impfung kann vor Krebs schützen &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc2xmV3VEZmtjZFdveGxHTHZGMjZhS2lualZCTFlKZTM4eVdxVkIzQ082djQ5dENmQ0JTZEU4SHpaQ3hMYXljdVFqckJ1eE5Va0FjOXJpbGFhZWZnVmFPMjdDNld0SWVKb2dEVkMzZGhMZnhYT191U1Z1RUwzM0oyNU5ZbDJjMXNPR0xZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-03T06:25:21+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Allergien - So startet die Pollensaison im Nordosten - Gesundheit - SZ.de",
       "summary_de": "Allergien - So startet die Pollensaison im Nordosten - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZEM3NmVYMEp5dGFRN1pGc2hocFZxSFh3dUpnOHltTHBYODBCZndadkE1RG95VnNJVmhBZmpvaXc4Y1hPRGZpRy1LUERzZEtIMmVwWTZNWGxERUM0cDMtWHNjV0cwY2xyT2R0VU9IV2ZGelZYU19UQVR0OFpXSWxfa1NCMi02ZThVRUJfV2lteFN6ZFhFcXM1SEpKdTRWcGFyQkgtZ1UxdnJjNnBTVU5Xd1VkUEpOZEVKZ0lGZWpmUktmeUhEQkYtSDZBY0lSbEc1NGtvT0dR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-03T04:00:23+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit - Neun von zehn KKH-Versicherten gehen jährlich zum Arzt - Gesundheit - SZ.de",
+      "summary_de": "Gesundheit - Neun von zehn KKH-Versicherten gehen jährlich zum Arzt - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOd096SHNESHl3VlU2Nlo2aDNFTVo4aWhFSDdrYXpmRTVHSF9rMmloNHd2aElMN250djI3UUNkaTNWbmc5alhfMGRkWHhKWnl1b045RndqQmg3TnNKOGVyeW5hdnMyY1lHQVVndFFCMFVXOTVHZlFKZjRnZ0FTaUdXRmxhUGd4NVRuNGdWV1l1enJUVFpndU9QV0lQVzFZenV1enoxY0t3dHRvTE9JdDZEY0dRcExQcWh5cWE2aGFPN0RsWkxNUGpPSEJYM0ZQaF9XX3JYVG5aSjFVRlpZdjEyaURNcHNXRFJSWVRN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-03T03:30:06+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1263,6 +1343,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Vorsorge - Barmer-Report: Rückgang bei Grippeimpfungen ab 60 Jahren - Gesundheit - SZ.de",
+      "summary_de": "Vorsorge - Barmer-Report: Rückgang bei Grippeimpfungen ab 60 Jahren - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTG9LMldUWlpLM2NUN2t3MkNrNlBjM2FDdXh3N2JzMHVvaHpJTHBLTUlhRVFONG5vWUoycy13NVoyX1Roc2ZuRTFxR3NQSEtzaF8wMVhoaUZ4dDItX2FBQ0o2dzFrUERWYWppS1FQdHM3dVFiMm5vUkpKeDYwd1JLVHFjbVhleXYzMFlxMnFGMTNJVVhXTi1DMmNaREowQThfTTJGLTVpcnhnZlpYSGxvY0l2R29SOHhIQzI2Y1A5ZmZIeHJjbGJ3cVVCenZIT0hrWHlfdmI3ZE50Snp0ZFRUSGVaS01kcnhSU0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-03T03:00:08+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Magnesium sulphate for treating acute bronchiolitis in children under two years of age",
@@ -1430,26 +1520,6 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Schätzung: Bis zu 460.000 Frauen mit Endometriose in Bayern - DIE ZEIT",
-      "summary_de": "Gesundheit: Schätzung: Bis zu 460.000 Frauen mit Endometriose in Bayern &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSk0zcXBxeER5bzd5Q214YnJjSm1ueTZhOUVuY3RQN0o3TU0tN25oam1kSTF6SW1LV284NlI0bXpRVkE4SFhIb0V6bnFfVy1mQVRBeDRhWjVJcTYtTUNMdldqQjZUTGFDUDJmY3cxSjZsdkQ1WGEzWjRhcVlna2JHV0NnNlpkZHg5ZDZZSlNfb2VoWFpHaTVoSnBIQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-01T03:00:53+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit - Schätzung: Bis zu 460.000 Frauen mit Endometriose in Bayern - Bayern - SZ.de",
-      "summary_de": "Gesundheit - Schätzung: Bis zu 460.000 Frauen mit Endometriose in Bayern - Bayern &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbVk4TElPblhNMnIzUl9obzJJa25FdUQ1LUdOa0NobnpkZEh0ZXU0X3BSeXFkeEs4cVdHOXhyak1tUlhjZVpiTW1Dejh1M1NBdDc0YlIyRlNIalQ2V3hfLWcyZldEcXRqbEZ3VUpTWTUyOTBGOG1WYWlqbXhzY01lWm9sZUg0M3NTM0J5U0lzX2p1VFdYR0FBYlpvbjNZUVZVRDZuV1U5WV9EN2MwZVZLOVJoVGpWcmVXX25ZbEdsLUFXZ2xfcU1WWEdnZ0JTZ01LWUpsV3ZyUkxhTm0yVkJfb0hSQThQejZISXpj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-01T03:00:53+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Qualitätsindikatoren | Klinik für Neurologie | in 21029 Hamburg - TK-Klinikführer",
       "summary_de": "Qualitätsindikatoren | Klinik für Neurologie | in 21029 Hamburg &nbsp;&nbsp; TK-Klinikführer",
       "source_name": "\"site:tk.de\" - Google News",
@@ -1497,16 +1567,6 @@
       "source_name": "\"site:tk.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZDIzeksxdVRzR04xNUcyX0d5QlowUWxpQ2U5TGNHczBKR001eTNQWlNxUHVEREpfOEJ4WDhJbXcyN295WG11ZGhkOTJsZV9MYTdnRFVvYmlWSTQ1NmlEMndLVkZ4eUMyUGFjcUwxYkpUX2FBclFLOWNabE5VUko2d3ZESktsSWFpdUV0T3dUd3dycWprRFpqNmctN0dvZDduTXZRT1B6bXZBUjItaHBuNGNVSDJBM1dlTlpva21HVTQxSjBvMXg3VjFJeHdiVm5ZNmRPMUV2Qm1WcGlxbmZ6RC1UZmpnY3gya2VKbVlHVnMxWk9PVHJVbndiV0hySk9ILVM3OExKU0IxZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-27T13:42:49+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Klinik für Innere Medizin und Geriatrie | in 33790 Halle/Westfalen - HEK",
-      "summary_de": "Klinik für Innere Medizin und Geriatrie | in 33790 Halle/Westfalen &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRGFfSDhOeTBteTNLT3dHMmxIODZIM1lTRWw4dDZ1OWx3MktFdHFvbklRYWFNcTdJN2RsSWdUbVBUbkc3cWgzZFR6OEk1WTdfYmtQOEFmcF9pMlR6OUdLd2FCb2hFZ0hYbXpCWG0yajZ6YktGVTZEOFlpTnZFMjRTNHRYWFFGcG9zcXRQbzIzTlVndzNMU0djQXJZSmpsaGtJR3VfVEdUV21UR05nR0V4X0FlT3VUNy1hUHczVk8yYmtfUmVwQzZSZi0yMTRGZVJjR3lvZWIyMkFHS0poZ0hxdkFCdS00WG0wcWFMdmV3LVZEcHhTMlA2U002My1Semg1X0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-27T11:59:25+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1583,16 +1643,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Qualitätsindikatoren | Medizinische Klinik IV: Pneumologie, Beatmungs- und Schlafmedizin | in 45770 Marl - HEK",
-      "summary_de": "Qualitätsindikatoren | Medizinische Klinik IV: Pneumologie, Beatmungs- und Schlafmedizin | in 45770 Marl &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNbDdUZlpiWFdYVGNXbWh0UWtSTVdfSUhDNzdBOW9VTEhhWkFCa2lxM2hCTlAyS04wbU9jVlZ3amU4NUFncGJQSEw4RF9oTHlNQ05zMC1lTXBSU3V5WlNLSkpuc2pvTEprYVE5Y21NdXloVEtoYTI1V2p2NThQS3NISklzMTJrR01zMlg5cWFMaTFnUmk4MHNRWXBWTzRlSXhoRnpScTBwQkoxSWtjNFpVQjVIMmVTTDRVVUtSS3psSEc1bE4zNGo0dHN6OUN1NEh5SXQtV0tWLUVOc2tfeE9LV3dhaHFXenp6X0pvUENXRHJmVUp3MXpUaXBMU0ItZHlmX25NS05QQUdiblNtQUhicXcyUEpXTjdub3Q4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-27T04:04:31+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
@@ -1997,6 +2047,16 @@
       "type": "News"
     },
     {
+      "title": "Die Zukunft der digitalen Gesundheit gestalten - Barmer",
+      "summary_de": "Die Zukunft der digitalen Gesundheit gestalten &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VTHZfQ2lBNFY5NlVhRXhuaWt0MHlRMlR3QUE5SDlSTno0NWdNUkxFM0JKV2xXMWI5SnpaeV9UWHJlZ3Q3RlM0aWJPSmpNMml1VjNVTzJYVHBmY09NTmFIRTlJbnhTdEpYcWVseDRJLUtFNGta?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-19T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Primary Care Dementia Data, January 2026",
       "summary_de": "NHS England collect and publish data about people with dementia at each GP practice in England, to enable NHS GPs and commissioners to make informed choices about how to plan their dementia services around patients’ needs.The publication includes the rate of dementia diagnosis. As not everyone with dementia has a formal diagnosis, this statistic compares the number of people thought …",
       "source_name": "Publication Feed",
@@ -2137,16 +2197,6 @@
       "type": "Studie"
     },
     {
-      "title": "Allgemein-und Viszeralchirurgie, Robert Bosch Krankenhaus | in 70376 Stuttgart - TK-Klinikführer",
-      "summary_de": "Allgemein-und Viszeralchirurgie, Robert Bosch Krankenhaus | in 70376 Stuttgart &nbsp;&nbsp; TK-Klinikführer",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRVBMVDItSkhERlQ0c2lRZUE5dmo5VFdGZlZDU3p2aGlnTGVId2d6VC1xWHFEMUlwcURfdUhPTVhMODJ2VHJ5eXZDQldERXY5RDNxTzNENmFOMWZEWUFNeG9vR2t6aTRCcV9ZX2J0LWlHcnhGZkJIdUNkODlZR3ZLdFlyS2JNQnJsOVlRWlFsb1JpX0x1WTBoMzZ2NDVEcDBkNnpQWVY4V2h0eE5FQjI3V0FpN08yWk8xZ0tyUkNaU3lteDZpQ2pScjlPb1dDdXlLSGZYa2RvVTliblN6cW5IaC1hcnluSzNIVE1teU43WWltT3NuaFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-16T15:02:34+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Ihr Portal für Digitale Gesundheit - Barmer",
       "summary_de": "Ihr Portal für Digitale Gesundheit &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
@@ -2259,6 +2309,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Facharzt/-ärztin Nuklearmedizin - ärztestellen",
+      "summary_de": "Facharzt/-ärztin Nuklearmedizin &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNk5YdlhLYktIelB6Y0oxNFJqenIxU3RUbTdxdHpVaGNEYW1iQmYxeG14SzB1ZVo4bmZXSkY5cjJ3WlJfTWtldHE4cFpkbGxMVHJUWkNGNXlWOEFsZktYbnVXLTg2OEIwdWExTlpJQVFRdGUtdmRxSUxvbVZla0pPX1Foc3Y2cEJRckFjQXNES1AxU1h6?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-12T23:00:23+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Episode 37 – No secret sauce: a recipe for transparent science",
@@ -2528,16 +2588,6 @@
       "type": "News"
     },
     {
-      "title": "Darum sind Elektrolyte so wichtig für die Gesundheit - IKK classic",
-      "summary_de": "Darum sind Elektrolyte so wichtig für die Gesundheit &nbsp;&nbsp; IKK classic",
-      "source_name": "\"site:ikk-classic.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1aSHdWdXRKMEdHNXBxaGZFSFRiOWU5UXVDel9fWWNJUjUwR1c2cjZiRkV0WTYyamxNc0VqVkZZVFNQbWppSERnOU10ZFd0UlB2b2M2X250Q2k4Zm5CWjVVNkNqd05SUXNFWWJlRlhvc2p1ak0y?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-10T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Provisional safe level for cannabidiol as a novel food",
       "summary_de": "The European Commission considers that CBD qualifies as a novel food provided it meets the conditions of EU legislation on novel foods . Provisional safe level In an updated statement , EFSA’s expert Panel on Nutrition, Novel Foods and Food Allergens (NDA) set a provisional safe intake level for CBD of 0.0275 milligrams per kilogram of body weight per day …",
       "source_name": "EFSA | News",
@@ -2578,11 +2628,11 @@
       "type": "News"
     },
     {
-      "title": "Julian Grabbe neuer Datenschutzbeauftragter der DAK-Gesundheit - dak.de",
-      "summary_de": "Julian Grabbe neuer Datenschutzbeauftragter der DAK-Gesundheit &nbsp;&nbsp; dak.de",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOS09jUmwtWUFoWDhzYkkyT3JxV2psX1BHMzdyUXRFTWpCMG9OZXIza3puSHZid0hfT0xtR09VX3hGeGFwM1JOWXpHbU9YWUFUaFdfaXBRM01lek1aS25fOUdwamF5b2N1eWdKNV9tRW1OekRLaWVJVVlRQnhtLVVjUzJKMEhQT0lwWDhiazBNazl0NjlpX2tJamQzNXdHSkJzNVplTXhPeTM5QzRiMzdyUm9idXdtcVVwdmFNeDRRV05uTVozSTVMclF0R252c0RiV2hqejl2TQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-03T08:00:00+00:00",
+      "title": "BARMER Krankenkasse in Haldensleben - Barmer",
+      "summary_de": "BARMER Krankenkasse in Haldensleben &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMEpYclQxNFdvVkxxS0xXSUxzdVotR0FKellhM2R4LUlpUU5CZ05fdDBtZ25WUWlHOWlvU1hyYWhIQ1pSSllZeVcyeTZ4WmNzb2pQdzNOOEpHYy1IQ05namZ4S0ViSVNXWEVqQV9LM1h5Y21jZXFOQ0NhVHJDLWcyX19EWkl0NlJiM3pVcFBjZWlrRUg1Um5mRlRfS3ZmLXRBbHVDUWttcmdzWFc4VmZVZlF5SGlmMUZGdnJySEtiekFWUkE5aUd1ZkVaUEkzdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-04T08:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
