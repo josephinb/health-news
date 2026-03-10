@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-03-10T04:27:15.733404+00:00",
+  "generated_at": "2026-03-10T06:39:24.255038+00:00",
   "window_days": 42,
-  "count": 244,
+  "count": 236,
   "items": [
+    {
+      "title": "Pulver, Pflaster, Antikörper: Was gibt es Neues für Erdnussallergiker?",
+      "summary_de": "Der Ausstieg kam jetzt &uuml;berraschend: Mit Palforzia&reg; wird die bislang einzig verf&uuml;gbare orale Immuntherapie bei Kindern und Jugendlichen mit Erdnussallergie vom Markt genommen. Auf welche Therapieans&auml;tze k&ouml;nnen Betroffene in Zukunft hoffen?",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/was-gibt-es-neues-fuer-erdnussallergiker-163295/",
+      "published_at": "2026-03-10T06:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Tollwut: Kinder auf Fernreisen brauchen Schutz",
       "summary_de": "Eine Tollwuterkrankung ist sehr selten, verl&auml;uft aber immer t&ouml;dlich. Reisemediziner raten daher dringend zum Impfschutz &ndash; vor allem f&uuml;r Kinder auf Fernreisen. Die Impfstoffe k&ouml;nnen ab dem ersten Lebenstag gespritzt werden.",
@@ -379,19 +389,9 @@
       "type": "News"
     },
     {
-      "title": "QIT Systeme I QIT DICOM Mail - Radiologie Magazin",
-      "summary_de": "QIT Systeme I QIT DICOM Mail &nbsp;&nbsp; Radiologie Magazin",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjMmdrVGRHYm9sRk9TYjYwNENyMFU4TGgybzVyT2VSVnFCZlYzMW4zazFQZ01lNFBrRWpMRU5nMXI4VWo2OWliY2RwS0lUTmx1dmhOM0daRlhvVTlwS2U5ZG5hdGdpU2NGRjU0cmRYaU50dnlHeHI4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-08T23:00:01+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Kunst und Gesundheit: Gucken Sie sich diese Bilder genau an. Ist gut für Ihre Gesundheit! - DIE ZEIT",
       "summary_de": "Kunst und Gesundheit: Gucken Sie sich diese Bilder genau an. Ist gut für Ihre Gesundheit! &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON29nVy1pZFhTck9DQmVKRC1Yd2Y0aWZOQThHUnk4bTFzT3FDV0RCUWw0eE9Wc0duLTFHcDZ3SVV5Y0M3VFBDOVlnN3lBNnh0V2VoYmtwVWFlMU1McmZUZ1FwRDZMem1WaWVEVk9ab1JXNzdBckJUd01ybnRjOGREb04yNUVRb0VQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-08T19:12:39+00:00",
       "category": "News",
@@ -641,16 +641,6 @@
       "type": "News"
     },
     {
-      "title": "Erschöpft und antriebslos: Frühjahrsmüdigkeit oder Depression?",
-      "summary_de": "Ersch&ouml;pft und antriebslos: Wer wenig schwungvoll in den Fr&uuml;hling startet, r&auml;tselt: &raquo;Was stimmt nicht mit mir?&laquo;&nbsp;Dahinter kann Fr&uuml;hjahrsm&uuml;digkeit stecken &ndash; oder auch eine behandlungsbed&uuml;rftige Depression. Wie unterscheidet man das eine vom anderen? Und was hilft?&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/fruehjahrsmuedigkeit-oder-depression-163336/",
-      "published_at": "2026-03-06T12:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Apple Studio Display XDR mit DICOM-Unterstützung für die Radiologie - Macerkopf",
       "summary_de": "Apple Studio Display XDR mit DICOM-Unterstützung für die Radiologie &nbsp;&nbsp; Macerkopf",
       "source_name": "\"radiologie\" - Google News",
@@ -789,6 +779,16 @@
       "source_url": "https://www.ema.europa.eu/en/news/new-guidance-conduct-clinical-trials-during-public-health-emergencies-eu",
       "published_at": "2026-03-05T14:15:00+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Medizin in Viersen: LVR-Klinik erweitert ihr Angebot - RP Online",
+      "summary_de": "Medizin in Viersen: LVR-Klinik erweitert ihr Angebot &nbsp;&nbsp; RP Online",
+      "source_name": "\"site:rp-online.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOC1DN1hBb3pEWTd5U2xnNUNaWFd0bjR3UW5FVHpjYURkbHBBd0hZMDVFN3kzQWFYSEFscXNDdmdzWlNBd0M1LVppZmJtTkJ2LWNsbkFud3lrYU4yeUFydUNJcVhKdUI2NnZBY1hLMHhXUjduSy1Cdml1emV1ZWJGV29WR20wUTVWUEUyTHlkaDQ2SE1oM1dQXzNkNG9qTVhZS3c2eGhldHEtRjUxS3BJR0pKeDFlVnE3eTJlSjFtNElDQjJkYlNYODNJc00zVmN3YWJyeUhkUUxyQjQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-05T12:56:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -980,16 +980,6 @@
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLWhVZDktcmNzNHlzM0hsN1pRYWY1RDZzSXN3cXNxb3hXbmZOZWVLTngzUVF0dFdvSGl3RVBQaTJIaEE2UER4TEtzdTZoVFBfdWdaQ1BITTRiZEpaeVVnNWdxaUV3eHNTMFBsNFhaQjl6RXVvWXRmZFlUMUVtdjZNb013M1VDRkVjQ2t5RnRlRHY0ZDlEdngtMFM0OTF0ZjZsdEpRNWFKbWk3Wnlwd3dGRWNDUFgzeURYQlJIZk44VjA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-04T18:49:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Kunst und Gesundheit: Gucken Sie sich diese Bilder genau an. Ist gut für Ihre Gesundheit! - DIE ZEIT",
-      "summary_de": "Kunst und Gesundheit: Gucken Sie sich diese Bilder genau an. Ist gut für Ihre Gesundheit! &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZWVYNGJjYmcxLTRJR19BQTh1Qk1pLV9iVkVSTUJfYS1pU0l3M1pFNnAxWXBkTXBVcmZFRW5IVzcyUFA2UE9TMFpRR19zYnBRdW9nOGoxNHA0UW0wajdRaHdWdGJycS1qZUs1RG9xVFRWTjdqQXpVTjV5UXJaNkVkYjl4VS1ZM01hSzdrcmZQSTJsdUZpRDgxLXZLNGxFQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-04T15:54:01+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1220,26 +1210,6 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Ministerin: HPV-Impfung kann vor Krebs schützen - DIE ZEIT",
-      "summary_de": "Gesundheit: Ministerin: HPV-Impfung kann vor Krebs schützen &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc2xmV3VEZmtjZFdveGxHTHZGMjZhS2lualZCTFlKZTM4eVdxVkIzQ082djQ5dENmQ0JTZEU4SHpaQ3hMYXljdVFqckJ1eE5Va0FjOXJpbGFhZWZnVmFPMjdDNld0SWVKb2dEVkMzZGhMZnhYT191U1Z1RUwzM0oyNU5ZbDJjMXNPR0xZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-03T06:25:21+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit - Neun von zehn KKH-Versicherten gehen jährlich zum Arzt - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Gesundheit - Neun von zehn KKH-Versicherten gehen jährlich zum Arzt - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOd096SHNESHl3VlU2Nlo2aDNFTVo4aWhFSDdrYXpmRTVHSF9rMmloNHd2aElMN250djI3UUNkaTNWbmc5alhfMGRkWHhKWnl1b045RndqQmg3TnNKOGVyeW5hdnMyY1lHQVVndFFCMFVXOTVHZlFKZjRnZ0FTaUdXRmxhUGd4NVRuNGdWV1l1enJUVFpndU9QV0lQVzFZenV1enoxY0t3dHRvTE9JdDZEY0dRcExQcWh5cWE2aGFPN0RsWkxNUGpPSEJYM0ZQaF9XX3JYVG5aSjFVRlpZdjEyaURNcHNXRFJSWVRN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-03T03:30:06+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Magnesium sulphate for treating acute bronchiolitis in children under two years of age",
       "summary_de": "Magnesium sulphate for treating acute bronchiolitis in children under two years of age",
       "source_name": "Cochrane Library RSS feed.",
@@ -1250,22 +1220,12 @@
       "type": "Studie"
     },
     {
-      "title": "Medimaps Group und Radiobotics geben strategischen Merger zwecks Erweiterung von KI-unterstütztem Portfolio für muskuloskelettale Bildgebung bekannt - Business Wire",
-      "summary_de": "Medimaps Group und Radiobotics geben strategischen Merger zwecks Erweiterung von KI-unterstütztem Portfolio für muskuloskelettale Bildgebung bekannt &nbsp;&nbsp; Business Wire",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQaUZlc3BUQWcyTHJSMm9sbE9hY2xTQXQwVUFsTTdLdTNoNWo1cGh3cGpoc2Q4VzZpWDVQcndlTmUzVkx0SE9tNUJ4enNxaXZMdXpvTTh2S0o5bHlvY05Gd01vbVhIUVlseXRNZG1xc0dHSk02el9DMUZsU2xoVzM0RFlrUE45SUp2MFRNSUJveTdpdWFTam1MTG5Oa200UENZWElNbWt1dFhVbk1US0xIN2ljbVk2MTZzeE1odWpzekZhd0tJMFp6a0ZSQjFmSk1wczRaUmRxeklwS1ZndjZnVXFXVEtPMG01R0oyNkE0N1E5eHEyU25uel9aQTBIblI4RWY5enZRWHVJa0V3MHQ3RG0xRElocFRDVVFRci13?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-02T20:28:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "PACS: das digitale Zentrum der Bildgebung - healthcare-in-europe.com",
-      "summary_de": "PACS: das digitale Zentrum der Bildgebung &nbsp;&nbsp; healthcare-in-europe.com",
-      "source_name": "\"site:healthcare-in-europe.com radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pUDEtdjJCSjhpZDFJV3pud1AzcDIzellBdFMxWTBGRHNyNEhpUzlwNmZhcEJLbWRkM2I1NXNLR0ZxRTBPSTVoc09vbEpHUGZWOE9RUkVMcGRSekZWcy1MajQtOFJLYTZpWDVCdFBQSHFoNnpnM1EzZU9Ga1FIQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-02T17:15:25+00:00",
-      "category": "Radiologie",
+      "title": "Primary Care Workforce Quarterly Update, 31 December 2025",
+      "summary_de": "The Primary Care Workforce Quarterly Update presents snapshot data of the Primary Care workforce for General Practice and Primary Care Network Staff. Snapshot data refers to the situation at a specific date. This relates to the end of the quarter (June, September, December and March), however, data are made available at different times due to availability according to the release …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/primary-care-workforce-quarterly-update/31-december-2025",
+      "published_at": "2026-03-02T15:26:58+00:00",
+      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -1275,16 +1235,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSkFKdHJzc3A3ODBDaE5hZjdiRHZDOXRFQkNxYmlvRzNmZmlPaGVDTi1YWkN6Sl9zYkFQOW5EM09WenJoSGZNMURNeU8wWTVzM2Zrd0g1amw4NWttdE1lWlhlVG5OcTVzM2FJRzZGcnVqbUtaenRZSzBtOGJlOVo4bjNtR3RRa0JLMnFuQ1RocVlfNlBlNVhJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-02T13:24:55+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Ungleichbehandlung in der Medizin - Barmer",
-      "summary_de": "Ungleichbehandlung in der Medizin &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15dEk2SjQxYk93dXJ4Skpyb3U2Wlh6UTZ5cDNjZjFnVDBjMkk3RWQwUTVuamZWVjAtRUZXM1E5Zi1LWDFCcGpfTEl4cDc5QnZVdy1VbXJ6MW1tMm9KM2pmdGtIRy14OUhUQk1Tb05leDZ0YWk3SG1N?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-02T11:35:31+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1970,16 +1920,6 @@
       "type": "Studie"
     },
     {
-      "title": "Ihr Portal für Digitale Gesundheit - Barmer",
-      "summary_de": "Ihr Portal für Digitale Gesundheit &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDTWN3bVQtWVZ3X29IVmZUSGR2dXYzWlZiczJvT0NHVkNfdTBsdklrNE5fc1BOU2dVUFcyN01GMld4N3E2eGpLbnlzQlFPd21fUVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-16T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Intermittent fasting for adults with overweight or obesity",
       "summary_de": "Intermittent fasting for adults with overweight or obesity",
       "source_name": "Cochrane Library RSS feed.",
@@ -2084,16 +2024,6 @@
       "type": "Studie"
     },
     {
-      "title": "Facharzt/-ärztin Nuklearmedizin - ärztestellen",
-      "summary_de": "Facharzt/-ärztin Nuklearmedizin &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNk5YdlhLYktIelB6Y0oxNFJqenIxU3RUbTdxdHpVaGNEYW1iQmYxeG14SzB1ZVo4bmZXSkY5cjJ3WlJfTWtldHE4cFpkbGxMVHJUWkNGNXlWOEFsZktYbnVXLTg2OEIwdWExTlpJQVFRdGUtdmRxSUxvbVZla0pPX1Foc3Y2cEJRckFjQXNES1AxU1h6?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-12T23:00:23+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Episode 37 – No secret sauce: a recipe for transparent science",
       "summary_de": "Access to documents is a crucial ingredient of open science. But how do lawyers assess what requires protecting and what to release? Join us as we digest the law behind your menu.",
       "source_name": "EFSA | News",
@@ -2134,6 +2064,16 @@
       "type": "News"
     },
     {
+      "title": "Mental Health Services Monthly Statistics, Performance December 2025",
+      "summary_de": "This publication provides the timeliest picture available of people using NHS funded secondary mental health, learning disabilities and autism services in England, excluding those who are solely in contact with Talking Therapies. This information will be of use to people needing access to information quickly for operational decision making and other purposes. More detailed information on the quality and completeness …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mental-health-services-monthly-statistics/performance-december-2025",
+      "published_at": "2026-02-12T09:32:26+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Patients Registered at a GP Practice, February 2026",
       "summary_de": "Data for this publication are extracted each month as a snapshot in time from the Primary Care Registration database within the PDS (Personal Demographics Service) system. This release is an accurate snapshot as at 1 February 2026.Figures are reported by gender and single year of age (SYOA) and five-year age bands (up to age 95+) at GP Practice, Primary Care …",
       "source_name": "Publication Feed",
@@ -2159,26 +2099,6 @@
       "source_name": "Publication Feed",
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/shmi/2026-02",
       "published_at": "2026-02-12T09:32:06+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Timeliness of Acute Hospital Discharges (Discharge Ready Date) for December 2025",
-      "summary_de": "The suite of metrics report on the percentage of discharges within certain thresholds and the total bed days after discharge ready date for patients discharged within certain thresholds.Data are shown at national and provider organisation level.This dataset is for all acute trusts and more information on the metrics and exclusions can be found in the technical guidance file further down.This …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-timeliness-of-acute-hospital-discharges-discharge-ready-date/for-december-2025",
-      "published_at": "2026-02-12T09:31:24+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Supplementary ECDS Analysis December 2025 (Final)",
-      "summary_de": "ECDS allows NHS England to provide information to support the care provided in emergency departments by including the data items needed to understand capacity and demand and help improve patient care.The Emergency Care Data Set (ECDS) collects information about why people attend emergency departments and the treatment they receive to:improve patient care through better and more consistent information allow better …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-supplementary-ecds-analysis/december-2025-final",
-      "published_at": "2026-02-12T09:31:21+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
