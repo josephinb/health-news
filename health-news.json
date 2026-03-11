@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-10T21:23:35.785007+00:00",
+  "generated_at": "2026-03-11T01:21:06.888923+00:00",
   "window_days": 42,
-  "count": 240,
+  "count": 244,
   "items": [
     {
       "title": "MedCanG-Reform: SPD will nachsteuern statt Cannabisversand verbieten",
@@ -40,6 +40,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/gedruckte-beipackzettel-nur-noch-in-der-apotheke-163492/",
       "published_at": "2026-03-10T16:16:08+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Endemeldung Arzneimittel: Folsan 0,4mg pU: TEOFARMA S.R.L.",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-03-10T16:03:35+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -164,16 +174,6 @@
       "type": "News"
     },
     {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: NexoBrid pU: MediWound Germany GmbH",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-03-10T11:58:02+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "23. März in München: Apothekenproteste auf dem Odeonsplatz",
       "summary_de": "Am 23. M&auml;rz wollen Apothekerinnen und Apotheker in ganz Deutschland f&uuml;r eine bessere Verg&uuml;tung auf die Stra&szlig;e gehen. Jetzt gibt es konkrete Informationen zur geplanten Kundgebung in M&uuml;nchen. Der BAV-Vorsitzende&nbsp;Hans Peter Hubmann hofft auf zahlreiche Teilnehmer.&nbsp;",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -220,16 +220,6 @@
       "source_url": "https://www.gov.uk/government/news/global-impact-of-uk-health-data-resource-highlighted-in-newly-published-paper",
       "published_at": "2026-03-10T10:21:59+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Schattenseite des Vaping-Booms - Hat der Staat kapituliert? E-Zigaretten-Schwarzmarkt brummt - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Schattenseite des Vaping-Booms - Hat der Staat kapituliert? E-Zigaretten-Schwarzmarkt brummt - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOT1ZlYXJaNnEwaGl1RTJyN09nR3NRYjcybUNSY0dpNWtydFNmeU1xZ3JiUUozWHBkV3ZWWUg5SjlYVXBEUV9IMDgwNmU1ekhvMjhtZi1MeFRYeEY5a0JNdTZ0RndqZ2NuYTA3a3Q0cnpEWnQxNnB1ZTI3QmM3VlJqMlNqeEJtWFgzdDFwZ25DUVM3ckRkUi1HTFV4M1o2YXRIMmUwWUktQWFqTktRYnN6TmF1b2hYVUI4OGRZOVVhMUdrdm9uMVdXLW1GeUJ2M1RFTXZGNUNOektIVXJ2bDViQ0xRdFZfaDFfU0gtbkFGanNLQmhsY1NoNlBsOTA1dzF0U2RKWWhlaUV4dw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-10T10:00:07+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -588,6 +578,16 @@
       "type": "Studie"
     },
     {
+      "title": "Unstable brain networks may drive multiple sclerosis fatigue",
+      "summary_de": "Fatigue affects between 36.5% and 78% of people with multiple sclerosis and can dramatically impair their daily lives.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15819153/unstable-brain-networks-may-drive-multiple-sclerosis-fatigue",
+      "published_at": "2026-03-09T08:19:50+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Pressemitteilung: Moderne Hilfsmittelversorgung: Fortschreibung des Hilfsmittelverzeichnisses stärkt Qualität und Patientennutzen",
       "summary_de": "Der GKV-Spitzenverband hat dem Bundesgesundheitsministerium den neunten Bericht zur Fortschreibung des Hilfsmittelverzeichnisses für den Überarbeitungszeitraum März 2025 bis Februar 2026 übergeben. Damit setzt der GKV-Spitzenverband seine Arbeit fort, die Versorgung mit qualitativ hochwertigen und bedarfsgerechten Hilfs- und Pflegehilfsmitteln sicherzustellen.",
       "source_name": "GKV-SV Presseinformationen",
@@ -598,6 +598,16 @@
         "Versorgung",
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "AI-calculated BAC on mammograms predicts cardiovascular disease in women",
+      "summary_de": "AI-calculated breast arterial calcification (BAC) on mammograms could help predict cardiovascular disease risk in women.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15819128/aicalculated-bac-on-mammograms-predicts-cardiovascular-disease-in-women",
+      "published_at": "2026-03-09T06:20:58+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
@@ -659,6 +669,16 @@
       "category": "News",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Week in Review: ECR doesn't disappoint | Global breast cancer cases surge | ABR board certification changes",
+      "summary_de": "null",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15818998/week-in-review-ecr-doesnt-disappoint-global-breast-cancer-cases-surge-abr-board-certification-changes",
+      "published_at": "2026-03-07T08:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "Zwischen Medizin und Esoterik: Was bringt Vagusnerv-Stimulation? - SZ.de",
@@ -813,6 +833,26 @@
       "type": "News"
     },
     {
+      "title": "ECR: LLMs help patients understand breast imaging reports",
+      "summary_de": "Hemal Grover, MD, shared results from two studies of how LLMs can improve report readability for patients.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15818937/ecr-llms-help-patients-understand-breast-imaging-reports",
+      "published_at": "2026-03-06T08:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "ECR: Cardiac imaging is at the 'heart' of precision medicine",
+      "summary_de": "The heart beats 2.5 billion times in a person's lifetime and \"never has a day off,\" presenter Michelle Williams, PhD, noted.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/subspecialties/cardiovascular-radiology/cardiac-imaging/article/15819028/ecr-cardiac-imaging-is-at-the-heart-of-precision-medicine",
+      "published_at": "2026-03-06T07:02:51+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Winterharte Krabbeltiere - Zecken haben wieder Saison - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Winterharte Krabbeltiere - Zecken haben wieder Saison - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -833,22 +873,22 @@
       "type": "News"
     },
     {
+      "title": "Prätherapeutisches MRT– nur ein Baustein in der Therapieplanung - Deutsches Ärzteblatt",
+      "summary_de": "Prätherapeutisches MRT– nur ein Baustein in der Therapieplanung &nbsp;&nbsp; Deutsches Ärzteblatt",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMFpaU3NGRTh5WDQtc2lyUmFuOVdnOTMzVFkyaEx4amNzUWFZU0h0RWdmMjJiUGhfcUxFYzQxb0RfMXRjVEFZekxpanZYQVREV0xYWHJXTTdfOGpKQTd5V0VYQkNKRFR2anNBeFVFeGxnRUY0eHRXWHNBU2t2ajdPdEJmRjloTG1CVGlnTzZKaUdHYVVYMV9WTmFBaUk3WndsYWRJNThiQkY2dUNUOUZfQTFMQmtvWnptTkw1ZVg2N2dyOTJuSVZ5RUtEendWcDA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-05T23:55:27+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Neue S3-Leitlinie: Mütter sollten mindestens ein Jahr stillen - Deutsches Ärzteblatt",
       "summary_de": "Neue S3-Leitlinie: Mütter sollten mindestens ein Jahr stillen &nbsp;&nbsp; Deutsches Ärzteblatt",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWG5QeFdhT210U0FhWThGc0JVUkxLSlBYRGtWcDBzWWppRTBRR05pWm9ieUhnQW9qdl9GVEc4YmNGTWZwbmlsbi0zemxKQlRkNnhJTUtXVmE1ZmpIUnBuVGZuMDNnQUw4a3VXdTY5LXRmR3BoTUFrUWxoYnN4eGJNU1RLTE5IMGxWWlhrNXJrV19qTHVXTEowQkxSOUl5N2FWQnlsQ1hJTEtSdFh4TExSalVlaTlCX1lLRmRQQmlxTWJ3eEZEaGxDeXo0anQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-05T23:30:34+00:00",
       "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Klinik für Allgemein-, Viszeral- und endokrine Chirurgie - Dr. med. Uwe Markert - HEK",
-      "summary_de": "Klinik für Allgemein-, Viszeral- und endokrine Chirurgie - Dr. med. Uwe Markert &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQRkV3VHJUUWhMR2kyQWlzXzQ1M2x3Q3dBSGFPZmlZa1JRMlpXSU1IUEd3dl9aWGd2RldnOTNyMmlXX0o1ZGxZbjR0Y3JoT1puMjVrYUV1WUt3am5DX1NPVnEtV1VuV3RxUnZhU0FuaFFKcl8tM2xOZTctQmhrcHNQQ01pMzFHYnE1T1RQYUJoS04tT1dHc0dqcXhrbnFZeGdWbTFtVTQ1dS1DQnBXUFpROG5vZGVqMHRFWGdrS05vcEhGLVpRZVRUdE9SZEhvYjg0cklJSUl1M0FvWk9Tek54UktWQ1N1X0lmT2FBNXVjdzMxQ1dvTVhjeGhTQk5GU2dZa0QxWXAtXzU1emdPeVM0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-05T16:53:26+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1035,6 +1075,46 @@
       "type": "News"
     },
     {
+      "title": "DL segmentation of chest muscle volume shows promise for COPD patients",
+      "summary_de": "Deep learning (DL)-based muscle volume assessment from routine CT scans could help identify COPD patients with comorbid sarcopenia...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15818917/dl-segmentation-of-chest-muscle-volume-shows-promise-for-copd-patients",
+      "published_at": "2026-03-05T08:56:21+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "ECR: 'Black swan events' demand informed imaging infrastructure",
+      "summary_de": "Experts discuss how to plan for \"black swan events\" -- that is, battlefield and mass casualty incidents.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15818839/ecr-black-swan-events-demand-informed-imaging-infrastructure",
+      "published_at": "2026-03-05T08:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "ECR: Integrating actionable reporting into the imaging workflow",
+      "summary_de": "Radiologists can promote actionable reporting by avoiding common pitfalls and communicating with referrers.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/practice-management/article/15818831/ecr-integrating-actionable-reporting-into-the-imaging-workflow",
+      "published_at": "2026-03-05T08:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "HPI: Workforce attrition higher in radiology subspecialties",
+      "summary_de": "Subspecialties are an area of particular concern within the trend of increased radiology workforce attrition.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/practice-management/careers/article/15818815/hpi-workforce-attrition-higher-in-radiology-subspecialties",
+      "published_at": "2026-03-05T07:53:59+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Formel 1 in Melbourne: Aston Martin vibriert stark, Adrian Newey sorgt sich um Gesundheit der Fahrer - Spiegel",
       "summary_de": "Formel 1 in Melbourne: Aston Martin vibriert stark, Adrian Newey sorgt sich um Gesundheit der Fahrer &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
@@ -1081,16 +1161,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVjd5U09jZDFwT252b1JHR3llNTJ0LURZM0luSlR6Uy01S0N6aFdTT2ZsQ3ljVGZfTXZyTjctU05SZjhlQUNwTjcyY2tOM0xHcWZ6TE9XemxXb3d1TzNkM2dOeXlQeTM1YUdPMXgycmNFY05HWWQ0RlhFT09qTkVra0pic0d3RXJfTVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-04T15:31:57+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Tierseuche - Zoo Stralsund schließt wegen Vogelgrippe - Gesundheit - SZ.de",
-      "summary_de": "Tierseuche - Zoo Stralsund schließt wegen Vogelgrippe - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSDE3d2NBd1g0YVVzVV9TQUtZUHA1VUZHeGROUlpzaFhNSU9BWEZ0YzZfdUVuRlVBcXd2b0E4YVBaXy1CNWZkdVdtcEdoR19LZG1HSjlPdU8xZ185cVZiVEpPWm5pTkVTd3UzRlh6UjM4N3dlTDhLV0VrX1hhczU3b3UtUTA5bS1KQnBXOTZWVS0zLU93VzZlM0NKN0EzVkVaRjBUMk1vTF9kT3A1NnZoQmRXeHlkWk0zNEVsVU9NR2ZWenh0aThXaHd6bHJwR1JBOXpNSTRIcGY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-04T15:25:42+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1157,6 +1227,16 @@
       "type": "News"
     },
     {
+      "title": "AI model shows promise for reading CT scans like a radiologist would",
+      "summary_de": "null",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15818808/ai-model-shows-promise-for-reading-ct-scans-like-a-radiologist-would",
+      "published_at": "2026-03-04T09:11:13+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "TK-Chef Baas zum KHAG: ”Mas­sive Ausnahmen schwä­chen Reform - der Ball liegt nun bei den Ländern” - Techniker Krankenkasse",
       "summary_de": "TK-Chef Baas zum KHAG: ”Mas­sive Ausnahmen schwä­chen Reform - der Ball liegt nun bei den Ländern” &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
@@ -1185,16 +1265,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Personal | Kliniken für Innere Medizin | St. Josef-Hospital Bochum in 44791 Bochum - HEK",
-      "summary_de": "Personal | Kliniken für Innere Medizin | St. Josef-Hospital Bochum in 44791 Bochum &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObFg0SUlaUXE5dHd3d1JWTFRLNUNZTDR6Vk11d3Q5VE1ZdkVBclhBU0pGSUpnZEc0ZElYZ1RCYklXMWgtMy1VWS1mZ3dyVzF6OEU4cG5xcG9uLVV6YXZLV2kyU05PMnBQSWF3NkJPQ3Qwd05LVG5DNFZfcU9zMmMwQ0Nxc0pPSUZsbmdWbk83TmtRTFNxd0k4a1FzOHg3MTFKQ1RtRHBYZVVFMzFITlRyS3ZSNWlqQ3Jna0pWRlNYRnlKMHFpSGhtRDZTYXBISU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-03T19:21:36+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Flächendeckende Arzneimittelversorgung sichern: Differenzierte Vergütungsregelungen anstatt pauschaler Erhöhung des Packungsfixums",
@@ -1263,6 +1333,16 @@
       "type": "News"
     },
     {
+      "title": "Klinik und Poliklinik für Neurologie - HEK",
+      "summary_de": "Klinik und Poliklinik für Neurologie &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWVBZU3g2ajRYRldoUG9UZFBRaUV3RFdCeDBfM1VvYXBodWZTVEpGcnFUNVJldXFKTlhoSUpaSTIxemNCZE1wc1pHY2p6eThrcFNZb3pscjc0U1Z6ekZqS0I3YVpSTEFCTkhlSm84UVhDRUwteUpvSmtSR1pXQUprdEpYM21HQnZIbkFMWlI5RXVXZDRReGZ6a1F2VlJvX3dkSUFaODhMRUZaQnFlRTdIb1ZtOUJxMmlrYWxENDZ4dmNfZ1VTU21TOG5HVTJCa0puelhnc0o3Tkt1eXBsMmRqMndOZmJYdjR0V2t0RnRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-02T08:09:17+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Artificial intelligence‐enabled electrocardiography to predict impending episodes of ventricular tachycardia in individuals under continuous heart rhythm monitoring",
       "summary_de": "Artificial intelligence‐enabled electrocardiography to predict impending episodes of ventricular tachycardia in individuals under continuous heart rhythm monitoring",
       "source_name": "Cochrane Library RSS feed.",
@@ -1315,32 +1395,12 @@
       "type": "News"
     },
     {
-      "title": "Personal | Klinik für Geriatrie | AMEOS Klinikum St. Clemens Oberhausen in 46145 Oberhausen - HEK",
-      "summary_de": "Personal | Klinik für Geriatrie | AMEOS Klinikum St. Clemens Oberhausen in 46145 Oberhausen &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUzVpejZGNjNWV1VMQXJNYUVJcVZ5QTNpN0Fza21uZTlqNm5zMEtaekcyel96S3FwZ05Vc3NrNThwemJVY1JMSTMzUVJEcUVBYUNQRG5rRHRhYmowTmFEdmNiWm80djk3dlZLZlVQR0NWRGsxQi1pX29wVVZUU1pHOUU1UjFJMDRwelI4YW1XQ2FjcXU4Y3Q5R0dGRHVMdlFZM21WaHB5TUlaRGQ1TGtYeWhNYUVoU3cxZ2xpRzhZaU8xVTFKcmEwcmpWWGtvTVZCdy1TNzhUQ1c1QXM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-28T03:47:28+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "ADHD Management Information - February 2026",
       "summary_de": "Attention deficit hyperactivity disorder (ADHD) is defined by the World Health Organization as being characterised by a persistent pattern of inattention and/or hyperactivity-impulsivity that has a direct negative impact on academic, occupational, or social functioning, the level of which is outside the limits of normal variation expected for age and level of intellectual functioning. Historically there has been no specific …",
       "source_name": "Publication Feed",
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-adhd/february-2026",
       "published_at": "2026-02-27T14:06:17+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Klinik für Pathologie Sana Kliniken Düsseldorf GmbH, Krankenhaus Gerresheim Gräulinger-Str. 120, 40625 Düsseldorf - TK-Klinikführer",
-      "summary_de": "Klinik für Pathologie Sana Kliniken Düsseldorf GmbH, Krankenhaus Gerresheim Gräulinger-Str. 120, 40625 Düsseldorf &nbsp;&nbsp; TK-Klinikführer",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZDIzeksxdVRzR04xNUcyX0d5QlowUWxpQ2U5TGNHczBKR001eTNQWlNxUHVEREpfOEJ4WDhJbXcyN295WG11ZGhkOTJsZV9MYTdnRFVvYmlWSTQ1NmlEMndLVkZ4eUMyUGFjcUwxYkpUX2FBclFLOWNabE5VUko2d3ZESktsSWFpdUV0T3dUd3dycWprRFpqNmctN0dvZDduTXZRT1B6bXZBUjItaHBuNGNVSDJBM1dlTlpva21HVTQxSjBvMXg3VjFJeHdiVm5ZNmRPMUV2Qm1WcGlxbmZ6RC1UZmpnY3gya2VKbVlHVnMxWk9PVHJVbndiV0hySk9ILVM3OExKU0IxZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-27T13:42:49+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1447,6 +1507,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Klinik für Orthopädie, Unfallchirurgie und Wiederherstellungschirurgie - HEK",
+      "summary_de": "Klinik für Orthopädie, Unfallchirurgie und Wiederherstellungschirurgie &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQLVphZlhUdWZRdjdIdkxwWmJJdlpRUElPN1Frd1daTlplcWRVQ2FueVJhU18xNC1OUVBKUDN2em5qSWxEakYyZVBic2Jvd0Q5eG5jT0FSeXBiM1ppcEJCc0daZEpDN2xpSmUzcERldHNWbUdPaXJmczdPc2xzTTdrTkVyOWc5ZFZIZzhRX3BmczhLX0NKMkNpWVhGaUhyMHRHRlB5dXprTkdQQy1OV2dKbG1qZnRqMDVhdmEwOFZ1RlJFbEo2OVZsbjRPanktTDVSdWhYSlRiVVc1NmZiR0ZBTUhDNFpqYWN5RldMVUltSl9kTkUzWGNZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-26T23:13:20+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Apothekenreform: Apotheken vor Ort werden gestärkt, aber wirtschaftliche Mechanismen zur Abgabe von Arzneimitteln aufgeweicht",
@@ -1656,6 +1726,16 @@
       "type": "News"
     },
     {
+      "title": "Nuklearmedizin – Diagnosen und Behandlungen - Lindenhofgruppe AG",
+      "summary_de": "Nuklearmedizin – Diagnosen und Behandlungen &nbsp;&nbsp; Lindenhofgruppe AG",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tZ2tuYnFfckdsc0t3eFowYkFNOFdjQVBwclNSeEZoVDlRZVZPWW5La3EydDVOTDNrbEdvYl9rRU9IYzRwbHI0VHdEM1g3T294MGhNajVQcXM0S0ZzTGZFcjNHM2VqVG1zLUl4cDR3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-23T08:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Recruitment procedure opens for next Executive Director of the European Medicines Agency",
       "summary_de": "The vacancy notice for the next EMA Executive Director has been published in the Official Journal of the European Union, marking the beginning of the recruitment process for the…",
       "source_name": "News and press releases",
@@ -1666,8 +1746,8 @@
       "type": "News"
     },
     {
-      "title": "Krankenkasse für ein gesünderes Leben | BARMER - Barmer",
-      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; Barmer",
+      "title": "Krankenkasse für ein gesünderes Leben | BARMER - BARMER",
+      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-20T08:00:00+00:00",
@@ -1920,8 +2000,8 @@
       "type": "Studie"
     },
     {
-      "title": "Ihr Portal für Digitale Gesundheit - Barmer",
-      "summary_de": "Ihr Portal für Digitale Gesundheit &nbsp;&nbsp; Barmer",
+      "title": "Ihr Portal für Digitale Gesundheit - BARMER",
+      "summary_de": "Ihr Portal für Digitale Gesundheit &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDTWN3bVQtWVZ3X29IVmZUSGR2dXYzWlZiczJvT0NHVkNfdTBsdklrNE5fc1BOU2dVUFcyN01GMld4N3E2eGpLbnlzQlFPd21fUVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-16T08:00:00+00:00",
@@ -2311,32 +2391,12 @@
       "type": "News"
     },
     {
-      "title": "Klinik für Radiologie - HEK",
-      "summary_de": "Klinik für Radiologie &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQWDdhdnQ3am9GVGthdHlhaFVIZ3lLUy14aDVDN1MtNVg2SXRuSlBEWXdkRnhkSWhfa2t5ei1GOWpmUlE3SE5mR1l4UVJON1FJN3QxWXhrSFkwWVo5Q3dVQUNkS21nSFdYWlU5b0N4cFl1RGlFc3p0VDFGYkFPak5obk0wQXdROTdRR0FWUFB0U0toMWZZbWFSd2ZIUGZGZ2lJTGNzQjlJNVlVbVZtTjdPLTFQNVNHQlBlYXNSb01wQS1pUlpLNnBKeTNUS2V2bG1JNUdnR1NuQkRYMl9xdjZxV1VKX1JxbnRqczB0SnpBSDVYVUpNMzQta1N2Vi1wVDVvQ0ZN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-10T03:10:14+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Provisional safe level for cannabidiol as a novel food",
       "summary_de": "The European Commission considers that CBD qualifies as a novel food provided it meets the conditions of EU legislation on novel foods . Provisional safe level In an updated statement , EFSA’s expert Panel on Nutrition, Novel Foods and Food Allergens (NDA) set a provisional safe intake level for CBD of 0.0275 milligrams per kilogram of body weight per day …",
       "source_name": "EFSA | News",
       "source_url": "https://www.efsa.europa.eu/en/news/provisional-safe-level-cannabidiol-novel-food",
       "published_at": "2026-02-09T09:54:12+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Die Techniker - starke Leistungen mit Auszeichnung - Techniker Krankenkasse",
-      "summary_de": "Die Techniker - starke Leistungen mit Auszeichnung &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNDN4TFR6a1hKY3FIb0VFRFM1cV92dkFZcmpadGFkYTJVOTY4X1YzVEw2YmxDa21BSTBKU0NjSWhzem41VWJLY1F3ZWEweUFTRF9TOFVPVjhNYy14cWpNOHkzVFpSUEJ2bzZha0t3TG9yM2xNTlpLVGNBNDJqMUFOTk5tWnJJWHFUV25oeG5uRHBSRmphQVBJZ3h5cGJ4YllLYW5FQVNyWVhBWmJCZHJSQ2xRa0FqaXR5LTV2X09UYzQ2cTRCX1VjMFpVU00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-06T08:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2371,8 +2431,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Haldensleben - Barmer",
-      "summary_de": "BARMER Krankenkasse in Haldensleben &nbsp;&nbsp; Barmer",
+      "title": "BARMER Krankenkasse in Haldensleben - BARMER",
+      "summary_de": "BARMER Krankenkasse in Haldensleben &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMEpYclQxNFdvVkxxS0xXSUxzdVotR0FKellhM2R4LUlpUU5CZ05fdDBtZ25WUWlHOWlvU1hyYWhIQ1pSSllZeVcyeTZ4WmNzb2pQdzNOOEpHYy1IQ05namZ4S0ViSVNXWEVqQV9LM1h5Y21jZXFOQ0NhVHJDLWcyX19EWkl0NlJiM3pVcFBjZWlrRUg1Um5mRlRfS3ZmLXRBbHVDUWttcmdzWFc4VmZVZlF5SGlmMUZGdnJySEtiekFWUkE5aUd1ZkVaUEkzdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-04T08:00:00+00:00",
@@ -2397,16 +2457,6 @@
       "source_url": "https://iqtig.org/presse/pressemitteilungen/news/iqtig-erstmals-iso-zertifiziert-gutachter-bestaetigen-hohe-qualitaetsstandards-des-iqtig/",
       "published_at": "2026-02-02T12:39:00+00:00",
       "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Neues CT stärkt Radiologie an der Medizinischen Universität Lausitz - NIEDERLAUSITZ aktuell",
-      "summary_de": "Neues CT stärkt Radiologie an der Medizinischen Universität Lausitz &nbsp;&nbsp; NIEDERLAUSITZ aktuell",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRTNETkg4VnhranRjQVRsZEtCaGhteTNrWS1kTW9VTmFJZnJaWjI5X0tHT1F1aUR0cFlqTUl3ODQxNVViOVVGSFNqaWtJT1ZfMnBENmdJb1BJZVJ2TU8xSW1NZ0dBZkZXOXFoeC1pSWtyYmdUbTZZYy0ydHBZOVkteC1tb0dqQlJIZU85THpmUG1kR1lzVzV3dUcxZEM1MmhXWWtIVmh0cGJWdVhKUTdRZFpRUGQzLWlYQUFScUFyUjZaeDdxUndaMGFYek5fTkVhejZkS254cVlNWGtidTNpOFFRbUk4ZTE0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-30T08:00:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -2452,16 +2502,6 @@
       "tags": [
         "Versorgung"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Spezialist/-in Business Continuity Management - Risikomanagement (m/w/d) - DAK-Gesundheit",
-      "summary_de": "Spezialist/-in Business Continuity Management - Risikomanagement (m/w/d) &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN1ktbDE0TU9waDVmdHNlWUxQdzZUaUVfVVVuMzFLRnF1bHJlT0s3TnBWSm42b09JUGItN2txVDFQTC16ckhGVGJDMGQtT3lpS0s5R0U4d29EVTloZUVhSEdCLXVXWlBfTUp6ZHY1SWtZdUVkd0tnei1SVGF3cHlWeFVWa3VBUU1nU2lmVU03T1NJWDRpWjNyUzZPNm1taHBoZHpRV1hIQVlxUHdnM2xPMGE5YnpMMm9SOThJY2FWdTZ2Um8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-01-28T01:17:31+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     }
   ],
