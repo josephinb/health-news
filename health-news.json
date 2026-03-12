@@ -1,15 +1,397 @@
 {
-  "generated_at": "2026-03-12T06:44:19.464179+00:00",
+  "generated_at": "2026-03-12T09:35:55.866875+00:00",
   "window_days": 42,
-  "count": 197,
+  "count": 251,
   "items": [
     {
-      "title": "Zehn Jahre nach Diebstahl: Teure Technik zurück in Klinik - SZ.de",
-      "summary_de": "Zehn Jahre nach Diebstahl: Teure Technik zurück in Klinik &nbsp;&nbsp; SZ.de",
+      "title": "NHS Talking Therapies Monthly Statistics Including Employment Advisors, Performance January 2026",
+      "summary_de": "This statistical release makes available the most recent NHS Talking Therapies for anxiety and depression monthly data, including activity, waiting times, and outcomes such as recovery.NHS Talking Therapies is run by the NHS in England and offers NICE-approved therapies for treating people with depression or anxiety. This release also includes statistics about NHS Talking Therapies employment advisor services.We hope this …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-talking-therapies-monthly-statistics-including-employment-advisors/performance-january-2026",
+      "published_at": "2026-03-12T09:35:14+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Mental Health Services Monthly Statistics, Performance January 2026",
+      "summary_de": "This publication provides the timeliest picture available of people using NHS funded secondary mental health, learning disabilities and autism services in England, excluding those who are solely in contact with Talking Therapies. This information will be of use to people needing access to information quickly for operational decision making and other purposes. More detailed information on the quality and completeness …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mental-health-services-monthly-statistics/performance-january-2026",
+      "published_at": "2026-03-12T09:31:59+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Provisional Accident and Emergency Quality Indicators for England, January 2026, by provider",
+      "summary_de": "Provisional Accident and Emergency Quality Indicators for England, January 2026, by providerThe measures included in this publication report on data coverage in ECDS compared with the emergency monthly situation reports MSitAE published by NHS England and NHS Improvement. They also report statistics for total time in A&amp;E, time to assessment, time to treatment, A&amp;E attendances that left before treatment and …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/provisional-accident-and-emergency-quality-indicators-for-england/january-2026-by-provider",
+      "published_at": "2026-03-12T09:31:54+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Patients Registered at a GP Practice, March 2026",
+      "summary_de": "Data for this publication are extracted each month as a snapshot in time from the Primary Care Registration database within the PDS (Personal Demographics Service) system. This release is an accurate snapshot as at 1st March 2026.Figures are reported by gender and single year of age (SYOA) and five-year age bands (up to age 95+) at GP Practice, Primary Care …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/patients-registered-at-a-gp-practice/march-2026",
+      "published_at": "2026-03-12T09:31:50+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Summary Hospital-level Mortality Indicator (SHMI) - Deaths associated with hospitalisation, England, November 2024 - October 2025",
+      "summary_de": "This publication of the SHMI relates to discharges in the reporting period November 2024 - October 2025.The SHMI is the ratio between the actual number of patients who die following hospitalisation at the trust and the number that would be expected to die on the basis of average England figures, given the characteristics of the patients treated there. The SHMI …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/shmi/2026-03",
+      "published_at": "2026-03-12T09:31:41+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Integrated Urgent Care Aggregate Data Collection (IUC ADC) for February 2026 (Provisional statistics)",
+      "summary_de": "Integrated Urgent Care (IUC) describes a range of services including NHS 111 and Out of Hours services, which aim to ensure a seamless patient experience with minimum handoffs and access to a clinician where required.This data is published on the NHS England website. Please follow the link below.",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-integrated-urgent-care-aggregate-data-collection-iuc-adc/for-february-2026",
+      "published_at": "2026-03-12T09:31:37+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "2-hour Urgent Community Response Performance metrics for January 2026 (provisional), and December 2025 (final)",
+      "summary_de": "The 2-hour urgent community response (UCR) monthly key performance indicators are focused on the delivery of UCR services in England. The data is collected through the community services dataset (CSDS).The indicators include:The percentage of 2-hour UCR referrals that achieved the 2-hour standard in the reporting month The number of 2-hour UCR referrals in scope of the 2-hour standard that were …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-2-hour-urgent-community-response-performance-metrics/for-january-2026-provisional-and-december-2025-final",
+      "published_at": "2026-03-12T09:31:35+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Waiting List Minimum Data Set for week ending 22 February 2026",
+      "summary_de": "The Waiting List Minimum Dataset (WLMDS) is a weekly data collection relating to demand, activity and waiting lists for elective care.Providers of NHS services that fall within the scope of Referral to Treatment (RTT), such as acute trusts, specialist trusts and any other provider of consultant-led services for NHS patients (including independent sector providers) submit data weekly to NHS England.This …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-waiting-list-minimum-data-set/for-week-ending-22-february-2026",
+      "published_at": "2026-03-12T09:31:33+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Waiting times for suspected and diagnosed cancer patients for January 2026",
+      "summary_de": "These reports provide information on the waiting times of people referred with suspected cancer or breast symptoms and subsequently told the outcome of their diagnosis, and treated for cancer by the NHS in England.This data is published on the NHS England website. Please follow the link below.",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-waiting-times-for-suspected-and-diagnosed-cancer-patients/for-january-2026",
+      "published_at": "2026-03-12T09:31:31+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Venous Thromboembolism (VTE) Risk Assessment Quarterly Publication, Q3 2025/26",
+      "summary_de": "The data collection was first made mandatory from June 2010 and data has been published quarterly from the first full quarter’s data (July to September 2010). From April 2019 there will be a change to the data collection to include 16 and 17 year old patients.This data collection asks for the following information:1. Number of admitted patients (aged 16 and …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-venous-thromboembolism-vte-risk-assessment-quarterly-publication-revisions/q3-2025-26",
+      "published_at": "2026-03-12T09:31:31+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Virtual Ward Capacity and Occupancy statistics for February 2026",
+      "summary_de": "Virtual wards (also known as hospital at home) allow patients to get the care they need at home safely and conveniently, rather than being in hospital. This includes either preventing avoidable hospital admissions or supporting people to safely leave hospital sooner.Systems are asked to continue to embed, standardise and scale virtual ward capacity, ensuring that local virtual ward services are …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-virtual-ward-capacity-and-occupancy-statistics/for-february-2026",
+      "published_at": "2026-03-12T09:31:28+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "UEC Bed Availability & Occupancy for February 2026",
+      "summary_de": "Daily returns are collected from acute trusts and includes data bed availability for adult and paediatric general and acute beds – split by Core and Escalation beds, as well as adult critical care, paediatric intensive care and neonatal critical care. The data also includes counts of patients with a Length of Stay (LOS) of 7+, 14+ and 21+ days.The publication …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-uec-bed-availability--occupancy/for-february-2026",
+      "published_at": "2026-03-12T09:31:27+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Integrated Urgent Care Aggregate Data Collection (IUC ADC) for January 2026 (Official statistics)",
+      "summary_de": "The IUC ADC became the official source of IUC statistics in April 2021, when the NHS 111 Minimum Dataset (NHS 111 MDS) was merged into a revised version of the IUC ADC. Since then, a provisional subset of the IUC ADC data is published in the month after the collection end date (eg, April data published in May), with the …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-integrated-urgent-care-aggregate-data-collection-iuc-adc/for-january-2026",
+      "published_at": "2026-03-12T09:31:26+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Mixed Sex Accommodation breaches for January 2026",
+      "summary_de": "The NHS Operating Framework for 2012-2013 confirmed that all providers of NHS funded care are expected to eliminate mixed-sex accommodation, except where it is in the overall best interest of the patient.From 1 December 2010, the collection of monthly Mixed-Sex Accommodation (MSA) breaches was introduced. NHS organisations submit data on the number of occurrences of unjustified mixing in relation to …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-mixed-sex-accommodation-breaches/for-january-2026",
+      "published_at": "2026-03-12T09:31:23+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "A&E attendances and emergency admissions for February 2026",
+      "summary_de": "The Weekly and Monthly A&amp;E Attendances and Emergency Admissions collection collects the total number of attendances in the specified period for all A&amp;E types, including Urgent Treatment Centres, Minor Injury Units and Walk-in Centres, and of these, the number discharged, admitted or transferred within four hours of arrival.",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-ae-attendances-and-emergency-admissions/for-february-2026",
+      "published_at": "2026-03-12T09:31:22+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Diagnostic waiting times and activity for January 2026",
+      "summary_de": "The monthly diagnostics collection collects data on waiting times and activity for 15 key diagnostic tests and procedures.This data is published on the NHS England website. Please follow the link below.",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-diagnostics-waiting-times-and-activity-data/for-january-2026",
+      "published_at": "2026-03-12T09:31:20+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Ambulance Quality Indicators Systems Indicators for February 2026",
+      "summary_de": "This contains the Ambulance Systems Indicators (AmbSYS) for all eleven Ambulance Services in England.This data is published on the NHS England website. Please follow the link below.",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-ambulance-quality-indicators-systems-indicators/for-february-2026",
+      "published_at": "2026-03-12T09:31:19+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Ambulance Quality Indicators Clinical Outcomes for October 2025",
+      "summary_de": "This contains the Ambulance Clinical Outcomes (AmbCO) for all eleven Ambulance Services in England.This data is published on the NHS England website. Please follow the link below.",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-ambulance-quality-indicators-clinical-outcomes/for-october-2025",
+      "published_at": "2026-03-12T09:31:17+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Timeliness of Acute Hospital Discharges (Discharge Ready Date) for January 2026",
+      "summary_de": "The suite of metrics report on the percentage of discharges within certain thresholds and the total bed days after discharge ready date for patients discharged within certain thresholds.Data are shown at national and provider organisation level.This dataset is for all acute trusts and more information on the metrics and exclusions can be found in the technical guidance file further down.This …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-timeliness-of-acute-hospital-discharges-discharge-ready-date/for-january-2026",
+      "published_at": "2026-03-12T09:31:16+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Supplementary ECDS Analysis January 2026 (Final)",
+      "summary_de": "ECDS allows NHS England to provide information to support the care provided in emergency departments by including the data items needed to understand capacity and demand and help improve patient care.The Emergency Care Data Set (ECDS) collects information about why people attend emergency departments and the treatment they receive to:improve patient care through better and more consistent information allow better …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-supplementary-ecds-analysis/january-2026-final",
+      "published_at": "2026-03-12T09:31:14+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Supplementary ECDS Analysis February 2026 (Provisional)",
+      "summary_de": "ECDS allows NHS England to provide information to support the care provided in emergency departments by including the data items needed to understand capacity and demand and help improve patient care.The Emergency Care Data Set (ECDS) collects information about why people attend emergency departments and the treatment they receive to:improve patient care through better and more consistent information allow better …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-supplementary-ecds-analysis/february-2026-provisional",
+      "published_at": "2026-03-12T09:31:12+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Specialist Advice Activity to January 2026",
+      "summary_de": "Monthly specialist advice activity returns are collected from Integrated Care Boards (ICBs) as part of the System Elective Recovery Outpatient Collection (System EROC).The data are available by ‘type of specialist advice’. For the purposes of this data collection, the different types are categorised as:Pre-referral Advice & Guidance (A&amp;G) Post-referral triage services that offer specialist advice Other equivalent models.Specialist Advice facilitates …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-specialist-advice-activity/to-january-2026",
+      "published_at": "2026-03-12T09:31:10+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Referral to treatment waiting times statistics for consultant-led elective care for January 2026",
+      "summary_de": "Monthly RTT waiting times data has been published since March 2007. Initially data was only published for cases where patients started treatment during the month and the treatment involved admission to hospital (completed admitted pathways). Completed non-admitted pathway data (cases where patients completed their RTT pathway during the month for reasons other than an inpatient or day case admission to …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhse-referral-to-treatment-waiting-times-statistics-for-consultant-led-elective-care/for-january-2026",
+      "published_at": "2026-03-12T09:31:09+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Delayed Discharges in an acute setting for February 2026",
+      "summary_de": "The Intermediate Care Data Collection was introduced on 29 July 2024, and was previously the Community Daily Discharge Sitrep. Amendments were made to ensure alignment with the Intermediate Care Framework and improve the insight available to systems, regions and nationally, to support demand and capacity planning and service improvements.The Intermediate Care data collection has comparable data with the Community Daily …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-delayed-discharges-in-an-intermediate-care-setting/for-february-2026",
+      "published_at": "2026-03-12T09:31:08+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Delayed Discharges in an acute setting for February 2026",
+      "summary_de": "Daily returns are collected from acute trusts through the COVID-19 acute daily discharge situation report (sitrep) and include data on daily discharges from acute settings.The publication contains management data which has been set up for COVID-19 incident management and collected on a rapid turn-round basis from the NHS. The speed of the collection only permits minimal validation to be undertaken …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-delayed-discharges-in-an-acute-setting-for-march-2025/for-february-2026",
+      "published_at": "2026-03-12T09:31:07+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Community health service waiting lists for January 2026",
+      "summary_de": "This publication contains monthly information on waiting lists and times for community health services in England.",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-community-health-service-waiting-lists/for-january-2026",
+      "published_at": "2026-03-12T09:31:06+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Category 2 Ambulance Response Times by ICB",
+      "summary_de": "For our accredited official statistics on ambulances, see the Ambulance Quality Indicators landing page.Additional spreadsheets will be published below according to the same AmbSYS timetable on the AQI landing page above. They are classified as management information because the contents have been collected with a tight turn round time.",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-category-2-ambulance-response-times-by-icb/march-2026",
+      "published_at": "2026-03-12T09:31:04+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Ambulance Handover Times by Acute Trust",
+      "summary_de": "Handover times can be found below and are statistical releases produced by the NHSE.",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-ambulance-handover-times-by-acute-trust/march-2026",
+      "published_at": "2026-03-12T09:31:03+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "NHS 111 online statistics, February 2026",
+      "summary_de": "NHS 111 online (https://111.nhs.uk/) is a fast and convenient alternative to the 111 phone service for people who want to access 111 digitally.Data from 111 online were first published as Management Information in July 2023. This means that the publication is not badged as Official Statistics but every effort is still made to adhere to the Code of Practice for …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhse-111-online/february-2026",
+      "published_at": "2026-03-12T09:31:02+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "National Diabetes Inpatient Safety Audit 2024-25",
+      "summary_de": "The National Diabetes Inpatient Safety Audit (NDISA) dashboard covers submissions of diabetes-specific inpatient harms in England and Wales between November 2024 and October 2025.",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/national-diabetes-inpatient-safety-audit-ndisa/national-diabetes-inpatient-safety-audit-2024-25",
+      "published_at": "2026-03-12T09:31:00+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Lungenkrebs: Photonen-CT ist konventioneller CT überlegen – News - Deutsches Ärzteblatt",
+      "summary_de": "Lungenkrebs: Photonen-CT ist konventioneller CT überlegen – News &nbsp;&nbsp; Deutsches Ärzteblatt",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQXdIZGlyU3dabGpkYk85NGFkUjhrQzg1VWFVZlFPaXE4NVBBUjBNTWtSMDRHeEY1dmNYZllkM2pkMVB3ZDZnaG9rWjhya0NhaDV3dDNud1gtMWRLbk03SGpfMS0xUHN5ZHNoWmNpb1ZpSmdVSmM5MkdoQzNiR0wxcy1WcWVydU04cEZUbHhwUkFQSnhPNHZ6cnFDUFBQMFlEUVFrYXlpb2FCVXhFSjBMMDVLRVZmTm5MX0VVaUlCMFFacWZaNW54b1RJbGJCTHA0TTF6cUhNX0ZsZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-12T09:29:14+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Provisional Monthly Hospital Episode Statistics for Admitted Patient Care, Outpatient and Accident and Emergency data, April 2025 - January 2026",
+      "summary_de": "Hospital Episodes Statistics (HES) is a data warehouse containing records of all patients admitted to NHS hospitals in England. It contains details of inpatient care and outpatient appointments. Hospital episode statistics (HES) statistics are produced and published on a monthly basis. The data are provisional and should therefore be treated as an estimate until the final National Statistics annual publications.",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/provisional-monthly-hospital-episode-statistics-for-admitted-patient-care-outpatient-and-accident-and-emergency-data/april-2025---january-2026",
+      "published_at": "2026-03-12T09:29:07+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "MHRA approves deuruxolitinib (Leqselvi) to treat severe alopecia areata in adults",
+      "summary_de": "As with any medicine, the MHRA will keep the safety and effectiveness of deuruxolitinib under close review.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/news/mhra-approves-deuruxolitinib-leqselvi-to-treat-severe-alopecia-areata-in-adults",
+      "published_at": "2026-03-12T09:28:09+00:00",
+      "category": "Studie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "Studie"
+    },
+    {
+      "title": "Arbeitsrecht: Was Apothekenangestellte zum Protesttag wissen müssen",
+      "summary_de": "Am 23. M&auml;rz beteiligen sich viele Apotheken bundesweit an einem Protesttag, um auf ihre zunehmend schwierige wirtschaftliche Lage aufmerksam zu machen. Die Gewerkschaft Adexa erkl&auml;rt, was dieser Tag arbeitsrechtlich f&uuml;r Angestellte bedeutet und warum es sich nicht um einen Streik, sondern um einen Protest&nbsp;handelt.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/was-apothekenangestellte-zum-protesttag-wissen-muessen-163538/",
+      "published_at": "2026-03-12T08:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Baden-Württemberg: Protest auf eigene Verantwortung",
+      "summary_de": "Das Sozialministerium Baden-W&uuml;rttemberg sieht keinen berechtigten Grund f&uuml;r Apothekenschlie&szlig;ungen am 23. M&auml;rz. Daher erteilt die Kammer keine Genehmigungen. Jetzt macht auch der Verband einen halben R&uuml;ckzieher &ndash; gibt aber Tipps f&uuml;r die Proteste.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/protest-auf-eigene-verantwortung-163539/",
+      "published_at": "2026-03-12T07:24:09+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Exit-Strategie nötig: Engagierte Menschen erschöpfen schneller",
+      "summary_de": "Wer zuverl&auml;ssig ist und st&auml;ndig organisiert, plant und l&ouml;st, zahlt daf&uuml;r nicht selten einen Preis. Warum Menschen in eine Verantwortungsspirale geraten und wie sie aussteigen k&ouml;nnen, erl&auml;utert eine &Auml;rztin.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/engagierte-menschen-erschoepfen-schneller-163428/",
+      "published_at": "2026-03-12T07:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Großhandel: Manuel Kuhn neuer Sanacorp-Vorstand",
+      "summary_de": "Wechsel im Vorstand der Sanacorp: Manuel Kuhn folgt am 1. Juli 2026 auf Frank Hennings als Vorstand Handel beim genossenschaftlichen Gro&szlig;h&auml;ndler. Kuhn verantwortet damit den Vertrieb, strategischen Einkauf, die Mea-Kooperation sowie das Produkt- &amp; Servicemanagement.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/manuel-kuhn-neuer-sanacorp-vorstand-163479/",
+      "published_at": "2026-03-12T07:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "GKV: Mehr Rentner und mehr Teilzeit werden zum Problem für Krankenkassen - Handelsblatt",
+      "summary_de": "GKV: Mehr Rentner und mehr Teilzeit werden zum Problem für Krankenkassen &nbsp;&nbsp; Handelsblatt",
+      "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc3NFV0dwR2dLT2JjUmRkUE5RQm53MXFuUDhXQ3dmV2QxSDBxcTFFMk4zeDJUczB2cFJGWjFtVkd2V0tfa0Q0Z3dndkpkdTNpazU0MmNqMmtQcW9EVDBnbms4V1lJQy1XeVdaVFJtSXUtSnZFXzViRU5RWW1sWURabm41TllXSjJvZFhtY0RCNnl0czZ4VlgxUmt3YVB0TEJHTjF2RnNrdVdodWN3OFJEZFExX1p0WjZhUmJ0RW9jX0V0V1Z0NS0yaW1HMnJWbW16ZnE0Z3Zn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-12T06:53:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Diebe in ganz Europa aktiv - Zehn Jahre nach Diebstahl: Teure Technik zurück in Klinik - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Diebe in ganz Europa aktiv - Zehn Jahre nach Diebstahl: Teure Technik zurück in Klinik - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZGVyQ0NsLWF1VlFYVnpleFMzSEVhZHU0XzFpRkVCNVcxbDdCa3Q2ZHhJdER6S0ZJQUN1MlBlSUQ0TG5UTVNfbmRBcTF0QnhLa0NiS3NuZ09fbE5tai05R3JZcXdqQmx1RmtXWFJ2R0gtWTJzX3FxX09ROEQ3NnRXTFJKZDk5Z1JwX0kyMXFQTV9uTGIxTHFJSk5reElkMGpHYUVqN21iaEFmQlF6eXFnaWt4VllUNmhBSERrV1d3N29ZYXF1SnVSZk95cWRNTGJWUVZaLXVyRDJhcE9fVVhISl8wX1M1RTdEUFRBMGRVdjYxWEUtbGhzZUVVMUlGN2daMW1v?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-12T06:32:48+00:00",
-      "category": "News",
+      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -59,6 +441,16 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOXzZvVWJiVW04ZnFSOGRlQ1VnWkJSREpybTR3SC1kUGdLSzRvcmpZaTlTM0FaUjBWaXZ1TTg5Qk5vdkRGbFkyQ2Z2UVJqTjg2NjhmUlhhQmhhSUpjT1Q2YzFCYXZpbjhEWXpXQTBQVGVIRUJFSGZWdjNncnRYQzM3NUZZV1R3TmtMUUdKb3d6TUdrSWctclozTlQ0X05vemFKcUtwcFNCVGdZNjlyU0VDTUxiQi1wMk10UXJSNE9YWlZ5aUU3VTl0czFmcFNZUGQxUFFHaWhEcWtCNUlq?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-12T03:00:28+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheitsversorgung - Arztdichte in Sachsen leicht gestiegen - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Gesundheitsversorgung - Arztdichte in Sachsen leicht gestiegen - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcW5uUmRnMTIwVEV3eS13X2hqa3d0RkVtWktDU1YtUWFMdEVtVXk2bnR2Mk00ZGJ0b2JzS0RFRVdnT1pxMFpISUpobGd2VVJweldNWGlXUy1HMHhma2F6dGhFejVnSDlLd0VMMXJOWVRNTHZyRFhKSE5xcGtVY2xOT0FvM1lWbmI5cnh3bEVHcWNWZDRUT2hVOHVvMkY3TXItOEhjdDNTZkpuR0pqNEU4YU1oTFlUN0d0Y3BDeTFXS3FqRDg4eHk4NjdyZ0tUQng3MldnNWY2TFBGOHN1UEp3a3FTUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-12T03:00:20+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -224,6 +616,16 @@
       "type": "News"
     },
     {
+      "title": "[MI] NHS Productivity Growth Estimates - November 2025",
+      "summary_de": "This publication contains the monthly NHS Productivity Growth Estimates for the period April 2025 to November 2025, which in financial terms is described as Month 8 year-to-date (YTD). It estimates the change, compared with the same period in the previous year, for the following: activity (cost‑weighted), resource use (in real terms), and productivity.The tables included in this publication present NHS …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhs-productivity-growth-estimates/november-2025",
+      "published_at": "2026-03-11T14:13:28+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Proteste: Preis ruft zur Geschlossenheit auf",
       "summary_de": "In gut zwei Wochen werden die Apothekenteams erneut protestieren, um Bundesgesundheitsministerin Nina Warken (CDU) in ihrer Honorarzusage zu unterst&uuml;tzen. Man sei in einer entscheidenden Phase der Reform, betont ABDA-Pr&auml;sident Thomas Preis in einer Videobotschaft und ruft die Apothekenteams zur Protestbeteiligung auf.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -314,6 +716,16 @@
       "type": "News"
     },
     {
+      "title": "Länger leben mit Nahrungsergänzungsmitteln – schön wär's ja - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Länger leben mit Nahrungsergänzungsmitteln – schön wär's ja - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZVlkcC1GdXRFdUZpdmtxMGtGdnRWcFBVVFhUY2hKUlZtWWIzX2IxNnFPbzlJZG02bU1mOVdYOEVlWGhkU1hDY3RfWkkyUmowa3lzS0owX1BpdWxSbnltTzMycEhaV1VMREhoel85dnM1aW42dzJwM1BuSVhZU2FGN2lMOWtJeG5GWWpBb3BJVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-11T12:54:11+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gesundheit - Mehr Organspender – Zahl reicht aber nicht aus - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Gesundheit - Mehr Organspender – Zahl reicht aber nicht aus - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -374,6 +786,16 @@
       "type": "News"
     },
     {
+      "title": "Machen Haustiere glücklich? - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Machen Haustiere glücklich? - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTTg1WVdMTmliZXlLZDJQVkx1dU8xSW1IRHBydEtaTkZNcVBKRTJzUkpmNTdmVjIxcW5BTGVGa3Nzb2xYUkE2amwwYU1aWmNRUTZqTnpOV2p0cG5yOV9mWWVvLUJOeWRlUjZBMjVrZWFTd2tLa1VEZ1hQSHJaQjJIQUl2TTdyZ3ZPdWxyXw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-11T10:26:02+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Jurist will Sonderprüfung: Bayerische Versorgungskammer unter Druck",
       "summary_de": "Sind die US-Fehlinvestitionen nur die Spitze des Eisbergs? Angesichts der millionenschweren Verluste der Bayerischen Versorgungskammer (BVK) mit US-Immobilien verlangen Anw&auml;lte mehr Transparenz und wollen eine unabh&auml;ngige Sonderpr&uuml;fung durchsetzen.&nbsp;",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -390,16 +812,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/sonnenschutz-richtig-machen-163496/",
       "published_at": "2026-03-11T10:00:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Suspended suits offer protection for interventional echocardiographers",
-      "summary_de": "Suspended lead suits reduce head-level radiation doses to interventional echocardiographers compared with traditional lead aprons...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ultrasound/article/15819343/suspended-suits-offer-protection-for-interventional-echocardiographers",
-      "published_at": "2026-03-11T08:37:28+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -436,16 +848,6 @@
       "type": "News"
     },
     {
-      "title": "GKV: Mehr Rentner und mehr Teilzeit werden zum Problem für Krankenkassen - Handelsblatt",
-      "summary_de": "GKV: Mehr Rentner und mehr Teilzeit werden zum Problem für Krankenkassen &nbsp;&nbsp; Handelsblatt",
-      "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMHJDc0hRa2Nwa1RsNlhsWFBWcU9HdDl2bGhzaTRWWHc3VmpmMG1GV1ptcmxzOEJoY2wyQ2dqUTlzTnB1S1BtbHc3dDZuRzd6OVluOEtnV2ZNb2JVdS12QmdWQ1JWZHI2VE83dHNqeWFiYjBLVlQxdFd5RTMzVUFTMmFTS25wZFYzdzdpdXFEcHhZWUdRRGlmTWJSZ2JWRGNyUS1PVGt1clNuLVoyLXU1T0lFdVM3QUJtaHo4cjdxQ29ZVUJIS1c4Q0lMdlhNOFhTT1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-11T07:47:02+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Herzinfarkt: Auch Nerven- und Immunsystem reden mit",
       "summary_de": "Nach einem Herzinfarkt k&ouml;nnen Sp&auml;tsch&auml;den wie eine Herzinsuffizienz auftreten. Bei deren Entstehung nimmt vermutlich das autonome Nervensystem eine Schl&uuml;sselrolle ein. Aber auch das Immunsystem mischt mit.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -456,32 +858,12 @@
       "type": "News"
     },
     {
-      "title": "Google AI Studio shows potential for AI-based lung cancer detection",
-      "summary_de": "The model identified lung malignancies and produced consistent, structured reports, but needs further refinement.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15819338/google-ai-studio-shows-potential-for-aibased-lung-cancer-detection",
-      "published_at": "2026-03-11T06:06:36+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Persönlichkeitsstudie: Den Charakter im Alter noch ändern? Geht!",
       "summary_de": "Was H&auml;nschen nicht lernt, lernt Hans nimmermehr. Oft hei&szlig;t es, die Pers&ouml;nlichkeit sei im Alter nicht mehr ver&auml;nderbar. Das stimmt nicht. An sozio-emotionalen Eigenschaften kann man ein Leben lang arbeiten &ndash; mit Erfolg.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/den-charakter-im-alter-noch-aendern-geht-163420/",
       "published_at": "2026-03-11T06:00:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Operation, die ausschließlich die Mitralklappe (Ventil zwischen dem linken Vorhof und der linken Herzkammer) betrifft und bei der der Brustkorb eröffnet wird (HCH_MK_CHIR) | Allgemein-,Viszeral- und Thoraxchirurgie | Krankenhaus Reinbek St.",
-      "summary_de": "Operation, die ausschließlich die Mitralklappe (Ventil zwischen dem linken Vorhof und der linken Herzkammer) betrifft und bei der der Brustkorb eröffnet wird (HCH_MK_CHIR) | Allgemein-,Viszeral- und Thoraxchirurgie | Krankenhaus Reinbek St.-Adolfstift in 2 &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQU19TMktWUVVFZ0pRX2gweFRfLUVVM3NzVF8waEd5VEFxc3gyWTQ5OGhOX1Jjcm9JODJLeGpzNkhiaW1uWEEtanRnT0VXaXEwVDBLek5LUDNHbzJDd3Y0UHQ0WlBCNjZiTDcwYUVqN3k0bHBIZDhSdFJVdlVfR093ZHRtcVJLS2RFSHNsZEdzdUFncFcwVWhyRWZLOEZpdmxaSmVsRmFXRDlRbTY2bTNOUHZHaDZLeVo0NU5SdDZSVG9iRF96LTh2SFdRZ0dHa0ZfNDNqY1FHeUpfTEhnb1ZBYkxmTkVienY4bzRsQWNDY19KYjNXNjU3UmJIVDJCczVYVkRwNEZySlM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-11T02:41:52+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -616,32 +998,22 @@
       "type": "News"
     },
     {
-      "title": "Kognitive Reserve: Vogelbeobachtung hält lange geistig fit",
-      "summary_de": "V&ouml;gel zu beobachten und die verschiedenen Arten unterscheiden zu lernen, ist f&uuml;r ornithologisch Begeisterte nicht nur ein spannendes Hobby, es k&ouml;nnte auch ihr Gehirn jung halten.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/vogelbeobachtung-haelt-lange-geistig-fit-163419/",
-      "published_at": "2026-03-10T14:00:00+00:00",
-      "category": "Wirtschaft",
+      "title": "Fitnessstudio: Studie zeigt gesunde Musiklautstärke - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Fitnessstudio: Studie zeigt gesunde Musiklautstärke - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWkFPVDVUYTRoelppX1RUMG1VemFvMWtrbGNiZHdTR3hONHNrRk0zWjN0LVF4ZnpTUWd3T2QzUFF4TFpCWHJVRFR2Y2pLZUNNUVN2NUxESWVGLWx1aFI2U0ZiWk1uM0xsVUFlTTRkS3pWTWszTlhlUHNHRG9lU2Y4WnZHcnZ3ZGFSQkJCUmxNZGJBMm53UWNYTnd3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-10T13:41:43+00:00",
+      "category": "Studie",
       "tags": [],
-      "type": "News"
+      "type": "Studie"
     },
     {
-      "title": "USA und WHO: Auswirkungen des Austritts auf die globale Gesundheit - SZ.de",
-      "summary_de": "USA und WHO: Auswirkungen des Austritts auf die globale Gesundheit &nbsp;&nbsp; SZ.de",
+      "title": "USA und WHO: Auswirkungen des Austritts auf die globale Gesundheit - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "USA und WHO: Auswirkungen des Austritts auf die globale Gesundheit - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRFdOcEpDRUlNZ0lNbUU1aXQ2WFJmaDRCZHJSWjJ5WXdXbzJLMnJ4RHc1X2ZPLVFEQXo2dlJtSk9GT28tTGlZY3dfYXZfN0Ria3UyTmdaVzBGV2tWRnJQVndnd0hyTDFPRnBjRGNxZXJoOUZaVDYzRkhIdF84QlNNLS1uU3o1amNkUFJHZTBJc0pGekxV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-10T13:38:48+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Prämenstruelles Syndrom: Helfen Vitamin D und E bei PMS?",
-      "summary_de": "Rund um die Menstruation leiden viele Frauen unter verschiedensten Symptomen. Im aktuellen EviNews-Newsletter geht es um deren Behandlung mit besonderem Fokus, ob Vitamin&nbsp; D und E in der Selbstmedikation empfehlenswert sind.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/helfen-vitamin-d-und-e-bei-pms-163482/",
-      "published_at": "2026-03-10T13:30:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -652,26 +1024,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZHlfZ2VOY1EyZXV6dGNOSFUtNlNLNnltSlJlTlk4aWZsR1lsSjAwZ2RBb3dsLVE0Nkw2VVFfc1JwdE5aWHMxYWpiRFU2U0E4d1VmRW10cnZiNlYxaVRxa1JCM3cyNndTRXNnX2U5MU5lUnZkOVZIQUZja2JIcVBVWEtUQ1ltb3N1dTlDdEd4bDlvY2g0UFFjNldDWVpNVjRNbllZOFd1V2pkd3dvWjNVc1NfazRpLWVtN2F3LTF6dUc4Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-10T13:06:40+00:00",
       "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Herzinfarkt: Impfung hilft dem Herz zu regenerieren",
-      "summary_de": "Ein Herzinfarkt geht mit Vernarbungen und dem Verlust gesunden Gewebes einher und schw&auml;cht das Herz. Wissenschaftler arbeiten an einer Impfung , die das Herz vor Sch&auml;den sch&uuml;tzen k&ouml;nnte. Erste Versuche an Tieren sind vielversprechend.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/impfung-hilft-dem-herz-zu-regenerieren-163474/",
-      "published_at": "2026-03-10T12:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Impfstoff-Pioniere: Biontech meldet Milliardenverlust und verliert Gründer-Paar",
-      "summary_de": "Die Impfstoff-Pioniere und Biontech-Gr&uuml;nder Ugur Sahin und &Ouml;zlem T&uuml;reci werden das in der Corona-Pandemie weltweit bekannt gewordene Unternehmen verlassen und ein neues gr&uuml;nden. Biontech meldete derweil einen Milliardenverlust.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/biontech-meldet-milliardenverlust-und-verliert-gruender-paar-163483/",
-      "published_at": "2026-03-10T12:28:08+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -718,11 +1070,11 @@
       "type": "News"
     },
     {
-      "title": "Qualitätsindikatoren | Klinik für Herzchirurgie (Herz- und Gefäßzentrum) | in 22457 Hamburg - HEK",
-      "summary_de": "Qualitätsindikatoren | Klinik für Herzchirurgie (Herz- und Gefäßzentrum) | in 22457 Hamburg &nbsp;&nbsp; HEK",
+      "title": "Medizinische Leistungsangebote | I. Medizinische Abteilung, Innere Medizin und Gastroenterologie | Asklepios Klinik St. Georg in 20099 Hamburg - HEK",
+      "summary_de": "Medizinische Leistungsangebote | I. Medizinische Abteilung, Innere Medizin und Gastroenterologie | Asklepios Klinik St. Georg in 20099 Hamburg &nbsp;&nbsp; HEK",
       "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMDcza09VTVNqMjFWV2Y0M2pRMy1WY3JUWFZ2aWVLUnk1dExkb0QxZXpTLUs4VFNZZGNmYkNCVnRZNlhOZEVUNG4xNG8wTXZPSUVtSGhXZ2duQXFaRVFUWnlnN1ZzcnlwV2Q4SWhUVnlyMGw1b3R6MUdFWGtLTlpFd0ROR0FHbXFQTHpHX3gtakhDTDEtd3QzOGlHckppRHZqSjd2czJUUDAyZ3lRSWlwTHlLQVJTSUdSWDdqNVNQOXU1MUg0c1pOM3RGSFhZRk1ZVTNkOUNPdmMzeWxUTkNzdEdwWUd4dXZTWUhvQjVKdTlub2ZOSzFGX0VTU08?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-10T01:37:54+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQcHM1VWZCSWdNVFo3Q2llU01pOUFQVHRldl9HRGxfS2xKblVaUllOV2VOQmZYQmlOUjNVS2xzQkNDSjlqMmdDYXp4SDhUSDdpajVqdmI5Q1V5cVVyWjVkb3Nwa2lXR2laUHZMMWRJckwtZmhsU2NSd29oUzF2M1pfWDhUTDdlbkNFWHdSSzNHZVhxRVVOejRPZ3R1cG5pSXZWYWF6enNDaWVrbXpoVUp5akNtZHpOOU9oWVhrdk5oY2pWaGlBWHg2OWxkNFpESGc3b25vZExsX2NPV084cWY3TjlIc1A2X1k1VVRGXzB2d3lWQnluaXFxNXlhSTBLb29hSkt6eW0zMDdmampzcERoeS1NdGhuS2ZqWDlr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-10T03:10:46+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -784,6 +1136,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUGxOU3o0ZG1zbm5VdzgySDlGcWJkbThfUlBoREw0TFVWSmE1Uy16RlprNmdLM3RSelJZSzlhSGtIWEsxMDRsUEFaTDhXR1RiVHBaRlpmUnFrZjlnc0gyZXlpeWVlR2ZLVkYxdHdYNm01U1ZoM0hjMlR3NVNoR3ZEcWZRc1Ytb0R0eFdCdk9FNklhU0EyWExwNjRlYldoYjlIZUpwdUtIdlVVN2NUZ0drdDFXYzMyUTJBZlhKLU1zMkhneTBweXJUMlBHd2x5Mm12dEE0RUx4WmJJb3ZWTkxWMTB0YThXRG4tc0lKdS12V1hXUU4teUE5T3RR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-09T11:37:42+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "[MI] Learning Disabilities Health Check Scheme, England, January 2026",
+      "summary_de": "The learning disabilities health check scheme is designed to encourage practices to identify all patients aged 14 and over with learning disabilities, to maintain a learning disabilities 'health check' register and offer them an annual health check, which will include producing a health action plan.The learning disabilities health check scheme is one of a number of GP enhanced services. Enhanced …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/learning-disabilities-health-check-scheme/england-january-2026",
+      "published_at": "2026-03-09T09:52:31+00:00",
+      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -1145,6 +1507,16 @@
       "type": "News"
     },
     {
+      "title": "Die häufigsten Fragen zur TK-App - Techniker Krankenkasse",
+      "summary_de": "Die häufigsten Fragen zur TK-App &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaWZDWlVreURyYk9iZUdpVVpBbDZEX3VKQlEwTlFLSHIxSHMyT2ZHeG1kM1BXOTFRYTlqRHY5ek5Yc2lvQ3BGNGJPaVlmWkJfQkx4QjJ1dzM2VEFaejQwSlZBcVpKTF95eTdpdjVkX19zNU1zQ2h6RE5NOXgteVNCQ194SVNXSDJ5SGRydFNJSV9BYnJ2OUdqUGkzQ3paQnhmTDQtVERJZXFrRms2bGpvWHNHWGJrYk5RdHFaa3czbmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-06T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "ECR: LLMs help patients understand breast imaging reports",
       "summary_de": "Hemal Grover, MD, shared results from two studies of how LLMs can improve report readability for patients.",
       "source_name": "AuntMinnie",
@@ -1195,12 +1567,12 @@
       "type": "News"
     },
     {
-      "title": "Decision: Medicines: new manufacturing and wholesale dealer licences",
-      "summary_de": "List of sites granted a manufacturer or wholesale dealer licence.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/medicines-new-manufacturing-and-wholesale-dealer-licences",
-      "published_at": "2026-03-05T16:12:13+00:00",
-      "category": "Europa",
+      "title": "Klinik für Allgemein-, Viszeral- und endokrine Chirurgie - Dr. med. Uwe Markert - HEK",
+      "summary_de": "Klinik für Allgemein-, Viszeral- und endokrine Chirurgie - Dr. med. Uwe Markert &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQRkV3VHJUUWhMR2kyQWlzXzQ1M2x3Q3dBSGFPZmlZa1JRMlpXSU1IUEd3dl9aWGd2RldnOTNyMmlXX0o1ZGxZbjR0Y3JoT1puMjVrYUV1WUt3am5DX1NPVnEtV1VuV3RxUnZhU0FuaFFKcl8tM2xOZTctQmhrcHNQQ01pMzFHYnE1T1RQYUJoS04tT1dHc0dqcXhrbnFZeGdWbTFtVTQ1dS1DQnBXUFpROG5vZGVqMHRFWGdrS05vcEhGLVpRZVRUdE9SZEhvYjg0cklJSUl1M0FvWk9Tek54UktWQ1N1X0lmT2FBNXVjdzMxQ1dvTVhjeGhTQk5GU2dZa0QxWXAtXzU1emdPeVM0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-05T16:53:26+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1231,6 +1603,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdjRzQllYcGJLN0ZLTVpEU21TMmR3MndFQjljQUpwZzQ4SG5pOHc0UFNCTFZuR3QyR21ZbHhUbktDZ1AxX3BPQVF2a0ROeUIwdlRveXJOTkNocUEzV1I2Qzg1ODFaUmFDRXZpMEZPU2NRaklTbnNnZ2NXaDFPRmRQOHBZTnlrZ09uUUp6MVRKWHg5SFlGejhF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-05T12:25:38+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "NHS Jobs Adverts in General Practice, Q1 2022-23 to Q3 2025-26 [Management Information]",
+      "summary_de": "This Management Information data release presents the summed Full-Time Equivalent (FTE) of jobs advertised by, or on behalf of General Practices using the NHS Jobs platform.Data are presented in Excel tables by National Workforce Data (NWD) Staff Group, and aggregated to show summed Full Time Equivalent (FTE) at National level and by NHS England Region and Integrated Care Board (ICB) …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhs-job-adverts-in-general-practice/q1-2022-23-to-q3-2025-26",
+      "published_at": "2026-03-05T12:15:28+00:00",
+      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -1275,6 +1657,56 @@
       "type": "News"
     },
     {
+      "title": "Access to crisis care via NHS 111 - Mental Health, January 2026",
+      "summary_de": "This publication introduces a newly established data collection for demand and call handling data items related to accessing crisis care via the NHS111 'select MH option'. This data will provide important insights into how accessible the crisis care system is helping to identify any gaps or inefficiencies. Additionally, the data will be used to support demand and capacity planning across …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/access-to-crisis-care-via-nhs-111---mental-health/january-2026",
+      "published_at": "2026-03-05T09:43:39+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Cancer Services Profiles, 2025 annual update",
+      "summary_de": "The interactive Cancer Services profile tool has been updated to include the latest financial year of data that are available, collated by the National Disease Registration Service (NDRS). For most indicators, for example on screening, diagnostics and urgent suspected cancer referrals, the latest data is now available for the financial year 2024 to 2025. For the cancer incidence indicator, the …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/cancer-services-profiles/2025-annual-update",
+      "published_at": "2026-03-05T09:42:56+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Community Services Statistics, December 2025",
+      "summary_de": "This is a monthly report on publicly funded community services for people of all ages using data from the Community Services Data Set (CSDS) reported in England for December 2025. It has been developed to help achieve better outcomes and provide data that will be used to commission services in a way that improves health, reduces inequalities, and supports service …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/community-services-statistics-for-children-young-people-and-adults/december-2025",
+      "published_at": "2026-03-05T09:42:18+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Appointments in General Practice, January 2026 [Delayed due to Technical Issues from 26/02/26]",
+      "summary_de": "The aim of the publication is to inform users about activity and usage of GP appointments historically and how primary care is impacted by seasonal pressures, such as winter. NHS England publishes this information to support winter preparedness and provide information about some activity within primary care. The publication covers historic appointments, marked as attended or did not attend, from …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/january-2026",
+      "published_at": "2026-03-05T09:31:10+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Cancer Survival in England, cancers diagnosed 2018 to 2022, followed up to 2023 [Delayed due to technical issues, Publication Date to be confirmed]",
+      "summary_de": "Cancer Survival in England, cancers diagnosed 2018 to 2022, followed up to 2023",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/cancer-survival-in-england/cancers-diagnosed-2018-to-2022-followed-up-to-2023",
+      "published_at": "2026-03-05T09:31:01+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Meldung: Keine Entwarnung bei GKV-Finanzen",
       "summary_de": "Auch wenn die gesetzlichen Krankenkassen das Jahr 2025 mit einem Überschuss von 3,5 Mrd. Euro abgeschlossen haben, „gibt es null Grund zur Entwarnung“, wie Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, im Gespräch mit der Neuen Osnabrücker Zeitung (NOZ) betont.",
       "source_name": "GKV-SV Presseinformationen",
@@ -1297,22 +1729,22 @@
       "type": "News"
     },
     {
-      "title": "Formel 1 in Melbourne: Aston Martin vibriert stark, Adrian Newey sorgt sich um Gesundheit der Fahrer - Spiegel",
-      "summary_de": "Formel 1 in Melbourne: Aston Martin vibriert stark, Adrian Newey sorgt sich um Gesundheit der Fahrer &nbsp;&nbsp; Spiegel",
-      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMDJUeW5uUUt6c0s5WWlfVHZkTW5fdmt5TXpuVF9JM2JINHhCSUdncmdScHhhYkpDVV9JQVo3Z2I1ZWFLZHhGRmJDV2ZFQnF3MzdrZXlQY2ZzZjJJV0ViRnFtVnZOVVJnX1NfRkVJZnBFdl9ub1Z5ZmcySmptMXktWjZlTTF5LTdibTFPOEVwd1JPbTRrU1Nrc1pYcE5zanBiLVg5QXAzYkJ5YlZSQjQ1MjZIMkk3UHNyVmpwYXJMd2puVGVBTW5xTXlNYUx4VFZEUzBOa3BuY3JiaGJIbzV5NXhxNGtqWlFkd255SmpTcEg2RV9MMGZJZ0JoaWtJdlVtUVpraw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-05T07:46:00+00:00",
-      "category": "News",
+      "title": "ECR: 'Black swan events' demand informed imaging infrastructure",
+      "summary_de": "Experts discuss how to plan for \"black swan events\" -- that is, battlefield and mass casualty incidents.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15818839/ecr-black-swan-events-demand-informed-imaging-infrastructure",
+      "published_at": "2026-03-05T08:00:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Leitender Oberarzt (w/m/d) - Innere Medizin Pneumologie - Stellenmarkt FAZ",
-      "summary_de": "Leitender Oberarzt (w/m/d) - Innere Medizin Pneumologie &nbsp;&nbsp; Stellenmarkt FAZ",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaHMwYkpfZzliZUVycDMwMTFEQnZCTjZ5eDBfRVU3dU9uWkVvOGxZTEcxdnlnQnJURlpjdHBvVTYwZk45MC1qckIxTFZFMnFpYS1zdUlVYm9lTzEwWUwtcWlSVktzdmd1ZDBfTnItSmJSX1NhYW05UWwzYlQ0dnRVRktiWHNKRlZQT0R0Z0F2eFFfQ1NWSWJpUktoMlhGY2x6cVFqTnpjTzB5QUU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-05T07:45:44+00:00",
-      "category": "News",
+      "title": "HPI: Workforce attrition higher in radiology subspecialties",
+      "summary_de": "Subspecialties are an area of particular concern within the trend of increased radiology workforce attrition.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/practice-management/careers/article/15818815/hpi-workforce-attrition-higher-in-radiology-subspecialties",
+      "published_at": "2026-03-05T07:53:59+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1325,16 +1757,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Gesundheitspolitik: Land unterstützt UKSH und übernimmt Schulden - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Land unterstützt UKSH und übernimmt Schulden &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVjd5U09jZDFwT252b1JHR3llNTJ0LURZM0luSlR6Uy01S0N6aFdTT2ZsQ3ljVGZfTXZyTjctU05SZjhlQUNwTjcyY2tOM0xHcWZ6TE9XemxXb3d1TzNkM2dOeXlQeTM1YUdPMXgycmNFY05HWWQ0RlhFT09qTkVra0pic0d3RXJfTVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-04T15:31:57+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Gesundheitspolitik: Schleswig-Holstein entlastet Uniklinik finanziell - DIE ZEIT",
@@ -1356,6 +1778,16 @@
       "tags": [
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheitspolitik: Land unterstützt UKSH und übernimmt Schulden - DIE ZEIT",
+      "summary_de": "Gesundheitspolitik: Land unterstützt UKSH und übernimmt Schulden &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVjd5U09jZDFwT252b1JHR3llNTJ0LURZM0luSlR6Uy01S0N6aFdTT2ZsQ3ljVGZfTXZyTjctU05SZjhlQUNwTjcyY2tOM0xHcWZ6TE9XemxXb3d1TzNkM2dOeXlQeTM1YUdPMXgycmNFY05HWWQ0RlhFT09qTkVra0pic0d3RXJfTVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-04T08:00:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
       "type": "News"
     },
     {
@@ -1497,6 +1929,16 @@
       "type": "News"
     },
     {
+      "title": "[MI] Rapid Cancer Registration Data",
+      "summary_de": "Rapid Cancer Registration Data (RCRD) provides a quick, indicative source of cancer data. It is provided to support the planning and provision of cancer services. The data is based on a rapid processing of cancer registration data sources, in particular on Cancer Outcomes and Services Dataset (COSD) information. In comparison, National Cancer Registration Data (NCRD) relies on additional data sources, …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-rapid-cancer-registration-data/current/current",
+      "published_at": "2026-02-27T10:16:13+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "New medicine to treat paediatric low-grade glioma",
       "summary_de": "Updated on 2 March 2026:The description of the tumour in the opening paragraph has been amended.EMA has recommended granting a conditional marketing authorisation in the…",
       "source_name": "News and press releases",
@@ -1581,6 +2023,76 @@
       "type": "News"
     },
     {
+      "title": "Patient-Led Assessments of the Care Environment (PLACE), 2025",
+      "summary_de": "This publication providers the results from the 2025 Patient-Led Assessments of the Care Environment (PLACE) Programme. PLACE assessments are an annual appraisal of the non-clinical aspects of NHS and independent/private healthcare settings, undertaken by teams made up of members of the public (known as patient assessors) and staff. The team must include a minimum of 2 patient assessors, making up …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/patient-led-assessments-of-the-care-environment-place/england---2025",
+      "published_at": "2026-02-26T09:32:16+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "NHS Vacancy Statistics England, April 2015 - December 2025, Experimental Statistics",
+      "summary_de": "This is the latest compendium publication in the NHS Vacancy Statistics series containing vacancy related data for the NHS which provide different views on recruitment information for the NHS.Data from NHS Jobs, the Electronic Staff Record (ESR) and Trac Recruitment Management Software (Trac) provide a range of proxy data sources for NHS vacancies. The series also includes management information related …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-vacancies-survey/april-2015---december-2025-experimental-statistics",
+      "published_at": "2026-02-26T09:31:53+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "NHS Staff Earnings Estimates, December 2025",
+      "summary_de": "This report shows average annual earnings for the following four earnings measures, provisionally showing overall figures for the NHS HCHS workforce (excluding primary care staff) in England in NHS Trusts and other core organisations in England and NHS Support Organisations and Central Bodies.Mean annual basic pay per FTE – is the mean amount of basic pay paid per 1 full-time …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-staff-earnings-estimates/december-2025",
+      "published_at": "2026-02-26T09:31:46+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Primary Care Network Workforce, 31 January 2026",
+      "summary_de": "Primary Care Networks were created in July 2019 to provide accessible and integrated primary, mental health, and community care for patients. The bulk of the PCN workforce consists of Direct Patient Care staff, funded by the Additional Roles Reimbursement Scheme (ARRS), and each PCN has the flexibility and autonomy to determine which roles are required to meet the specific needs …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/primary-care-network-workforce/31-january-2026",
+      "published_at": "2026-02-26T09:31:42+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "NHS Workforce Statistics - December 2025",
+      "summary_de": "This report shows monthly numbers of NHS Hospital and Community Health Services (HCHS) staff. The data is split between staff working in NHS Trusts and other core organisations in England (excluding primary care staff), and staff working in NHS support organisations and central bodies. Data are available as full-time equivalent and headcount and for all months from 30 September 2009 …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-workforce-statistics/december-2025",
+      "published_at": "2026-02-26T09:31:27+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "NHS Sickness Absence Rates, November 2025",
+      "summary_de": "This report shows monthly sickness absence rates of NHS Hospital and Community Health Services (HCHS) staff working in NHS Trusts and other core organisations and NHS Support Organisations and Central Bodies. Data is presented by NHS England region, ICS area, organisation, organisation type, staff group and reason for sickness absence. We welcome feedback on the methodology and tables within this …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-sickness-absence-rates/november-2025",
+      "published_at": "2026-02-26T09:31:17+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Maternity Services Monthly Statistics, Final November 2025, Provisional December 2025, official statistics [Delayed Due to Operational Issues]",
+      "summary_de": "This statistical release makes available the most recent monthly data on NHS-funded maternity services in England, using data submitted to the Maternity Services Data Set (MSDS).This is the latest report from version 2.0 of the data set, which has been in place since April 2019. This latest version was a significant change from the previous 1.5 version which added support …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/maternity-services-monthly-statistics/final-november-2025-provisional-december-2025-official-statistics",
+      "published_at": "2026-02-26T09:31:03+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Aspirin and other nonsteroidal anti‐inflammatory drugs (NSAIDs) for preventing colorectal cancer and colorectal adenoma in the general population",
       "summary_de": "Aspirin and other nonsteroidal anti‐inflammatory drugs (NSAIDs) for preventing colorectal cancer and colorectal adenoma in the general population",
       "source_name": "Cochrane Library RSS feed.",
@@ -1589,6 +2101,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "General Practice Workforce, 31 January 2026",
+      "summary_de": "The General Practice Workforce series of Official Statistics presents a snapshot of the primary care general practice workforce. A snapshot statistic relates to the situation at a specific date, which for these workforce statistics is now the last calendar day each month.This monthly snapshot reflects the general practice workforce at 31 January 2026. These statistics present full-time equivalent (FTE) and …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/general-and-personal-medical-services/31-january-2026",
+      "published_at": "2026-02-25T13:46:08+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Warten auf Gesetzentwurf für Notfall- und Rettungsdienstreform: Regierungsparteien müssen endlich liefern",
@@ -1656,6 +2178,26 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "NHS App Management Information - January 2026",
+      "summary_de": "This publication provides information about the number of users and usage for the NHS App, and for features that are available through the NHS App. Data are included for the following measures, at ICB and national granularity: - NHS App monthly logins: The volume of NHS App sessions recorded over a calendar month. - NHS App monthly unique user logins: …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-app-statistics/january-2026",
+      "published_at": "2026-02-23T11:10:27+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Besondere apparative Ausstattung | Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin | St. Elisabethen-Klinikum Ravensburg in 88212 Ravensburg - HEK",
+      "summary_de": "Besondere apparative Ausstattung | Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin | St. Elisabethen-Klinikum Ravensburg in 88212 Ravensburg &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPX29LUW0tc0daOV9Da2VGZjdMQk5xN2ZyX3JkazNlUWZvQWhoOVBmejZrVG9yaWRjVmszcXl1TVhpUEpRTHd4Y0ZodlFJRlQ0UlAyRGpRY2lWRDlXS3hTV2thX0c0V1F1RDdiWDdqanZueHp5RXRPX25ic3VYWkxHQTEzRTdKeXpyWkFhc0E2THJISTBDSnNQSDZyRjBXYTBEYlFxUUZHbExNZjNpZkpZTjdPVEdvd1d1YXdPMHZYMWhmZURnRThRZzB1VmN0Qldrcy10WmpvaDJDMnVRV3F2cmRsOG5CYkNDdXdZOC1lX0p2cXFlYnhlMmJsRlFGR3N2OTVSOTcxUFVRLXp4T1pGWjgtX25vNjRjdy1rdU93?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-22T16:59:35+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Recruitment procedure opens for next Executive Director of the European Medicines Agency",
@@ -1810,10 +2352,10 @@
       "type": "Studie"
     },
     {
-      "title": "Intravenous chemotherapy versus intra‐arterial chemotherapy for retinoblastoma",
-      "summary_de": "Intravenous chemotherapy versus intra‐arterial chemotherapy for retinoblastoma",
+      "title": "Financial arrangements for rehabilitation services in health systems: an overview of systematic reviews",
+      "summary_de": "Financial arrangements for rehabilitation services in health systems: an overview of systematic reviews",
       "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013695.pub2",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016327",
       "published_at": "2026-02-17T00:00:00+00:00",
       "category": "Studie",
       "tags": [],
@@ -1874,6 +2416,26 @@
       "type": "Studie"
     },
     {
+      "title": "[MI] Number of cancers by Diagnosis Trust 2017-2023",
+      "summary_de": "This publication reports the number of cancers by NHS Diagnosis Trust (Trust where a patient was diagnosed), single year of diagnosis (2017-2023) and cancer site group with further breakdowns by age group, deprivation, ethnic group and gender.",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-number-of-cancers-by-diagnosis-trust/current",
+      "published_at": "2026-02-13T07:46:44+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Facharzt/-ärztin Nuklearmedizin - ärztestellen",
+      "summary_de": "Facharzt/-ärztin Nuklearmedizin &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNk5YdlhLYktIelB6Y0oxNFJqenIxU3RUbTdxdHpVaGNEYW1iQmYxeG14SzB1ZVo4bmZXSkY5cjJ3WlJfTWtldHE4cFpkbGxMVHJUWkNGNXlWOEFsZktYbnVXLTg2OEIwdWExTlpJQVFRdGUtdmRxSUxvbVZla0pPX1Foc3Y2cEJRckFjQXNES1AxU1h6?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-12T23:00:23+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Episode 37 – No secret sauce: a recipe for transparent science",
       "summary_de": "Access to documents is a crucial ingredient of open science. But how do lawyers assess what requires protecting and what to release? Join us as we digest the law behind your menu.",
       "source_name": "EFSA | News",
@@ -1931,16 +2493,6 @@
       "type": "News"
     },
     {
-      "title": "Interkulturelles Onboarding: Welcome to TK | Die Techniker - Firmenkunden - Techniker Krankenkasse",
-      "summary_de": "Interkulturelles Onboarding: Welcome to TK | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSzZVdUFRbE8zQ1JaMTN2YURLRkR6XzZUYlZlQW9Vbkc4TzVNSUhtcktWNXpaSTQ5d0pxQWNWajcySWlLcHJocTAzS1RjUi00VUNTMFhrazUwb0tVb05GUVlXQkhVTGs1cm5kRFlYanJPZkVreG9pQXZPU1o5XzFvZ1JQVnpzaGFGbnpuUV9JYmozd21XSGJxZVpxbS1ld0tmWUE5bVd5T1lNNGM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-11T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Alle Beratungsblätter auf einen Blick | Die Techniker - Firmenkunden - Techniker Krankenkasse",
       "summary_de": "Alle Beratungsblätter auf einen Blick | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
@@ -1967,16 +2519,6 @@
       "source_url": "https://www.efsa.europa.eu/en/news/veterinary-drug-residues-food-whats-latest-eu",
       "published_at": "2026-02-10T10:19:49+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Urteil: Arbeit­geber durfte Entgelt­fort­zah­lung bei bestimmter Online-Krank­schrei­bung verwei­gern - Techniker Krankenkasse",
-      "summary_de": "Urteil: Arbeit­geber durfte Entgelt­fort­zah­lung bei bestimmter Online-Krank­schrei­bung verwei­gern &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWTU0U2U0bVJud2RvZVlBWnV2bE42N3dMM2Q4TEp5RWY0eGtyd2pYUkxQMDlUWUthTEFzeVJCaWRYS01kSmZBNXFFQldZaldXUklzaTBmcnEwUG1yZ2VLS3c2UDY3Mi1Id1RaSm5VWDNhU2gwaUwwU1dJNnRQZnUzbXFfUnpsTlR6bTFrT3d3SHB1VEc0MUtqYjJ3NFFkeU0zTVV4MTVKaFQ0S2ozSUd5Zkp4TkZfM244SExuSXBlYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-10T08:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
