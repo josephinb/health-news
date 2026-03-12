@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-03-12T15:52:38.007601+00:00",
+  "generated_at": "2026-03-12T18:42:47.916685+00:00",
   "window_days": 42,
-  "count": 241,
+  "count": 250,
   "items": [
+    {
+      "title": "Bundesverwaltungsgericht: Keine Rezepturherstellung auf Basis des Praxisbedarfs",
+      "summary_de": "Apotheken d&uuml;rfen Rezepturen und Defekturen nur auf Grundlage konkreter Verschreibungen f&uuml;r Patienten herstellen. Eine Herstellung f&uuml;r den Praxisbedarf ist nicht erlaubt. Das hat heute das Bundesverwaltungsgericht entschieden.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/keine-rezepturherstellung-auf-basis-des-praxisbedarfs-163580/",
+      "published_at": "2026-03-12T17:02:09+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Decision: Orphan registered medicinal products",
+      "summary_de": "A list of authorised orphan medicinal products registered by the UK licensing authority.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/orphan-registered-medicinal-products",
+      "published_at": "2026-03-12T16:38:10+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Medical devices: get regulatory advice from the MHRA",
+      "summary_de": "How to apply for a regulatory advice meeting on medical devices and in vitro diagnostic devices.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/medical-devices-get-regulatory-advice-from-the-mhra",
+      "published_at": "2026-03-12T16:34:30+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Standard: Implementation of medical devices future regime",
+      "summary_de": "Information on the new regulations for the post-market surveillance of medical devices which come into effect on 16 June 2025.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/implementation-of-the-future-regulation-of-medical-devices",
+      "published_at": "2026-03-12T16:34:18+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "»Wildwest-Atmosphäre«: Behördenversagen bei illegaler Gesundheitswerbung",
+      "summary_de": "Die Verbraucherschutzorganisation Foodwatch hat aufgedeckt, dass Beh&ouml;rden irref&uuml;hrende Werbung mit Gesundheitsversprechen&nbsp;so gut wie nicht kontrollieren. Dabei geht es auch um angebliche Mittel gegen Krebs, Depressionen, Stress oder die Corona-Impfung.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/behoerdenversagen-bei-illegaler-gesundheitswerbung-163578/",
+      "published_at": "2026-03-12T16:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Ab April : 4,5 Prozent weniger Honorar für Psychotherapeuten",
+      "summary_de": "F&uuml;r psychotherapeutische Leistungen gibt es ab April weniger Geld. Die Psychotherapeuten halten das f&uuml;r inakzeptabel und k&uuml;ndigen juristische Schritte an. Die Krankenkassen sprechen dagegen von einem angemessenen Kompromiss.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/45-prozent-weniger-honorar-fuer-psychotherapeuten-163575/",
+      "published_at": "2026-03-12T16:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "A20 bei Lindholz: Wirtschaftsminister von MV nach Autounfall im Krankenhaus - DIE ZEIT",
+      "summary_de": "A20 bei Lindholz: Wirtschaftsminister von MV nach Autounfall im Krankenhaus &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTVlsU3R0WWluLUsyTVk4S3RHRFV2c09JMjREdTlyaHZEbGxCcURiX2hBNU8tRFlWaFF5UzRPQUNycHJ2UzcyYVFEa0dlVXhSTm9pQl9nOEE1WDNKN0NwNnBrbkJMNFAzNlBXdVhMRVhFdjNDdjkxWm1pbXdkbkZNSFhTUlRkNkVXZWN3b1RsZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-12T15:44:41+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "A20 bei Lindholz - Wirtschaftsminister von MV nach Autounfall im Krankenhaus - Panorama - SZ.de - SZ.de",
+      "summary_de": "A20 bei Lindholz - Wirtschaftsminister von MV nach Autounfall im Krankenhaus - Panorama - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVkN1c2VIUmJHeGE3Q3BoQzFfblYyOThUb2E1SVFZeHNxT2Y3ei1vUjJVX1ZGV0c1QnM2RnhYUGd0am1aZ3hwdTEybUkzeF9vVTZMYWQ2TUdEc3ljZ044MS1DcnlfOUJVenk5eWVIbWRsOVM0blJYczhqTHNrSGxKMFJjemM4VFZqdm40cUxXc05saW1WV2d6OWdBSzNYdmNOampJUWdiQzFJcVNXVUt3Wk04dFVZTFl1Yl9zdDJvb2ptS0NfMFVSQnc0WmU5d0hjMlhHNl9LejRoWlBHOWRwTEllLU9KSHFVTU82WEYxRHRCMWs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-12T15:44:41+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Gesundheit: Magdeburg bundesweit vorn bei Hausärztinnen - DIE ZEIT",
       "summary_de": "Gesundheit: Magdeburg bundesweit vorn bei Hausärztinnen &nbsp;&nbsp; DIE ZEIT",
@@ -20,6 +100,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/ass-reduziert-risiko-fuer-verkalkung-der-aortenklappe-163564/",
       "published_at": "2026-03-12T15:20:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit: Freistaat bei Hausärzten vorn - aber wenige Kinderärzte - DIE ZEIT",
+      "summary_de": "Gesundheit: Freistaat bei Hausärzten vorn - aber wenige Kinderärzte &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWnFzYUNwMTEzeWlBV1QtMzJadFFUbnlkMnZieDNEemJsTUJ0UUFxM2tZQlJ1S09zS1dnaGtieEFnZVBIYVBUVTNjMFY0UkE4X1Q1aTJvem0tSjBZdjYtVDFXeExPbjZHcTV3SVhEVklmWlZfam1yXzRGT09YX3AtVmNURjJPeFc3Q1QwUWJqMGRYdFljMW1hVkZFU1c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-12T15:00:42+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -104,16 +194,6 @@
       "type": "News"
     },
     {
-      "title": "Verletzt im Krankenhaus - Schwesig wünscht Blank nach Autounfall alles Gute - Panorama - SZ.de - SZ.de",
-      "summary_de": "Verletzt im Krankenhaus - Schwesig wünscht Blank nach Autounfall alles Gute - Panorama - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOXzFJMEMtNzdnRGtlSC00WjliLXpWRk1nVlgtaXEtYjViVHdLRVdNWkkwcllibGZENnNOOU5sb3dhOG1DRXlNb1R2dnFJUDdNazBTeWRBa0NUQ1dJRkQ5Uk1vOU1laUQyVjV5c1hYc09jTEYzS1IwQnp3U3lsY1cyQUdRdk5qQ1ZmYWJyUmpvWkdPTmpkYXdOc0gtUGNGWW5ERGNnUEFfQzQyZVNDck5IZjR6SHdFQVFaYkZPbnJ6VDF1QnpKQkxzcUlWREpsY2VSRHFNbnZVQlR2YUVvcFlOdmViT2s0cktkNVZxS20zVExSMlk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-12T14:06:22+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Prognose bis 2035 : Krankenkassen erwarten sinkende Einnahmen",
       "summary_de": "Ein neues IGES-Gutachten zeigt, dass die Einnahmen der Gesetzlichen Krankenversicherung (GKV) in den kommenden Jahren sinken d&uuml;rften. Der&nbsp;Verband der Ersatzkassen (vdek) fordert daher mehr regul&auml;re Besch&auml;ftigungsverh&auml;ltnisse und eine&nbsp;einnahmeorientierte Ausgabenpolitik.&nbsp;",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -176,6 +256,26 @@
       "type": "News"
     },
     {
+      "title": "Gesundheit - Kassenärztliche Vereinigung Hamburg warnt vor Sparpolitik - Wirtschaft - SZ.de - SZ.de",
+      "summary_de": "Gesundheit - Kassenärztliche Vereinigung Hamburg warnt vor Sparpolitik - Wirtschaft - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUlJtbDNGMXVRc09qMF9jT0tkZWFEaXgtclVZb0FNbk5zcHIzaDl1U1E0WTRMYUdqc1VQUFh1d1lsN0ZyRTlZOE84NDBGT3JmVUNfaFN4VHhQdHVpeWkzOXJ2UWpVcVpySzNsZ3k4R212dXphcE1oQU5FaGhHNXVMOEFjQldmUi1JdlFjNnUzX3pmUmJ1Zkw0eGpyWkVoT20xQ2hIZ3AxUlJPRklzWXBYTllqMlVWMVV1SFdXMlJkd2lHR3d1SHZNa3lwRk11bThicmwwOG1jelNPVno5T3NqQzc3RkZQY0VkTzVRR05xVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-12T12:46:33+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheitsnetz - Mehr Praxisärzte – aber auch mehr Patientenzeit? - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Gesundheitsnetz - Mehr Praxisärzte – aber auch mehr Patientenzeit? - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYTFkcnBieDByQlpNb0FXUlBSX0FFUTBfVVpwX20xTTY4bktSUUlWTU5IMTA3U1NUcDlaTC1lN1ltSVhJYy1pODRoQ3dlRkQ3TFB4Q0IyeTY0azN3aEJkTG16bWNjNGRyS0FBQzJRZEs1T1I0S05vR05JcW1lQ1NYbFhkTjU5QmFMNEFpV2hEUjdpSUhYLTh6cnRFVDdmMWFEdXVKeVNPQ3NJdk42WXRPV2VxdDF3Qlh5THRmOEc2bFFNcm9lY2VkQWp6NnhveGJwNWRtSEREcXdSOXdnUlE5UlVnWkpVZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-12T12:40:49+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Vergiftungsgefahr: Worauf es beim Bärlauchsammeln ankommt",
       "summary_de": "Verwechslungsgefahr im Fr&uuml;hling: Wer B&auml;rlauch sammelt, riskiert schwere Vergiftungen. Woran man echte Bl&auml;tter erkennt - und warum selbst der Geruchstest t&uuml;ckisch sein kann.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -212,16 +312,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/sport-kann-das-ueberleben-verlaengern-163531/",
       "published_at": "2026-03-12T11:30:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit: Freistaat bei Hausärzten vorn - aber wenige Kinderärzte - DIE ZEIT",
-      "summary_de": "Gesundheit: Freistaat bei Hausärzten vorn - aber wenige Kinderärzte &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWnFzYUNwMTEzeWlBV1QtMzJadFFUbnlkMnZieDNEemJsTUJ0UUFxM2tZQlJ1S09zS1dnaGtieEFnZVBIYVBUVTNjMFY0UkE4X1Q1aTJvem0tSjBZdjYtVDFXeExPbjZHcTV3SVhEVklmWlZfam1yXzRGT09YX3AtVmNURjJPeFc3Q1QwUWJqMGRYdFljMW1hVkZFU1c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-12T11:29:39+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -690,12 +780,12 @@
       "type": "News"
     },
     {
-      "title": "Diebe in ganz Europa aktiv - Zehn Jahre nach Diebstahl: Teure Technik zurück in Klinik - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Diebe in ganz Europa aktiv - Zehn Jahre nach Diebstahl: Teure Technik zurück in Klinik - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Zehn Jahre nach Diebstahl: Teure Technik zurück in Klinik - SZ.de",
+      "summary_de": "Zehn Jahre nach Diebstahl: Teure Technik zurück in Klinik &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZGVyQ0NsLWF1VlFYVnpleFMzSEVhZHU0XzFpRkVCNVcxbDdCa3Q2ZHhJdER6S0ZJQUN1MlBlSUQ0TG5UTVNfbmRBcTF0QnhLa0NiS3NuZ09fbE5tai05R3JZcXdqQmx1RmtXWFJ2R0gtWTJzX3FxX09ROEQ3NnRXTFJKZDk5Z1JwX0kyMXFQTV9uTGIxTHFJSk5reElkMGpHYUVqN21iaEFmQlF6eXFnaWt4VllUNmhBSERrV1d3N29ZYXF1SnVSZk95cWRNTGJWUVZaLXVyRDJhcE9fVVhISl8wX1M1RTdEUFRBMGRVdjYxWEUtbGhzZUVVMUlGN2daMW1v?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-12T06:32:48+00:00",
-      "category": "Europa",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -910,26 +1000,6 @@
       "type": "News"
     },
     {
-      "title": "Proteste: Preis ruft zur Geschlossenheit auf",
-      "summary_de": "In gut zwei Wochen werden die Apothekenteams erneut protestieren, um Bundesgesundheitsministerin Nina Warken (CDU) in ihrer Honorarzusage zu unterst&uuml;tzen. Man sei in einer entscheidenden Phase der Reform, betont ABDA-Pr&auml;sident Thomas Preis in einer Videobotschaft und ruft die Apothekenteams zur Protestbeteiligung auf.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/preis-ruft-zur-geschlossenheit-auf-163530/",
-      "published_at": "2026-03-11T14:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Alzheimer-Demenz: Leitlinie ordnet neue Antikörper ein",
-      "summary_de": "Die aktualisierte S3-Leitlinie Demenzen empfiehlt unter bestimmten Voraussetzungen den Einsatz der monoklonalen Antik&ouml;rper Lecanemab und Donanemab bei Alzheimer-Fr&uuml;hstadien.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/leitlinie-ordnet-neue-antikoerper-ein-163532/",
-      "published_at": "2026-03-11T14:00:00+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit: Organspende: So dokumentiert man die Entscheidung - DIE ZEIT",
       "summary_de": "Gesundheit: Organspende: So dokumentiert man die Entscheidung &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -970,12 +1040,12 @@
       "type": "News"
     },
     {
-      "title": "Bayerische Apothekerkammer: Kampagnenstart gegen PTA-Vertretungsregelung",
-      "summary_de": "&raquo;Null Apotheker, null L&ouml;sung&laquo; &ndash; so lautet die politische Kampagne, mit der die Bayerische Landesapothekerkammer (BLAK) gegen die im Zuge der Apothekenreform geplante PTA-Vertretungsregelung vorgeht.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/kampagnenstart-gegen-pta-vertretungsregelung-163526/",
-      "published_at": "2026-03-11T13:30:00+00:00",
-      "category": "Wirtschaft",
+      "title": "Länger leben mit Nahrungsergänzungsmitteln – schön wär's ja - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Länger leben mit Nahrungsergänzungsmitteln – schön wär's ja - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZVlkcC1GdXRFdUZpdmtxMGtGdnRWcFBVVFhUY2hKUlZtWWIzX2IxNnFPbzlJZG02bU1mOVdYOEVlWGhkU1hDY3RfWkkyUmowa3lzS0owX1BpdWxSbnltTzMycEhaV1VMREhoel85dnM1aW42dzJwM1BuSVhZU2FGN2lMOWtJeG5GWWpBb3BJVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-11T12:54:11+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -986,16 +1056,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWW5BN3BuYXVjSWtpSy1sbUNwNW9RQXFUbXh3bHBwcFR2ekh0cnZKY2dnQ3ByUEw5Ym1Wb2NHeHZiSjZVcF93a0MxZ05YWlp1NGNINGIzYV9tZU9BSjBHSHpQVF9WSS1VTVF3ejJTcnpTbnRYZkc0dThHUE9EejFoWGgxa0dQQ1h2UHEzLTlQM0NXazlqN0NlN2JuQzFwWHJwSF92Y1huNjFqYzBZeGI2dE85ZF8xZ3RQa2ViSWFYRWkwN1VKQTVMWC02S2prbG5sNk1NUHIzV2ZhYVIt?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-11T12:39:02+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Decision: Orphan registered medicinal products",
-      "summary_de": "A list of authorised orphan medicinal products registered by the UK licensing authority.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/orphan-registered-medicinal-products",
-      "published_at": "2026-03-11T12:13:00+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -1016,16 +1076,6 @@
       "source_url": "https://www.efsa.europa.eu/en/podcast/episode-38-speed-how-food-risk-assessment-changing",
       "published_at": "2026-03-11T11:00:35+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Machen Haustiere glücklich? - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Machen Haustiere glücklich? - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTTg1WVdMTmliZXlLZDJQVkx1dU8xSW1IRHBydEtaTkZNcVBKRTJzUkpmNTdmVjIxcW5BTGVGa3Nzb2xYUkE2amwwYU1aWmNRUTZqTnpOV2p0cG5yOV9mWWVvLUJOeWRlUjZBMjVrZWFTd2tLa1VEZ1hQSHJaQjJIQUl2TTdyZ3ZPdWxyXw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-11T10:26:02+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1132,21 +1182,21 @@
       "type": "News"
     },
     {
-      "title": "Fitnessstudio: Studie zeigt gesunde Musiklautstärke - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Fitnessstudio: Studie zeigt gesunde Musiklautstärke - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWkFPVDVUYTRoelppX1RUMG1VemFvMWtrbGNiZHdTR3hONHNrRk0zWjN0LVF4ZnpTUWd3T2QzUFF4TFpCWHJVRFR2Y2pLZUNNUVN2NUxESWVGLWx1aFI2U0ZiWk1uM0xsVUFlTTRkS3pWTWszTlhlUHNHRG9lU2Y4WnZHcnZ3ZGFSQkJCUmxNZGJBMm53UWNYTnd3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-10T13:41:43+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "USA und WHO: Auswirkungen des Austritts auf die globale Gesundheit - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "USA und WHO: Auswirkungen des Austritts auf die globale Gesundheit - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "USA und WHO: Auswirkungen des Austritts auf die globale Gesundheit - SZ.de",
+      "summary_de": "USA und WHO: Auswirkungen des Austritts auf die globale Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRFdOcEpDRUlNZ0lNbUU1aXQ2WFJmaDRCZHJSWjJ5WXdXbzJLMnJ4RHc1X2ZPLVFEQXo2dlJtSk9GT28tTGlZY3dfYXZfN0Ria3UyTmdaVzBGV2tWRnJQVndnd0hyTDFPRnBjRGNxZXJoOUZaVDYzRkhIdF84QlNNLS1uU3o1amNkUFJHZTBJc0pGekxV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-10T13:38:48+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Depression: Können einmalige kurze Übungen helfen? - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Depression: Können einmalige kurze Übungen helfen? - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSnZlS2pPUHlad09vQ1J6Wk1yQzFOaWJQMHIyRnFSWUFUQnpHTjZjWjlHcWdnRlZmbEo4Q3pCdDBHbjl2eThCQVFXMkZYUkYyYkFoZTdGMWRURl9MeXRNMlVsWU1vVlplemJtM2I5dk5rb0VnMTFfc3dIZ01WUnVKczd6Sm85eW1UV2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-10T13:38:11+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1204,6 +1254,16 @@
       "type": "News"
     },
     {
+      "title": "Wissenschaftliche*r Mitarbeiter*in (m/w/d) in Teilzeit (54,43 %) am Studienzentrum Gesundheitswissenschaften & Management der Fakultät Wirtschaft & Gesundheit - ZEIT Stellenmarkt",
+      "summary_de": "Wissenschaftliche*r Mitarbeiter*in (m/w/d) in Teilzeit (54,43 %) am Studienzentrum Gesundheitswissenschaften & Management der Fakultät Wirtschaft & Gesundheit &nbsp;&nbsp; ZEIT Stellenmarkt",
+      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPaTFwMUJOb3FsbmJuYWtpeENFQlNZVjZTMTFaa1FESXNJaDVaMlZZRUkyOS1SMERjNU1nTGotY1owMXlaaFRnWFBxMWxJeW05UjJ0X25ndlZUbHBvYVVSNUhaZW5jdEthbmFNU3E5c2JjNlRkaGtUSGtxM3BPUFhwVXBYbGJVa2ZUaWtMY0c1a3B6bHhHLXpJeWs0aUJ3ZlRnWmZTN19CTzQwTlJTNlphLTZ5dTQtN0pvZWczZzJQc3Fka0daVWZYbXljOXpyZndFY243WWQxY0tScGNLSjF2LUFGd2xWNmhfNWo3aW1WbEd1X0lVVy1sUmxYcWh1eTJtY2V6SkltOFVTaFZOMi1XYXQ2alV1VVZYUk4xdGtXdUREdUYydE56UlhpWkJzVUpGWFBVdDZOU2pCb2I4OTJzc3pQRV84blE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-09T23:00:51+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Decision: Parallel import licences granted in 2026",
       "summary_de": "Parallel import licences granted in 2026.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1230,6 +1290,16 @@
       "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-02-to-06-march-2026",
       "published_at": "2026-03-09T16:01:47+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Infrastruktur in Deutschland: Wie Bewegung leichter werden kann - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Infrastruktur in Deutschland: Wie Bewegung leichter werden kann - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSDdXLW1RM3FEdHhrcmNFR0tZMjB1dzMyeEs4TWV1QnpVY1ZFVmtnNGswOWQzd0pJUnFSYVljZnUzc09rLW9TUVZrd2lycDR2VXBnWUt1VFJlTEZrR3FJeDlURHBvbUQ5TV9Cc3QyT1ZwT3VRc1lCR1NtTkF6MEpiZkFNQ3VER0Rxck9NVmQwQlJwMGVLcDctZE9kREMtb3JKUEJFS0k2bzh3T2s?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-09T16:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1354,18 +1424,6 @@
       "type": "Studie"
     },
     {
-      "title": "Clinical trials for medicines: expert advice",
-      "summary_de": "Clinical trial applications that need expert advice from a specialist group or committee.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-expert-advice",
-      "published_at": "2026-03-09T09:00:12+00:00",
-      "category": "Studie",
-      "tags": [
-        "Europa"
-      ],
-      "type": "Studie"
-    },
-    {
       "title": "Unstable brain networks may drive multiple sclerosis fatigue",
       "summary_de": "Fatigue affects between 36.5% and 78% of people with multiple sclerosis and can dramatically impair their daily lives.",
       "source_name": "AuntMinnie",
@@ -1405,6 +1463,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNblpLRGpOS2VQSGRXTkxBVjE4M1dNY1RzSUhsenVHeV9CVzh0NzRmaFNxX2RpWmFHeEFEX2lTUUI2WElPUWJYUDJDclAzek9IR3RZT0hvc2xBMko5Q2tYaHVnX0MtS2JYVUcxMlVPcXp1UFdDOUFsNWpmSi1zbVlXdUJGSlpVMzdWQ1AzVlJXN29VUTQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-09T00:00:41+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "QIT Systeme I QIT DICOM Mail - Radiologie Magazin",
+      "summary_de": "QIT Systeme I QIT DICOM Mail &nbsp;&nbsp; Radiologie Magazin",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjMmdrVGRHYm9sRk9TYjYwNENyMFU4TGgybzVyT2VSVnFCZlYzMW4zazFQZ01lNFBrRWpMRU5nMXI4VWo2OWliY2RwS0lUTmx1dmhOM0daRlhvVTlwS2U5ZG5hdGdpU2NGRjU0cmRYaU50dnlHeHI4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-08T23:00:01+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1465,16 +1533,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUGVGT1ZKOTlKTHMtMVZIVlZGdmozeXpBLUhwd0NaN1J3UlZHREZ5SXQxOGxoRTRJZFZ0ZGlQSWdpVVV0TVBES3d6Yzl5V1JxREh1b0UwTUI5Rm1IdjFFZkVlb0Z5dWJkS1d5VFBDSGktTXRJVTVoaTg1VlkxM05odjRBbTY5bEUxWEVkZ1RUNDdETkxOLVJyQTdlcTJOeWJsNlJCaks0ZzhVQWJCdmVWTlBPTzNBY0ZTdlF1Uks0Q2VIVXRUN1prd0l5emV1UFZqN2RYZnVwb003Z0E5RnRvQVN3eWY4MGZXX3Y3UkR2LTc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-06T17:30:53+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Precautionary recall of blood pressure medication after packaging error",
-      "summary_de": "The MHRA has advised pharmacy and healthcare professionals to return all remaining stock to their suppliers",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/precautionary-recall-of-blood-pressure-medication-after-packaging-error",
-      "published_at": "2026-03-06T16:06:14+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -1556,6 +1614,16 @@
       "source_name": "AuntMinnie",
       "source_url": "https://www.auntminnie.com/subspecialties/cardiovascular-radiology/cardiac-imaging/article/15819028/ecr-cardiac-imaging-is-at-the-heart-of-precision-medicine",
       "published_at": "2026-03-06T07:02:51+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Prätherapeutisches MRT versus postoperative Pathologie beim lokoregionären Staging des Rektumkarzinoms - Deutsches Ärzteblatt",
+      "summary_de": "Prätherapeutisches MRT versus postoperative Pathologie beim lokoregionären Staging des Rektumkarzinoms &nbsp;&nbsp; Deutsches Ärzteblatt",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOYmlGWjR0aW9uSS1VQTBDYW1ITURRaU0tTlQ3Z0ZWaUg5dkNRVUEyd1k0Z0g4M3otZlRzYThVSTZobUxjMkNuSGhVb0t5aTNTU1ZPaXYzMXk3dVgyVEtIQnVaNFgzMVFyMU9CRHAzZXYyVzZMUXFvQnBmbWtrLU9Rd2Y2VjUzbDVUZ1Z2RmRlVkM1ZFNxYUNiMXNJMFVWd0RNR1hMOEtyU1R5RjBmQ2RGSmFYaHJTUm5sQS16VF85Z3N0TXZrazI1a1BwRU5JLU12NUoxeDg4V1FUYnphanVhRTltRjVsTDNWMVM0azVZZkI3U1cwb2cyUzR5ZGl1YjZCMXBtQW9n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-05T23:55:29+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -1778,6 +1846,16 @@
       "type": "News"
     },
     {
+      "title": "Studie zur Gesundheit im Pflegeberuf: So können Pflegekräfte gezielt entlastet werden - BARMER",
+      "summary_de": "Studie zur Gesundheit im Pflegeberuf: So können Pflegekräfte gezielt entlastet werden &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT2pBU0l6UEREcmU1dXRmcnMxQmd6MS1QNm5PWjlmYThBcFEySUJhc1NoLUs4aDE1M05NQllPeG9VNVBnN3Jwem9FXzZmVzJoT3BHd05mMXdrdlhGZDl2WmtuT01ibnVsZkM0QXdtNUk0OEQ0SFpHdklUSzE4OVd3dWcyTTlxOXp2ZUZuN3pJM2o2LXdObTRhb0R0Qnh4LUNMZXpZVg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-03T08:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "Magnesium sulphate for treating acute bronchiolitis in children under two years of age",
       "summary_de": "Magnesium sulphate for treating acute bronchiolitis in children under two years of age",
       "source_name": "Cochrane Library RSS feed.",
@@ -1786,6 +1864,26 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Ungleichbehandlung in der Medizin - BARMER",
+      "summary_de": "Ungleichbehandlung in der Medizin &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15dEk2SjQxYk93dXJ4Skpyb3U2Wlh6UTZ5cDNjZjFnVDBjMkk3RWQwUTVuamZWVjAtRUZXM1E5Zi1LWDFCcGpfTEl4cDc5QnZVdy1VbXJ6MW1tMm9KM2pmdGtIRy14OUhUQk1Tb05leDZ0YWk3SG1N?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-02T11:35:31+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Mikroplastik und Gesundheit: Ein Trojanisches Pferd für Schadstoffe - BARMER",
+      "summary_de": "Mikroplastik und Gesundheit: Ein Trojanisches Pferd für Schadstoffe &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObXFsNlBTS3FpejItdWVnU0kybFlaYzUxMjRSSzhnVVlLVWNWMEFNcVNkVEdtT1VvUzNpRzVOTWNuYWtBUTJOSm5QM1p4M0QtLWdXWnZkRHV5bHowYWpDQXZjanY1M0NXN2llb0tmQ083NnpRc0I1SlphYzNnc3Y4dzNieG9MVWNkd1ZyX2dSQnUtVlZMbTFBT1p0d3FIcHVjbEFkamNrMFJ1eWJ1MDNleVBOc1pFdTBvU1RSSG92ZVU1Vmt0WnVmX1M2NGRlc1NtOXRfSl9iUVBqNmlxdnJrLUZWZFR1clVRMGo3b1BFS2UtTTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-02T11:35:31+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Meldung: Der Pflege läuft die Zeit weg",
@@ -1849,16 +1947,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUzVpejZGNjNWV1VMQXJNYUVJcVZ5QTNpN0Fza21uZTlqNm5zMEtaekcyel96S3FwZ05Vc3NrNThwemJVY1JMSTMzUVJEcUVBYUNQRG5rRHRhYmowTmFEdmNiWm80djk3dlZLZlVQR0NWRGsxQi1pX29wVVZUU1pHOUU1UjFJMDRwelI4YW1XQ2FjcXU4Y3Q5R0dGRHVMdlFZM21WaHB5TUlaRGQ1TGtYeWhNYUVoU3cxZ2xpRzhZaU8xVTFKcmEwcmpWWGtvTVZCdy1TNzhUQ1c1QXM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-28T03:47:28+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "ADHD Management Information - February 2026",
-      "summary_de": "Attention deficit hyperactivity disorder (ADHD) is defined by the World Health Organization as being characterised by a persistent pattern of inattention and/or hyperactivity-impulsivity that has a direct negative impact on academic, occupational, or social functioning, the level of which is outside the limits of normal variation expected for age and level of intellectual functioning. Historically there has been no specific …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-adhd/february-2026",
-      "published_at": "2026-02-27T14:06:17+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -1972,6 +2060,16 @@
       "source_name": "Publication Feed",
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/patient-led-assessments-of-the-care-environment-place/england---2025",
       "published_at": "2026-02-26T09:32:16+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "NHS Vacancy Statistics England, April 2015 - December 2025, Experimental Statistics",
+      "summary_de": "This is the latest compendium publication in the NHS Vacancy Statistics series containing vacancy related data for the NHS which provide different views on recruitment information for the NHS.Data from NHS Jobs, the Electronic Staff Record (ESR) and Trac Recruitment Management Software (Trac) provide a range of proxy data sources for NHS vacancies. The series also includes management information related …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-vacancies-survey/april-2015---december-2025-experimental-statistics",
+      "published_at": "2026-02-26T09:31:53+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
@@ -2134,8 +2232,8 @@
       "type": "News"
     },
     {
-      "title": "Krankenkasse für ein gesünderes Leben | BARMER - Barmer",
-      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; Barmer",
+      "title": "Krankenkasse für ein gesünderes Leben | BARMER - BARMER",
+      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-20T08:00:00+00:00",
@@ -2173,16 +2271,6 @@
       "tags": [
         "Versorgung"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Die Zukunft der digitalen Gesundheit gestalten - Barmer",
-      "summary_de": "Die Zukunft der digitalen Gesundheit gestalten &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VTHZfQ2lBNFY5NlVhRXhuaWt0MHlRMlR3QUE5SDlSTno0NWdNUkxFM0JKV2xXMWI5SnpaeV9UWHJlZ3Q3RlM0aWJPSmpNMml1VjNVTzJYVHBmY09NTmFIRTlJbnhTdEpYcWVseDRJLUtFNGta?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-19T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
@@ -2284,6 +2372,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Ihr Portal für Digitale Gesundheit - BARMER",
+      "summary_de": "Ihr Portal für Digitale Gesundheit &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDTWN3bVQtWVZ3X29IVmZUSGR2dXYzWlZiczJvT0NHVkNfdTBsdklrNE5fc1BOU2dVUFcyN01GMld4N3E2eGpLbnlzQlFPd21fUVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-16T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "deinMRT – Radiologische Diagnostik für eine bewusste Vorsorge: Aufmerksamkeit für die eigene Gesundheit - RP Online",
@@ -2447,21 +2545,11 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Haldensleben - Barmer",
-      "summary_de": "BARMER Krankenkasse in Haldensleben &nbsp;&nbsp; Barmer",
+      "title": "BARMER Krankenkasse in Haldensleben - BARMER",
+      "summary_de": "BARMER Krankenkasse in Haldensleben &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMEpYclQxNFdvVkxxS0xXSUxzdVotR0FKellhM2R4LUlpUU5CZ05fdDBtZ25WUWlHOWlvU1hyYWhIQ1pSSllZeVcyeTZ4WmNzb2pQdzNOOEpHYy1IQ05namZ4S0ViSVNXWEVqQV9LM1h5Y21jZXFOQ0NhVHJDLWcyX19EWkl0NlJiM3pVcFBjZWlrRUg1Um5mRlRfS3ZmLXRBbHVDUWttcmdzWFc4VmZVZlF5SGlmMUZGdnJySEtiekFWUkE5aUd1ZkVaUEkzdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-04T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "DAK-Gesundheit - dak.de",
-      "summary_de": "DAK-Gesundheit &nbsp;&nbsp; dak.de",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ncWpLdkxWblBBZTZMREM3c1pMZ0dOa1VsLXhINkJNOFloOTF3dHRCRXlJTjA3VlpmRVk2VUhGUVRTWXV3NFpfSWtPRk5tLXh5eE42SENDRU9ja3hTcXdBb1BjcmprczJVc29Hc21HNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-03T04:15:45+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
