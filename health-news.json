@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-14T12:34:54.630199+00:00",
+  "generated_at": "2026-03-14T15:20:40.974028+00:00",
   "window_days": 42,
-  "count": 245,
+  "count": 253,
   "items": [
     {
       "title": "Materialien für Nachhaltigkeit (Bachelor) Hochschule Aalen - Technik, Wirtschaft und Gesundheit - HeyStudium",
@@ -9,6 +9,16 @@
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcFNSNUVuMThZSk9ya2pLTGl3RUxKZGxucUNVRDN0MHhnQ24yTDV4cDJNenZ1WURjelBkMnVxUTkyOHI2Q3BxSkJ6anNuVktsRHBEM1h5TU9DcTZnWDZQUXBMTUxoRE1xTm1EY3ZhM1FNTjFNWjlsMDZISmZDZHQybTBzZHZ4SjA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-14T08:37:01+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Albert von Thurn und Taxis nach Rallye-Unfall in Österreich im Krankenhaus - Spiegel",
+      "summary_de": "Albert von Thurn und Taxis nach Rallye-Unfall in Österreich im Krankenhaus &nbsp;&nbsp; Spiegel",
+      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVjh0NWpXb0FlYzFncFZnbkFfSDctNlF3aTA3eWV1RV94MU5BRTNaWUtjWmhZTVNNOGt6dUxYckktRWlaVHZkc2lTa1A5S0ZPNUV2RXpaUGhZRzZCY1ZrVVZGN3J4LTlzY3JwLUVpT1N5MFJuNHF2a0FjYmhjQk16eW8wLW5DUWNXY3F5Q0NuMmNwT2lxYkVMMjBtcVNsbzBSYWR2YW9oRE1kcUZDTVgwTEV1RFZMNUNyYW9LMnlKejhYVDVLemJ0U2FJZl9XOEp4anFSbElEcXpnNDBjTHB1dEtWWWNvTWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-14T08:22:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -49,16 +59,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOR0hoeXBJOFo0ZTktQnFkbkFSMkQ3ZGg2NTJ2cHRwaDVMM1VGUlgyd1dieXBjeXRNb1dLOW5nT3U1Z1ZrM3dGSmRyU2RSTFplSmkxUUxJQjZucmN0N2xsRnllS2lLa0xIX3ZpVDNFZE9hcnQ2LU9tbHJVNjFrZnE3Mk5OVDRBWXdtSXBRNHZoOG9SSWRIVkI1QnZPYVlGWUh3aFctczVmYlVQVHFDbjA5Smg4RGE0Y19mVGFqVERGQ2RPMi1mN2E0dFBCZTFjaU4zendxSE1HWmhVblNIREVJX0Jsbk5Yd3lZZ3FWVFBZOVB1TVkxNTNkNmpXbw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-14T01:30:04+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit & Wellness in München | Süddeutsche Zeitung - SZ.de",
-      "summary_de": "Gesundheit & Wellness in München | Süddeutsche Zeitung &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYUVhM2hJcXp3X2hKWlVuMVFvWE5BOW1BdW1jd1E4SjB4SXdISHlUNjRDZkhGSFUwRUlxS2h1U2dQaW5KZEl2ZUdfblpmeUhxNlZHckhVWjNEakNlNUhTZUlleTYxUG95R0pEUXpQV0NsaWZlaERKdW5nNGRoSHAzTWYtRDl1akZKYll3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-13T21:56:15+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -410,6 +410,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNnlIMEZSQXNXcmJrcWxOUzJLcXVBN2JkNUJOLVhjODNVd1FIQkJNMFphME95UTFfZWRBSWl4VVlMRHF0YVI2SmNNM2Zoemt6d21ybEZ5RTlOMjR2TERSS2xjZGU5VG9HNDkwRnA5OUN2bmhxQ1Q2LXFpRjRRYjIzbnZtOXhqUDJmZ3gtblNOU2FuaGNGbzZRYXBnVzFOXzl1TUNMU3B5TTI5XzV6STloZXhB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-12T22:59:00+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Photon-counting CT: The art of transition",
+      "summary_de": "In a new column, Matthew Dedman of Siemens Healthineers North America discusses the benefits and challenges of transitioning to...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15819380/siemens-healthineers-photoncounting-ct-the-art-of-transition",
+      "published_at": "2026-03-12T17:07:18+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1060,6 +1070,26 @@
       "type": "News"
     },
     {
+      "title": "USPSTF guidelines lead to shifted views on breast cancer screening",
+      "summary_de": "Women's views on breast cancer screening are more aligned with USPSTF guidelines after viewing an informational decision aid.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15819496/uspstf-guidelines-lead-to-shifted-views-on-breast-cancer-screening",
+      "published_at": "2026-03-12T08:46:21+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Physics-based technique improves reproducibility of lung density metrics",
+      "summary_de": "Better quantifications of lung density may produce more precise assessments of lung disease severity.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15819506/physicsbased-technique-improves-reproducibility-of-lung-density-metrics",
+      "published_at": "2026-03-12T07:59:10+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "GKV: Mehr Rentner und mehr Teilzeit werden zum Problem für Krankenkassen - Handelsblatt",
       "summary_de": "GKV: Mehr Rentner und mehr Teilzeit werden zum Problem für Krankenkassen &nbsp;&nbsp; Handelsblatt",
       "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
@@ -1200,16 +1230,6 @@
       "type": "News"
     },
     {
-      "title": "Pflege - Viele Sachsen sorgen sich um Pflege im Alter - Karriere - SZ.de - SZ.de",
-      "summary_de": "Pflege - Viele Sachsen sorgen sich um Pflege im Alter - Karriere - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVnNYUzFhMW1yZ3Y1b3BBRG4tNmlfcG5hcFJ1eVZIdm9lWDFiN3RPZTNfOFgxRWlRTFdaZDNyYUJXUFFPUk82MC1wWUN1d3hTeGU2S29CbjZDanJkQ3BmdG5Hd01WajViS21qVm5QS3NvVHR1Z3hJWUZGbXU2eS1RaUNJLTYwQXBxOWdGYm1PY2NRdTdJSkU0Z2cycGRYUE93QklpdXZtMGkyclBWcTM3dm1ScTA5blc4Qks2OXZ4UTNKeW1jWk5QY2s2bnoxaGRudE1GaA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-11T13:42:39+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Länger leben mit Nahrungsergänzungsmitteln – schön wär's ja - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Länger leben mit Nahrungsergänzungsmitteln – schön wär's ja - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1225,6 +1245,16 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWW5BN3BuYXVjSWtpSy1sbUNwNW9RQXFUbXh3bHBwcFR2ekh0cnZKY2dnQ3ByUEw5Ym1Wb2NHeHZiSjZVcF93a0MxZ05YWlp1NGNINGIzYV9tZU9BSjBHSHpQVF9WSS1VTVF3ejJTcnpTbnRYZkc0dThHUE9EejFoWGgxa0dQQ1h2UHEzLTlQM0NXazlqN0NlN2JuQzFwWHJwSF92Y1huNjFqYzBZeGI2dE85ZF8xZ3RQa2ViSWFYRWkwN1VKQTVMWC02S2prbG5sNk1NUHIzV2ZhYVIt?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-11T12:39:02+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Modernizing Radiotherapy Workflows: Lessons in Safety, Consistency, and Adoption at Scale",
+      "summary_de": "null",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/article/15819393/elekta-modernizing-radiotherapy-workflows-lessons-in-safety-consistency-and-adoption-at-scale",
+      "published_at": "2026-03-11T11:43:59+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1250,6 +1280,16 @@
       "type": "News"
     },
     {
+      "title": "Suspended suits offer protection for interventional echocardiographers",
+      "summary_de": "Suspended lead suits reduce head-level radiation doses to interventional echocardiographers compared with traditional lead aprons...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ultrasound/article/15819343/suspended-suits-offer-protection-for-interventional-echocardiographers",
+      "published_at": "2026-03-11T08:37:28+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Meldung: Eine Frage der Fairness – und die kleine Chance auf Beitragssenkungen",
       "summary_de": "Die vielen Forderungen, Zuzahlungen für gesetzlich Versicherte zu erhöhen oder Leistungen zu streichen, hat Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, im Gespräch mit der Kölnischen Rundschau (KR) zurückgewiesen: „Es wäre nicht angemessen, als erste Maßnahme die gesetzlich Versicherten stärker zur Kasse zu bitten.“",
       "source_name": "GKV-SV Presseinformationen",
@@ -1262,11 +1302,11 @@
       "type": "News"
     },
     {
-      "title": "Besondere apparative Ausstattung | Klinik für Allgemein-, Viszeral- und Thoraxchirurgie | St. Elisabethen-Klinikum Ravensburg in 88212 Ravensburg - HEK",
-      "summary_de": "Besondere apparative Ausstattung | Klinik für Allgemein-, Viszeral- und Thoraxchirurgie | St. Elisabethen-Klinikum Ravensburg in 88212 Ravensburg &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOZTNVQlFKQTBQTU5oRU5rUFBkdDZmbnFZaE0xZTRpOXFfaFV4eXRkdlY4Wmxxc3ZIMEozYllxcjRmN29hVFlmS1c2Yy1TUzJhSThxOGltbmlrbUtnQ1NnUlBEQ2Q3ZGdBaGNMX1VNb1lJYmhmQmxEc2pzcnRuY0J0cEpQTnZIakloWjNoemtZekVtR3ZfaDBPNndYbFdQM0dXU1p4SVFPVkJMQjhPZk9CSXN0UEV1UDJTQWxMQXpvTFF5OERIN2RubTR0YUo2UGRNeUZHNERzdVVlamtObXdjaU9FSlFTeDRCX244eHFkQjdVcmlkRWpGTFpUQXk4VGRoZFNIUzR5bG9IOGNEUjdaZHlpTQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-11T07:33:16+00:00",
+      "title": "Google AI Studio shows potential for AI-based lung cancer detection",
+      "summary_de": "The model identified lung malignancies and produced consistent, structured reports, but needs further refinement.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15819338/google-ai-studio-shows-potential-for-aibased-lung-cancer-detection",
+      "published_at": "2026-03-11T06:06:36+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1300,6 +1340,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "New MRI scoring system predicts early liver cancer recurrence",
+      "summary_de": "The system performed better for this indication than pathologic analysis-based prognostic models.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15819246/new-mri-scoring-system-predicts-early-liver-cancer-recurrence",
+      "published_at": "2026-03-10T17:54:40+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Decision: Advertising Investigations: February 2026",
@@ -1382,8 +1432,18 @@
       "type": "News"
     },
     {
-      "title": "Künstliche Intelligenz im Fokus: Radiologen forschen am Klinikum Minden an der Medizin der Zukunft - mt.de",
-      "summary_de": "Künstliche Intelligenz im Fokus: Radiologen forschen am Klinikum Minden an der Medizin der Zukunft &nbsp;&nbsp; mt.de",
+      "title": "Qualitätsindikatoren | Klinik für Radioonkologie und Strahlentherapie | in 45468 Mülheim a.d. Ruhr - HEK",
+      "summary_de": "Qualitätsindikatoren | Klinik für Radioonkologie und Strahlentherapie | in 45468 Mülheim a.d. Ruhr &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNUDBKaV9kc2ROM3VkYWliYm41ZXdOMDZ4eG1EX1JsbGRMYUxxLW1VeFlYZ1dDNmtqTUgtRmNacVgyMDZOZjNscmoySnBxZ3V0aDVDdUpYQVdRQi1Xc0lib2VQdmhJV0dEUm5UWi0wb2E2QjJmM1U4NUxPc0pCS01hRTVPdUdLQzVhcnh5TXdRQ3NabmFUTjZoUFhScWRQSC1lT0RHLXZ0bEdiSXpXZTlma0YwTkFPa21lYlhYMHhmbVBXdEVmUkQ4NHFNdFRBQWRKMjUza2hOa0ZGUVUzMUtnRTBTV18ybFVURFpFYjcybUszN0x5MGdiYy16eU0yVWVQLVo1eVlZUEEwSGIxN0JXOGE5RHY2Z1ExaENfTUNhc2ZWSjJGekk1U0k2M3I?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-10T11:03:52+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Künstliche Intelligenz im Fokus: Radiologen forschen am Klinikum Minden an der Medizin der Zukunft - Mindener Tageblatt",
+      "summary_de": "Künstliche Intelligenz im Fokus: Radiologen forschen am Klinikum Minden an der Medizin der Zukunft &nbsp;&nbsp; Mindener Tageblatt",
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRXFhVGZIbUZCRWdKa2I0dHd0V1V2MzhTLXRZZ1M1Y2JwVFJWTnR0OG1pVktxRkNfUll1VkNvdEVhWFFuN28tTjN4am0yUnVkSF9GQ1ZQM0lnTTlYalZHWnhFbTJkY3dFSmVFa2ZCRTBORXBmNFgwUGxWU2V4YURIMDQzeXF4aGltV3pEQ1ExS21tYzMyQlBsQjBUUWJvTC1XcFJONDBlclhLcEpqSktnWjZZV0R6QS05Tjl1MzBzR0VUU25TY0hlQS1paktBRTRpb0R4TGpNMVhJcE55clE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-10T11:00:00+00:00",
@@ -1402,16 +1462,6 @@
       "type": "News"
     },
     {
-      "title": "Schattenseite des Vaping-Booms - Hat der Staat kapituliert? E-Zigaretten-Schwarzmarkt brummt - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Schattenseite des Vaping-Booms - Hat der Staat kapituliert? E-Zigaretten-Schwarzmarkt brummt - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOT1ZlYXJaNnEwaGl1RTJyN09nR3NRYjcybUNSY0dpNWtydFNmeU1xZ3JiUUozWHBkV3ZWWUg5SjlYVXBEUV9IMDgwNmU1ekhvMjhtZi1MeFRYeEY5a0JNdTZ0RndqZ2NuYTA3a3Q0cnpEWnQxNnB1ZTI3QmM3VlJqMlNqeEJtWFgzdDFwZ25DUVM3ckRkUi1HTFV4M1o2YXRIMmUwWUktQWFqTktRYnN6TmF1b2hYVUI4OGRZOVVhMUdrdm9uMVdXLW1GeUJ2M1RFTXZGNUNOektIVXJ2bDViQ0xRdFZfaDFfU0gtbkFGanNLQmhsY1NoNlBsOTA1dzF0U2RKWWhlaUV4dw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-10T10:00:07+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "gemeinsame Pressemitteilung: DKG und GKV-SV einigen sich auf Leistungsspektrum der sektorenübergreifenden Versorgungseinrichtungen",
       "summary_de": "Die Deutsche Krankenhausgesellschaft (DKG) und der Spitzenverband der Gesetzlichen Krankenversicherung haben sich auf das stationäre Leistungsspektrum der neu zu etablierenden sektorenübergreifenden Versorgungseinrichtungen (süV) geeinigt. Damit ist die Selbstverwaltung im Gesundheitswesen einen entscheidenden Schritt zur Umsetzung der Krankenhausreform gegangen.",
       "source_name": "GKV-SV Presseinformationen",
@@ -1424,11 +1474,21 @@
       "type": "News"
     },
     {
-      "title": "Eingriff zur Erweiterung der verengten Herzkranzgefäße (Koronararterien) und Herzkatheteruntersuchung (PCI_LKG) | Klinik für Allgemeine Innere Medizin und Gastroenterologie | AMEOS Klinikum St. Clemens Oberhausen in 46145 Oberhausen - HEK",
-      "summary_de": "Eingriff zur Erweiterung der verengten Herzkranzgefäße (Koronararterien) und Herzkatheteruntersuchung (PCI_LKG) | Klinik für Allgemeine Innere Medizin und Gastroenterologie | AMEOS Klinikum St. Clemens Oberhausen in 46145 Oberhausen &nbsp;&nbsp; HEK",
+      "title": "The future of BI-RADS includes AI",
+      "summary_de": "A presentation given at ECR 2026 outlined how AI-driven BI-RADS will further improve breast cancer risk assessment.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15819241/the-future-of-birads-includes-ai",
+      "published_at": "2026-03-10T08:07:49+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Klinik für Psychiatrie und Psychotherapie (mit Tagesklinik) - HEK",
+      "summary_de": "Klinik für Psychiatrie und Psychotherapie (mit Tagesklinik) &nbsp;&nbsp; HEK",
       "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNUTZScnhNYXV1ZTFndFgxeUlfckYzZFZncDFKTmpCOEdlYTl6ZVJybGxDalRUaUIwcG1GY1Nlall4SHhURkhTR3BINm84NHVHb2pyRHFCZmFTUHp6ZGpDMGs4cVVuMjFtTlFvdjJ1VFBINlZIMUs4TUJqUEdtTzF5MEZDXzhkSXRVWXpHUzFieHh6ajZXbDVrWnh1TmZfcWkwRHVBekxoZDBoNGFLUHZTM3Z3UmxiUjVjSDBxQzdUVXIydXlQMmtiNmdxQ0hZa0NWVmVpMzk1TldmS2ltQ1dlX3hGLW4zU1hHb01teFRGQm5RWHBUbjNaR0VoSnV1bE1KU3pVMXV2eTBJRklmSE5ZU1Z0VXBOdkRYc2dSaXlIeGVZX1ZybmZn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-09T19:34:51+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMW9pNzZaYkY4QU1nZEcwNGZpbkZTRE5xb09wcFpDTzdYLV9yeXlJY04xdnBObjlCVmZ4NmNIUHJCNlFKYW9JTlN5Y3ZqcjctZFZTSjVhdG1qc19zbEY1dnc5Y2NoTVNvNTR2V0FVaER6Mnh4YlRZOExhV1RweW90Ym9OYlVjS3hoMGYzMmRIeldxTmFyczluMTduSWNvOGxJVm42Y3pWSC1Xc2JXNGVWNDlXdHBVZDdKOWxfRlNHRGlRTlZscVVEc0YyRTBKQ3V6d1lKNVJBeTNPV3hqdkZXdU55UFFiQ2YwUmJId2R6SHVtaElSVjlYcg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-10T06:06:24+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1572,6 +1632,16 @@
       "type": "Studie"
     },
     {
+      "title": "Unstable brain networks may drive multiple sclerosis fatigue",
+      "summary_de": "Fatigue affects between 36.5% and 78% of people with multiple sclerosis and can dramatically impair their daily lives.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15819153/unstable-brain-networks-may-drive-multiple-sclerosis-fatigue",
+      "published_at": "2026-03-09T08:19:50+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Pressemitteilung: Moderne Hilfsmittelversorgung: Fortschreibung des Hilfsmittelverzeichnisses stärkt Qualität und Patientennutzen",
       "summary_de": "Der GKV-Spitzenverband hat dem Bundesgesundheitsministerium den neunten Bericht zur Fortschreibung des Hilfsmittelverzeichnisses für den Überarbeitungszeitraum März 2025 bis Februar 2026 übergeben. Damit setzt der GKV-Spitzenverband seine Arbeit fort, die Versorgung mit qualitativ hochwertigen und bedarfsgerechten Hilfs- und Pflegehilfsmitteln sicherzustellen.",
       "source_name": "GKV-SV Presseinformationen",
@@ -1585,31 +1655,21 @@
       "type": "News"
     },
     {
+      "title": "AI-calculated BAC on mammograms predicts cardiovascular disease in women",
+      "summary_de": "AI-calculated breast arterial calcification (BAC) on mammograms could help predict cardiovascular disease risk in women.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15819128/aicalculated-bac-on-mammograms-predicts-cardiovascular-disease-in-women",
+      "published_at": "2026-03-09T06:20:58+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Kunst und Gesundheit: Gucken Sie sich diese Bilder genau an. Ist gut für Ihre Gesundheit! - DIE ZEIT",
       "summary_de": "Kunst und Gesundheit: Gucken Sie sich diese Bilder genau an. Ist gut für Ihre Gesundheit! &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON29nVy1pZFhTck9DQmVKRC1Yd2Y0aWZOQThHUnk4bTFzT3FDV0RCUWw0eE9Wc0duLTFHcDZ3SVV5Y0M3VFBDOVlnN3lBNnh0V2VoYmtwVWFlMU1McmZUZ1FwRDZMem1WaWVEVk9ab1JXNzdBckJUd01ybnRjOGREb04yNUVRb0VQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-08T19:12:39+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit: Influenzawelle in Sachsen-Anhalt geht deutlich zurück - DIE ZEIT",
-      "summary_de": "Gesundheit: Influenzawelle in Sachsen-Anhalt geht deutlich zurück &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbndMZUMzZXFwM0dJRWp5OTRicVk5d0tDc1ZKMmZyU0xfeXNlTnJQTmVfck1KUjVSSngyekg3RzE0SnhPUWNIeHNGZzJFel94X1lMcFJrMnJqSXNldUExenpPZlNNOEI4RDhUako0WndYSUJpSENlb1VEOUpiVUd3X3k2bHB6Mlc0WHdJQ09FZUdKc0F6?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-07T14:03:25+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Klinik für Gefäßchirurgie und Gefäßmedizin - HEK",
-      "summary_de": "Klinik für Gefäßchirurgie und Gefäßmedizin &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWjJ5TzZfcFVNbWcwbUVzOHZXeXp3bWxEMmo0QU9jaVQ2dEx6bVNYU3QwOUZrbWwxT0hWZllBUHFwMFl2YUJUQk1Ec1AwbEFwN0hVcUp4ODljTDJyWVMydExlVXpLMy1hbFVpYXlvcEN0MVN2ZFJqUTd6RVFybW91S1ZaVVFNVEVVZFRFc3I3ZDFXVU9pdFZjMWdPbERfQ1c5SDBYX2ZvQklfd0lIM1BjZWw5Qll3YXNXcE5MTzdCSTZOejV5b2MtMi1RajlCMzgybEgyaTkwSzQzWHVrei0wV0RqZDVybnRJcXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-07T09:53:37+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1654,6 +1714,16 @@
       "tags": [
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Die häufigsten Fragen zur TK-App - Techniker Krankenkasse",
+      "summary_de": "Die häufigsten Fragen zur TK-App &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeUJQYm10RWxnUFVOMkFsVkJyQTN0T0MzN2w5cU92aHhDTE04VlVra2RnSnVadXJEMl9vMzBMV0tyeXNsenFYWU45LXhrVnN6dEVKQ1ZLVms5U3lLMzZFZ0lHVElYVEFuREloZ1o5el8wT0d1a1AtSi03eDRVa2tMTDhjcEd5Nk5oX2Q2WGdzUFZ3VDlfRDB3YUJRVC1RRlJkZHlvZDRsUmxSRzhiZkUyR0JZQkg3dTlp?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-06T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
@@ -2043,6 +2113,16 @@
       "type": "News"
     },
     {
+      "title": "Personal | Klinik für Chirurgie | Erzgebirgsklinikum gGmbH – Haus Stollberg in 09366 Stollberg - HEK",
+      "summary_de": "Personal | Klinik für Chirurgie | Erzgebirgsklinikum gGmbH – Haus Stollberg in 09366 Stollberg &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYkY5TF9wcExHZmxBa1Z2U2VMMmtCWXVuUEhnOURqdF9sYUFEaTFMRFc5Q3NaUDNCamtheE41cDhSSU1WRm9WdE8wejhqdDB0LThoSV9SU1Y1Vzcyd2RTcnBNMXNvdjRGc1ozbms3NTRDOEhNSzBMZWlJVW9YVWFVS25UYmRnemlEWEdLMDNjMTFwVk56M2FWSEstZFZtQzhBbjFvOGFpcHNGT1pUWkxnZ2NsZzRWandfWTRkVEhBTnkwSE1vZmN1YzJRN1hBbE5ROGRjQ1hlVmZnR2NOOHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-26T10:00:55+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Patient-Led Assessments of the Care Environment (PLACE), 2025",
       "summary_de": "This publication providers the results from the 2025 Patient-Led Assessments of the Care Environment (PLACE) Programme. PLACE assessments are an annual appraisal of the non-clinical aspects of NHS and independent/private healthcare settings, undertaken by teams made up of members of the public (known as patient assessors) and staff. The team must include a minimum of 2 patient assessors, making up …",
       "source_name": "Publication Feed",
@@ -2200,6 +2280,16 @@
       "type": "News"
     },
     {
+      "title": "Personal | Klinik für Kinder- und Jugendmedizin | HELIOS Klinikum Pirna GmbH in 01796 Pirna - HEK",
+      "summary_de": "Personal | Klinik für Kinder- und Jugendmedizin | HELIOS Klinikum Pirna GmbH in 01796 Pirna &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSjdYdGE4OVBlMFVFRFBXUFJON25wQmphN0loazBER0JqLWplM1o3SkhyTkpYcXg3ZHZHSEQ4aVZHUXc5dThBVlhKaWM3ZTRPbWg5U2V5UXd2bjd5RTBlOG9xWWVxM3VHMmhlS2ZWSnByVmgyV3ByWmxMSHNfSHNuRllDYjFFYVUzc0Vzb2M4ODVpdkxIRXpwWExGWnpEaWRMZktQUTFoRmtLX05zMVBDYURxODVQZE8tSGI2WU16bGlhd2F2Z0JtX1lVZlRLcEJZdTRyNDJMYjljblk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-21T06:31:12+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Recruitment procedure opens for next Executive Director of the European Medicines Agency",
       "summary_de": "The vacancy notice for the next EMA Executive Director has been published in the Official Journal of the European Union, marking the beginning of the recruitment process for the…",
       "source_name": "News and press releases",
@@ -2332,22 +2422,12 @@
       "type": "Studie"
     },
     {
-      "title": "Ihr Portal für Digitale Gesundheit - Barmer",
-      "summary_de": "Ihr Portal für Digitale Gesundheit &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDTWN3bVQtWVZ3X29IVmZUSGR2dXYzWlZiczJvT0NHVkNfdTBsdklrNE5fc1BOU2dVUFcyN01GMld4N3E2eGpLbnlzQlFPd21fUVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-16T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Innere Medizin Gastroenterologie - HEK",
-      "summary_de": "Innere Medizin Gastroenterologie &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUXd3SHlTWHN0ZGRrSWxVT1pDc294TkZGblMtYVk1MEd3X1pkQ0JIcTdQLXlQUjNfazR4UVRiQ0lCV2twUnpTWWd5R1RxRUV0cWRYTXpvbnI5VDFSNWhuQVAtX3FtMnlUb1Z1MlRCTGRDWVhQTEljb1hhLW5UR2hCQjZJSVM3RFJpN1JMY2ZwVVBOQmR2enF3NWs2bFFKVVlxNGxOeGpMV0xPYUpxLVNpbE1Wb1pjTFFpSkhHU2pxUGZHRVFIR21PdWxOSllCb3R5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-16T04:31:37+00:00",
-      "category": "News",
+      "title": "deinMRT – Radiologische Diagnostik für eine bewusste Vorsorge: Aufmerksamkeit für die eigene Gesundheit - RP Online",
+      "summary_de": "deinMRT – Radiologische Diagnostik für eine bewusste Vorsorge: Aufmerksamkeit für die eigene Gesundheit &nbsp;&nbsp; RP Online",
+      "source_name": "\"site:rp-online.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdTAtR2dxZHIybENCV0ZEdzVmTjc3RUptaFZoVEpiVVZvRkFubXBtdnFGRVc5dm1oal90alVvWXJpTVpNWXF6aGZvYmk0ODJCMlNaSmlMbTU0MTVSamRONzZKc3owdGtGdDFvU055Qm1USm14ZnNzdWJvRmw2S1dMc2dqcUVXV3pDZkZLQ3k3ZTJtczl5d1RVRktIa2txVGtDdXJSdnFHZjVTQnZa?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-13T21:35:13+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
