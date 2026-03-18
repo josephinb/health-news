@@ -1,18 +1,8 @@
 {
-  "generated_at": "2026-03-18T18:51:20.715445+00:00",
+  "generated_at": "2026-03-18T21:28:16.611680+00:00",
   "window_days": 42,
-  "count": 279,
+  "count": 274,
   "items": [
-    {
-      "title": "Chronischer Schmerz: \"Der chronische Schmerz ist eine eigene Krankheit\" - DIE ZEIT",
-      "summary_de": "Chronischer Schmerz: \"Der chronische Schmerz ist eine eigene Krankheit\" &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbFpCMjN3dm41aWx4TE02dWtZVHRhZG54d1A1MEcySXROZFgxcVdjM1dUbFI1QkRMa0dKalFHQjZYakJKenFOOW92enUxMG9DalI4Y2Q2M09GTnFFNy1HbGhtMU1wM2FSTS04Y1RFX3hieTVmRnI5a1FvcmxCMi1BRkkxVmR5d1l5eldpVWJ6UG1IMkdOdk9FS1FwZjhxTmVYUHN1SA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-18T17:31:32+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
     {
       "title": "United Imaging Intelligence China - AD HOC NEWS",
       "summary_de": "United Imaging Intelligence China &nbsp;&nbsp; AD HOC NEWS",
@@ -194,6 +184,16 @@
       "type": "News"
     },
     {
+      "title": "An RT weighs in on MRI safety: We know better, we just don’t do better.",
+      "summary_de": "A troubling pattern has emerged: resistance to safety measures doesn’t come from patients but from within the field.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15819891/mri-safety-we-know-better-we-just-dont-do-better",
+      "published_at": "2026-03-18T15:20:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Bundesverfassungsgericht : Keine Kostenübernahme ohne Zulassung",
       "summary_de": "Ein junger Mann leidet an Duchenne-Muskeldystrophie. Nach einem langen Rechtsstreit hat das Bundesverfassungsgericht jetzt entschieden, dass seine Krankenkasse nicht f&uuml;r eine Behandlung mit dem Arzneimittels Translarna (Ataluren) aufkommen muss.&nbsp;",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -268,7 +268,7 @@
       "summary_de": "Doringer setzt auf modernste CT-Technologie &nbsp;&nbsp; wko.at",
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHXzBSSzFkc1RIVF9LUGpadnVXZGtwTG5tZnV3czVrbEFQc0ZGUnBVZ3VZdi16OFdYXzY5ZDJBY2tPMFRkLWNoUUY2RzdEZk9rLXMyazZqSXhpcGxFbHoxQk4zbw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-18T14:12:37+00:00",
+      "published_at": "2026-03-18T14:12:34+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -760,7 +760,7 @@
       "title": "Medizin-Revolution Salzburg: Hightech-CT hebt Diagnostik in Salzburg auf neues Niveau - MeinBezirk.at",
       "summary_de": "Medizin-Revolution Salzburg: Hightech-CT hebt Diagnostik in Salzburg auf neues Niveau &nbsp;&nbsp; MeinBezirk.at",
       "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMFk4MjA4Z2VMX3VsTFhvclBEcklZMTlFUU5qYVZ6STVaNThURWdYMlBQYm03V2t5TkltakVkLXNFaXloYzZlVDZrTnhUdGtEVVNhaEFaU0FvdlVvT0xaaF9IX01sYTBjTkdsWTRmUTdGeG9NLU1oalRfLTNLSnVZTXE5dkIxbXBmMkpycVJ3cjBGSzJwdlNycnBDbk55QUk4MUkwNmstcVExMWxxdXpMUF82end2RExuX0FiVGlwc0tJUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdG1aN1Y5UmtyMEh0WW5vZXVvOGpjZFlLMThzZEdXMkVJWTBWZjdlNVF6cHkwbmlHcE11bC1sQm0tLXZrdEo0d2JfdnpXZVZySmdDb0V4clV6cDloUFlCeUNyNGRuZTFJYVRmcnV0ejN2VDRkelQzZzNBSzdPUDVpZE82cURKNHUyMEhIRmhWVFlQODFHektBbVNRUVBTS1lxOGNaNFV6dGRuRjBQMjZHZDlWaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-17T13:12:05+00:00",
       "category": "Radiologie",
       "tags": [],
@@ -874,16 +874,6 @@
       "type": "News"
     },
     {
-      "title": "Quantenverstärkte MRT soll Krankheiten früher erkennen - journalMED",
-      "summary_de": "Quantenverstärkte MRT soll Krankheiten früher erkennen &nbsp;&nbsp; journalMED",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRDVDM2k3dU9qbnc3dHdJUUN0Y3Y3eEo3eXM4MDRmcWtrR2Y3UlJTSUc1T21rSHE5M1J6RmhCaVZ3MDI5Q2VRY3NGWHp6RjFqcndEQV81UF9xLXlrcUtyamZVdU5aRDJiNkJPRGJGSG8xQzM5TVJXdkM0MFRyMEk5RVZNWU9lUC1xX0RRdnJZaGxocEI0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-17T06:42:27+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Culturally tailored videos may help inform breast cancer screening",
       "summary_de": "Informational videos that are culturally tailored could help improve breast cancer knowledge among patients.",
       "source_name": "AuntMinnie",
@@ -980,16 +970,6 @@
       "summary_de": "Gesundheit: Harnstein kein Ausschlussgrund für Job bei der Polizei &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVmJlb1JoUFNHeHpQbDBYZjkwaVpJUy1GQVN4UjdfQmxhMk1OME1WbDdpLTlpU3pMR2hmeThBbGFTNkhwYTNOblA5OTNxMXhmTk9FcUo1WEh0NndyWl8wZXd3SUp4Z1Qya1JBU2FnQ3pKR2htbWJsWWNaQWV6aVNDdGRhTnYwTUZ2N3REMXU3MWdoRHJiU0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-16T14:03:55+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit - Harnstein kein Ausschlussgrund für Job bei der Polizei - Panorama - SZ.de - SZ.de",
-      "summary_de": "Gesundheit - Harnstein kein Ausschlussgrund für Job bei der Polizei - Panorama - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNVRzUWF6RmpRZTRmSzNJZWRMMk1MazJfX0xGalZEY1NFcnM2eEZrMHNXX0F4LVFLUDFERGZyUDVZNEN4dXByaU4tbFh0UG1PSFhDNC1DQjVMT0VBVE5XRXMzZy1Ib3dER3lJR1dhZ2dJdEluQTc4dmFmU2pOUTNhUHBoMlpTQjZ5Ql9rYk5OOERZNUV6clBuQjVINGhtbDVfVi1Cb0xXU01GczRLNmlmRGxYTFVWMVNHOE1DV2YxSVhta1hrTkFncGZQZUZjTnFhNVA4UW4tWUlubllUdU1WMGRsb1MxM3cy?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-16T14:03:55+00:00",
       "category": "News",
       "tags": [],
@@ -1158,21 +1138,21 @@
       "type": "News"
     },
     {
-      "title": "Medizinische Leistungsangebote | Klinik für Gynäkologie und Geburtshilfe und Gynäkologische Onkologie, Zertifiziertes Brustkrebszentrum (DKG), Zertifiziertes Gynäkologisches Krebszentrum (DKG) | Kreiskrankenhaus München-Pasing in 81241 Münc",
-      "summary_de": "Medizinische Leistungsangebote | Klinik für Gynäkologie und Geburtshilfe und Gynäkologische Onkologie, Zertifiziertes Brustkrebszentrum (DKG), Zertifiziertes Gynäkologisches Krebszentrum (DKG) | Kreiskrankenhaus München-Pasing in 81241 München &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOaENIMUptR2NWejVCWkpUc3VPVC16WHlmUlBNYkFYLUZZRmtPbGtISTlHOVB0RFo4WmJIZHdOQzByeGpfUmg3LVlWd19yYjdveWNUX1ZGbk9yRzBvUURaNlY0UHNlVmlDNXFSNEVEY3FlTDZWaFdXY1oxVi0ydkp2WEJOYXZZZWpiQkoyMG1xdGV1bHdQOGxiREpSQU1KRkJrU3BVOTR2MnV0M19JaUpfRm1sQUhLaFZwSHNzY0lPVG1qZ2x0MWNHXzlTUU1yUG1zVkVXLXRBbGV0MEI5VEVRX2wzTGg2TXVLMUF2N0dXMjEzbVJvMnUzU0xTLW8xTFJ3X0xJUXQ0NmRINkJTcEdHNERadlNLZWhfbHk2dzRacXhucklQQkVPcF8wQlVyaTVpb0k3VjItQURmR2ZSeE9XdWpkampNWHpiSU1QUTBBc3NLMjVWVGw4Szc2Tk5KX0l2bXhXSGxJU1NVYVVNSXFyc3IzWHJfV09aTFJWOUxWbUlBTmlJazdqRXIwLTJhMk40SERsdlEtclg5WXgzbXA5b05PNGU2X3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-15T02:33:12+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Öffentliche Gesundheit: Was bringt eine Zuckersteuer? - Deutsches Ärzteblatt",
       "summary_de": "Öffentliche Gesundheit: Was bringt eine Zuckersteuer? &nbsp;&nbsp; Deutsches Ärzteblatt",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnQxWEhNWmp6QTJ0eU1tMU1HOWxlSkJuWEpRVE41QjFBcU5iYXJnbnNPQUxxNENaMlZiYktzZG10bHdVb0wxcmUtUlNUenhXandfOVlHbklCNjZmeVJqcXRnX3U4THNneF9Bck1pUENHVmY2ZVk1MGYxSVlfLXNQZk5DUjU1OXVGOUZKaVpoSmx6eWxZd1kxSndvdEt5aVhld2prNVNISTJPR2E4WjVUYzI5dnNJSENQejBTbmNlcGk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-15T02:12:09+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Digitalisierung: Bessere psychische Gesundheit durch Social-Media-Verzicht - Deutsches Ärzteblatt",
+      "summary_de": "Digitalisierung: Bessere psychische Gesundheit durch Social-Media-Verzicht &nbsp;&nbsp; Deutsches Ärzteblatt",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcVBYZV81NDNwSXlJTjVYSWRfbFFlTUcyTWRpRnMyVXU4NExOVnlabExnUUY2MVQtUVVQdUF5NTI0bW1uQmphRWVOWmwtV1prbm1MQUIzMlZEN0R4eFdhQ0pSVkJjZHowc0w4ZS1sc21PNW5peGd1YkgyTGRPV05kUXlwOHlmaWVNWEc4SnJQWW1DT0JGTGRxaExlUUFBd0NUZ2luajg2OGkyTDF4TFVobXdNSE1uVU4wY29fd0QwTnI2cG9qbDlRRklWbzZGdVZfMm93N291V3YzWlhz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-14T16:15:17+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1330,16 +1310,6 @@
       "type": "News"
     },
     {
-      "title": "AI model improves detection of brain metastases on MRI",
-      "summary_de": "An AI brain metastasis detection model improves both the speed and the accuracy of identifying brain metastases on MRI scans.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15819620/ai-model-improves-detection-of-brain-metastases-on-mri",
-      "published_at": "2026-03-13T08:49:49+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Volkskrankheit „Rücken“: Präventionsangebote helfen vorzubeugen und unterstützen Betroffene",
       "summary_de": "60 Prozent oder mehr aller Erwachsenen in Deutschland leiden mindestens einmal pro Jahr an Rückenschmerzen. Darauf weisen die Verbände der gesetzlichen Krankenkassen anlässlich des Tages der Rückengesundheit am 15. März 2026 hin. Wer seinen Rücken stärken will, kann dafür finanzielle Unterstützung erhalten: Alle gesetzlichen Krankenkassen bezuschussen jährlich bis zu zwei Präventionskurse.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -1485,16 +1455,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUlJtbDNGMXVRc09qMF9jT0tkZWFEaXgtclVZb0FNbk5zcHIzaDl1U1E0WTRMYUdqc1VQUFh1d1lsN0ZyRTlZOE84NDBGT3JmVUNfaFN4VHhQdHVpeWkzOXJ2UWpVcVpySzNsZ3k4R212dXphcE1oQU5FaGhHNXVMOEFjQldmUi1JdlFjNnUzX3pmUmJ1Zkw0eGpyWkVoT20xQ2hIZ3AxUlJPRklzWXBYTllqMlVWMVV1SFdXMlJkd2lHR3d1SHZNa3lwRk11bThicmwwOG1jelNPVno5T3NqQzc3RkZQY0VkTzVRR05xVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-12T12:46:33+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Medizinische Leistungsangebote | Klinik für Frauenheilkunde und Geburtshilfe 1 | Westpfalz-Klinikum GmbH Kaiserslautern in 67655 Kaiserslautern - HEK",
-      "summary_de": "Medizinische Leistungsangebote | Klinik für Frauenheilkunde und Geburtshilfe 1 | Westpfalz-Klinikum GmbH Kaiserslautern in 67655 Kaiserslautern &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQazVIMTJudDdFR1h3NFk3b1JSbjhkRE1JVGtfU2RVS3ljZXJ1WUhhcC04ei1xZ2M0dENheklacnpMVkNpb1ZIaXBOSUxPNHpxYUhTSHRZTDNNVVdsT3dvdGxXX3dVTGlwYlNkUWw4UVJSZlI5LTZQN3kzR2F0ZGVlUFJfUHI5UW1PeU1EV1otUk5RcGdqbzBIOE9qQ2tra0h3X1VwdDU0S3B2UjFUNTdYSGhaX1hvc0pKRE9LSmtGOGNVWXFzTnlLYU10RWNvTHluWGZMOXBXaERseUxRTWJSajJhQ3dRS2Z1LVFaNW5vQktYdnh2RVpiY0hqRFMwaEJEcGQ4aUg3LUZ6OWpfZkl3bkxxbnJVTGdNOEFOTUxldVVVZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-12T11:54:22+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1894,16 +1854,6 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitsversorgung - Arztdichte in Sachsen leicht gestiegen - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Gesundheitsversorgung - Arztdichte in Sachsen leicht gestiegen - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcW5uUmRnMTIwVEV3eS13X2hqa3d0RkVtWktDU1YtUWFMdEVtVXk2bnR2Mk00ZGJ0b2JzS0RFRVdnT1pxMFpISUpobGd2VVJweldNWGlXUy1HMHhma2F6dGhFejVnSDlLd0VMMXJOWVRNTHZyRFhKSE5xcGtVY2xOT0FvM1lWbmI5cnh3bEVHcWNWZDRUT2hVOHVvMkY3TXItOEhjdDNTZkpuR0pqNEU4YU1oTFlUN0d0Y3BDeTFXS3FqRDg4eHk4NjdyZ0tUQng3MldnNWY2TFBGOHN1UEp3a3FTUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-12T03:00:20+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Factors predicting adverse perinatal outcomes in women presenting with decreased fetal movements",
       "summary_de": "Factors predicting adverse perinatal outcomes in women presenting with decreased fetal movements",
       "source_name": "Cochrane Library RSS feed.",
@@ -2018,11 +1968,11 @@
       "type": "News"
     },
     {
-      "title": "Qualitätsindikatoren | Klinik für Herzchirurgie (Herz- und Gefäßzentrum) | in 22457 Hamburg - HEK",
-      "summary_de": "Qualitätsindikatoren | Klinik für Herzchirurgie (Herz- und Gefäßzentrum) | in 22457 Hamburg &nbsp;&nbsp; HEK",
+      "title": "Klinik und Poliklinik für Chirurgie - HEK",
+      "summary_de": "Klinik und Poliklinik für Chirurgie &nbsp;&nbsp; HEK",
       "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMDcza09VTVNqMjFWV2Y0M2pRMy1WY3JUWFZ2aWVLUnk1dExkb0QxZXpTLUs4VFNZZGNmYkNCVnRZNlhOZEVUNG4xNG8wTXZPSUVtSGhXZ2duQXFaRVFUWnlnN1ZzcnlwV2Q4SWhUVnlyMGw1b3R6MUdFWGtLTlpFd0ROR0FHbXFQTHpHX3gtakhDTDEtd3QzOGlHckppRHZqSjd2czJUUDAyZ3lRSWlwTHlLQVJTSUdSWDdqNVNQOXU1MUg0c1pOM3RGSFhZRk1ZVTNkOUNPdmMzeWxUTkNzdEdwWUd4dXZTWUhvQjVKdTlub2ZOSzFGX0VTU08?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-10T01:37:54+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWFFNbWlTUWhlLWRJRGFrRnNBTjlLYkZ0TzFocGZhWGRqYS1lMnVMdmlMX3NuaktKZHFhN3BUVE5Qei16OExIcm5zV2x4T3lvMTAxTDhNTERpbk8yRi1XS25KSWFUbXdoUDhvdG4zTkNoOXZDWVR2Y29XUmNPZFozOF9kWHdKWmstYWJTeDJwWFprWF9xSHNFaXc2UGNWLVdkY2pkanh3SW5rV1ZRYVIxOWlRQ1FRa01jYWd5V3pteVBzc1lqOTFMaGVUdmszT3VJcHZyMTFHMDkxMWtaVnhXU0EzM2NlUVpvVzBHQ3lpZ2pjQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-10T07:27:33+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -2090,16 +2040,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Depression: Die unterschätzte Krankheit - hkk Magazin",
-      "summary_de": "Depression: Die unterschätzte Krankheit &nbsp;&nbsp; hkk Magazin",
-      "source_name": "\"site:hkk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTzJFWFVyUUt2cUtZa1lGSzVKenZWS1ZweUxRWFBnamFMa1F4WFRJbVlpSldGU3AzY1BSOVB0Qk1EWXdwWUNaelhlSGZwTVNVS2hzc3hUSGV6d2F5b3lMOVBTVklzTlVGYzdqZnpGeFhwX3ZYWEJRMWllOWZBeUNtTFVNcF96OXh5cEszYV9pMEg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-06T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
@@ -2459,6 +2399,16 @@
       "type": "Studie"
     },
     {
+      "title": "Klinik für Urologie - HEK",
+      "summary_de": "Klinik für Urologie &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPXy0wVnVSckdLZC1oMXVoRTJzcjU5SHc3NHVsdl93aUdFRDJPeDdWbklUNnRTeUllTXFxUVRKN1BBN3daSEtoN0J4Y1Y1YVBRT1dyRDZoc094ZEM0ZTdNZXozX0MwS0diQUl2NGZVRXo3Q1ZnTjJyWWU2Ulg5RVBsS0NGN0NlSGs5dW1tZWlmUTdKWnlaejdqTjVRZWFHNnp6WWR0aDhyNy0zQ3lIR3hmUERWbW9MRUdlYVVndk91bWNOdnoycEJrZEFVUlI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-26T13:31:16+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Apothekenreform: Apotheken vor Ort werden gestärkt, aber wirtschaftliche Mechanismen zur Abgabe von Arzneimitteln aufgeweicht",
       "summary_de": "Der Bundestag berät erstmals über das Apothekenversorgung-Weiterentwicklungsgesetz. Der vdek unterstützt die Stärkung der Apotheken vor Ort, kritisiert jedoch die Lockerung wirtschaftlicher Vorgaben bei Rabattarzneimitteln und warnt vor zusätzlichen GKV-Belastungen durch neue Leistungen.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -2643,16 +2593,6 @@
       "type": "News"
     },
     {
-      "title": "Aufbewahrungsfristen: Was Sie 2026 entsorgen können | Die Techniker - Firmenkunden - Techniker Krankenkasse",
-      "summary_de": "Aufbewahrungsfristen: Was Sie 2026 entsorgen können | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcmNlQ2MwdndFQ3pJdkVVSmVXVURSWkRpVjVuSTVYNG0zdUVSMTF5dDNob3dtYUw3NlBIN2cxTmpDTUlKR3BENWZEbXlEWGNFY1F6TlVMWVNoajd4ek1GY1BuVDM1NWZxUUFKUWNCM2I3akd2Q3k2T2lTMVJEaGMzXzJ0RVQwdEZqa1RPSjhrQXI1NFM1UEdlOHhUTk1OSXAxeUpuZUZrbFRreWo1R1MyNWRYM3Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-20T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "New Memorandum of Understanding (MoU) strengthens cooperation between EFSA and FAO",
       "summary_de": "The agreement reflects a common objective: ensuring that innovation drives competitiveness while maintaining the highest standards of safety. Amid rapid technological change and increasing complexity, the three-year partnership will promote science-based solutions for safe, sustainable, and resilient food systems, aligned with One Health principles.&nbsp; Under the MoU, cooperation will cover areas such as plant and animal health, pesticide risk assessment …",
       "source_name": "EFSA | News",
@@ -2748,6 +2688,16 @@
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDTWN3bVQtWVZ3X29IVmZUSGR2dXYzWlZiczJvT0NHVkNfdTBsdklrNE5fc1BOU2dVUFcyN01GMld4N3E2eGpLbnlzQlFPd21fUVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-16T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Besondere apparative Ausstattung | Klinik für Psychiatrie, Psychosomatik und Psychotherapie TK Eisenhüttenstadt - HEK",
+      "summary_de": "Besondere apparative Ausstattung | Klinik für Psychiatrie, Psychosomatik und Psychotherapie TK Eisenhüttenstadt &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQcm5tN1BhZ1RlRDZWTVRGeFE4MHctcDFCdmxPQ1dNbU1hS3Iwd21jaEp5bDlJRGF2bjg0UHhRMHZ3MEFUcFpIc29PMnFsdUJEaHQwdWVOek5PNjJIX3hNNTlfREdZeTdxM1NSbHdUeGxZX0lVQ25EaVRxNVpSckNySTVTcTdOeDNlTEd5WjNhbUs5ZnlhMVJiemRWX3o0Q3hueUlCX2djSWRtVHhudXFjd2VrUGwzRHFPeW5TZVZjR0NURTRpTldBS2xJalJyNHcwdC1UZkV0NXpTUFp0c1R0ajhHbFlUc0duQTdfczdzbDRVWEJMak9HZUZmU05FMlFSVHlJUGxQNGpNVWxqM1R4M0ZFVlV6SlhhUVRWZWFZNWRDUVRPNjUzb2hjdXdOclBFcTBlajJIV0hBS0V2SkFlVC1BNDNrUy14NGpIdDJGbHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-14T21:29:55+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
