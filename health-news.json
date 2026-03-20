@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-19T21:28:38.386548+00:00",
+  "generated_at": "2026-03-20T01:25:42.716643+00:00",
   "window_days": 42,
-  "count": 269,
+  "count": 261,
   "items": [
     {
       "title": "United Imaging Intelligence China - AD HOC NEWS",
@@ -10,6 +10,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOF9mT2Q4MktvXzd1SzdVTG5ZeTlla2JMRjRDTkRnRkpPMnhRaVVvNWtvU3hWbTJ1bjNQRUhweHpOOFJ2aW51dnpHSWM3RkJRVVRNcTR4Z1R0MmFGdTRGVk4ydEJwOVE2RFE2QlJZeFkxaHRvVHl4eTdaNE1MSWNfemFTaFZOdzZCYXN6S1RQT3dMY2dJazgtUmFUQnhZQXpMZ2RBZjNrb3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-19T20:49:10+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Erstmeldung Arzneimittel: Gabapentin Aurobindo 400 mg Hartkapseln pU: PUREN Pharma GmbH & Co. KG",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-03-19T17:40:51+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -275,16 +285,6 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/attacken-auf-gesundheitseinrichtungen-163780/",
       "published_at": "2026-03-19T11:15:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: Sultiam-neuraxpharm 100 mg Filmtabletten pU: neuraxpharm Arzneimittel GmbH",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-03-19T11:00:25+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
@@ -674,16 +674,6 @@
       "type": "News"
     },
     {
-      "title": "An RT weighs in on MRI safety: We know better, we just don’t do better",
-      "summary_de": "A troubling pattern has emerged: resistance to safety measures doesn’t come from patients but from within the field.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15819891/an-rt-weighs-in-on-mri-safety-we-know-better-we-just-dont-do-better",
-      "published_at": "2026-03-18T15:20:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Bundesverfassungsgericht : Keine Kostenübernahme ohne Zulassung",
       "summary_de": "Ein junger Mann leidet an Duchenne-Muskeldystrophie. Nach einem langen Rechtsstreit hat das Bundesverfassungsgericht jetzt entschieden, dass seine Krankenkasse nicht f&uuml;r eine Behandlung mit dem Arzneimittels Translarna (Ataluren) aufkommen muss.&nbsp;",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -874,16 +864,6 @@
       "type": "News"
     },
     {
-      "title": "AI boosts lung nodule detection but doesn't reduce interpretation time",
-      "summary_de": "null",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15820020/ai-boosts-lung-nodule-detection-but-doesnt-reduce-interpretation-time",
-      "published_at": "2026-03-18T09:08:16+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Meldung: Ein Patient mit Bronchitis",
       "summary_de": "Im Interview mit dem europäischen Nachrichtenportal Euractiv sprach Oliver Blatt, Vorsitzender des GKV-Spitzenverbandes, über das deutsche Gesundheitssystem, dass er aktuell als einen „Patienten mit Bronchitis“ bezeichnet. Blatt äußert sich über aktuelle Herausforderungen wie hohe Ausgaben für Krankenhäuser und Arzneimittel, über den Umgang mit der Pharmaindustrie in Europa und über Prävention.",
       "source_name": "GKV-SV Presseinformationen",
@@ -902,16 +882,6 @@
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTVp4S1ZuTjhwb2RteEZGZS1rX2hEbU5UU0hiWVM0TFp5RWFQS2hZNmpMNlA0TWlMOTVRdkl2X2NIcFlnbU5nd3cyWUM2T19LSlJxb2FZYm1DUnBoOUs1bndFYWEtZ21kOEhjZmJiY3M0UTNKVlBWTVBvelF3Z1I2cXNQR28zQUR2MzAtZmk3dTFLVGFjYjloX29yR1dtOWgxMzU0dkxrRnE4ZENOdU90cTc0WXBSR29PT05WMFdRT1hRSTM2ekxWWVFBRGhQOEFlMW1vdldzSC01cFBleWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-18T07:37:18+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Deep learning improves disease detection on echo exams",
-      "summary_de": "A deep neural network architecture that combines information from multiple video views could improve echocardiography exams.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15819958/deep-learning-improves-disease-detection-on-echo-exams",
-      "published_at": "2026-03-18T06:29:03+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -955,16 +925,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Hologic report: 1.5B women missed preventive screenings in past year",
-      "summary_de": "The report found that only 13% of women globally had been tested for any type of cancer in the past 12 months.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15819833/hologic-hologic-report-15b-women-missed-preventive-screenings-in-past-year",
-      "published_at": "2026-03-17T17:22:17+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Patients to get new medicines up to six months sooner under new joint MHRA-NICE approval process",
@@ -1059,16 +1019,6 @@
       "type": "News"
     },
     {
-      "title": "Krankenkasse wechseln: So geht's - Barmer",
-      "summary_de": "Krankenkasse wechseln: So geht's &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QNGEzTUpoQ3ZvaTVTcE8xLW1WY3RnWXMwNDNuVHNjLXRYQ28wbFFTeGdCeTFmMG53N3phM3NtcXVMWWRvWlg2VlJ1ZzVzcURKa1p3YmNEUzhsZ1NTbzAtQUhVODlZdzg5MEU4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-17T09:05:37+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Pressemitteilung: GKV-Tag: Die digital gestützte Primärversorgung als künftiges modernes Versorgungsinstrument",
       "summary_de": "Die gesetzlichen Krankenkassen und der GKV-Spitzenverband informieren am heutigen GKV-Tag über die Primärversorgung als zentrales Instrument für eine bessere und moderne Versorgung zum Wohle der 75 Millionen gesetzlich Versicherten. Effizienzreserven sollen gehoben werden und ein bedarfsgerechter Zugang zur Versorgung soll gemeinsam mit der Ärzteschaft sichergestellt werden.",
       "source_name": "GKV-SV Presseinformationen",
@@ -1079,26 +1029,6 @@
         "Versorgung",
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Radiation exposure low during TARE procedures",
-      "summary_de": "Transarterial radioembolization (TARE) is rising in popularity, yet data on occupational radiation exposure are sparse.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/interventional/article/15819870/radiation-exposure-low-during-tare-procedures",
-      "published_at": "2026-03-17T08:44:38+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Look for disease distribution features to identify ILD patterns on CT",
-      "summary_de": "Tracking disease distribution and dichotomous features on CT helps identify fibrotic interstitial lung disease (ILD) patterns.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15819868/look-for-disease-distribution-features-to-identify-ild-patterns-on-ct",
-      "published_at": "2026-03-17T08:28:31+00:00",
-      "category": "Radiologie",
-      "tags": [],
       "type": "News"
     },
     {
@@ -1114,32 +1044,12 @@
       "type": "News"
     },
     {
-      "title": "Die Zukunft der ambulanten Versorgung | Die Techniker - Presse & Politik - Techniker Krankenkasse",
-      "summary_de": "Die Zukunft der ambulanten Versorgung | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMjhYazlWd0piSlBHZzRhNFFucFpic3FEd1JmN1BXTlZ3U3ZTM3p0WkprWTRFUnpVdzNzSDF2azNLTzhjYW9UcVJrdy12Mm8zOXVodkFoNUtZLVNJNHNpT1lNU0FTaGxLdkpzLUFzZGhsSklpSWtPTHc4cFU3bjZZb2J3UnlOeUdlLXNNenFZM050ZjhhQUJiTTZqbTdYb05nenM3dm9ZUFg3RUlT?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-17T07:00:00+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Quantenverstärkte MRT soll Krankheiten früher erkennen - journalMED",
       "summary_de": "Quantenverstärkte MRT soll Krankheiten früher erkennen &nbsp;&nbsp; journalMED",
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRDVDM2k3dU9qbnc3dHdJUUN0Y3Y3eEo3eXM4MDRmcWtrR2Y3UlJTSUc1T21rSHE5M1J6RmhCaVZ3MDI5Q2VRY3NGWHp6RjFqcndEQV81UF9xLXlrcUtyamZVdU5aRDJiNkJPRGJGSG8xQzM5TVJXdkM0MFRyMEk5RVZNWU9lUC1xX0RRdnJZaGxocEI0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-17T06:42:27+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Culturally tailored videos may help inform breast cancer screening",
-      "summary_de": "Informational videos that are culturally tailored could help improve breast cancer knowledge among patients.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15819826/culturally-tailored-videos-may-help-inform-breast-cancer-screening",
-      "published_at": "2026-03-17T06:27:23+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1266,31 +1176,11 @@
       "type": "News"
     },
     {
-      "title": "Study supports use of SPECT in Pluvicto patients",
-      "summary_de": "The findings support the role of cycle 1 PSMA-SPECT for early on-treatment risk stratification.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15819744/study-supports-use-of-spect-in-pluvicto-patients",
-      "published_at": "2026-03-16T08:57:47+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "»Germanische Neue Medizin« findet im Netz viele Anhänger – Fachleute schlagen Alarm - Spiegel",
       "summary_de": "»Germanische Neue Medizin« findet im Netz viele Anhänger – Fachleute schlagen Alarm &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOb29RZk9zUlZ1bHMzc00xbXF1VjJGdDVwM2pJQ3c2MXVFa3NEbzIyQ3FnNlkxZEdZZnAzSWxySzZIUG96RU5CVDBrelhUWF9PdXhybFZ5U0dYQXVZVGtsMlV1Z1Ftd1NaN2FmRnNVM0x6cDhQb3hIbGoya1RVZWJ2MDI4T2tweVRvNHNlSEdsMWY0NW96d19IMkRIUDZTSzBWTlJlenpza1lEaU45NVpKWDIwX01YbGc2VWNHdF96cXNTcmVRX3BhWDAwWTJibWRTTlFON1BySjJ6cW96SjRfNGh4aWVoenc3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-16T08:16:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Researchers optimistic on healthcare AI privacy risk fixes",
-      "summary_de": "Privacy concerns with healthcare foundation models (FMs) can be mitigated through safeguards embedded into FM design.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15819738/researchers-optimistic-on-healthcare-ai-privacy-risk-fixes",
-      "published_at": "2026-03-16T08:15:55+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1302,16 +1192,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOcjRaSTF3RGpPaTVkSFA5Wl9iRkdqS0l1MG9UNkRqd3BwdWJhSzBTWGlIajVzeUk2R3RMYlZHX1ZCalJDZjVCRV9raUt2Y3hFSUlkVlVwMk9MQ1djQTFyT1ZMSkp2cWI5NEh4ZGViU1lzZnhaV3phVkpISUZlVmhkTHp0end1aWNLQTBuejRkU2FnQi1qNURlaWwwUDFLal9RZUR6c1FxbGhZQ203bzZfbjA5S0NTSHpQeFlyT3FsLUxOYWVkaTQ3anlCcmtfOGcxZHgyUFN4dHFPYlkwQ3NZWlF0VEFHU29SME5lNElaMWh1VWIxbG5Pd1Jnd0U0Mm4yYmpvejZVdlp3bm9Vb3h1ZUFsNWZPTHZTUWstSVAxTFJVRTBuOW1hY0dKRDR4TVFYM2piOHJEVE5yckRM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-16T07:25:00+00:00",
       "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Many websites use college-level language to explain AI in mammography",
-      "summary_de": "Online information about AI in mammography is written at a college level, which may be challenging for women to understand.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15819689/many-websites-use-collegelevel-language-to-explain-ai-in-mammography",
-      "published_at": "2026-03-16T06:14:45+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1970,6 +1850,16 @@
       "type": "News"
     },
     {
+      "title": "Medizinische Leistungsangebote | Hals-, Nasen-, Ohrenheilkunde | GRN - Klinik Sinsheim in 74889 Sinsheim - HEK",
+      "summary_de": "Medizinische Leistungsangebote | Hals-, Nasen-, Ohrenheilkunde | GRN - Klinik Sinsheim in 74889 Sinsheim &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPb0dRT0FObDVvNW9WS1QxNDlyMWEybWJkRzliT1dHREdQYnI3TnBFRmRSZzhDN0FsbVZIVmtGV2J6Q2xiaURmWTNEcnVkYThoUHBRQk5IS2g4d013Wkk0YWUyLUhST1lnZGRzYjJLNFQ4cmpsQmVOVmUzS1Ntc3JXeUlsdFY2Z0dYVmpoQ3ZTZHJXMTZCTWZoTi1nenZvQ19WNXVNTy1aWHYtRkdxVl9wN1o4WUNsdGRYUWxZOHR5dEt3eXlkM0NnQ2xPRk1xY254Y0F1cU1NcGxOSkVCZTNDV25ZU3k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-11T02:50:47+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "High‐intensity interval training for reducing cardiometabolic syndrome in healthy but sedentary populations",
       "summary_de": "High‐intensity interval training for reducing cardiometabolic syndrome in healthy but sedentary populations",
       "source_name": "Cochrane Library RSS feed.",
@@ -2000,6 +1890,26 @@
       "type": "Studie"
     },
     {
+      "title": "So registrieren Sie Ihr Mobilgerät für die TK-App - Techniker Krankenkasse",
+      "summary_de": "So registrieren Sie Ihr Mobilgerät für die TK-App &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT2VDVTREN1R2NlV5WjQwenRiTldiSVc3UURmdkRPRENQa0JPMTBNX3UtX2Q4a2pETkJ2UWpQUHlrNEdRbVVYSXpGeXRTcWVNY0pKU1o4Mk5mRzhmUVRjb1F1T01ON2JPMnE2NU41V2pkTEJEN0xlX3pfUjVlSldmeG9URUFnNHR6NUNpam5uQ2hybTQwQy1jRVlXRGxvQVlLUEZ1NjlUYzR5UUwtRkwxU3lGRjE1RjhjNk0yMzdHQllsbHJq?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-10T15:38:13+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Klinik für Orthopädie und Unfallchirurgie - HEK",
+      "summary_de": "Klinik für Orthopädie und Unfallchirurgie &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPXzlDY0EzUDVONnhmLTVRN1paWFBpNGpoVjZ5YnJkWEhOay1fc0I0a2F6bUhHM29wREJ5NkhJUzlOUmVnczkyaVNoR2dTbnNSUk0wdmJFZzFxenpZWUE4VjNKOXJLNDBxaHQyYmdvdzFSWTBvZVFxSmtYcXpxOXhxYjBtZEpkcWMwcWFMTHRETm9Pc2FLbjZVTkVhVmtEUzBSWGR5aEtYY19sNDh2Z1lpdmlfS21hQ3MtNENMcWVIbzB2YjhUdDhuZ3hNMWdUWWtMU1FGdDhHUnZqTmYwajRGZktaa1BXbFlFenYyc1hVTUdTclRUamRfcFloa2NkdEpwSXgyaXVyWTB0eW9wVVYxUGNVUEpIdTJvNlZoWG83TQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-10T13:32:54+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Künstliche Intelligenz im Fokus: Radiologen forschen am Klinikum Minden an der Medizin der Zukunft - Mindener Tageblatt",
       "summary_de": "Künstliche Intelligenz im Fokus: Radiologen forschen am Klinikum Minden an der Medizin der Zukunft &nbsp;&nbsp; Mindener Tageblatt",
       "source_name": "\"radiologie\" - Google News",
@@ -2019,6 +1929,16 @@
       "tags": [
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Klinik und Poliklinik für Chirurgie - HEK",
+      "summary_de": "Klinik und Poliklinik für Chirurgie &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWFFNbWlTUWhlLWRJRGFrRnNBTjlLYkZ0TzFocGZhWGRqYS1lMnVMdmlMX3NuaktKZHFhN3BUVE5Qei16OExIcm5zV2x4T3lvMTAxTDhNTERpbk8yRi1XS25KSWFUbXdoUDhvdG4zTkNoOXZDWVR2Y29XUmNPZFozOF9kWHdKWmstYWJTeDJwWFprWF9xSHNFaXc2UGNWLVdkY2pkanh3SW5rV1ZRYVIxOWlRQ1FRa01jYWd5V3pteVBzc1lqOTFMaGVUdmszT3VJcHZyMTFHMDkxMWtaVnhXU0EzM2NlUVpvVzBHQ3lpZ2pjQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-10T07:27:33+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
@@ -2050,16 +1970,6 @@
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON29nVy1pZFhTck9DQmVKRC1Yd2Y0aWZOQThHUnk4bTFzT3FDV0RCUWw0eE9Wc0duLTFHcDZ3SVV5Y0M3VFBDOVlnN3lBNnh0V2VoYmtwVWFlMU1McmZUZ1FwRDZMem1WaWVEVk9ab1JXNzdBckJUd01ybnRjOGREb04yNUVRb0VQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-08T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Klinik für Gefäßchirurgie und Gefäßmedizin medius Klinik Nürtingen Auf dem Säer 1, 72622 Nürtingen - HEK",
-      "summary_de": "Klinik für Gefäßchirurgie und Gefäßmedizin medius Klinik Nürtingen Auf dem Säer 1, 72622 Nürtingen &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMFpPQWplakVxVVRTNVc4clVwN3h3dWtTRFhpb1lySVVkeVFrMnZWM3FiM3dGbEJ5bkR6OVdPVjRwcWwyREN3X25ucEVNWm0ycWFvMjJONEo0VlBSM3QxeE96enR3ZnI1RlloYnpOSnFucE90MlhZaTdlbUgzdkl0amktZzAxRkFuVk9FZkpZZjdHalZHV2FyUjF3YUNrakVWem9xSjVRcUJTVWNMYV9WZG1yNURuZ1JBQThWdTF3UW9rTmJYNWhvZndpM1MwWVVfMTNUa3k2RVJ0OUZna2JWZndtRFNsWUs0Sm14SW5raHZ4a3d6dkxPTDhiMEFxLUxRTjQxMGhOYmZMM0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-07T10:25:04+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -2291,6 +2201,16 @@
         "Versorgung",
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Ayurveda - Bedeutung, Behandlung und Praxis - Techniker Krankenkasse",
+      "summary_de": "Ayurveda - Bedeutung, Behandlung und Praxis &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxON1MtcFlka2xib1dOX3oyVFItOG1ZeTZrQmFRX1BMVkc2eFpNdnZQS3BPOVpiUTczUlFlTEZqdE9LaVNhMllsMzJRT1o0RkxrbmUwUEdwQ1Q2aWFRclk4dzBneDlMZmY2QjJZMEdQaks2WmZXSk9Vb3BDVzVPUFBBSzU1ZGRDYTI1ZlRjVlpTLWFfMlU3U0xDYlZEczFJY0VVWUZoekJMVzNhRXM4Q0NpNElaTjhaNVhNLWdJeFJqTVpnQ1p2SEl1SVhzZnVwa1V3RC1FN0JjNTVtY3hkNWZra2tGZm9iZFlFX3NaVFpnZmo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-03T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
