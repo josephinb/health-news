@@ -1,8 +1,141 @@
 {
-  "generated_at": "2026-03-20T15:36:29.334989+00:00",
+  "generated_at": "2026-03-20T18:37:50.896875+00:00",
   "window_days": 42,
-  "count": 268,
+  "count": 271,
   "items": [
+    {
+      "title": "Decision: Orphan registered medicinal products",
+      "summary_de": "A list of authorised orphan medicinal products registered by the UK licensing authority.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/orphan-registered-medicinal-products",
+      "published_at": "2026-03-20T17:02:49+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Grüne zu KARL: »Auch die Pharmaindustrie braucht sauberes Wasser«",
+      "summary_de": "Eine &uuml;beralternde Gesellschaft und die zunehmende Medikamentennutzung f&uuml;hren zu einer st&auml;rkeren Verschmutzung der Gew&auml;sser. Doch die Kosten der vierten Reinigungsstufe, die die Pharma- und Kosmetikindustrie gem&auml;&szlig; der EU-Kommunalabwasserrichtlinie tragen muss, k&ouml;nnten die Versorgung mit Generika gef&auml;hrden, f&uuml;rchtet die Industrie.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/auch-die-pharmaindustrie-braucht-sauberes-wasser-163836/",
+      "published_at": "2026-03-20T17:00:00+00:00",
+      "category": "Versorgung",
+      "tags": [
+        "Europa",
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Tuberkulose: Fehlendes US-Geld gefährdet Bekämpfung",
+      "summary_de": "Tuberkulose ist die t&ouml;dlichste Infektionskrankheit der Welt. Die Zahl der Todesf&auml;lle ist in den vergangenen Jahren stark gesunken - aber nicht genug.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/fehlendes-us-geld-gefaehrdet-bekaempfung-163825/",
+      "published_at": "2026-03-20T16:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Insolvenzverfahren - Geesthacht: Klinik stellt Betrieb in mehreren Bereichen ein - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Insolvenzverfahren - Geesthacht: Klinik stellt Betrieb in mehreren Bereichen ein - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdllmQWpHenBrLUVnNjRQMnpyaXozZmxsN0swS1o3dnJvN1p2QU1RNjZ3YkRtV202Tllrc01PX3M2V3d3YWZUY3hJdWlIWTRZS2tJQTBkYkdBdVg0NFh5ZGtkQXc5ZkliZDd4T0dRaWk4dXFabjQ0UmRLN0dKaDUwR0ZyaDUzRmp5V0RZQW9wT3ZKVmJuamQ1S3J0WTNoVmlIZUNUUjIzQ3kxc1ZmQUNTTldmNVNZSzBFaFRGLU0zU21YV1c2VG1EOE4wX1lTVl9rckp6MHFmY3hxQTZqQmcxRTlPRVNIZmN5Qm9yU3F2ZWVMdVRnRnJjS3BR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-20T16:03:35+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Irankrieg : Warnung vor Knappheit von Einweghandschuhen",
+      "summary_de": "In einem Artikel des Spiegels wird gewarnt, dass der Krieg im nahen Osten zu einer Knappheit von Einweghandschuhen f&uuml;hren k&ouml;nnte. Auch die Energiekrise und die drohende Inflation verhei&szlig;en f&uuml;r die Gesundheitsberufe nichts Gutes.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/warnung-vor-knappheit-von-einweghandschuhen-163834/",
+      "published_at": "2026-03-20T16:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Lungenkrebsrisiko bei Rauchern nach negativer Low-Dose-CT steigt erst im dritten Jahr – News - Deutsches Ärzteblatt",
+      "summary_de": "Lungenkrebsrisiko bei Rauchern nach negativer Low-Dose-CT steigt erst im dritten Jahr – News &nbsp;&nbsp; Deutsches Ärzteblatt",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZ1g3QnNzOTl1dnE1WEdhOTkxQkVkWldYRjVacWl2cTc3RHZfMV91d05lemp5MFc0UXB5M1kzQVJPdjFsZ2Z4NWxaVEpqQWVyRDFjS2R6MktkRlZRX1ZCOTBhc3lTQm9CdjRSRTJIUHRSTTBXaVhrRGQ5TkRzdFJWQjNkY0xtMm0zVS1uSkNhR2tLdkZCdUh5eDJiMUx4V3l3cnhyeDFwZVlsbjZxbVJZdG1XaGFLc2pxZHNhX09DblY4UkpOSFZTUVJHWTFoUF9oZzRMNFhBMmlOVkdpV1M2bEs4UWFfQmJWQWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-20T15:46:28+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Prophylaxe von Harnwegsinfekten: Neues Antiseptikum im Handel",
+      "summary_de": "Frauen mit rezidivierenden Harnwegsinfekten k&ouml;nnen einer st&auml;ndig wiederkehrenden Infektion mit einem neuen Antiseptikum vorbeugen: Methenamin (Cystohipp&reg;) ist vergleichbar wirksam wie ein Antibiotikum.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/neues-antiseptikum-im-handel-163790/",
+      "published_at": "2026-03-20T15:20:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "PZ Briefing: Die Top-News vom 20.3.2026",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-2032026-163833/",
+      "published_at": "2026-03-20T15:10:09+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pflegefachkraft Altenpfleger (m/w/d) Innere Medizin od. Premiumstation in Voll- od. Teilzeit - Stellenmarkt FAZ",
+      "summary_de": "Pflegefachkraft Altenpfleger (m/w/d) Innere Medizin od. Premiumstation in Voll- od. Teilzeit &nbsp;&nbsp; Stellenmarkt FAZ",
+      "source_name": "\"site:faz.net medizin\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeFdCbDI1Tm50cXJOREY4U1NYQXlmNnJRZFRLWTFDSF92d0gtOEh0dm5zbU5ybWZXdWRRWW0wTDBZczdJVl9fRkRHRjVvQXIycl9MWEZOUF9SWVFXbF9LUU1COFNNbjFNRWl1VHh0cklLYy0ySkhHeUZkdkFNcG5NYWVJUXVuekxpdFl5TF9ybkxSRjFpY0l6LTZ3VzN2aUtsenZlRmxUaVRaTVBOLVVrX0JqVzdORnN2SHYycDNCYTRqSGhWcmtrVklMRGNIejg1aFVadThGQVBQRkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-20T15:03:47+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Bluttests bei Schwangeren: Kritik an Pränataltest als Screeningtool",
+      "summary_de": "Im Bundestag wurde heute diskutiert, wie Bluttests auf Trisomien bei Schwangeren k&uuml;nftig &uuml;berwacht werden sollen. Wichtige Fragen und Antworten im &Uuml;berblick.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/kritik-an-praenataltest-als-screeningtool-163832/",
+      "published_at": "2026-03-20T15:02:08+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Physicians prod U.S. FDA for pediatric AI regulatory carveout",
+      "summary_de": "An analysis exposes how inconsistent and ambiguous the regulatory landscape is for pediatric-focused AI.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15820167/physicians-prod-us-fda-for-pediatric-ai-regulatory-carveout",
+      "published_at": "2026-03-20T15:01:20+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Lung cancer risk persists years after negative CT screening",
+      "summary_de": "Study results could shape how individuals at risk of lung cancer are screened.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15820115/lung-cancer-risk-persists-years-after-negative-ct-screening",
+      "published_at": "2026-03-20T15:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pforzheim : Apotheken zeigen ihre Solidarität mit »Traueraltar«",
+      "summary_de": "Am 23. M&auml;rz wollen Apotheken bundesweit protestieren. In&nbsp;Pforzheim ist eine besondere Aktion geplant: Ein Traueraltar soll an die zahlreichen geschlossenen Apotheken erinnern.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/apotheken-zeigen-ihre-solidaritaet-mit-traueraltar-163831/",
+      "published_at": "2026-03-20T14:50:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Field Safety Notices: 9 - 13 March 2026",
       "summary_de": "A list of Field Safety Notice for 9 - 13 March 2026",
@@ -512,10 +645,10 @@
       "type": "News"
     },
     {
-      "title": "Constantin Brâncuși: Der Kopf auf die Zelle reduziert",
+      "title": "Constantin Brâncuși: Der Kopf auf eine Zelle reduziert",
       "summary_de": "Constantin Br&acirc;ncuși gilt als radikaler Erneuerer der modernen Skulptur. Seine reduzierten Formen verbinden Evolution und archaische Symbolik. Eine gro&szlig;e Retrospektive zeigt seine immerw&auml;hrende Suche nach der Essenz des Lebens.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/der-kopf-auf-die-zelle-reduziert-163775/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/der-kopf-auf-eine-zelle-reduziert-163775/",
       "published_at": "2026-03-19T12:30:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
@@ -527,16 +660,6 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/vitamin-dfluorid-tabletten-komplett-aufloesen-163785/",
       "published_at": "2026-03-19T12:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Psychotherapeuten: KBV kündigt Klage gegen Honorarkürzung an",
-      "summary_de": "&Uuml;ber konkrete Verg&uuml;tungen entscheidet die Selbstverwaltung des Gesundheitswesens selbst. Gegen eine Senkung bei Psychotherapeuten formiert sich Protest &ndash; und nun auch eine Drohung mit Rechtsmitteln. Auch eine Kundgebung ist angek&uuml;ndigt worden.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/kbv-kuendigt-klage-gegen-honorarkuerzung-an-163786/",
-      "published_at": "2026-03-19T11:36:09+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
@@ -562,32 +685,12 @@
       "type": "News"
     },
     {
-      "title": "Fertilität: Jede dritte Frau erlebt Hürden beim Schwangerwerden",
-      "summary_de": "Fast jede dritte Frau im reproduktiven Alter hat Schwierigkeiten schwanger zu werden, zeigt eine aktuelle Studie des Bundesinstituts f&uuml;r Bev&ouml;lkerungsforschung. Frauen sollten sich bewusster werden, dass es ab 35 Jahren deutlich schwieriger wird.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/jede-dritte-frau-erlebt-huerden-beim-schwangerwerden-163783/",
-      "published_at": "2026-03-19T11:30:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
       "title": "Gesundheitspolitik: Schleswig-Holstein übernimmt Schulden des Uniklinikums - DIE ZEIT",
       "summary_de": "Gesundheitspolitik: Schleswig-Holstein übernimmt Schulden des Uniklinikums &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzg4S3ZHRnpwS1hmMkwyeGRFR0E3REp1b1VHNVpUVThYQVYwMk5BbG9oOTdQR2Z2VHFUMmd5cU45NVlFTXhpaHBsUlB1MUFVQTdYXzFOQjF3eHVuNG1pMDd4WU9UemZJQjg3SDBhZ2xvRW5TQjQ0b2xUb2doSEZrVklKUWdTMjZGczlTVzBn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-19T11:17:33+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Krieg im Nahen Osten: Attacken auf Gesundheitseinrichtungen",
-      "summary_de": "Der Iran-Krieg hat bereits viele zivile Opfer gefordert. Auch Gesundheitseinrichtungen geraten h&auml;ufig ins Visier der Kriegsparteien.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/attacken-auf-gesundheitseinrichtungen-163780/",
-      "published_at": "2026-03-19T11:15:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -608,36 +711,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZXpjSGlWdEsyanNEeGtBOHdTMHJQRnFoaDVFWjNFeUhMTU45dGxZcFBXQk5UREhDNjd5QnFBTmZrY2JQbDJ0TWFhZnRTbThUbk05S2ZwVlZNVEVoTmZ5VFlxSUZ3ZnI4ZWtScWlyNGpKanRFMl8wOUhianhSZDdNRFQwbWU2VmpFQ19kWkRibWZtVWNnSmJSR1pFNzYwRUtOMk8zODkycWppRzFVVDA3YWh2Y3hjXzhZYnhYb3BlQkhGWENfZVRUZzRGbmtkT0F5SmpaMkhZVlljVXpFbVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-19T10:58:59+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Dank Spezialmedikamenten: Stada verzeichnet Wachstum für 2025",
-      "summary_de": "Das Unternehmen aus Bad Vilbel in Hessen kann f&uuml;r 2025 Wachstum verk&uuml;nden. Stada profitiert vom Umbau der vergangenen Jahre und hat unter einem neuen Mehrheitseigent&uuml;mer viel vor.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/stada-verzeichnet-wachstum-fuer-2025-163781/",
-      "published_at": "2026-03-19T10:40:09+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Baden-Württemberg: Protest-Veto – Ministerium erklärt sich",
-      "summary_de": "Die Quote g&auml;nzlich geschlossener Apotheken am 23. M&auml;rz d&uuml;rfte in Baden-W&uuml;rttemberg etwas geringer ausfallen als in anderen Bundesl&auml;ndern &ndash; wegen eines Vetos des Sozialministeriums. Apotheker Tim Laufer fragte im Ministerium nach den Beweggr&uuml;nden und erhielt eine vielschichtige Antwort.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/protest-veto-ministerium-erklaert-sich-163763/",
-      "published_at": "2026-03-19T10:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Titelthema Hypertonie: Die neue Ausgabe der PZ jetzt als E-Paper lesen",
-      "summary_de": "Die Pharmazeutische Zeitung gibt es seit Kurzem auch als vollwertiges E-Paper: unkompliziert, immer p&uuml;nktlich und im Rahmen des Print-Abonnements enthalten. Die neue Ausgabe ist heute erschienen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/die-neue-ausgabe-der-pz-jetzt-als-e-paper-lesen-163776/",
-      "published_at": "2026-03-19T10:10:09+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -694,12 +767,22 @@
       "type": "News"
     },
     {
-      "title": "DAC/NRF-Rezepturtipp: Wie man Kindern bittere Arzneimittel schmackhaft macht",
-      "summary_de": "Schmeckt nicht, gibt&acute;s nicht? Kleine Kinder, die Oralia mit bitteren oder salzigen Wirkstoffen einnehmen m&uuml;ssen, werden hier vehement widersprechen. Das DAC/NRF hat einige Tricks auf Lager.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/wie-man-kindern-bittere-arzneimittel-schmackhaft-macht-163713/",
-      "published_at": "2026-03-19T09:30:00+00:00",
-      "category": "Wirtschaft",
+      "title": "Exposure to ‘forever chemicals’ linked to lower BMD in adolescents",
+      "summary_de": "Identifying when children are most susceptible to these toxins could help prevent outcomes like low bone mineral density (BMD...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15820120/exposure-to-forever-chemicals-linked-to-lower-bmd-in-adolescents",
+      "published_at": "2026-03-19T09:13:02+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "ACS: Breast, lung cancer burden has shifted from urban to rural areas",
+      "summary_de": "This trend reflects growing inequalities in social determinants of health, according to American Cancer Society (ACS) researchers...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/practice-management/article/15820103/acs-breast-lung-cancer-burden-has-shifted-from-urban-to-rural-areas",
+      "published_at": "2026-03-19T08:35:57+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -862,6 +945,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPS2tfRFlkeWVzMTN0dWZZYlhMaTBFNTZLYVk2cUwtTTZPdmZrYzRoN2VRS0hUR3JTal9qelRpcWI0Y1BvMER4a0pmNzJoekxfUWlfOWd2dzAzaWZ3dHJESVlIVnF0MTI3elV0aWJsMER4MnVRY0E2QjlyRXlGVTFtZ0JnNzZxQXJSNUFyTTN1U1dYLVI2VzN6Wjg3bERrVHc1LTdCcU5MOXMwMkNRVmpTeTBOYlY1RTdNc2JVbWxUM1VLT00wVkVCVXdKX243MkY5RGZzR08wRXY2LUoxTXFhMFNQYjNBUmtQTWZPcDB3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-18T15:08:39+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Doringer setzt auf modernste CT-Technologie - wko.at",
+      "summary_de": "Doringer setzt auf modernste CT-Technologie &nbsp;&nbsp; wko.at",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHXzBSSzFkc1RIVF9LUGpadnVXZGtwTG5tZnV3czVrbEFQc0ZGUnBVZ3VZdi16OFdYXzY5ZDJBY2tPMFRkLWNoUUY2RzdEZk9rLXMyazZqSXhpcGxFbHoxQk4zbw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-18T14:12:34+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1069,16 +1162,6 @@
       "type": "Studie"
     },
     {
-      "title": "Hologic report: 1.5B women missed preventive screenings in past year",
-      "summary_de": "The report found that only 13% of women globally had been tested for any type of cancer in the past 12 months.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15819833/hologic-hologic-report-15b-women-missed-preventive-screenings-in-past-year",
-      "published_at": "2026-03-17T17:22:17+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Patients to get new medicines up to six months sooner under new joint MHRA-NICE approval process",
       "summary_de": "New pathway set to synchronise licensing and value assessment decisions",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1091,7 +1174,7 @@
     {
       "title": "Depression – die unterschätzte Krankheit - DIE ZEIT",
       "summary_de": "Depression – die unterschätzte Krankheit &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcGh1RFNfd2VUNDFRSWt3bFZSTW5QOGUzR1BFV2lCRG43eS01WVk3THE2NWRKNFZSMGRVaVhoVTkxWkJiYXhGcU9nNEZMV2Y5YkJpTVoxTnhDQ1ZWMFJXTTdOUjlLOGNLSW9JUGI1ZWhsS0VlRnprM3pMZWFlQllrbnNxbmJSTXNVQkpDS2FqaXRtMVdjN0ZZa1dudEtfY1pfa1R4TUdvUEo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-17T15:56:55+00:00",
       "category": "News",
@@ -1104,6 +1187,16 @@
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU0pnR1ZxS00tRUhkRVo1VW5tWU9sbGY1a3N4OE5jSy1wSFhOOThEZVozY3VfN2gxTXhLRmxhX055VFVoSWhUZlN6VUVub0RNOWZwNnpxSmtmZ1JoQnRkVlVzSHNiMzlVOEhrVEZVYjdGSVhac09DSkVONXN1X3N1WXVKc2txRWUyeV9F?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-17T11:34:56+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Medizin im Volksmund II - Deutsches Ärzteblatt",
+      "summary_de": "Medizin im Volksmund II &nbsp;&nbsp; Deutsches Ärzteblatt",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTC1ucDlNbm8yd096MmszT0JPOHhFZzBSY0g2TzhIdzAydnNWVFF1cHZGel9HUVRhaHRQeFJmLWw1dG45UE04LTZ2SEJXT19OUHBSblNqUElSeDF6c1RjLWwzRXVxcEM5Z0RyU0VlcEpUVUJ1a3pQNnJUOU1HWk91R2lMa01QSjdXTW9fa2JucllmNHhWMi16RWJqclM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-17T11:33:21+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1216,16 +1309,6 @@
       "type": "News"
     },
     {
-      "title": "Culturally tailored videos may help inform breast cancer screening",
-      "summary_de": "Informational videos that are culturally tailored could help improve breast cancer knowledge among patients.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15819826/culturally-tailored-videos-may-help-inform-breast-cancer-screening",
-      "published_at": "2026-03-17T06:27:23+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "School food environment interventions for health and sustainability",
       "summary_de": "School food environment interventions for health and sustainability",
       "source_name": "Cochrane Library RSS feed.",
@@ -1310,7 +1393,7 @@
       "summary_de": "Armut als Risikofaktor - auch für die Gesundheit &nbsp;&nbsp; tagesschau.de",
       "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pSFgxWFlMX0JaZENnbkVmV2dzYlBFNUk0VUROaEE2X01uQURtU2Y3M08ya0tyb0pkdkNGY0E1dG5wVFZzTVM3SWVxVC1zWHdTc1NfWG81NTgyOF9zWS1xZ1VhYkFzeGtpVmI5akxOcElwMElnUDhRQlJ2OA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-16T11:26:00+00:00",
+      "published_at": "2026-03-16T11:26:33+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1328,41 +1411,11 @@
       "type": "News"
     },
     {
-      "title": "Mentale Gesundheit - Nicht nur bei Olympia-Startern: Der Blues nach den Spielen - Sport - SZ.de - SZ.de",
-      "summary_de": "Mentale Gesundheit - Nicht nur bei Olympia-Startern: Der Blues nach den Spielen - Sport - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORGpqNWNBUXNQeWxKTE9nOUt3UlYwWTBQT1QzRm8tMWxfRlNZVTJvai1Jd0VZeFNuNENtU05oTzBCOGRxX2o3eHF5QVc3eXFRT0IydU9nbHFadW04NmRiazB2amg3bkxTb09ZZHNYR1RlSDNLTTczcGw0eU5QNUZXNkNxSVdraThWUE9VbzFiWm9oTlJBX3F5aUZEc2JXekdYX19RUnpkRGxDTGZwdTc4MnVXcUN3UzRibzBsWkg4cmx3MDI5WHJWTGRqOFRvUS1Sb1gwT1NvNU53anN6SEhhM3oydFRSSlRCNy1hVHA2MUdCQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-16T09:09:26+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Study supports use of SPECT in Pluvicto patients",
-      "summary_de": "The findings support the role of cycle 1 PSMA-SPECT for early on-treatment risk stratification.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15819744/study-supports-use-of-spect-in-pluvicto-patients",
-      "published_at": "2026-03-16T08:57:47+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "»Germanische Neue Medizin« findet im Netz viele Anhänger – Fachleute schlagen Alarm - Spiegel",
       "summary_de": "»Germanische Neue Medizin« findet im Netz viele Anhänger – Fachleute schlagen Alarm &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOb29RZk9zUlZ1bHMzc00xbXF1VjJGdDVwM2pJQ3c2MXVFa3NEbzIyQ3FnNlkxZEdZZnAzSWxySzZIUG96RU5CVDBrelhUWF9PdXhybFZ5U0dYQXVZVGtsMlV1Z1Ftd1NaN2FmRnNVM0x6cDhQb3hIbGoya1RVZWJ2MDI4T2tweVRvNHNlSEdsMWY0NW96d19IMkRIUDZTSzBWTlJlenpza1lEaU45NVpKWDIwX01YbGc2VWNHdF96cXNTcmVRX3BhWDAwWTJibWRTTlFON1BySjJ6cW96SjRfNGh4aWVoenc3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-16T08:16:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Researchers optimistic on healthcare AI privacy risk fixes",
-      "summary_de": "Privacy concerns with healthcare foundation models (FMs) can be mitigated through safeguards embedded into FM design.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15819738/researchers-optimistic-on-healthcare-ai-privacy-risk-fixes",
-      "published_at": "2026-03-16T08:15:55+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1458,16 +1511,6 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Warken will Long-Covid-Betreuung für Jugendliche ausweiten - DIE ZEIT",
-      "summary_de": "Gesundheit: Warken will Long-Covid-Betreuung für Jugendliche ausweiten &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdDNqaUF6by1rMHBpS2dVanZOZEFVT3Rzb01MMS1Ia2RPN0U4dEE3RE11ZGU1SHA4WS0xUU5NQ0l4NmhGY0x2S2trSWtXaG96N1FMZDdXcC1qMUkzRFU4Ukp1WGxpaVk3bzhxT3hLbHpkSlc2S3E2MnY4LTIybERhT1RzZUFic3BrcGZpSVNSWkpteWNaWXZDaUdWOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-13T14:59:15+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Decision: Medical devices given exceptional use authorisations",
       "summary_de": "List of manufacturers and their medical devices granted an exemption by MHRA. The list also includes manufacturers whose exemption expired or was cancelled.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1526,16 +1569,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Decision: Orphan registered medicinal products",
-      "summary_de": "A list of authorised orphan medicinal products registered by the UK licensing authority.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/orphan-registered-medicinal-products",
-      "published_at": "2026-03-12T16:38:10+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Standard: Implementation of medical devices future regime",
@@ -2691,16 +2724,6 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitswissen für Arbeitgeber: So lässt sich die Gesundheit im Unternehmen verbessern - BARMER",
-      "summary_de": "Gesundheitswissen für Arbeitgeber: So lässt sich die Gesundheit im Unternehmen verbessern &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd2JleTROVjkweE5yeVE4NnRIQWlPbS1YY2s1UEFVTkFjXzVqSWNGVUFfMDdCS2pZX1YxOHdGUElxTHV0V1VsQmVDbUM1TVlpOWNDQnc0UnpTMnhRYjZvc3A2eE9iVHdUVWhmbWs2OFJuMGpmT3lUeTlMOHNoZV9nVEFkY2ptN2s?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-12T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Meldung: Die Vergütung psychotherapeutischer Leistungen in der ambulanten Versorgung",
       "summary_de": "Der Bewertungsausschuss, bestehend aus Vertretern von KBV und GKV-Spitzenverband, berät jährlich und aktuell über die Vergütungshöhe psychotherapeutischer Leistungen. Nach höchstrichterlicher Rechtsprechung des BSG muss die Vergütungshöhe angemessen ausfallen und dem Vergleich mit bestimmten Facharztgruppen standhalten. Die Beratungen sind nach § 87 SGB V - Bundesmantelvertrag vertraulich.",
       "source_name": "GKV-SV Presseinformationen",
@@ -2742,6 +2765,16 @@
       "source_url": "https://www.efsa.europa.eu/en/news/veterinary-drug-residues-food-whats-latest-eu",
       "published_at": "2026-02-10T10:19:49+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Experten über Klimawandel und Gesundheit - BARMER",
+      "summary_de": "Experten über Klimawandel und Gesundheit &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWm45Tzk2ZC1fa2ZEc0FpNGlGX0JLMmNqdzkxOTB1Y1lOMWUwZVRhOXlMT1ZySTBvY0xEd3lCZWdrZmp3M1BVb05ER0xvTFRrcTlWdXVta0tfZlQ0eFptdjFnTjhIbEpUVkJhbXFTQlAyYk5rRFNjenYyLTk1cUZhaU1pNXRLcmcxLURvY25ReldmSlJ4WnRiN3pWOWhycWJseTB5NUpZcE0zUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-10T08:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     }
