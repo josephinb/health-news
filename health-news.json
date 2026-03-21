@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-03-20T21:23:59.608582+00:00",
+  "generated_at": "2026-03-21T01:21:06.932077+00:00",
   "window_days": 42,
-  "count": 272,
+  "count": 258,
   "items": [
+    {
+      "title": "Thüringen: Wegen Lindenschule: Stiftung kann Krankenhaus in Schleusingen nicht kaufen - tagesschau.de",
+      "summary_de": "Thüringen: Wegen Lindenschule: Stiftung kann Krankenhaus in Schleusingen nicht kaufen &nbsp;&nbsp; tagesschau.de",
+      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZEVrQzFHREJZLUFGX18wSEd0czBWY2NTMHFVUy1hdExRaGk2YmhOMkF0ZFhYZmIxYm9DQUNoWXRQNWJXV1Q5ZUlxR0V2bTgxc0d3aFF2R000V2Frc2RGYkJWUXdNWlN2SFhWbG4xLW9Ea3BSVTV5d0xDV2wxa0dCLUk3b1l1Wnc5Rjl3TVNVVTlQemNqc2RvNE5nX3ZuQzFZRVZnN1FRbW5TV1NJWGtlbU41TGhhQVZwYmdSdk45dkFuTXJLWXV6eTZLdW8xa1VTM0N4TnNB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-21T00:55:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Decision: Orphan registered medicinal products",
       "summary_de": "A list of authorised orphan medicinal products registered by the UK licensing authority.",
@@ -103,26 +113,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/kritik-an-praenataltest-als-screeningtool-163832/",
       "published_at": "2026-03-20T15:02:08+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Physicians prod U.S. FDA for pediatric AI regulatory carveout",
-      "summary_de": "An analysis exposes how inconsistent and ambiguous the regulatory landscape is for pediatric-focused AI.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15820167/physicians-prod-us-fda-for-pediatric-ai-regulatory-carveout",
-      "published_at": "2026-03-20T15:01:20+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Lung cancer risk persists years after negative CT screening",
-      "summary_de": "Study results could shape how individuals at risk of lung cancer are screened.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15820115/lung-cancer-risk-persists-years-after-negative-ct-screening",
-      "published_at": "2026-03-20T15:00:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -583,16 +573,6 @@
       "type": "News"
     },
     {
-      "title": "Mammography AI approach finds more breast cancers, reduces workload",
-      "summary_de": "An AI approach that excludes low-risk mammograms from radiologist reading led to more cancers being found.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15820053/mammography-ai-approach-finds-more-breast-cancers-reduces-workload",
-      "published_at": "2026-03-19T14:16:23+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Zukunft der Versorgung: »Gerade in der Apotheke wird Gesundheit gelebt«",
       "summary_de": "Auf dem Kongress f&uuml;r Gesundheitsnetzwerker wurde diskutiert, welche Rolle Apotheken zwischen Reformdruck, Digitalisierung und wachsendem Fachkr&auml;ftemangel in Zukunft spielen. Klar wurde: Ohne st&auml;rkere Kooperation und neue Versorgungsmodelle wird es nicht gehen.&nbsp;",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -767,26 +747,6 @@
       "type": "News"
     },
     {
-      "title": "Exposure to ‘forever chemicals’ linked to lower BMD in adolescents",
-      "summary_de": "Identifying when children are most susceptible to these toxins could help prevent outcomes like low bone mineral density (BMD...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15820120/exposure-to-forever-chemicals-linked-to-lower-bmd-in-adolescents",
-      "published_at": "2026-03-19T09:13:02+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "ACS: Breast, lung cancer burden has shifted from urban to rural areas",
-      "summary_de": "This trend reflects growing inequalities in social determinants of health, according to American Cancer Society (ACS) researchers...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/practice-management/article/15820103/acs-breast-lung-cancer-burden-has-shifted-from-urban-to-rural-areas",
-      "published_at": "2026-03-19T08:35:57+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheitsdaten - Krankenstand der AOK-Versicherten leicht gesunken - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Gesundheitsdaten - Krankenstand der AOK-Versicherten leicht gesunken - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -919,16 +879,6 @@
       "type": "News"
     },
     {
-      "title": "An RT weighs in on MRI safety: We know better, we just don’t do better",
-      "summary_de": "A troubling pattern has emerged: resistance to safety measures doesn’t come from patients but from within the field.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15819891/an-rt-weighs-in-on-mri-safety-we-know-better-we-just-dont-do-better",
-      "published_at": "2026-03-18T15:20:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit: Kirche kündigt Mitarbeitern des Krankenhauses Groß-Sand - DIE ZEIT",
       "summary_de": "Gesundheit: Kirche kündigt Mitarbeitern des Krankenhauses Groß-Sand &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -965,16 +915,6 @@
       "source_url": "https://www.gov.uk/government/publications/improving-patient-information",
       "published_at": "2026-03-18T13:52:16+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Tödliche Erkrankung - Karlsruhe verwirft Klage zu Kostenübernahme für Medikament - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Tödliche Erkrankung - Karlsruhe verwirft Klage zu Kostenübernahme für Medikament - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPb2xmWnE0VG1Sc2FsOWdiMWRGcWtDb2lyS0tnVWU3VVBxam16cTA3cEFVc0ZfaWJfMGR6NEFSZ3ZTcHEweUxfOHRaNWF0aC1Ub1VOSFU1cnk5S0FEc3ZaQ0xPNi1wVVU0V1k4ellEVk1iMjZvaUQwSXJGS0E0MW0wYzNjaTdMTFNpZGtBdDhYWkNQT3lnanFKQkFkNDNpeUUxd29XZmhySlhfSVZRdHdHeVpWb05faUFfSVJpLXlDNUdvdENwMFlyeGpQVjA2aWk4SzJZVEJETXpQSV9nekVqb0M4RjhGU3U0ZWxEeldwVmZyaU02R182WG02QXg3ZVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-18T13:12:38+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1079,16 +1019,6 @@
       "type": "News"
     },
     {
-      "title": "AI boosts lung nodule detection but doesn't reduce interpretation time",
-      "summary_de": "null",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15820020/ai-boosts-lung-nodule-detection-but-doesnt-reduce-interpretation-time",
-      "published_at": "2026-03-18T09:08:16+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Meldung: Ein Patient mit Bronchitis",
       "summary_de": "Im Interview mit dem europäischen Nachrichtenportal Euractiv sprach Oliver Blatt, Vorsitzender des GKV-Spitzenverbandes, über das deutsche Gesundheitssystem, dass er aktuell als einen „Patienten mit Bronchitis“ bezeichnet. Blatt äußert sich über aktuelle Herausforderungen wie hohe Ausgaben für Krankenhäuser und Arzneimittel, über den Umgang mit der Pharmaindustrie in Europa und über Prävention.",
       "source_name": "GKV-SV Presseinformationen",
@@ -1122,31 +1052,11 @@
       "type": "News"
     },
     {
-      "title": "Deep learning improves disease detection on echo exams",
-      "summary_de": "A deep neural network architecture that combines information from multiple video views could improve echocardiography exams.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15819958/deep-learning-improves-disease-detection-on-echo-exams",
-      "published_at": "2026-03-18T06:29:03+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Arzneimittelpreise: Medikamente in Deutschland günstiger als USA trotz Trump-Deals - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Arzneimittelpreise: Medikamente in Deutschland günstiger als USA trotz Trump-Deals - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdnBJZGx2V2VkNEJfQy1NTDk2NFJXOE5MY3k2VE1yNmxuZzNiWWNlalNjN0MzTjJzSUwxTDRPRTlJai1XeXVUODNhaGlrRXJhaVpJdVQ0eV9mNHc1QWZkaXhtUTVfdjZNWEU2eWptcVk1WkNUZHJNRUpNQzM2TXduRFpPS0tTbjhtajdRWmtMbTM2N1owQ1I1Y2g1MmJiUzNpdnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-18T04:01:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Tödliche Erkrankung - Karlsruhe entscheidet zu Kostenübernahme für Medikament - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Tödliche Erkrankung - Karlsruhe entscheidet zu Kostenübernahme für Medikament - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYjBWMnhYdVVUVF9uUy1IMGszRWpVY0diNFgwNmtTc1lrU20zdDQ2Y0tObjhuMnJkbzM5U0YyWDQ2NmF6dThOUzFXaF9iNmpKdVBTU1lFczJjVS1tampma0t0aC1RWEJXQUtWNjR1dWVrWnB3TWNnTjcxRF9LTERVbE9mYmdQanRRYUlFODhHM0czMGp1V21IcENJLTJ2VWRwd3ZIWjAybkZZN21iY19sYVdPY1ZBbGJHRTRTMG5abjI0MkxEc1JVSi1KOXVkUktrTThkNXV3eHdwQkRHemxhU2xkaGoyT1BwWjBVVm5ra3ZKVzFtZEN4LXVocw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-18T02:30:05+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1174,7 +1084,7 @@
     {
       "title": "Depression – die unterschätzte Krankheit - DIE ZEIT",
       "summary_de": "Depression – die unterschätzte Krankheit &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcGh1RFNfd2VUNDFRSWt3bFZSTW5QOGUzR1BFV2lCRG43eS01WVk3THE2NWRKNFZSMGRVaVhoVTkxWkJiYXhGcU9nNEZMV2Y5YkJpTVoxTnhDQ1ZWMFJXTTdOUjlLOGNLSW9JUGI1ZWhsS0VlRnprM3pMZWFlQllrbnNxbmJSTXNVQkpDS2FqaXRtMVdjN0ZZa1dudEtfY1pfa1R4TUdvUEo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-17T15:56:55+00:00",
       "category": "News",
@@ -1254,26 +1164,6 @@
         "Versorgung",
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Radiation exposure low during TARE procedures",
-      "summary_de": "Transarterial radioembolization (TARE) is rising in popularity, yet data on occupational radiation exposure are sparse.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/interventional/article/15819870/radiation-exposure-low-during-tare-procedures",
-      "published_at": "2026-03-17T08:44:38+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Look for disease distribution features to identify ILD patterns on CT",
-      "summary_de": "Tracking disease distribution and dichotomous features on CT helps identify fibrotic interstitial lung disease (ILD) patterns.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15819868/look-for-disease-distribution-features-to-identify-ild-patterns-on-ct",
-      "published_at": "2026-03-17T08:28:31+00:00",
-      "category": "Radiologie",
-      "tags": [],
       "type": "News"
     },
     {
@@ -1905,7 +1795,7 @@
     {
       "title": "Lungenkrebs: Photonen-CT ist konventioneller CT überlegen – News - Deutsches Ärzteblatt",
       "summary_de": "Lungenkrebs: Photonen-CT ist konventioneller CT überlegen – News &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYjhXMi0xMHVycTVmeUFuYkMwdjRWR3UzVzQwaXltVE8wSGY0Qm1PYm5SbU1rTXcwcy1FOFhBU1FsRVdTS0NrY290UFVweFRxT29WRXpZM1ZRaHktTDlkT2JzZG9fMkZoTmxsOHVndjFaU05uVHlUc0U5VXQ3Nno5YXhlLTF3c1pEaVIzTU1oZDBLbGNpN3JXS19ENlJQVEdPQnF5cUJJVDFrM1hUNlBiU0hVLUxoRW5DVTdlbHlIVnpmOE0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-12T09:29:26+00:00",
       "category": "Radiologie",
@@ -1941,6 +1831,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Medizinische Klinik III - Nephrologie und Rheumatologie - HEK",
+      "summary_de": "Medizinische Klinik III - Nephrologie und Rheumatologie &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORnl3VEZ5WmtnMGFMQ3JFYTMwUkp3MllySmN4Ykkyb3U3dXBuekxxSFkxVGszbFVpb0Q1TFB2X1IzcXJLWHVrLWFwNFVHTGZwOGttWE9ZTk5sQXV2Z0VZNkFZSHRhYlpNSlRFQklqSFVyWEVaaUdOUktrbmJQY2FqX0NXWFVhNThZSXNYSjJuaXVkc0NzUVRVWDhqRXFsUWpWTWJvNTVGcGNkaVZWaTUtbUVuUzlPeVdIbEtMUFVNX1o4Y2IxM3hrYkFfcEVGcU9OMXNDeER0T2RYUVdmU0oxUlZGcnBlcldkWlpfZg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-11T22:54:30+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "[MI] NHS Productivity Growth Estimates - November 2025",
@@ -1985,16 +1885,6 @@
       "type": "News"
     },
     {
-      "title": "Medizinische Leistungsangebote | Hals-, Nasen-, Ohrenheilkunde | GRN - Klinik Sinsheim in 74889 Sinsheim - HEK",
-      "summary_de": "Medizinische Leistungsangebote | Hals-, Nasen-, Ohrenheilkunde | GRN - Klinik Sinsheim in 74889 Sinsheim &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPb0dRT0FObDVvNW9WS1QxNDlyMWEybWJkRzliT1dHREdQYnI3TnBFRmRSZzhDN0FsbVZIVmtGV2J6Q2xiaURmWTNEcnVkYThoUHBRQk5IS2g4d013Wkk0YWUyLUhST1lnZGRzYjJLNFQ4cmpsQmVOVmUzS1Ntc3JXeUlsdFY2Z0dYVmpoQ3ZTZHJXMTZCTWZoTi1nenZvQ19WNXVNTy1aWHYtRkdxVl9wN1o4WUNsdGRYUWxZOHR5dEt3eXlkM0NnQ2xPRk1xY254Y0F1cU1NcGxOSkVCZTNDV25ZU3k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-11T02:50:47+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "High‐intensity interval training for reducing cardiometabolic syndrome in healthy but sedentary populations",
       "summary_de": "High‐intensity interval training for reducing cardiometabolic syndrome in healthy but sedentary populations",
       "source_name": "Cochrane Library RSS feed.",
@@ -2025,26 +1915,6 @@
       "type": "Studie"
     },
     {
-      "title": "So registrieren Sie Ihr Mobilgerät für die TK-App - Techniker Krankenkasse",
-      "summary_de": "So registrieren Sie Ihr Mobilgerät für die TK-App &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT2VDVTREN1R2NlV5WjQwenRiTldiSVc3UURmdkRPRENQa0JPMTBNX3UtX2Q4a2pETkJ2UWpQUHlrNEdRbVVYSXpGeXRTcWVNY0pKU1o4Mk5mRzhmUVRjb1F1T01ON2JPMnE2NU41V2pkTEJEN0xlX3pfUjVlSldmeG9URUFnNHR6NUNpam5uQ2hybTQwQy1jRVlXRGxvQVlLUEZ1NjlUYzR5UUwtRkwxU3lGRjE1RjhjNk0yMzdHQllsbHJq?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-10T15:38:13+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Klinik für Orthopädie und Unfallchirurgie - HEK",
-      "summary_de": "Klinik für Orthopädie und Unfallchirurgie &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPXzlDY0EzUDVONnhmLTVRN1paWFBpNGpoVjZ5YnJkWEhOay1fc0I0a2F6bUhHM29wREJ5NkhJUzlOUmVnczkyaVNoR2dTbnNSUk0wdmJFZzFxenpZWUE4VjNKOXJLNDBxaHQyYmdvdzFSWTBvZVFxSmtYcXpxOXhxYjBtZEpkcWMwcWFMTHRETm9Pc2FLbjZVTkVhVmtEUzBSWGR5aEtYY19sNDh2Z1lpdmlfS21hQ3MtNENMcWVIbzB2YjhUdDhuZ3hNMWdUWWtMU1FGdDhHUnZqTmYwajRGZktaa1BXbFlFenYyc1hVTUdTclRUamRfcFloa2NkdEpwSXgyaXVyWTB0eW9wVVYxUGNVUEpIdTJvNlZoWG83TQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-10T13:32:54+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "gemeinsame Pressemitteilung: DKG und GKV-SV einigen sich auf Leistungsspektrum der sektorenübergreifenden Versorgungseinrichtungen",
       "summary_de": "Die Deutsche Krankenhausgesellschaft (DKG) und der Spitzenverband der Gesetzlichen Krankenversicherung haben sich auf das stationäre Leistungsspektrum der neu zu etablierenden sektorenübergreifenden Versorgungseinrichtungen (süV) geeinigt. Damit ist die Selbstverwaltung im Gesundheitswesen einen entscheidenden Schritt zur Umsetzung der Krankenhausreform gegangen.",
       "source_name": "GKV-SV Presseinformationen",
@@ -2054,16 +1924,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Klinik und Poliklinik für Chirurgie - HEK",
-      "summary_de": "Klinik und Poliklinik für Chirurgie &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWFFNbWlTUWhlLWRJRGFrRnNBTjlLYkZ0TzFocGZhWGRqYS1lMnVMdmlMX3NuaktKZHFhN3BUVE5Qei16OExIcm5zV2x4T3lvMTAxTDhNTERpbk8yRi1XS25KSWFUbXdoUDhvdG4zTkNoOXZDWVR2Y29XUmNPZFozOF9kWHdKWmstYWJTeDJwWFprWF9xSHNFaXc2UGNWLVdkY2pkanh3SW5rV1ZRYVIxOWlRQ1FRa01jYWd5V3pteVBzc1lqOTFMaGVUdmszT3VJcHZyMTFHMDkxMWtaVnhXU0EzM2NlUVpvVzBHQ3lpZ2pjQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-10T07:27:33+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
@@ -2148,16 +2008,6 @@
       "source_url": "https://www.ema.europa.eu/en/news/new-guidance-conduct-clinical-trials-during-public-health-emergencies-eu",
       "published_at": "2026-03-05T14:15:00+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Seminar: Planetare Gesundheit in Unternehmen - BARMER",
-      "summary_de": "Seminar: Planetare Gesundheit in Unternehmen &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQVVld3dnNVZLR2FyRnJCc3BYajZrYlJGQm53d1pwYjcySVRPM0dlU1lBbkNUOFA5VXV5WExUWDVRQWdBR1djWDhnaVUtbHhhdTBLWEczbjVnekR4RmR1aVVOUGlWQm4xdklraFRXOGpZRWxJQnRKVExhd1RiZ2pWNVJLZTJxa2Y2Nl9aRmRLOXh2MEpQSGt4TjBVbU9NT3IwZkhaZ0I3T2RseGViUkl6RklzVnA3N2h2d0cydDJQX0Y?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-05T14:06:51+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2390,6 +2240,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkJqME1vTGlGaXR3ZjNkd2VEeHItVDdNZUcyVmlmUG02QWJ5ZzFXVXRGaGczTnNuT0ZWOVBmT0Q4ajd3WGgydWU5Wmp4UWNhZ2V3Unp0akpFNmdtb0xld0NkM2M0UUd0ZzFQMUNjMXFSVHJRMEV6dUNZdllYcjZIcm9lS0k4SVk4TDBZOXVOaUt6OFRxUzJIOGNydjByMlB4eDNoZEtJeWVxYXJxTXNRdldMREZ5MHRlV253bGN1Q1o?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-28T08:00:00+00:00",
       "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Personal | Klinik für Frauenheilkunde und Geburtshilfe | Gesundheitszentrum Bitterfeld/Wolfen gGmbH - HEK",
+      "summary_de": "Personal | Klinik für Frauenheilkunde und Geburtshilfe | Gesundheitszentrum Bitterfeld/Wolfen gGmbH &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPaFRkMGtFWjFWMEJ0QmJLV3lHbWZIZjduSDFsbEZyNm5PYXZsdzFxZW5ha0xDYUJRSzBBYmxISlR4aXpSVjc0UTJ6bDZ6ZnYxaWZqVjJ4RUJVa2p0UWdKWERRVjYxSWRJampvMk9NbVpybGI3bVdHQzV5LV9NalN2NmxlWFd4NnAxQlZtUS01cmxONjRJMWgzQWNVcEI5NVllQmxXcHExTFhMZDBLQ3pGSUdaVkQwdHBZOExPd0NwSm5JdDREcUlSejkzT2xneVZhUE1NRU5sdGpuRm85VVFRcktjX0xnNmRtT1BVZmFKV29PWkFWd3R5TUJicU9NUFFENGhab0ZmQTdXOWZ4dUdqLVRITGE5SjAzdHBfd19sUmczZ0xKUFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-28T05:33:02+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2702,8 +2562,8 @@
       "type": "Studie"
     },
     {
-      "title": "Ihr Portal für Digitale Gesundheit - BARMER",
-      "summary_de": "Ihr Portal für Digitale Gesundheit &nbsp;&nbsp; BARMER",
+      "title": "Ihr Portal für Digitale Gesundheit - Barmer",
+      "summary_de": "Ihr Portal für Digitale Gesundheit &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDTWN3bVQtWVZ3X29IVmZUSGR2dXYzWlZiczJvT0NHVkNfdTBsdklrNE5fc1BOU2dVUFcyN01GMld4N3E2eGpLbnlzQlFPd21fUVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-16T08:00:00+00:00",
