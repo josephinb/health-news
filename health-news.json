@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-03-21T09:25:09.334200+00:00",
+  "generated_at": "2026-03-21T12:33:28.107499+00:00",
   "window_days": 42,
-  "count": 272,
+  "count": 280,
   "items": [
+    {
+      "title": "Hamburg: Wegen Protest am Montag: Kunde zerschlägt Apothekeninventar",
+      "summary_de": "Offenbar aus Frust &uuml;ber die bevorstehenden Apothekenproteste hat ein Kunde in einer Apotheke in Hamburg Teile des Inventars mit einem Schlagstock zertr&uuml;mmert und dabei erhebliche Sch&auml;den verursacht. Er soll zudem das Personal bedroht haben. Der Mann stellte sich, die Apotheke bleibt vorerst &raquo;wegen Vandalismus&laquo; geschlossen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/wegen-protest-am-montag-kunde-zerschlaegt-apothekeninventar-163838/",
+      "published_at": "2026-03-21T10:30:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Video-Botschaft: ABDA-Vorstand ruft zu Protesten auf",
       "summary_de": "In einer gemeinsamen Videobotschaft hat der ABDA-Vorstand die Apothekenteams aufgerufen, sich an den Apothekenprotesten zu beteiligen. Am 23. M&auml;rz sollen bundesweit Apotheken geschlossen bleiben und es gibt vier regionale Kundgebungen.",
@@ -39,6 +49,16 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNOEdfU19mS2lYc2hyQml5S3YxMTFaWklwdjQ0TjFKbVBxbklCWmtUcDVQVTN2eHMzOGNKSE1nYUg1c2hiWVNQOWxPaVpuMHhkc1hCanp0VVM5NEh0a1FpZFdpenVDVUVjRVBNUUpyVE1qSmo4ZlZOODhGNmhvWHUzMTdybWkxc0JaZHh0OE55ckc5bXFROE9vT0gyTEtLS0FZcEo2VTk3a2VhUXE1bU9PMElWbHpZM2xDRjhqMEZpd0ZQMHNBejlqNnVuUUpOTXdMZGJoejg1RHZaWF9QamF4cWtYRVlBdmtySkVaWEcxSGxPWTFVMTNRdVNaNlMwQWhzN2ww?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-21T04:00:09+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Statistik: Wie lange dauert es bis zum Krankenhaus? - DIE ZEIT",
+      "summary_de": "Statistik: Wie lange dauert es bis zum Krankenhaus? &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdVNwSWhoNDNzbkhSS2htNGZtczhUUWR3OWtvQ3YyTXgwM05CcWZQMkpLYjhvRVc3LXB1R0hFV0lCdUplYl9EZ01MQmI5aERlZkJkRmQyU2h1NW8waHVwSXhydjhZem1lQVhldjZjLWt5dW14eDl6NDFNTHB5REpjTA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-21T03:00:29+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -489,6 +509,16 @@
       "type": "News"
     },
     {
+      "title": "FDG-PET matches MRI in cardiac imaging",
+      "summary_de": "The finding is from a study of multiple PET acquisition techniques and cardiac MRI for measuring left ventricular ejection fraction...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15820228/fdgpet-matches-mri-in-cardiac-imaging",
+      "published_at": "2026-03-20T08:11:23+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Senolytika: Diese Anti-Aging-Kombination ist nicht ungefährlich",
       "summary_de": "Die Wirkstoffkombination Dasatinib/Quercetin soll senolytisch wirken, also einen Anti-Alterungs-Effekt haben. Dass diese nicht zugelassene Kombination nicht leichtfertig eingesetzt werden sollte, zeigt eine aktuelle Studie. In M&auml;usen stellten Forschende Hirnsch&auml;den fest.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -519,6 +549,16 @@
       "type": "News"
     },
     {
+      "title": "AI-mammography leads to no significant benefits in single-reader study",
+      "summary_de": "An AI mammography tool did not lead to significant changes in breast cancer detection and recall in a single-reader setting.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15820216/aimammography-leads-to-no-significant-benefits-in-singlereader-study",
+      "published_at": "2026-03-20T06:36:57+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Medikationsanalysen: Das Für und Wider von Laborwerten",
       "summary_de": "Erbringen Apotheker Medikationsanalysen, steht immer wieder die Frage nach den Laborwerten im Raum. Dass nicht jeder Laborwert n&uuml;tzlich ist, zeigte sich bei einem Webinar der pDL-Akademie von Pharma4u.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -535,16 +575,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYjNhZ1czUXFPRktIVXZxSUlXTFd5YzRBMERpZDBpUEExcklXVUNCb0RYdzd5VVdLMEtaZVRTN21LOVB2dFVjTmRxdk13UWZScTJuS012dWhKTDBSalV4YWlObzZnVHhLWWhSNnozTVRMM3BoSTl6Z0pZcWpYSnBMSy0tRkU4a1ltMEpkNW1mVW1yVzV4X3hBOGZYblZGTnpvYUJpZ3dBTkNZLXY1dWNoVjBtTlJNTlp1RjAzcHQ1RXRiaDVpUjhvUjFNUHRrQXdpd3hMeVdkOEd3Y1pTR2V5MDVacXNsanJwa25ubFVtaWVPckhrOUVVRnFGa1VGUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-20T04:00:19+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "United Imaging Intelligence China - AD HOC NEWS",
-      "summary_de": "United Imaging Intelligence China &nbsp;&nbsp; AD HOC NEWS",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOF9mT2Q4MktvXzd1SzdVTG5ZeTlla2JMRjRDTkRnRkpPMnhRaVVvNWtvU3hWbTJ1bjNQRUhweHpOOFJ2aW51dnpHSWM3RkJRVVRNcTR4Z1R0MmFGdTRGVk4ydEJwOVE2RFE2QlJZeFkxaHRvVHl4eTdaNE1MSWNfemFTaFZOdzZCYXN6S1RQT3dMY2dJazgtUmFUQnhZQXpMZ2RBZjNrb3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-19T20:49:10+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -693,18 +723,6 @@
       "type": "News"
     },
     {
-      "title": "Paritätischer Gesamtverband: Hilfe zur Pflege kommt nicht überall an",
-      "summary_de": "Wer Pflege braucht und nicht ohne weitere finanzielle Hilfe auskommt, kann die Sozialleistung &raquo;Hilfe zur Pflege&laquo; beantragen. Zwischen Heim und zu Hause gibt es hier Riesenunterschiede. Eine Studie zeigt m&ouml;gliche Gr&uuml;nde.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/hilfe-zur-pflege-kommt-nicht-ueberall-an-163787/",
-      "published_at": "2026-03-19T13:30:00+00:00",
-      "category": "Studie",
-      "tags": [
-        "Versorgung"
-      ],
-      "type": "Studie"
-    },
-    {
       "title": "Wachsender Fitnessmarkt - Fitnessstudio-Konzern LifeFit setzt Einkaufstour fort - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Wachsender Fitnessmarkt - Fitnessstudio-Konzern LifeFit setzt Einkaufstour fort - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -720,6 +738,16 @@
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2d6Z1lNejVpX1UwN1luX1lzV28xUVdERUIwMjB2YjJnbW1sZ0QyRWlVMkpxamNxV0pTaXNzVGpzc1JtS01UR2xEaUVYbGw3Q1VMbks5aUwtMzhERkdzUTYtZ3Y1WTJUZ2lhQ3pjZVpNd1Z2U1RVZDBhMUxab291bml3V29NZ2lwS3RVdGlpSlo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-19T12:46:31+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Menschen mit Demenz - Musik weckt Erinnerungen – Demenzkranke blühen auf - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Menschen mit Demenz - Musik weckt Erinnerungen – Demenzkranke blühen auf - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeWxRcjJKLTdxSDVIcC02SFhDZ0xNamxjNkF5c0Q5a2Q1Yjc4Z1RmdG12NDlNTmRSVFl4OWREcHZJNFZSVHBnVjBHSTNNcDgyV0kzYUxrbHFDRzlBaVRIc2dyVHV3U3VnUHZSX0swcVE5V0p5Vkl5cnM1SjVRdjM4eVBqUTR4MFhDcE45LXdlZFlpY2t0eE12Um9vOTFYYV9IZEVjbzdtcEJZQ3Jja0hfbWNQOFRsWHRhc2txWFNlZzNEVnZOUktKcEtBWXg1Rlo2U3hkQWdHeGdZc2tqeGRNTklRWGtHTFNHcURNTDNqRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-19T12:32:12+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -869,6 +897,26 @@
       "type": "News"
     },
     {
+      "title": "Abgehängt - Landtag: nirgendwo weniger Hausärzte als in Westfalen-Lippe - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Abgehängt - Landtag: nirgendwo weniger Hausärzte als in Westfalen-Lippe - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZkExNlBMUkJGZzlnYUJ0azZCdlVBcW1LVlhMbkhuSkVlazlBQndoQ3haT1BUQllKWUNWbHItRGNMM3RReWdCZmVkSjdhQ19BX1lhaEducUt1VVUzdDlySzVHWERBUm1fLW4xa0RyT0tDTm9CU0c1WmhPRWxkdE1sTUdzdHhFZnpBRGUyUWtVd2F0WFJNMnlablJYTHZNRFdWYThpS01PR3hsSFh5OGpvNFBZNVhQRUR6Z1dGakJkeTY4YUh4SGVsZFpONUxjc1pkMTBSVTcyNmVubk5xc0YzS2V1WVE4VHRnZDVKRHpzTTI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-19T02:30:11+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "United Imaging Intelligence China - AD HOC NEWS",
+      "summary_de": "United Imaging Intelligence China &nbsp;&nbsp; AD HOC NEWS",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYlUzYklUMjFRby1rcTNEYjV0SFpLVGJoSmlsRG5RQkJJZmJOczNLYllVRWUzU01HdGI0dHFxSUYxc3gwRDQwdEI4RkRqY1Z3WlRJZ193LXl4REp3OURuQ0E4bDQ2S2lzOXZIbVZjODVhd0xTSWU4MUs4OXBITUVjWGVQNjZlY1YyVXY2NGxUcDZFWHI5dHR6eTl1WGVJNjl2VEhrdlQ2NWY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-18T17:11:04+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Landtag: Saarland will geschlechtersensible Medizin stärken - DIE ZEIT",
       "summary_de": "Landtag: Saarland will geschlechtersensible Medizin stärken &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -924,6 +972,16 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRUlWQTFXbzQyQXRLY0hLc3UwZDZGblMwVlpTblpMbVA0SnlFRHdiYTUwd0dCUlZaeVI3ZXRPMnlWcjhMcHF1c0lTcjdQQmxjTEp2QnpMa3huaUNjMHhnNnF2dU9wQkJoVkRERDN6TURybDZVQjlSNUIyRVdvUXBlRy1ubEtEUWloTVN3TUkxejBibjFYcGpWWGdac21BZXZPVGJwbVpvcXB4REhlcl9nUTlCdEpLQVRlNjdENG01OFctbGwxLTB3MEhwQWZ5X3Y0M0pLYjA0TDNBUTdSVHo5Sw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-18T15:57:09+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Baden-Württemberg: Ein Großprojekt geht an den Start: Calw hat ein neues Krankenhaus - tagesschau.de",
+      "summary_de": "Baden-Württemberg: Ein Großprojekt geht an den Start: Calw hat ein neues Krankenhaus &nbsp;&nbsp; tagesschau.de",
+      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNG1mZTlfNFlwVFFyLU1majNMSWVPQVNTejQ4dWpHN3dBN0ZRcDZHVEl6enQ1RUR0ZFdCV0piZGdLUUM2NFpQQ3d1SmphVzNyX2gxaEFZaUxvZUNsODJXd0Z3M2RJTTY3UVVySUY1bndiU0dmako5V0lJWjZzY0piem9KRHNUMGRSTjc4Q1piUHBJUERBb1FxeGpKdnFiaHNkSDRXUldZVVd3UEpnTFhWTXJhVFNSTnZob2xOcVl5dm9hbVR6a3VuVXBSM2Z3V0NmLUNPSg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-18T15:43:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1005,6 +1063,16 @@
       "source_url": "https://www.gov.uk/government/publications/improving-patient-information",
       "published_at": "2026-03-18T13:52:16+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Tödliche Erkrankung - Karlsruhe verwirft Klage zu Kostenübernahme für Medikament - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Tödliche Erkrankung - Karlsruhe verwirft Klage zu Kostenübernahme für Medikament - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPb2xmWnE0VG1Sc2FsOWdiMWRGcWtDb2lyS0tnVWU3VVBxam16cTA3cEFVc0ZfaWJfMGR6NEFSZ3ZTcHEweUxfOHRaNWF0aC1Ub1VOSFU1cnk5S0FEc3ZaQ0xPNi1wVVU0V1k4ellEVk1iMjZvaUQwSXJGS0E0MW0wYzNjaTdMTFNpZGtBdDhYWkNQT3lnanFKQkFkNDNpeUUxd29XZmhySlhfSVZRdHdHeVpWb05faUFfSVJpLXlDNUdvdENwMFlyeGpQVjA2aWk4SzJZVEJETXpQSV9nekVqb0M4RjhGU3U0ZWxEeldwVmZyaU02R182WG02QXg3ZVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-18T13:12:38+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1172,16 +1240,6 @@
       "type": "News"
     },
     {
-      "title": "Klinik für Pneumologie - PD Dr. med. Stefan Limmer Zollernalb Klinikum Albstadt Friedrichstr. 39, 72458 Albstadt - HEK",
-      "summary_de": "Klinik für Pneumologie - PD Dr. med. Stefan Limmer Zollernalb Klinikum Albstadt Friedrichstr. 39, 72458 Albstadt &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMklvdVV2eDN6YWJ2aHUweV9ZbThFT0dXVWZrb0JKZWxIMGh1WlhSQm5SeFJjVGpmSVVBaGRycjRCR21xbnFnalIyVHBtM1pRc2Z6M09QNDFTYjl5MVpTZ2YyeUdBUU95WE9aSms1bTlDOU5sUEg3c1h6MTI2eWNEbG9lUFo5N1dLTDRzaEV0LUkxeG5JZDlqVzRUSEVRelg5T3FUQkVubUxNVHp2MUYwX3paZllySGRvQkpoS2cwWXVab1ZXNnd5WjEzSWdhNmZCWlF0NVhNOVp2bWJPSXZ6bVpjclBjeXpCMzVBMHBxQUFmV3FLUVdUakFGVEplclRzSElacE5ZQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-18T05:58:20+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Arzneimittelpreise: Medikamente in Deutschland günstiger als USA trotz Trump-Deals - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Arzneimittelpreise: Medikamente in Deutschland günstiger als USA trotz Trump-Deals - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1297,26 +1355,6 @@
       "type": "News"
     },
     {
-      "title": "Radiation exposure low during TARE procedures",
-      "summary_de": "Transarterial radioembolization (TARE) is rising in popularity, yet data on occupational radiation exposure are sparse.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/interventional/article/15819870/radiation-exposure-low-during-tare-procedures",
-      "published_at": "2026-03-17T08:44:38+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Look for disease distribution features to identify ILD patterns on CT",
-      "summary_de": "Tracking disease distribution and dichotomous features on CT helps identify fibrotic interstitial lung disease (ILD) patterns.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15819868/look-for-disease-distribution-features-to-identify-ild-patterns-on-ct",
-      "published_at": "2026-03-17T08:28:31+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Pressemitteilung: Flexiblere Umsetzung des neuen Hebammenhilfevertrages",
       "summary_de": "Der seit dem 1. November 2025 geltende Hebammenhilfevertrag wird künftig flexibler umgesetzt. Mehrere Anpassungen sorgen ab dem 1. April 2026 für eine bessere Umsetzbarkeit des bestehenden Vertrags für die freiberuflichen Hebammen. Das betrifft Änderungen bei der Eins-zu-eins-Betreuung, zusätzliche abrechenbaren Leistungen im ambulanten Bereich und Erleichterungen bei der Dokumentation.",
       "source_name": "GKV-SV Presseinformationen",
@@ -1335,6 +1373,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMjhYazlWd0piSlBHZzRhNFFucFpic3FEd1JmN1BXTlZ3U3ZTM3p0WkprWTRFUnpVdzNzSDF2azNLTzhjYW9UcVJrdy12Mm8zOXVodkFoNUtZLVNJNHNpT1lNU0FTaGxLdkpzLUFzZGhsSklpSWtPTHc4cFU3bjZZb2J3UnlOeUdlLXNNenFZM050ZjhhQUJiTTZqbTdYb05nenM3dm9ZUFg3RUlT?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-17T07:00:00+00:00",
       "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Drogen-Konsum - Lachgas-Vergiftungen - weniger Beratungsanrufe im Norden - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Drogen-Konsum - Lachgas-Vergiftungen - weniger Beratungsanrufe im Norden - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNC1sQ2lVSkdYcGw4eUJfaHF6WjYyS1d5WkVHWjVVejVSUHVrajBHdlJBSTZ2eTFlejl0ZU05TTFqdUFuYm9Sdy1PNzNXTUNWOEM0ZERudUI0ODFITGxIcUl4Zk5IS0hDM0JKck5EUlI0RFZibFJFak95RTlMRFJSQUZVcTZYZVpSMUhIRVFvZ0xocEhFdnlfY29sSjc0VE10SFFPaDhvUmJHSWZlSEVIMkl4NDFjMlNseGRFVl94bW5oV05KMHNLaGZYTmR5UGhwT3lGLWhidmtHTjlMdnh1REZ1X3BicEp3cUtodXNR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-17T03:30:06+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1365,6 +1413,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSTNhMUtLSGFMSjdGcHJ3dFYyYXhxU1FUZDVsRXQwNF8wOGE1UDc1UHRNS3h2eDM3aTFrVGlxWnAwOUJTLUx2OF83cV95TTZRZHJPUk1JZXAtc3NDQnB3R2F6MkhOY0M5ZTZyVjBoUnhlM3pkbDdDUFJtUHJ3MVBOZDUycmF2aXNUdjM2V3hxckdPLXBLM192R25wYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-16T23:16:40+00:00",
       "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gießen und Marburg - Warnstreik an Uniklinik in Mittelhessen - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Gießen und Marburg - Warnstreik an Uniklinik in Mittelhessen - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR1BPYy1QSExFT2phTFVtQTc4NGRSRGlVZG5ZUzdCY0c3RzdOSnFndF8zbW5wVE5EdVM5OGU4SlZfTk5OTDJMTXpHZ21OT2Z3Z2FLWHRfai1YdENKU1k1aUFOWDhqSGoyRk12VXJZb2h0b0dEZzFtMUxjc1pINWhRUmNwUlVoS3BRV2RHZkVHLU9wUFNudHoyNVpxVjhiTzlrTTdaV1lZQlVpbHhmOFplVkZSRnlVMmhmRlZXd0dyYVhZOTJwZW01OEMwRlAtUnJ2bVlBaHdzYVRqYWViMEVpYXd3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-16T18:57:29+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1461,10 +1519,30 @@
       "type": "News"
     },
     {
+      "title": "Fehlzeiten - Arbeitnehmer waren 2025 im Schnitt 27,5 Tage krank - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Fehlzeiten - Arbeitnehmer waren 2025 im Schnitt 27,5 Tage krank - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYWw4ckVnVGFKbzVJUWk3SUhIMzhZRmZrSWhXU2NRYnotZWVQYmlJRllGZW1BVlN3S0tpUjZCZ0tZZkVaTlVYOVZrdHpkeDFzd1IzLWNBZUhZMHlZakRuOUlFSUI2aG1vekhLUFN0aGwtX2N2UlB4VDduLWc5N1R4WjMyWlh6NmpaQVJUbWVYX0ptMmRpWmFfZUVjOVRRTWxXSnRYbnprcE9QcUllcW4wVGI4UzZ6QjA3TGZVNVpPeDE0b2hTMWxUOHoyc05pcjc4dXluaUtKVE5BS2ZCTEMxWlpJYjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-16T05:00:13+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gesundheit: AOK: Krankenstand in Baden-Württemberg leicht rückläufig - DIE ZEIT",
       "summary_de": "Gesundheit: AOK: Krankenstand in Baden-Württemberg leicht rückläufig &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUxzOGFxb2ExdVJ0Yk5LMnlnNS1oSmNXTFVWUlBpVTNaYk8zRUZyRXlUQmstOHQ2cDk1T3JneHFtLXAtSFVMM2dSc0FXTHFNOTdKLWczOXhuVldET3M2WHNCNWd2SXFWTWMyUGkzeHFVUTRjbnh5ZEZjaUFGTTQ2bUdqSWhxOWFyNFdaZGhXdWk1VE5kWkI2b2FR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-16T03:00:25+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit - AOK: Krankenstand in Baden-Württemberg leicht rückläufig - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Gesundheit - AOK: Krankenstand in Baden-Württemberg leicht rückläufig - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdW5QazJ3dUJpblpLRFpqYkQ1T2JUaEJxekpMOXV2V2VOcnVMNFJOSEZRYUpIVjdOZGZRVjhhMmdZYTFqY0pZMTgxUEhlcDB3MDZCRjlsZW5xcXR0ZkY5VDZOYlFncW0yMWs0SU4wS0tXYnVHZ3FWSGlvcVpyOFB2YnZVTXRnZzNHWjZXSXBXaGJiWVgzaVhCeWU2YnJuYVlHTGtfQWZKRHpUa1ktWUcxMENtQmNRYWlPbkhfbGt2NTM0V2pJQWFjM0FJNzNMQlJmM1pRT1d1eWZLbzB5UlRzX0JsWVFvQXROVGxIV0JuQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-16T03:00:25+00:00",
       "category": "News",
       "tags": [],
@@ -2043,6 +2121,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Klinik für Orthopädie und Unfallchirurgie - HEK",
+      "summary_de": "Klinik für Orthopädie und Unfallchirurgie &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPXzlDY0EzUDVONnhmLTVRN1paWFBpNGpoVjZ5YnJkWEhOay1fc0I0a2F6bUhHM29wREJ5NkhJUzlOUmVnczkyaVNoR2dTbnNSUk0wdmJFZzFxenpZWUE4VjNKOXJLNDBxaHQyYmdvdzFSWTBvZVFxSmtYcXpxOXhxYjBtZEpkcWMwcWFMTHRETm9Pc2FLbjZVTkVhVmtEUzBSWGR5aEtYY19sNDh2Z1lpdmlfS21hQ3MtNENMcWVIbzB2YjhUdDhuZ3hNMWdUWWtMU1FGdDhHUnZqTmYwajRGZktaa1BXbFlFenYyc1hVTUdTclRUamRfcFloa2NkdEpwSXgyaXVyWTB0eW9wVVYxUGNVUEpIdTJvNlZoWG83TQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-10T13:32:54+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "gemeinsame Pressemitteilung: DKG und GKV-SV einigen sich auf Leistungsspektrum der sektorenübergreifenden Versorgungseinrichtungen",
@@ -2670,16 +2758,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Personal | Apotheke | Universitätsklinikum Schleswig-Holstein Campus Lübeck in 23538 Lübeck - HEK",
-      "summary_de": "Personal | Apotheke | Universitätsklinikum Schleswig-Holstein Campus Lübeck in 23538 Lübeck &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaGVJQXpSVzFjQjF2NkM2RHpqNHBYdW5oLVVVTFNfVVdSMnRMaE9pb0hBUFpRTHBYQ3FGMDB1bnl3LWhVTTQ3RExaUUNOT0FjRnB1NHNNZWFnNXBRc2lxblFHeE85M1RqaC1yV2NHUUNjb3hXd0lrVzlJNEd3TzZQZW4ySzRjTmRKUkV2NEl1Qk1BOUNwODVyaEFGM2VDMzk4ZGZtUHRTdjNqLXNmQTJvNmtCV1Q0c0Y2YTMzNEU4UkhyMmpCLUs1c1FQalRyRUVDcXBTV1QtQ0pDVkF0NlRIYg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-17T12:11:31+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "EFSA finds sucralose safe when used as currently authorised; cannot confirm safety of extending its use",
