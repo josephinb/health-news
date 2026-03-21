@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-21T15:19:35.059845+00:00",
+  "generated_at": "2026-03-21T18:26:56.270687+00:00",
   "window_days": 42,
-  "count": 251,
+  "count": 275,
   "items": [
     {
       "title": "Gesundheitskosten - Demo in Bremen gegen Honorarkürzung für Psychotherapeuten - Gesundheit - SZ.de - SZ.de",
@@ -54,6 +54,16 @@
       "type": "News"
     },
     {
+      "title": "Week in Review: Match Day 2026 | AI and lung nodules | An RT weighs in on MRI safety",
+      "summary_de": "null",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15820201/week-in-review-match-day-2026-ai-and-lung-nodules-an-rt-weighs-in-on-mri-safety",
+      "published_at": "2026-03-21T07:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "Gesundheitsversorgung: Kommunen kämpfen mit Medizin-Stipendien gegen Ärztemangel an - DIE ZEIT",
       "summary_de": "Gesundheitsversorgung: Kommunen kämpfen mit Medizin-Stipendien gegen Ärztemangel an &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -69,16 +79,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNOEdfU19mS2lYc2hyQml5S3YxMTFaWklwdjQ0TjFKbVBxbklCWmtUcDVQVTN2eHMzOGNKSE1nYUg1c2hiWVNQOWxPaVpuMHhkc1hCanp0VVM5NEh0a1FpZFdpenVDVUVjRVBNUUpyVE1qSmo4ZlZOODhGNmhvWHUzMTdybWkxc0JaZHh0OE55ckc5bXFROE9vT0gyTEtLS0FZcEo2VTk3a2VhUXE1bU9PMElWbHpZM2xDRjhqMEZpd0ZQMHNBejlqNnVuUUpOTXdMZGJoejg1RHZaWF9QamF4cWtYRVlBdmtySkVaWEcxSGxPWTFVMTNRdVNaNlMwQWhzN2ww?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-21T04:00:09+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Statistik: Wie lange dauert es bis zum Krankenhaus? - DIE ZEIT",
-      "summary_de": "Statistik: Wie lange dauert es bis zum Krankenhaus? &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdVNwSWhoNDNzbkhSS2htNGZtczhUUWR3OWtvQ3YyTXgwM05CcWZQMkpLYjhvRVc3LXB1R0hFV0lCdUplYl9EZ01MQmI5aERlZkJkRmQyU2h1NW8waHVwSXhydjhZem1lQVhldjZjLWt5dW14eDl6NDFNTHB5REpjTA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-21T03:00:29+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -223,6 +223,26 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/kritik-an-praenataltest-als-screeningtool-163832/",
       "published_at": "2026-03-20T15:02:08+00:00",
       "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Physicians prod U.S. FDA for pediatric AI regulatory carveout",
+      "summary_de": "An analysis exposes how inconsistent and ambiguous the regulatory landscape is for pediatric-focused AI.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15820167/physicians-prod-us-fda-for-pediatric-ai-regulatory-carveout",
+      "published_at": "2026-03-20T15:01:20+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Lung cancer risk persists years after negative CT screening",
+      "summary_de": "Study results could shape how individuals at risk of lung cancer are screened.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15820115/lung-cancer-risk-persists-years-after-negative-ct-screening",
+      "published_at": "2026-03-20T15:00:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -377,6 +397,16 @@
       "type": "Studie"
     },
     {
+      "title": "CDSS improves outcomes among stroke patients",
+      "summary_de": "Use of a clinical decision-support system (CDSS) with stroke sufferers decreased the incidence of new vascular events at three...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/imaging-informatics/enterprise-imaging/clinical-decision-support/article/15820215/cdss-improves-outcomes-among-stroke-patients",
+      "published_at": "2026-03-20T11:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gesundheit: Grippewelle in Sachsen neigt sich dem Ende zu - DIE ZEIT",
       "summary_de": "Gesundheit: Grippewelle in Sachsen neigt sich dem Ende zu &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -467,6 +497,16 @@
       "type": "News"
     },
     {
+      "title": "Interventional radiology positions jump at Match Day 2026",
+      "summary_de": "null",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/interventional/article/15820240/interventional-radiology-positions-jump-at-match-day-2026",
+      "published_at": "2026-03-20T09:02:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Assistierte Telemedizin in Wien: Niemand verlässt die Apotheke unversorgt",
       "summary_de": "In ausgew&auml;hlten Apotheken in &Ouml;sterreich bekommen Patientinnen und Patienten seit Ende Februar eine medizinische Beratung per Video. Ansporn beim Pilotprojekt ApoDoc sei, dass niemand eine Apotheke unversorgt verlassen solle, erl&auml;utert die &Ouml;sterreichische Apothekerkammer.&nbsp;&nbsp;",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -477,12 +517,34 @@
       "type": "News"
     },
     {
+      "title": "Meldung: Klagerechte der Krankenkassen stärken",
+      "summary_de": "Anfang Februar hat der GKV-Spitzenverband im Klageverfahren gegen die rechtswidrige Unterfinanzierung bei den Beiträgen für Bürgergeldbeziehende die Klagebegründungen abgegeben. Im Gespräch mit der Presseagentur Gesundheit für den OPG äußert Dr. Martin Krasney, Vorstandsmitglied des GKV-Spitzenverbandes, die Hoffnung, dass es noch in diesem Jahr zu einer Entscheidung kommt, auch wenn dies „eine sehr optimistische Annahme“ wäre.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2228032.jsp",
+      "published_at": "2026-03-20T08:53:30+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "Jeseits des Zufalls: Glück ist ein kognitiver Prozess",
       "summary_de": "Gl&uuml;ck ist oft etwas, das wir abh&auml;ngig vom neuen Job, einer besseren Beziehung oder dem n&auml;chsten Lebensabschnitt machen. Doch die Hochs lassen sich mitgestalten etwa durch Perspektivwechsel, die nachhaltig das Gehirn ver&auml;ndern.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/glueck-ist-ein-kognitiver-prozess-163795/",
       "published_at": "2026-03-20T08:30:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "FDG-PET matches MRI in cardiac imaging",
+      "summary_de": "The finding is from a study of multiple PET acquisition techniques and cardiac MRI for measuring left ventricular ejection fraction...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15820228/fdgpet-matches-mri-in-cardiac-imaging",
+      "published_at": "2026-03-20T08:11:23+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -503,6 +565,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOEg1UjFGNnpPVkxBaFJvd0pEOGU2dVo2RGZCR3NDeG1ldV9HeTZaclV0bVY2QXpEQkZiUDBic2RjOWFXQTE3VjRudjEwQnNmeGYxRFowVlVwZ1BpbWlpLV9oQko0OGM2Ym9KTEs0Y3pVMW01ZmZGUmMyaHo3M1FqVEhFSVJzM0RDdlFRMFdxaW83U2lpRHBiV0dkdzF0UzJRckdjb0dMTGE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-20T07:57:07+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "AI-mammography leads to no significant benefits in single-reader study",
+      "summary_de": "An AI mammography tool did not lead to significant changes in breast cancer detection and recall in a single-reader setting.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15820216/aimammography-leads-to-no-significant-benefits-in-singlereader-study",
+      "published_at": "2026-03-20T06:36:57+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -651,6 +723,16 @@
       "type": "News"
     },
     {
+      "title": "Mammography AI approach finds more breast cancers, reduces workload",
+      "summary_de": "An AI approach that excludes low-risk mammograms from radiologist reading led to more cancers being found.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15820053/mammography-ai-approach-finds-more-breast-cancers-reduces-workload",
+      "published_at": "2026-03-19T14:16:23+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Wachsender Fitnessmarkt - Fitnessstudio-Konzern LifeFit setzt Einkaufstour fort - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Wachsender Fitnessmarkt - Fitnessstudio-Konzern LifeFit setzt Einkaufstour fort - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -783,6 +865,26 @@
       "type": "News"
     },
     {
+      "title": "Exposure to ‘forever chemicals’ linked to lower BMD in adolescents",
+      "summary_de": "Identifying when children are most susceptible to these toxins could help prevent outcomes like low bone mineral density (BMD...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15820120/exposure-to-forever-chemicals-linked-to-lower-bmd-in-adolescents",
+      "published_at": "2026-03-19T09:13:02+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "ACS: Breast, lung cancer burden has shifted from urban to rural areas",
+      "summary_de": "This trend reflects growing inequalities in social determinants of health, according to American Cancer Society (ACS) researchers...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/practice-management/article/15820103/acs-breast-lung-cancer-burden-has-shifted-from-urban-to-rural-areas",
+      "published_at": "2026-03-19T08:35:57+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gesundheitsdaten - Krankenstand der AOK-Versicherten leicht gesunken - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Gesundheitsdaten - Krankenstand der AOK-Versicherten leicht gesunken - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -790,6 +892,18 @@
       "published_at": "2026-03-19T08:10:04+00:00",
       "category": "News",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pressemitteilung: Der Veränderungsprozess läuft, jetzt die Krankenhausreform als Chance nutzen",
+      "summary_de": "Kaum zwei Wochen, nachdem sich Bund und Länder auf einen Kompromiss zur Krankenhausreform (Krankenhausreformanpassungsgesetz, KHAG) verständigt hatten, versuchen jetzt einige Bundesländer, den Kompromiss nachträglich wieder aufzuschnüren. Und dass, nachdem der Bundestag, im Vertrauen auf diesen Kompromiss, dem Gesetz am 6. März 2026 zugestimmt hatte.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2227127.jsp",
+      "published_at": "2026-03-19T07:27:26+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -993,11 +1107,11 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit - Landesärztekammer und Landessportbund: Mehr Kooperation - Sport - SZ.de - SZ.de",
-      "summary_de": "Gesundheit - Landesärztekammer und Landessportbund: Mehr Kooperation - Sport - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSU1nbjc4UmdmN3JPQ2xuaDVVci1jSlVkZDJyc2VyaTRRa3EyY2U1cEhOMV84SmFTdWNVRVQwQVJFQkxuSnIyNE9pUjhROWI1QlQyN2V0T0Q5QnFoNTctSGQ4NkFabU5wNWVrbG1rbTRWUk9uczdfYlktZlhNZnNWeVp5MlFPWXhCQkYxZEl4cFNTX0hWYnd2RnpPMTFvb0pJTG1FeXNOTUg1aHI1MWxBZ0dWdnRYU3lMSjVWa3FvN1JGYkZPSFg1RTBCMjY4ay12dWNJUUhoSU9wRjdydGxuSEI3UHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-18T12:38:12+00:00",
+      "title": "Besondere apparative Ausstattung | Allgemeine Chirurgie - Unfallchirurgie - Wirbelsäulenchirurgie | Paracelsus-Klinik Adorf/Schöneck in 08261 Schöneck - HEK",
+      "summary_de": "Besondere apparative Ausstattung | Allgemeine Chirurgie - Unfallchirurgie - Wirbelsäulenchirurgie | Paracelsus-Klinik Adorf/Schöneck in 08261 Schöneck &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNdTlTdkVWM3NBZFI0SEs1aVFoUUlyZEs4MlFaYWxiT2IzbHhQYXlyelktZzIwdXdtMkFpcUYxcDJRQUJ2dEJueS1HRjNVakhRMmVXaGp0TGhPMXdmSEE1Q3RZd0I4VEJFdEgwa1RueEs5VllTSEk1R2l1dTdSbktDMmR6bWREQ1lVLTRCN0Y4dVU2aTRiT3R2cm5hNVpTWmJMbC00TzdHOTlVV1lOMDgxZFFIN0VlSEVIcVlKRERGUXlOemY5c2JHR2RHMHN1U0dGaTVnamw3bkNYcmZuVlh5bGRoZnVPY3JOakdIamJ5cjYwM2Y4UGlndXVMN1BmVzZBaEM5S1JZSzRUU1E1bG5pNUpmY0N0QkJPa2FF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-18T12:27:35+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1063,6 +1177,19 @@
       "type": "News"
     },
     {
+      "title": "Meldung: Ein Patient mit Bronchitis",
+      "summary_de": "Im Interview mit dem europäischen Nachrichtenportal Euractiv sprach Oliver Blatt, Vorsitzender des GKV-Spitzenverbandes, über das deutsche Gesundheitssystem, dass er aktuell als einen „Patienten mit Bronchitis“ bezeichnet. Blatt äußert sich über aktuelle Herausforderungen wie hohe Ausgaben für Krankenhäuser und Arzneimittel, über den Umgang mit der Pharmaindustrie in Europa und über Prävention.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2226176.jsp",
+      "published_at": "2026-03-18T08:48:51+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Europa",
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "Leitung der Stabsstelle Sicherheit, Gesundheit und Nachhaltigkeit (m/w/d) - ZEIT Stellenmarkt",
       "summary_de": "Leitung der Stabsstelle Sicherheit, Gesundheit und Nachhaltigkeit (m/w/d) &nbsp;&nbsp; ZEIT Stellenmarkt",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
@@ -1101,6 +1228,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Entfernung der Gallenblase (CHE) | Klinik für Allgemein-, Visceral- und Thoraxchirurgie | Krankenhaus Martha-Maria in 81479 München - HEK",
+      "summary_de": "Entfernung der Gallenblase (CHE) | Klinik für Allgemein-, Visceral- und Thoraxchirurgie | Krankenhaus Martha-Maria in 81479 München &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMFlvZ01ULW1FWXlNZjd5NVk4UmNTUlVpUzlJLWVJQ3V3VmUxOUdVVTZ4NVBtbk9jb19nVWs4dWpmNmhYLTFXMDJLbVE4NGpLUURIT1VvRWxGODcwN3hQR3pRZ3RoVUN3NDRSZUFaXzE5SlhyQm5SbnN4OHBlRkNZQmJTNktrRnVYYVlzUmozS1VrLUJodnduejhNRno5bl9kUUFhTHlWQ3RCS1h2S1NEekx5WHdDYlRPRWxtaEZvU1pUeDdYWlU3b3pLZTBjV2RIcE42a2YwWE5nQmJGYmt1SGF4cDN1bVFOdHBvOGkyUjFvT2FxVmVqZzRNUWV4NHc4SVpz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-17T21:19:57+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Patients to get new medicines up to six months sooner under new joint MHRA-NICE approval process",
@@ -1182,6 +1319,31 @@
       "published_at": "2026-03-17T09:27:58+00:00",
       "category": "News",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pressemitteilung: GKV-Tag: Die digital gestützte Primärversorgung als künftiges modernes Versorgungsinstrument",
+      "summary_de": "Die gesetzlichen Krankenkassen und der GKV-Spitzenverband informieren am heutigen GKV-Tag über die Primärversorgung als zentrales Instrument für eine bessere und moderne Versorgung zum Wohle der 75 Millionen gesetzlich Versicherten. Effizienzreserven sollen gehoben werden und ein bedarfsgerechter Zugang zur Versorgung soll gemeinsam mit der Ärzteschaft sichergestellt werden.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2225216.jsp",
+      "published_at": "2026-03-17T08:50:31+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Pressemitteilung: Flexiblere Umsetzung des neuen Hebammenhilfevertrages",
+      "summary_de": "Der seit dem 1. November 2025 geltende Hebammenhilfevertrag wird künftig flexibler umgesetzt. Mehrere Anpassungen sorgen ab dem 1. April 2026 für eine bessere Umsetzbarkeit des bestehenden Vertrags für die freiberuflichen Hebammen. Das betrifft Änderungen bei der Eins-zu-eins-Betreuung, zusätzliche abrechenbaren Leistungen im ambulanten Bereich und Erleichterungen bei der Dokumentation.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2224760.jsp",
+      "published_at": "2026-03-17T07:40:43+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -1295,13 +1457,15 @@
       "type": "News"
     },
     {
-      "title": "»Germanische Neue Medizin« findet im Netz viele Anhänger – Fachleute schlagen Alarm - Spiegel",
-      "summary_de": "»Germanische Neue Medizin« findet im Netz viele Anhänger – Fachleute schlagen Alarm &nbsp;&nbsp; Spiegel",
-      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOb29RZk9zUlZ1bHMzc00xbXF1VjJGdDVwM2pJQ3c2MXVFa3NEbzIyQ3FnNlkxZEdZZnAzSWxySzZIUG96RU5CVDBrelhUWF9PdXhybFZ5U0dYQXVZVGtsMlV1Z1Ftd1NaN2FmRnNVM0x6cDhQb3hIbGoya1RVZWJ2MDI4T2tweVRvNHNlSEdsMWY0NW96d19IMkRIUDZTSzBWTlJlenpza1lEaU45NVpKWDIwX01YbGc2VWNHdF96cXNTcmVRX3BhWDAwWTJibWRTTlFON1BySjJ6cW96SjRfNGh4aWVoenc3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-16T08:16:00+00:00",
-      "category": "News",
-      "tags": [],
+      "title": "Meldung: Pharmaindustrie an Einsparungen im Gesundheitssystem beteiligen",
+      "summary_de": "Die Ausgaben für Arzneimittel steigen und steigen. „Das ist inzwischen nach den Krankenhäusern der zweitgrößte Kostenblock. Die Ausgaben für neue Medikamente haben sich in zwölf Jahren verdoppelt“, sagte Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes der Neue Osnabrücker Zeitung (NOZ).",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2224759.jsp",
+      "published_at": "2026-03-16T10:44:50+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -1311,16 +1475,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOcjRaSTF3RGpPaTVkSFA5Wl9iRkdqS0l1MG9UNkRqd3BwdWJhSzBTWGlIajVzeUk2R3RMYlZHX1ZCalJDZjVCRV9raUt2Y3hFSUlkVlVwMk9MQ1djQTFyT1ZMSkp2cWI5NEh4ZGViU1lzZnhaV3phVkpISUZlVmhkTHp0end1aWNLQTBuejRkU2FnQi1qNURlaWwwUDFLal9RZUR6c1FxbGhZQ203bzZfbjA5S0NTSHpQeFlyT3FsLUxOYWVkaTQ3anlCcmtfOGcxZHgyUFN4dHFPYlkwQ3NZWlF0VEFHU29SME5lNElaMWh1VWIxbG5Pd1Jnd0U0Mm4yYmpvejZVdlp3bm9Vb3h1ZUFsNWZPTHZTUWstSVAxTFJVRTBuOW1hY0dKRDR4TVFYM2piOHJEVE5yckRM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-16T07:25:00+00:00",
       "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Fehlzeiten - Arbeitnehmer waren 2025 im Schnitt 27,5 Tage krank - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Fehlzeiten - Arbeitnehmer waren 2025 im Schnitt 27,5 Tage krank - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYWw4ckVnVGFKbzVJUWk3SUhIMzhZRmZrSWhXU2NRYnotZWVQYmlJRllGZW1BVlN3S0tpUjZCZ0tZZkVaTlVYOVZrdHpkeDFzd1IzLWNBZUhZMHlZakRuOUlFSUI2aG1vekhLUFN0aGwtX2N2UlB4VDduLWc5N1R4WjMyWlh6NmpaQVJUbWVYX0ptMmRpWmFfZUVjOVRRTWxXSnRYbnprcE9QcUllcW4wVGI4UzZ6QjA3TGZVNVpPeDE0b2hTMWxUOHoyc05pcjc4dXluaUtKVE5BS2ZCTEMxWlpJYjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-16T05:00:13+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1390,16 +1544,6 @@
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnQxWEhNWmp6QTJ0eU1tMU1HOWxlSkJuWEpRVE41QjFBcU5iYXJnbnNPQUxxNENaMlZiYktzZG10bHdVb0wxcmUtUlNUenhXandfOVlHbklCNjZmeVJqcXRnX3U4THNneF9Bck1pUENHVmY2ZVk1MGYxSVlfLXNQZk5DUjU1OXVGOUZKaVpoSmx6eWxZd1kxSndvdEt5aVhld2prNVNISTJPR2E4WjVUYzI5dnNJSENQejBTbmNlcGk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-15T02:12:09+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Digitalisierung: Bessere psychische Gesundheit durch Social-Media-Verzicht - Deutsches Ärzteblatt",
-      "summary_de": "Digitalisierung: Bessere psychische Gesundheit durch Social-Media-Verzicht &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcVBYZV81NDNwSXlJTjVYSWRfbFFlTUcyTWRpRnMyVXU4NExOVnlabExnUUY2MVQtUVVQdUF5NTI0bW1uQmphRWVOWmwtV1prbm1MQUIzMlZEN0R4eFdhQ0pSVkJjZHowc0w4ZS1sc21PNW5peGd1YkgyTGRPV05kUXlwOHlmaWVNWEc4SnJQWW1DT0JGTGRxaExlUUFBd0NUZ2luajg2OGkyTDF4TFVobXdNSE1uVU4wY29fd0QwTnI2cG9qbDlRRklWbzZGdVZfMm93N291V3YzWlhz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-14T16:15:17+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1502,6 +1646,18 @@
       "published_at": "2026-03-12T09:51:38+00:00",
       "category": "Europa",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Meldung: Honoraranpassung für niedergelassene Psychotherapeutinnen und Psychotherapeuten",
+      "summary_de": "Gestern hat der „Erweiterte Bewertungsausschuss“, bestehend aus jeweils drei Vertreterinnen und Vertretern der Kassenärztlichen Bundesvereinigung und des GKV-Spitzenverbandes sowie drei weiteren unparteiischen Mitgliedern zwei Entscheidungen zu der Vergütung von niedergelassenen Psychotherapeutinnen und Psychotherapeuten getroffen.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2222400.jsp",
+      "published_at": "2026-03-12T09:48:22+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -1865,13 +2021,15 @@
       "type": "News"
     },
     {
-      "title": "Medizinische Leistungsangebote | Hals-, Nasen-, Ohrenheilkunde | GRN - Klinik Sinsheim in 74889 Sinsheim - HEK",
-      "summary_de": "Medizinische Leistungsangebote | Hals-, Nasen-, Ohrenheilkunde | GRN - Klinik Sinsheim in 74889 Sinsheim &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPb0dRT0FObDVvNW9WS1QxNDlyMWEybWJkRzliT1dHREdQYnI3TnBFRmRSZzhDN0FsbVZIVmtGV2J6Q2xiaURmWTNEcnVkYThoUHBRQk5IS2g4d013Wkk0YWUyLUhST1lnZGRzYjJLNFQ4cmpsQmVOVmUzS1Ntc3JXeUlsdFY2Z0dYVmpoQ3ZTZHJXMTZCTWZoTi1nenZvQ19WNXVNTy1aWHYtRkdxVl9wN1o4WUNsdGRYUWxZOHR5dEt3eXlkM0NnQ2xPRk1xY254Y0F1cU1NcGxOSkVCZTNDV25ZU3k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-11T02:50:47+00:00",
-      "category": "News",
-      "tags": [],
+      "title": "Meldung: Eine Frage der Fairness – und die kleine Chance auf Beitragssenkungen",
+      "summary_de": "Die vielen Forderungen, Zuzahlungen für gesetzlich Versicherte zu erhöhen oder Leistungen zu streichen, hat Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, im Gespräch mit der Kölnischen Rundschau (KR) zurückgewiesen: „Es wäre nicht angemessen, als erste Maßnahme die gesetzlich Versicherten stärker zur Kasse zu bitten.“",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2221879.jsp",
+      "published_at": "2026-03-11T07:53:41+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -1905,53 +2063,25 @@
       "type": "Studie"
     },
     {
-      "title": "Klinik für Diagnostische und Interventionelle Radiologie Marienhospital Zeise 4, 52066 Aachen - HEK",
-      "summary_de": "Klinik für Diagnostische und Interventionelle Radiologie Marienhospital Zeise 4, 52066 Aachen &nbsp;&nbsp; HEK",
+      "title": "Personal | Klinik für Urologie, Urologische Onkologie und Roboter-assistierte Chirurgie | St. Antonius-Hospital Gronau GmbH in 48599 Gronau - HEK",
+      "summary_de": "Personal | Klinik für Urologie, Urologische Onkologie und Roboter-assistierte Chirurgie | St. Antonius-Hospital Gronau GmbH in 48599 Gronau &nbsp;&nbsp; HEK",
       "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOS2xlb1d1MFlOWjlldXFVX1Y2cE5FOTA0QnBaQlBvT2FacVlYLVJGN1hQaFB3UEphNW5qMGI0b0ctWkM0Z3g4Z05EMllSWXVkWEk2VnJ4NHJsNjhaVnA5X2ZHWlByRHVnWnlEOUdjRWt5dVRRRTRvTDVWY3NhRVpidU5DQWJWanRhV0JsZ3VlcFc2b2xDNkU5LW1DeGxoVVJMd1pEYkZVbUhWd1VNdFZ0ZmJQYVFnUWZiU0pXS2NpZXNFM2g5eW1YeW8zNHo5cC1WMllIUXJYZXRuVHAtRWY3bFhnZzF5eDktdkZZZGV3V2twTDZtTGtJY2lJTmtUM0tD?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-10T20:58:33+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Klinik für Orthopädie und Unfallchirurgie - HEK",
-      "summary_de": "Klinik für Orthopädie und Unfallchirurgie &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPXzlDY0EzUDVONnhmLTVRN1paWFBpNGpoVjZ5YnJkWEhOay1fc0I0a2F6bUhHM29wREJ5NkhJUzlOUmVnczkyaVNoR2dTbnNSUk0wdmJFZzFxenpZWUE4VjNKOXJLNDBxaHQyYmdvdzFSWTBvZVFxSmtYcXpxOXhxYjBtZEpkcWMwcWFMTHRETm9Pc2FLbjZVTkVhVmtEUzBSWGR5aEtYY19sNDh2Z1lpdmlfS21hQ3MtNENMcWVIbzB2YjhUdDhuZ3hNMWdUWWtMU1FGdDhHUnZqTmYwajRGZktaa1BXbFlFenYyc1hVTUdTclRUamRfcFloa2NkdEpwSXgyaXVyWTB0eW9wVVYxUGNVUEpIdTJvNlZoWG83TQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-10T13:32:54+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOaG55MzBGSnJFc3FnbEw5MU5mVHpCTVBQcUFEVWN2LWFXNkhaSTlqc1FPNTNvRU5BRm1TaUQ1TGgyRmZqSWcyMDFvV2FkZjlmRUFDTm5FY0gyamdFSmk0X3NZY1lzdnZDc2pzRlpYMFcxNEd4bUVfNlZIblVJT18wcDRNeW1rTW5oRG1mdGNEeEZzWUxXUU0yYzktNHdTc1NkVV9qSVQ2Z0VXeExCSGVOWFFVTU5TYy1yTWVNMjRtVFZYeDBmQ19vcndaWllmUm9FbTM3Y1NCWG16OHlxc0pUcFAyRFR6Ty1hWHIwQklLSVZ6R1JqcW96VHp0TG55UXBaUmMwMEM0Q01zU1lLd2M4TjlWZWlubkkzQ3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-10T09:35:15+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Registrierung für Meine TK - Techniker Krankenkasse",
-      "summary_de": "Registrierung für Meine TK &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaEFOOFM3QnVraW44aW1jcDlTS3VMUERSNld4WHBXb3c2NElqclNtX2xMVXMzT0VNOWI5NHhhNmRXSG1hUmk3MV9raDFHYmdvVmdObktlWEI5b09zd1h5QnhkeDQxanU0eUxXU0dFLUdUaHctUkRSU1F3V0ZtSnpHd3dSS2NnU1hfQlFiN2NqdlBpb3UxRGVKU1lnZy10WUJxdmhJMldJTjEtcTBZVmFFcDlvQjc4TGVfU3llMnR4bjJfNUk4QS0yTGdsaEstbVB3WjJJUw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-10T13:07:14+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Klinik und Poliklinik für Chirurgie - HEK",
-      "summary_de": "Klinik und Poliklinik für Chirurgie &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWFFNbWlTUWhlLWRJRGFrRnNBTjlLYkZ0TzFocGZhWGRqYS1lMnVMdmlMX3NuaktKZHFhN3BUVE5Qei16OExIcm5zV2x4T3lvMTAxTDhNTERpbk8yRi1XS25KSWFUbXdoUDhvdG4zTkNoOXZDWVR2Y29XUmNPZFozOF9kWHdKWmstYWJTeDJwWFprWF9xSHNFaXc2UGNWLVdkY2pkanh3SW5rV1ZRYVIxOWlRQ1FRa01jYWd5V3pteVBzc1lqOTFMaGVUdmszT3VJcHZyMTFHMDkxMWtaVnhXU0EzM2NlUVpvVzBHQ3lpZ2pjQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-10T07:27:33+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Künstliche Intelligenz im Fokus: Radiologen forschen am Klinikum Minden an der Medizin der Zukunft - Mindener Tageblatt",
-      "summary_de": "Künstliche Intelligenz im Fokus: Radiologen forschen am Klinikum Minden an der Medizin der Zukunft &nbsp;&nbsp; Mindener Tageblatt",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRXFhVGZIbUZCRWdKa2I0dHd0V1V2MzhTLXRZZ1M1Y2JwVFJWTnR0OG1pVktxRkNfUll1VkNvdEVhWFFuN28tTjN4am0yUnVkSF9GQ1ZQM0lnTTlYalZHWnhFbTJkY3dFSmVFa2ZCRTBORXBmNFgwUGxWU2V4YURIMDQzeXF4aGltV3pEQ1ExS21tYzMyQlBsQjBUUWJvTC1XcFJONDBlclhLcEpqSktnWjZZV0R6QS05Tjl1MzBzR0VUU25TY0hlQS1paktBRTRpb0R4TGpNMVhJcE55clE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-10T07:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
+      "title": "gemeinsame Pressemitteilung: DKG und GKV-SV einigen sich auf Leistungsspektrum der sektorenübergreifenden Versorgungseinrichtungen",
+      "summary_de": "Die Deutsche Krankenhausgesellschaft (DKG) und der Spitzenverband der Gesetzlichen Krankenversicherung haben sich auf das stationäre Leistungsspektrum der neu zu etablierenden sektorenübergreifenden Versorgungseinrichtungen (süV) geeinigt. Damit ist die Selbstverwaltung im Gesundheitswesen einen entscheidenden Schritt zur Umsetzung der Krankenhausreform gegangen.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2221376.jsp",
+      "published_at": "2026-03-10T09:32:51+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -1962,6 +2092,19 @@
       "published_at": "2026-03-09T09:52:31+00:00",
       "category": "Europa",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pressemitteilung: Moderne Hilfsmittelversorgung: Fortschreibung des Hilfsmittelverzeichnisses stärkt Qualität und Patientennutzen",
+      "summary_de": "Der GKV-Spitzenverband hat dem Bundesgesundheitsministerium den neunten Bericht zur Fortschreibung des Hilfsmittelverzeichnisses für den Überarbeitungszeitraum März 2025 bis Februar 2026 übergeben. Damit setzt der GKV-Spitzenverband seine Arbeit fort, die Versorgung mit qualitativ hochwertigen und bedarfsgerechten Hilfs- und Pflegehilfsmitteln sicherzustellen.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2220462.jsp",
+      "published_at": "2026-03-09T07:46:47+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -1981,6 +2124,28 @@
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2026/internationaler-frauentag-teilhabe-arbeitsleben-frauengesundheit.html?pk_campaign=rss",
       "published_at": "2026-03-06T09:00:00+00:00",
       "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Meldung: Qualität der Patientenversorgung bei Krankenhausreform im Blick behalten",
+      "summary_de": "Anlässlich der heutigen 2./3. Lesung des Krankenhausreformanpassungsgesetz (KHAG) im Deutschen Bundestag erklärte Stefanie Stoff-Ahnis, stellvertretende Vorstandsvorsitzende des GKV-Spitzenverbandes, im Gespräch mit der “Neuen Osnabrücker Zeitung” (NOZ, Freitagsausgabe): „Der Kompromiss nach langen und schwierigen Verhandlungen hat mehr Licht als Schatten. Eine Verabschiedung wäre daher besser, als wenn die Reform abermals verschoben würde.”",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2219072.jsp",
+      "published_at": "2026-03-06T08:44:59+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Depression: Die unterschätzte Krankheit - hkk Magazin",
+      "summary_de": "Depression: Die unterschätzte Krankheit &nbsp;&nbsp; hkk Magazin",
+      "source_name": "\"site:hkk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTzJFWFVyUUt2cUtZa1lGSzVKenZWS1ZweUxRWFBnamFMa1F4WFRJbVlpSldGU3AzY1BSOVB0Qk1EWXdwWUNaelhlSGZwTVNVS2hzc3hUSGV6d2F5b3lMOVBTVklzTlVGYzdqZnpGeFhwX3ZYWEJRMWllOWZBeUNtTFVNcF96OXh5cEszYV9pMEg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-06T08:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2085,6 +2250,18 @@
       "type": "News"
     },
     {
+      "title": "Meldung: Keine Entwarnung bei GKV-Finanzen",
+      "summary_de": "Auch wenn die gesetzlichen Krankenkassen das Jahr 2025 mit einem Überschuss von 3,5 Mrd. Euro abgeschlossen haben, „gibt es null Grund zur Entwarnung“, wie Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, im Gespräch mit der Neuen Osnabrücker Zeitung (NOZ) betont.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2218560.jsp",
+      "published_at": "2026-03-05T09:05:06+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "High‐ versus low‐dose phototherapy for neonatal jaundice",
       "summary_de": "High‐ versus low‐dose phototherapy for neonatal jaundice",
       "source_name": "Cochrane Library RSS feed.",
@@ -2093,6 +2270,18 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Meldung: Erreichbarkeit von Apotheken weiterhin gut",
+      "summary_de": "Die Frankfurter Allgemeine Zeitung (FAZ) berichtet zu einem Apothekengutachten des IGES Instituts, welches der GKV-Spitzenverband beauftragt hat. Demnach erreiche nahezu jeder Mensch in Deutschland innerhalb von 10 bis 15 Minuten von zu Hause mit dem Auto eine Apotheke.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2218048.jsp",
+      "published_at": "2026-03-04T09:49:03+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
     },
     {
       "title": "Gesundheitspolitik: Land unterstützt UKSH und übernimmt Schulden - DIE ZEIT",
@@ -2155,6 +2344,19 @@
       "type": "News"
     },
     {
+      "title": "Meldung: \"Falschabrechnungen im Krankenhaus verdienen keinen Schutz“",
+      "summary_de": "Im Interview mit der Fachzeitschrift f&amp;w äußerte sich Stefanie Stoff-Ahnis, stellvertretende Vorstandsvorsitzende des GKV-Spitzenverbandes, zu notwendigen Reformansätzen zur Entbürokratisierung in der stationären Versorgung: „Wir finden hier zwei Bereiche besonders relevant – die Personalvorgaben und das Prüfquotensystem.“",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2217536.jsp",
+      "published_at": "2026-03-03T09:10:21+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "Magnesium sulphate for treating acute bronchiolitis in children under two years of age",
       "summary_de": "Magnesium sulphate for treating acute bronchiolitis in children under two years of age",
       "source_name": "Cochrane Library RSS feed.",
@@ -2163,6 +2365,19 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Meldung: Der Pflege läuft die Zeit weg",
+      "summary_de": "Die Finanzlage in der Pflegeversicherung bleibt angespannt. Bei der Deutschen Presse-Agentur (dpa) brachte Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes die Situation auf den Punkt: „Bei der Pflegeversicherung brennt die Hütte“. Im vergangenen Jahr sei die Pflegeversicherung knapp an einem Defizit vorbeigeschrammt und die Finanzlage bleibe wegen steigender Ausgaben angespannt, so Blatt.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2217024.jsp",
+      "published_at": "2026-03-02T09:40:14+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
+      "type": "News"
     },
     {
       "title": "Artificial intelligence‐enabled electrocardiography to predict impending episodes of ventricular tachycardia in individuals under continuous heart rhythm monitoring",
@@ -2227,6 +2442,18 @@
       "type": "News"
     },
     {
+      "title": "Pressemitteilung: Mehr Licht als Schatten – Bund und Länder einigen sich bei der Krankenhausreform",
+      "summary_de": "Die nun gefundene Einigung zwischen Bund und Ländern zum Krankenhausreformanpassungsgesetz (KHAG) ist für die 75 Millionen gesetzlich Versicherten ein Ergebnis mit Licht und Schatten. Dabei überwiegt – gemessen an den im Raum gestandenen Länder-Forderungen – der positive Anteil.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2215616.jsp",
+      "published_at": "2026-02-27T08:50:48+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "vdek-Zukunftspreis 2026: Jetzt mit Ideen zur Gendermedizin teilnehmen!",
       "summary_de": "Der Bewerbungsschluss für den vdek-Zukunftspreis 2026 rückt näher: Gesucht werden innovative Projekte zur gendersensiblen Gesundheitsversorgung. Bewerbungen sind noch bis zum 16. April möglich. Insgesamt werden 25.000 Euro Preisgeld vergeben.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -2234,6 +2461,18 @@
       "published_at": "2026-02-27T08:30:00+00:00",
       "category": "Gesundheitspolitik",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pressemitteilung: Stärkung der Apotheken durch geplante Reform",
+      "summary_de": "„Es ist gut und richtig, dass die Politik die Apothekenstrukturen reformieren möchte. Wir begrüßen, dass Apotheken mehr Freiraum bei der Organisation des Betriebs erhalten sollen\", erklärt Stefanie Stoff-Ahnis anlässlich der heutigen ersten Lesung des Gesetzes zur Weiterentwicklung der Apothekenversorgung.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2215605.jsp",
+      "published_at": "2026-02-27T07:45:12+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -2265,16 +2504,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Besondere apparative Ausstattung | Klinik für Innere Medizin 1 / Gastroenterologie, Internistische Onkologie, Pneumologie und Beatmungsmedizin | Elisabeth Klinikum Schmalkalden GmbH in 98574 Schmalkalden - HEK",
-      "summary_de": "Besondere apparative Ausstattung | Klinik für Innere Medizin 1 / Gastroenterologie, Internistische Onkologie, Pneumologie und Beatmungsmedizin | Elisabeth Klinikum Schmalkalden GmbH in 98574 Schmalkalden &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPTlF4YWlHV3JNQ3JGWlpFQkxLNWJFLURfcHJ3bU1GZFRnWEJrWXBFZ0wtcW9mbzItVUpRN1pyY1FJVkhkU2dFVWF2X2pUVE1RZnhHeFBrUGdfRENmcWtKVUs0SUk0X3VJTXQ0S3VRSWFBZlBOS1VwOV9HdDI1WEhmQWNDR0lZbUpJMHpaZUUwUlpwMW5mYWZHZkdjM09jakZXcGxoS0lWR1ZrcUYtQVMtdmI2OXIwY2lTV2h2RDlucm9idmtsenQyMWJlM0RWN1k0dkNqY0trMHBCNzVCbmowMUxVeTA5eG1QRHQxcjhIOXpzd2o4T0d6SGktQ3FCN1VocFRyeFQzTXAxRmZ3T1BjUmJhd21PNnZ6ZlZBV3hQNWJtTmxCajU3aE9hZ2J3TVBoYTNDUkpSVXhfbjJvdDJJYWFYbDkwUDh4cUh4S2p6RHFiUHlaejVJVFE2U240MlU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-26T18:44:30+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Apothekenreform: Apotheken vor Ort werden gestärkt, aber wirtschaftliche Mechanismen zur Abgabe von Arzneimitteln aufgeweicht",
@@ -2345,6 +2574,18 @@
       "category": "Gesundheitspolitik",
       "tags": [
         "Versorgung"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Pressemitteilung: Die Notfallversorgung muss bundesweit einheitlich und gleichwertig sein",
+      "summary_de": "Im heutigen Gesundheitsausschuss erfolgt eine öffentliche Anhörung zum Gesetzentwurf zur Reform der Notfallversorgung und des Rettungsdienstes (NotfallGesetz - NotfallG) der Fraktion BÜNDNIS 90/DIE GRÜNEN. Anlässlich dieser Anhörung äußert sich Stefanie Stoff-Ahnis grundsätzlich zu der notwendigen Reform der Notfallversorgung.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2214656.jsp",
+      "published_at": "2026-02-25T08:35:34+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
       ],
       "type": "News"
     },
@@ -2479,6 +2720,16 @@
       "type": "Studie"
     },
     {
+      "title": "Länderübersicht Kanada | Die Techniker - Firmenkunden - Techniker Krankenkasse",
+      "summary_de": "Länderübersicht Kanada | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMFlKVnFtcG84Z1RqOERpaXQ3Mm1FNXBoc3RNaFZ0bWloZUlwRGtJdWxwWXdTMEhxdUlxRmZqc19CQ2h3V1I2QTUxd3BKX2NJMDJfaXh1b2tRVzJoRDFlajl3WkVGQjFNSGVFWDFNWUx0SDd1T3pnR3hkYkFETndPMzBsRm1yQkdac1dGekI0YUFqMTFVS2tWVXVEV3NqQVBG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-16T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Ihr Portal für Digitale Gesundheit - BARMER",
       "summary_de": "Ihr Portal für Digitale Gesundheit &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
@@ -2486,6 +2737,18 @@
       "published_at": "2026-02-16T08:00:00+00:00",
       "category": "News",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Meldung: Pflegeversicherung: Darlehen sind keine verlässliche Finanzierung",
+      "summary_de": "Im Interview mit der Fachzeitschrift CAREkonkret wies Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, auf die prekäre Finanzsituation der Pflegeversicherung hin: „Die Pflegeversicherung lebt aktuell auf Pump und ist mittlerweile mit Darlehen des Bundes in Höhe von 4,2 Milliarden Euro belastet. Für dieses Jahr kann damit zwar annähernd das Defizit abgedeckt werden, aber was passiert danach?“",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2208705.jsp",
+      "published_at": "2026-02-13T11:49:16+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -2506,6 +2769,31 @@
       "published_at": "2026-02-12T09:57:43+00:00",
       "category": "Europa",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Meldung: Die Vergütung psychotherapeutischer Leistungen in der ambulanten Versorgung",
+      "summary_de": "Der Bewertungsausschuss, bestehend aus Vertretern von KBV und GKV-Spitzenverband, berät jährlich und aktuell über die Vergütungshöhe psychotherapeutischer Leistungen. Nach höchstrichterlicher Rechtsprechung des BSG muss die Vergütungshöhe angemessen ausfallen und dem Vergleich mit bestimmten Facharztgruppen standhalten. Die Beratungen sind nach § 87 SGB V - Bundesmantelvertrag vertraulich.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2206400.jsp",
+      "published_at": "2026-02-11T14:13:14+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Meldung: Bürgergeld: Klage gegen falsche Finanzierung geht voran",
+      "summary_de": "Heute berichtet das Handelsblatt über den nächsten Schritt in dem Klageverfahren der gesetzlichen Krankenversicherung gegen die Bundesrepublik Deutschland. Dem Handelsblatt sagte Susanne Wagenmann, Verwaltungsratsvorsitzende und Arbeitgebervertreterin: „Wir machen Ernst und haben dem Gericht jetzt unsere Klagebegründungen vorgelegt.“ Gegenüber der Zeitung betonte Uwe Klemens, Verwaltungsratsvorsitzender und Versichertenvertreter: „Der nächste Schritt im Klageverfahren ist getan.“ Eine schnelle Entscheidung sei dringend nötig.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2205491.jsp",
+      "published_at": "2026-02-11T09:24:46+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
