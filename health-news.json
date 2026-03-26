@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-03-26T05:00:37.005096+00:00",
+  "generated_at": "2026-03-26T07:00:15.389461+00:00",
   "window_days": 42,
-  "count": 203,
+  "count": 214,
   "items": [
+    {
+      "title": "Kryokonservierung: Aufgetautes Hirngewebe arbeitet wieder",
+      "summary_de": "Es klingt eher nach Science-Fiction: Forschende haben gezeigt, wie sich Hirngewebe von M&auml;usen durch extreme Tiefk&uuml;hlung konservieren &ndash; und nach dem Auftauen sogar wieder zum Leben erwecken l&auml;sst.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/aufgetautes-hirngewebe-arbeitet-wieder-163926/",
+      "published_at": "2026-03-26T06:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Tarifstreit - Zweitägiger Warnstreik an Vivantes Kliniken beginnt - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Tarifstreit - Zweitägiger Warnstreik an Vivantes Kliniken beginnt - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMTFjcGxNc2E1SnJVWHkxcGl1ZFRiRGE3N2hmcDBHb2E3bDJqelA0Wks1V3JJT0tWZ2xmUnpVZl96M1N0RFljdmFqQlVncmpHY0VpYmdRRVJTVGNoUjhSODROcFMtMTB0enh6eWpOcG16M21PQjc3c2lmTFBLTV9LSnMybWgyeU1UV09Mb2Q3UHJEMWxDX3lSQjk4bFBQbUZrc0VleHE2Z3dQR1BIb21hMGhrSmdRTFJpY3BndjNlVGVqZ0pzQTVrdFZlN1ZSY3JVSnJLYy10T19zVmxveU82TGVicnpzeVhv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-26T02:00:05+00:00",
+      "published_at": "2026-03-26T05:47:02+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -416,6 +426,26 @@
       "type": "News"
     },
     {
+      "title": "Study finds that AI fails to speed lung cancer diagnosis",
+      "summary_de": "AI prioritization of chest x-rays requested by U.K. primary care had no significant impact on the lung cancer pathway.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15820374/study-finds-that-ai-fails-to-speed-lung-cancer-diagnosis",
+      "published_at": "2026-03-24T17:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Thermal ablation safe, effective for treating liver tumors",
+      "summary_de": "Percutaneous thermal ablation for treating liver tumors has a near-zero 90-day mortality rate and a low major complication rate...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/interventional/article/15820425/thermal-ablation-safe-effective-for-treating-liver-tumors",
+      "published_at": "2026-03-24T16:33:46+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Häufige Arzneistoffe: Steckbrief Imatinib",
       "summary_de": "Aus der Onkologie sind Tyrosinkinase-Hemmer heute nicht mehr wegzudenken. Der erste Vertreter war vor knapp 25 Jahren Imatinib. Der Wirkstoff war auch der erste, der mit dem PZ-Innovationspreis ausgezeichnet wurde.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -570,6 +600,16 @@
       "type": "Studie"
     },
     {
+      "title": "Tailoring breast radiotherapy to women's risk leads to success",
+      "summary_de": "Many women don't have breast cancer recurrence after receiving radiotherapy following initial treatment, a study showed at EBCC15...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15820437/tailoring-breast-radiotherapy-to-womens-risk-leads-to-success",
+      "published_at": "2026-03-24T11:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Frauenkrankheit - Endometriose: Zahl der Diagnosen in Thüringen steigt weiter - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Frauenkrankheit - Endometriose: Zahl der Diagnosen in Thüringen steigt weiter - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -596,6 +636,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/25000-protestierende-auf-der-strasse-163900/",
       "published_at": "2026-03-24T09:30:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "AuntMinnie.com Administration Insider",
+      "summary_de": "Response to medical malpractice trends, RCM, legal cues and clues in an MRI safety failure, and more in this issue of the Administration...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15820438/auntminniecom-admin-insider",
+      "published_at": "2026-03-24T09:30:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -710,6 +760,16 @@
       "type": "News"
     },
     {
+      "title": "TEE-guided CPR shows little additional benefits",
+      "summary_de": "Transesophageal echocardiography (TEE) does not improve outcomes for CPR patients, but it may have hemodynamic benefits.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ultrasound/article/15820299/teeguided-cpr-shows-little-additional-benefits",
+      "published_at": "2026-03-23T17:51:31+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Decision: Medical devices given exceptional use authorisations",
       "summary_de": "List of manufacturers and their medical devices granted an exemption by MHRA. The list also includes manufacturers whose exemption expired or was cancelled.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -746,16 +806,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdVlGVEFXZUVhcWdPUnNacjlpQUEtTGJRQlJTYW9hSjNITzg1R3ZzSFg4MmNmb2JQRW95a1ZZYW5rZElTTDJxRXlhY1VwMzZEUlg2a2JZb2VDU2hEblRQZ0c2VWlPal9PNkFTU25kOVlhX0VqVlRVWm5VMy10aWVaU08wa1dpbjdNQzF5OURmV0VmN3FHYTdpU19zR3R3UkZtWTI1NV9MLVJ2VHl2Nl9OLXIxNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-23T16:15:00+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Flensburg: Von der Notdienstapotheke zum Arbeitsamt",
-      "summary_de": "In Flensburg und Umgebung ist am Protesttag nur eine einzige Apotheke im Notdienst &ndash; ansonsten &raquo;ist der Norden dicht&laquo;. W&auml;hrend hier sogar zwei Notf&auml;lle versorgt wurden, zogen rund 60 Apothekenmitarbeitende symbolisch zum Arbeitsamt.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/von-der-notdienstapotheke-zum-arbeitsamt-163880/",
-      "published_at": "2026-03-23T16:00:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -814,12 +864,32 @@
       "type": "News"
     },
     {
+      "title": "How to help radiology practices close the revenue cycle management gap",
+      "summary_de": "Billing workflow inefficiency and absence of systematic denial management can lead to revenue losses, according to this column...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/practice-management/administration/economics/article/15820082/how-to-help-radiology-practices-close-the-revenue-cycle-management-gap",
+      "published_at": "2026-03-23T09:31:28+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Dutzende Tote bei Angriff auf Krankenhaus im Sudan – News - Deutsches Ärzteblatt",
       "summary_de": "Dutzende Tote bei Angriff auf Krankenhaus im Sudan – News &nbsp;&nbsp; Deutsches Ärzteblatt",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYU5tVE5QSjlPV1VTd1VyVUlQU1VfR0lTY3pudTFkYndTMWZzSHFyQ0xMSDhFMnJIZzUwVHBZWWVuMkQ5SE1ENGdpVUxvV2RlM2dvcWlnSWREVXkzMmpGZUh4aTRXVmxYT3ZzT1kyNDlZdWNmY3N0NUc4bkNvMF9rRkh4NEpZYWN0YW5iRy03Y1BDdlFzQXlLSTdSSFRFQ3NMa0VmclNoNlFTek4ydERpZGJ4ekJiUUVYNGY4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-23T09:10:20+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "New FAPI tracer shows promise across 19 solid tumor types",
+      "summary_de": "PET using fibroblast activation protein inhibitor (FAPI) tracers has emerged as a robust imaging tool for detecting solid tumors...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15820337/new-fapi-tracer-shows-promise-across-19-solid-tumor-types",
+      "published_at": "2026-03-23T08:25:01+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -964,6 +1034,16 @@
       "type": "News"
     },
     {
+      "title": "Week in Review: Match Day 2026 | AI and lung nodules | An RT weighs in on MRI safety",
+      "summary_de": "null",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15820201/week-in-review-match-day-2026-ai-and-lung-nodules-an-rt-weighs-in-on-mri-safety",
+      "published_at": "2026-03-21T07:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "Gesundheitsversorgung - Kommunen kämpfen mit Medizin-Stipendien gegen Ärztemangel an - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Gesundheitsversorgung - Kommunen kämpfen mit Medizin-Stipendien gegen Ärztemangel an - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -979,6 +1059,16 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRERmNWNoWFFmTFU1NTlMOXhxeG9iMVFBUEdGVF9LRTRyb0xaMWpKaFVrREp1aWQxRllJbmRXcHltYWVRLVVkLU5LMG42bmxabkxQN2ppcVI2ZlFjQ3YzY3NQXzVCLWhnb3h2RGF6UDVfS2FnMlczVHlVSzNsc0tMUGxvdTdvMWZ6blZzelhEb3hHcElSWGxxeE1ZcVV2azN4dUtZX3NIbUlDTTFBa1B4WkhhM2hKVWFOLXhoeVItWU01cFBwVzNnbHBlcEtZZGFZYnBWRlZiVXZHTFBPRU9RVFdWOW1YT2x4MWRYZEpDcXhLcGdSZnhF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-21T03:00:29+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Innere Medizin und Kardiologie Honorarbasis Stellenangebote in Saarland (0) - ärztestellen",
+      "summary_de": "Innere Medizin und Kardiologie Honorarbasis Stellenangebote in Saarland (0) &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYkgxVUZ4c0JOSmpCWlJFbmJZV2xlaXRmRGI5dzJzcmJFV0ZodHlJRk9NZWIwOHNTa0xHNVRyN0VfVEVCMEYyR1NXQWQwX25FMWNoMWNmVV9VcEJCTWtBRTZYVHAzOHJzc1loX096aHp0RThmaWwtWmlZSDlHU2U1TGt5UnVmZWZBdV8wRy0yQXFjYzJHOE1rM3NQS25QdkVSeFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-20T22:08:30+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1074,6 +1164,16 @@
       "type": "News"
     },
     {
+      "title": "Gesundheit - Grippewelle flacht ab in Thüringen - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Gesundheit - Grippewelle flacht ab in Thüringen - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONy1NRmZwRUpIajlrc1k5YTZfaTJvNDFXSk9XRHg5OFpSZm84cWV4LUw1Q1htSW1kTFBxV1haN1hwdUhCOXA4cUZObkVHbWptQ19tcHA2WjN3ZGJLbjY2WTJWVjBEaUNnenpkbG94NW1SaGJFZ1NURXI4eEF4RURTdDNsU2h0TFVzOElnQThCWERjbVk1ZmNoRkUtckl2ZWttbkdMekRUQUtRWEVsMk56aGg4TVctOFZLdWg2Ni1JQWlYRXlGejdFSU9ENjZ3cjJt?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-20T13:43:26+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gesundheit von Donald Trump: Geht es mit Trumps Gesundheit bergab? - DIE ZEIT",
       "summary_de": "Gesundheit von Donald Trump: Geht es mit Trumps Gesundheit bergab? &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -1092,6 +1192,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "CDSS improves outcomes among stroke patients",
+      "summary_de": "Use of a clinical decision-support system (CDSS) with stroke sufferers decreased the incidence of new vascular events at three...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/imaging-informatics/enterprise-imaging/clinical-decision-support/article/15820215/cdss-improves-outcomes-among-stroke-patients",
+      "published_at": "2026-03-20T11:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Gesundheit: Grippewelle in Sachsen neigt sich dem Ende zu - DIE ZEIT",
@@ -1134,12 +1244,12 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit - Studienplätze für künftige Zahnärzte auf dem Land - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Gesundheit - Studienplätze für künftige Zahnärzte auf dem Land - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPalJkNXVWVFBWSmNuRzBra2tzN1l4QjRhay16SlJ2Z1pqRFJfTzNxQzBvUkZUemxuQksxOW1nMHJ3S1pKdkRhSGlxbXBQNC1VNzlYREtBOWcyQlV2ZXFVcVBla0tjcTZYMExLVHNrcjF6WHFtWV9oQVpCS1l1M2EtLUhmdWxPeXQxRm1pTEdLV21nUWZFQURsQzJIWUFtaWtVd1I1U2oweEYwMURRMkMzbE5SSFRxbGliY3dmTEszN1hRU3dwazBxTFZkQzlTOXQwZnRaeGpqRDc2NkdFTGNIT2dydnZrMGha?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-20T09:29:38+00:00",
-      "category": "News",
+      "title": "Interventional radiology positions jump at Match Day 2026",
+      "summary_de": "null",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/interventional/article/15820240/interventional-radiology-positions-jump-at-match-day-2026",
+      "published_at": "2026-03-20T09:02:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1576,16 +1686,6 @@
         "Versorgung",
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Podcast Gesundheit: oBARMERcare klärt auf – unterhaltsam und informativ - Barmer",
-      "summary_de": "Podcast Gesundheit: oBARMERcare klärt auf – unterhaltsam und informativ &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Vam9yOEZ6Y05Kd240VHBxWHFMa3B0RnpEeHZiclU1TkFnWTlMaE13NUZ5dXpaeHFaUkRTcE5DT1YtbldDeW5TUFVCdFBsOVdtWjl6WE1hTjYtM05aR09iMm9ZZlJSSnFiQkI4WHdvM2psQnVzY2pKdFFNRF85Zk0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-09T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
@@ -2045,6 +2145,16 @@
       "source_url": "https://www.efsa.europa.eu/en/news/efsa-finds-sucralose-safe-when-used-currently-authorised-cannot-confirm-safety-extending-its",
       "published_at": "2026-02-17T10:03:17+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Ihr Portal für Digitale Gesundheit - Barmer",
+      "summary_de": "Ihr Portal für Digitale Gesundheit &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDTWN3bVQtWVZ3X29IVmZUSGR2dXYzWlZiczJvT0NHVkNfdTBsdklrNE5fc1BOU2dVUFcyN01GMld4N3E2eGpLbnlzQlFPd21fUVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-16T08:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
