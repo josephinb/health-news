@@ -1,17 +1,37 @@
 {
-  "generated_at": "2026-03-27T21:27:58.399026+00:00",
+  "generated_at": "2026-03-28T01:27:56.493231+00:00",
   "window_days": 42,
-  "count": 253,
+  "count": 251,
   "items": [
     {
-      "title": "Tierseuche: Weitere 377.000 Vögel von Newcastle-Krankheit betroffen - DIE ZEIT",
-      "summary_de": "Tierseuche: Weitere 377.000 Vögel von Newcastle-Krankheit betroffen &nbsp;&nbsp; DIE ZEIT",
+      "title": "Polizeieinsatz: 64-Jähriger nach Polizeischüssen im Krankenhaus - DIE ZEIT",
+      "summary_de": "Polizeieinsatz: 64-Jähriger nach Polizeischüssen im Krankenhaus &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWEdMakRBLUJJNGxGT2tTLVRnR1NvNGFJTjZtdF9talB1QXlsRk1jcTJQdmhqeXNmZVB6aGl3YU9KT2NpS3VWRFUzSTJ5LUx1dkdOcy1ta3Rla3NIU0RYNWlfeUJXLUYtbWFQbkxTamhRRUtrT0oyVEJTNm0tR2dMVlNGblMyeGxNdF9TQ216S3Y5Sl9ic0dj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-27T18:02:27+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcEJLZUV4NW9FVHFkRVJweVJmWW1yZ3RaQ25WSDRCQVNMTHJNVGc0SExnMjJISDJIdzJFaDEtdnpPX0Y1V1pVS292bTRpZTFqeVpCM3VtM290dFV6NDdwblZTT25PREhieTY4UktEM0k0SDY1bV9XbzdHcFlWVTVUYmpRbmNCSmFzMG1ueU53?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-27T21:23:19+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Researchers to develop 'patient-centered' imaging assessment tool",
+      "summary_de": "The instrument will allow clinicians to \"compare diagnostic strategies on patient-relevant endpoints,\" researchers noted.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/practice-management/article/15820780/researchers-to-develop-patientcentered-imaging-assessment-tool",
+      "published_at": "2026-03-27T17:45:11+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Week in Review: New FAPI-PET tracer | RT aides and interventional procedures | TEE-guided CPR",
+      "summary_de": "Our top story this week reported on research on a new fibroblast activation protein inhibitor (FAPI)-PET radiotracer.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15820770/week-in-review-new-fapi-tracer-rt-aides-and-interventional-procedures-teeguided-cpr",
+      "published_at": "2026-03-27T17:29:44+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "Kleinzelliger Lungenkrebs: Zwei neue Wirkstoffe vor der Zulassung",
@@ -19,6 +39,16 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/zwei-neue-wirkstoffe-vor-der-zulassung-164010/",
       "published_at": "2026-03-27T17:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: Minprostin E2 Vaginaltabletten pU: Pfizer Pharma GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-03-27T15:59:43+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
@@ -34,6 +64,16 @@
       "type": "News"
     },
     {
+      "title": "Hill Day 2026 highlights weight of imaging data in biomedical research",
+      "summary_de": "'All of us are frustrated with the gap between what patients receive on a routine basis and where the research community is ...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/imaging-informatics/article/15820591/hill-day-2026-highlights-imaging-data-weight-in-biomedical-research",
+      "published_at": "2026-03-27T15:22:05+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Früherkennung: Die wichtigsten Fakten zum Lungenkrebsscreening",
       "summary_de": "Offiziell startet das Lungenkrebsscreening f&uuml;r Risikopersonen in Deutschland am 1. April &ndash; in der Praxis wird es aber noch eine Weile dauern, bis die ersten Patienten untersucht werden. Wie funktioniert das Screening, wer ist berechtigt und wann wird es tats&auml;chlich starten?",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -44,8 +84,8 @@
       "type": "News"
     },
     {
-      "title": "Gleichstellung in der Medizin: Interview mit Gabriele Kaczmarczyk - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Gleichstellung in der Medizin: Interview mit Gabriele Kaczmarczyk - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Gleichstellung in der Medizin: Interview mit Gabriele Kaczmarczyk - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Gleichstellung in der Medizin: Interview mit Gabriele Kaczmarczyk - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQlBMaDhmMUh3a3VvdXUyMm0xRGZ0eHp0ZVh0MTRDbWpDdmJpZVdWOXdjNEFrZi1YT1dYSi14QXJNUWs0Y1FrNjV6VDI5WEdGbTFoQ0ZBV3FLV0FrVVhaYm1xWWxHbDNaUEFGY2V5aUtMSkk0b3E2WlZSNGxQMTVXS1VaYzdKcjNPcTBOS04tUG4zeEtqdUVKRm1UdFA0akY0S2x6eg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-27T15:05:58+00:00",
@@ -84,8 +124,8 @@
       "type": "News"
     },
     {
-      "title": "Geburtshilfe - Nur noch etwa halb so viele Geburtskliniken wie 1991 - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Geburtshilfe - Nur noch etwa halb so viele Geburtskliniken wie 1991 - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Geburtshilfe - Nur noch etwa halb so viele Geburtskliniken wie 1991 - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Geburtshilfe - Nur noch etwa halb so viele Geburtskliniken wie 1991 - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNlpPMzI0Z2sxYjgyeXJfeXVNeng3NGhwM2xnX2gwY0VFQlZRTEtzSnhZZTFCdnBlX2xrY0dBcE9KcUx4OFBlZE9KR3NtdC1KU0RkRWc3MWR1eXpVUzVwM1lMTWw5ZzVVay1leGI1d2VVd3drTkN1ZDluMGdtTTQxNVRabV9STlo0OVAwTnQ2VXBYS3hzZFNKc2xlek1ONlhIdU9paXI5VXFVMHktNmp0UmREOUxaZG5WbUhWWlV5Y1prZGt6M0ZTMmR4MUlWQkR3Y0doMWx2cVlIRzNob1NvMXNFTUx1cGg3dFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-27T14:35:53+00:00",
@@ -166,16 +206,6 @@
       "type": "News"
     },
     {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: Xylocain Gel 2% pU: Aspen Pharma Trading Limited",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-03-27T12:55:20+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Neue Leitlinie zur Behandlung von Kindern mit chronischen Schmerzen – News - Deutsches Ärzteblatt",
       "summary_de": "Neue Leitlinie zur Behandlung von Kindern mit chronischen Schmerzen – News &nbsp;&nbsp; Deutsches Ärzteblatt",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
@@ -236,8 +266,8 @@
       "type": "News"
     },
     {
-      "title": "Ernährung - Vorstoß für Zuckersteuer auf Getränke im Bundesrat - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Ernährung - Vorstoß für Zuckersteuer auf Getränke im Bundesrat - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Ernährung - Vorstoß für Zuckersteuer auf Getränke im Bundesrat - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Ernährung - Vorstoß für Zuckersteuer auf Getränke im Bundesrat - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNFptRzhraEJ3SXFIemhIX25TT0hUWDczd1VmSHI5dG5yM3lTNmhud25xNFdCYUhySk5vM1hBNndnaVJQNkVPcmFsS1BndjNzWE9fdWxpRUI3dU52NVZmdjVxbWZlVU5jenltZW81RmZ0ZnNPdFdoTnA2cV9IbGhWOHFNeG5WWHd6enFBXzJpUkZCRzVzSkk3SVROVkVRVDJoallDT0puVjFYRk9lMWRFR2JwRHJnVFUzNWVBQlR1dVpQZE55bVlDNTNMdEtMWEhJQ3AwZ29Xa0FSanFWUXBraXZMS3lsTGVK?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-27T10:54:07+00:00",
@@ -246,8 +276,8 @@
       "type": "News"
     },
     {
-      "title": "Rauschgift - Kritik des Innenministers nach zwei Jahren Cannabis-Gesetz - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Rauschgift - Kritik des Innenministers nach zwei Jahren Cannabis-Gesetz - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Rauschgift - Kritik des Innenministers nach zwei Jahren Cannabis-Gesetz - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Rauschgift - Kritik des Innenministers nach zwei Jahren Cannabis-Gesetz - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTzNXVE0tMXVsMHMtcV9pb282MVIyRlRUVjh2TmYtWTdxSjc1dlphRHFZNkFXcktjSHFERnNzbjItNjVlLVVya09xQWlyWE1JMDFVRkZVelhwRW5EZmNlTXdLWkJheE9WM1VoMmI0WjVKR29ZZFRjMGRzTVNTWWNkS3JRUVdBdTdSLVltNFF0Mkg4RFhrZ1d4VmlDWGl1ZTcwWndHd0RMMDBrZF83OFlza1AtLVNpZmNsZzNuamNkdm4xd1VucTJYdlM1NlhzS2NNRU1jMnJybVhhVDJuZ1lBYXE3Um1DbmJRSG5RMXZaMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-27T10:36:22+00:00",
@@ -347,6 +377,16 @@
       "tags": [
         "Studie"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Could AI help standardize MSK ultrasound?",
+      "summary_de": "An AI algorithm showed success in providing accurate, real-time guidance for shoulder imaging.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ultrasound/article/15820786/could-ai-help-standardize-msk-ultrasound",
+      "published_at": "2026-03-27T06:20:55+00:00",
+      "category": "Radiologie",
+      "tags": [],
       "type": "News"
     },
     {
@@ -454,8 +494,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitskosten - 1.000 Psychotherapeuten demonstrieren gegen Honorarkürzungen - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Gesundheitskosten - 1.000 Psychotherapeuten demonstrieren gegen Honorarkürzungen - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Gesundheitskosten - 1.000 Psychotherapeuten demonstrieren gegen Honorarkürzungen - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Gesundheitskosten - 1.000 Psychotherapeuten demonstrieren gegen Honorarkürzungen - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNLW9FR1k3RVdGV1RzTGNTYnNEUHYzOHhBZzFQMXVBeTB1VnRIZkxYMlVmNG1jSkdNRDhUNU91Y25fYTNFWXUtdGkxbHA2MU1yaTB0dEJiU1NYdGRUUF9kVW53dEt4QXgtX04wT3I2VjdvdEZLMzhYQU9BelA4VDc3ZXl1OWdLM0dvR1V2ZUpzUWU5Q0Ewa1NoNUF6NDY5TzFsRGRHTzNrd21JNzVWRlkwOVZfdWlzQ3QzNFNhTWs3N2tWWmNOWXdaTFlQYUJkNWpsLVhMWkMtZ3pxeGNpWUZGS05fMXVLV3JRQ3FJa05wRDJrazhGbjE1UVZhT24?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-26T15:52:04+00:00",
@@ -630,8 +670,8 @@
       "type": "News"
     },
     {
-      "title": "Bundesgerichtshof - BGH zieht klare Linie bei Cannabis-Werbung im Netz - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Bundesgerichtshof - BGH zieht klare Linie bei Cannabis-Werbung im Netz - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Bundesgerichtshof - BGH zieht klare Linie bei Cannabis-Werbung im Netz - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Bundesgerichtshof - BGH zieht klare Linie bei Cannabis-Werbung im Netz - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYW8wbU1BTFZoY2Q3eHNVUzlnNVJsWkFsNG90WC12aVJ3NXpLdE9WcW92Vl93WFd6ZW5tNVJ0TERvaWxaSDFOTmN2ckgyRXJRWmx4RWZVYlU2bHdnM2s3T3c5YXFQTG5QQzd0QW5penF1Y3BON0N6a3pwZ25VU3ZlY3R1RlRIblY0LW1VbEtITzJReTZjdjQwNGZxandXMDFuNFhfMmRnQjF6VEQ3ZG4xLWtPUVRoZ2VtYXhGUFVOdkpCZkZveVd6ZXhpMXlKMXZGV3V2eVo3VDhVbHlTUzZsWTFnNHozTGpEanU5Qjl3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-26T10:54:27+00:00",
@@ -772,8 +812,8 @@
       "type": "News"
     },
     {
-      "title": "Bundesgerichtshof - BGH: Keine Werbung für Cannabis-Behandlung im Internet - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Bundesgerichtshof - BGH: Keine Werbung für Cannabis-Behandlung im Internet - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Bundesgerichtshof - BGH: Keine Werbung für Cannabis-Behandlung im Internet - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Bundesgerichtshof - BGH: Keine Werbung für Cannabis-Behandlung im Internet - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOHptOTNDTjA2VnQtdnhBMlQwcEdDcHEtX0dHeHQ1YTh3R2NRWk5KWndoVFVkenFzV1l6SlFNX3RqNW12VXJBaURvNncydUdMYk9vMmdBRmkwVHdSRVcxTndNaUtaZFpzV0NhRkJRRXZNNVhvbFZkX0wwcTI1cEhYRkF3MjdhUDVxb19ETDRwM0tTTkc4UWhPdmNUYlBKU0hWWjN1WVBMZm01TjZxT3ZwbnZZVWk1emhIQXFvQS16b1JMam50Vm5IR3Q5cHZUeVNZWFNMSjNsNXZ4OTZfemg4RS1aR2JkWXdtUjRNYTREZ254U0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-26T08:35:51+00:00",
@@ -814,8 +854,8 @@
       "type": "News"
     },
     {
-      "title": "Seitenstechen beim Laufen: Ursachen und was hilft - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Seitenstechen beim Laufen: Ursachen und was hilft - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Seitenstechen beim Laufen: Ursachen und was hilft - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Seitenstechen beim Laufen: Ursachen und was hilft - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPXzNrUlNPX19BdXlpNThGQVZOQlUzMjdBTU5CU0ZBUWJ6NERxMDg2eXgwNEhpcHlKLXJiZl9rcUU5N1RzQTJuSFRPOG1TcDJUa29tMXhYNDBLcjNGYXVFeEZXQ3RsZFhDc1J2dEMzNzJKaGhQQVpnZVB3VzZpM0lhVXFlelVFM3cwRGVoQ1d4Z0RGZjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-26T07:23:09+00:00",
@@ -824,18 +864,18 @@
       "type": "News"
     },
     {
-      "title": "Mammography use declining among women",
+      "title": "Mammography use declining among some groups of women",
       "summary_de": "Non-Hispanic white, Asian, and uninsured women ages 40 to 49 years used mammography less between 2010 and 2022.",
       "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15820644/mammography-use-declining-among-women",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15820644/mammography-use-declining-among-some-groups-of-women",
       "published_at": "2026-03-26T06:02:40+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Tarifstreit - Zweitägiger Warnstreik an Vivantes Kliniken beginnt - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Tarifstreit - Zweitägiger Warnstreik an Vivantes Kliniken beginnt - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Tarifstreit - Zweitägiger Warnstreik an Vivantes Kliniken beginnt - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Tarifstreit - Zweitägiger Warnstreik an Vivantes Kliniken beginnt - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMTFjcGxNc2E1SnJVWHkxcGl1ZFRiRGE3N2hmcDBHb2E3bDJqelA0Wks1V3JJT0tWZ2xmUnpVZl96M1N0RFljdmFqQlVncmpHY0VpYmdRRVJTVGNoUjhSODROcFMtMTB0enh6eWpOcG16M21PQjc3c2lmTFBLTV9LSnMybWgyeU1UV09Mb2Q3UHJEMWxDX3lSQjk4bFBQbUZrc0VleHE2Z3dQR1BIb21hMGhrSmdRTFJpY3BndjNlVGVqZ0pzQTVrdFZlN1ZSY3JVSnJLYy10T19zVmxveU82TGVicnpzeVhv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-26T05:47:02+00:00",
@@ -904,8 +944,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitsversorgung - Protest gegen Kürzung von Psychotherapie-Vergütung - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Gesundheitsversorgung - Protest gegen Kürzung von Psychotherapie-Vergütung - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Gesundheitsversorgung - Protest gegen Kürzung von Psychotherapie-Vergütung - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Gesundheitsversorgung - Protest gegen Kürzung von Psychotherapie-Vergütung - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdjFDbEFIclF0dTlvdDN6djVpS0drd0JIdG8yNTF5bEFCa0swYWZ2eWZSb2JXZ1VRclJTSTZlTVpEcC10RTlKT0gybDV6ZDNLREsweG9laHEwcmdGemRjVTd6OEw5bDI1Q2ZxdTRyRUdBUEpoVTdQdVJDMXRqWEdpbDdoV0FXam9PaTlid1g5UkFaYTBrY1B1MWk3c1hZSGRBbEkybjNpWGZiWFJmbzg1anh2UXdYWGZLdU1LZ1FXTkwxZnJNdTZtRksxaERLVGgyNW9KWGdLTVhaekdmQ2RudS1uWmFYZml5c1N0NFJlTVBHZGF1Tnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-25T16:23:08+00:00",
@@ -944,8 +984,8 @@
       "type": "News"
     },
     {
-      "title": "Medizin der Zukunft - Wie 6G-Technologie Patienten und Personal helfen soll - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Medizin der Zukunft - Wie 6G-Technologie Patienten und Personal helfen soll - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Medizin der Zukunft - Wie 6G-Technologie Patienten und Personal helfen soll - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Medizin der Zukunft - Wie 6G-Technologie Patienten und Personal helfen soll - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdHJrOEVpeHdCV0E4aVdVVUNPY0l0eEZISThIa1o4a3Q0LUxiZ1gyQUs1YU9qMnFLa1Uxc0tVOGtNOE9kYlBSa2VVUVY4eUJfRExtWjM1Rm9ZYzZWMnVtMDM3aHZneXNpRWFrb3hqQV9BQnRHTE5VY0ZuZ2tDZnpPdjVTNWVmY3lsNEEwVDJVemVMMF92R1JWUzdkclVPYVNUR2hqcDUwMXFacUgwRWNBQS14TFM3aTlTQlk5NmxsRndKS19rT2dydXk5UGRyY1pwS29TSHBNRlB1UmlwVkUwYlBGLUQ3NTN5OF9xRlZWczZlcTlo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-25T14:00:04+00:00",
@@ -1016,16 +1056,6 @@
       "type": "News"
     },
     {
-      "title": "Technologist aides may support IR procedures amid staffing shortages",
-      "summary_de": "Radiologic technologist aides who were trained in sterile technique and ultrasound setup could support IR services.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/practice-management/article/15820553/technologist-aides-may-support-ir-procedures-amid-staffing-shortages",
-      "published_at": "2026-03-25T07:08:11+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Interactive movement‐ and mindfulness‐based interventions for promoting parent‐infant bonding in the postpartum period",
       "summary_de": "Interactive movement‐ and mindfulness‐based interventions for promoting parent‐infant bonding in the postpartum period",
       "source_name": "Cochrane Library RSS feed.",
@@ -1036,8 +1066,8 @@
       "type": "Studie"
     },
     {
-      "title": "Prävention - Fach-Bündnis fordert besseren Schutz vor Alkohol-Schäden - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Prävention - Fach-Bündnis fordert besseren Schutz vor Alkohol-Schäden - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Prävention - Fach-Bündnis fordert besseren Schutz vor Alkohol-Schäden - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Prävention - Fach-Bündnis fordert besseren Schutz vor Alkohol-Schäden - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWmhidzNNaEdwbFNKWm9CaDkzOHJDUTl4ZEtsSHpScWNjb3ZseEg5Mno4cW16ZmpGUVRnVnczZFJOWWktRjVmWWdEUmpYejlHZ2ZfeFF1RkZ0NS1NNWMzd3ZUcjFNYlVLMXIyZklxVHhlR0d4X2h5MUprZGZ0SG9qajlIYnRYenNSR2dEVnFVbXNaaXR4NmIxMkZ6U0wzc3c4SGw1aEQyVUl5NVpva3VkTXM5TmZIVnprOVF1QVBHRHlhbzFWbXpUcWUxVXYxTk1YY2MzTl9zVTVtaXh5UlBsRVVZT1RIb05hQ01FQkZCVGQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-24T23:15:04+00:00",
@@ -1046,18 +1076,8 @@
       "type": "News"
     },
     {
-      "title": "Study finds that AI fails to speed lung cancer diagnosis",
-      "summary_de": "AI prioritization of chest x-rays requested by U.K. primary care had no significant impact on the lung cancer pathway.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15820374/study-finds-that-ai-fails-to-speed-lung-cancer-diagnosis",
-      "published_at": "2026-03-24T17:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit: Ende der Mitversicherung löst Probleme der Krankenkassen nicht - Handelsblatt",
-      "summary_de": "Gesundheit: Ende der Mitversicherung löst Probleme der Krankenkassen nicht &nbsp;&nbsp; Handelsblatt",
+      "title": "Gesundheit: Ende der Mitversicherung löst Probleme der Krankenkassen nicht - handelsblatt.com",
+      "summary_de": "Gesundheit: Ende der Mitversicherung löst Probleme der Krankenkassen nicht &nbsp;&nbsp; handelsblatt.com",
       "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQclRrSEJ0TmE2WlBIUXVsc1ZWbDNkR09JZlVKZEhvRnlySzV4dnJJZVVmWVIwM0szdTNwQTBrZjhxeWljd1hkc0kyaENEYkV4MnpSOXRGb0VjdWxDeTBBZ0E0VFJnOHMzcU81MGM3eVViREpYbHA0RHk3dlRvYkRXSS1qcV80aWkzYjN2d2lhbTQ3ejc3SkliazU0TE01cnQ4UVlIYncwWGtMblVWUkcwMmUxWlhFcnl0dzRKR2V5elpkcjhUbjgtTnBTbUZ5Y0M2TzNJbg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-24T15:44:24+00:00",
@@ -1108,8 +1128,8 @@
       "type": "News"
     },
     {
-      "title": "Wer morgens Sport macht, hat offenbar mehr gesundheitliche Vorteile - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Wer morgens Sport macht, hat offenbar mehr gesundheitliche Vorteile - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Wer morgens Sport macht, hat offenbar mehr gesundheitliche Vorteile - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Wer morgens Sport macht, hat offenbar mehr gesundheitliche Vorteile - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLXc0bGdFU2lyX3N5TFRMb0ZoTVBlRGNnRlIwUEc3YlNJekhmTHFEZTVlUHFvenU3QVk3anFnYzlhN25RNzk3dFF6ajZGVHFrR1RzZG9kR2NVTG1xTzg5VTFzQVR4ZGNTRlRremRObVRtMGtRZmRNa1JZanI0a1p3UEp5Y0VGd01jbHFESnllbzA0UmhIZ1podTZFRG1OZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-24T13:29:58+00:00",
@@ -1130,18 +1150,8 @@
       "type": "News"
     },
     {
-      "title": "Tailoring breast radiotherapy to women's risk leads to success",
-      "summary_de": "Many women don't have breast cancer recurrence after receiving radiotherapy following initial treatment, a study showed at EBCC15...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15820437/tailoring-breast-radiotherapy-to-womens-risk-leads-to-success",
-      "published_at": "2026-03-24T11:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Frauenkrankheit - Endometriose: Zahl der Diagnosen in Thüringen steigt weiter - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Frauenkrankheit - Endometriose: Zahl der Diagnosen in Thüringen steigt weiter - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Frauenkrankheit - Endometriose: Zahl der Diagnosen in Thüringen steigt weiter - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Frauenkrankheit - Endometriose: Zahl der Diagnosen in Thüringen steigt weiter - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQLU9MRFRrNVJCUmVUNmZ3VG02V1VmSy1GeGFxUGUzUUJYQllhaG1ZYVZnMUhFRDhPRjR3aHRXOFo1V3Jyc3NfRUdHTWhSRWVyOFByaU5hMTFjV0p2U2tUYlJtSmZRRm5iLW5JZmJIV0xhVnlnLVhfTldSd3JYX0tGb2lYY3NHNDZXc3RxUUxXN2psZGx5Z0RhdW5kRFFOMWtxdG1ZUkhnWnF2S25rYmpScXZtdUg3Tm5BYmp3dkFVVU1sNjh3R2VrcjRTVlNrLWREejRnUlpDMFlNeUlEdy0yTlNvYzdXV3I0WkN1Y05meVhJbHRHSXNj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-24T10:01:29+00:00",
@@ -1156,16 +1166,6 @@
       "source_url": "https://www.gov.uk/government/news/mhra-action-boosts-drive-to-phase-out-animal-testing",
       "published_at": "2026-03-24T09:31:00+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "AuntMinnie.com Administration Insider",
-      "summary_de": "Response to medical malpractice trends, RCM, legal cues and clues in an MRI safety failure, and more in this issue of the Administration...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/editors-note/article/15820438/auntminniecom-admin-insider",
-      "published_at": "2026-03-24T09:30:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1200,8 +1200,8 @@
       "type": "Studie"
     },
     {
-      "title": "Tabakindustrie - Reemtsma schließt Werk Langenhagen - 600 Jobs fallen weg - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Tabakindustrie - Reemtsma schließt Werk Langenhagen - 600 Jobs fallen weg - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Tabakindustrie - Reemtsma schließt Werk Langenhagen - 600 Jobs fallen weg - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Tabakindustrie - Reemtsma schließt Werk Langenhagen - 600 Jobs fallen weg - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQME1aYno2UjhpQWdmQVlPLWpRNVpvd1otUVBQNWJDQmNiTklfeFRvd3doOGNvRHRFdmNrRGZsTVJHYWx5X04tVVI3MkdzQm5MV0k0UXBXTGZRZlFaejRNZEZaU0VseU02UzFlZlVyUFN1SmFVYko3T0xEQmlfN1RPbXc1ZEs5dnZoOU9xSTRnNERPcFpHSUhrSER2cEV3V1VubGFrZFNpQmJ5N1JUV1VicXVneUFPNUxSbWFYRjdWUnhWTHFOV1dIaEo2UzhXMnhMdzg5RElzUUF0SFVteEpwbndmODVtRDU0bDJVd0JmdW0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-23T21:57:08+00:00",
@@ -1220,8 +1220,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit - Protesttag bei Apotheken - Tausende bei Kundgebung - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Gesundheit - Protesttag bei Apotheken - Tausende bei Kundgebung - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Gesundheit - Protesttag bei Apotheken - Tausende bei Kundgebung - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Gesundheit - Protesttag bei Apotheken - Tausende bei Kundgebung - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY2JkRDhVMXJDSTZwVm1TQzUyN2ZMb1NrZXR4R1lTaHJ5Mm42eHJVOFh5ak43SmdNOVVDUmY2aEpOeDYtMHRlclJUaUNXa0QwQk9VSnVLaE9yR183T0l5NXE2TmF3c2VPcTdJOFJLUlJGWWQxV29zLWtPcmhySE9vQlNFS1RWVmdjMDU2QU9Vb1hCMHJPc0ZhTTE4ZU9kdnZLdF9JZ3dscmxPNE9GNWpObFFHd19jajBTcEhRS0QwQTRVbHhkYWIwOXNrdFUtUUlMVEs3OTJNcHZsTTVuYlF6NFZB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-23T18:59:06+00:00",
@@ -1284,8 +1284,8 @@
       "type": "News"
     },
     {
-      "title": "Lieferdienst - Delivery Hero verkauft Essensliefergeschäft in Taiwan - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Lieferdienst - Delivery Hero verkauft Essensliefergeschäft in Taiwan - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Lieferdienst - Delivery Hero verkauft Essensliefergeschäft in Taiwan - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Lieferdienst - Delivery Hero verkauft Essensliefergeschäft in Taiwan - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSHdLaWFaLUxUNWJvOGFBX1FySUZMQ2NEX25qNjE5N2NtQ3ZUa05uczJEbkoyQWlEakpsUWJlRjF5MG4tLWNRWUJfZmk2M0ZuZGRJS0plbldhaUdhX1YyMUgzUmxqMHhlemptN1ZQODdvQlV6WER2aHFIaFR1ZXNEaU5va1FYblBEVG82ZlVVb3J1d0pMb05ITHZvRjg1YnlrZTk3eDZJQ3UwUlRuRndVdlp2dHlodGNGUUJycm1fX2F4NEVJLXRrOU5GRTgwMzVUa3RycGZTVnNZX3VGNkEtM1FkWDAyWmtiVkRfSw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-23T08:05:27+00:00",
@@ -1314,8 +1314,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit - Viele Apotheken wegen Protesttag geschlossen - Bayern - SZ.de - SZ.de",
-      "summary_de": "Gesundheit - Viele Apotheken wegen Protesttag geschlossen - Bayern - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Gesundheit - Viele Apotheken wegen Protesttag geschlossen - Bayern - SZ.de - sueddeutsche.de",
+      "summary_de": "Gesundheit - Viele Apotheken wegen Protesttag geschlossen - Bayern - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxON2RBX2pnRFNPbEw2MGxRbnBVdFNBOUdUZFZwZXBibEJWbVg1N19ZN0JGUXBIRGtjck9reENSQWs5NnZTaG5JdHBPd0libU1Yc0llcS1IS18yS0c2bHpsWVVoZTFVWUxQdlR4b1RIZ3B0ZHMtQlNjbUNEd1ZDS3JvR01jM2pzUmpJd25IVnFtb2thX1d6Rk8zcmVFSnc5eFo1MXlBVkg4OXN5SDFLUTg3eEFzY3RFVEVuVVI1U1RMSnRNa2N5TlA1WGN0RXFPTHRrRl9CRmVmQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-23T04:00:10+00:00",
@@ -1324,8 +1324,8 @@
       "type": "News"
     },
     {
-      "title": "Apothekenprotest - Protest legt Apotheken lahm – Notdienste sichern Versorgung - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Apothekenprotest - Protest legt Apotheken lahm – Notdienste sichern Versorgung - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Apothekenprotest - Protest legt Apotheken lahm – Notdienste sichern Versorgung - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Apothekenprotest - Protest legt Apotheken lahm – Notdienste sichern Versorgung - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQelNJa29KOGtBRWNWeG5QQ2dZM3ZuTmJ1cmpiaXJPUlE4U1hmS2ExTk1UX05JMk40cUx1RVY0Q2t2ZGQ3Tk5MU2tIZl9Wbkh0cnhnS3k1anFyLUV3Ni1LbENLRjQ4SVZha3B4Um9Nb19yOFBBWU5XRjUzNkdyVUxGQm9fQ0FiNVJJV0t3cnNLZWFXSmpGTV9OOFE0TWJ1ZXdUS2RsTkg3RnotU1JiYVB5bVJoUm1xb1J3SUlSN2t0SW1lUEdpQlJ2N1MtUHEwcGliY3U5Q1NPQWVoNmJpWnNqczdyTnFKdTVRTy0xZUJyaVFWb1FGNnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-22T10:06:20+00:00",
@@ -1334,8 +1334,8 @@
       "type": "News"
     },
     {
-      "title": "Assistierter Suizid in Deutschland: Steigende Zahlen und Trends - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Assistierter Suizid in Deutschland: Steigende Zahlen und Trends - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Assistierter Suizid in Deutschland: Steigende Zahlen und Trends - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Assistierter Suizid in Deutschland: Steigende Zahlen und Trends - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ2dYSUJVZDVPZTlLSlFyNjY1NkVyYnBIS3FvZmRBUE1wNkVoSnJHRFBTRmFJaFJXbXFPUjY5ekJRZV9rMGdrZDlOQnphNWhDNXlKRjFoZmQ5Xy16dWJsTzdfTDdtOWQ1aGJHbU8yaE1CVExITVRtQkhhZnVfekhIMS1VOWlvYXlq?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-22T08:44:42+00:00",
@@ -1344,8 +1344,8 @@
       "type": "News"
     },
     {
-      "title": "Darmkrebsmonat März - 7.550 Darmkrebspatienten in MV - Drese wirbt für Vorsorge - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Darmkrebsmonat März - 7.550 Darmkrebspatienten in MV - Drese wirbt für Vorsorge - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Darmkrebsmonat März - 7.550 Darmkrebspatienten in MV - Drese wirbt für Vorsorge - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Darmkrebsmonat März - 7.550 Darmkrebspatienten in MV - Drese wirbt für Vorsorge - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQd19yUHVNV1pQUDhsQVBmZU1BSUIyZlIzOHN1eDBIU1pROEJjV3Bwa05KSk9RNGtCYVhOWHFiWmZ4UjB1alpuYnA2S0hzVTc4UURBbG9KYVRWQWhldXA2TTJiM3lDQVlQTWhvOTIyckpUODFmMGVmVTNjakI3RW55Y3U4YzdMM1NuVFd0OWpodWpxN29EcWNQaXZTVS0wM0ZOSTBvM3NMZ3lkMXhQdmx2MlpaWEVvZmc2SkdsTjhlX3lDS09uckJwQjZZWjFZbzBmbVlhOXZjcVhCenpYS1hRTk5ZZE44Q3JJVXl4X1FxVjd1b1NRai1sMjlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-22T04:00:07+00:00",
@@ -1364,8 +1364,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitskosten - Demo in Bremen gegen Honorarkürzung für Psychotherapeuten - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Gesundheitskosten - Demo in Bremen gegen Honorarkürzung für Psychotherapeuten - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Gesundheitskosten - Demo in Bremen gegen Honorarkürzung für Psychotherapeuten - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Gesundheitskosten - Demo in Bremen gegen Honorarkürzung für Psychotherapeuten - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQ1F5YTBHbjVmS05qeTFqZjAxTTA0OGRSaVpmSFpPQTFyUXQtUjRFTkRiWEFXRzIxaU9rYjN4b0dzS3ZXLTR4YVFQWmdBSXAtbVhtSmZqX0h2eXpBME95eE5Jbk81V2JCR2xzZzRpVU1lOG9uUHlyaWlsM2VlX1dtM1FOeTJQUDQ1ZE84MDcyeDBRS3BYSk5iVkhDS19ZQVByVkdLZ3JydER4YlQxZVB1bnAzMjB0Sm82cnRXZFNFYW5qVEg5WS1NTlF6aTlFRk5XWXhTUzR3cFdMcF85OEQ0LXpEWGJqOHhQZGtYRmE2dVRwS2hONlFRNUhB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-21T13:35:35+00:00",
@@ -1384,26 +1384,6 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitsversorgung - Kommunen kämpfen mit Medizin-Stipendien gegen Ärztemangel an - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Gesundheitsversorgung - Kommunen kämpfen mit Medizin-Stipendien gegen Ärztemangel an - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNOEdfU19mS2lYc2hyQml5S3YxMTFaWklwdjQ0TjFKbVBxbklCWmtUcDVQVTN2eHMzOGNKSE1nYUg1c2hiWVNQOWxPaVpuMHhkc1hCanp0VVM5NEh0a1FpZFdpenVDVUVjRVBNUUpyVE1qSmo4ZlZOODhGNmhvWHUzMTdybWkxc0JaZHh0OE55ckc5bXFROE9vT0gyTEtLS0FZcEo2VTk3a2VhUXE1bU9PMElWbHpZM2xDRjhqMEZpd0ZQMHNBejlqNnVuUUpOTXdMZGJoejg1RHZaWF9QamF4cWtYRVlBdmtySkVaWEcxSGxPWTFVMTNRdVNaNlMwQWhzN2ww?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-21T04:00:09+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Innere Medizin und Kardiologie Honorarbasis Stellenangebote in Saarland (0) - ärztestellen",
-      "summary_de": "Innere Medizin und Kardiologie Honorarbasis Stellenangebote in Saarland (0) &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYkgxVUZ4c0JOSmpCWlJFbmJZV2xlaXRmRGI5dzJzcmJFV0ZodHlJRk9NZWIwOHNTa0xHNVRyN0VfVEVCMEYyR1NXQWQwX25FMWNoMWNmVV9VcEJCTWtBRTZYVHAzOHJzc1loX096aHp0RThmaWwtWmlZSDlHU2U1TGt5UnVmZWZBdV8wRy0yQXFjYzJHOE1rM3NQS25QdkVSeFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-20T22:08:30+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Radiologie Klinik Lehre Stellenangebote in Sachsen - ärztestellen",
       "summary_de": "Radiologie Klinik Lehre Stellenangebote in Sachsen &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
@@ -1414,8 +1394,8 @@
       "type": "News"
     },
     {
-      "title": "Mikrobiom und Gesundheit: Einfluss der Darmflora auf Wohlbefinden und Krankheit - SZ.de",
-      "summary_de": "Mikrobiom und Gesundheit: Einfluss der Darmflora auf Wohlbefinden und Krankheit &nbsp;&nbsp; SZ.de",
+      "title": "Mikrobiom und Gesundheit: Einfluss der Darmflora auf Wohlbefinden und Krankheit - sueddeutsche.de",
+      "summary_de": "Mikrobiom und Gesundheit: Einfluss der Darmflora auf Wohlbefinden und Krankheit &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSktWV2ZOenU3aGpjdGQyMm5oMjN0MWpVaTJOWGNKZnVwMHk0WTVCcEw0d0tIa25LZlBHbWZ0UE9SUlZfVDV6Sm1ScWFvNWVxMGF3SmUxbTlqS29yQWlCUlMtdEN0RFdEWFEtbEhOV0tfeVNoX1dQdFEyN1JWZGltSFZtbDBtSkxUQk5QcVJsNlhjeUlwNWRFbUJmRlRuUVEyY1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-20T14:41:27+00:00",
@@ -1520,22 +1500,12 @@
       "type": "News"
     },
     {
-      "title": "Klinik für Radiologie - HEK",
-      "summary_de": "Klinik für Radiologie &nbsp;&nbsp; HEK",
+      "title": "Klinik für Radiologie - klinikfinder.hek.de",
+      "summary_de": "Klinik für Radiologie &nbsp;&nbsp; klinikfinder.hek.de",
       "source_name": "\"site:hek.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObEFObEw0eHI2b2dYVmo1SXhiNzRFanBhdGNJdDc5M0x0dHI4VnRXR2VSTGRmWXAzR3A2UWJVU0ZQME1OT3lIY3lEUFJOLTV0SEVpVXVDaUZiVWtxMWFQY1BJaFo0bnFqUmNSa0tjVUx5dHpQMmxZcUc5dDdxVmZCNWVzQ1RwSlVCRDRZY1NlSjRiVEVuR1JEdjk3SE1yWndCNnhRZ2ViRHhvTGJTM0xfLTE4UEtLNWR1MS04cnRtUHQzczEt?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-19T02:04:05+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Personal | Innere Medizin | Kreiskrankenhaus Rotenburg in 36199 Rotenburg - HEK",
-      "summary_de": "Personal | Innere Medizin | Kreiskrankenhaus Rotenburg in 36199 Rotenburg &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd2NzeG9iNU1ybXJJMGhNQXREWVp3cWptSlBYQ3FKSW95MG84X2RZM1BqRlRGR3dOZkNtU3U1Wk9NbU92RUh3RHpPMGtSeVRNVDFTU1kzXzFQbEQ5YU9lUmN1WVYzTERPYjhJUVplLUFyOFhlMXlCRVN5RDdkRHNVa2Yzczl4X2dEdDhUb01rd0k1dWtvU0NWdEdPWU9HaGZsWGs0NThGdHo3OW9pQWNVbFhkdnZ3RkhENHFBUkhwVWZSSzg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-18T19:26:52+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1560,6 +1530,16 @@
         "Europa",
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Kinderkrankengeld berechnen - wie war das nochmal? | Die Techniker - Firmenkunden - Techniker Krankenkasse",
+      "summary_de": "Kinderkrankengeld berechnen - wie war das nochmal? | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMjdfdnd3X2FCSHE5QThZbnRxZlNTQzUwdzFhSkFnTldwclF1QXJEdmRENFdoa25vR2VfYTFpbFZ4R2hmX3NibEE3eHlvWVdpVTlRM2t0V2VHQ2RSdGZmVjNrOEhRTGhCRFYxcFBBU0sxODFELVcxMUV5WnVUSmg3dFlVVlpmSHZBNS1sSzBvWHZsenlocGpyYXdGYjlyNGJNTW5lbFBGSWQ1c05ra01IZHJMVUtFX0lpdmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-18T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
@@ -1660,16 +1640,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Klinik für Psychiatrie und Psychotherapie (mit Tagesklinik) - HEK",
-      "summary_de": "Klinik für Psychiatrie und Psychotherapie (mit Tagesklinik) &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYzFUNHFxR2RqbFljTzNWWjVEZWJYVnJDbVBnTmNKdEVPbE02V0xPRlN3WVNsdU5MUUk5eXR2UUV5dFZnRGprcUxKTFBTekFHajJ3N0wxd003bFU3UG1CeFRLTXJJZjU3X0FybEtRN01rSHNHRXdYZkZqTjF1LVVIUXlRQ1VKWHhzYWJURHNEc2ZfU1A1ZzF1TFlwM0tDQkR5b1NnNm8xSkJNc2JGV1pscmlza29KTXhnWl80VDZqTnh3bnVkRGVOMng5WllMSlZCWHgwMlBKR3I0Zk9aU25tRnZjN2stVnQzei1GVFlmUFZJZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-15T20:02:17+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "EMA Management Board: highlights of March 2026 meeting",
@@ -2044,8 +2014,8 @@
       "type": "News"
     },
     {
-      "title": "GKV: Mehr Rentner und mehr Teilzeit werden zum Problem für Krankenkassen - Handelsblatt",
-      "summary_de": "GKV: Mehr Rentner und mehr Teilzeit werden zum Problem für Krankenkassen &nbsp;&nbsp; Handelsblatt",
+      "title": "GKV: Mehr Rentner und mehr Teilzeit werden zum Problem für Krankenkassen - handelsblatt.com",
+      "summary_de": "GKV: Mehr Rentner und mehr Teilzeit werden zum Problem für Krankenkassen &nbsp;&nbsp; handelsblatt.com",
       "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc3NFV0dwR2dLT2JjUmRkUE5RQm53MXFuUDhXQ3dmV2QxSDBxcTFFMk4zeDJUczB2cFJGWjFtVkd2V0tfa0Q0Z3dndkpkdTNpazU0MmNqMmtQcW9EVDBnbms4V1lJQy1XeVdaVFJtSXUtSnZFXzViRU5RWW1sWURabm41TllXSjJvZFhtY0RCNnl0czZ4VlgxUmt3YVB0TEJHTjF2RnNrdVdodWN3OFJEZFExX1p0WjZhUmJ0RW9jX0V0V1Z0NS0yaW1HMnJWbW16ZnE0Z3Zn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-12T07:00:00+00:00",
@@ -2203,8 +2173,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik: Bundestag beschließt Änderungen an Klinikreform - Handelsblatt",
-      "summary_de": "Gesundheitspolitik: Bundestag beschließt Änderungen an Klinikreform &nbsp;&nbsp; Handelsblatt",
+      "title": "Gesundheitspolitik: Bundestag beschließt Änderungen an Klinikreform - handelsblatt.com",
+      "summary_de": "Gesundheitspolitik: Bundestag beschließt Änderungen an Klinikreform &nbsp;&nbsp; handelsblatt.com",
       "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV2tMcG41d3BlSm9kbk01UFZHcGVKa3VBaDVObE9DSE1LbVh3V1NPckZCTkpNR0RSY3VleDR2ZHRJaktIWmVKTUtVY1B5ZVAxSGRuTnB5Y0d6cDhtaTg2cFFJTExueFhKdzQ1a0QwNHBNeDZhLWNxaDRPdFY1eE8tQ1ZDYWpzaTU1Z1ktVDZET0pGbGRlQ2xUVHg3SldJSzA4aFJQemVVWVFaaGV2VmszQlRqNmlrR1B3Ymd3b0pUOGI5bWRzd0lFelRYcmo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-06T08:00:00+00:00",
@@ -2245,8 +2215,8 @@
       "type": "News"
     },
     {
-      "title": "Roboter im Krankenhaus | Zukunft der Klinik-Logistik - Handelsblatt",
-      "summary_de": "Roboter im Krankenhaus | Zukunft der Klinik-Logistik &nbsp;&nbsp; Handelsblatt",
+      "title": "Roboter im Krankenhaus | Zukunft der Klinik-Logistik - handelsblatt.com",
+      "summary_de": "Roboter im Krankenhaus | Zukunft der Klinik-Logistik &nbsp;&nbsp; handelsblatt.com",
       "source_name": "\"site:handelsblatt.com gesundheitswirtschaft\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14elFFOVBqZG5oRVc5bG1aYnJLa01kWGN2Y05kMWVlSy00cWpOdmdMLXhKWm5HNEpzTE5EVUtRTkdPYW5FbEt1U1QzX2dQOGFNbTBlb1JYdzBOem5rdnI0NjRxT0tLbVdXc2Y5bXRVaVBYdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-05T08:00:00+00:00",
@@ -2395,8 +2365,8 @@
       "type": "News"
     },
     {
-      "title": "Akuter Notfall: Viele Herzschwäche-Patienten landen mehrfach im Krankenhaus - Handelsblatt",
-      "summary_de": "Akuter Notfall: Viele Herzschwäche-Patienten landen mehrfach im Krankenhaus &nbsp;&nbsp; Handelsblatt",
+      "title": "Akuter Notfall: Viele Herzschwäche-Patienten landen mehrfach im Krankenhaus - handelsblatt.com",
+      "summary_de": "Akuter Notfall: Viele Herzschwäche-Patienten landen mehrfach im Krankenhaus &nbsp;&nbsp; handelsblatt.com",
       "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkJqME1vTGlGaXR3ZjNkd2VEeHItVDdNZUcyVmlmUG02QWJ5ZzFXVXRGaGczTnNuT0ZWOVBmT0Q4ajd3WGgydWU5Wmp4UWNhZ2V3Unp0akpFNmdtb0xld0NkM2M0UUd0ZzFQMUNjMXFSVHJRMEV6dUNZdllYcjZIcm9lS0k4SVk4TDBZOXVOaUt6OFRxUzJIOGNydjByMlB4eDNoZEtJeWVxYXJxTXNRdldMREZ5MHRlV253bGN1Q1o?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-28T08:00:00+00:00",
@@ -2449,8 +2419,8 @@
       "type": "News"
     },
     {
-      "title": "Qualitätsindikatoren | Medizinische Klinik IV: Pneumologie, Beatmungs- und Schlafmedizin | in 45770 Marl - HEK",
-      "summary_de": "Qualitätsindikatoren | Medizinische Klinik IV: Pneumologie, Beatmungs- und Schlafmedizin | in 45770 Marl &nbsp;&nbsp; HEK",
+      "title": "Qualitätsindikatoren | Medizinische Klinik IV: Pneumologie, Beatmungs- und Schlafmedizin | in 45770 Marl - klinikfinder.hek.de",
+      "summary_de": "Qualitätsindikatoren | Medizinische Klinik IV: Pneumologie, Beatmungs- und Schlafmedizin | in 45770 Marl &nbsp;&nbsp; klinikfinder.hek.de",
       "source_name": "\"site:hek.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNbDdUZlpiWFdYVGNXbWh0UWtSTVdfSUhDNzdBOW9VTEhhWkFCa2lxM2hCTlAyS04wbU9jVlZ3amU4NUFncGJQSEw4RF9oTHlNQ05zMC1lTXBSU3V5WlNLSkpuc2pvTEprYVE5Y21NdXloVEtoYTI1V2p2NThQS3NISklzMTJrR01zMlg5cWFMaTFnUmk4MHNRWXBWTzRlSXhoRnpScTBwQkoxSWtjNFpVQjVIMmVTTDRVVUtSS3psSEc1bE4zNGo0dHN6OUN1NEh5SXQtV0tWLUVOc2tfeE9LV3dhaHFXenp6X0pvUENXRHJmVUp3MXpUaXBMU0ItZHlmX25NS05QQUdiblNtQUhicXcyUEpXTjdub3Q4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-27T04:04:31+00:00",
@@ -2551,21 +2521,21 @@
       "type": "Studie"
     },
     {
-      "title": "Gesundheit: Krankenhausreform droht ausgebremst zu werden - Handelsblatt",
-      "summary_de": "Gesundheit: Krankenhausreform droht ausgebremst zu werden &nbsp;&nbsp; Handelsblatt",
-      "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVy1GblVpb3Fnb25HX2t3NVNnZWNlM0lPWDBuMGN0U0xtNXpKb09WMjlXUTdsZE53a195Y0V6ZTgtNWRSME9OX2UtNEhJcHZuc2FFMFhDaVp3MllmM2FmT3NIX21BU0lkMFlGU2pIb2tzVUhRN1FyWnpCRUpPbjBxeDNQZTBseG9pWThOWEFQaE1VMTVpX1ZWZFo2SS0zdnhmUTkwSXlGY2NDNU12bGl4eHc5UFpHY1lseHBTaQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "title": "Impfung gegen Meningokokken - Techniker Krankenkasse",
+      "summary_de": "Impfung gegen Meningokokken &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNm9vc3dtbi0zZFNvaVZtQlgzSnAyRXE4eHZiXzRKQ0FNMjNHdDdQQW9iUFNzeEN6SGtHRXlqUVIxd0laYU1HQ2RoLUwycmpDQXkyMHBoanBjUEJzcDdpVzZGRXFBbHh4TEF2cXlGbVNYVzl0clBIQ0FvQ0tpWmttRFIyQl9oQmVMYnAtVkl0bGx1NldqUVV6Q19OVUxnci1kMDBVajlZMEcyVzJxRkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-23T08:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Aufbewahrungsfristen: Was Sie 2026 entsorgen können | Die Techniker - Firmenkunden - Techniker Krankenkasse",
-      "summary_de": "Aufbewahrungsfristen: Was Sie 2026 entsorgen können | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcmNlQ2MwdndFQ3pJdkVVSmVXVURSWkRpVjVuSTVYNG0zdUVSMTF5dDNob3dtYUw3NlBIN2cxTmpDTUlKR3BENWZEbXlEWGNFY1F6TlVMWVNoajd4ek1GY1BuVDM1NWZxUUFKUWNCM2I3akd2Q3k2T2lTMVJEaGMzXzJ0RVQwdEZqa1RPSjhrQXI1NFM1UEdlOHhUTk1OSXAxeUpuZUZrbFRreWo1R1MyNWRYM3Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-02-20T08:00:00+00:00",
+      "title": "Gesundheit: Krankenhausreform droht ausgebremst zu werden - handelsblatt.com",
+      "summary_de": "Gesundheit: Krankenhausreform droht ausgebremst zu werden &nbsp;&nbsp; handelsblatt.com",
+      "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVy1GblVpb3Fnb25HX2t3NVNnZWNlM0lPWDBuMGN0U0xtNXpKb09WMjlXUTdsZE53a195Y0V6ZTgtNWRSME9OX2UtNEhJcHZuc2FFMFhDaVp3MllmM2FmT3NIX21BU0lkMFlGU2pIb2tzVUhRN1FyWnpCRUpPbjBxeDNQZTBseG9pWThOWEFQaE1VMTVpX1ZWZFo2SS0zdnhmUTkwSXlGY2NDNU12bGl4eHc5UFpHY1lseHBTaQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-23T08:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -2607,6 +2577,16 @@
       "source_url": "https://www.efsa.europa.eu/en/news/efsa-finds-sucralose-safe-when-used-currently-authorised-cannot-confirm-safety-extending-its",
       "published_at": "2026-02-17T10:03:17+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Ihr Portal für Digitale Gesundheit - Barmer",
+      "summary_de": "Ihr Portal für Digitale Gesundheit &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDTWN3bVQtWVZ3X29IVmZUSGR2dXYzWlZiczJvT0NHVkNfdTBsdklrNE5fc1BOU2dVUFcyN01GMld4N3E2eGpLbnlzQlFPd21fUVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-02-16T08:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     }
