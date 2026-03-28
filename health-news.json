@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-28T15:24:18.870364+00:00",
+  "generated_at": "2026-03-28T18:30:26.010899+00:00",
   "window_days": 42,
-  "count": 242,
+  "count": 244,
   "items": [
     {
       "title": "Prinz William: Ruiniert der Herzog von Cornwall den Bauern die mentale Gesundheit? - Spiegel",
@@ -44,14 +44,34 @@
       "type": "News"
     },
     {
-      "title": "Polizeieinsatz: 64-Jähriger nach Polizeischüssen im Krankenhaus - zeit.de",
-      "summary_de": "Polizeieinsatz: 64-Jähriger nach Polizeischüssen im Krankenhaus &nbsp;&nbsp; zeit.de",
+      "title": "Polizeieinsatz: 64-Jähriger nach Polizeischüssen im Krankenhaus - DIE ZEIT",
+      "summary_de": "Polizeieinsatz: 64-Jähriger nach Polizeischüssen im Krankenhaus &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcEJLZUV4NW9FVHFkRVJweVJmWW1yZ3RaQ25WSDRCQVNMTHJNVGc0SExnMjJISDJIdzJFaDEtdnpPX0Y1V1pVS292bTRpZTFqeVpCM3VtM290dFV6NDdwblZTT25PREhieTY4UktEM0k0SDY1bV9XbzdHcFlWVTVUYmpRbmNCSmFzMG1ueU53?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-27T21:23:19+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Researchers to develop 'patient-centered' imaging assessment tool",
+      "summary_de": "The instrument will allow clinicians to \"compare diagnostic strategies on patient-relevant endpoints,\" researchers noted.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/practice-management/article/15820780/researchers-to-develop-patientcentered-imaging-assessment-tool",
+      "published_at": "2026-03-27T17:45:11+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Week in Review: New FAPI-PET tracer | RT aides and interventional procedures | TEE-guided CPR",
+      "summary_de": "Our top story this week reported on research on a new fibroblast activation protein inhibitor (FAPI)-PET radiotracer.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15820770/week-in-review-new-fapi-tracer-rt-aides-and-interventional-procedures-teeguided-cpr",
+      "published_at": "2026-03-27T17:29:44+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "Kleinzelliger Lungenkrebs: Zwei neue Wirkstoffe vor der Zulassung",
@@ -80,6 +100,16 @@
       "source_url": "https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations",
       "published_at": "2026-03-27T15:33:31+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Hill Day 2026 highlights weight of imaging data in biomedical research",
+      "summary_de": "'All of us are frustrated with the gap between what patients receive on a routine basis and where the research community is ...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/imaging-informatics/article/15820591/hill-day-2026-highlights-imaging-data-weight-in-biomedical-research",
+      "published_at": "2026-03-27T15:22:05+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -390,6 +420,16 @@
       "type": "News"
     },
     {
+      "title": "Could AI help standardize MSK ultrasound?",
+      "summary_de": "An AI algorithm showed success in providing accurate, real-time guidance for shoulder imaging.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ultrasound/article/15820786/could-ai-help-standardize-msk-ultrasound",
+      "published_at": "2026-03-27T06:20:55+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Sicher arbeiten: Multitasking ist Gift für Präzisionsarbeit",
       "summary_de": "Wer Wert darauf legt, fehlerfrei zu arbeiten, sollte anstehende Aufgaben besser hintereinander erledigen. Eine neue Studie zeigt: Selbst mit viel &Uuml;bung gelingt es dem Gehirn nicht wirklich, zwei Aufgaben sicher parallel durchzuf&uuml;hren.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -410,12 +450,22 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik: Miersch fordert Anspruch auf raschen Facharzttermin - zeit.de",
-      "summary_de": "Gesundheitspolitik: Miersch fordert Anspruch auf raschen Facharzttermin &nbsp;&nbsp; zeit.de",
+      "title": "Gesundheitspolitik: Miersch fordert Anspruch auf raschen Facharzttermin - DIE ZEIT",
+      "summary_de": "Gesundheitspolitik: Miersch fordert Anspruch auf raschen Facharzttermin &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbklNdXRxeTVsaFBYOHh5bEJsNU9EeGxHdTZfRC1LVm1DQ0VHMW1BWEozbl9VY3dNeEdjNUZ6YU12clRNMi1ocXpCYkNPUEFiUG9qX05zTEFrRDNDVE1uWVdtNktEODRZbF9GZElKVDZZTjU5bVJHTlFZVS1oODk2WUdQOEh6V21LdzJzN2dmbkZ1dHJhQ1FndmhR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-27T00:10:03+00:00",
       "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "SonoSim launches breast ultrasound simulation training module",
+      "summary_de": "SonoSim has launched a training module for healthcare learners in breast ultrasound imaging.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15820657/sonosim-launches-breast-ultrasound-simulation-training-module",
+      "published_at": "2026-03-26T17:04:20+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -464,6 +514,16 @@
       "type": "News"
     },
     {
+      "title": "Philips wins FDA clearance for AI-guided mitral valve repair software",
+      "summary_de": "Philips has received FDA clearance for the EchoNavigator R5.0 with DeviceGuide AI software for M-TEER procedures.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15820654/philips-philips-wins-fda-clearance-for-aiguided-mitral-valve-repair-software",
+      "published_at": "2026-03-26T16:07:16+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gesundheitskosten - 1.000 Psychotherapeuten demonstrieren gegen Honorarkürzungen - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Gesundheitskosten - 1.000 Psychotherapeuten demonstrieren gegen Honorarkürzungen - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -500,6 +560,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-2632026-163973/",
       "published_at": "2026-03-26T15:00:00+00:00",
       "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Novel AI-enhanced MRI algorithm helps assess left ventricular function",
+      "summary_de": "A study's findings could improve imaging results for patients with arrythmia.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15820588/novel-aienhanced-mri-algorithm-helps-assess-left-ventricular-function",
+      "published_at": "2026-03-26T14:59:45+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -784,6 +854,16 @@
       "type": "News"
     },
     {
+      "title": "PET reveals disease activity in autoimmune encephalitis",
+      "summary_de": "PET revealed brain region-specific astrogliosis corresponding to clinical manifestations and disease severity.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15820714/pet-reveals-disease-activity-in-autoimmune-encephalitis",
+      "published_at": "2026-03-26T08:00:57+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Schädigung der Gesundheit: EU-Chemiebehörde empfiehlt Verbot von PFAS-Chemikalien – mit Ausnahmen - RP Online",
       "summary_de": "Schädigung der Gesundheit: EU-Chemiebehörde empfiehlt Verbot von PFAS-Chemikalien – mit Ausnahmen &nbsp;&nbsp; RP Online",
       "source_name": "\"site:rp-online.de radiologie\" - Google News",
@@ -804,11 +884,11 @@
       "type": "News"
     },
     {
-      "title": "Tarifstreit - Zweitägiger Warnstreik an Vivantes Kliniken beginnt - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Tarifstreit - Zweitägiger Warnstreik an Vivantes Kliniken beginnt - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMTFjcGxNc2E1SnJVWHkxcGl1ZFRiRGE3N2hmcDBHb2E3bDJqelA0Wks1V3JJT0tWZ2xmUnpVZl96M1N0RFljdmFqQlVncmpHY0VpYmdRRVJTVGNoUjhSODROcFMtMTB0enh6eWpOcG16M21PQjc3c2lmTFBLTV9LSnMybWgyeU1UV09Mb2Q3UHJEMWxDX3lSQjk4bFBQbUZrc0VleHE2Z3dQR1BIb21hMGhrSmdRTFJpY3BndjNlVGVqZ0pzQTVrdFZlN1ZSY3JVSnJLYy10T19zVmxveU82TGVicnpzeVhv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-26T05:47:02+00:00",
+      "title": "Mammography use declining among some groups of women",
+      "summary_de": "Non-Hispanic white, Asian, and uninsured women ages 40 to 49 years used mammography less between 2010 and 2022.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15820644/mammography-use-declining-among-some-groups-of-women",
+      "published_at": "2026-03-26T06:02:40+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -834,8 +914,8 @@
       "type": "Studie"
     },
     {
-      "title": "Gesundheit: 17-Jähriger sprüht Pfefferspray in Linienbus - zeit.de",
-      "summary_de": "Gesundheit: 17-Jähriger sprüht Pfefferspray in Linienbus &nbsp;&nbsp; zeit.de",
+      "title": "Gesundheit: 17-Jähriger sprüht Pfefferspray in Linienbus - DIE ZEIT",
+      "summary_de": "Gesundheit: 17-Jähriger sprüht Pfefferspray in Linienbus &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRl9RQi0zS3NkY1NjY2J4LWxzeWoxcGowVm5KcXFQN1B2SFFyVkkxVEZOUnhwcEdzSU5ORld0ZUg1Mnc2S2NvVDA1Z1BhYVNqY0QwUnlxMzdzZERJLUlLcUJzcFcyRmxmc05VeGtSTFNqRTJhaWJXNkJQYzBHY2xCaW40bUF0aVVhSFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-25T19:18:18+00:00",
@@ -884,8 +964,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Barmer: Menschen in Bayern schlafen zunehmend schlechter - zeit.de",
-      "summary_de": "Gesundheit: Barmer: Menschen in Bayern schlafen zunehmend schlechter &nbsp;&nbsp; zeit.de",
+      "title": "Gesundheit: Barmer: Menschen in Bayern schlafen zunehmend schlechter - DIE ZEIT",
+      "summary_de": "Gesundheit: Barmer: Menschen in Bayern schlafen zunehmend schlechter &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdDZwVlZwb0ZCb0I0UGpfX0JYeUMxRWNQYTJxX2FyZkVtLV9HZ2ozempLYUlxUjZ4c1dMVmxjREgxU2xzdzBPQmMxbUVQcWMxSTU1bjJlV2xOQ19qdlRzNlY4VF9WYTV2ZWdyTmI3aTd1ZDc3UEt5dHZqSF9RT3QwcHVDMzFTa1BHVDBpZjl5VU5pZVI1enc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-25T14:37:22+00:00",
@@ -924,8 +1004,8 @@
       "type": "News"
     },
     {
-      "title": "Pharma: Pharmakonzern Boehringer setzt auf Standort Deutschland - zeit.de",
-      "summary_de": "Pharma: Pharmakonzern Boehringer setzt auf Standort Deutschland &nbsp;&nbsp; zeit.de",
+      "title": "Pharma: Pharmakonzern Boehringer setzt auf Standort Deutschland - DIE ZEIT",
+      "summary_de": "Pharma: Pharmakonzern Boehringer setzt auf Standort Deutschland &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPekd4SldyY05DdXZCLTUycjRSbzFncXFEbl9YS1Q1LTJrc05McW5mR2JZcGh1Q184eVEyMDI3bkVpUGNfWGxpQm1HdjFIUzJPMkt0Q0hZT1dIZFhIQm15YXA0VDdZZUIwSGhpdnV6YWk0dldiZFVnV0hUTHBIVGRVOFhjTWFEZnZFQTBIWk8yQVJzZThEcFFtM0N3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-25T13:39:16+00:00",
@@ -956,16 +1036,6 @@
       "type": "Studie"
     },
     {
-      "title": "Ermittlungen laufen - Schärfere Regeln für Maßregelvollzug nach Missbrauchsvorwurf - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Ermittlungen laufen - Schärfere Regeln für Maßregelvollzug nach Missbrauchsvorwurf - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQNjJLNDE3M0k0N2dac044cVUtRlVEZ0xMT1I1MTFibTc5dlFRdkh2V09FaE51ZzljUkdpMDVEVVhzbnBTenNiX2FtaFlFWnQ5bnVrVHpCclNZdlZ2NFlzaVhJYk82VDZmck9qYzU2dmpIRDVuTHhieTZrSkxGUTlkbGxoYTBJQmYxSXZ3RGNnQVFIaFRsYlk1WEdNaWlEb3VPTVFZbk1sX0hmWjlGLU5XMGJJbGRnS3BWc1lEdGZ2MDZHaDNFOVhjUjVZUHM0dV9BaEpQVDVvUklIS3E3alVlQncxdGE2U0duNjNyUTJjM2stTFZkNFJDTHNISlVBaTNfSmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-25T12:20:24+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "MHRA approach to medicines using non-animal methods",
       "summary_de": "Approach to MHRA’s assessment of applications for medicines that use alternative methods to replace animals in science",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -976,11 +1046,11 @@
       "type": "News"
     },
     {
-      "title": "Sicherheit und Gesundheit bei der Arbeit erhöhen Deutschlands Krisenfestigkeit / DGUV Barometer Arbeitswelt 2026: Hohe Zustimmung für Prävention, Zahl der Arbeitsunfälle rückläufig - SZ.de",
-      "summary_de": "Sicherheit und Gesundheit bei der Arbeit erhöhen Deutschlands Krisenfestigkeit / DGUV Barometer Arbeitswelt 2026: Hohe Zustimmung für Prävention, Zahl der Arbeitsunfälle rückläufig &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRzU4Y2Y3aThqV2oxY0NiNHloanRVMjFsY2lQTHI0UXZOV1hPbFFRYVJfMGtSTDJTSzYxSlE4QUFSOWZhNm1NWGN2QzNDTzdOb3BGYURIb1VWSEF4R3lkMVZHZmdrZS1BbkE5Tk8yS2ZxdTNEcmJmdVhGaUxRMEZkazg1TE1rV2IxSTU2bnd5WUVmRWgyQlo3RldPc9IBoAFBVV95cUxOejRxMlFJei1naVVuRzUyUGUtSURIUlFYS0FiN29Zb19qdVBMcm40V1NBWXJxSnNPVm5oM2t2VTZxczdJS1ZkYmJ4bTlfcVlCNEZ3aFJPUlNPMmhkXzNHczYzakMzdk9VZ2lja3loeEhNdGxEcUZxcHBPNGstVzEzUU1ULUdldzlCZ0pjMDNRMVk2ME9NckFKVDZ0UURzTl9n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-25T09:00:00+00:00",
+      "title": "Sclerotherapy spares ovarian reserve without loss of therapeutic efficacy",
+      "summary_de": "The results offer evidence that supports sclerotherapy as an ovary-sparing alternative to surgery for selected patients.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/interventional/article/15820564/sclerotherapy-spares-ovarian-reserve-without-loss-of-therapeutic-efficacy",
+      "published_at": "2026-03-25T07:26:27+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1130,8 +1200,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Protesttag bei Apotheken - Tausende bei Kundgebung - zeit.de",
-      "summary_de": "Gesundheit: Protesttag bei Apotheken - Tausende bei Kundgebung &nbsp;&nbsp; zeit.de",
+      "title": "Gesundheit: Protesttag bei Apotheken - Tausende bei Kundgebung - DIE ZEIT",
+      "summary_de": "Gesundheit: Protesttag bei Apotheken - Tausende bei Kundgebung &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMkZTalh0cGM1d2lydlpfaXBXZGZKejhpNThiUEVuT1JhR0o0OTFEa1pHT0FZS2k0WXJzNVdPc0E2VlBvR0Fpdk43WUJUekhVMTJWcFJsUm9HRjNqMzBzY0RTdDVxTWRpTlloZ2w4Rm83Mks5VHE5YnpGdmtNNFF1QXFvSHQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-23T18:59:06+00:00",
@@ -1224,8 +1294,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Viele Apotheken wegen Protesttag geschlossen - zeit.de",
-      "summary_de": "Gesundheit: Viele Apotheken wegen Protesttag geschlossen &nbsp;&nbsp; zeit.de",
+      "title": "Gesundheit: Viele Apotheken wegen Protesttag geschlossen - DIE ZEIT",
+      "summary_de": "Gesundheit: Viele Apotheken wegen Protesttag geschlossen &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSURZX1Yxcmt5dTMyWDBPcVNJZEZod1JHdFVZRENtZ1RQX01Tc0RWSm5sT0RJNC02UnZhUXZUQTM1ZGdSR2ZNTkVBbHZ4Unp3YUVrVmttajdVXzhDNUxXaE5Sck51Rm5lMExVMlB3M3lqbEpnUXVKUDN4WWlTUWNHV2JjMGRyOWs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-23T04:00:10+00:00",
@@ -1264,16 +1334,6 @@
       "type": "News"
     },
     {
-      "title": "Arzt und Geschäft: DÄrikatur - Individuelle Gesundheitsleistungen - Deutsches Ärzteblatt",
-      "summary_de": "Arzt und Geschäft: DÄrikatur - Individuelle Gesundheitsleistungen &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQmxnQ0EyLUF3Vk1MOFZZVTA1X1Z5aUJFRzNVRlN2U3FPdWlUMXNGRXhyVVdXckVpWkpsSXNwcFN4d1Z1T3RLVDY1M1hDQlhoemQyNHg2NzRhaG96ejNtMDlfQ1k1bnllNGdsdENHTGhZX2lZLVI3SDUyWlVBR3Q2eVFGVmFzYjR6bmxMTThDSkpnekNPT2N5UGF2SXk0cWkwVVBCRXNMSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-22T05:10:46+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Notaufnahme ab sofort dicht: Krankenhaus Geesthacht schließt früher als geplant - tagesschau.de",
       "summary_de": "Notaufnahme ab sofort dicht: Krankenhaus Geesthacht schließt früher als geplant &nbsp;&nbsp; tagesschau.de",
       "source_name": "\"site:tagesschau.de \"Gesundheitspolitik\"\" - Google News",
@@ -1289,16 +1349,6 @@
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQXJMRVlKRWRQU2hyeW05TEtUeWtPRHB2M2czUHZjMmJ1TUxUTmRkMFFkTTRydXZzcjdEQy1aNFFhOF9aN25DZ25WT0p4bUFCZFVOMVdRaUZrOEdBeE5ZdEFqeU9rQlhRUmVxejQyTDljRUVpd0NYaTQ1VkJTNGI0d1UwZFczeHN6dGxNd21iMXdMYVhhU2JnN3dSTUFPMUFURnh4ZjRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-21T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Innere Medizin und Kardiologie Honorarbasis Stellenangebote in Saarland (0) - ärztestellen",
-      "summary_de": "Innere Medizin und Kardiologie Honorarbasis Stellenangebote in Saarland (0) &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYkgxVUZ4c0JOSmpCWlJFbmJZV2xlaXRmRGI5dzJzcmJFV0ZodHlJRk9NZWIwOHNTa0xHNVRyN0VfVEVCMEYyR1NXQWQwX25FMWNoMWNmVV9VcEJCTWtBRTZYVHAzOHJzc1loX096aHp0RThmaWwtWmlZSDlHU2U1TGt5UnVmZWZBdV8wRy0yQXFjYzJHOE1rM3NQS25QdkVSeFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-20T22:08:30+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1336,8 +1386,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik: Schleswig-Holstein übernimmt Schulden des Uniklinikums - zeit.de",
-      "summary_de": "Gesundheitspolitik: Schleswig-Holstein übernimmt Schulden des Uniklinikums &nbsp;&nbsp; zeit.de",
+      "title": "Gesundheitspolitik: Schleswig-Holstein übernimmt Schulden des Uniklinikums - DIE ZEIT",
+      "summary_de": "Gesundheitspolitik: Schleswig-Holstein übernimmt Schulden des Uniklinikums &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzg4S3ZHRnpwS1hmMkwyeGRFR0E3REp1b1VHNVpUVThYQVYwMk5BbG9oOTdQR2Z2VHFUMmd5cU45NVlFTXhpaHBsUlB1MUFVQTdYXzFOQjF3eHVuNG1pMDd4WU9UemZJQjg3SDBhZ2xvRW5TQjQ0b2xUb2doSEZrVklKUWdTMjZGczlTVzBn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-19T11:17:33+00:00",
@@ -1407,16 +1457,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Klinik für Radiologie - HEK",
-      "summary_de": "Klinik für Radiologie &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObEFObEw0eHI2b2dYVmo1SXhiNzRFanBhdGNJdDc5M0x0dHI4VnRXR2VSTGRmWXAzR3A2UWJVU0ZQME1OT3lIY3lEUFJOLTV0SEVpVXVDaUZiVWtxMWFQY1BJaFo0bnFqUmNSa0tjVUx5dHpQMmxZcUc5dDdxVmZCNWVzQ1RwSlVCRDRZY1NlSjRiVEVuR1JEdjk3SE1yWndCNnhRZ2ViRHhvTGJTM0xfLTE4UEtLNWR1MS04cnRtUHQzczEt?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-19T02:04:05+00:00",
-      "category": "Radiologie",
-      "tags": [],
       "type": "News"
     },
     {
@@ -1490,8 +1530,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik in den USA: US-Gericht stoppt Impfpolitik von Robert F. Kennedy - zeit.de",
-      "summary_de": "Gesundheitspolitik in den USA: US-Gericht stoppt Impfpolitik von Robert F. Kennedy &nbsp;&nbsp; zeit.de",
+      "title": "Gesundheitspolitik in den USA: US-Gericht stoppt Impfpolitik von Robert F. Kennedy - DIE ZEIT",
+      "summary_de": "Gesundheitspolitik in den USA: US-Gericht stoppt Impfpolitik von Robert F. Kennedy &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSTNhMUtLSGFMSjdGcHJ3dFYyYXhxU1FUZDVsRXQwNF8wOGE1UDc1UHRNS3h2eDM3aTFrVGlxWnAwOUJTLUx2OF83cV95TTZRZHJPUk1JZXAtc3NDQnB3R2F6MkhOY0M5ZTZyVjBoUnhlM3pkbDdDUFJtUHJ3MVBOZDUycmF2aXNUdjM2V3hxckdPLXBLM192R25wYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-17T07:00:00+00:00",
@@ -1976,16 +2016,6 @@
       "type": "News"
     },
     {
-      "title": "Unsere Meldungen zur Gesundheitspolitik - BARMER",
-      "summary_de": "Unsere Meldungen zur Gesundheitspolitik &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1POW5DdG5OQjZOT3RqcDFBbUxiUk5CUmdONV9zQUozV3FPaGZrNTlwSVI0R2hyeG03Y1RlcUdlQkMtS2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-11T07:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Topical treatments for chronic plaque psoriasis",
       "summary_de": "Topical treatments for chronic plaque psoriasis",
       "source_name": "Cochrane Library RSS feed.",
@@ -2014,16 +2044,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Login mit Passwort - Techniker Krankenkasse",
-      "summary_de": "Login mit Passwort &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQM2V6V2l0R05WN1lYakxscUtGTkNHS3RqQkdTNU5BSGNrUlpFUFlJTks5Z0tlY1dsY0pTcWZLS1hrSzdVaHo4ZnRObVRNM0lhQ3cxMGNvZkdVY0RfV2pPSnQtLW10bzJ5Z254UDktQWllY0lFemk4UjNuMzhkVWdSYld1YXMtQzJQOFdoODJSY0cyMm5UNHVCZlFhZFVlcnIzamZoNHlJZW5rS3lhU0NmZ2lQZzZaRkRvaTZ6TFdwcjd2MGdUSDZTSUljZ2hISllXaEJMTXNVekNsWVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-10T11:08:34+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "gemeinsame Pressemitteilung: DKG und GKV-SV einigen sich auf Leistungsspektrum der sektorenübergreifenden Versorgungseinrichtungen",
@@ -2061,8 +2081,8 @@
       "type": "News"
     },
     {
-      "title": "Kunst und Gesundheit: Gucken Sie sich diese Bilder genau an. Ist gut für Ihre Gesundheit! - zeit.de",
-      "summary_de": "Kunst und Gesundheit: Gucken Sie sich diese Bilder genau an. Ist gut für Ihre Gesundheit! &nbsp;&nbsp; zeit.de",
+      "title": "Kunst und Gesundheit: Gucken Sie sich diese Bilder genau an. Ist gut für Ihre Gesundheit! - DIE ZEIT",
+      "summary_de": "Kunst und Gesundheit: Gucken Sie sich diese Bilder genau an. Ist gut für Ihre Gesundheit! &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON29nVy1pZFhTck9DQmVKRC1Yd2Y0aWZOQThHUnk4bTFzT3FDV0RCUWw0eE9Wc0duLTFHcDZ3SVV5Y0M3VFBDOVlnN3lBNnh0V2VoYmtwVWFlMU1McmZUZ1FwRDZMem1WaWVEVk9ab1JXNzdBckJUd01ybnRjOGREb04yNUVRb0VQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-08T08:00:00+00:00",
@@ -2167,8 +2187,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik: Land unterstützt UKSH und übernimmt Schulden - zeit.de",
-      "summary_de": "Gesundheitspolitik: Land unterstützt UKSH und übernimmt Schulden &nbsp;&nbsp; zeit.de",
+      "title": "Gesundheitspolitik: Land unterstützt UKSH und übernimmt Schulden - DIE ZEIT",
+      "summary_de": "Gesundheitspolitik: Land unterstützt UKSH und übernimmt Schulden &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVjd5U09jZDFwT252b1JHR3llNTJ0LURZM0luSlR6Uy01S0N6aFdTT2ZsQ3ljVGZfTXZyTjctU05SZjhlQUNwTjcyY2tOM0xHcWZ6TE9XemxXb3d1TzNkM2dOeXlQeTM1YUdPMXgycmNFY05HWWQ0RlhFT09qTkVra0pic0d3RXJfTVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-04T08:00:00+00:00",
@@ -2177,8 +2197,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik: Schleswig-Holstein entlastet Uniklinik finanziell - zeit.de",
-      "summary_de": "Gesundheitspolitik: Schleswig-Holstein entlastet Uniklinik finanziell &nbsp;&nbsp; zeit.de",
+      "title": "Gesundheitspolitik: Schleswig-Holstein entlastet Uniklinik finanziell - DIE ZEIT",
+      "summary_de": "Gesundheitspolitik: Schleswig-Holstein entlastet Uniklinik finanziell &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGRqR0NzMmNNMU5haXloaUt1eW9Bb0h5SGMxdldoc0t1dWtRZEM5dmJacVJPa0RDa1BpemNQcVZ6WTNfeTZ2eTJtek05eEM5djhTaldKUVZRdWlvM1dZXzJ3elI0ZzNJVklOcF8tUzI3V20zb3hZMXlFcVFZNTlwTmczaXpaQnppNm9jeGhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-04T08:00:00+00:00",
@@ -2491,8 +2511,8 @@
       "type": "News"
     },
     {
-      "title": "Ihr Portal für Digitale Gesundheit - BARMER",
-      "summary_de": "Ihr Portal für Digitale Gesundheit &nbsp;&nbsp; BARMER",
+      "title": "Ihr Portal für Digitale Gesundheit - Barmer",
+      "summary_de": "Ihr Portal für Digitale Gesundheit &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDTWN3bVQtWVZ3X29IVmZUSGR2dXYzWlZiczJvT0NHVkNfdTBsdklrNE5fc1BOU2dVUFcyN01GMld4N3E2eGpLbnlzQlFPd21fUVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-16T08:00:00+00:00",
