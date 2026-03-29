@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-29T09:30:08.972167+00:00",
+  "generated_at": "2026-03-29T12:38:41.781920+00:00",
   "window_days": 42,
-  "count": 244,
+  "count": 238,
   "items": [
     {
       "title": "Sozialkosten - Der Kampf um die Gesundheitsmilliarden - Gesundheit - SZ.de - SZ.de",
@@ -20,16 +20,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/innovationen-auf-der-haut-163951/",
       "published_at": "2026-03-29T06:00:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Unfälle: Fußgänger stirbt nach Unfall in Klinik - DIE ZEIT",
-      "summary_de": "Unfälle: Fußgänger stirbt nach Unfall in Klinik &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb09fdkxUd18tR1NFRGswMkxUekFCVnlnRVJrbFVfdFNpRWl1NmpWMThFTWw1VEF0TnhzdE9MMU9DR05FZnYwZ1FPdzlrZnhKRTNIOGhpcGExZ3BVRmE5c01iVGF6c280NzA1Tk1zemxQSk8xT2M2eUdlWmd4Sjdnbjln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-29T05:56:39+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -416,6 +406,16 @@
       "type": "News"
     },
     {
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-27T08:46:45+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "»Bonus-Malus-System«: SPD fordert Termingarantie bei Fachärzten",
       "summary_de": "SPD-Fraktionschef Matthias Miersch fordert einen gesetzlichen Anspruch auf einen zeitnahen Termin beim Facharzt. Den Praxen sollen demnach Anreize gesetzt werden. Eine solche Termingarantie hatte schon der ehemalige Bundesgesundheitsminister Karl Lauterbach (SPD) gefordert.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -478,16 +478,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Gesundheitspolitik: Miersch fordert Anspruch auf raschen Facharzttermin - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Miersch fordert Anspruch auf raschen Facharzttermin &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbklNdXRxeTVsaFBYOHh5bEJsNU9EeGxHdTZfRC1LVm1DQ0VHMW1BWEozbl9VY3dNeEdjNUZ6YU12clRNMi1ocXpCYkNPUEFiUG9qX05zTEFrRDNDVE1uWVdtNktEODRZbF9GZElKVDZZTjU5bVJHTlFZVS1oODk2WUdQOEh6V21LdzJzN2dmbkZ1dHJhQ1FndmhR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-27T00:10:03+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "SonoSim launches breast ultrasound simulation training module",
@@ -1076,8 +1066,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Ende der Mitversicherung löst Probleme der Krankenkassen nicht - handelsblatt.com",
-      "summary_de": "Gesundheit: Ende der Mitversicherung löst Probleme der Krankenkassen nicht &nbsp;&nbsp; handelsblatt.com",
+      "title": "Gesundheit: Ende der Mitversicherung löst Probleme der Krankenkassen nicht - Handelsblatt",
+      "summary_de": "Gesundheit: Ende der Mitversicherung löst Probleme der Krankenkassen nicht &nbsp;&nbsp; Handelsblatt",
       "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQclRrSEJ0TmE2WlBIUXVsc1ZWbDNkR09JZlVKZEhvRnlySzV4dnJJZVVmWVIwM0szdTNwQTBrZjhxeWljd1hkc0kyaENEYkV4MnpSOXRGb0VjdWxDeTBBZ0E0VFJnOHMzcU81MGM3eVViREpYbHA0RHk3dlRvYkRXSS1qcV80aWkzYjN2d2lhbTQ3ejc3SkliazU0TE01cnQ4UVlIYncwWGtMblVWUkcwMmUxWlhFcnl0dzRKR2V5elpkcjhUbjgtTnBTbUZ5Y0M2TzNJbg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-24T15:44:24+00:00",
@@ -1284,8 +1274,8 @@
       "type": "News"
     },
     {
-      "title": "„Gesundheit für die Vergessenen“: Wie Erkelenzer Ärzte in Burundi helfen - RP Online",
-      "summary_de": "„Gesundheit für die Vergessenen“: Wie Erkelenzer Ärzte in Burundi helfen &nbsp;&nbsp; RP Online",
+      "title": "„Gesundheit für die Vergessenen“: Wie Erkelenzer Ärzte in Burundi helfen - rp-online.de",
+      "summary_de": "„Gesundheit für die Vergessenen“: Wie Erkelenzer Ärzte in Burundi helfen &nbsp;&nbsp; rp-online.de",
       "source_name": "\"site:rp-online.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdWdYVEZvSjkyN2NJc2VyRWlaN3ZKNUlxWlBVQUNSanFmYXNSYkZYRS1aV1dmV0x3UHROSG9FVFVYdEF1RWQ1SWxRcDlTc1BuaGRCQ1NDRjlza2k3WmxKcm5IbnQtWnkxVWdjb3VYTzFCaU1HTVBuLUlIRFltcXYxZWdoVk84MWRnem9uOGdvUnc0ZnZqNWtRNkJ1VQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-23T04:10:00+00:00",
@@ -1310,16 +1300,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxON2RBX2pnRFNPbEw2MGxRbnBVdFNBOUdUZFZwZXBibEJWbVg1N19ZN0JGUXBIRGtjck9reENSQWs5NnZTaG5JdHBPd0libU1Yc0llcS1IS18yS0c2bHpsWVVoZTFVWUxQdlR4b1RIZ3B0ZHMtQlNjbUNEd1ZDS3JvR01jM2pzUmpJd25IVnFtb2thX1d6Rk8zcmVFSnc5eFo1MXlBVkg4OXN5SDFLUTg3eEFzY3RFVEVuVVI1U1RMSnRNa2N5TlA1WGN0RXFPTHRrRl9CRmVmQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-23T04:00:10+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Apothekenprotest - Protest legt Apotheken lahm – Notdienste sichern Versorgung - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Apothekenprotest - Protest legt Apotheken lahm – Notdienste sichern Versorgung - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQelNJa29KOGtBRWNWeG5QQ2dZM3ZuTmJ1cmpiaXJPUlE4U1hmS2ExTk1UX05JMk40cUx1RVY0Q2t2ZGQ3Tk5MU2tIZl9Wbkh0cnhnS3k1anFyLUV3Ni1LbENLRjQ4SVZha3B4Um9Nb19yOFBBWU5XRjUzNkdyVUxGQm9fQ0FiNVJJV0t3cnNLZWFXSmpGTV9OOFE0TWJ1ZXdUS2RsTkg3RnotU1JiYVB5bVJoUm1xb1J3SUlSN2t0SW1lUEdpQlJ2N1MtUHEwcGliY3U5Q1NPQWVoNmJpWnNqczdyTnFKdTVRTy0xZUJyaVFWb1FGNnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-22T10:06:20+00:00",
-      "category": "Versorgung",
       "tags": [],
       "type": "News"
     },
@@ -1372,16 +1352,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWE9wVWsxLU5nLUE2ZTFVb2tjcjQzalY2WFltUTZrOUdXemt4clQ2MHp6TVhkR0lmem94MXF1LVNmZHFIXzdVQ29BU2dWVlFiRk8yUEJLR2xHZWFrMmMyVmZYS2NOUklMMm5mQTk4QXBnTGNNdGY5Wl9nNXFqM0RWNVpjelNONUpZQUNQd2R4VkdsOXN0ekNZdVMxWW9OMWpVSzBtWlZsendhcndiNHNseWoydDgwd3dRMEh0bkpHamhtZW1jTWEzT0V2Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-20T07:00:00+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheitspolitik: Schleswig-Holstein übernimmt Schulden des Uniklinikums - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Schleswig-Holstein übernimmt Schulden des Uniklinikums &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzg4S3ZHRnpwS1hmMkwyeGRFR0E3REp1b1VHNVpUVThYQVYwMk5BbG9oOTdQR2Z2VHFUMmd5cU45NVlFTXhpaHBsUlB1MUFVQTdYXzFOQjF3eHVuNG1pMDd4WU9UemZJQjg3SDBhZ2xvRW5TQjQ0b2xUb2doSEZrVklKUWdTMjZGczlTVzBn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-19T11:17:33+00:00",
-      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -1447,16 +1417,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Klinik für Radiologie - HEK",
-      "summary_de": "Klinik für Radiologie &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObEFObEw0eHI2b2dYVmo1SXhiNzRFanBhdGNJdDc5M0x0dHI4VnRXR2VSTGRmWXAzR3A2UWJVU0ZQME1OT3lIY3lEUFJOLTV0SEVpVXVDaUZiVWtxMWFQY1BJaFo0bnFqUmNSa0tjVUx5dHpQMmxZcUc5dDdxVmZCNWVzQ1RwSlVCRDRZY1NlSjRiVEVuR1JEdjk3SE1yWndCNnhRZ2ViRHhvTGJTM0xfLTE4UEtLNWR1MS04cnRtUHQzczEt?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-19T02:04:05+00:00",
-      "category": "Radiologie",
-      "tags": [],
       "type": "News"
     },
     {
@@ -1530,16 +1490,6 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik in den USA: US-Gericht stoppt Impfpolitik von Robert F. Kennedy - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik in den USA: US-Gericht stoppt Impfpolitik von Robert F. Kennedy &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSTNhMUtLSGFMSjdGcHJ3dFYyYXhxU1FUZDVsRXQwNF8wOGE1UDc1UHRNS3h2eDM3aTFrVGlxWnAwOUJTLUx2OF83cV95TTZRZHJPUk1JZXAtc3NDQnB3R2F6MkhOY0M5ZTZyVjBoUnhlM3pkbDdDUFJtUHJ3MVBOZDUycmF2aXNUdjM2V3hxckdPLXBLM192R25wYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-17T07:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "School food environment interventions for health and sustainability",
       "summary_de": "School food environment interventions for health and sustainability",
       "source_name": "Cochrane Library RSS feed.",
@@ -1580,6 +1530,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Klinik für Chirurgie III - Adipositas- Metabolische und Plastische Chirurgie - HEK",
+      "summary_de": "Klinik für Chirurgie III - Adipositas- Metabolische und Plastische Chirurgie &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNVFVZX29ZY3dsS0hiTUdxaWpEMktyTzlDZUMxSVhUZUx0R3VVRk9RRlR1cjlxYlFCbVBFSkxlT0piNzNRVmcySFlmZ1FSdnZBbUxpNG5YdzRHbW11ZzVmMUFrNUpTWXdkUFZVSFYtanJJM3BLZkE4eVYxVDgxTUdzTzB1UkdteXQ0S0ItT3Z6SmFESXNEWjRESFN1VVdDajBIVml6NWdMSXdQaXlVdjZmbVVud0d5X0ZLdDNCRjBIZkVwaUpqNlJSQ3pfdzNCNjhfVGU1RkFFTzItdWhpQnc0Rmc1enZpd0xCOHIwRXNNWmF2cEl3NkJrM21iWWNpcnZYUEN1bTdfd3lfM0hGQ0stVUpaa1RzU0JiZlg3RnUtUVU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-14T19:13:28+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "EMA Management Board: highlights of March 2026 meeting",
@@ -1954,8 +1914,8 @@
       "type": "News"
     },
     {
-      "title": "GKV: Mehr Rentner und mehr Teilzeit werden zum Problem für Krankenkassen - handelsblatt.com",
-      "summary_de": "GKV: Mehr Rentner und mehr Teilzeit werden zum Problem für Krankenkassen &nbsp;&nbsp; handelsblatt.com",
+      "title": "GKV: Mehr Rentner und mehr Teilzeit werden zum Problem für Krankenkassen - Handelsblatt",
+      "summary_de": "GKV: Mehr Rentner und mehr Teilzeit werden zum Problem für Krankenkassen &nbsp;&nbsp; Handelsblatt",
       "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc3NFV0dwR2dLT2JjUmRkUE5RQm53MXFuUDhXQ3dmV2QxSDBxcTFFMk4zeDJUczB2cFJGWjFtVkd2V0tfa0Q0Z3dndkpkdTNpazU0MmNqMmtQcW9EVDBnbms4V1lJQy1XeVdaVFJtSXUtSnZFXzViRU5RWW1sWURabm41TllXSjJvZFhtY0RCNnl0czZ4VlgxUmt3YVB0TEJHTjF2RnNrdVdodWN3OFJEZFExX1p0WjZhUmJ0RW9jX0V0V1Z0NS0yaW1HMnJWbW16ZnE0Z3Zn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-12T07:00:00+00:00",
@@ -2113,8 +2073,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik: Bundestag beschließt Änderungen an Klinikreform - handelsblatt.com",
-      "summary_de": "Gesundheitspolitik: Bundestag beschließt Änderungen an Klinikreform &nbsp;&nbsp; handelsblatt.com",
+      "title": "Gesundheitspolitik: Bundestag beschließt Änderungen an Klinikreform - Handelsblatt",
+      "summary_de": "Gesundheitspolitik: Bundestag beschließt Änderungen an Klinikreform &nbsp;&nbsp; Handelsblatt",
       "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV2tMcG41d3BlSm9kbk01UFZHcGVKa3VBaDVObE9DSE1LbVh3V1NPckZCTkpNR0RSY3VleDR2ZHRJaktIWmVKTUtVY1B5ZVAxSGRuTnB5Y0d6cDhtaTg2cFFJTExueFhKdzQ1a0QwNHBNeDZhLWNxaDRPdFY1eE8tQ1ZDYWpzaTU1Z1ktVDZET0pGbGRlQ2xUVHg3SldJSzA4aFJQemVVWVFaaGV2VmszQlRqNmlrR1B3Ymd3b0pUOGI5bWRzd0lFelRYcmo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-06T08:00:00+00:00",
@@ -2155,8 +2115,8 @@
       "type": "News"
     },
     {
-      "title": "Roboter im Krankenhaus | Zukunft der Klinik-Logistik - handelsblatt.com",
-      "summary_de": "Roboter im Krankenhaus | Zukunft der Klinik-Logistik &nbsp;&nbsp; handelsblatt.com",
+      "title": "Roboter im Krankenhaus | Zukunft der Klinik-Logistik - Handelsblatt",
+      "summary_de": "Roboter im Krankenhaus | Zukunft der Klinik-Logistik &nbsp;&nbsp; Handelsblatt",
       "source_name": "\"site:handelsblatt.com gesundheitswirtschaft\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14elFFOVBqZG5oRVc5bG1aYnJLa01kWGN2Y05kMWVlSy00cWpOdmdMLXhKWm5HNEpzTE5EVUtRTkdPYW5FbEt1U1QzX2dQOGFNbTBlb1JYdzBOem5rdnI0NjRxT0tLbVdXc2Y5bXRVaVBYdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-05T08:00:00+00:00",
@@ -2184,26 +2144,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheitspolitik: Land unterstützt UKSH und übernimmt Schulden - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Land unterstützt UKSH und übernimmt Schulden &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVjd5U09jZDFwT252b1JHR3llNTJ0LURZM0luSlR6Uy01S0N6aFdTT2ZsQ3ljVGZfTXZyTjctU05SZjhlQUNwTjcyY2tOM0xHcWZ6TE9XemxXb3d1TzNkM2dOeXlQeTM1YUdPMXgycmNFY05HWWQ0RlhFT09qTkVra0pic0d3RXJfTVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-04T08:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheitspolitik: Schleswig-Holstein entlastet Uniklinik finanziell - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Schleswig-Holstein entlastet Uniklinik finanziell &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGRqR0NzMmNNMU5haXloaUt1eW9Bb0h5SGMxdldoc0t1dWtRZEM5dmJacVJPa0RDa1BpemNQcVZ6WTNfeTZ2eTJtek05eEM5djhTaldKUVZRdWlvM1dZXzJ3elI0ZzNJVklOcF8tUzI3V20zb3hZMXlFcVFZNTlwTmczaXpaQnppNm9jeGhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-04T08:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
       "type": "News"
     },
     {
@@ -2305,8 +2245,8 @@
       "type": "News"
     },
     {
-      "title": "Akuter Notfall: Viele Herzschwäche-Patienten landen mehrfach im Krankenhaus - handelsblatt.com",
-      "summary_de": "Akuter Notfall: Viele Herzschwäche-Patienten landen mehrfach im Krankenhaus &nbsp;&nbsp; handelsblatt.com",
+      "title": "Akuter Notfall: Viele Herzschwäche-Patienten landen mehrfach im Krankenhaus - Handelsblatt",
+      "summary_de": "Akuter Notfall: Viele Herzschwäche-Patienten landen mehrfach im Krankenhaus &nbsp;&nbsp; Handelsblatt",
       "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkJqME1vTGlGaXR3ZjNkd2VEeHItVDdNZUcyVmlmUG02QWJ5ZzFXVXRGaGczTnNuT0ZWOVBmT0Q4ajd3WGgydWU5Wmp4UWNhZ2V3Unp0akpFNmdtb0xld0NkM2M0UUd0ZzFQMUNjMXFSVHJRMEV6dUNZdllYcjZIcm9lS0k4SVk4TDBZOXVOaUt6OFRxUzJIOGNydjByMlB4eDNoZEtJeWVxYXJxTXNRdldMREZ5MHRlV253bGN1Q1o?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-28T08:00:00+00:00",
@@ -2461,8 +2401,8 @@
       "type": "Studie"
     },
     {
-      "title": "Gesundheit: Krankenhausreform droht ausgebremst zu werden - handelsblatt.com",
-      "summary_de": "Gesundheit: Krankenhausreform droht ausgebremst zu werden &nbsp;&nbsp; handelsblatt.com",
+      "title": "Gesundheit: Krankenhausreform droht ausgebremst zu werden - Handelsblatt",
+      "summary_de": "Gesundheit: Krankenhausreform droht ausgebremst zu werden &nbsp;&nbsp; Handelsblatt",
       "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVy1GblVpb3Fnb25HX2t3NVNnZWNlM0lPWDBuMGN0U0xtNXpKb09WMjlXUTdsZE53a195Y0V6ZTgtNWRSME9OX2UtNEhJcHZuc2FFMFhDaVp3MllmM2FmT3NIX21BU0lkMFlGU2pIb2tzVUhRN1FyWnpCRUpPbjBxeDNQZTBseG9pWThOWEFQaE1VMTVpX1ZWZFo2SS0zdnhmUTkwSXlGY2NDNU12bGl4eHc5UFpHY1lseHBTaQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-23T08:00:00+00:00",
