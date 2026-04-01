@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-04-01T05:17:42.326257+00:00",
+  "generated_at": "2026-04-01T07:11:24.619741+00:00",
   "window_days": 42,
-  "count": 265,
+  "count": 256,
   "items": [
+    {
+      "title": "Guidance: Get medicines to NHS patients earlier via the MHRA-NICE aligned pathway",
+      "summary_de": "By streamlining decision-making, the MHRA–NICE aligned pathway will help patients access new medicines 3–6 months sooner.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/get-medicines-to-nhs-patients-earlier-via-the-mhra-nice-aligned-pathway",
+      "published_at": "2026-04-01T07:00:05+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Heilende Worte: Schreiben gegen Stress im Klinikalltag",
+      "summary_de": "Kreatives Schreiben kann medizinisches Personal entlasten und Empathie st&auml;rken. Wie das gelingt, erl&auml;utert eine Professorin f&uuml;r Medizinische Geisteswissenschaften aus den USA.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/schreiben-gegen-stress-im-klinikalltag-163924/",
+      "published_at": "2026-04-01T07:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Statistisches Bundesamt - Kinder im Krankenhaus: Psychische Probleme häufigster Grund - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Statistisches Bundesamt - Kinder im Krankenhaus: Psychische Probleme häufigster Grund - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVU5YVkQtRy1OUy01dW82bWswcnJIbFNlQXZLVkwzdWxKZ1F3d0lHclVtd0Z3WjRCNmNaYkJyMlZlWndQR2xZVjBGOUxRMF84dlBKVXZmLVBfdWcxNHBTNmVacWM2eHJhZDQ4ZFhWYnZsZ0I1VWxERzRLNkFWR25WQWxWRUN2VmotTnNMVUZsVk1iYVBLdXNQQW42NlFESlVIVUdNTGFCdDI3R2R4RTJac1pSUTA0MWVqN0tFLXVqOGtQdXI5Q0l0ZkFwbU94WjVMWHNpV2dwbTB5eVFlLTNLRWJHYzFrSWFPLS1kNTVfRWQzSVVGSWlhTFlCNC1NRjNxc1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-01T06:52:21+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Krankenhäuser - IT-Störung an Charité behoben – Notaufnahmen wieder offen - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Krankenhäuser - IT-Störung an Charité behoben – Notaufnahmen wieder offen - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNFlOQXZwdWtBVE0tcVg5ZGYtYnBlZE0zakNLaVpLd0NLZHFTdkRrRk9FcDJyb1hnVlRSRG9aRzlMSk5UQVloUDhJQnJjQTlrdGM3XzRobEw4WDhkd2FzZVVCOXhlMjlqcG14cC1VdE1EdnpxNXFPMElHclU5NXgzcmFXamFTTlRVZFVLenlXczRQNnY3bmFFbUptOVFiYld0ZTVQa0tFcjFFZEJOS0dIVVRqenFMQk5EN0FBN2E3UVl3N3g4bnZtTHlJQnVLRjdnVzZqaER6YzVGbXpWVTUwejJCWW1SNVplVGY2Z1oxRktmdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-01T06:07:05+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Endemeldung Arzneimittel: Protaphane Penfill 100 I.E./ml Injektionssuspension in Zylinderampulle - OP(10x3ml) pU: Novo Nordisk A/S",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-04-01T05:57:45+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Hereditäres Angioödem: Donidalorsen im Handel",
       "summary_de": "Mit Donidalorsen ist ein weiteres Medikament zur Prophylaxe von Attacken des heredit&auml;ren Angio&ouml;dems (HAE) verf&uuml;gbar. Das&nbsp;Antisense-Oligonukleotid senkte in Studien die H&auml;ufigkeit der HAE-Attacken um 81 Prozent.",
@@ -250,16 +300,6 @@
       "source_url": "https://www.gov.uk/guidance/clinical-investigations-in-great-britain",
       "published_at": "2026-03-31T12:18:51+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: Mytolac 90 mg Injektionsl&#246;sung in einer Fertigspritze pU: Amdipharm Limited",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-03-31T12:17:37+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -661,16 +701,6 @@
       "type": "News"
     },
     {
-      "title": "Unterschätztes Organ: So wichtig ist der Thymus für gesundes Altern",
-      "summary_de": "Menschen mit gesundem Thymus leben l&auml;nger und ges&uuml;nder. Bei ihnen sind auch Tumortherapien h&auml;ufiger erfolgreich, wenn sie an Krebs erkrankt sind. Das zeigen zwei aktuelle Publiaktionen im Fachjournal &raquo;Nature&laquo;. Doch was ist ein gesunder Thymus ?",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/so-wichtig-ist-der-thymus-fuer-gesundes-altern-164041/",
-      "published_at": "2026-03-30T14:20:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "vdek: Mutige und kluge Vorschläge zur Stabilisierung der GKV liegen auf dem Tisch – jetzt muss der politische Prozess schnell starten",
       "summary_de": "Die GKV-Finanzkommission hat heute ihre Vorschläge zur finanziellen Stabilisierung der gesetzlichen Krankenversicherung (GKV) vorgelegt. Das Maßnahmenpaket enthalte mutige, kluge und notwendige Vorschläge, erklärt vdek-Vorstandsvorsitzende Ulrike Elsner. Notwendig sei, dass die Selbstverwaltung auch im weiteren Prozess einbezogen würde.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -804,36 +834,6 @@
       "type": "News"
     },
     {
-      "title": "Angiography-based FFR validated in patients with coronary artery disease",
-      "summary_de": "Vessel fractional flow reserve (vFFR) was found a noninferior alternative to invasive pressure-wire–based FFR for guiding revascularization...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/interventional/article/15820934/angiographybased-ffr-validated-in-patients-with-coronary-artery-disease",
-      "published_at": "2026-03-30T08:01:52+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Radiopharmaceutical Therapy Tracker",
-      "summary_de": "With so many targeted diagnostic and therapeutic radiopharmaceuticals in development for cancer care, AuntMinnie's new pipeline...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/nuclear-medicine/article/15819884/targeted-radiopharmaceutical-therapy-pipeline",
-      "published_at": "2026-03-30T06:45:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "ML models find key predictors, racial disparities in breast cancer",
-      "summary_de": "Machine learning (ML) models confirm findings from previous studies on racial disparities in breast cancer incidence by age group...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15820915/ml-models-find-key-predictors-racial-disparities-in-breast-cancer",
-      "published_at": "2026-03-30T06:07:20+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Cannabis - Zwei Jahre legal kiffen - Anbauvereinigungen frustriert - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Cannabis - Zwei Jahre legal kiffen - Anbauvereinigungen frustriert - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -944,26 +944,6 @@
       "type": "News"
     },
     {
-      "title": "Researchers to develop 'patient-centered' imaging assessment tool",
-      "summary_de": "The instrument will allow clinicians to \"compare diagnostic strategies on patient-relevant endpoints,\" researchers noted.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/practice-management/article/15820780/researchers-to-develop-patientcentered-imaging-assessment-tool",
-      "published_at": "2026-03-27T17:45:11+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Week in Review: New FAPI-PET tracer | RT aides and interventional procedures | TEE-guided CPR",
-      "summary_de": "Our top story this week reported on research on a new fibroblast activation protein inhibitor (FAPI)-PET radiotracer.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/editors-note/article/15820770/week-in-review-new-fapi-tracer-rt-aides-and-interventional-procedures-teeguided-cpr",
-      "published_at": "2026-03-27T17:29:44+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
       "title": "Alkohol und Gesundheit: Ist moderater Weinkonsum gesund oder nicht? - FAZ",
       "summary_de": "Alkohol und Gesundheit: Ist moderater Weinkonsum gesund oder nicht? &nbsp;&nbsp; FAZ",
       "source_name": "\"site:faz.net medizin\" - Google News",
@@ -980,16 +960,6 @@
       "source_url": "https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations",
       "published_at": "2026-03-27T15:33:31+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Hill Day 2026 highlights weight of imaging data in biomedical research",
-      "summary_de": "'All of us are frustrated with the gap between what patients receive on a routine basis and where the research community is ...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/imaging-informatics/article/15820591/hill-day-2026-highlights-imaging-data-weight-in-biomedical-research",
-      "published_at": "2026-03-27T15:22:05+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1116,8 +1086,8 @@
       "type": "News"
     },
     {
-      "title": "Krankenkasse für ein gesünderes Leben | BARMER - barmer.de",
-      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; barmer.de",
+      "title": "Krankenkasse für ein gesünderes Leben | BARMER - BARMER",
+      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-27T09:24:20+00:00",
@@ -1126,8 +1096,8 @@
       "type": "News"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - barmer.de",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; barmer.de",
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-27T08:46:45+00:00",
@@ -1148,32 +1118,12 @@
       "type": "News"
     },
     {
-      "title": "Could AI help standardize MSK ultrasound?",
-      "summary_de": "An AI algorithm showed success in providing accurate, real-time guidance for shoulder imaging.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ultrasound/article/15820786/could-ai-help-standardize-msk-ultrasound",
-      "published_at": "2026-03-27T06:20:55+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheitspolitik: Miersch fordert Anspruch auf raschen Facharzttermin - DIE ZEIT",
       "summary_de": "Gesundheitspolitik: Miersch fordert Anspruch auf raschen Facharzttermin &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWh4ejF4R3pHV1M3a3JXVWU1QTFKdkJLTmpRYmstbkRzZE4zZTYyOHFGRGgyQXh0enVvcmtBYnBwSjdxNDZnb1EzQWx1S3g1T2wtNFNOM09fay1hUi1XTnh0SE9XUHZrdFQ3MzN6LWdUemlUQ1hoUFVTTTJxNzVucU1CYmhXdzBBVTIzaEt3VW5maGwxYUJVdExoZzZTT28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-27T00:10:03+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "SonoSim launches breast ultrasound simulation training module",
-      "summary_de": "SonoSim has launched a training module for healthcare learners in breast ultrasound imaging.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15820657/sonosim-launches-breast-ultrasound-simulation-training-module",
-      "published_at": "2026-03-26T17:04:20+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1237,16 +1187,6 @@
       "source_name": "Publication Feed",
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/february-2026",
       "published_at": "2026-03-26T13:32:56+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Transparency data: MHRA Performance Data",
-      "summary_de": "Performance data for MHRA key performance indicators (KPIs) and information on the expected timeline to complete a specific regulatory function.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/mhra-performance-data",
-      "published_at": "2026-03-26T11:59:43+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
@@ -1406,31 +1346,11 @@
       "type": "News"
     },
     {
-      "title": "PET reveals disease activity in autoimmune encephalitis",
-      "summary_de": "PET revealed brain region-specific astrogliosis corresponding to clinical manifestations and disease severity.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15820714/pet-reveals-disease-activity-in-autoimmune-encephalitis",
-      "published_at": "2026-03-26T08:00:57+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Seitenstechen beim Laufen: Ursachen und was hilft - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Seitenstechen beim Laufen: Ursachen und was hilft - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPXzNrUlNPX19BdXlpNThGQVZOQlUzMjdBTU5CU0ZBUWJ6NERxMDg2eXgwNEhpcHlKLXJiZl9rcUU5N1RzQTJuSFRPOG1TcDJUa29tMXhYNDBLcjNGYXVFeEZXQ3RsZFhDc1J2dEMzNzJKaGhQQVpnZVB3VzZpM0lhVXFlelVFM3cwRGVoQ1d4Z0RGZjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-26T07:23:09+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Mammography use declining among some groups of women",
-      "summary_de": "Non-Hispanic white, Asian, and uninsured women ages 40 to 49 years used mammography less between 2010 and 2022.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15820644/mammography-use-declining-among-some-groups-of-women",
-      "published_at": "2026-03-26T06:02:40+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1558,8 +1478,8 @@
       "type": "News"
     },
     {
-      "title": "Pflege organisieren: So geht's - barmer.de",
-      "summary_de": "Pflege organisieren: So geht's &nbsp;&nbsp; barmer.de",
+      "title": "Pflege organisieren: So geht's - BARMER",
+      "summary_de": "Pflege organisieren: So geht's &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05Y3dMQ09FY2FjNU1wUDVKQjVDZlRWdXlyWVRJSUItSElQYXVhS080OGpLY1dodVQ5ZEtXNy0tRnJBajhBcy11dFFVRThlUzB6OEJDeUxabm1YMUJ1U2NkZ1M2Z0xoamZDSXZOc1ZHNlowR2xY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-24T07:48:43+00:00",
@@ -1728,16 +1648,6 @@
       "type": "News"
     },
     {
-      "title": "Klinik für Radiologie - HEK",
-      "summary_de": "Klinik für Radiologie &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObEFObEw0eHI2b2dYVmo1SXhiNzRFanBhdGNJdDc5M0x0dHI4VnRXR2VSTGRmWXAzR3A2UWJVU0ZQME1OT3lIY3lEUFJOLTV0SEVpVXVDaUZiVWtxMWFQY1BJaFo0bnFqUmNSa0tjVUx5dHpQMmxZcUc5dDdxVmZCNWVzQ1RwSlVCRDRZY1NlSjRiVEVuR1JEdjk3SE1yWndCNnhRZ2ViRHhvTGJTM0xfLTE4UEtLNWR1MS04cnRtUHQzczEt?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-19T02:04:05+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "New PRIME tools to accelerate development of medicines in the EU",
       "summary_de": "EMA launched three major new features of PRIME, the Agency’s scheme to enhance support for the development of medicines targeting an unmet medical need. After the completion of…, \"Over the ten years since its launch, PRIME has continued to evolve to keep pace with scientific innovation and accelerate the development and assessment of…, The results of the pilot indicate that …",
       "source_name": "News and press releases",
@@ -1769,16 +1679,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Entfernung der Gallenblase (CHE) | Klinik für Allgemein-, Visceral- und Thoraxchirurgie | Krankenhaus Martha-Maria in 81479 München - HEK",
-      "summary_de": "Entfernung der Gallenblase (CHE) | Klinik für Allgemein-, Visceral- und Thoraxchirurgie | Krankenhaus Martha-Maria in 81479 München &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMFlvZ01ULW1FWXlNZjd5NVk4UmNTUlVpUzlJLWVJQ3V3VmUxOUdVVTZ4NVBtbk9jb19nVWs4dWpmNmhYLTFXMDJLbVE4NGpLUURIT1VvRWxGODcwN3hQR3pRZ3RoVUN3NDRSZUFaXzE5SlhyQm5SbnN4OHBlRkNZQmJTNktrRnVYYVlzUmozS1VrLUJodnduejhNRno5bl9kUUFhTHlWQ3RCS1h2S1NEekx5WHdDYlRPRWxtaEZvU1pUeDdYWlU3b3pLZTBjV2RIcE42a2YwWE5nQmJGYmt1SGF4cDN1bVFOdHBvOGkyUjFvT2FxVmVqZzRNUWV4NHc4SVpz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-17T21:19:57+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Primärversorgung: Zielgenauere Versorgung durch Ersteinschätzung und Terminservices",
@@ -2558,6 +2458,16 @@
         "Versorgung",
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Ungleichbehandlung in der Medizin - BARMER",
+      "summary_de": "Ungleichbehandlung in der Medizin &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15dEk2SjQxYk93dXJ4Skpyb3U2Wlh6UTZ5cDNjZjFnVDBjMkk3RWQwUTVuamZWVjAtRUZXM1E5Zi1LWDFCcGpfTEl4cDc5QnZVdy1VbXJ6MW1tMm9KM2pmdGtIRy14OUhUQk1Tb05leDZ0YWk3SG1N?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-02T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
