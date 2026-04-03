@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-04-03T12:46:03.688201+00:00",
+  "generated_at": "2026-04-03T15:34:15.083577+00:00",
   "window_days": 42,
-  "count": 268,
+  "count": 270,
   "items": [
+    {
+      "title": "Finanzkommission Gesundheit - Warken bewertet Sparvorschläge - Politik - SZ.de - SZ.de",
+      "summary_de": "Finanzkommission Gesundheit - Warken bewertet Sparvorschläge - Politik - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLXJQUTlreHRQcExNd0N5U0JMZU04RG1VaHpWazNBV0JXZ1JpM0w5QmJoa2lOaWYxUThNSlpqTUlIX2JWUEFadEMwdGVYRlNGYnBYVldaUFJRZ2lrTTM0dHJSZHV1cDJKZGJCQUd0czJrdTV3RWZKVjVLTmM5WkdPbGtIaFQ3YnpZRFBTYUFZRjloTHZBbDRJM0N2bFlDV0NqSGVoNlRzWDc1UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-03T13:37:44+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Mircea Lucescu: Ex-Rumänien-Trainer mit Herzinfarkt in Klinik - FAZ",
       "summary_de": "Mircea Lucescu: Ex-Rumänien-Trainer mit Herzinfarkt in Klinik &nbsp;&nbsp; FAZ",
@@ -204,22 +214,22 @@
       "type": "News"
     },
     {
-      "title": "Debatte um GKV-Reform: Kassenchef will tiefgreifenden Systemwechsel",
-      "summary_de": "In Berlin wird hitzig &uuml;ber m&ouml;gliche Sparma&szlig;nahmen zur Sanierung der strauchelnden Gesetzlichen Krankenversicherung (GKV) diskutiert. Der Chef der&nbsp;IKK Innovationskasse hat jetzt ein weitreichendes Konzeptpapier vorgelegt, das unter anderem pauschale monatliche Krankenkassenbeitr&auml;ge von 150 Euro pro Versicherten vorsieht.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/kassenchef-will-tiefgreifenden-systemwechsel-164208/",
-      "published_at": "2026-04-02T14:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Orforglipron: US-Zulassung für neue Abnehmtablette",
       "summary_de": "Die US-Zulassungsbeh&ouml;rde FDA hat eine Zulassung f&uuml;r das Orforglipron-haltige Pr&auml;parat Foundayo&trade; erteilt. Es kann zum Abnehmen eingesetzt werden und ist oral verf&uuml;gbar.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/us-zulassung-fuer-neue-abnehmtablette-164192/",
       "published_at": "2026-04-02T14:00:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Debatte um GKV-Reform: Kassenchef will tiefgreifenden Systemwechsel",
+      "summary_de": "In Berlin wird hitzig &uuml;ber m&ouml;gliche Sparma&szlig;nahmen zur Sanierung der strauchelnden Gesetzlichen Krankenversicherung (GKV) diskutiert. Der Chef der&nbsp;IKK Innovationskasse hat jetzt ein weitreichendes Konzeptpapier vorgelegt, das unter anderem pauschale monatliche Krankenkassenbeitr&auml;ge von 150 Euro pro Versicherten vorsieht.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/kassenchef-will-tiefgreifenden-systemwechsel-164208/",
+      "published_at": "2026-04-02T14:00:00+00:00",
+      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -476,12 +486,32 @@
       "type": "News"
     },
     {
-      "title": "KKH erweitert Impf-Angebot für Versicherte - KKH",
-      "summary_de": "KKH erweitert Impf-Angebot für Versicherte &nbsp;&nbsp; KKH",
+      "title": "NIH awards $12.6M to expand Alzheimer's brain imaging initiative",
+      "summary_de": "The NIH has awarded $12.6 million to advance the second phase of Artificial Intelligence for Alzheimer's Disease (AI4AD2).",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15821279/nih-awards-126m-to-expand-alzheimers-brain-imaging-initiative",
+      "published_at": "2026-04-02T07:25:51+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "KKH erweitert Impf-Angebot für Versicherte - kkh.de",
+      "summary_de": "KKH erweitert Impf-Angebot für Versicherte &nbsp;&nbsp; kkh.de",
       "source_name": "\"site:kkh.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GOWFDdFFWc2otd0JjNUpvT1NuUmNSTWs3d09oUnNuT2hGU1RPMW8wekVUMWdaSlBGaFJpdWMtd1F0TEJUMFloQk0taVY3Tk9SQ3NmSXAyQ1d3OWRIMDVRdEhBV21Edw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-02T07:18:29+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Legacy vs. Cloud-Based vs. Cloud-Native PACS: What Modern Imaging Centers Need to Know",
+      "summary_de": "null",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/article/15821278/ramsoft-legacy-vs-cloudbased-vs-cloudnative-pacs-what-modern-imaging-centers-need-to-know",
+      "published_at": "2026-04-02T07:15:05+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -841,8 +871,8 @@
       "title": "Psychische Gesundheit: Psychische Probleme häufigster Klinikgrund bei jungen Menschen - DIE ZEIT",
       "summary_de": "Psychische Gesundheit: Psychische Probleme häufigster Klinikgrund bei jungen Menschen &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ1p2TWRWVTVVd0Fjb1VSQlZGekxMZ0JybWdwN1M5WjJQWE1aakZjX2wyMUNDY1RwT3JGaEF3VUptTWxjbXVHTlJHLVNlbThEWmEyLTNLNUZCeGwtYmRvaUIwTHZCS01WSDJ0Y0xESV8zOVBsd3Q3d21jUkVQWTBkajFMakRWcXFNeEdLbGpUdlhUTjNUV0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-01T08:51:48+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR2VxTHhKS2pVLVBFRmFRTVpDeFcxUEFTcWZyamJyd1l5QjlHQXZfcWhGU2FRUUtOZEtoYVZhRmhnVEM0SENTYUQ3YWJ4MTZoam1yVnVDN1hvbE5SaEM5VWdTV1MzLTlDMlo3WHoxRDhBb3JSYzBoZGxrZ2hkb3dJTnYwb2JiWmVSYURwU29WVHM3aUhKTEtRVGFFRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-01T09:52:50+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -918,8 +948,8 @@
       "type": "News"
     },
     {
-      "title": "Apotheken-Themen von heute sind ein Prüfstein für Gebührenlogik, ein Eingriff in die Statik des Systems, und ein Vorgriff auf eine Medizin, die früher erkennt - pressebox.de",
-      "summary_de": "Apotheken-Themen von heute sind ein Prüfstein für Gebührenlogik, ein Eingriff in die Statik des Systems, und ein Vorgriff auf eine Medizin, die früher erkennt &nbsp;&nbsp; pressebox.de",
+      "title": "Apotheken-Themen von heute sind ein Prüfstein für Gebührenlogik, ein Eingriff in die Statik des Systems, und ein Vorgriff auf eine Medizin, die früher erkennt - PresseBox",
+      "summary_de": "Apotheken-Themen von heute sind ein Prüfstein für Gebührenlogik, ein Eingriff in die Statik des Systems, und ein Vorgriff auf eine Medizin, die früher erkennt &nbsp;&nbsp; PresseBox",
       "source_name": "\"site:pressebox.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPZUVFOEU5UDRZOF9NV2VnV3FkTE5ZRFppX1o1aFFyYWlGek5XRFMxY0I0YUJ5UDFWWlA5eDhYdG4xV19xdHZ4R2RJX3dZNGN0LTBDZ3BBV0NVMXdYNHA3a1Y0VFVldTg5YUxNaWIzTmxscF9TcHlaNVAwNHktaTZGSHZfYTZCbE1DYzdmT1ZqdXRNWnRUVWl1dEU0QmFaT0FnTVdkUTQyNVkwTFV0S2hneHZzUWw3T05mS1JxeFRHUFZCNm1laGEycTE5RnhlMkZvYUZDZHNZQ0xSdkZ2LUVYSmRVOE4tcjlwY3R6Y1lqMkJzcXJULVplUHY1Q0FueWNOSDlYcUxpLWxtOWVYR29SU0c4aEJOUTBtdlhBZmtQR1QyY3RESkZreDc1T2JxU3NYaUVnV09RT3l2VWZGSkNkMlFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-01T05:32:00+00:00",
@@ -1110,52 +1140,12 @@
       "type": "Studie"
     },
     {
-      "title": "PET/CT metric improves outcome predictions in Pluvicto patients",
-      "summary_de": "The inclusion of total tumor volume (TTV) produces prediction models with better discriminatory ability.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15821045/petct-metric-improves-outcome-predictions-for-pluvicto-patients",
-      "published_at": "2026-03-31T08:16:33+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Field Safety Notices: 23-27 March 2026",
       "summary_de": "List of field Safety Notices for 23-27 March 2026",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
       "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-23-27-march-2026",
       "published_at": "2026-03-31T08:07:32+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "AM CT Insider",
-      "summary_de": "In this Insider, we're highlighting research about how incidental findings on LDCT may be tied to higher risk of extrapulmonary...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/editors-note/article/15821044/am-ct-insider-en",
-      "published_at": "2026-03-31T08:03:36+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "New recommendations issued on tau PET imaging",
-      "summary_de": "Standardized imaging procedures are essential to facilitate the integration of tau PET into clinical workflows.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15821010/new-recommendations-issued-on-tau-pet-imaging",
-      "published_at": "2026-03-31T07:00:03+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Significant incidental lung findings on LDCT tied to other cancers",
-      "summary_de": "Significant incidental findings on LDCT lung screening are associated with a higher risk of an extrapulmonary cancer diagnosis...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15821021/significant-incidental-lung-findings-on-ldct-tied-to-other-cancers",
-      "published_at": "2026-03-31T06:51:25+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1435,21 +1425,21 @@
       "type": "News"
     },
     {
+      "title": "Researchers to develop 'patient-centered' imaging assessment tool",
+      "summary_de": "The instrument will allow clinicians to \"compare diagnostic strategies on patient-relevant endpoints,\" researchers noted.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/practice-management/article/15820780/researchers-to-develop-patientcentered-imaging-assessment-tool",
+      "published_at": "2026-03-27T17:45:11+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Alkohol und Gesundheit: Ist moderater Weinkonsum gesund oder nicht? - FAZ",
       "summary_de": "Alkohol und Gesundheit: Ist moderater Weinkonsum gesund oder nicht? &nbsp;&nbsp; FAZ",
       "source_name": "\"site:faz.net medizin\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOHN4cDdxVXBibTdtZVNHTTRuaDJKVWhEUEhLS29RR0FnTkhMZlhldURPcXcxVjloNkt6RE5PMktEeXBXX0d0RWZtdEZTMzBOVFJ1b1BiVDQ2dGhMUFFRcXNtUmlDQlYxVVNmM1phQ2VEUUNQVE1jSmpUa2hSY1c3bHpXWWZ6OHVmMndWYU54b1VWQVVTWjhUV1EtYjFWZ0lKYnhtcE9ub2g2QWZaUWRxMll0eWQ4QVA1QWNGN2c5ZGlhbktsaDM1TWhkX0kxMW44ZEhLdDh3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-27T16:27:15+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gleichstellung in der Medizin: Interview mit Gabriele Kaczmarczyk - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Gleichstellung in der Medizin: Interview mit Gabriele Kaczmarczyk - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQlBMaDhmMUh3a3VvdXUyMm0xRGZ0eHp0ZVh0MTRDbWpDdmJpZVdWOXdjNEFrZi1YT1dYSi14QXJNUWs0Y1FrNjV6VDI5WEdGbTFoQ0ZBV3FLV0FrVVhaYm1xWWxHbDNaUEFGY2V5aUtMSkk0b3E2WlZSNGxQMTVXS1VaYzdKcjNPcTBOS04tUG4zeEtqdUVKRm1UdFA0akY0S2x6eg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-27T15:05:58+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1461,6 +1451,16 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-sickness-absence-rates/december-2025",
       "published_at": "2026-03-27T13:58:43+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheitswissen für Arbeitgeber: So lässt sich die Gesundheit im Unternehmen verbessern - BARMER",
+      "summary_de": "Gesundheitswissen für Arbeitgeber: So lässt sich die Gesundheit im Unternehmen verbessern &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd2JleTROVjkweE5yeVE4NnRIQWlPbS1YY2s1UEFVTkFjXzVqSWNGVUFfMDdCS2pZX1YxOHdGUElxTHV0V1VsQmVDbUM1TVlpOWNDQnc0UnpTMnhRYjZvc3A2eE9iVHdUVWhmbWs2OFJuMGpmT3lUeTlMOHNoZV9nVEFkY2ptN2s?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-27T12:48:17+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1730,6 +1730,16 @@
       "tags": [
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Tailoring breast radiotherapy to women's risk leads to success",
+      "summary_de": "Many women don't have breast cancer recurrence after receiving radiotherapy following initial treatment, a study showed at EBCC15...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15820437/tailoring-breast-radiotherapy-to-womens-risk-leads-to-success",
+      "published_at": "2026-03-24T11:00:00+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
@@ -2536,6 +2546,16 @@
       "type": "News"
     },
     {
+      "title": "Apple Studio Display XDR mit DICOM-Unterstützung für die Radiologie - Macerkopf",
+      "summary_de": "Apple Studio Display XDR mit DICOM-Unterstützung für die Radiologie &nbsp;&nbsp; Macerkopf",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wQ2xnaTFQN0pBMnZ0Q3F0bVF5dzVueTZVeXpJckw2dWVWUkpjeHJPRU13YzJtUFhyQ3BCNTVkLTZUSk43cURQaElKTi1NSDNGNVBQUWRFRlc2Y01DTFRoZVRCZnpzNk03eUtZbnBfRnhJR0hIc3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-06T08:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "New guidance on the conduct of clinical trials during public health emergencies in the EU",
       "summary_de": "The Accelerating Clinical Trials in the EU (ACT EU) initiative has published a draft guidance document outlining how clinical trials should be conducted during public health…",
       "source_name": "News and press releases",
@@ -2722,8 +2742,8 @@
       "type": "News"
     },
     {
-      "title": "Qualitätsindikatoren | Medizinische Klinik IV: Pneumologie, Beatmungs- und Schlafmedizin | in 45770 Marl - HEK",
-      "summary_de": "Qualitätsindikatoren | Medizinische Klinik IV: Pneumologie, Beatmungs- und Schlafmedizin | in 45770 Marl &nbsp;&nbsp; HEK",
+      "title": "Qualitätsindikatoren | Medizinische Klinik IV: Pneumologie, Beatmungs- und Schlafmedizin | in 45770 Marl - klinikfinder.hek.de",
+      "summary_de": "Qualitätsindikatoren | Medizinische Klinik IV: Pneumologie, Beatmungs- und Schlafmedizin | in 45770 Marl &nbsp;&nbsp; klinikfinder.hek.de",
       "source_name": "\"site:hek.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNbDdUZlpiWFdYVGNXbWh0UWtSTVdfSUhDNzdBOW9VTEhhWkFCa2lxM2hCTlAyS04wbU9jVlZ3amU4NUFncGJQSEw4RF9oTHlNQ05zMC1lTXBSU3V5WlNLSkpuc2pvTEprYVE5Y21NdXloVEtoYTI1V2p2NThQS3NISklzMTJrR01zMlg5cWFMaTFnUmk4MHNRWXBWTzRlSXhoRnpScTBwQkoxSWtjNFpVQjVIMmVTTDRVVUtSS3psSEc1bE4zNGo0dHN6OUN1NEh5SXQtV0tWLUVOc2tfeE9LV3dhaHFXenp6X0pvUENXRHJmVUp3MXpUaXBMU0ItZHlmX25NS05QQUdiblNtQUhicXcyUEpXTjdub3Q4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-02-27T04:04:31+00:00",
