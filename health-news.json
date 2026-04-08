@@ -1,15 +1,107 @@
 {
-  "generated_at": "2026-04-08T07:10:42.840447+00:00",
+  "generated_at": "2026-04-08T10:01:52.052686+00:00",
   "window_days": 42,
-  "count": 268,
+  "count": 266,
   "items": [
     {
-      "title": "Urheber beeinflusst Qualität: TikTok liefert oft falsche Infos zur Psyche",
-      "summary_de": "Experten warnen vor deutschsprachigen TikTok-Inhalten. Darin sind psychische Symptome h&auml;ufig verzerrt oder v&ouml;llig falsch dargestellt. Heilberufler k&ouml;nnten jedoch Abhilfe schaffen, wenn sie selbst Videos produzieren w&uuml;rden.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/tiktok-liefert-oft-falsche-infos-zur-psyche-164267/",
-      "published_at": "2026-04-08T06:30:00+00:00",
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: Bortezomib STADA 2,5 mg/ml Injektionsl&#246;sung pU: STADAPHARM GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-04-08T09:49:58+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Placebokontrollierte Studie: Mit Mirtazapin gegen Methamphetamin-Sucht",
+      "summary_de": "Bislang gibt es keine zugelassenen Medikamente, um eine Methamphetamin-Sucht zu behandeln. In einer Studie &uuml;ber zw&ouml;lf Wochen wurden nun gute Erfolge mit dem Antidepressivum Mirtazapin erzielt.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/mit-mirtazapin-gegen-methamphetamin-sucht-164266/",
+      "published_at": "2026-04-08T09:30:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "MHRA expands AI Airlock programme with a £3.6 million funding boost over three years",
+      "summary_de": "The MHRA continues to be at the forefront of innovation and secures multi-year funding to expand its pioneering AI Airlock programme.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/news/mhra-expands-ai-airlock-programme-with-a-36-million-funding-boost-over-three-years",
+      "published_at": "2026-04-08T09:19:28+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Elsner: „Vorschläge der Finanzkommission Gesundheit nicht zerreden, sondern jetzt konsequent an die Umsetzung gehen“",
+      "summary_de": "Die 66 Vorschläge der Finanzkommission Gesundheit seien geeignet, mit den vorhandenen Ressourcen eine qualitativ hochwertige Versorgung zu sichern, fair auszugestalten und Beitragserhöhungen für Versicherte und Arbeitgeber zu vermeiden, betont vdek-Vorstandsvorsitzende Ulrike Elsner. Eine konsequente Umsetzung sei jetzt entscheidend – „Denn es geht um die Zukunft der GKV.”",
+      "source_name": "vdek - Verband der Ersatzkassen e. V.",
+      "source_url": "https://www.vdek.com/presse/pressemitteilungen/2026/finanzkommission-vorschlaege-umsetzung-stabilisierung.html?pk_campaign=rss",
+      "published_at": "2026-04-08T08:45:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit: Klinikverband fordert Zehnjahresplan für Sachsen-Anhalt - zeit.de",
+      "summary_de": "Gesundheit: Klinikverband fordert Zehnjahresplan für Sachsen-Anhalt &nbsp;&nbsp; zeit.de",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV0c1MEhMZ3pCdUpaM1dxTUl3RUQ5YzAtaTlHS0dCNkx1OFlJeTRFUEdleFBtQVdUeHdrOS1GOU8xeDdNalpaM2NWUkduYnoxd3VZcEM0UXFPY2ZYWjlTM2UzY0g1MFhfWG93cWdZMG5pVTA5M2NUc01RZ3dLMUs3ZVBTdDJxVHMxb3o4QWtlX01ma1dIX3FR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-08T08:44:07+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit - Klinikverband fordert Zehnjahresplan für Sachsen-Anhalt - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Gesundheit - Klinikverband fordert Zehnjahresplan für Sachsen-Anhalt - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSFlKV09VUFY2RGxLWjFtLWMxX0VSeTFCSGNQMGd6bkV2ZUFySUJOMEg2LWdnZnVIS1A3WmxiQjlPSFQ0QlpyV3ZRTlpUNDFtanU1SkM1NFlrRkVrdDhkLUNMU1lLem8zTlR5RHdReFJYV2oxeWtqQ2hlMXl3TGtLY0x6LUFxUUZwYnNMdlhGS0dZVldPV1k2QjFxbHZuMTh1ZTdNRk5SeERMVjNLb2xValhkM1c5Y1dxckFxUkt1OUE3eXV1ZG1UN2FzY1VrNXVWV2o1RjdOTUJRaFlZV3pKZjkyNVF1WlU1VnBhcA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-08T08:44:07+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Allergische Reaktionen: Adrenalin-Nasenspray für Kinder zugelassen",
+      "summary_de": "Das Adrenalin-haltige Notfallnasenspray Eurneffy&reg; wurde jetzt in niedriger Dosierung f&uuml;r Kinder mit einem K&ouml;rpergewicht von 15 bis 30 Kilogramm zugelassen. Es kommt bei anaphylaktischen Reaktionen zum Einsatz.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/adrenalin-nasenspray-fuer-kinder-zugelassen-164259/",
+      "published_at": "2026-04-08T08:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Vorläufige Quartalszahlen: Redcare sieht »anhaltende Rx-Dynamik«",
+      "summary_de": "Versender Redcare hat seine vorl&auml;ufigen Zahlen f&uuml;r das erste Quartal 2026 vorgelegt. Im Jahresvergleich verzeichnet man ein sattes Umsatzplus und f&uuml;hrt dies unter anderem die &raquo;anhaltende Rx-Dynamik&laquo; in Deutschland und der Schweiz zur&uuml;ck.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/redcare-sieht-anhaltende-rx-dynamik-164273/",
+      "published_at": "2026-04-08T07:58:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Parkinson: Was in Freezing-Momenten hilft",
+      "summary_de": "Die Ampel springt auf Gr&uuml;n um, es kann losgehen. W&auml;re da nicht ein Problem: Gehen geht gerade nicht. Das ist ein Beispiel f&uuml;r Freezing, das bei Parkinson auftritt. Vier Strategien, um sich aus der Starre zu l&ouml;sen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/was-in-freezing-momenten-hilft-164242/",
+      "published_at": "2026-04-08T07:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "„Mehr Patientensicherheit“: Webportal seit zwei Jahren erfolgreich, neue Partner an Bord",
+      "summary_de": "Seit zwei Jahren können Versicherte über ihre persönlichen Erfahrungen aus der Gesundheitsversorgung auf dem Webportal „Mehr Patientensicherheit“berichten. Seit dem Start haben die Versicherten und ihre Angehörigen über 1.800 Fälle im Portal hinterlegt. Die Ersatzkassen haben vereinbart, das Projekt bis mindestens Ende 2026 fortzuführen.",
+      "source_name": "vdek - Verband der Ersatzkassen e. V.",
+      "source_url": "https://www.vdek.com/presse/pressemitteilungen/2026/mehr-patientensicherheit-webportal-zwischenbilanz.html?pk_campaign=rss",
+      "published_at": "2026-04-08T07:30:00+00:00",
+      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -18,8 +110,28 @@
       "summary_de": "Übergewicht: Ein Jahr Abnehmspritze reicht nicht – das rät ein Arzt bei Adipositas &nbsp;&nbsp; FAZ",
       "source_name": "\"site:faz.net medizin\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNemJQUDB1b2ZaTmVaYVRkNlVaUWxQNTR4THFLdndjNjYyMERGMGFZZGNPNHd3NzRsNGhJWTJKdnFOMm0xMG9Sa1RlZEZmSE5VOXJDVkJncmpBemZESDQ4V1NabkYzdlhja0pVOHBEVlp6MU1IbERTNW9QUEZ5YnhqNWZoUlRUUzJsNDhFZV96T3BVWFZPNk9LcXRsclMtb3JPVGI2Wi1BLWVLRjIyTVFPbDJKWHA2cDgtenhmOEd1aHJ4azZGbkhLSjgySmtuclZSSklUMzJNS2pYNFhQYTJxRmM5ZlQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-08T06:22:26+00:00",
+      "published_at": "2026-04-08T07:28:14+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "W1-Professur (mit Tenure Track nach W2) für Lipid- und Sterolstoffwechsel in Gesundheit und Krankheit (LipS) - ZEIT Stellenmarkt",
+      "summary_de": "W1-Professur (mit Tenure Track nach W2) für Lipid- und Sterolstoffwechsel in Gesundheit und Krankheit (LipS) &nbsp;&nbsp; ZEIT Stellenmarkt",
+      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNc0hEZVc2Sllya0tQZUUzaTFYcmpSdE5GTllHUkNlS0VleGMxMk5XZFFZLXd1Z1NEVEExeXFQYUo4Mk1qbzBoWXVWUjhPaWpKaHp2bXJHd0R1SlpFZm14RlJuUjA0eVBleDNuNnlGTm9EdUc3V2t2dFRrU0w2QUVUSkdlWk9GMHgwbVZnRnQ3UUZ3YmxxSkplWDNVV3ZfMWRoUEx2RlhwTHpjWmRwQjl2cTFmREQ5djdjVm0yS296VEY0bjBoaXU4NVNWaGtqekJMdFRFc2dsM2JrTWpvb2VfSnVDRDN3WTRDWWFkY0RZaTZGanJpaDJQM0QxUWpQeFlDX0Z5MFBUN2xCZUVKUkQtWjVmZkxTLUNoRlRPWTZIeHduVkQ5OVdVcWlwbENoekdQZnVKcFdlX1dVYkZBVTdhbVVHZHA0cTJLSWdDa0w2YW5WT3h3aVZNQWE4a05kQVpTenRNNERwVENoUloyQUEyaEEtZ2FhdTRoZ3ozOFBWRFEtWVI3OU1ldg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-08T07:17:07+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Urheber beeinflusst Qualität: TikTok liefert oft falsche Infos zur Psyche",
+      "summary_de": "Experten warnen vor deutschsprachigen TikTok-Inhalten. Darin sind psychische Symptome h&auml;ufig verzerrt oder v&ouml;llig falsch dargestellt. Heilberufler k&ouml;nnten jedoch Abhilfe schaffen, wenn sie selbst Videos produzieren w&uuml;rden.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/tiktok-liefert-oft-falsche-infos-zur-psyche-164267/",
+      "published_at": "2026-04-08T06:30:00+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -137,16 +249,6 @@
       "type": "News"
     },
     {
-      "title": "Posttraumatische Belastungsstörung: \"Wir nennen seine Krankheit Venom\" - DIE ZEIT",
-      "summary_de": "Posttraumatische Belastungsstörung: \"Wir nennen seine Krankheit Venom\" &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZjg5MGJoVzh6LWQtS014T005clAwRWhRbE4yeUNIcWZYUFpKQjlaQXhlSGI0ekhYX2ZnNUF3eW9JYjlTOUx4MjZMNWt5OFoweXUzeGxEeUtaakNqN3luUTkwYzdWTmp4cTE4WVBacjhMcEVrbmQ1eHFmNWZ6NjNFV2tnd2ppd1pxSk9HNVd2RmFIa25sY2k2VUtR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-07T15:07:29+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Fettleber: Semaglutid nun auch bei MASH zugelassen",
       "summary_de": "Die EU-Kommission hat die Zulassung f&uuml;r das Semaglutid-haltige Pr&auml;parat Kayshild&reg; erteilt. Der GLP-1-Rezeptoragonist darf damit zuk&uuml;nftig auch bei metabolisch-assoziierter Steatohepatitis (MASH) zum Einsatz kommen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -247,16 +349,6 @@
       "type": "News"
     },
     {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: Methysym pU: Aristo Pharma GmbH",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-04-07T11:13:08+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Neue Trump-Zölle : Arzneimittelhersteller zusätzlich unter Druck",
       "summary_de": "US-Pr&auml;sident Trump sendet erneut Schockwellen in den Welthandel. Es zeigt: Auch nach dem R&uuml;ckschlag vor Gericht bleibt er bei seiner aggressiven Zollpolitik.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -277,22 +369,22 @@
       "type": "News"
     },
     {
-      "title": "Ästhetizismus: Rebellion gegen Akademisierung des Stils",
-      "summary_de": "Der Schriftsteller Oscar Wilde und der Architekt Edward W. Godwin b&uuml;ndelten ihr Wissen als Universalgelehrte &ndash; und stiegen im 19. Jahrhundert zu Stilikonen des &Auml;sthetizismus auf. Ihr Geschmack pr&auml;gte ganz Europa.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/rebellion-gegen-akademisierung-des-stils-164180/",
-      "published_at": "2026-04-07T10:00:00+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Apothekenmarktstudie: Wachsender Druck durch Drogerien und Versender",
       "summary_de": "Eine aktuelle Sempora-OTC- und Apothekenmarktstudie zeigt, dass ein Gro&szlig;teil der Apotheken in den kommenden Jahren mit wachsendem Konkurrenzdruck rechnet. Das liegt unter anderem daran, dass immer mehr Anbieter wie dm auf den Arzneimittelmarkt dr&auml;ngen.&nbsp;",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/wachsender-druck-durch-drogerien-und-versender-164215/",
       "published_at": "2026-04-07T10:00:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Ästhetizismus: Rebellion gegen Akademisierung des Stils",
+      "summary_de": "Der Schriftsteller Oscar Wilde und der Architekt Edward W. Godwin b&uuml;ndelten ihr Wissen als Universalgelehrte &ndash; und stiegen im 19. Jahrhundert zu Stilikonen des &Auml;sthetizismus auf. Ihr Geschmack pr&auml;gte ganz Europa.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/rebellion-gegen-akademisierung-des-stils-164180/",
+      "published_at": "2026-04-07T10:00:00+00:00",
+      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -307,8 +399,8 @@
       "type": "News"
     },
     {
-      "title": "Unnötige medizinische Behandlungen: Wenn Ihr Arzt diese Behandlung empfiehlt, fragen Sie einen anderen - DIE ZEIT",
-      "summary_de": "Unnötige medizinische Behandlungen: Wenn Ihr Arzt diese Behandlung empfiehlt, fragen Sie einen anderen &nbsp;&nbsp; DIE ZEIT",
+      "title": "Unnötige medizinische Behandlungen: Wenn Ihr Arzt diese Behandlung empfiehlt, fragen Sie einen anderen - zeit.de",
+      "summary_de": "Unnötige medizinische Behandlungen: Wenn Ihr Arzt diese Behandlung empfiehlt, fragen Sie einen anderen &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNkZDLTlSc21DNXJNbmlmb3RLcjA2OUp6U1VuMGt5Wl9GLWFOcFVWQUJ5OERkb0tGb1FKTTdRR1QzdFZOUWRmR284OUxoVTEzM1RHaVIyN0VOZnM1R1NsQUVhc1BTTWRmeEJVRFBXS3YtWC16NVJOVWxXUlc0VTZDLVRFOXdhdkdydkFYalNnaFlJNURUa2pUY3J1bkpYTWFJbVFuSU5YUG5palVn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-07T09:03:33+00:00",
@@ -327,8 +419,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Beschwerde gegen Harnstein-Beschluss – OVG prüft Polizeifall - DIE ZEIT",
-      "summary_de": "Gesundheit: Beschwerde gegen Harnstein-Beschluss – OVG prüft Polizeifall &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit: Beschwerde gegen Harnstein-Beschluss – OVG prüft Polizeifall - zeit.de",
+      "summary_de": "Gesundheit: Beschwerde gegen Harnstein-Beschluss – OVG prüft Polizeifall &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONFU2NWJyQ0VMcGtZUTJHZ1FJYTNlYXZCOGp1TFFjSzZ2SWVjWnQtMXNLNWhpYkhJTHYyOTVVcFRKNUtWeTlSRUgteDJIYk5keHp6OUtTX1dsSlNmVlZqc2pLd21JbU1vQlZCMks4MmFKRlNRdGM4TmRLeFFreVRXVUJrcVFsYXZ0d0UyZHNpUnRfMnpsNEJNRi1Qcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-07T08:53:35+00:00",
@@ -451,8 +543,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Cyberchondrie: Googeln, bis man zum Arzt muss - DIE ZEIT",
-      "summary_de": "Gesundheit: Cyberchondrie: Googeln, bis man zum Arzt muss &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit: Cyberchondrie: Googeln, bis man zum Arzt muss - zeit.de",
+      "summary_de": "Gesundheit: Cyberchondrie: Googeln, bis man zum Arzt muss &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzd1bkZoX1lCaVhzSDVCeDRDbXNnSXlhZWJhTzVCT0xRR3dmdU9JYkdDdjFhQWFFRWlycEthODdXeDhla1lGd3AyNzFER3FkUy15MWxSb1JjR0g2Vlo0TGllckZvZFk3aTg4dkViajhkQUVtajYycWl3bzYwYkRNQ3BhNjhZZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-07T02:00:06+00:00",
@@ -521,8 +613,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Quote für Zahnärzte auf dem Land - Bewerbungen noch möglich - DIE ZEIT",
-      "summary_de": "Gesundheit: Quote für Zahnärzte auf dem Land - Bewerbungen noch möglich &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit: Quote für Zahnärzte auf dem Land - Bewerbungen noch möglich - zeit.de",
+      "summary_de": "Gesundheit: Quote für Zahnärzte auf dem Land - Bewerbungen noch möglich &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ1Q2M0Jkb21xVllORkpJN3JjTlVfQW1MeUd2WC1YenhFS2F1YS1yczZ3djVHd1p3R0NpV0puVjY3OE12aG1QYkYxelN1aTZUdFVsZGlROWhYMVZYYVVDOHR2WDBNcEFwN0pGMUotSWRJdmtmTGNEMDlkWUphSnRlQm5jWm5zckpaWk9nN3dNY2thVlViVmg3UnI3NXM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-06T08:17:00+00:00",
@@ -621,8 +713,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Statistik: Apotheken in Rheinland-Pfalz werden weniger - DIE ZEIT",
-      "summary_de": "Gesundheit: Statistik: Apotheken in Rheinland-Pfalz werden weniger &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit: Statistik: Apotheken in Rheinland-Pfalz werden weniger - zeit.de",
+      "summary_de": "Gesundheit: Statistik: Apotheken in Rheinland-Pfalz werden weniger &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUjJRZGNXc0tXR3NDbHFkQTBJekp3cnI4dWEwWld4R0ZxWE9IZmF6UmRBQTFjZkk2TFVrYU01VzBuQlRYME9lQUdLalpfZ0lzb0RaSDFwOWRMODBWZTVmU0NjdlNHSXpVTkZEbC1obVVGcDRkVWYxQTIwc3lINzdYcDZnMUZ1OXdGa2F1ZHZTRWRPYVU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-05T02:30:06+00:00",
@@ -641,8 +733,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Wenn Sprache zur Hürde wird - Kliniken suchen Lösungen - DIE ZEIT",
-      "summary_de": "Gesundheit: Wenn Sprache zur Hürde wird - Kliniken suchen Lösungen &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit: Wenn Sprache zur Hürde wird - Kliniken suchen Lösungen - zeit.de",
+      "summary_de": "Gesundheit: Wenn Sprache zur Hürde wird - Kliniken suchen Lösungen &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMDkxTW91cTR4QkdzYzBwSlQ2dkpSN25NV2I5enFCVXZxX0piSGloZFNTZ2EwN3Qwb3FEd3ljeDRQYVBZc0xTM0JVeE9Jem16c2k4VHo5alhrM3EtTnZVLVZFU0ZHSkFWekdqY2JFRVk5cWI4X2ZrX3o1LXczT3dUbmVKRURiVzlFSU1RVXJpSHVHbnRN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-05T02:00:06+00:00",
@@ -681,16 +773,6 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Weniger Keuchhustenfälle in Sachsen-Anhalt - DIE ZEIT",
-      "summary_de": "Gesundheit: Weniger Keuchhustenfälle in Sachsen-Anhalt &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTnNodFdDQmNqSGJRUE01UVBodE13Q29CU1BrMWt3REJyMHZPMk5vZTVzRGlyeEhaVm5SQzNEUVRHalNjWnAzby0zak5zNF9rR3Z6Ml9wakl3YjZfS00zbDExM3ptendEbUwtZGZKMEJxWXZ4U1g4MmNMYTlHSXllVFFWclJ2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-04T12:40:33+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit - Weniger Keuchhustenfälle in Sachsen-Anhalt - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Gesundheit - Weniger Keuchhustenfälle in Sachsen-Anhalt - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -711,18 +793,8 @@
       "type": "News"
     },
     {
-      "title": "PZ Briefing: Die Top-News der Woche",
-      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand – mit den wichtigsten Nachrichten der Woche aus Pharmazie, Medizin und Gesundheitspolitik. Schnell gehört, bestens informiert.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-der-woche-164181/",
-      "published_at": "2026-04-04T07:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Wearables für die Gesundheit: Kann man sich für 400 Euro im Jahr besseren Schlaf kaufen? - DIE ZEIT",
-      "summary_de": "Wearables für die Gesundheit: Kann man sich für 400 Euro im Jahr besseren Schlaf kaufen? &nbsp;&nbsp; DIE ZEIT",
+      "title": "Wearables für die Gesundheit: Kann man sich für 400 Euro im Jahr besseren Schlaf kaufen? - zeit.de",
+      "summary_de": "Wearables für die Gesundheit: Kann man sich für 400 Euro im Jahr besseren Schlaf kaufen? &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWjFzUzJmTU5MSzNjbnNYZnZTcUE4Q1dITEUxVUxiTFRacFlkelhPN0NBOXV1VnVfdzZSQVpoS3BicUNTY2hDS1hNSkRnVldOOTNQSHREckk1NEc3YXpQMzY1WWpud0RITWw4UjRIWUVkMW5IS1ViR3pOeVdKU0RhWkp2bEVuZkdXcDBfUzgwMVF2QU1SWWMxUA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-04T06:21:26+00:00",
@@ -771,16 +843,6 @@
       "type": "News"
     },
     {
-      "title": "Bürokratieabbau: Warken plant Spitzengespräch mit Apotheken",
-      "summary_de": "Bundesgesundheitsministerin Nina Warken (CDU) lobt im Interview mit der Frankfurter Allgemeinen Zeitung (FAZ) den Ansatz der Kostend&auml;mpfung, den die Finanzkommission Gesundheit verfolgt. Beim B&uuml;rokratieabbau will sie auch die Apotheken an den Tisch holen. Zur Beitragsstabilisierung plant sie ein eigenes Gesetz.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/warken-plant-spitzengespraech-mit-apotheken-164217/",
-      "published_at": "2026-04-03T17:58:08+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "AI aging estimates based on chest x-rays linked to mortality",
       "summary_de": "No studies have investigated the ability of aging velocity -- the rate of change in radiographic age over time -- to predict mortality...",
       "source_name": "AuntMinnie",
@@ -821,6 +883,16 @@
       "type": "News"
     },
     {
+      "title": "Sachsen-Anhalt - Klinikreform wird noch vor Landtagswahl vorangetrieben - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Sachsen-Anhalt - Klinikreform wird noch vor Landtagswahl vorangetrieben - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNLXVzaDNJcWRHTmgzczNYcmxOVlNzU2JDYS0wR0dfd1B4UDVIZzJiTVNCYzhhOTJwUThMVWx4ZDBPVXVpbjRtMlJyUXFfUDBKLVUzWWZNMDhzOUFBeFFxY2NGVXVzQXdEbnFZb2FHQUpJUzh6aE41U3ZMeGo5bl9vSXREa2RpYzhyMmhFMV9SRGFwVFBhdDQwU0E4eGlRSmNNd0RXRXVXaVFXTW4xNjF5MnA1TTZJOGZTbUppX2UxczRCWUJBWlBNZGpZMnQxWHAwR0RaazVqcEYzQ1VsaDJmYnBjWUROMzNhSHl3a2xwVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-03T07:30:05+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Pediatric CEUS use 'slowly' rising since FDA clearance",
       "summary_de": "Since a 2016 clearance by the FDA, the use of pediatric CEUS in the U.S. has grown at a slow pace.",
       "source_name": "AuntMinnie",
@@ -853,20 +925,10 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Uniklinik-Chef Graf sieht \"Rolle rückwärts\" bei Klinikreform - DIE ZEIT",
-      "summary_de": "Gesundheit: Uniklinik-Chef Graf sieht \"Rolle rückwärts\" bei Klinikreform &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit: Uniklinik-Chef Graf sieht \"Rolle rückwärts\" bei Klinikreform - zeit.de",
+      "summary_de": "Gesundheit: Uniklinik-Chef Graf sieht \"Rolle rückwärts\" bei Klinikreform &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUkN2U0c0cFcyNDhtOWRQazhuWnhORXQ0S2ZaTkQ5SEJYem15Skh6TVNUa1ZrTkNnSEo3eGctcUo3eWI3T0hJZ2ZzTnRVNWVKek9CcnAwMEY1c0FVanJERnhUY01DZHcydzVUSVNiOFQwTkdSUUU0UnpBYktadXAzM3RSMVdWZ1pCMlJoT09LdGY0Vi1PWHRyWXdHcGg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-03T02:00:10+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit - Uniklinik-Chef Graf sieht „Rolle rückwärts“ bei Klinikreform - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Gesundheit - Uniklinik-Chef Graf sieht „Rolle rückwärts“ bei Klinikreform - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRFgyb3FfNjlWWUQtYjFVWWpZTW5BcEQ4QjJ5eEhEczJud0VncFVCUDdraUd2dFpMRFhRS05Eb3prMFhpR0JiUFJRazJxUWZRN2l1ancwNjdtaFpoTEl5QXhKb0IxRlpidW1NeWRFZlR1YVVTTERxdkdGTGNGMXY2MWZqNVRFNnYwY3BrN1M3NnJSc1JaX2F3R3hELTRHckJtTEtyTTQzWHcwd1VBa29Sck1zczR0eWVNeTZuX0YzX1JGY2NZYWY1dTcwM05WVVZJQ0NLYXI1SzRtaXEyOEhRaHNVenhsczh2OFFaWVBRRkE1UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-03T02:00:10+00:00",
       "category": "News",
       "tags": [],
@@ -903,16 +965,6 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitswesen im Krisenmodus: Ukraine: Mobile Apotheken sichern Versorgung",
-      "summary_de": "Im PZ-Interview schildert Oleg Klimov, Vorstandsvorsitzender der ukrainischen Apothekerkammer &raquo;All Ukrainian Pharmaceutical Chamber&laquo; (AUPC) die Versorgungsituation w&auml;hrend des Krieges und problematische regulatorische &Auml;nderungen im Apothekensektor.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/ukraine-mobile-apotheken-sichern-versorgung-164125/",
-      "published_at": "2026-04-02T16:00:00+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Notruf - Märkisch-Oderland droht mit Gebühren - Minister verwundert - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Notruf - Märkisch-Oderland droht mit Gebühren - Minister verwundert - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -929,16 +981,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZmlncDRlS21NN0xwd0RXUDRBbXlVUkNsRHhvQXktZElkQklXM3dzRlI0ZnU5X091cXY5cGtxclBaR2Y5TUxzZXgxYlVMODNhNDFFX05SS094Zml0dHIzRktJQ2lDcjFVVmg1dGxQdjFlUFlGSi1wUS1neXZYXzdKVTU3ME9zdTRLcHRSVVcwdVlUY2kyd05BQk8tZk1Mdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-02T15:11:05+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Konstanz: Seitzl besucht Apotheke – zentrales Thema das Fixum",
-      "summary_de": "Auf Einladung des Inhabers Murat Baskur besuchte die SPD-Abgeordnete und Mitglied des Gesundheitsausschusses, Lina Seitzl, die Apotheke im Seerhein-Center in Konstanz.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/seitzl-besucht-apotheke-zentrales-thema-das-fixum-164213/",
-      "published_at": "2026-04-02T15:00:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -978,16 +1020,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY05ZeE5COC1HRXhXNjBoWWQ4bWZCVzhJUjkyYTYxWFlzM2xMdTctYXNvNFd0T2hMNDFiTmg0WXZ5VVAtanJlLWRuaWgwWV80dXdCeGZNZHJuODNZZHpvSEdJVmE4ZGZ1bE53ZDkzOG9KeEhsREp5SVlBU0RUMTBUdlhua3hvUEdCZGd0cEtvSlpxUDdQQ3J1cTlOdzNmRzA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-02T13:38:15+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "TK-Chef Baas: “Digitalgesetz setzt an den richtigen Hebeln an” | Die Techniker - Presse & Politik - Techniker Krankenkasse",
-      "summary_de": "TK-Chef Baas: “Digitalgesetz setzt an den richtigen Hebeln an” | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR3hubXY5Uks5TWZSXzZCckFna2I0MVJMUWl3cmpyMU5XWmJEZGZjemZIblRJTHRBak9PcXhmZkljelN6LXo2QWJvQXNlRjVsYm9JMWVSTG4wNkxGaG5LY0dFMTRrblMxZm1CT0tNdFFKMllhbWhFbkw5anR1Vkd0dWlIcUpSaG1HLW5EU29hemdDdEFKS1hqNThJcFhYdTNScXpnVUtRbTFCZ3FN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-02T11:56:13+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1187,16 +1219,6 @@
       "type": "News"
     },
     {
-      "title": "Folge der Unterfinanzierung - Große Suchtklinik für Jugendliche vor dem Aus - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Folge der Unterfinanzierung - Große Suchtklinik für Jugendliche vor dem Aus - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbUtjbTNabGFvc01sZGRyNUZVeUhsUGVPOHB0cTB0OG1jOTRVb2x3OFpEN3AxQ3llQjJyU3ZzMDY4Y2txTEpLc1FDdktwVWhDdmNkR2wxRHJEQWFoanhmUGcxQ0kwT0c2ZUdSUUtjbWtTUDdqVldwX0llTU9XZS13RHRVaHlIYzFSWmw1SFhtMEtIclhzUy1adE9XejV5MS12c1U3OG1pY0JmWnc4UlRiVlBuQnl6eFZJbkxSeEJIYjdtWXRXRjFLdUpkTnhUQ21yTWg2X1ZjTzBlTmoydVRrUkhQdll4dGhiU3lycnlsdE1RQ2lUZjFF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-01T14:21:18+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Apply for a licence to market a medicine in the UK",
       "summary_de": "An overview of the process to get a marketing authorisation (MA), including submitting, fast-tracking an application, naming your medicine and paying fees.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1237,16 +1259,6 @@
       "type": "News"
     },
     {
-      "title": "Krankenhäuser - IT-Störung an Charité hält an – Kliniken arbeitsfähig - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Krankenhäuser - IT-Störung an Charité hält an – Kliniken arbeitsfähig - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxON1gtMDVuTWxMZzhscGgxRGpMUVk1VE8xVThhT0NJZkxPLUVyYkpGM1dCR0JfYVNJdDc4TGlGVVdSMTlocUM0UlQ2bXRsNy1sbGgtX3VMUWVxUzVNaFU2X0RpWDM4YWhoUHd4VUF0ckxXSjZKLTN2MUR1dkVuYi1KZDhtUFdIN2d6QXdKbF9xX1dmSS1Cd3B1Nk4zVF90aWtFdEpQRXpjbXMzaGxWOEVvU1lKT1R0MENKd3l1djFHdmRTS1k3UnV6alpwbmw3ZWt1VUZ1XzBwLWt1WlZiQjlIV0g0VHlMVUtzaFkwVlowUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-01T11:38:36+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Zwei Jahre nach der Cannabis-Legalisierung ziehen Forscher Zwischenbilanz - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Zwei Jahre nach der Cannabis-Legalisierung ziehen Forscher Zwischenbilanz - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1277,8 +1289,8 @@
       "type": "News"
     },
     {
-      "title": "Psychische Gesundheit: Psychische Probleme häufigster Klinikgrund bei jungen Menschen - DIE ZEIT",
-      "summary_de": "Psychische Gesundheit: Psychische Probleme häufigster Klinikgrund bei jungen Menschen &nbsp;&nbsp; DIE ZEIT",
+      "title": "Psychische Gesundheit: Psychische Probleme häufigster Klinikgrund bei jungen Menschen - zeit.de",
+      "summary_de": "Psychische Gesundheit: Psychische Probleme häufigster Klinikgrund bei jungen Menschen &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR2VxTHhKS2pVLVBFRmFRTVpDeFcxUEFTcWZyamJyd1l5QjlHQXZfcWhGU2FRUUtOZEtoYVZhRmhnVEM0SENTYUQ3YWJ4MTZoam1yVnVDN1hvbE5SaEM5VWdTV1MzLTlDMlo3WHoxRDhBb3JSYzBoZGxrZ2hkb3dJTnYwb2JiWmVSYURwU29WVHM3aUhKTEtRVGFFRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-01T09:52:50+00:00",
@@ -1302,16 +1314,6 @@
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
       "source_url": "https://www.gov.uk/guidance/register-medical-devices-to-place-on-the-market",
       "published_at": "2026-04-01T08:00:05+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Guidance: Get medicines to NHS patients earlier via the MHRA-NICE aligned pathway",
-      "summary_de": "By streamlining decision-making, the MHRA–NICE aligned pathway will help patients access new medicines 3–6 months sooner.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/get-medicines-to-nhs-patients-earlier-via-the-mhra-nice-aligned-pathway",
-      "published_at": "2026-04-01T07:00:05+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
@@ -1526,8 +1528,8 @@
       "type": "News"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-27T07:00:00+00:00",
@@ -1536,8 +1538,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik: Miersch fordert Anspruch auf raschen Facharzttermin - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Miersch fordert Anspruch auf raschen Facharzttermin &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheitspolitik: Miersch fordert Anspruch auf raschen Facharzttermin - zeit.de",
+      "summary_de": "Gesundheitspolitik: Miersch fordert Anspruch auf raschen Facharzttermin &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWh4ejF4R3pHV1M3a3JXVWU1QTFKdkJLTmpRYmstbkRzZE4zZTYyOHFGRGgyQXh0enVvcmtBYnBwSjdxNDZnb1EzQWx1S3g1T2wtNFNOM09fay1hUi1XTnh0SE9XUHZrdFQ3MzN6LWdUemlUQ1hoUFVTTTJxNzVucU1CYmhXdzBBVTIzaEt3VW5maGwxYUJVdExoZzZTT28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-27T07:00:00+00:00",
@@ -1912,8 +1914,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik: Schleswig-Holstein übernimmt Schulden des Uniklinikums - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Schleswig-Holstein übernimmt Schulden des Uniklinikums &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheitspolitik: Schleswig-Holstein übernimmt Schulden des Uniklinikums - zeit.de",
+      "summary_de": "Gesundheitspolitik: Schleswig-Holstein übernimmt Schulden des Uniklinikums &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzg4S3ZHRnpwS1hmMkwyeGRFR0E3REp1b1VHNVpUVThYQVYwMk5BbG9oOTdQR2Z2VHFUMmd5cU45NVlFTXhpaHBsUlB1MUFVQTdYXzFOQjF3eHVuNG1pMDd4WU9UemZJQjg3SDBhZ2xvRW5TQjQ0b2xUb2doSEZrVklKUWdTMjZGczlTVzBn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-19T07:00:00+00:00",
@@ -1992,8 +1994,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik in den USA: US-Gericht stoppt Impfpolitik von Robert F. Kennedy - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik in den USA: US-Gericht stoppt Impfpolitik von Robert F. Kennedy &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheitspolitik in den USA: US-Gericht stoppt Impfpolitik von Robert F. Kennedy - zeit.de",
+      "summary_de": "Gesundheitspolitik in den USA: US-Gericht stoppt Impfpolitik von Robert F. Kennedy &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSTNhMUtLSGFMSjdGcHJ3dFYyYXhxU1FUZDVsRXQwNF8wOGE1UDc1UHRNS3h2eDM3aTFrVGlxWnAwOUJTLUx2OF83cV95TTZRZHJPUk1JZXAtc3NDQnB3R2F6MkhOY0M5ZTZyVjBoUnhlM3pkbDdDUFJtUHJ3MVBOZDUycmF2aXNUdjM2V3hxckdPLXBLM192R25wYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-17T07:00:00+00:00",
@@ -2493,22 +2495,22 @@
       "type": "News"
     },
     {
-      "title": "Kunst und Gesundheit: Gucken Sie sich diese Bilder genau an. Ist gut für Ihre Gesundheit! - DIE ZEIT",
-      "summary_de": "Kunst und Gesundheit: Gucken Sie sich diese Bilder genau an. Ist gut für Ihre Gesundheit! &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON29nVy1pZFhTck9DQmVKRC1Yd2Y0aWZOQThHUnk4bTFzT3FDV0RCUWw0eE9Wc0duLTFHcDZ3SVV5Y0M3VFBDOVlnN3lBNnh0V2VoYmtwVWFlMU1McmZUZ1FwRDZMem1WaWVEVk9ab1JXNzdBckJUd01ybnRjOGREb04yNUVRb0VQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-08T08:00:00+00:00",
+      "title": "Podcast Gesundheit: oBARMERcare klärt auf – unterhaltsam und informativ - BARMER",
+      "summary_de": "Podcast Gesundheit: oBARMERcare klärt auf – unterhaltsam und informativ &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Vam9yOEZ6Y05Kd240VHBxWHFMa3B0RnpEeHZiclU1TkFnWTlMaE13NUZ5dXpaeHFaUkRTcE5DT1YtbldDeW5TUFVCdFBsOVdtWjl6WE1hTjYtM05aR09iMm9ZZlJSSnFiQkI4WHdvM2psQnVzY2pKdFFNRF85Zk0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-09T07:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Bessere Teilhabe am Arbeitsleben: DRV Bund und Ersatzkassen fördern Frauengesundheit",
-      "summary_de": "Frauen erhalten in Deutschland weiterhin deutlich geringere Altersrenten als Männer. Anlässlich des Internationalen Frauentags am 8. März weisen DRV Bund und vdek darauf hin, wie wichtig stabile Erwerbsbiografien für die Altersvorsorge sind und mit welchen Maßnahmen die gesetzliche Kranken- und Rentenversicherung die Teilhabe von Frauen am Arbeitsleben fördert.",
-      "source_name": "vdek - Verband der Ersatzkassen e. V.",
-      "source_url": "https://www.vdek.com/presse/pressemitteilungen/2026/internationaler-frauentag-teilhabe-arbeitsleben-frauengesundheit.html?pk_campaign=rss",
-      "published_at": "2026-03-06T09:00:00+00:00",
-      "category": "Gesundheitspolitik",
+      "title": "Kunst und Gesundheit: Gucken Sie sich diese Bilder genau an. Ist gut für Ihre Gesundheit! - zeit.de",
+      "summary_de": "Kunst und Gesundheit: Gucken Sie sich diese Bilder genau an. Ist gut für Ihre Gesundheit! &nbsp;&nbsp; zeit.de",
+      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON29nVy1pZFhTck9DQmVKRC1Yd2Y0aWZOQThHUnk4bTFzT3FDV0RCUWw0eE9Wc0duLTFHcDZ3SVV5Y0M3VFBDOVlnN3lBNnh0V2VoYmtwVWFlMU1McmZUZ1FwRDZMem1WaWVEVk9ab1JXNzdBckJUd01ybnRjOGREb04yNUVRb0VQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-08T08:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2530,16 +2532,6 @@
       "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV2tMcG41d3BlSm9kbk01UFZHcGVKa3VBaDVObE9DSE1LbVh3V1NPckZCTkpNR0RSY3VleDR2ZHRJaktIWmVKTUtVY1B5ZVAxSGRuTnB5Y0d6cDhtaTg2cFFJTExueFhKdzQ1a0QwNHBNeDZhLWNxaDRPdFY1eE8tQ1ZDYWpzaTU1Z1ktVDZET0pGbGRlQ2xUVHg3SldJSzA4aFJQemVVWVFaaGV2VmszQlRqNmlrR1B3Ymd3b0pUOGI5bWRzd0lFelRYcmo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-06T08:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Krankenhausreform: Kompromiss gut, aber Reformziele dürfen nicht weiter verwässert werden",
-      "summary_de": "Anlässlich der 2./3. Lesung des Krankenhausreformanpassungsgesetzes (KHAG) vdek-Vorstandsvorsitzende Ulrike Elsner: „Die Einigung ist ein vertretbarer Kompromiss, auch wenn wir uns in einzelnen Punkten weniger Ausnahmen gewünscht hätten.“ Generell komme es darauf an, dass die Länder den Umgestaltungsprozess zügig angehen und die Ausnahmeregelungen nicht ausrezizen.",
-      "source_name": "vdek - Verband der Ersatzkassen e. V.",
-      "source_url": "https://www.vdek.com/presse/pressemitteilungen/2026/krankenhausreformanpassungsgesetz-khag-zweite-dritte-lesung-bundestag.html?pk_campaign=rss",
-      "published_at": "2026-03-05T10:45:00+00:00",
       "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
@@ -2599,8 +2591,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik: Land unterstützt UKSH und übernimmt Schulden - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Land unterstützt UKSH und übernimmt Schulden &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheitspolitik: Land unterstützt UKSH und übernimmt Schulden - zeit.de",
+      "summary_de": "Gesundheitspolitik: Land unterstützt UKSH und übernimmt Schulden &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVjd5U09jZDFwT252b1JHR3llNTJ0LURZM0luSlR6Uy01S0N6aFdTT2ZsQ3ljVGZfTXZyTjctU05SZjhlQUNwTjcyY2tOM0xHcWZ6TE9XemxXb3d1TzNkM2dOeXlQeTM1YUdPMXgycmNFY05HWWQ0RlhFT09qTkVra0pic0d3RXJfTVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-04T08:00:00+00:00",
@@ -2609,8 +2601,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik: Schleswig-Holstein entlastet Uniklinik finanziell - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Schleswig-Holstein entlastet Uniklinik finanziell &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheitspolitik: Schleswig-Holstein entlastet Uniklinik finanziell - zeit.de",
+      "summary_de": "Gesundheitspolitik: Schleswig-Holstein entlastet Uniklinik finanziell &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGRqR0NzMmNNMU5haXloaUt1eW9Bb0h5SGMxdldoc0t1dWtRZEM5dmJacVJPa0RDa1BpemNQcVZ6WTNfeTZ2eTJtek05eEM5djhTaldKUVZRdWlvM1dZXzJ3elI0ZzNJVklOcF8tUzI3V20zb3hZMXlFcVFZNTlwTmczaXpaQnppNm9jeGhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-04T08:00:00+00:00",
@@ -2748,18 +2740,6 @@
       "published_at": "2026-02-27T04:04:31+00:00",
       "category": "News",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Pressemitteilung: Die Notfallversorgung muss bundesweit einheitlich und gleichwertig sein",
-      "summary_de": "Im heutigen Gesundheitsausschuss erfolgt eine öffentliche Anhörung zum Gesetzentwurf zur Reform der Notfallversorgung und des Rettungsdienstes (NotfallGesetz - NotfallG) der Fraktion BÜNDNIS 90/DIE GRÜNEN. Anlässlich dieser Anhörung äußert sich Stefanie Stoff-Ahnis grundsätzlich zu der notwendigen Reform der Notfallversorgung.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2214656.jsp",
-      "published_at": "2026-02-25T08:35:34+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
       "type": "News"
     }
   ],
