@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T21:30:31.710312+00:00",
+  "generated_at": "2026-04-11T01:45:14.559794+00:00",
   "window_days": 42,
   "count": 262,
   "items": [
@@ -426,16 +426,6 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit & Psychologie - Spiegel",
-      "summary_de": "Gesundheit & Psychologie &nbsp;&nbsp; Spiegel",
-      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwYUZsT09DRUtya0t6cGczOU80YjY5cy12Qk13Qk9wdl9tTlJ0NkdCMG5mdFhjVjFyb3BGYkt5VzhCdDluNmZsdHY0LWJ6SWdFb3dRX2JpbmlkM1ZLM0dKRG1CeU80VTBFWUN2dXY0bWVmNGVwZkNLcUNB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-09T18:43:38+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Ein MRT schwebt heran - Die Johanniter",
       "summary_de": "Ein MRT schwebt heran &nbsp;&nbsp; Die Johanniter",
       "source_name": "\"site:johanniter.de radiologie\" - Google News",
@@ -571,16 +561,6 @@
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdDItNkdzQlk0aElxLWFmUFlueDJSUWRyLW1TUjFqVWFUNWlsWVREUmFyTE4yVGNEb0RDTW9OWjNVN3VTUFRMWUExUURtSjRpUTJPMVRBZk1IYTdsRm9fLTgtbU56bHNpd1RUSnRlTVJXYzJPQTZSUzVTYUtSdDBhWXFORkV6R19SUjFKY1FEdGlJUlpFLVJkM3kyT29ZelBBX3RnMjZ3UEc1UkluNGJ0RmZhM1UtaUZQMjhhV0RB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-09T13:50:59+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Ganzkörper-MRT für Selbstzahler? Radiologe sagt, wer sich das Geld sparen kann - Berliner Morgenpost",
-      "summary_de": "Ganzkörper-MRT für Selbstzahler? Radiologe sagt, wer sich das Geld sparen kann &nbsp;&nbsp; Berliner Morgenpost",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLVBqWnRYQ1pkUFNBS3ZTazhORnd5cWZpeDNCRXpsUF9OQS1mYmY0dVRFR05zazFjcm1ia0Z4ZXhHSzNWcU5yMG1KUDRPYkRjVnhvbm9zc0NvMTNDMHlFS25VUmkyUjQ4aDlRUFZUN0dvZTZwaWFqR0hiU3NlbXZZZ0hPVERmQUp0eDFvQWx0MmdmeUkxaEdBcVlyV1hqZEpMRUVTYThIMjQ3d0paNTFHQlBONHF6SHo0bXZFSEZ1RTRwVmRKMVF1VW03UDZHaFg3TVA1VGpFNmV1RVhzVHl0NVVtWWJTZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-09T13:35:05+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -1123,11 +1103,21 @@
       "type": "News"
     },
     {
-      "title": "Krankenkasse für ein gesünderes Leben | BARMER - Barmer",
-      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; Barmer",
+      "title": "Krankenkasse für ein gesünderes Leben | BARMER - BARMER",
+      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-07T07:02:16+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheitsversorgung - Keine Krankenversicherung? Diese neue Möglichkeit gibt es - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Gesundheitsversorgung - Keine Krankenversicherung? Diese neue Möglichkeit gibt es - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYmo3WHAzYmxyWnFCWjFoLTZoZ0VWcUQ0UnBlTmVBTWFkdVJVRUk1YTVIWjN6VXEwYVA2dGhQdTJvOWpLRE9qdHA1Ym1Jc242bDJHTHBWTWZfUW1tbkMtQUlFS1Bpa1BQbXdncHM1N2RrQTU2aWtlQ202VVVkU2lGWkx2YWpVVXo5MUFVaGh4eVpZd3NuVFcwMVROcWZuRzR6MndJQ3BWcDRURXdiUEpqekZIbmJyZG1FaXB1Umh5ZFhzVTFvMC14ZXpDU1JVX2FsRnRaRmRfbHd2U2dVbUJHWXBWOU5MbEtUY1JmbzJEVGlPa0F3dEtVbzBjVjE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-07T06:31:27+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1363,16 +1353,6 @@
       "type": "News"
     },
     {
-      "title": "Als zertifiziertes Traumazentrum sichert die Klinik rund um die Uhr die Versorgung Schwerverletzter – unter Leitung von Prof. Jungbluth mit moderner Technik und spezialisierten Teams für die Region. - Rheinische Post - RP Online",
-      "summary_de": "Als zertifiziertes Traumazentrum sichert die Klinik rund um die Uhr die Versorgung Schwerverletzter – unter Leitung von Prof. Jungbluth mit moderner Technik und spezialisierten Teams für die Region. - Rheinische Post &nbsp;&nbsp; RP Online",
-      "source_name": "\"site:rp-online.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSGw2by14UzhzenVSZndBdi1VTl90aHNpWE1oQVFJY3RPTmFfMkpKYU1NbkI1VENneE9IdUlfSVlZQVJYaEFodFRLWWpxaXRjMWRMLV9UUV9weUtVVUQwMWNOdjJUZDVMcEpyZlMwSGRZLWJWY3paZ2RjNlhBckhaOVZoVW43ZWVnWE9Kby1DUXdUSWFtVmNRMDJxVTNPemFGTDU0ejRoMDVQa0FQY0xiUXBOTGxRa0RnSzNUY1FHSE1kUkdkclVGYjNjX0lnaUVSdXM1czdnRnlnUVQzU1JjbENPV1VzSnpiNG41U0d5N3U4UURPa2FKNTI2RTd3ak9zWDJId1ZYdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-03T22:06:51+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "UK and US deepen regulatory cooperation on medical devices, building on wider pharmaceutical partnership",
       "summary_de": "The Medicines and Healthcare products Regulatory Agency and the US Food and Drug Administration are strengthening cooperation on medical device regulation, to support faster access to safe, innovative technologies for patients in both countries.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1487,11 +1467,21 @@
       "type": "Studie"
     },
     {
-      "title": "Apotheken-Themen von heute sind ein Prüfstein für Gebührenlogik, ein Eingriff in die Statik des Systems, und ein Vorgriff auf eine Medizin, die früher erkennt - PresseBox",
-      "summary_de": "Apotheken-Themen von heute sind ein Prüfstein für Gebührenlogik, ein Eingriff in die Statik des Systems, und ein Vorgriff auf eine Medizin, die früher erkennt &nbsp;&nbsp; PresseBox",
-      "source_name": "\"site:pressebox.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPZUVFOEU5UDRZOF9NV2VnV3FkTE5ZRFppX1o1aFFyYWlGek5XRFMxY0I0YUJ5UDFWWlA5eDhYdG4xV19xdHZ4R2RJX3dZNGN0LTBDZ3BBV0NVMXdYNHA3a1Y0VFVldTg5YUxNaWIzTmxscF9TcHlaNVAwNHktaTZGSHZfYTZCbE1DYzdmT1ZqdXRNWnRUVWl1dEU0QmFaT0FnTVdkUTQyNVkwTFV0S2hneHZzUWw3T05mS1JxeFRHUFZCNm1laGEycTE5RnhlMkZvYUZDZHNZQ0xSdkZ2LUVYSmRVOE4tcjlwY3R6Y1lqMkJzcXJULVplUHY1Q0FueWNOSDlYcUxpLWxtOWVYR29SU0c4aEJOUTBtdlhBZmtQR1QyY3RESkZreDc1T2JxU3NYaUVnV09RT3l2VWZGSkNkMlFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-01T05:32:00+00:00",
+      "title": "BARMER Krankenkasse in Simmern - BARMER",
+      "summary_de": "BARMER Krankenkasse in Simmern &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUWdwTkVlOEZ2VW4wWk1yM0NpaHlTUm9xNkZZa0VPS3dvTmg3bW4zZWRkQUdQV1FzalUwYmtVbGNoY3Z4QVdPMVBEZnVLNUdMSW9Za1dmQ3VnaTFjSjUyQkIwWTh2Y2lsLU9Tb294a21iQUhTMzdBSGtudmc1ZXUxd2w1b01Wc1RIOThZdzZmdVJzSnBESDg0X0h6d3cyUk5tTlF6X1ljWlhTOFcwa1h6cG5ybE9VVk9nSEQ0amwydEN0SlVjYjdn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-01T11:03:02+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "BARMER Krankenkasse in Berlin Charlottenburg-Wilmersdorf - BARMER",
+      "summary_de": "BARMER Krankenkasse in Berlin Charlottenburg-Wilmersdorf &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcDRmaldyaEp3TjhHQThjdkYtZ0M4d2ZBQkhqTk1LYWZqR0l4Ym9iWWlxV0h1MTNGOXYxdkFpYU5yRnp6UlNlU0tkd1ZuRTBMQVB0UzdIV2pEMGdTTWRzbGFBSUpEUVZ2WmJGblhkbGh3YkZaWDhHbUQxNkJWcUFId292MGNma1YxcDRvM2ZwcmN3Q1ZuQ2x3dzdlcENFd19MNS1zSEtPY2swbkJRbHU5SkNBaHE5dUVIbGJvb1B3b01EbDFTZjMxU2RGZG1saDVzT1gzZVhERTNRX25WOUZBQ2pxbzZvV0FlOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-01T10:54:30+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1654,8 +1644,8 @@
       "type": "News"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-27T07:00:00+00:00",
@@ -2657,6 +2647,16 @@
         "Versorgung",
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Länderübersicht Türkei | Die Techniker - Firmenkunden - Techniker Krankenkasse",
+      "summary_de": "Länderübersicht Türkei | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdk80cTlkQ1dnS0J3VXRnNDAtdUMyNmFQaE93WW9VTm1vVDVVaEIwWkJtTTNSVlR6WjFhRWM1Z1k0bzBJSno0eDZWTVR3VkVrUmNNM1lJSXdQZ0N4NHl6OFRwZlN0U2htSVdEdmgxSzdZUXpzZFd3eTdocnRYNTI5RUQtdHlGd0VQbFRvOHdYRlhNdFA0LU1GVE92cTZFMlN6c0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-03T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
