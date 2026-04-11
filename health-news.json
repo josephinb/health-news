@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-04-11T06:53:26.944309+00:00",
+  "generated_at": "2026-04-11T09:33:35.396196+00:00",
   "window_days": 42,
-  "count": 259,
+  "count": 258,
   "items": [
+    {
+      "title": "PZ Briefing: Die Top-News der Woche",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten der Woche aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-der-woche-164405/",
+      "published_at": "2026-04-11T07:00:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Großprojekt - Planungen für Neubau der Asklepios-Klinik Altona dauern an - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Großprojekt - Planungen für Neubau der Asklepios-Klinik Altona dauern an - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
@@ -458,6 +468,16 @@
       "type": "News"
     },
     {
+      "title": "Gesundheit & Psychologie - Spiegel",
+      "summary_de": "Gesundheit & Psychologie &nbsp;&nbsp; Spiegel",
+      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwYUZsT09DRUtya0t6cGczOU80YjY5cy12Qk13Qk9wdl9tTlJ0NkdCMG5mdFhjVjFyb3BGYkt5VzhCdDluNmZsdHY0LWJ6SWdFb3dRX2JpbmlkM1ZLM0dKRG1CeU80VTBFWUN2dXY0bWVmNGVwZkNLcUNB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-09T18:43:38+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Ein MRT schwebt heran - Die Johanniter",
       "summary_de": "Ein MRT schwebt heran &nbsp;&nbsp; Die Johanniter",
       "source_name": "\"site:johanniter.de radiologie\" - Google News",
@@ -684,26 +704,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/lange-nacht-des-impfens-dieses-jahr-im-november-164335/",
       "published_at": "2026-04-09T10:36:09+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Therapy speak: »Das triggert mich« ist eine Ausrede",
-      "summary_de": "Im Alltag ist der Begriff &raquo;Trigger&laquo; immer h&auml;ufiger zu h&ouml;ren. Ein Psychotherapeut warnt davor, wie schnell Menschen so die Verantwortung f&uuml;r ihr Gef&uuml;hl auf andere &uuml;bertragen. Sogenannter &raquo;Therapy speak&laquo; kann zudem psychische Probleme verharmlosen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/das-triggert-mich-ist-eine-ausrede-164329/",
-      "published_at": "2026-04-09T10:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheitssystem - Harzklinikum bekommt mehrere Millionen vom Landkreis - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Gesundheitssystem - Harzklinikum bekommt mehrere Millionen vom Landkreis - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc3lJY3JtTFBlSkk0WnF0bThsem5JdzdiYUtOZG9DM1Z6blRQVTVBRzJYb1Iwa3ZhN0FGWWp6UzhZbXk0ZGs1OThfanF1TldnQzhlT1J5elB6MG1TSkZSS3BRLVZ1YzRIUE1oMTFPaUg2a1FmaC10ekpYQWFrRW9KbjZCVXVVRUN2WW82MHNacVFjTEcycHYyWmIzRlBzSjR0YUVDZEhPb1lEM2JQeTZrOTB4bW1rZzEya0JOaktaNWtnR2s4SFNlWWpMNWZ3RU5oZ2o4VDVGbEpYS3NWTUhtT0UzVk9weVZBaUFGZjRNTXM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-09T09:47:40+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2487,16 +2487,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Künstliche Intelligenz im Fokus: Radiologen forschen am Klinikum Minden an der Medizin der Zukunft - Mindener Tageblatt",
-      "summary_de": "Künstliche Intelligenz im Fokus: Radiologen forschen am Klinikum Minden an der Medizin der Zukunft &nbsp;&nbsp; Mindener Tageblatt",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRXFhVGZIbUZCRWdKa2I0dHd0V1V2MzhTLXRZZ1M1Y2JwVFJWTnR0OG1pVktxRkNfUll1VkNvdEVhWFFuN28tTjN4am0yUnVkSF9GQ1ZQM0lnTTlYalZHWnhFbTJkY3dFSmVFa2ZCRTBORXBmNFgwUGxWU2V4YURIMDQzeXF4aGltV3pEQ1ExS21tYzMyQlBsQjBUUWJvTC1XcFJONDBlclhLcEpqSktnWjZZV0R6QS05Tjl1MzBzR0VUU25TY0hlQS1paktBRTRpb0R4TGpNMVhJcE55clE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-10T07:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
       "type": "News"
     },
     {
