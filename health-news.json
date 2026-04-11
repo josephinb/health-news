@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-11T15:26:57.886349+00:00",
+  "generated_at": "2026-04-11T18:34:24.297399+00:00",
   "window_days": 42,
-  "count": 246,
+  "count": 253,
   "items": [
     {
       "title": "Hessen: Entfernung zur nächsten Apotheke variiert in Hessen stark - tagesschau.de",
@@ -114,16 +114,6 @@
       "type": "News"
     },
     {
-      "title": "Bei Verdacht auf Missbrauch - Brandenburg bekommt die ersten Kinderschutzambulanzen - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Bei Verdacht auf Missbrauch - Brandenburg bekommt die ersten Kinderschutzambulanzen - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdm5wbndQUlRrbzU4c3hVeU9uX3pPRnVMX2NCNnZUQ1FwU3pKLUJUNEtZOVJSS3ZZdm4zbEV3UThqaUVqTjlLQ1NYZ1pKVnMwQXJMNTN5TERmazNNcDFUN2NvbXVERkVRdUVjYlM1am40RFIyWHBsd0kxVTlBVzdCNkVtcjdJUjRPTU5tNjNWcGE3bzZEZUZra0hULURVclNDaGpjU0NucUh0RnpCQWV5bnppNmU3dlJiRU45UjU2amt2VXkwcGhwYXVUM0F0Z1NwZkllMjdoNkJCdHdpUi1jY1d0ZDlsOGhUa2QxN21NRXRJNVVOWmt2SUJfOFpUcTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-10T15:04:35+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "MHRA approves olezarsen (Tryngolza) for the treatment of familial chylomicronemia syndrome",
       "summary_de": "MHRA approves olezarsen (Tryngolza) for the treatment of familial chylomicronemia syndrome",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -210,16 +200,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/kind-hat-staendig-blaue-flecken-das-sollten-eltern-wissen-164387/",
       "published_at": "2026-04-10T12:30:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Bei Verdacht auf Missbrauch - Brandenburg bekommt seine erste Kinderschutzambulanz - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Bei Verdacht auf Missbrauch - Brandenburg bekommt seine erste Kinderschutzambulanz - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYlFIUThicUVYY19FU0dkcFVPcmQ3Sk9aN0pJZlVjMWZZVXVIcUdoS29sLW9KLUx5dS1mTU1vX2Y0cU9XcmcxYThqZnpmMnQ2VVhLN2ZOQnFGVjdOYkI0N0xDbnU5eXZrbjdjMXJ3QUt3OUMybEd6aVpiNmNONEYySGtqUXdodFR4dmhvNlBKQzR5aFBiNVBZV1FvaXlGM1Q5cEN3YXNvQXJ2T2ZyTmZUajF1bFNoaXFtdmZiWWJWN2lNdmVMZ1JqcVFWbkRjN0lickQ0dGpxR3F1VVNTQVViM2ktT0lwSi1VSlAyU0tPd3EtQkI3ZHNteTFaX2lZdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-10T12:29:44+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -366,6 +346,28 @@
       "type": "News"
     },
     {
+      "title": "Week in Review: Radiology's hidden safety risks | Paying for AI mammography? | New 'Invisible Force' episode",
+      "summary_de": "Our top story of the week covered research that described radiology's hidden safety risks and how to address them.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15821959/week-in-review-radiologys-hidden-safety-risks-paying-for-ai-mammography-new-invisible-force-episode",
+      "published_at": "2026-04-10T06:25:35+00:00",
+      "category": "Studie",
+      "tags": [
+        "Radiologie"
+      ],
+      "type": "Studie"
+    },
+    {
+      "title": "LLM shows promise in translating radiology reports for patients",
+      "summary_de": "GPT-o1 in a study simplified emergency radiology reports and produced translations across multiple languages.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/imaging-informatics/advanced-visualization/article/15821961/llm-shows-promise-in-translating-radiology-reports-for-patients",
+      "published_at": "2026-04-10T06:01:03+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Tuberkulose: Zwei neue Impfstoffe zeigen gewisse Schutzwirkung",
       "summary_de": "J&auml;hrlich sterben immer noch mehr als eine Millionen Menschen weltweit an Tuberkulose (Tb). Zwei neue Impfstoffe zeigten in klinischen Studien jetzt ein gutes Sicherheitsprofil. Sie boten zwar keinen Schutz gegen alle Formen der Tb, k&ouml;nnten aber die Krankheitslast reduzieren.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -392,16 +394,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVEdvWjlHbnlqOGFFeHFiS3Fqd1pLMmNla0sza3dqNVlJS1lmWVhRSXcxSnBHZXg1aENDVXFTV1dkZDBaN1JvS1ZTWFZfc2JUMkM4U0V0b1VPek5Pem9ZakM1LXN3eGpDWUpZUW1sTkZRNzZtNjNnS19vUUw0R19Kdm04V2lENlpFUHBmejFyZmRGSENjQkRfZFB3Q3FIQURGbFBqTW1xdGQ2bUVHQ0FFRkhqaHNtOFJ2MUdPMENxNVI0ZkMxeU9FUkJhbDZlazVQSHVuck5iVzJJRl8yOEh2VjZqVHVGQzBZdWM5c2FCa3ROcWk3MS0xYUtnOXo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-10T02:00:14+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Pflege - Gesundheitsminister bestellt Chef der Pflegekammer ein - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Pflege - Gesundheitsminister bestellt Chef der Pflegekammer ein - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTF9MR2RGb2wxcVNWZlJzaEptbXl3U3kxYV9HR0dkRWl2NlFTelE2V0VRUFNVRHJka25mR3U1UFVydHpISXd5LWlwcHJyQjJXUHJXdUlTaURyNXl5SVg0bmtKVmxjOE1QWXpHSWt5Vndqc1pMb0dPcU9LWFNERGpMWG5uOVJfQUd5d080dnBidlVVYndhRmhYeTRmSlRGeEVUZ1ROVE1EY2llTTZWMVRBenVsR0lLREc5ZWpLeHpDNllWOHJSVzhudE1pcEhKYUdkSTNaNVF1aDN2T1llc1FYaXpJRVI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-10T01:30:07+00:00",
-      "category": "Versorgung",
       "tags": [],
       "type": "News"
     },
@@ -451,6 +443,26 @@
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZEE0ckwyN0w0ZXdYX19ObW5kcVJWUFlxcFV6bFhCekdqNFJwZzRRNlhld1o3MHU0Ym9KdS11Zjh3aWVDdnNPM0RNdjZmVlpyUno5Z1JPRmtqYzBMaHFzT2xkcHVaZEhKWUN2STdSWElyWDFOMnBRSThtVWxFRGRDNndmMGZHRzZzVXhvQ3dCczJxZEVaZ01ZMnQzQmVaMjJ3cnFyRWVkWS1PcFFWWUZ3UUpfR1VabkM2T2dEUjlIajE0SG9UOHdwTkhaVHBnaFpianlpNGhoVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-09T22:00:17+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit & Psychologie - Spiegel",
+      "summary_de": "Gesundheit & Psychologie &nbsp;&nbsp; Spiegel",
+      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwYUZsT09DRUtya0t6cGczOU80YjY5cy12Qk13Qk9wdl9tTlJ0NkdCMG5mdFhjVjFyb3BGYkt5VzhCdDluNmZsdHY0LWJ6SWdFb3dRX2JpbmlkM1ZLM0dKRG1CeU80VTBFWUN2dXY0bWVmNGVwZkNLcUNB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-09T18:43:38+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Ein MRT schwebt heran - Die Johanniter",
+      "summary_de": "Ein MRT schwebt heran &nbsp;&nbsp; Die Johanniter",
+      "source_name": "\"site:johanniter.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWlV6YkVjelU3Z1ltVjFSVEwyc0RENWhPLVRvc3dOWjFCT3NDcGNjQ2NPTFdFNGszRlFpdjIzaUxrV0NXU1RZandXZEpVNndmck4zcVFCaUVONVdNckpLRk01TEF1MnZMVFJZT3l4cUZVWXRTZlFhU0drUHVjZUlkQUNLcllDSWNIaXVNalVkQkRKdmJSLTRubjZ0cmRnTnJVRHhqQVBOYi1EWGJ1OTVzZm14dDlRdWFuVU9iYVpGbmxmUEE5MVRQNTBTLXUxMWRlY0p5TjAxTTVvLXE3ZGc0SFFSWGZ1WjhIZzJydHduS3NHZjVjajVR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-09T16:15:28+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -676,6 +688,16 @@
       "type": "News"
     },
     {
+      "title": "Gesundheitssystem - Harzklinikum bekommt mehrere Millionen vom Landkreis - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Gesundheitssystem - Harzklinikum bekommt mehrere Millionen vom Landkreis - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc3lJY3JtTFBlSkk0WnF0bThsem5JdzdiYUtOZG9DM1Z6blRQVTVBRzJYb1Iwa3ZhN0FGWWp6UzhZbXk0ZGs1OThfanF1TldnQzhlT1J5elB6MG1TSkZSS3BRLVZ1YzRIUE1oMTFPaUg2a1FmaC10ekpYQWFrRW9KbjZCVXVVRUN2WW82MHNacVFjTEcycHYyWmIzRlBzSjR0YUVDZEhPb1lEM2JQeTZrOTB4bW1rZzEya0JOaktaNWtnR2s4SFNlWWpMNWZ3RU5oZ2o4VDVGbEpYS3NWTUhtT0UzVk9weVZBaUFGZjRNTXM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-09T09:47:40+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Diabetes Prevention Programme: Non-Diabetic Hyperglycaemia, April 2025 to December 2025",
       "summary_de": "The NHS Diabetes Prevention Programme (DPP) is a joint commitment from NHS England and Diabetes UK to deliver, at scale, evidence based behavioural interventions that can prevent or delay the onset of Type 2 diabetes in adults who have been identified as having non-diabetic hyperglycaemia (NDH).This report presents the national audit findings, summarising registration and demographic information on people registered …",
       "source_name": "Publication Feed",
@@ -726,6 +748,26 @@
       "type": "News"
     },
     {
+      "title": "A hair-raising MRI safety concern: Weft extensions with metallic beads",
+      "summary_de": "Hair salon clients with sewn-in weft extensions are being told the extensions are safe for MRI. But are they?",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15821839/a-hairraising-mri-safety-concern-weft-extensions-with-metallic-beads",
+      "published_at": "2026-04-09T07:53:03+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "PET links brain metabolism to survival in lung cancer patients",
+      "summary_de": "Low brain metabolic activity was associated with increased mortality in patients with advanced NSCLC.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15821863/pet-links-brain-metabolism-to-survival-in-lung-cancer-patients",
+      "published_at": "2026-04-09T07:35:20+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Therapeutic hypothermia for newborns with hypoxic‐ischaemic encephalopathy",
       "summary_de": "Therapeutic hypothermia for newborns with hypoxic‐ischaemic encephalopathy",
       "source_name": "Cochrane Library RSS feed.",
@@ -734,6 +776,26 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Study reveals radiology's hidden safety risks",
+      "summary_de": "A system-based analysis of radiology patient safety events (PSEs) has revealed recurring harm patterns and vulnerable populations...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/practice-management/article/15821740/study-reveals-radiologys-hidden-safety-risks",
+      "published_at": "2026-04-08T17:58:34+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "No PCCT? Radiology departments can still reduce contrast dose",
+      "summary_de": "AuntMinnie.com spoke to Mahmud Mossa-Basha, MD, of the University of Alabama about how departments can reduce CT contrast dose...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15821717/no-pcct-radiology-departments-can-still-reduce-contrast-dose",
+      "published_at": "2026-04-08T17:11:30+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "[MI] Learning Disabilities Health Check Scheme, England February 2026",
@@ -858,6 +920,16 @@
       "type": "News"
     },
     {
+      "title": "Visage Imaging inks $14.4M contract with University of Maryland",
+      "summary_de": "The contract covers Visage 7 Viewer and Visage 7 Workflow, to be deployed in the cloud across UMMS's network of academic, community...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/imaging-informatics/enterprise-imaging/article/15821745/visage-imaging-visage-imaging-inks-144m-contract-with-university-of-maryland",
+      "published_at": "2026-04-08T08:21:14+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "„Mehr Patientensicherheit“: Webportal seit zwei Jahren erfolgreich, neue Partner an Bord",
       "summary_de": "Seit zwei Jahren können Versicherte über ihre persönlichen Erfahrungen aus der Gesundheitsversorgung auf dem Webportal „Mehr Patientensicherheit“berichten. Seit dem Start haben die Versicherten und ihre Angehörigen über 1.800 Fälle im Portal hinterlegt. Die Ersatzkassen haben vereinbart, das Projekt bis mindestens Ende 2026 fortzuführen.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -873,6 +945,16 @@
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNc0hEZVc2Sllya0tQZUUzaTFYcmpSdE5GTllHUkNlS0VleGMxMk5XZFFZLXd1Z1NEVEExeXFQYUo4Mk1qbzBoWXVWUjhPaWpKaHp2bXJHd0R1SlpFZm14RlJuUjA0eVBleDNuNnlGTm9EdUc3V2t2dFRrU0w2QUVUSkdlWk9GMHgwbVZnRnQ3UUZ3YmxxSkplWDNVV3ZfMWRoUEx2RlhwTHpjWmRwQjl2cTFmREQ5djdjVm0yS296VEY0bjBoaXU4NVNWaGtqekJMdFRFc2dsM2JrTWpvb2VfSnVDRDN3WTRDWWFkY0RZaTZGanJpaDJQM0QxUWpQeFlDX0Z5MFBUN2xCZUVKUkQtWjVmZkxTLUNoRlRPWTZIeHduVkQ5OVdVcWlwbENoekdQZnVKcFdlX1dVYkZBVTdhbVVHZHA0cTJLSWdDa0w2YW5WT3h3aVZNQWE4a05kQVpTenRNNERwVENoUloyQUEyaEEtZ2FhdTRoZ3ozOFBWRFEtWVI3OU1ldg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-08T07:17:07+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "VR glasses soothe patients undergoing TRUS-guided prostate biopsy",
+      "summary_de": "Prostate biopsy patients who view nature-based video content via VR glasses reported having less anxiety and more comfort.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/imaging-informatics/advanced-visualization/article/15821741/vr-glasses-soothe-patients-undergoing-trusguided-prostate-biopsy",
+      "published_at": "2026-04-08T06:31:28+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -986,6 +1068,26 @@
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNkZDLTlSc21DNXJNbmlmb3RLcjA2OUp6U1VuMGt5Wl9GLWFOcFVWQUJ5OERkb0tGb1FKTTdRR1QzdFZOUWRmR284OUxoVTEzM1RHaVIyN0VOZnM1R1NsQUVhc1BTTWRmeEJVRFBXS3YtWC16NVJOVWxXUlc0VTZDLVRFOXdhdkdydkFYalNnaFlJNURUa2pUY3J1bkpYTWFJbVFuSU5YUG5palVn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-07T09:03:33+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "MRI-guided brain stimulation improves PTSD recovery in veterans",
+      "summary_de": "A study suggests that navigated transcranial magnetic stimulation can be a helpful addition to behavioral therapy for PTSD.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15821601/mriguided-brain-stimulation-improves-ptsd-recovery-in-veterans",
+      "published_at": "2026-04-07T08:58:05+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "New method decouples Alzheimer's disease pathology at PET",
+      "summary_de": "AI-derived scoring tool shows independent associations, according to researchers.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15821591/new-method-decouples-alzheimers-disease-pathology-at-pet",
+      "published_at": "2026-04-07T08:44:22+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1158,16 +1260,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOd1dWcThFekN1bGRod0U5dlQwQWpFd3JwUDVMV21HbGlBM1U1TUNJT20wMXkzWjRMWFdZY2lXOGQxdTRpSUhQTTNiUjQ2RVFJYUZwb241Uzk2bDlkN1NHMXRwRmVBU2JtSmdka1AyeTBiU0F6OHhFS29FaHFuekJGRzdsWTJ2ZDBKUlpYNHM4elYzU3dkdFotWkM1N1hZVTdtR0RzeEk2U19xZGxuWm8zZjluaHB2YWZ3U3pxcXh4LXhtOVBSelB0T04tRUtIVEFOQk5IanVIamtMdjkwVjU2SWpQMHM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-05T02:00:06+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit: Kliniken setzen bei Sprachbarrieren auf Dolmetschdienste - DIE ZEIT",
-      "summary_de": "Gesundheit: Kliniken setzen bei Sprachbarrieren auf Dolmetschdienste &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaG1PZ0ZfRDhZWXZUZ0tiRmhza2I0NHhNSGIzSlhVcWx1TjhISjV6OGdYdkhJWWR4LXRkMHB4Vm43SGl4QnBDc09DTmlDQjFZekRtbmdLN1ZTb3UtWTBwWC1OUG5VWHZ4TDczVjZDUDQ2TlVieEZRbHlrM1NRMXJmSFI2R09wVzFBaDAxNTBfUC1vN3ZfNWlV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-05T01:30:06+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1389,16 +1481,6 @@
         "Versorgung",
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Stellenangebote GeRN® - Gesellschaft für Radiologie und Nuklearmedizin GbR, (2) - ärztestellen",
-      "summary_de": "Stellenangebote GeRN® - Gesellschaft für Radiologie und Nuklearmedizin GbR, (2) &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXF5N0FVdmZHMUhucGVVRW05SUlER0hPUkRLRWhrOVdqVFdUUmxtMlJxT2twTmI1aUk4RU1xd2MydEhrWTRxVnpHX1BsWGNOZThmcXRNbjdPeUdyY2pWUFVOUW1hMmVEMEh6OWlLdFJQTVB4MC1VekZXSW5LQmVMMUJVRTk5OVdNMUlSOU5FcjZjNUg5NGZmMVBTS3NpWjREUGhKeVRSM21HaG8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-30T09:19:32+00:00",
-      "category": "Radiologie",
-      "tags": [],
       "type": "News"
     },
     {
@@ -1754,11 +1836,11 @@
       "type": "News"
     },
     {
-      "title": "Antrag auf Elternzeit: Wichtiges für Arbeitgeber | Die Techniker - Firmenkunden - Techniker Krankenkasse",
-      "summary_de": "Antrag auf Elternzeit: Wichtiges für Arbeitgeber | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNndyMW1zWkdjbHAtTEhLMU9sYWZYQmFEc1pMcU05R3JiU3R4b3JoenI2aVdldFZXeWJITGtlNlJQZGoyOGtzNXpoR3AzX2Z0SGZkb1dlNzY5c0hqd3h5SU5VWTFELUJBek84NjdKZENLNmtBaE1DZWc5amZweXFibFpNdzBvWV9oaTk0blFEZWdvUk9aaGRKeXRxLXptMlJjU0NaQ0pjdHYxR2o4R09uUTlLVzhDTkM1V1o5aTdxVmVIbmFEVHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-23T07:00:00+00:00",
+      "title": "W2-Professur für Medizin für Gesundheitsberufe - Hochschule Bielefeld - ZEIT Stellenmarkt",
+      "summary_de": "W2-Professur für Medizin für Gesundheitsberufe - Hochschule Bielefeld &nbsp;&nbsp; ZEIT Stellenmarkt",
+      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQXJMRVlKRWRQU2hyeW05TEtUeWtPRHB2M2czUHZjMmJ1TUxUTmRkMFFkTTRydXZzcjdEQy1aNFFhOF9aN25DZ25WT0p4bUFCZFVOMVdRaUZrOEdBeE5ZdEFqeU9rQlhRUmVxejQyTDljRUVpd0NYaTQ1VkJTNGI0d1UwZFczeHN6dGxNd21iMXdMYVhhU2JnN3dSTUFPMUFURnh4ZjRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-21T07:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -2432,16 +2514,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Roboter im Krankenhaus | Zukunft der Klinik-Logistik - Handelsblatt",
-      "summary_de": "Roboter im Krankenhaus | Zukunft der Klinik-Logistik &nbsp;&nbsp; Handelsblatt",
-      "source_name": "\"site:handelsblatt.com gesundheitswirtschaft\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14elFFOVBqZG5oRVc5bG1aYnJLa01kWGN2Y05kMWVlSy00cWpOdmdMLXhKWm5HNEpzTE5EVUtRTkdPYW5FbEt1U1QzX2dQOGFNbTBlb1JYdzBOem5rdnI0NjRxT0tLbVdXc2Y5bXRVaVBYdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-05T08:00:00+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
