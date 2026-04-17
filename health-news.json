@@ -1,8 +1,110 @@
 {
-  "generated_at": "2026-04-17T07:22:51.609591+00:00",
+  "generated_at": "2026-04-17T10:08:14.982062+00:00",
   "window_days": 42,
-  "count": 249,
+  "count": 252,
   "items": [
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Endemeldung Arzneimittel: Deferoxaminmesilat 2 g Pulver zur Herstellung einer Injektions- bzw. Infusionsl&#246;sung pU: Noridem Enterprises Limited",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-04-17T09:48:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Promotional material: National AI Commission: Ask Me Anything",
+      "summary_de": "The MHRA are hosting a live Ask Me Anything on how artificial intelligence (AI) is being regulated in healthcare.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/national-ai-commission-ask-me-anything",
+      "published_at": "2026-04-17T09:37:00+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pflege zu Hause: Pflegeprojekt soll Angebotslücken identifizieren - DIE ZEIT",
+      "summary_de": "Pflege zu Hause: Pflegeprojekt soll Angebotslücken identifizieren &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR09qcGlLb0lob29aLWdreHVPV0UwMHBUREszbzI4OHNJZEVYV3d3clZrTUI3eHpZVjV0R1RuLVdrS2d3ZzJnZl96alFBYWhyNFNOd3g2dVJhTk15SEUzTzRMNk1LSFJTaVdsWkl0OG5zMmFqdkJtSkEwdTltdVpYTVRmd0p5TWdCNDhPeDZB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-17T09:02:26+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Reformfahrplan: Warkens Optionen für Abschlag und Honorar",
+      "summary_de": "Beim GKV-Beitragssatzstabilisierungsgesetz soll nun alles ganz schnell gehen, der Zeitplan steht. Die Apotheken sollen &uuml;ber einen h&ouml;heren Kassenabschlag belastet werden.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/warkens-optionen-fuer-abschlag-und-honorar-164552/",
+      "published_at": "2026-04-17T08:52:08+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Elsner: Gut, dass Gesetzentwurf zur Stabilisierung der GKV-Finanzen auf den Weg gebracht wurde – Es muss noch deutlich nachgesteuert werden",
+      "summary_de": "Der vdek begrüßt den Entwurf zur Stabilisierung der GKV-Finanzen. Nachsteuerungsbedarf bestehe jedoch im Bereich Arzneimittel, in der Krankenhausabrechnungsprüfung und der Finanzierung der Gesundheitskosten für Bürgergeldbeziehende. „Es ist unfair, dass die Beitragszahlenden Aufgaben schultern sollen, die eindeutig gesamtgesellschaftlich und somit aus Steuern zu finanzieren sind“, betont vdek-Vorstandsvorsitzende Ulrike Elsner.",
+      "source_name": "vdek - Verband der Ersatzkassen e. V.",
+      "source_url": "https://www.vdek.com/presse/pressemitteilungen/2026/gkv-beitragssatzstabilisierungsgesetz-referentenentwurf.html?pk_campaign=rss",
+      "published_at": "2026-04-17T08:45:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "GKV-Sparpaket: Das plant Ministerin Warken",
+      "summary_de": "Die Koalition will steigende Gesundheitsausgaben unter Kontrolle bringen, um neue Beitragsspr&uuml;nge zu vermeiden. F&uuml;r das Gesundheitswesen und die Versicherten hat das Sparpaket einschneidende Konsequenzen. Doch was plant die Bundesregierung genau? Ein &Uuml;berblick.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/das-plant-ministerin-warken-164549/",
+      "published_at": "2026-04-17T08:44:09+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Ausgabendynamik im Gesundheitssystem stoppen – Prof. Dr. Claus Wendt fordert strukturelle Reformen: In Deutschland fehlt eine gezielte Patientensteuerung",
+      "summary_de": "Zur kurzfristigen Stabilisierung der gesetzlichen Krankenversicherung (GKV) hat die Finanzkommission Gesundheit Sparvorschläge mit einem Volumen von gut 42 Milliarden Euro für 2027 vorgestellt. Diese sind aus Sicht des vdek eine gute Basis für die dringend benötigte Beitragssatzstabilität in der GKV. ersatzkasse magazin. präsentiert und bewertet die konkreten Empfehlungen aus dem Kommissionspapier.",
+      "source_name": "vdek - Verband der Ersatzkassen e. V.",
+      "source_url": "https://www.vdek.com/presse/pressemitteilungen/2026/ersatzkasse-magazin-2026-02-ausgabendynamik-gesundheitssystem-stoppen.html?pk_campaign=rss",
+      "published_at": "2026-04-17T08:15:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Samenanalyse: Das Spermiogramm als Marker für Gesundheit",
+      "summary_de": "M&auml;nner mit schlechter Spermienqualit&auml;t haben eine deutlich k&uuml;rzere Lebenserwartung als M&auml;nner mit guter Spermienqualit&auml;t. Es gibt daher Bestrebungen, die Samenanalyse als Fr&uuml;hwarnsystem f&uuml;r zugrunde liegende Erkrankungen zu nutzen. Doch nicht alle Experten unterst&uuml;tzen diesen Vorschlag.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/das-spermiogramm-als-marker-fuer-gesundheit-164454/",
+      "published_at": "2026-04-17T08:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Prostatakrebs: Estradiolpflaster genauso wirksam wie GnRH-Analoga",
+      "summary_de": "Transdermales Estradiol zeigte in einer britischen Studie eine mit GnRH-Analoga vergleichbare Wirksamkeit bei lokal fortgeschrittenem Prostatakarzinom. Das Nebenwirkungsprofil war g&uuml;nstig.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/estradiolpflaster-genauso-wirksam-wie-gnrh-analoga-164541/",
+      "published_at": "2026-04-17T08:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Arzt soll 15 Patienten getötet haben – Hinweise auf Motiv - FAZ",
+      "summary_de": "Arzt soll 15 Patienten getötet haben – Hinweise auf Motiv &nbsp;&nbsp; FAZ",
+      "source_name": "\"site:faz.net medizin\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSWtQbUZiRTMtY3ktWkM2YzlVU0wxaVptT0VIczYwVVFWVFQ1eDZEZG1kY2pwN01wSXFVQ1RTRC1hNnRGLWJpbFdRaHkyVG44U2pvRmQ4Q0ppUjZvOUZjTThTRURraWtLSzZVTnRSLWpHdzdmZ3ozM0RHbmc3MHoyRnhBYjBwNkdCNjJTSDRZREhsNTRPaHE0S1lFSmttM1lZdThuOUFMWkVsQWRMUHM0OVktamFmOUwzNmplaDg4V0dkZ1VVQU1LVU1Gaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-17T07:43:20+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Verwaltungsrat gegen Großaktionär: Zoff bei Doc Morris",
       "summary_de": "Bei der Generalversammlung von Doc Morris am 12. Mai d&uuml;rfte es hitzig werden. Der Verwaltungsrat stellt sich deutlich gegen die von Gro&szlig;aktion&auml;r CEPD geforderte Neubesetzung des Verwaltungsrats inklusive der Abl&ouml;sung von Pr&auml;sident Walter Oberh&auml;nsli.",
@@ -14,21 +116,21 @@
       "type": "News"
     },
     {
+      "title": "Mental Health Services Monthly Statistics, Performance February 2026",
+      "summary_de": "This publication provides the timeliest picture available of people using NHS funded secondary mental health, learning disabilities and autism services in England, excluding those who are solely in contact with Talking Therapies. This information will be of use to people needing access to information quickly for operational decision making and other purposes. More detailed information on the quality and completeness …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mental-health-services-monthly-statistics/performance-february-2026",
+      "published_at": "2026-04-17T06:58:57+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Forschung trifft Klischee: Eltern wollen lieber Mädchen als Jungs",
       "summary_de": "Psychologische Studien zeigen, wie subtil Erwartungen, Stereotype und gesellschaftliche Ver&auml;nderungen die Familienplanung pr&auml;gen. Viele Eltern in westlichen Gesellschaften scheinen M&auml;dchen zu bevorzugen. Woran liegt das?",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/eltern-wollen-lieber-maedchen-als-jungs-164418/",
       "published_at": "2026-04-17T06:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Endemeldung Arzneimittel: Neosynephrin-POS 5% pU: URSAPHARM Arzneimittel GmbH",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-04-17T05:17:41+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
@@ -64,16 +166,6 @@
       "type": "News"
     },
     {
-      "title": "Public Health (Master of Science (M.Sc.)) Europäische Fernhochschule Hamburg - HeyStudium",
-      "summary_de": "Public Health (Master of Science (M.Sc.)) Europäische Fernhochschule Hamburg &nbsp;&nbsp; HeyStudium",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ldElqM3NyRWZabU1yMlB6V0wxM2QzUzFCX0JzTFlRNmFGREFrUlctam9hNGtkeEhXV3Y5d3ZKa0Y2bHBRSFl4SXptYnpUZlpYYWNLUTFmcEkwVXNCUlExU0dPeWVBbmZLX0EtQzQ0Z0lCQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-17T01:59:44+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Biowissenschaften und Gesundheit (Bachelor of Science) Hochschule Rhein-Waal - University of Applied Sciences - HeyStudium",
       "summary_de": "Biowissenschaften und Gesundheit (Bachelor of Science) Hochschule Rhein-Waal - University of Applied Sciences &nbsp;&nbsp; HeyStudium",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -99,6 +191,16 @@
       "source_name": "AuntMinnie",
       "source_url": "https://www.auntminnie.com/resources/article/15822393/subtle-medical-inc-subtle-capital-health-case-study",
       "published_at": "2026-04-16T17:03:44+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Spargesetz: Ärzte, Krankenhäuser, Versicherte sollen zahlen – Pharma wird geschont – News - Deutsches Ärzteblatt",
+      "summary_de": "Spargesetz: Ärzte, Krankenhäuser, Versicherte sollen zahlen – Pharma wird geschont – News &nbsp;&nbsp; Deutsches Ärzteblatt",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYllFX3pfY2NvOHZ3amZLN2tBVkdHQ2h0Y2VHVjNzVnJ4aWJoemRpOHVJWVFLOGFhejlzX0FZMEpWYTc5eVpfZVU2Y1BubGZaaGFINHVORTJpWGZsdG02Q1pySk5sTEZsdmZuREhlejBVSHRGOGEtMjVIZmIyVEtPaFhEQVVUa3dyVUx5ZVRGRDhsOXNjN21WU3dETFJkb3B6X2JvRGpwUEE2MzRidHJtNUQtZGt2Wk85VXFWaW1uMVB2b09lLWFqTElyb0RyNnVHb25iMHpfZG04VW1sS1Rn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-16T16:47:59+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -224,16 +326,6 @@
       "type": "News"
     },
     {
-      "title": "Fehlende Evidenz: IQWiG empfiehlt keine Änderungen für Darmkrebsscreening",
-      "summary_de": "Das Institut f&uuml;r Qualit&auml;t und Wirtschaftlichkeit im Gesundheitswesen sieht keine ausreichende Evidenz, um den Beginn der Darmkrebs-Fr&uuml;herkennungsuntersuchungen oder die Untersuchungsintervalle zu &auml;ndern.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/iqwig-empfiehlt-keine-aenderungen-fuer-darmkrebsscreening-164529/",
-      "published_at": "2026-04-16T13:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Neue Analyse: Jedes dritte neue US-Medikament kommt hier nicht an",
       "summary_de": "Ein Drittel der neuartigen Medikamente, die in den USA in den vergangenen zehn Jahren zugelassen wurden, kam bislang nicht in der EU auf den Markt, zeigt eine Studie. Hauptgrund sei, dass die Zulassungen bei der EMA erst gar nicht beantragt werden.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -245,6 +337,16 @@
         "Wirtschaft"
       ],
       "type": "Studie"
+    },
+    {
+      "title": "Fehlende Evidenz: IQWiG empfiehlt keine Änderungen für Darmkrebsscreening",
+      "summary_de": "Das Institut f&uuml;r Qualit&auml;t und Wirtschaftlichkeit im Gesundheitswesen sieht keine ausreichende Evidenz, um den Beginn der Darmkrebs-Fr&uuml;herkennungsuntersuchungen oder die Untersuchungsintervalle zu &auml;ndern.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/iqwig-empfiehlt-keine-aenderungen-fuer-darmkrebsscreening-164529/",
+      "published_at": "2026-04-16T13:00:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Brandenburg: Gesundheit: Facharztzentrum soll in Wittstock/Dosse medizinische Versorgungslücke schließen - tagesschau.de",
@@ -429,16 +531,6 @@
       "type": "News"
     },
     {
-      "title": "Mental Health Services Monthly Statistics, Performance February 2026",
-      "summary_de": "This publication provides the timeliest picture available of people using NHS funded secondary mental health, learning disabilities and autism services in England, excluding those who are solely in contact with Talking Therapies. This information will be of use to people needing access to information quickly for operational decision making and other purposes. More detailed information on the quality and completeness …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mental-health-services-monthly-statistics/performance-february-2026",
-      "published_at": "2026-04-16T08:31:05+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Patients Registered at a GP Practice, April 2026 [delayed from 09/04/26]",
       "summary_de": "Data for this publication are extracted each month as a snapshot in time from the Primary Care Registration database within the PDS (Personal Demographics Service) system. This release is an accurate snapshot as at 1 April 2026.",
       "source_name": "Publication Feed",
@@ -515,16 +607,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/selbst-kochen-senkt-demenzrisiko-164311/",
       "published_at": "2026-04-16T05:00:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Stationäre Altenpflege - Weniger Pflegeplätze: SPD kritisiert Landesregierung - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Stationäre Altenpflege - Weniger Pflegeplätze: SPD kritisiert Landesregierung - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcUVJZVFLcEFsZ041SnZwS1hiRDkwR3g4OUVIQlQ0OUd1amhzRWFvVExtZ21TelRPZTFab0w0Q2JUYjNZTXhNdmNRQzJDWG5mQ3NidjFkcFZPc1dkNjJIUXJsdGFpRi1LVmRCZW9lY0MxQV9qZjB4dXNQQ0pfc0JUNUlSb09mVGlSam5rQ2cxVVZLTkMtMGlqd0N3OTYyVm9SelRkR1Bka0ZuQ2hwZTFWNm5kNU9XSThrZ21EbktHOFd4dzlscVZfM05FazhBcGRpeTJFQUNualMySTFNcjZXQUkxRXhZY3ppSWlHZDZtME1jYWU5NFAtdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-16T03:00:15+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -651,26 +733,6 @@
       "type": "News"
     },
     {
-      "title": "Kritik an Warkens Honorar-Plänen: Der längst erbrachte Sparbeitrag",
-      "summary_de": "Im Rahmen ihrer Sparpl&auml;ne will Bundesgesundheitsministerin Nina Warken auch den Kassenabschlag f&uuml;r Apotheken erh&ouml;hen. Weil damit die zugesagte Honorarerh&ouml;hung gleich wieder einkassiert zu werden droht, protestieren mehrere Apothekerorganisationen gegen die Pl&auml;ne.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/der-laengst-erbrachte-sparbeitrag-164501/",
-      "published_at": "2026-04-15T14:16:08+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Die Linke Sachsen : Ein Plädoyer für die Apotheke vor Ort",
-      "summary_de": "Die Linke positioniert sich f&uuml;r die Apotheken &ndash; zuletzt Susanne Schaper aus Sachsen gemeinsam mit der Bundesvorsitzenden Heidi Reichinnek auf Instagram. Die PZ hat nach Motivation und aktuellem Anlass gefragt.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/ein-plaedoyer-fuer-die-apotheke-vor-ort-164497/",
-      "published_at": "2026-04-15T14:15:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Bremen - Erreger im Krankenhaus - Frühchen stirbt - Panorama - SZ.de - SZ.de",
       "summary_de": "Bremen - Erreger im Krankenhaus - Frühchen stirbt - Panorama - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -691,16 +753,6 @@
       "type": "News"
     },
     {
-      "title": "PZ Briefing: Die Top-News vom 15.4.2026",
-      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-1542026-164499/",
-      "published_at": "2026-04-15T14:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Treffen nach Pannen und Urteil - Klare Forderungen nach Krisengespräch mit Pflegekammer - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Treffen nach Pannen und Urteil - Klare Forderungen nach Krisengespräch mit Pflegekammer - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -717,16 +769,6 @@
       "source_url": "https://www.gov.uk/government/publications/rsv-vaccine-factsheet-information-for-patients-parents-and-carers",
       "published_at": "2026-04-15T13:00:18+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Patientenfall: CAR-T-Zellen gegen drei Autoimmunerkrankungen",
-      "summary_de": "Die Therapie mit CAR-T-Zellen ist eine individualisierte Therapie, die zur Behandlung B-Zell-induzierter Krebsarten eingesetzt wird, wenn g&auml;ngige Therapien ausgesch&ouml;pft sind. Ein Fall aus Erlangen zeigt nun, dass auch ein Einsatz gegen B-Zell-vermittelte Autoimmunerkrankungen m&ouml;glich ist.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/car-t-zellen-gegen-drei-autoimmunerkrankungen-164472/",
-      "published_at": "2026-04-15T13:00:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -841,22 +883,22 @@
       "type": "News"
     },
     {
+      "title": "Siemens MRT: BioMatrix-Technologie treibt Präzision in der Diagnostik voran - AD HOC NEWS",
+      "summary_de": "Siemens MRT: BioMatrix-Technologie treibt Präzision in der Diagnostik voran &nbsp;&nbsp; AD HOC NEWS",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTXBsN3JXWVo4OTVuenJZTWhaYmU1OVV2RWRiVmJnZFhJZW9tTldPbXo0X1lDZl9WRC1HX1oyeFgyUDNJUkg2bGowZ1ZsRTR2TzZRbFpDdDF3N1BpaVJXZTNBamtZTkg1Sk1pMm9yOG93QXpiQUhRUmV0ZUNTNWdGc3NyTEF0Sk93UmRkTnUtTVhRZzNqUXp5ZU8zYS1xNms2Z1V4dTFaYzRTWFBZWlB1THVIenhsbjR3aU1YbXY4SUxvTDlLQjhR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-15T09:29:11+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Decision: Orphan registered medicinal products",
       "summary_de": "A list of authorised orphan medicinal products registered by the UK licensing authority.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
       "source_url": "https://www.gov.uk/government/publications/orphan-registered-medicinal-products",
       "published_at": "2026-04-15T08:21:55+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "„Das Krankenhaus ist ein Hotspot für multiresistente Erreger“ - SZ.de",
-      "summary_de": "„Das Krankenhaus ist ein Hotspot für multiresistente Erreger“ &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnMxSTZGcVJfcG1sVGNJbjMtNWNBdnYyTWtsZEM5YkRwek45c2FmSXBfcXkzMndzXzQ0SlF1TkRwQVpUdGpqTWJPVmJOU0xzUHpwOVY2SkppbGR2R1dQYjhkVWYyMW5zYXVndlFraWl0R3lxc2s4WElHODVGaE01ajJaeXJIT0xFeDNqNTBTbEpDLWJ6RnZtTkw2MjQxaERkQ2g0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-15T08:12:02+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -931,6 +973,18 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Siemens MRT: Warum BioAI-Integration jetzt den Markt verändert - AD HOC NEWS",
+      "summary_de": "Siemens MRT: Warum BioAI-Integration jetzt den Markt verändert &nbsp;&nbsp; AD HOC NEWS",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnl4WlByeGdvcWlGVElDd2w3Y0FqSmx0b2hDc2EtYXoxRFNMendJUU01aUFkZGxTXzMtUWJ0ajFreXBqVndMTVdsSURxOFZ4WHhoTjhqR3FZVUNEZ1lXNlN3T1VtbjV3b0ZNdXhsdFhwSFJuR2g0SktTT2c1dVVxX0VxbXJfVkR1U090TkhnSFU3Uzd2NENDdl9RZTQxWVF2b2RiaG9MQlJEWXhTT0VDUVdfaWgwU1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-14T23:08:34+00:00",
+      "category": "Radiologie",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
     },
     {
       "title": "Gesundheit: Klinik-Streit eskaliert – Kreis setzt auf Zwang gegen Ameos - DIE ZEIT",
@@ -1226,6 +1280,16 @@
       "type": "News"
     },
     {
+      "title": "Gesundheit - Weniger Raucher in Sachsen-Anhalt als vor zwanzig Jahren - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Gesundheit - Weniger Raucher in Sachsen-Anhalt als vor zwanzig Jahren - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNExzcE9VRTI5SDUxNEdSQUhCNFpkZjR5RXlMeXRRTWJxOFNNWVB6dGdWRlZLcDI5MEZDQkk2VlVxQzlJMG5OUW9maS1wYTl0QnAweVdrRVEtOHVuZDdlalN4V01PcHoyam5jMy1KMUg1RUc4MHZUQVdBc3FVUDdTcGpYbWhMTjdjNjF4R2MxeGVCM2hvTlFmWDdfeWhLVmdqYTNTeXpQZmZTM0NUY0lXZW5pVGZCTUpuTXdueWpERkYtRTlsOGlyRm1WQ0tsb1dDenBTOU9qeDdIOVNCM05VblgydWpuVXQ0SE8wVA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-13T09:43:22+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Pressemitteilung: Jetzt ist die Zeit für durchgreifende Reformen",
       "summary_de": "„Dass die Regierungskoalition den Ausgabenanstieg künftig an die Einnahmeentwicklung koppeln will, ist ein wichtiges und starkes Signal, das berechtigte Hoffnung auf künftig anhaltend stabile Krankenkassenbeiträge macht. Dies wäre gut und wichtig für die 75 Millionen gesetzlich Versicherten und unsere Wirtschaft insgesamt\", erklärte Oliver Blatt anlässlich der heutigen Vorstellung der Pläne der Regierungskoalition zur Reform der Gesetzlichen Krankenversicherung.",
       "source_name": "GKV-SV Presseinformationen",
@@ -1250,12 +1314,12 @@
       "type": "News"
     },
     {
-      "title": "Arzt / Facharzt Psychotherapeutische Medizin Klinikum Wolfsburg Stellenangebote in Schleswig-Holstein - ärztestellen",
-      "summary_de": "Arzt / Facharzt Psychotherapeutische Medizin Klinikum Wolfsburg Stellenangebote in Schleswig-Holstein &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRVJIc2ZSYU1SZFJtRWhWWFRJbG14X3I5N1A5OG1uNUdaRjQ2aVFKMGFHNHo3eUVsNWFiWEFLM2FmSGFOek9OSjRMa0RnZmtkQktNM092czl6eDlVRXJJRVlVLUFNWDV0MDcycTBybW82b0o2VkZNR1ZPVmRBSnYxc0ZJcDhTRzhVR3pVdE4ydzVra2JIaE16OEJFYkFVZFpIODZ5M2IxY3FyREl5OUZXbDhtLWJMTzRlc0RNb3ZGclFJSWppUkJZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-13T02:47:30+00:00",
-      "category": "News",
+      "title": "Siemens MRT: KI-Innovationen treiben Wachstum trotz Konkurrenzdruck - AD HOC NEWS",
+      "summary_de": "Siemens MRT: KI-Innovationen treiben Wachstum trotz Konkurrenzdruck &nbsp;&nbsp; AD HOC NEWS",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS1ltZkRubjB6el92bVNyNDhRVFV0eUVXdUtkZVd0dGsyWHNCR3F1dXZsakdXeFhjSEZBa05TTDB6Sk1lSXBNOW5aejB4djg5ckxPMFlxdHNjQk94MVVuYVoyQk1JamtYc0NLQjh1V3hwYl9Hc2RYT3RGdlhQQzRqT2RyYThZQ21tTXZ0TVE2THVKVmRoajdCN2hnMXFYNW5pRDBvME9HOWlUaEU4cHVVQ29sRkN3ZW9oY0JQeg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-12T18:46:03+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1320,6 +1384,16 @@
       "type": "News"
     },
     {
+      "title": "Gesundheit - So verbreitet sind Geschlechtskrankheiten im Südwesten - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Gesundheit - So verbreitet sind Geschlechtskrankheiten im Südwesten - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeWFYblhRT1h2MkZlZWdmQ2IzTFk2YTRwaS0wTzl5dTNCMklfREpOV3BPNktObWtLZUVKMFQ2b2p4MHhPc205TGNIcENyRENyczFNRXMwSnJKTGN0bkw1TFlVUktUd2plNDJ6UXJ2YzJlVTN2MGZJUkxseE1lUGgyanczOTZaT0hWbFQxd1JrdDBTdnRDekhFaTc5WGxrM1RvT2gwOUlvWW5LZWNZMnNXXzY4cmdpZmdFMm5idkxwX09yZEphRjBkMHhlUU9YMGVQQzA1RVBtaWFpWjlfUFlpRWRiNGQ4NGZNSFFn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-12T02:00:51+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Access Consortium Promise Pilot Pathway",
       "summary_de": "New Access Work-Sharing Pathway for Priority Procedures.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1330,12 +1404,12 @@
       "type": "News"
     },
     {
-      "title": "Register medical devices to place on the market",
-      "summary_de": "How to register your medical devices with the MHRA for the markets in Great Britain and Northern Ireland.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/guidance/register-medical-devices-to-place-on-the-market",
-      "published_at": "2026-04-10T16:00:13+00:00",
-      "category": "Europa",
+      "title": "Abschlussbericht: Leitungswasser in Möglingen - Keine Gefahr für Gesundheit - DIE ZEIT",
+      "summary_de": "Abschlussbericht: Leitungswasser in Möglingen - Keine Gefahr für Gesundheit &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQenhVTlZnRGhjanhqc3QxWmJUU2YwZWtiNmhlUE1tTExoNklUOGhnVmlValdidDZQSWtFX083Sm9fYWhBTnNfRm1uVmhRcXJTTUpIQmJZWUFvM2YzVUozYWVzQVlwaDZiMGpEVkcxNXhUbW50a1RwNzFJaFVJVHVOVU1NYjFGY3A0THVwaWNNMnF3T1ZHNG9Sbw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-10T15:05:47+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1356,16 +1430,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxNRzNLLXZRM0paMTFaMk5MNFVDdzkyV3J6Q28xbzVFQkFjcWV3dHEtZzBrUzhQY2dOS2JubzJzQjJiNG12djhYTHZBdzdDVVNEMG4xMmpZaDJlTW5lZi00TXllT1dqRWM2aENVS2R2QXZJQnRHcGxLNDF5SWxXYl9NOXVZd254d3hkckd1N0ViZG1BYzVFOFpYMlFVX3BvVHMxcmJiazRMS0JfNUlzTVhOcGJUTEZHaEtndmRFbVdPNldVc2hLelRuZFY1VXU5b2Y3SmVvY3dqRXRuLWtrNlFCb0pyT09IUTJKYWcySFJhOTNZbTZVeTQzMXFHTWNWMnpfcDNENHhyczlKdFpjdXluYTIwMDRUWDNpcnFLejFmRlN6VDd5OWpMM2NXWm9VVlFfWjBRX0UzZ0d1dUJ6UHZTeDN3bVcyMVprc2FtVjNLWVZDaGYwMmNoM1ZoU0JJRk9vSVNoUXlORjM1NS11UFRER0NoNDB6VTBWNWRXaFZISGhra24wZ3pacHVha0ZrV2xOZlZYSGtldXRoNUMzU1FyS2tzekNlS0Y5NmR5T3NBMTc1NE5aSE1xQ1p1QmQ3dE5TUjVoQnVNR1Y0cGl0WExzd0xWazhYNkM1WW5iMmRyRDJoems?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-10T10:46:43+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Arzt / Facharzt Gastroenterologische Schwerpunktpraxis Mannheim und Ludwigshafen Stellenangebote in Nordrhein-Westfalen | Ärztestellen - ärztestellen",
-      "summary_de": "Arzt / Facharzt Gastroenterologische Schwerpunktpraxis Mannheim und Ludwigshafen Stellenangebote in Nordrhein-Westfalen | Ärztestellen &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPekZhSElTMUQ2M2pZWlV3SnNjazdtb1pTaHJwZ1ViNWd0YUlvRFRkXzZmcGJnNlJneDVnSmFYYVQ3aXN3ZzdGZGR1MHBFYll6M09nWk9sOTVkQ0tpV3lQZlkwTTRJWXFkUVpkSnNaVE1fdzFqUkdpSGRUWmQzejhhRExJRmkzOXZFOU55ZDdhUUhnX2luUFNqLVZRUmNXNk9CdFFBd0dtcEZ2cUtPVWRUQTMxV2dJYzFrSmlUVHRhanNFOF9qY2FYYmxadlVhOUpTRHpxNlo1dTVRTXRIWGtj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-10T10:03:57+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1978,18 +2042,6 @@
       "type": "News"
     },
     {
-      "title": "vdek: Psychotherapeutische Versorgung verbessern und Ressourcen effektiver einsetzen",
-      "summary_de": "Der vdek möchte die psychotherapeutische Versorgung in Deutschland durch bessere Steuerung und gezielteren Einsatz der personellen und finanziellen Ressourcen verbessern. „Nicht ein genereller Mangel an Leistungen oder Psychotherapeutinnen und -therapeuten sind unser Problem, sondern eine unzureichende Steuerung von Zugang und Ressourceneinsatz“, erklärt vdek-Vorstandsvorsitzende Ulrike Elsner.",
-      "source_name": "vdek - Verband der Ersatzkassen e. V.",
-      "source_url": "https://www.vdek.com/presse/pressemitteilungen/2026/psychotherapie-versorgung-verbessern.html?pk_campaign=rss",
-      "published_at": "2026-03-26T08:30:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Versorgung"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Oral nutritional interventions in hospitalised older people at nutritional risk: a network meta‐analysis of individual participant data",
       "summary_de": "Oral nutritional interventions in hospitalised older people at nutritional risk: a network meta‐analysis of individual participant data",
       "source_name": "Cochrane Library RSS feed.",
@@ -2060,16 +2112,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "vdek zum Apothekenhonorar: Von pauschaler Erhöhung des Packungsfixums würden vor allem umsatzstarke Apotheken profitieren",
-      "summary_de": "Vor dem Hintergrund der anstehenden Apothekenreform erklärt vdek-Vorstandsvorsitzende Ulrike Elsner: „Von der geforderten Erhöhung des Packungsfixums von 8,35 Euro auf 9,50 Euro profitieren vor allem Apotheken mit hohen Packungsabgabemengen in Ballungsgebieten und Versandapotheken.“ Benötigt werde eine gute Apothekenversorgung sowohl in Ballungsgebieten als auch auf dem Land.",
-      "source_name": "vdek - Verband der Ersatzkassen e. V.",
-      "source_url": "https://www.vdek.com/presse/pressemitteilungen/2026/apotheken-reform-proteste-erhoehung-packungsfixum.html?pk_campaign=rss",
-      "published_at": "2026-03-23T13:45:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Meldung: Wir brauchen Reformen und Rückgrat",
@@ -2212,6 +2254,16 @@
         "Europa",
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Was gilt 2026 für das Kinderkrankengeld und die Kindkrank-AU? | Die Techniker - Firmenkunden - Techniker Krankenkasse",
+      "summary_de": "Was gilt 2026 für das Kinderkrankengeld und die Kindkrank-AU? | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRTlEeXFENXFZNjBfNDdIM1pCdElJd2hSSjNzUFp1OFRfRDBHVlRGb1dYdGhRd3RjbGVaRnI3YUMxOUU0c2pWdTQ1MU9kNVFvWGlQRC1uZGZzakVOaEo5WGdKanFvQXFFOUxlOU90MzZuUDVYMnJIVTZidWl2ejJxOGktVjUxcFQ4RGFiZlF2VWlld0YzZXBFM2tHRTh4bnNoQVEtNHNZUkxiQkdadDdLVE1B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-18T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
@@ -2547,28 +2599,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON29nVy1pZFhTck9DQmVKRC1Yd2Y0aWZOQThHUnk4bTFzT3FDV0RCUWw0eE9Wc0duLTFHcDZ3SVV5Y0M3VFBDOVlnN3lBNnh0V2VoYmtwVWFlMU1McmZUZ1FwRDZMem1WaWVEVk9ab1JXNzdBckJUd01ybnRjOGREb04yNUVRb0VQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-08T08:00:00+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Meldung: Qualität der Patientenversorgung bei Krankenhausreform im Blick behalten",
-      "summary_de": "Anlässlich der heutigen 2./3. Lesung des Krankenhausreformanpassungsgesetz (KHAG) im Deutschen Bundestag erklärte Stefanie Stoff-Ahnis, stellvertretende Vorstandsvorsitzende des GKV-Spitzenverbandes, im Gespräch mit der “Neuen Osnabrücker Zeitung” (NOZ, Freitagsausgabe): „Der Kompromiss nach langen und schwierigen Verhandlungen hat mehr Licht als Schatten. Eine Verabschiedung wäre daher besser, als wenn die Reform abermals verschoben würde.”",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2219072.jsp",
-      "published_at": "2026-03-06T08:44:59+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheitspolitik: Bundestag beschließt Änderungen an Klinikreform - Handelsblatt",
-      "summary_de": "Gesundheitspolitik: Bundestag beschließt Änderungen an Klinikreform &nbsp;&nbsp; Handelsblatt",
-      "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV2tMcG41d3BlSm9kbk01UFZHcGVKa3VBaDVObE9DSE1LbVh3V1NPckZCTkpNR0RSY3VleDR2ZHRJaktIWmVKTUtVY1B5ZVAxSGRuTnB5Y0d6cDhtaTg2cFFJTExueFhKdzQ1a0QwNHBNeDZhLWNxaDRPdFY1eE8tQ1ZDYWpzaTU1Z1ktVDZET0pGbGRlQ2xUVHg3SldJSzA4aFJQemVVWVFaaGV2VmszQlRqNmlrR1B3Ymd3b0pUOGI5bWRzd0lFelRYcmo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-06T08:00:00+00:00",
-      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     }
