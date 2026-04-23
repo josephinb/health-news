@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-23T18:59:12.312882+00:00",
+  "generated_at": "2026-04-23T21:39:11.384550+00:00",
   "window_days": 42,
-  "count": 286,
+  "count": 259,
   "items": [
     {
       "title": "Erläuterungen zu den Richtlinien der Kassenärztlichen Bundesvereinigung für Radiologie und Nuklearmedizin - Deutsches Ärzteblatt",
@@ -196,6 +196,16 @@
       "type": "News"
     },
     {
+      "title": "Medizinische Versorgung - Neue Handreichung für Ärzte zu Abbrüchen nach Vergewaltigung - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Medizinische Versorgung - Neue Handreichung für Ärzte zu Abbrüchen nach Vergewaltigung - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPQ0dxOXdRbU5Va21jXzdOT1BGSjQwcWdEdHlZYTVpWnJXSjl5djZXVVR0QURlSlpzaUN6MXdTU05zYXNJYVItNWs3ak1jMVV0NFNSQ0Y2NThoS2JLelhjd0xOdnE4djRyQXBQaWdjUV9SMF81WEdxT3B1c0xZTHd0VkxOXzhiSFJ3Q2R1UkcwLUF3dktKdHYxeEJQbkhfdk5Fc1NHaWI1YXNxVERVcVl6aEJOcVEyQ0c2MGRsdjVfNGtzVkNESzVTZkpWclpzNllHM3lPZTZwX3U3b25vTXBtakN1V0RiOUtFelRDSGhfdXVkNkRqSndEYlRkVklZOWhJbXdkd1UzZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-23T11:50:01+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Pharma: Sartorius setzt Erholung fort – News - Deutsches Ärzteblatt",
       "summary_de": "Pharma: Sartorius setzt Erholung fort – News &nbsp;&nbsp; Deutsches Ärzteblatt",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
@@ -242,16 +252,6 @@
       "source_url": "https://www.ema.europa.eu/en/news/ema-business-hours-over-kings-day-labour-day-27-april-1-may",
       "published_at": "2026-04-23T11:00:00+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/uncomfortable-reality-ai-radiology-health-care",
-      "published_at": "2026-04-23T10:27:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -356,6 +356,16 @@
       "type": "News"
     },
     {
+      "title": "Per Hubschrauber in die Klinik: Radfahrer nach Zusammenstoß mit Auto lebensgefährlich verletzt - tagesschau.de",
+      "summary_de": "Per Hubschrauber in die Klinik: Radfahrer nach Zusammenstoß mit Auto lebensgefährlich verletzt &nbsp;&nbsp; tagesschau.de",
+      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSnRid0lOWjVJbDgyMzVINXB1SGxCYnFZd19UU2hMQnZzZUJDeU9PWVZaZ0FuMzB0cmVhNlNHTHpjN1ZvcXdOTWxMSWVWOUJGRXJEaDZ4dGltZUV1dUc2SmxQSWZfa1RQYWJmNDV4bEZ0S2VnS0paZ3h2U040OGR1Nkl5NEZtVnlSdlMxQjlidFpiRVViTVBoNXd0dm15YlhnYk9zYTR2T0t3WHhncEZkVFZqZjViaTloY1AyWnlDc0kwLUl6MkpZM082ekw1ME5VSG1GMHY4bENZQU1vLWE4N3l2dXMta0U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-23T08:31:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Assoziation: Bei Brustkrebs-Diagnose Vitamin D checken",
       "summary_de": "Frauen, die an Brustkrebs erkranken, haben schlechtere &Uuml;berlebenschancen, wenn sie zum Zeitpunkt der Diagnose einen Vitamin-D-Mangel haben. Das belegt eine aktuelle Studie, deren Autoren gegebenenfalls eine Supplementation empfehlen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -428,31 +438,11 @@
       "type": "Studie"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/ai-detecting-classifying-prostate-lesions-bpmri-",
-      "published_at": "2026-04-22T21:04:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Opinion: Radiologists must be proactive to protect helium supply",
       "summary_de": "The mandate arises in the context of recent helium supply disruptions caused by global unrest.",
       "source_name": "AuntMinnie",
       "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15822962/opinion-radiologists-must-be-proactive-to-protect-helium-supply",
       "published_at": "2026-04-22T17:56:43+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/fda-new-ct-systems-diagnostic-radiology-radiation-therapy-applications",
-      "published_at": "2026-04-22T17:14:00+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -873,32 +863,12 @@
       "type": "News"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/interventional-radiology-in-focus-addressing-post-thrombotic-syndrome-deep-vein-thrombosis",
-      "published_at": "2026-04-21T21:28:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "(S+) Pflege-Reform durch Nina Warken: Diese Einschnitte könnte die Pflege treffen - Spiegel",
       "summary_de": "(S+) Pflege-Reform durch Nina Warken: Diese Einschnitte könnte die Pflege treffen &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRzluN0ZlTEludEkwT1JKYmg0YUxBemJFdTV2NlRWcktfcTdHVWU5WjFQZ3hPTnM1WmJ2TTVxT2lFSDJkSnAweU8zY3BjWnFUeE4xSXB4bENOUldlejZPdkVQaGMxOHpzMHBvTWJkVHNudDZYOXdpTHFhQWFJNnNCVkVnZVZOODB5VWZhUHl5c0xCTUtTeHJ5VE9Vdk1NTm1MVlNZekJDck53YWxjRFdEY1FCWDNNUzZXcGdSUDg5V2U3QnR4S3ZGLWRMNTlnVmlNVTV6aHBMWGZBdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-21T18:37:00+00:00",
       "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/quantifying-coronary-plaque-ccta-fully-automated-ai-model-",
-      "published_at": "2026-04-21T17:49:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1193,16 +1163,6 @@
       "type": "News"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/navigating-daunting-challenges-potential-opportunities-radiology",
-      "published_at": "2026-04-20T19:40:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Women face more diagnostic delays after abnormal mammograms",
       "summary_de": "Since the COVID-19 pandemic, women face more diagnostic delays in having their abnormal screening mammograms evaluated.",
       "source_name": "AuntMinnie",
@@ -1293,26 +1253,6 @@
       "type": "News"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/fda-hybrid-system-intravascular-ultrasound-optical-coherence-tomography",
-      "published_at": "2026-04-20T11:31:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/dont-worry-so-much-about-career-choices-in-radiology",
-      "published_at": "2026-04-20T10:34:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Pressemitteilung: Die Versicherten im Blick behalten - konstruktiv nach vorne schauen",
       "summary_de": "„Eine Reform, die alle Bereiche des Gesundheitssystems umfasst, ist unabdingbar, denn sonst steigen die Zusatzbeiträge ungebremst immer weiter und dann wären am Ende die 75 Millionen gesetzlich Versicherten erneut die Gelackmeierten\", erklärte Oliver Blatt anlässlich der laufenden Diskussion über den Referentenentwurf des GKV-Beitragsstabilisierungsgesetzes.",
       "source_name": "GKV-SV Presseinformationen",
@@ -1369,6 +1309,16 @@
       "type": "News"
     },
     {
+      "title": "Gender-Health-Gap: Ungerechte Medizin - FAZ",
+      "summary_de": "Gender-Health-Gap: Ungerechte Medizin &nbsp;&nbsp; FAZ",
+      "source_name": "\"site:faz.net medizin\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUmwwRGZLZllIT2hHSXhjSXp6WUpXaHlQZy1VMTVvbXRzWmZhekh6ZEQybUUwQnVtZERIME4yQ3VhX0QwellJbHkzZkd4RVE3dXFvRG92NURyS2dNUEx4ck1ENFNha3VMRjR2TWZCTEFtaG94SFByZzcxRmdzMG1qV280aG5ldw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-20T06:58:09+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "FAPI-PET superior to FDG-PET in liver cancer",
       "summary_de": "The finding is from a prospective head-to-head comparison among 59 patients with suspicious lesions.",
       "source_name": "AuntMinnie",
@@ -1411,16 +1361,6 @@
       "type": "News"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/radiology-roundup-fda-news-april-12-april-18",
-      "published_at": "2026-04-19T11:21:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Sparpläne im Gesundheitswesen - Kritik an Plänen für Gesundheitsreform - SPD sieht Unwuchten - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Sparpläne im Gesundheitswesen - Kritik an Plänen für Gesundheitsreform - SPD sieht Unwuchten - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1441,16 +1381,6 @@
       "type": "News"
     },
     {
-      "title": "Aktionsmonat April - Krebsdaten: Rückgang der Neuerkrankungen bei Männern - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Aktionsmonat April - Krebsdaten: Rückgang der Neuerkrankungen bei Männern - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdENBWHE3dHE3MWFFQmJyNmVrUEk3SC05SWJRNzh1X2FNakM0Y0R3ekJ5OTd3dU10SUpTYnFiYzlRUmpuOVpLRkd5aEVQU0huWjlRVUpCQmpjci15ZWxHeVFoZmYxUHZtYVNSanR5c2NFbTRpZFpMa2l6eC1SdDE5azdSZEM0ZjE1ZnBkd2RTYnA4VW5OcVlWcUR6VzJyb281ak8tUlpRLTgzQ2I0dXQtbmQxZjh2UmJwd3dWOXhhRTFSdUtoenBKNjZFMXZ3MThCMF8zM1pKV2NrNjRxRFpkTDVnNVNINmtjWjYyV2NsWmROUUk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-19T01:30:16+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Krankenversicherung - Schwesig warnt Warken: Hautkrebsvorsorge nicht einschränken - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Krankenversicherung - Schwesig warnt Warken: Hautkrebsvorsorge nicht einschränken - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1461,52 +1391,12 @@
       "type": "News"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/diagnostic-imaging-weekly-scan-april-12-april-18",
-      "published_at": "2026-04-18T15:45:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/fda-clears-updated-version-3d-mammography-algorithm-lunit",
-      "published_at": "2026-04-18T12:10:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/sbi-new-study-social-risk-factors-follow-up-imaging-abnormal-screening-mammograms",
-      "published_at": "2026-04-17T22:49:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "GKV-Beitragssatzstabilisierungsgesetz sorgt für Kritik – News - Deutsches Ärzteblatt",
       "summary_de": "GKV-Beitragssatzstabilisierungsgesetz sorgt für Kritik – News &nbsp;&nbsp; Deutsches Ärzteblatt",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYzFhc09GT3lUeFNQV1duVXZCTFAza3F4NjlQdFE4UHFRS3owVXVGYzA1dndlVGx4NHVza2lEenAzQ2h1UEs1N1BMN1RQOFR3cGNvaFNnMEN4cy1UYU5VS1d1MUkwb3M2Q0JxbFNpbXRJUFZuLUFxbUpGU1dGVGdzLVAwcDFmdGplVzJBN1FlY3VjaDF4SUg4RGpZYTBPb1pqTE5uRjJnQS02X3gtVlFlTnY0VWxybVBzME10QTVDS1Y?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-17T17:52:57+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/fda-ct-based-ai-software-coronary-artery-aortic-valve-calcium",
-      "published_at": "2026-04-17T16:49:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1623,32 +1513,12 @@
       "type": "News"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/closer-look-latest-updates-nccn-guidelines-breast-cancer-screening",
-      "published_at": "2026-04-16T20:52:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Spargesetz: Ärzte, Krankenhäuser, Versicherte sollen zahlen – Pharma wird geschont – News - Deutsches Ärzteblatt",
       "summary_de": "Spargesetz: Ärzte, Krankenhäuser, Versicherte sollen zahlen – Pharma wird geschont – News &nbsp;&nbsp; Deutsches Ärzteblatt",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYllFX3pfY2NvOHZ3amZLN2tBVkdHQ2h0Y2VHVjNzVnJ4aWJoemRpOHVJWVFLOGFhejlzX0FZMEpWYTc5eVpfZVU2Y1BubGZaaGFINHVORTJpWGZsdG02Q1pySk5sTEZsdmZuREhlejBVSHRGOGEtMjVIZmIyVEtPaFhEQVVUa3dyVUx5ZVRGRDhsOXNjN21WU3dETFJkb3B6X2JvRGpwUEE2MzRidHJtNUQtZGt2Wk85VXFWaW1uMVB2b09lLWFqTElyb0RyNnVHb25iMHpfZG04VW1sS1Rn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-16T16:47:59+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/fda-clears-new-spectral-ct-platform-ai-powered-image-reconstruction",
-      "published_at": "2026-04-16T15:02:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1775,16 +1645,6 @@
       "type": "News"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/ai-powered-mri-software-expanded-fda-clearance-use-deep-learning-reconstruction-modalities",
-      "published_at": "2026-04-15T17:12:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Transparency data: MHRA annual accountability review minutes",
       "summary_de": "The minutes of the ministerial annual accountability review of the Medicines and Healthcare products Regulatory Agency (MHRA).",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1813,16 +1673,6 @@
       "source_url": "https://www.gov.uk/government/publications/rsv-vaccine-factsheet-information-for-patients-parents-and-carers",
       "published_at": "2026-04-15T13:00:18+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/radiologists-respond-ceo-claim-ai-replacing-radiologists",
-      "published_at": "2026-04-15T12:43:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1899,16 +1749,6 @@
       "type": "Studie"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/large-language-models-clinical-reasoning-new-research-",
-      "published_at": "2026-04-14T17:14:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Ulrike Elsner (vdek): Stabile Beiträge sind im nächsten Jahr möglich – Im Maßnahmentableau fehlt die Refinanzierung der Kosten für Bürgergeldempfangende",
       "summary_de": "Der vdek begrüßt, dass die Bundesregierung die Stabilisierung der GKV-Finanzen mit hoher Priorität vorantreibt und schon in Kürze einen Gesetzentwurf vorlegen will. Inakzeptabel sei dagegen, dass sich der Staat bei der Finanzierung von versicherungsfremden Leistungen weiter aus der Verantwortung nehme, so vdek-Vorstandsvorsitzende Ulrike Elsner.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -1931,16 +1771,6 @@
         "Versorgung",
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/reading-room-podcast-ir-study-endovascular-therapy-reducing-severity-post-thrombotic-syndrome",
-      "published_at": "2026-04-14T09:26:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
       "type": "News"
     },
     {
@@ -1976,32 +1806,12 @@
       "type": "Studie"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/a-canary-radiological-coal-mine",
-      "published_at": "2026-04-13T17:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "National Diabetes Audit (NDA) 2025-26 quarterly report for England, Integrated Care Board (ICB), Primary Care Network (PCN) and GP practice",
       "summary_de": "The worksheets include data for all ICBs and GP practices in England within the February 2026 extraction of NDA data (April to December 2025 data). These data undergo further validation processes at the end of each audit year when data from specialist services are added in, at which point the data are considered to comprise the full annual dataset to …",
       "source_name": "Publication Feed",
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/national-diabetes-audit/core-q3-25-26/national-diabetes-audit-nda-2025-26-quarterly-report-for-england-integrated-care-board-icb-primary-care-network-pcn-and-gp-practice",
       "published_at": "2026-04-13T15:58:50+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/breast-imaging-focus-partially-autonomous-ai-supported-screening-mammography-dbt-",
-      "published_at": "2026-04-13T11:02:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -2060,42 +1870,12 @@
       "type": "Studie"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/diagnostic-imaging-weekly-scan-april-5-april-11",
-      "published_at": "2026-04-11T17:40:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/molecular-imaging-in-focus-series-first-three-episodes",
-      "published_at": "2026-04-10T20:54:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 7-10 April 2026",
       "summary_de": "New safety information for healthcare professionals Ontozry (cenobamate): new requirements for liver monitoring due to reports of severe liver injuryPRAC agreed on a direct…, Agenda Agenda of the PRAC meeting 7-10 April 2026Draft Reference…, PRAC statistics: April 2026 , PRAC statistics: April 2026 English (EN) (33.18 MB - PDF)First published…, Glossary Safety signal assessments. A safety signal is information which …",
       "source_name": "News and press releases",
       "source_url": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-7-10-april-2026",
       "published_at": "2026-04-10T12:00:00+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/ai-reinvent-efficiency-detection-triage-cardiac-screening-handheld-ultrasound-",
-      "published_at": "2026-04-10T01:52:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -2126,16 +1906,6 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/patient-reported-outcome-measures-proms/final-2024-25-data",
       "published_at": "2026-04-09T13:14:50+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/photon-counting-ct-reveals-carotid-perivascular-adipose-tissue",
-      "published_at": "2026-04-09T11:54:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -2178,26 +1948,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/can-gadoxetic-acid-enhanced-mri-improve-detection-of-sub-centimeter-hcc-recurrence-",
-      "published_at": "2026-04-08T18:47:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/deepsight-technology-needlevue-mini-ultrasound-guidance-device-sir-conference",
-      "published_at": "2026-04-08T18:05:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "[MI] Learning Disabilities Health Check Scheme, England February 2026",
@@ -2295,26 +2045,6 @@
       "type": "Studie"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/mri-study-potentially-severe-impact-nac-heart-brain-function-breast-cancer-patients",
-      "published_at": "2026-04-07T22:07:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/diffusion-mri-software-for-parkinsonian-syndromes-gets-fda-de-novo-classification",
-      "published_at": "2026-04-07T16:24:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Primary Care Dementia Data, February 2026",
       "summary_de": "NHS England collect and publish data about people with dementia at each GP practice in England, to enable NHS GPs and commissioners to make informed choices about how to plan their dementia services around patients’ needs.The publication includes the rate of dementia diagnosis. As not everyone with dementia has a formal diagnosis, this statistic compares the number of people thought …",
       "source_name": "Publication Feed",
@@ -2357,12 +2087,12 @@
       "type": "Studie"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/breast-mri-study-background-parenchymal-enhancement-no-impact-lesion-detection",
-      "published_at": "2026-04-06T21:14:00+00:00",
-      "category": "Radiologie",
+      "title": "Alkohol in der Schwangerschaft: Wie eine Betroffene mit der Krankheit FASD umgeht - Spiegel",
+      "summary_de": "Alkohol in der Schwangerschaft: Wie eine Betroffene mit der Krankheit FASD umgeht &nbsp;&nbsp; Spiegel",
+      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVTJrazhMODJZRGVXMzA1dUFiQ1piZHFrOEJ3UjdUT3JqNnNvN25UQ2FiR3p5aU93cWlkZVQ0SnZPQm5ybXBfb3M4WTBtWXhZYmxiVWRVbnhIR3NxVFZNd1ROQnZmVW14bXBHeDBVeWZrbFE5ck9rXzhjRDdDRTVsbUp4X1E1bHBiQW92MWpsY1BQYVJJRzBidVdHLUlBSEo3S0FRV0lCZkdZdk9uZS1tRUdSNzJjTWZYbnRGMko1eE9rdEprZ1FfMHNtcnJyTUlrOFp6bnlkRjlYaWNfLVhoc19FdVdaT1Ri?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-04T07:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2417,6 +2147,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "BARMER Krankenkasse in Simmern - Barmer",
+      "summary_de": "BARMER Krankenkasse in Simmern &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUWdwTkVlOEZ2VW4wWk1yM0NpaHlTUm9xNkZZa0VPS3dvTmg3bW4zZWRkQUdQV1FzalUwYmtVbGNoY3Z4QVdPMVBEZnVLNUdMSW9Za1dmQ3VnaTFjSjUyQkIwWTh2Y2lsLU9Tb294a21iQUhTMzdBSGtudmc1ZXUxd2w1b01Wc1RIOThZdzZmdVJzSnBESDg0X0h6d3cyUk5tTlF6X1ljWlhTOFcwa1h6cG5ybE9VVk9nSEQ0amwydEN0SlVjYjdn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-01T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "IKK classic in Köln - Ihre Krankenkasse vor Ort - IKK classic",
@@ -2847,16 +2587,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Wie kommen Dritt­staats­an­ge­hö­rige an die A1-Beschei­ni­gung? - Techniker Krankenkasse",
-      "summary_de": "Wie kommen Dritt­staats­an­ge­hö­rige an die A1-Beschei­ni­gung? &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc2FSdWxkZEN5eU1IaG5IOFczSE1pb3l0WFY4Sld5TGJqeHBjSXhQT3AtbktWd3llc1k3WnhWQko0WVZBS3JkbVVtXzF4OUl2VUl6VzliWDNRUkJrZnZKMmhhb1FsclJfR3Z5SThORGNiMjFkRDFnZ3pOblA2bm9IUWY1NG8yWlJLR0RqdXA4bWd2TFVYYTI5UE42RkdEYUpuTENXeTlFTQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-19T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
