@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-04-24T05:28:23.455315+00:00",
+  "generated_at": "2026-04-24T07:51:32.610697+00:00",
   "window_days": 42,
-  "count": 254,
+  "count": 251,
   "items": [
+    {
+      "title": "Ähnlichkeit ohne Verwandtschaft: Hat mein Doppelgänger dieselben Gene?",
+      "summary_de": "Viele Menschen fragen sich, ob irgendwo auf der Welt ihr Doppelg&auml;nger zu finden ist. Wie wahrscheinlich das ist und welche Gene f&uuml;r das Aussehen verantwortlich sind, erkl&auml;ren Forschende zum Welt-DNA-Tag am 25. April.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/hat-mein-doppelgaenger-dieselben-gene-164690/",
+      "published_at": "2026-04-24T05:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Erläuterungen zu den Richtlinien der Kassenärztlichen Bundesvereinigung für Radiologie und Nuklearmedizin - Deutsches Ärzteblatt",
       "summary_de": "Erläuterungen zu den Richtlinien der Kassenärztlichen Bundesvereinigung für Radiologie und Nuklearmedizin &nbsp;&nbsp; Deutsches Ärzteblatt",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNRFFfR0paVFVJT3pRY0dUZW41SlhoWjBhSDRWalA4TXl3b2E5cHRxbHZxYlRNcTJlQWpYV2M1NXR4VlZMMlNSTGVzR25RTDBmek5KckZaZHloTXFDeWswbU5RLWJVOHR4X1poeWplZzZtOWEwS3kzTFFkU1FtNFhtYUVzYjBDaTZyYzZJeFNfYUlFUC1WRjBtUUVUejNPQ0t2OWdoNmtTYXYtUkpQZHhiN0FJSXVzdFdvUWlpY1VoTVNYMG9fUTFib3hHak45eVVrWjMtTTNiMFdaRlZUUGd6em1XenRSSG81SEQzaFVfb2FiQkFGdF9rNUFLbEZlYjFVWnVyckp5QlFjcE0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-23T17:46:11+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "LI-RADS CT/MRI liver malignancy features show high interreader agreement",
-      "summary_de": "The results could have implications for how LI-RADS CT/MRI (v2018) should be applied in clinical liver imaging practice.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/article/15823057/lirads-ctmri-liver-malignancy-features-show-high-interreader-agreement",
-      "published_at": "2026-04-23T17:44:38+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -124,16 +124,6 @@
         "Europa"
       ],
       "type": "Studie"
-    },
-    {
-      "title": "Laufen: So gelingt der sanfte Einstieg – mit Tipps von einem Arzt und einer Trainerin - Gesellschaft - SZ.de - SZ.de",
-      "summary_de": "Laufen: So gelingt der sanfte Einstieg – mit Tipps von einem Arzt und einer Trainerin - Gesellschaft - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS2t1VUE5QUE2STJYUGN4NGF4WTFyX2VoZ3d3bUlxZkV3cTJQWmR0SEZJS0lqTXJ0WGFxZjFweWJxVnhkRS1HOWN3TUI2elY3NWhGcm5qWlA2a28tSG8tUld3TWJMQldyaFJjUnFoSlR0Ry1JZ1FDWkphWkxJQWpYU0tlazZ2QkNvemc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-23T13:38:48+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Lungenentzündung: Welche Antibiotika wann zum Einsatz kommen",
@@ -296,16 +286,6 @@
       "type": "News"
     },
     {
-      "title": "Musculoskeletal strain affects majority of radiologists",
-      "summary_de": "Musculoskeletal strain represents the single largest category of workplace injury in radiology.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/practice-management/article/15823097/musculoskeletal-strain-affects-majority-of-radiologists",
-      "published_at": "2026-04-23T08:47:10+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Fit Notes Issued by GP Practices, England, December 2025",
       "summary_de": "The Statement of Fitness for Work (the Med3 form or 'fit note') was introduced in April 2010 across England, Wales and Scotland. It enables healthcare professionals to give advice to their patients about the impact of their health condition on their fitness for work and is used to provide medical evidence for employers or to support a claim to health-related …",
       "source_name": "Publication Feed",
@@ -384,16 +364,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "New x-ray dataset helps clinicians develop pathology detection AI",
-      "summary_de": "ICUs rely heavily on bedside chest x-ray to monitor patients, and the dataset could offer support for radiologic assessment.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15823095/new-xray-dataset-helps-clinicians-develop-pathology-detection-ai",
-      "published_at": "2026-04-23T08:26:10+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Spargesetz: Pantazis beklagt »Scheindebatten« beim Bürgergeld",
@@ -654,16 +624,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQc0NvU25XdjctMDQtRndRd19PQmR5c201U3BnRENyQWlrNWs1ZVRnNkZ6ZEZSdGU0Rm93OHNqVjZ6ZG9obFN6UmwweFRfaWhSQXI1WGo1Rmw3U0czRHNuS2RhQXRuR3BVRTc4Q0N3SmN0QmpFYjh5RElHRW1LZW56QXMwc3N0dmJuR0tXekFOcDZzWFlsR1A0NFduMjVfRzFKRE0zTUVYa2xaWkdlcTBPcENnY1pORF8tOUF4aUgxdEx5MFkxVlcySlF2Yl9PSU9Ga1I4TTYzUDBReGJUQVZWWWFqMGY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-22T12:03:15+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "DMEA: Kassen-Chef will Apotheken für ePA begeistern",
-      "summary_de": "Die ePA ist inzwischen im Alltag der Apotheken angekommen. Doch wie geht es jetzt weiter? Das wurde am Dienstag auf der Digitalmesse DMEA in Berlin diskutiert.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/kassen-chef-will-apotheken-fuer-epa-begeistern-164675/",
-      "published_at": "2026-04-22T12:00:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -1123,16 +1083,6 @@
       "type": "News"
     },
     {
-      "title": "Buffered solutions versus 0.9% saline for resuscitation in critically ill adults and children",
-      "summary_de": "Buffered solutions versus 0.9% saline for resuscitation in critically ill adults and children",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012247.pub3",
-      "published_at": "2026-04-21T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
       "title": "Lung transplant in people with cystic fibrosis and nontuberculous mycobacteria infection",
       "summary_de": "Lung transplant in people with cystic fibrosis and nontuberculous mycobacteria infection",
       "source_name": "Cochrane Library RSS feed.",
@@ -1147,6 +1097,16 @@
       "summary_de": "Delivery arrangements for rehabilitation services in health systems: an overview of systematic reviews",
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016348",
+      "published_at": "2026-04-21T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Buffered solutions versus 0.9% saline for resuscitation in critically ill adults and children",
+      "summary_de": "Buffered solutions versus 0.9% saline for resuscitation in critically ill adults and children",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012247.pub3",
       "published_at": "2026-04-21T00:00:00+00:00",
       "category": "Studie",
       "tags": [],
@@ -1169,6 +1129,26 @@
       "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMUhQZGZNb1BicFJIOFNXM0E4X3c4dVNkQi1xeEtBelFzcTNpNjdab1VnVWdISjlNSnF6Y3FCd3BvUWpTZkFTT0RzMnNXT2MyYXRTUU9yNzVOYU43Q0tjYlBYZGZnakR5UDFVTWlJeUcwX3RMSlpjbVdhdDRkdFlpS2Fsem1nY1ZVazA5djVUeEFGOXlEUWtEQkZERVNIeG9QMUpleDlpS1VCWmVmX1Fjb0RJTGcwR2NCREVhb000UExXYTNEc24xWVJkQk1CMjI1MVdEb1dTUXJFZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-20T22:00:29+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Women face more diagnostic delays after abnormal mammograms",
+      "summary_de": "Since the COVID-19 pandemic, women face more diagnostic delays in having their abnormal screening mammograms evaluated.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15822693/women-face-more-diagnostic-delays-after-abnormal-mammograms",
+      "published_at": "2026-04-20T16:55:52+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Radiologists land on low end of industry research money, study finds",
+      "summary_de": "null",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/practice-management/administration/economics/article/15822634/radiologists-land-on-low-end-of-industry-research-money-study-finds",
+      "published_at": "2026-04-20T16:39:01+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1299,6 +1279,16 @@
       "type": "News"
     },
     {
+      "title": "FAPI-PET superior to FDG-PET in liver cancer",
+      "summary_de": "The finding is from a prospective head-to-head comparison among 59 patients with suspicious lesions.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15822711/fapipet-superior-to-fdgpet-in-liver-cancer",
+      "published_at": "2026-04-20T06:53:03+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Meldung: Versicherte vor weiteren Belastungen schützen – Kritik an „Horrorszenarien“",
       "summary_de": "„Jetzt geht es darum zu verhindern, dass sich unter dem enormen Druck der diversen Interessensverbände im Gesetzgebungsprozess die Belastungen weiter hin zu den Versicherten verschieben“, so Oliver Batt, Vorstandsvorsitzender des GKV-Spitzenverbandes, im Gespräch mit der Neuen Osnabrücker Zeitung (NOZ).",
       "source_name": "GKV-SV Presseinformationen",
@@ -1401,11 +1391,11 @@
       "type": "News"
     },
     {
-      "title": "Medizinstudium in Deutschland: Schafft endlich den NC ab! - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Medizinstudium in Deutschland: Schafft endlich den NC ab! - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ2wwU3RzNjdMOGFvcnBlQ1BFa3hzNU5iMnBFX0s3Yk9uWF9HQTBGS3JZcE9kaHpyWFB5YkN1dXNORHZRV19RUlFUQWlEeHYteHRzRDJselRGM2lUb3E3QkY0MG8yV3ZEa0UtSEZwVnpzNlg5UmV0MFJlRGI3a1VDQ21ZdUFRVnVXNHNDTk40TF9ia0ZFdlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-17T12:31:39+00:00",
+      "title": "Psychotherapeutische Medizin Teilzeit Stellenangebote in Bayern (0) - ärztestellen",
+      "summary_de": "Psychotherapeutische Medizin Teilzeit Stellenangebote in Bayern (0) &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVDF1dTcxejVucUEwRkFEZ0NySjVSU3IzeTRTYTUtem9rLTlUVFI4b3l1elY1aUhDajlpMkYya3J4TkhMbHNiSlVSSmNvMTFJWUZzZDVyZjZJMDFaUUt0dDdib3l0ZEIxOWVJSlRGUzdTa2JlU3llbDJPTkt1RVltRjR3S2hRYWMwUmtpNnpJQURZSlBfdWN3eHd2UVlhclY4bElVTUJHeU96OS1VOVJ5dXcwMHFCNnVSbkc2SmYwU1A5RHNhV3dqM0tJZloyWHkwZmhKVDVhbnl2cWtEbXo3ckZqZF9xY1hoa3dzaUNYLTNycHFMSldaZURCbUE0NzJp?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-17T11:56:59+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1459,16 +1449,6 @@
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2026/ersatzkasse-magazin-2026-02-ausgabendynamik-gesundheitssystem-stoppen.html?pk_campaign=rss",
       "published_at": "2026-04-17T08:15:00+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Radiologie: Initiative „Medizin mit Durchblick“ - Deutsches Ärzteblatt",
-      "summary_de": "Radiologie: Initiative „Medizin mit Durchblick“ &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSEdBNk9zckFDbjlTbmhrSzhzY0RxNmFJbEJXV3h3ZHFKN2RGaVoxeE5kZ0I2Z0pvMUpGQm93ZGlZUHBycXRRd0laRHAwTmt6YXNPa1NTbVZ2WWFPODBLZ0lYQ1c0eWtDVi1zR2JDRHhCRjBsOEppRWhPc2s0cDFEYUEtbG9faktnVmhZOGhuUExFRmVSMGZWTXhxeGxfSU1jckxGVkRvdVAzakpDcnNVOVpvVktaZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-17T05:43:13+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1689,20 +1669,20 @@
       "type": "News"
     },
     {
-      "title": "Percutaneous transluminal angioplasty and stenting for vertebral artery stenosis",
-      "summary_de": "Percutaneous transluminal angioplasty and stenting for vertebral artery stenosis",
+      "title": "Insulin‐like growth factor‐1 for the prevention or treatment of retinopathy of prematurity",
+      "summary_de": "Insulin‐like growth factor‐1 for the prevention or treatment of retinopathy of prematurity",
       "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013692.pub3",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013216.pub2",
       "published_at": "2026-04-15T00:00:00+00:00",
       "category": "Studie",
       "tags": [],
       "type": "Studie"
     },
     {
-      "title": "Insulin‐like growth factor‐1 for the prevention or treatment of retinopathy of prematurity",
-      "summary_de": "Insulin‐like growth factor‐1 for the prevention or treatment of retinopathy of prematurity",
+      "title": "Percutaneous transluminal angioplasty and stenting for vertebral artery stenosis",
+      "summary_de": "Percutaneous transluminal angioplasty and stenting for vertebral artery stenosis",
       "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013216.pub2",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013692.pub3",
       "published_at": "2026-04-15T00:00:00+00:00",
       "category": "Studie",
       "tags": [],
@@ -2027,6 +2007,16 @@
       "type": "News"
     },
     {
+      "title": "BARMER Krankenkasse in Waldshut-Tiengen - Barmer",
+      "summary_de": "BARMER Krankenkasse in Waldshut-Tiengen &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQVcxVmxfRHNQbExsdm8xQ0ZYdFhMaktsaVFnZUh3MlBVUDhIRXhYWk1wckN6eEZHMEg5SU9oejRRNm9USUt5TDluTGVPb012cnBZTWl5RVB3cGc5b2dsbmh6VGE0eW05SHRlcnduc2picEVsd2NGY1JKUGdIQnczd2JyMkYycVRVbUJSWG5yem1ndm82TkdsbEFxdkJ3U2pRZkxoeXRUYlBTY2haRmFyaTRqdVFtS181OER3MVp1ai1faXJ1dUZEZmdUTS16RlF4cFJv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-07T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Antibiotic treatment for low back pain, radicular pain, or both",
       "summary_de": "Antibiotic treatment for low back pain, radicular pain, or both",
       "source_name": "Cochrane Library RSS feed.",
@@ -2097,16 +2087,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "BARMER Krankenkasse in Berlin Charlottenburg-Wilmersdorf - BARMER",
-      "summary_de": "BARMER Krankenkasse in Berlin Charlottenburg-Wilmersdorf &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcDRmaldyaEp3TjhHQThjdkYtZ0M4d2ZBQkhqTk1LYWZqR0l4Ym9iWWlxV0h1MTNGOXYxdkFpYU5yRnp6UlNlU0tkd1ZuRTBMQVB0UzdIV2pEMGdTTWRzbGFBSUpEUVZ2WmJGblhkbGh3YkZaWDhHbUQxNkJWcUFId292MGNma1YxcDRvM2ZwcmN3Q1ZuQ2x3dzdlcENFd19MNS1zSEtPY2swbkJRbHU5SkNBaHE5dUVIbGJvb1B3b01EbDFTZjMxU2RGZG1saDVzT1gzZVhERTNRX25WOUZBQ2pxbzZvV0FlOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-01T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "IKK classic in Köln - Ihre Krankenkasse vor Ort - IKK classic",
@@ -2181,16 +2161,6 @@
         "Versorgung",
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Stellenangebote GeRN® - Gesellschaft für Radiologie und Nuklearmedizin GbR, (2) - ärztestellen",
-      "summary_de": "Stellenangebote GeRN® - Gesellschaft für Radiologie und Nuklearmedizin GbR, (2) &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXF5N0FVdmZHMUhucGVVRW05SUlER0hPUkRLRWhrOVdqVFdUUmxtMlJxT2twTmI1aUk4RU1xd2MydEhrWTRxVnpHX1BsWGNOZThmcXRNbjdPeUdyY2pWUFVOUW1hMmVEMEh6OWlLdFJQTVB4MC1VekZXSW5LQmVMMUJVRTk5OVdNMUlSOU5FcjZjNUg5NGZmMVBTS3NpWjREUGhKeVRSM21HaG8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-30T09:19:32+00:00",
-      "category": "Radiologie",
-      "tags": [],
       "type": "News"
     },
     {
@@ -2276,8 +2246,8 @@
       "type": "News"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-27T07:00:00+00:00",
