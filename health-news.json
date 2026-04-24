@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-24T02:00:43.066030+00:00",
+  "generated_at": "2026-04-24T05:28:23.455315+00:00",
   "window_days": 42,
-  "count": 260,
+  "count": 254,
   "items": [
     {
       "title": "Erläuterungen zu den Richtlinien der Kassenärztlichen Bundesvereinigung für Radiologie und Nuklearmedizin - Deutsches Ärzteblatt",
@@ -9,6 +9,16 @@
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNRFFfR0paVFVJT3pRY0dUZW41SlhoWjBhSDRWalA4TXl3b2E5cHRxbHZxYlRNcTJlQWpYV2M1NXR4VlZMMlNSTGVzR25RTDBmek5KckZaZHloTXFDeWswbU5RLWJVOHR4X1poeWplZzZtOWEwS3kzTFFkU1FtNFhtYUVzYjBDaTZyYzZJeFNfYUlFUC1WRjBtUUVUejNPQ0t2OWdoNmtTYXYtUkpQZHhiN0FJSXVzdFdvUWlpY1VoTVNYMG9fUTFib3hHak45eVVrWjMtTTNiMFdaRlZUUGd6em1XenRSSG81SEQzaFVfb2FiQkFGdF9rNUFLbEZlYjFVWnVyckp5QlFjcE0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-23T17:46:11+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "LI-RADS CT/MRI liver malignancy features show high interreader agreement",
+      "summary_de": "The results could have implications for how LI-RADS CT/MRI (v2018) should be applied in clinical liver imaging practice.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/article/15823057/lirads-ctmri-liver-malignancy-features-show-high-interreader-agreement",
+      "published_at": "2026-04-23T17:44:38+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -167,10 +177,10 @@
     },
     {
       "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: Zonisamid Glenmark 100 mg Hartkapseln pU: Glenmark Arzneimittel GmbH",
+      "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: Zolmitriptan Glenmark 2,5 mg Schmelztabletten pU: Glenmark Arzneimittel GmbH",
       "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
       "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-04-23T12:39:00+00:00",
+      "published_at": "2026-04-23T12:46:43+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
@@ -286,6 +296,16 @@
       "type": "News"
     },
     {
+      "title": "Musculoskeletal strain affects majority of radiologists",
+      "summary_de": "Musculoskeletal strain represents the single largest category of workplace injury in radiology.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/practice-management/article/15823097/musculoskeletal-strain-affects-majority-of-radiologists",
+      "published_at": "2026-04-23T08:47:10+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Fit Notes Issued by GP Practices, England, December 2025",
       "summary_de": "The Statement of Fitness for Work (the Med3 form or 'fit note') was introduced in April 2010 across England, Wales and Scotland. It enables healthcare professionals to give advice to their patients about the impact of their health condition on their fitness for work and is used to provide medical evidence for employers or to support a claim to health-related …",
       "source_name": "Publication Feed",
@@ -364,6 +384,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "New x-ray dataset helps clinicians develop pathology detection AI",
+      "summary_de": "ICUs rely heavily on bedside chest x-ray to monitor patients, and the dataset could offer support for radiologic assessment.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15823095/new-xray-dataset-helps-clinicians-develop-pathology-detection-ai",
+      "published_at": "2026-04-23T08:26:10+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Spargesetz: Pantazis beklagt »Scheindebatten« beim Bürgergeld",
@@ -583,6 +613,16 @@
       "source_name": "AuntMinnie",
       "source_url": "https://www.auntminnie.com/clinical-news/ultrasound/article/15822794/ultrasound-orads-categorizes-borderline-ovarian-tumors",
       "published_at": "2026-04-22T13:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Arbeitsmodelle in der Medizin künftig neu denken – News - Deutsches Ärzteblatt",
+      "summary_de": "Arbeitsmodelle in der Medizin künftig neu denken – News &nbsp;&nbsp; Deutsches Ärzteblatt",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUG53ekVzTmhJTUx5RWFmLW80aW9aUS1FY3pzU21RM05PQjNiUkZOQkRDZVBqc1lNUXBrbnZESWxib0RLLWVhY24zRnhiaXVNZExLc3VUeGRDNnFDX2s3NUVfMmpiLWZlUE9CUC1mbHVBNEtWRDRud2VHbW1jMUZSRUxBajRPUGZST0UzR3RlVmdUTUlFVkZRLTBIbGF2NkNFVzFsZ0lFU0d1cnlGZmhFd0NvdmY3aUkx?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-22T12:46:44+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1133,26 +1173,6 @@
       "type": "News"
     },
     {
-      "title": "Women face more diagnostic delays after abnormal mammograms",
-      "summary_de": "Since the COVID-19 pandemic, women face more diagnostic delays in having their abnormal screening mammograms evaluated.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15822693/women-face-more-diagnostic-delays-after-abnormal-mammograms",
-      "published_at": "2026-04-20T16:55:52+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Radiologists land on low end of industry research money, study finds",
-      "summary_de": "null",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/practice-management/administration/economics/article/15822634/radiologists-land-on-low-end-of-industry-research-money-study-finds",
-      "published_at": "2026-04-20T16:39:01+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Vom UKE zum Albertinen Krankenhaus: Chefarzt-Wechsel in Hamburg - Hamburger Abendblatt",
       "summary_de": "Vom UKE zum Albertinen Krankenhaus: Chefarzt-Wechsel in Hamburg &nbsp;&nbsp; Hamburger Abendblatt",
       "source_name": "\"radiologie\" - Google News",
@@ -1279,16 +1299,6 @@
       "type": "News"
     },
     {
-      "title": "FAPI-PET superior to FDG-PET in liver cancer",
-      "summary_de": "The finding is from a prospective head-to-head comparison among 59 patients with suspicious lesions.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15822711/fapipet-superior-to-fdgpet-in-liver-cancer",
-      "published_at": "2026-04-20T06:53:03+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Meldung: Versicherte vor weiteren Belastungen schützen – Kritik an „Horrorszenarien“",
       "summary_de": "„Jetzt geht es darum zu verhindern, dass sich unter dem enormen Druck der diversen Interessensverbände im Gesetzgebungsprozess die Belastungen weiter hin zu den Versicherten verschieben“, so Oliver Batt, Vorstandsvorsitzender des GKV-Spitzenverbandes, im Gespräch mit der Neuen Osnabrücker Zeitung (NOZ).",
       "source_name": "GKV-SV Presseinformationen",
@@ -1331,16 +1341,6 @@
       "type": "News"
     },
     {
-      "title": "Kinder- und Jugendpsychiatrie und -psychotherapie DRV Schwaben- Klinik Bad Wörishofen Stellenangebote in Würzburg | Ärztestellen - ärztestellen",
-      "summary_de": "Kinder- und Jugendpsychiatrie und -psychotherapie DRV Schwaben- Klinik Bad Wörishofen Stellenangebote in Würzburg | Ärztestellen &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOHpnUG05TUxOODh3U0NGZW9ldFRyNGZkVm41T1BtSWRfSmlDR3NabzFQckpPLTdkaVNSTDlBWEZ4UVFpV21FU05RUjhKMVhSb09yOFRtWkJiMXctMGR1RkkyQ3EwRHlSY0k0YXJUX0VNVS1YVHRGdGRiNWVDRnFRMmUtS3BjdGxsWHlTd2lXbHpQek05WU83NTZzTFVyZUVJbG5pdm1oam81U2RSNDIyWHhOTnYyN2E0R1NueG5uNndEZDNNaGJTN1Vna3BUaFQ5OVlZUVlaWjE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-19T04:16:15+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Borreliose und FSME - Zeckensaison beginnt - schon jetzt zahlreiche Infektionen - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Borreliose und FSME - Zeckensaison beginnt - schon jetzt zahlreiche Infektionen - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1357,26 +1357,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVkR5MVNBZVV3d0ZhOVJRWXhrRWZlNUdVWWJ5cEUxYWFFbV92eEE0MUZGZkozRFI1Snd4bnVmUURpNnZqemtmVmNiT0xROTdHQ1RxMldoUFc2RW1IMzNiS1MwRUFOaVpVbzh3bFhKajJvTm1LS3V6NmNlVG1UZlBoTmgtOHdqVlRlQ1UzZEV0akdXZHF0czdfdk5mXzRBcmRidzQxM0x6WmkzMnNiaEJrN0dUeEdVWjZjaWd2WENvOVlvYTlVa2lRR1JvYkktWk1TZk4zOTExTlF5OGYtcnBEY0F6RU1UQlVvazdwZXloaFlEYjVvX2lONU1wZTM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-18T16:37:22+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Stellenangebote Oberarzt Evangelisches Krankenhaus Luckau gGmbH (0) - ärztestellen",
-      "summary_de": "Stellenangebote Oberarzt Evangelisches Krankenhaus Luckau gGmbH (0) &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMkZ2R0wzWlJiWEMtWlBXd0ZOMktEdXhpc1VJQ1c5WnJmZkVqNFk2MFVFQ25NckZNUFhfbVZTcFdZUGhBVjFRZFdlekdNTElsNnRNRUVhMk9aNTlONGwxYzFnanRJOVliSzNlamZ4ZHpJQU9UbS0xRmxvbG9zVm9nbzB1ZzNKd291blNodDk3TnhtbHItTWJOTmNBaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-18T12:07:21+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "GKV-Beitragssatzstabilisierungsgesetz sorgt für Kritik – News - Deutsches Ärzteblatt",
-      "summary_de": "GKV-Beitragssatzstabilisierungsgesetz sorgt für Kritik – News &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYzFhc09GT3lUeFNQV1duVXZCTFAza3F4NjlQdFE4UHFRS3owVXVGYzA1dndlVGx4NHVza2lEenAzQ2h1UEs1N1BMN1RQOFR3cGNvaFNnMEN4cy1UYU5VS1d1MUkwb3M2Q0JxbFNpbXRJUFZuLUFxbUpGU1dGVGdzLVAwcDFmdGplVzJBN1FlY3VjaDF4SUg4RGpZYTBPb1pqTE5uRjJnQS02X3gtVlFlTnY0VWxybVBzME10QTVDS1Y?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-17T17:52:57+00:00",
-      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -1431,16 +1411,6 @@
       "type": "News"
     },
     {
-      "title": "Psychotherapeutische Medizin Teilzeit Stellenangebote in Bayern (0) - ärztestellen",
-      "summary_de": "Psychotherapeutische Medizin Teilzeit Stellenangebote in Bayern (0) &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVDF1dTcxejVucUEwRkFEZ0NySjVSU3IzeTRTYTUtem9rLTlUVFI4b3l1elY1aUhDajlpMkYya3J4TkhMbHNiSlVSSmNvMTFJWUZzZDVyZjZJMDFaUUt0dDdib3l0ZEIxOWVJSlRGUzdTa2JlU3llbDJPTkt1RVltRjR3S2hRYWMwUmtpNnpJQURZSlBfdWN3eHd2UVlhclY4bElVTUJHeU96OS1VOVJ5dXcwMHFCNnVSbkc2SmYwU1A5RHNhV3dqM0tJZloyWHkwZmhKVDVhbnl2cWtEbXo3ckZqZF9xY1hoa3dzaUNYLTNycHFMSldaZURCbUE0NzJp?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-17T11:56:59+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit - Uni-Klinikum Halle startet Ambulanz für Tropenmedizin - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Gesundheit - Uni-Klinikum Halle startet Ambulanz für Tropenmedizin - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1456,16 +1426,6 @@
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMHJQQW5LZGdkTk83SG14M094UU9BUVhxWjVmYlhVUzNnbF8tWThsUkJ4WEhIR1JEU2ZpYVhNQUJlTG50RTFoVDdOcDY0ZVpLd2otWEgyN0JsMG1hdE5vd2pYMkpYNzl4TVFRZDBfT0UyQThUT0o0X2FMT1JDbk9DREowaWNQT3hncnpFM2pFbkNlY1lydVNmNmp3S21JWDZFYmFhcThLZ3E5WXFDdTdoR3Bfak9fZWN0VGdTdUVad1lLYUZWRS1sM0NZYksyY3RFOWFQejR3S1lVRGkzdWNsR2xxUzlCVVg2Yk5pX05ZMlJScE5QRDdnSVdUSTlJWDdoSnpPeHRBOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-17T09:48:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Innere Medizin Klinikum Oldenburg AöR Stellenangebote in Nordrhein-Westfalen (0) - ärztestellen",
-      "summary_de": "Innere Medizin Klinikum Oldenburg AöR Stellenangebote in Nordrhein-Westfalen (0) &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSkhlVVN5TUx0ODd3SFlXQzdaWnUwTmpxVUQ4WlhmYVg1dWloUmFRYUZLQUE1dHlzMC1aM0VuRW1KdlZKNUpBcndRRlliLXp1RG5ZU3hjWTNCU0d6NVY1Wkh4b01KbEJlbmpxRVBYWFBodEt1WlJUVzdvQlR6cGdXQ3dWYWI5UGVxT09IV2RsdDVsMVpncGg3Q25pZDZRZHdnQ2ExdFdDR1ZIX216OWNvTkNwaFdlcUZLT05OTExQU2JVUFNUWTY5cjYtQ01Ja3Ayam1EOGJ3dC1YS3gxZ0dYemh0djk1dkhKQTUta2N4VEo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-17T09:38:39+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1509,16 +1469,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSEdBNk9zckFDbjlTbmhrSzhzY0RxNmFJbEJXV3h3ZHFKN2RGaVoxeE5kZ0I2Z0pvMUpGQm93ZGlZUHBycXRRd0laRHAwTmt6YXNPa1NTbVZ2WWFPODBLZ0lYQ1c0eWtDVi1zR2JDRHhCRjBsOEppRWhPc2s0cDFEYUEtbG9faktnVmhZOGhuUExFRmVSMGZWTXhxeGxfSU1jckxGVkRvdVAzakpDcnNVOVpvVktaZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-17T05:43:13+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Ernährung - Limo, Tiefkühlpizza, Wurst - für Kinder besonders schädlich? - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Ernährung - Limo, Tiefkühlpizza, Wurst - für Kinder besonders schädlich? - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMWJMSC1lT0ZMSDgzVWtPU0hwRnJsa1liRzdJWVVMS3JGRmVieTh3ay1NWUhmSUNsVF9zSzViRURjZ2lkMEJaRUVENDhBb3hMYkhHVWsyWjdoOGpTRGZiOUxxdlNBSGhzMWNHYWNyR1luVWlFdUx6T2xoMU9nd2tOd1RUYnBCVlk5dk5QQzM1VVlURG9JTDFNcDc0ZWx3aGdpTkhtM0NhWEZfREZjUHE1S1lCMmtETXBtUHhOUlk1QTJ0X2hGTENDRDQwYVBLYlQyc1RQWkw2Q0tJNTU1clNKMEV4TXR5VkNMQzdWOXVSSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-17T04:00:09+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1847,16 +1797,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Arzt / Facharzt Psychotherapeutische Medizin Klinikum Wolfsburg Stellenangebote in Schleswig-Holstein - ärztestellen",
-      "summary_de": "Arzt / Facharzt Psychotherapeutische Medizin Klinikum Wolfsburg Stellenangebote in Schleswig-Holstein &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRVJIc2ZSYU1SZFJtRWhWWFRJbG14X3I5N1A5OG1uNUdaRjQ2aVFKMGFHNHo3eUVsNWFiWEFLM2FmSGFOek9OSjRMa0RnZmtkQktNM092czl6eDlVRXJJRVlVLUFNWDV0MDcycTBybW82b0o2VkZNR1ZPVmRBSnYxc0ZJcDhTRzhVR3pVdE4ydzVra2JIaE16OEJFYkFVZFpIODZ5M2IxY3FyREl5OUZXbDhtLWJMTzRlc0RNb3ZGclFJSWppUkJZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-13T02:47:30+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
