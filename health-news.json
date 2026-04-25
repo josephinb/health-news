@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-04-25T07:04:43.802766+00:00",
+  "generated_at": "2026-04-25T09:43:52.950981+00:00",
   "window_days": 42,
-  "count": 261,
+  "count": 260,
   "items": [
+    {
+      "title": "Neuer Aufsichtsrat: Apobank zahlt sechs Prozent Dividende",
+      "summary_de": "Die Deutsche Apotheker- und &Auml;rztebank (Apobank) zahlt ihren Mitgliedern f&uuml;r das Gesch&auml;ftsjahr 2025 eine Dividende in H&ouml;he von 6 Prozent. Das beschloss die Vertreterversammlung der Genossenschaftsbank am 24. April 2026 in D&uuml;sseldorf. Damit stimmten die Vertreterinnen und Vertreter dem Vorschlag von Vorstand und Aufsichtsrat zu.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/apobank-zahlt-sechs-prozent-dividende-164777/",
+      "published_at": "2026-04-25T08:45:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "PZ Briefing: Die Top-News der Woche",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-der-woche-164761/",
+      "published_at": "2026-04-25T07:00:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "KI und Roboter: Wie Ingenieure die Medizin verändern wollen - FAZ",
       "summary_de": "KI und Roboter: Wie Ingenieure die Medizin verändern wollen &nbsp;&nbsp; FAZ",
@@ -49,16 +69,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMU14Zk5WVFZNU0d3RmZ3M1JqMmVxeXh4bHI3enl6b1g3SVNqalBtRnFtQVRjWlNWTGhzV2tlNzZabWQ2RWlHMDhxa0g1T3ZqM0dsZFRuLWpldUV1ZXNjMUttcDY0c05QbmpPazNPOWREeHdMQnR1bVZhaF96bTFpTnFqdHE1OWFkaVFsRmU3WHpkMXhGbTFfQXYwQzRSb0s5M2VMVnpwckZpUklralZ2WHl6UGhxcnl0YnZ0ekFhRjBRTHJJVHExREZ1OGhBdnhhd1BKMDZR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-24T18:17:07+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "HRCT bests chest x-ray when it comes to identifying ILD",
-      "summary_de": "Why? Because although chest x-ray is often the initial imaging exam for evaluating ILD, subtle findings can be missed.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15823212/hrct-best-chest-xray-when-it-comes-to-identifying-ild",
-      "published_at": "2026-04-24T17:44:39+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -394,16 +404,6 @@
       "type": "Studie"
     },
     {
-      "title": "Week in Review: ACP and breast cancer screening | Nassau MRI story gets weirder | Coca-Cola and fecalomas",
-      "summary_de": "This week readers showed interest in the ACP's mammography guidelines, a new Invisible Force episode, and an unusual use of Coca-Cola...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/editors-note/article/15823204/week-in-review-acp-and-breast-cancer-screening-nassau-mri-story-gets-weirder-cocacola-and-fecalomas",
-      "published_at": "2026-04-24T07:39:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
       "title": "New medicine to reduce triglycerides in adults with familial chylomicronaemia syndrome",
       "summary_de": "EMA has recommended granting a marketing authorisation in the European Union (EU) for Redemplo (plozasiran) to treat adults with familial chylomicronaemia syndrome (FCS).FCS is…",
       "source_name": "News and press releases",
@@ -420,16 +420,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/fa-will-mit-laenderliste-vor-das-bundesverfassungsgericht-164741/",
       "published_at": "2026-04-24T07:20:39+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "ChatGPT matches nuclear medicine experts on FDG-PET/CT scans",
-      "summary_de": "Models excelled on cases with well-defined metabolic patterns, such as in typical cases of Alzheimer's disease, yet were less...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15823216/chatgpt-matches-nuclear-medicine-experts-on-fdgpetct-scans",
-      "published_at": "2026-04-24T07:08:33+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -612,26 +602,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbFE3bkV2ekpyS0FFdmk3MHFQTEdhRl9BNnBSRkNIbmtYVkoya3UwVHAwY2pEQ0VwSm5YU09kWHk4SkRIN092Wjg4NGplV2hxbV9MWndHVEp5WEhXckNCLVliWmR2RDlrNXZuS0NhYXM4MHM5YmJkb0xsNm8xX1lvTHRKcTM1VzlDcDJHcjVDZ29XWHk0UFdsTzJGZDk0MTZQUzlFV1JWX0xmbU1sRmpfSlZoamFlYkV4bjhnZ2dRMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-23T13:15:14+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Hessen: Apotheke wegen Betrugsverdacht durchsucht",
-      "summary_de": "Ermittelnde durchsuchen Wohnungen, Apotheken und ein Unternehmen in Osthessen wegen &uuml;berh&ouml;hter Preise f&uuml;r Medizinprodukte. Ihr Verdacht: millionenschwerer Betrug.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/apotheke-wegen-betrugsverdacht-durchsucht-164715/",
-      "published_at": "2026-04-23T13:10:08+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Umfrage: 75 Prozent wollen Arzneimittellieferung am selben Tag",
-      "summary_de": "Eine Umfrage des Marktforschungsinstituts YouGov im Auftrag des Logistikunternehmens Fleetlery zeigt, dass rund 75 Prozent der Deutschen eine Lieferung am selben Tag im Apotheken- und Gesundheitsbereich f&uuml;r wichtig halten.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/75-prozent-wollen-arzneimittellieferung-am-selben-tag-164710/",
-      "published_at": "2026-04-23T13:00:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -844,6 +814,16 @@
       "source_url": "https://www.auntminnie.com/clinical-news/ultrasound/article/15822833/auntminniecom-ultrasound-insider",
       "published_at": "2026-04-22T13:00:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Ultrasound O-RADS categorizes borderline ovarian tumors",
+      "summary_de": "Ultrasound deems most borderline ovarian tumors to be O-RADS category 4 or 5, with most tumors being serous.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ultrasound/article/15822794/ultrasound-orads-categorizes-borderline-ovarian-tumors",
+      "published_at": "2026-04-22T13:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1093,6 +1073,36 @@
       "type": "News"
     },
     {
+      "title": "AI plus CCTA cuts plaque analysis time, predicts cardiac event risk",
+      "summary_de": "A deep-learning model quantifies coronary plaque volume from coronary CT angiography (CCTA) images.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15822812/ai-plus-cta-cuts-plaque-analysis-time-predicts-cardiac-event-risk",
+      "published_at": "2026-04-21T17:12:35+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "DBT availability similar in areas with high, low resource deprivation",
+      "summary_de": "DBT is offered at similar rates among areas with high and low resource deprivation, and at similar costs.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15822774/dbt-availability-similar-in-areas-with-high-low-resource-deprivation",
+      "published_at": "2026-04-21T15:47:34+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Fragen an den Regierungschef - Was Wüst über Notrufe, Kriminalität und Scharrenbach denkt - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Fragen an den Regierungschef - Was Wüst über Notrufe, Kriminalität und Scharrenbach denkt - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQNEh6Q3BFcHMzZEliN2c5QlBRM0pQQTlHQjVHRF8ydTZ1M2tBVUhDUjNxS1pmbkd2bVlDMFJUTlNLZmhHSGVsbEI4WGEtMFItdDlHNVFUNjdhVUxoZ3ZzSHN2TE14QkN3MVZJclNPT3VtVWN6QVpLalhhMTAzekFfMk40X1hNVXl3dlZhZ1ROQjhjZXE1RTM2dUFzaHBmRmZXRllVRG9VU2wxWEZQeURVZzZ5N3JvcVpWU05hVVp4RkUxb0NrTHFzeDR2VmNDSWp0NGtNbzE3djlaZWRxZkh2T0RFOXdtaU1FbWIzNTg0YTRlUnRpam1BaG5ITC13UFFuSVNYcHhGOVAzZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-21T15:19:14+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Mental Health Services Monthly Statistics, Performance February 2026",
       "summary_de": "This publication provides the timeliest picture available of people using NHS funded secondary mental health, learning disabilities and autism services in England, excluding those who are solely in contact with Talking Therapies. This information will be of use to people needing access to information quickly for operational decision making and other purposes. More detailed information on the quality and completeness …",
       "source_name": "Publication Feed",
@@ -1153,6 +1163,16 @@
       "type": "News"
     },
     {
+      "title": "100 Millionen Euro - Parkinsonklinik in Beelitz-Heilstätten soll erweitert werden - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "100 Millionen Euro - Parkinsonklinik in Beelitz-Heilstätten soll erweitert werden - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQVkNmVGhaYmxuVGJzZ3lPU1VXNTFlYThKYUlJUV9OcVlRelZrRlJMeERFMnNhRG1XRzBQYzN2Z2ZvWks4U0szUGdyRGN5RC00SDFsWm1GMkx4eUlKM1g2Sk5XNnd4eEF6dUt6MEl0Z2dMcVAyWmtiUTMySE11OEtYVU1VS2tFTDJKcVhPYUJraGtXQl8tUGxMc29Gb1A3UnpTTDFsQ0FKMFhCN09RWklLdTkxMy1BMXgybUJRdkE4bWJfTGluTEFWOTlqVVN6SnprMjhWVVJzclZaYVlJaHNxd2pJbUhERnR3eFcyR1RTaEtESzRac1VldkdFeWxadw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-21T12:56:47+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Female Genital Mutilation - Quarterly Report: July to September 2025",
       "summary_de": "The Female Genital Mutilation Enhanced Dataset (FGMED) is a repository for data collected by healthcare providers in England where FGM was identified or a procedure for FGM was undertaken.Data collected includes FGM type, age (at which FGM was undertaken and at latest attendance), country (of birth and where FGM was undertaken) and if the patient was advised of the health …",
       "source_name": "Publication Feed",
@@ -1198,16 +1218,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcmFaallOMm1oSWotazhncXVnRTlLal8xS0FpMzhSb0FiSEw2SnVDc1ozVjFJU1BpSEpqUk9MVmdaSWNCNm1INy1JYmo4ZzNBMzZ3MWMyUTk2MjhHRS0zMG55TUhIZVkySnZsNGQzOElsdVJiVUFBTl9MU2VBcDN3aFRFRWdyX29ZVFBMOWh0OV9lWnBMcFJrbV9tUlQxdlh2MHJkSzhYa19wZHp1VFMtdFYtQ09EWFJYcGw4WWZoa0hmdkcwNnVBLTBxVUNDZ0JHMHo2bmZBMWVXNTVTTGJOWUMxN0NZaDMxYzRiUmE4cEtyTWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-21T12:13:41+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Fragen an den Regierungschef - Was Wüst über Notrufe, Kriminalität und Scharrenbach denkt - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Fragen an den Regierungschef - Was Wüst über Notrufe, Kriminalität und Scharrenbach denkt - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQNEh6Q3BFcHMzZEliN2c5QlBRM0pQQTlHQjVHRF8ydTZ1M2tBVUhDUjNxS1pmbkd2bVlDMFJUTlNLZmhHSGVsbEI4WGEtMFItdDlHNVFUNjdhVUxoZ3ZzSHN2TE14QkN3MVZJclNPT3VtVWN6QVpLalhhMTAzekFfMk40X1hNVXl3dlZhZ1ROQjhjZXE1RTM2dUFzaHBmRmZXRllVRG9VU2wxWEZQeURVZzZ5N3JvcVpWU05hVVp4RkUxb0NrTHFzeDR2VmNDSWp0NGtNbzE3djlaZWRxZkh2T0RFOXdtaU1FbWIzNTg0YTRlUnRpam1BaG5ITC13UFFuSVNYcHhGOVAzZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-21T12:11:04+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1526,16 +1536,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVkR5MVNBZVV3d0ZhOVJRWXhrRWZlNUdVWWJ5cEUxYWFFbV92eEE0MUZGZkozRFI1Snd4bnVmUURpNnZqemtmVmNiT0xROTdHQ1RxMldoUFc2RW1IMzNiS1MwRUFOaVpVbzh3bFhKajJvTm1LS3V6NmNlVG1UZlBoTmgtOHdqVlRlQ1UzZEV0akdXZHF0czdfdk5mXzRBcmRidzQxM0x6WmkzMnNiaEJrN0dUeEdVWjZjaWd2WENvOVlvYTlVa2lRR1JvYkktWk1TZk4zOTExTlF5OGYtcnBEY0F6RU1UQlVvazdwZXloaFlEYjVvX2lONU1wZTM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-18T16:37:22+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Stellenangebote Oberarzt Evangelisches Krankenhaus Luckau gGmbH (0) - ärztestellen",
-      "summary_de": "Stellenangebote Oberarzt Evangelisches Krankenhaus Luckau gGmbH (0) &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMkZ2R0wzWlJiWEMtWlBXd0ZOMktEdXhpc1VJQ1c5WnJmZkVqNFk2MFVFQ25NckZNUFhfbVZTcFdZUGhBVjFRZFdlekdNTElsNnRNRUVhMk9aNTlONGwxYzFnanRJOVliSzNlamZ4ZHpJQU9UbS0xRmxvbG9zVm9nbzB1ZzNKd291blNodDk3TnhtbHItTWJOTmNBaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-18T12:07:21+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -2137,16 +2137,6 @@
       "type": "Studie"
     },
     {
-      "title": "Alkohol in der Schwangerschaft: Wie eine Betroffene mit der Krankheit FASD umgeht - Spiegel",
-      "summary_de": "Alkohol in der Schwangerschaft: Wie eine Betroffene mit der Krankheit FASD umgeht &nbsp;&nbsp; Spiegel",
-      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVTJrazhMODJZRGVXMzA1dUFiQ1piZHFrOEJ3UjdUT3JqNnNvN25UQ2FiR3p5aU93cWlkZVQ0SnZPQm5ybXBfb3M4WTBtWXhZYmxiVWRVbnhIR3NxVFZNd1ROQnZmVW14bXBHeDBVeWZrbFE5ck9rXzhjRDdDRTVsbUp4X1E1bHBiQW92MWpsY1BQYVJJRzBidVdHLUlBSEo3S0FRV0lCZkdZdk9uZS1tRUdSNzJjTWZYbnRGMko1eE9rdEprZ1FfMHNtcnJyTUlrOFp6bnlkRjlYaWNfLVhoc19FdVdaT1Ri?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-04T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Access to crisis care via NHS 111 - Mental Health, February 2026",
       "summary_de": "This publication introduces a newly established data collection for demand and call handling data items related to accessing crisis care via the NHS111 'select MH option'. This data will provide important insights into how accessible the crisis care system is helping to identify any gaps or inefficiencies. Additionally, the data will be used to support demand and capacity planning across …",
       "source_name": "Publication Feed",
@@ -2197,16 +2187,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "BARMER Krankenkasse in Simmern - Barmer",
-      "summary_de": "BARMER Krankenkasse in Simmern &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUWdwTkVlOEZ2VW4wWk1yM0NpaHlTUm9xNkZZa0VPS3dvTmg3bW4zZWRkQUdQV1FzalUwYmtVbGNoY3Z4QVdPMVBEZnVLNUdMSW9Za1dmQ3VnaTFjSjUyQkIwWTh2Y2lsLU9Tb294a21iQUhTMzdBSGtudmc1ZXUxd2w1b01Wc1RIOThZdzZmdVJzSnBESDg0X0h6d3cyUk5tTlF6X1ljWlhTOFcwa1h6cG5ybE9VVk9nSEQ0amwydEN0SlVjYjdn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-01T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "IKK classic in Köln - Ihre Krankenkasse vor Ort - IKK classic",
@@ -2302,6 +2282,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Antrag auf Leistungen bei Verhinderung der Pflegeperson | DAK-Gesundheit - caas.content.dak.de",
+      "summary_de": "Antrag auf Leistungen bei Verhinderung der Pflegeperson | DAK-Gesundheit &nbsp;&nbsp; caas.content.dak.de",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcDZyTDNEVnRjeXAyQkN2MW8xRmNGSm5lWGFhd011eVY2R29qVWNBN0U3NkF5SlBqMGR1UVAtbjBUak1aX0hIYVllT0NBOGQwT1BiR3dDSG0xeHE1eHdLcTlOb3ZFaXZ6UVdwQWdOR2NDUnY4WkU2U1lXNnE5QW5GNjVyVDdoOFdCbm40WkpYRGxwa19FMFRaTXRLTTAwTFN1a1RhZ3JyNXpRQjBWODl3YkJybGRzOFBEQ2hUaTI1T25ZdlJYY21pTUFQZHNiVGY0c2lfR2kxVFJlY3BFaWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-03-28T02:26:29+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "NHS Sickness Absence Rates, December 2025",
