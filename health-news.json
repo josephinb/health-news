@@ -1,8 +1,228 @@
 {
-  "generated_at": "2026-04-27T21:49:21.600470+00:00",
+  "generated_at": "2026-04-28T02:12:38.773007+00:00",
   "window_days": 42,
-  "count": 255,
+  "count": 252,
   "items": [
+    {
+      "title": "International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use Guidelines",
+      "summary_de": "Directory of current ICH Guidelines which have been implemented by the Medicines and Healthcare products Regulatory Agency.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/international-council-for-harmonisation-of-technical-requirements-for-pharmaceuticals-for-human-use-guidelines",
+      "published_at": "2026-04-27T23:01:01+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Clinical trials for medicines: good manufacturing practice and radiopharmaceutical investigational medicinal products",
+      "summary_de": "Guidance on good manufacturing practice and the use of radiopharmaceutical investigational medicinal products in clinical trials.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-good-manufacturing-practice-and-radiopharmaceutical-investigational-medicinal-products",
+      "published_at": "2026-04-27T23:01:01+00:00",
+      "category": "Radiologie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Clinical trials for medicines: non-investigational medicinal products",
+      "summary_de": "Guidance on using non-investigational medicinal products in a clinical trial.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-non-investigational-medicinal-products",
+      "published_at": "2026-04-27T23:01:01+00:00",
+      "category": "Studie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "Studie"
+    },
+    {
+      "title": "Guidance: Clinical Trials Regulations enforcement provisions",
+      "summary_de": "Information about Clinical Trials Regulations outlining expanded enforcement provisions, offences, and compliance requirements for sponsors and investigators.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/clinical-trials-regulations-enforcement-provisions",
+      "published_at": "2026-04-27T23:01:01+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Guidance: Clinical trials for medicines: roles and responsibilities",
+      "summary_de": "Which professions can act as an investigator, training and experience expectations, provision of medical support and delegation of activities.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/clinical-trials-for-medicines-roles-and-responsibilities",
+      "published_at": "2026-04-27T23:01:01+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Guidance: Clinical trials for medicines: Archiving and retention of clinical trial records",
+      "summary_de": "Information on clinical trial record retention and archiving requirements including requirements for ownership, data integrity, and transitional provisions.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/clinical-trials-for-medicines-archiving-and-retention-of-clinical-trial-records",
+      "published_at": "2026-04-27T23:01:01+00:00",
+      "category": "Studie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "Studie"
+    },
+    {
+      "title": "Clinical trials for medicines: notifiable trials",
+      "summary_de": "Guidance on clinical trials that are categorised as ‘notifiable’.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-notifiable-trials",
+      "published_at": "2026-04-27T23:01:00+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Guidance: Clinical trials for medicines: Declaration of Helsinki and Clinical Trial Regulations alignment",
+      "summary_de": "Information on the alignment of the amended UK clinical trial legislation with the Declaration of Helsinki, prioritising UK law where conflicts arise.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/clinical-trials-for-medicines-declaration-of-helsinki-and-clinical-trial-regulations-alignment",
+      "published_at": "2026-04-27T23:01:00+00:00",
+      "category": "Studie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "Studie"
+    },
+    {
+      "title": "Clinical trials for medicines: labelling",
+      "summary_de": "Guidance on labelling for medicinal products used in clinical trials.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-labelling",
+      "published_at": "2026-04-27T23:01:00+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Guidance: Clinical trials for medicines: International Council for Harmonisation (ICH) annotations",
+      "summary_de": "Information to help comply with ICH guidelines, if you are running clinical trials in the UK.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/international-council-for-harmonisation-ich-e6r3-annotations",
+      "published_at": "2026-04-27T23:01:00+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Clinical trials for medicines: Good clinical practice inspections",
+      "summary_de": "Information relating to good clinical practice (GCP) inspections.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-good-clinical-practice-inspections",
+      "published_at": "2026-04-27T23:01:00+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Guidance: Clinical trials for medicines: Notification of Serious Breaches of GCP or the trial protocol",
+      "summary_de": "Information on practical arrangements for notification, what should and should not be classified as a “serious breach” and what must be reported.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/clinical-trials-for-medicines-notification-of-serious-breaches-of-gcp-or-the-trial-protocol",
+      "published_at": "2026-04-27T23:01:00+00:00",
+      "category": "Studie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "Studie"
+    },
+    {
+      "title": "Clinical trials for medicines: apply for approval in the UK",
+      "summary_de": "How to apply for a clinical trial from 28 April 2026, including eligibility, documentation and registration in a public registry.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-apply-for-approval-in-the-uk",
+      "published_at": "2026-04-27T23:01:00+00:00",
+      "category": "Studie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "Studie"
+    },
+    {
+      "title": "Clinical trials for medicines: modifying a clinical trial approval",
+      "summary_de": "Guidance on the various types of modifications that can be made to a clinical trial approval.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-modifying-a-clinical-trial-approval",
+      "published_at": "2026-04-27T23:01:00+00:00",
+      "category": "Studie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "Studie"
+    },
+    {
+      "title": "Clinical trials for medicines: guidance on quality and risk proportionality",
+      "summary_de": "Information on applying quality by design, risk‑based quality management, and proportionate oversight in UK clinical trials.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-guidance-on-quality-and-risk-proportionality",
+      "published_at": "2026-04-27T23:01:00+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Guidance: Formulating responses to GCP inspection findings",
+      "summary_de": "How to respond to the GCP inspection report findings, increase awareness of the GCP Inspectors’ expectations and aid formulation of an acceptable response.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/formulating-responses-to-gcp-inspection-findings",
+      "published_at": "2026-04-27T23:01:00+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Clinical trials for medicines: ending a clinical trial",
+      "summary_de": "Guidance on the process for ending a clinical trial.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-ending-a-clinical-trial",
+      "published_at": "2026-04-27T23:01:00+00:00",
+      "category": "Studie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "Studie"
+    },
+    {
+      "title": "Clinical trials for medicines: collection, verification and reporting of safety events",
+      "summary_de": "Guidance on the collection, verification, and reporting of safety events in clinical trials of an investigational medicinal product.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-collection-verification-and-reporting-of-safety-events",
+      "published_at": "2026-04-27T23:01:00+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Guidance: Common issues identified during clinical trial applications",
+      "summary_de": "This guidance identifies common issues with validation and assessment of clinical trial applications and how to avoid them.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/common-issues-identified-during-clinical-trial-applications",
+      "published_at": "2026-04-27T23:01:00+00:00",
+      "category": "Studie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "Studie"
+    },
+    {
+      "title": "Clinical trials for medicines: expert advice",
+      "summary_de": "Clinical trial applications that need expert advice from a specialist group or committee.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-expert-advice",
+      "published_at": "2026-04-27T23:01:00+00:00",
+      "category": "Studie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "Studie"
+    },
     {
       "title": "Übernahme durch Apothekerpaar : »Wir haben schon viel gemeistert. Darauf sind wir stolz«",
       "summary_de": "Das junge Apothekerpaar Imran und Ramazan &Ouml;zkul hat die farma-plus-Apotheke in W&uuml;rselen-Bardenberg nahe Aachen &uuml;bernommen. Im Gespr&auml;ch mit der PZ erz&auml;hlt Imran &Ouml;zkul von ihrem ersten Arbeitstag und davon, wie sie und ihr Partner die Entscheidung getroffen haben, eine eigene Apotheke zu er&ouml;ffnen.",
@@ -14,12 +234,12 @@
       "type": "News"
     },
     {
-      "title": "Guidance: Innovative Licensing and Access Pathway (ILAP)",
-      "summary_de": "The Innovative Licensing and Access Pathway (ILAP) is focused on getting the most transformative new medicines to patients in the UK health system more quickly.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/innovative-licensing-and-access-pathway-ilap",
-      "published_at": "2026-04-27T16:00:00+00:00",
-      "category": "Europa",
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Erstmeldung Arzneimittel: Neosynephrin-POS 10% pU: URSAPHARM Arzneimittel GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-04-27T14:53:47+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -60,16 +280,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-2742026-164803/",
       "published_at": "2026-04-27T14:00:00+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: VFEND 40 mg/ml Pulver zur Herstellung einer Suspension zum Einnehmen - OP6g(f.100ml) pU: Pfizer Europe MA EEIG",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-04-27T13:40:07+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -204,18 +414,6 @@
       "type": "News"
     },
     {
-      "title": "Launch of clinical trial reforms",
-      "summary_de": "Patients in the UK to get access to new treatments faster and still safely under new clinical trial regulations coming into force on 28 April 2026.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/launch-of-clinical-trial-reforms",
-      "published_at": "2026-04-27T11:05:07+00:00",
-      "category": "Studie",
-      "tags": [
-        "Europa"
-      ],
-      "type": "Studie"
-    },
-    {
       "title": "Der Kampf gegen Adipositas : Hat die Zuckersteuer eine Chance?",
       "summary_de": "Im Kampf gegen &Uuml;bergewicht und Diabetes sind Preisaufschl&auml;ge f&uuml;r ges&uuml;&szlig;te Getr&auml;nke ein Reizthema. Lange war die Debatte blockiert. Nun steht die Frage auf der aktuellen Agenda &ndash; Ausgang offen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -232,6 +430,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/apotheken-als-problem-loeser-bei-suchtfragen-164793/",
       "published_at": "2026-04-27T10:15:08+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "»Vier Tage in der Hölle im Krankenhaus« – Nationalspielerin Missy Bo Kearns macht Fehlgeburt öffentlich - Spiegel",
+      "summary_de": "»Vier Tage in der Hölle im Krankenhaus« – Nationalspielerin Missy Bo Kearns macht Fehlgeburt öffentlich &nbsp;&nbsp; Spiegel",
+      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeUNHNXFLQXlpVEFsSkwxdVVCb2d4MFhwYlRVcDNTUndEWXdiRmxFbXVpUjNmNDRwX1RBOThwRW9adFhBUlA1UkltNG1KUW85MmZGTU40VXlKUW02Vk1vLTBHb1h6SWQycnNkVXRaT252aXZ6S0g2a09CU3NENC0tak1HME5pU2ozVDVUWkZ3TUNnYVRSTDZfQnVDYVFCdllLVU5Ma2k4cnRieUhRTlp2dFU0N0xYWGVkS0RQMkluUTBTWFF4d1J2Tjl5RlI1clBQNndKYzJ3MTNWZndrZ1c0MmtZZ0hxZXk4NDRLcmdFZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-27T10:04:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -319,16 +527,6 @@
       "type": "News"
     },
     {
-      "title": "Radiology researchers weigh in on the impact of the political climate",
-      "summary_de": "Group begins research into how political environments may intersect with research practice.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/practice-management/administration/economics/article/15823370/radiology-researchers-weigh-in-on-the-impact-of-political-climate",
-      "published_at": "2026-04-27T08:22:35+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Folsäuremangel: Tropfen mit Levofolinsäure im Handel",
       "summary_de": "Mit Voxsio&reg; ist seit Kurzem eine fl&uuml;ssige orale Darreichungsform zur Behandlung von Folatmangelzust&auml;nden verf&uuml;gbar. Die Tropfen enthalten&nbsp;mit Levofolins&auml;ure die aktive Form der Fols&auml;ure.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -358,36 +556,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/ki-vertrauen-aber-nicht-sich-selbst-164630/",
       "published_at": "2026-04-27T07:00:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Children ‘almost invisible’ in public imaging datasets",
-      "summary_de": "Among 135 datasets with usable age data, children accounted for just 6,026 of 512,608 patients (under 2%).",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15823355/children-almost-invisible-in-public-imaging-datasets",
-      "published_at": "2026-04-27T06:43:37+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "AI model predicts cardiovascular risk from BACs on mammograms",
-      "summary_de": "An AI model showed success in using age-adjusted breast arterial calcifications from mammograms to predict cardiovascular events...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15823350/ai-model-predicts-cardiovascular-risk-from-bacs-on-mammograms",
-      "published_at": "2026-04-27T06:31:58+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "AI improves mammography specificity, speed in Asia-Pacific reader study",
-      "summary_de": "Use of an AI-CAD algorithm cut average interpretation time by more than 30%.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/breast/article/15823344/ai-improves-mammography-specificity-and-speed-in-asian-reader-study",
-      "published_at": "2026-04-27T06:01:17+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -592,16 +760,6 @@
       "type": "News"
     },
     {
-      "title": "Class 3 Medicines Recall: Omega Pharma Ltd, Napralief 250mg Gastro-Resistant Tablets, EL(26)A/21",
-      "summary_de": "Omega Pharma Ltd is recalling specific batches of Napralief 250mg Gastro-Resistant Tablets due to missing text in Section 2 and Section 3 of the Patient Information Leaflet (PIL) and on the Carton in packs of Napralief 250mg Gastro-resistant tablets.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/drug-device-alerts/class-3-medicines-recall-omega-pharma-ltd-napralief-250mg-gastro-resistant-tablets-el-26-a-slash-21",
-      "published_at": "2026-04-24T14:22:20+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Innovative Arzneimittel: Chinas Bedeutung wächst",
       "summary_de": "Im Vergleich zu den M&auml;rkten in den USA und Europa hatte der chinesische Arzneimittelmarkt lange Zeit das Nachsehen. Das &auml;ndert sich gerade &ndash; 2025 wurden in China erstmals mehr inl&auml;ndische als importierte Arzneimittel zugelassen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -642,8 +800,8 @@
       "type": "News"
     },
     {
-      "title": "Krankenkasse für ein gesünderes Leben | BARMER - Barmer",
-      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; Barmer",
+      "title": "Krankenkasse für ein gesünderes Leben | BARMER - BARMER",
+      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-24T13:39:20+00:00",
@@ -812,16 +970,6 @@
       "type": "News"
     },
     {
-      "title": "Field Safety Notices: 13 to 17 April 2026",
-      "summary_de": "List of Field Safety Notices from 13 to 17 April 2026.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-13-to-17-april-2026",
-      "published_at": "2026-04-23T15:26:18+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Psychische Gesundheit: Carolin Kebekus über Therapie: »Mein Leidensdruck war enorm« - DIE ZEIT",
       "summary_de": "Psychische Gesundheit: Carolin Kebekus über Therapie: »Mein Leidensdruck war enorm« &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -877,16 +1025,6 @@
       "source_name": "News and press releases",
       "source_url": "https://www.ema.europa.eu/en/news/ema-business-hours-over-kings-day-labour-day-27-april-1-may",
       "published_at": "2026-04-23T11:00:00+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Precautionary recall of medication used for pain and inflammation due to incomplete patient information",
-      "summary_de": "Specific batches of Napralief 250mg Gastro‑Resistant Tablets are being recalled because important safety and dosage information is missing from both the patient information leaflet and the outer carton.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/precautionary-recall-of-medication-used-for-pain-and-inflammationdue-to-incomplete-patient-information",
-      "published_at": "2026-04-23T10:19:54+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
@@ -984,6 +1122,26 @@
       "type": "Studie"
     },
     {
+      "title": "Opinion: Radiologists must be proactive to protect helium supply",
+      "summary_de": "The mandate arises in the context of recent helium supply disruptions caused by global unrest.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15822962/opinion-radiologists-must-be-proactive-to-protect-helium-supply",
+      "published_at": "2026-04-22T17:56:43+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "CT reveals new use for Coca-Cola: Dissolving fecalomas",
+      "summary_de": "CT imaging helped diagnose a large fecaloma and track a patient's response to a Coca-Cola enema to dissolve it.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15822953/ct-reveals-new-use-for-coke-dissolving-massive-fecalomas",
+      "published_at": "2026-04-22T17:13:48+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Rettungseinsätze - Kosten für Rettungsdienste: Minister drückt aufs Tempo - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Rettungseinsätze - Kosten für Rettungsdienste: Minister drückt aufs Tempo - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1034,6 +1192,16 @@
       "type": "News"
     },
     {
+      "title": "AuntMinnie.com Ultrasound Insider",
+      "summary_de": "Conference presentations and new research in prostate and interventional imaging are in this edition of the Ultrasound Insider...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ultrasound/article/15822833/auntminniecom-ultrasound-insider",
+      "published_at": "2026-04-22T13:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gesundheit: Neue Forschungszentren - Unheilbares soll heilbar werden - DIE ZEIT",
       "summary_de": "Gesundheit: Neue Forschungszentren - Unheilbares soll heilbar werden &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -1064,16 +1232,6 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit - Tabakverbot in Großbritannien: WHO lobt „starkes Signal“ - Politik - SZ.de - SZ.de",
-      "summary_de": "Gesundheit - Tabakverbot in Großbritannien: WHO lobt „starkes Signal“ - Politik - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPa0JPdXJTa3JjT2JubnVnMU9uUnF0NHVPLVFCQVZfcDNOaTlJSmRneE1Uemd5dU9Dd2tCbml6MTVXcmExRXJrYzVJRl9xVllKNC1TTlpIVXNQLVB1Ylp1SmRTblFQN3BOemJLWVh6RXBqTi1rNU5kUEs1S29RRTd6SlpQV1B6Q3lkelFHV0RpaWNDcS1LV1hRdGsyZlByclpabHVFOTNUUG9CQ1JFS1c1a0tIa1RqOFRwOFRBaUVjY0czeks5RVNCYXY1UnNESG9JYjhSXzhwbm51Ny1lUnUwTktwNFpzUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-22T11:31:33+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "(S+) Meinung: Kommentar: Muss Timmy gerettet werden? Eher unsere kollektive mentale Gesundheit - Spiegel",
       "summary_de": "(S+) Meinung: Kommentar: Muss Timmy gerettet werden? Eher unsere kollektive mentale Gesundheit &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
@@ -1094,34 +1252,12 @@
       "type": "News"
     },
     {
-      "title": "Enflonsia (clesrovimab-cfor) approved to prevent RSV in newborns and infants",
-      "summary_de": "As with any medicine, the MHRA will keep the safety and effectiveness of Enflonsia under close review.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/enflonsia-clesrovimab-cfor-approved-to-prevent-rsv-in-newborns-and-infants",
-      "published_at": "2026-04-22T10:49:08+00:00",
-      "category": "Studie",
-      "tags": [
-        "Europa"
-      ],
-      "type": "Studie"
-    },
-    {
       "title": "Klimawandel: Wie Hitze, Pollen und Viren Europas Gesundheit belasten - Spiegel",
       "summary_de": "Klimawandel: Wie Hitze, Pollen und Viren Europas Gesundheit belasten &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV25RY1B3TzBkanE1WnBXMW9TSVlJckJWbEVhbFBySkRhX2RqS1g2UDRlbmRFc1JZWmNwVVZNb01HTElsaWdOS19mZ291RXZTYUhFYms4NGVkYk9JUlAwQld2LUNWdlN1RVIyTGZIQ1RISnZHdEc2dTlHVXZnOHc4MXppSkh5LUNLbXk1MDQ0M2gxcjdGWlV1U01vM08wNEJBb295aFB6cWVCV1hHZ2xQVVMwUk5TRVdHOGVoUFRRWHhFdzA2UldIQzhyc3REZzlSeWhQLUR3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-22T10:34:00+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Class 4 Medicines Defect Notification: Doncaster Pharma Limited, Hiprex 1g tablets, EL(26)A/20",
-      "summary_de": "Doncaster Pharma Limited has informed the MHRA of an error related to the Braille embossing on the outer packaging of certain parallel imported batches of Hiprex 1 g tablets (POM).",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/drug-device-alerts/class-4-medicines-defect-notification-doncaster-pharma-limited-hiprex-1g-tablets-el-26-a-slash-20",
-      "published_at": "2026-04-22T10:00:22+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -1169,21 +1305,21 @@
       "type": "News"
     },
     {
+      "title": "GAE benefits may just be ‘placebo effect’",
+      "summary_de": "Patients who received either genicular artery embolization (GAE) or a sham procedure experienced equal pain improvements.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/interventional/article/15822971/gae-benefits-may-just-be-placebo-effect",
+      "published_at": "2026-04-22T07:03:20+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "Klimawandel beeinträchtigt zunehmend menschliche Gesundheit - FAZ",
       "summary_de": "Klimawandel beeinträchtigt zunehmend menschliche Gesundheit &nbsp;&nbsp; FAZ",
       "source_name": "\"site:faz.net medizin\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaktWaGVEamhtVWtDVGJ5VDI5Z0hUNEpkVEN2TmVZMWVYejZXUU55ZGdLam1jajJSVGxYS3h5LWFLUEo5dDN3SGtCNXNyck5seHhSMDBnb3pFNXNSSVNpVzFqdUJ6N2N3V29YbGo5SC1uT0dhampJRkoxQW9Jb1pBTG1STjNIOGIxSE9ITnFneHhBMUVMdC00ZVZRODQ4NHhBdnUyLVNCSE5TZDZka2w1WEhyNnUwd2x0NnB0SkpEN2h6S2ZBMW5IdHZ3ZXlKaUU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-22T06:49:41+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Vier neue Röntgengeräte an Klinik Innsbruck - tirol.ORF.at",
-      "summary_de": "Vier neue Röntgengeräte an Klinik Innsbruck &nbsp;&nbsp; tirol.ORF.at",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NSUhGS2ZCbUVwUDF3RGhIWlM1aEpYenZOWlJnSHpqU05DdWZHVkhzSG5oMXBySU1VeVIxbVNzUEFhblB2MXViaklicngyQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-22T05:04:31+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1409,26 +1545,6 @@
       "type": "News"
     },
     {
-      "title": "Statutory guidance: MHRA fees",
-      "summary_de": "Fees payable to the MHRA from 2025.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/mhra-fees",
-      "published_at": "2026-04-21T09:21:01+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit: Endometriose: Wo Frauen Hilfe finden - DIE ZEIT",
-      "summary_de": "Gesundheit: Endometriose: Wo Frauen Hilfe finden &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLY2V5emJXREJuZTg0ZDdkcV9wYko1eGUzNkstby0wUUVmZHlCU1Rnc0REYU96NGt1WTZLS3RoSzdqYzUzVGlrVk1sR0JKWUpaSm9lMFRpdExVM3d5ZHJ5UFZ1R3hOVDEybXhJZFBEWUVEcDYwek5ESjlxNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-21T02:01:04+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit - Endometriose: Wo Frauen Hilfe finden - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Gesundheit - Endometriose: Wo Frauen Hilfe finden - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1489,46 +1605,6 @@
       "type": "News"
     },
     {
-      "title": "Decision: Marketing authorisations Granted in 2026",
-      "summary_de": "Marketing authorisations Granted in 2026.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/marketing-authorisations-granted-in-2026",
-      "published_at": "2026-04-20T14:17:50+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Precautionary recall of blood pressure medication after manufacturing error",
-      "summary_de": "The MHRA has advised pharmacy and healthcare professionals to stop supplying the impacted batch and return all remaining stock to their suppliers.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/precautionary-recall-of-blood-pressure-medication-after-manufacturing-error",
-      "published_at": "2026-04-20T12:35:17+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Decision: Parallel import licences granted in 2026",
-      "summary_de": "Parallel import licences granted in 2026.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/parallel-import-licences-granted-in-2026",
-      "published_at": "2026-04-20T12:34:32+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Class 2 Medicines Recall: Crescent Pharma Limited, Ramipril 10mg capsules, EL(26)A/19",
-      "summary_de": "Crescent Pharma Limited is recalling one batch of Ramipril 10mg Capsules as a precautionary measure due to a potential error at the manufacturing site.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/drug-device-alerts/class-2-medicines-recall-crescent-pharma-limited-ramipril-10mg-capsules-el-26-a-slash-19",
-      "published_at": "2026-04-20T12:06:09+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Pressemitteilung: Die Versicherten im Blick behalten - konstruktiv nach vorne schauen",
       "summary_de": "„Eine Reform, die alle Bereiche des Gesundheitssystems umfasst, ist unabdingbar, denn sonst steigen die Zusatzbeiträge ungebremst immer weiter und dann wären am Ende die 75 Millionen gesetzlich Versicherten erneut die Gelackmeierten\", erklärte Oliver Blatt anlässlich der laufenden Diskussion über den Referentenentwurf des GKV-Beitragsstabilisierungsgesetzes.",
       "source_name": "GKV-SV Presseinformationen",
@@ -1567,16 +1643,6 @@
       "type": "News"
     },
     {
-      "title": "Clinical investigations for medical devices",
-      "summary_de": "How to notify the MHRA of your intention to carry out a clinical investigation for medical devices.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/guidance/notify-mhra-about-a-clinical-investigation-for-a-medical-device",
-      "published_at": "2026-04-19T23:01:01+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Meeting highlights from the Committee for Veterinary Medicinal Products (CVMP) 14-16 April 2026",
       "summary_de": "CVMP opinions on veterinary medicinal productsThe Committee adopted a positive opinion for a marketing authorisation for Nobivac NXT HCPChFeLV, for the active immunisation of…",
       "source_name": "News and press releases",
@@ -1592,16 +1658,6 @@
       "source_name": "News and press releases",
       "source_url": "https://www.ema.europa.eu/en/news/ema-recommends-authorisation-first-veterinary-vaccine-using-rna-technology",
       "published_at": "2026-04-17T12:59:00+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Promotional material: National AI Commission: Ask Me Anything",
-      "summary_de": "The MHRA are hosting a live Ask Me Anything on how artificial intelligence (AI) is being regulated in healthcare.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/national-ai-commission-ask-me-anything",
-      "published_at": "2026-04-17T09:37:00+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
@@ -1639,44 +1695,12 @@
       "type": "News"
     },
     {
-      "title": "Clinical trials for medicines: Compliance with ICH E6 good clinical practice (GCP) in the United Kingdom",
-      "summary_de": "Information on how ICH E6(R3) good clinical practice (GCP) principles are implemented and enforced in UK clinical trial legislation.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-compliance-with-ich-e6-good-clinical-practice-gcp-in-the-united-kingdom",
-      "published_at": "2026-04-16T11:13:24+00:00",
-      "category": "Studie",
-      "tags": [
-        "Europa"
-      ],
-      "type": "Studie"
-    },
-    {
-      "title": "Clinical trials for medicines: guidance on quality and risk proportionality",
-      "summary_de": "Information on applying quality by design, risk‑based quality management, and proportionate oversight in UK clinical trials.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-guidance-on-quality-and-risk-proportionality",
-      "published_at": "2026-04-16T11:13:16+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Joggen für Anfänger - DAK-Gesundheit - DAK",
-      "summary_de": "Joggen für Anfänger - DAK-Gesundheit &nbsp;&nbsp; DAK",
+      "title": "Schritte am Tag - DAK-Gesundheit - dak.de",
+      "summary_de": "Schritte am Tag - DAK-Gesundheit &nbsp;&nbsp; dak.de",
       "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOFVTekFtU1U0TmVlS1JURUJrMGdXQmFpc2hIaF9OM29qbmYzSG5vd1NyblJLSmZCaXg3SjhDV2huUlpuWDUxTGNmcXFKM2xGaE1JMWRFdGZhbWVmOE5mMXJELWhMY0hMbW5FaXE3clpSQ0RqVVI3N2xCTFgzaG9NQXFJaFJyenBXaDlwbkFqRzZQQmdVYWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-16T10:07:25+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTFJFMk5nZ1UyMmVINTQ5SlczeENvZWNVUEtiT0t5d3NsUDVUWnBWM3liR2Fudm9ocjBVWko3aTgyc1BBN1ItT1ZoN01naDJZMloxWmtocHptOWd5UTZhTzJPVURQTDBiWE5IeloxR3FuWTM5LXlZdTNsV0FGZC02SWszeVBGSFVuWVFtSWRfRjZlcS1JMjJOTUdiWVpYdEhPNkZsZjdCZVJYRzJrS1puRG01R1V6WWs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-16T10:41:27+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Guidance: Clinical trials for medicines: roles and responsibilities",
-      "summary_de": "Which professions can act as an investigator, training and experience expectations, provision of medical support and delegation of activities.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/clinical-trials-for-medicines-roles-and-responsibilities",
-      "published_at": "2026-04-16T09:37:10+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -1741,18 +1765,6 @@
       "type": "News"
     },
     {
-      "title": "Transparency data: MHRA annual accountability review minutes",
-      "summary_de": "The minutes of the ministerial annual accountability review of the Medicines and Healthcare products Regulatory Agency (MHRA).",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/mhra-annual-accountability-review-minutes",
-      "published_at": "2026-04-15T16:23:07+00:00",
-      "category": "Studie",
-      "tags": [
-        "Europa"
-      ],
-      "type": "Studie"
-    },
-    {
       "title": "Provisional Accident and Emergency Quality Indicators for England, February 2026, by provider",
       "summary_de": "Provisional Accident and Emergency Quality Indicators for England, February 2026, by providerThe measures included in this publication report on data coverage in ECDS compared with the emergency monthly situation reports MSitAE published by NHS England and NHS Improvement. They also report statistics for total time in A&amp;E, time to assessment, time to treatment, A&amp;E attendances that left before treatment and …",
       "source_name": "Publication Feed",
@@ -1763,31 +1775,11 @@
       "type": "News"
     },
     {
-      "title": "Guidance: RSV Vaccine Factsheet – Information for Patients, Parents and Carers",
-      "summary_de": "Patient factsheet providing information on respiratory syncytial virus (RSV) and RSV vaccination.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/rsv-vaccine-factsheet-information-for-patients-parents-and-carers",
-      "published_at": "2026-04-15T13:00:18+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Cancer Survival in England, cancers diagnosed 2018 to 2022, followed up to 2023",
       "summary_de": "This release summarises the survival of adults aged 15 to 99 years diagnosed with cancer in England between 2018 and 2022 with follow-up to the end of 2023.Adult cancer survival estimates are presented by cancer group, age at diagnosis, deprivation, gender, stage at diagnosis, hormone receptor status (Breast only), and health geography. The estimates presented below and in the main …",
       "source_name": "Publication Feed",
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/cancer-survival-in-england/cancers-diagnosed-2018-to-2022-followed-up-to-2023",
       "published_at": "2026-04-15T12:41:46+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Decision: Medical devices given exceptional use authorisations",
-      "summary_de": "List of manufacturers and their medical devices granted an exemption by MHRA. The list also includes manufacturers whose exemption expired or was cancelled.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations",
-      "published_at": "2026-04-15T10:57:09+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
@@ -2133,8 +2125,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Waldshut-Tiengen - Barmer",
-      "summary_de": "BARMER Krankenkasse in Waldshut-Tiengen &nbsp;&nbsp; Barmer",
+      "title": "BARMER Krankenkasse in Waldshut-Tiengen - BARMER",
+      "summary_de": "BARMER Krankenkasse in Waldshut-Tiengen &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQVcxVmxfRHNQbExsdm8xQ0ZYdFhMaktsaVFnZUh3MlBVUDhIRXhYWk1wckN6eEZHMEg5SU9oejRRNm9USUt5TDluTGVPb012cnBZTWl5RVB3cGc5b2dsbmh6VGE0eW05SHRlcnduc2picEVsd2NGY1JKUGdIQnczd2JyMkYycVRVbUJSWG5yem1ndm82TkdsbEFxdkJ3U2pRZkxoeXRUYlBTY2haRmFyaTRqdVFtS181OER3MVp1ai1faXJ1dUZEZmdUTS16RlF4cFJv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-07T07:00:00+00:00",
@@ -2290,16 +2282,6 @@
       "type": "News"
     },
     {
-      "title": "Biohacking für Einsteiger 2026: Tipps für mehr Energie & Gesundheit - KKH",
-      "summary_de": "Biohacking für Einsteiger 2026: Tipps für mehr Energie & Gesundheit &nbsp;&nbsp; KKH",
-      "source_name": "\"site:kkh.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIdnFHQS03TmQ4ZXVkcUhFVUl2RFRrR1NvbDVqNW9YYXBCWlZ2bW5xcmhUX044Uk9sUUJBOHVHVFNYVjVCb3pqU1VSWlJ2cVQtUDhKclprbHEweVJ3VURvN3NJYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-30T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Midline catheter versus peripheral intravenous catheter for intravenous treatment in hospitalized children",
       "summary_de": "Midline catheter versus peripheral intravenous catheter for intravenous treatment in hospitalized children",
       "source_name": "Cochrane Library RSS feed.",
@@ -2352,8 +2334,8 @@
       "type": "News"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-03-27T07:00:00+00:00",
