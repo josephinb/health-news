@@ -1,105 +1,45 @@
 {
-  "generated_at": "2026-05-01T21:44:58.600268+00:00",
+  "generated_at": "2026-05-02T02:04:45.916471+00:00",
   "window_days": 42,
-  "count": 275,
+  "count": 224,
   "items": [
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/clinical-use-of-psma-pet-in-advanced-prostate-cancer-",
-      "published_at": "2026-05-01T19:37:25+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/the-impact-of-psma-pet-on-treatment-selection-in-advanced-prostate-cancer",
-      "published_at": "2026-05-01T19:32:39+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/multidisciplinary-interpretation-of-psma-pet-in-advanced-prostate-cancer",
-      "published_at": "2026-05-01T19:30:36+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/limitations-of-conventional-imaging-in-advanced-prostate-cancer",
-      "published_at": "2026-05-01T19:24:26+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/video-stamatia-destounis-md-recent-acp-guidance-breast-cancer-screening",
-      "published_at": "2026-05-01T19:14:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Brandenburg: Wohnhausbrand in Guben: Ein Mensch tot, zwei im Krankenhaus - tagesschau.de",
-      "summary_de": "Brandenburg: Wohnhausbrand in Guben: Ein Mensch tot, zwei im Krankenhaus &nbsp;&nbsp; tagesschau.de",
-      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZy1BYkN5aHRyWERyNTZKR19GZjFIaWtiSnRKenEtSll1SGYwX3RKbUpUYlJLLU02b1gyTmx5OTZDM0pBRzE2UE5teU1sYmVtbGhIYmF4dEF1WE0wNkdZNW9aaDRZYVpvc0tYbDZoUnBzb2xPVVVHamtOaWw4bUdGdXFyVV84bmhmQ2NiLXczQ01naGdJa0hZTnNJdEhCTHdERWNlaHhMYklvTzAtTXJjRm5pOWUtWE1IWGVvaVJyVFFjQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-01T18:45:00+00:00",
+      "title": "Gesundheit: Mehr Interesse an Hausarzt-Modell - DIE ZEIT",
+      "summary_de": "Gesundheit: Mehr Interesse an Hausarzt-Modell &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UV1NSalZpUDU1TzNBWkRCQ2ZuT1RFYUVidm5qVUJtem9zTlRVVGVZRm9pU3ZsRnhCMHFoTEFzMjBfT0NFa1hwZi1MMmtUYVlmdFZBdnFmbkw4SDdHeTNrQ2RjemVGcUNwdzR1R0xBU3FEWWRodllIbA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-02T02:00:05+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/integrating-psma-pet-into-clinical-practice-in-advanced-prostate-cancer",
-      "published_at": "2026-05-01T17:15:00+00:00",
+      "title": "Iran: Nobelpreisträgerin Narges Mohammadi mit Herzproblemen im Krankenhaus - Spiegel",
+      "summary_de": "Iran: Nobelpreisträgerin Narges Mohammadi mit Herzproblemen im Krankenhaus &nbsp;&nbsp; Spiegel",
+      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaTZJMFpBT2dwaVNSbkFTeG1UQlZFb0Jnek9rYVJWck5jbkFfM0oxNUZ5S281bTZzWWdZRnZaN2JTRkdXTVczM2hPZGVoNjJOQ0ZKSklRVzFpT0hVWHF2M3Z3WVRnajFjdHdQckhocldqdHdsYXZwSEhjUmR1VXZESUhzNldGY2REWE5PYW1JanFwSWdOS3VJaUJrcEM5STVmSnZmdVZDRlFJcHVPREh3Z3A5YVpCQjNvajBJMVV3ai1LUC1XUlA2UlYwbG50aW1ZZmg3UDlmbTA4bU5Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-02T00:39:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Reducing head-neck CTA contrast by 40% saves costs, preserves quality",
+      "summary_de": "\"Standardized contrast dose reduction for [head-neck] CTA is feasible, sustainable, and does not compromise imaging.\"",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15823972/reducing-headneck-cta-contrast-by-40-saves-costs-preserves-quality",
+      "published_at": "2026-05-01T17:30:17+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/comparative-psma-pet-tracer-performance-in-advanced-prostate-cancer",
-      "published_at": "2026-05-01T17:14:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/clinical-use-of-psma-pet-in-advanced-prostate-cancer",
-      "published_at": "2026-05-01T17:12:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/impact-of-psma-pet-on-treatment-selection-in-advanced-prostate-cancer",
-      "published_at": "2026-05-01T17:10:57+00:00",
-      "category": "Radiologie",
+      "title": "Foregoing SLN breast surgery does not lead to radiation therapy increase",
+      "summary_de": "Research presented at the ASBrS annual meeting showed that omitting SLN surgery does not increase radiation therapy rates.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15823930/foregoing-sln-breast-surgery-does-not-lead-to-radiation-therapy-increase",
+      "published_at": "2026-05-01T16:15:53+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -134,11 +74,23 @@
       "type": "News"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/photon-counting-ct-new-standard-non-invasive-stent-imaging",
-      "published_at": "2026-05-01T12:04:00+00:00",
+      "title": "Week in Review: Radiologist for surgeon general? | SPECT/CT for prostate cancer therapy assessment | AI and patient risk",
+      "summary_de": "A radiologist has been nominated by President Donald Trump to serve as surgeon general of the U.S.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15824035/week-in-review-radiologist-for-surgeon-general-spectct-for-prostate-cancer-therapy-assessment-ai-and-patient-risk",
+      "published_at": "2026-05-01T08:32:43+00:00",
+      "category": "Studie",
+      "tags": [
+        "Radiologie"
+      ],
+      "type": "Studie"
+    },
+    {
+      "title": "Chinese scientists develop wearable brain PET system",
+      "summary_de": "The system could offer new opportunities for brain PET imaging beyond the constraints of conventional static systems.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15823994/chinese-scientists-develop-wearable-brain-pet-system",
+      "published_at": "2026-05-01T07:50:32+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -149,16 +101,6 @@
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRFJzS1NtbHIzNHhzdGFSNVVQc3B1d1QxX21xOC1Tc0FmQm9KbDI4d0V1R1l3XzVoQnRyRkwtVmNNQnBrcE5HNGtlUXNIZzB6b3M2X2VRbkVydVE2MTE1U1NlV05QbWJ1aWpIWlBBQndpbkZqTDZENDhGTFpkd0Y3SzRSZDF6REJla0NOYk9xVVNBV1R5aldiaEVPMTlBdmUxRFhnZk1FcXpJc01hbEUwQWFkRFU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-01T05:10:41+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/teleradiology-that-pays-more-demands-less",
-      "published_at": "2026-05-01T04:49:00+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -199,26 +141,6 @@
       "source_name": "\"site:rp-online.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT1dENW9DRC1FMHdOUnd4bWNPSDVoLTZuV0hlajJBXzNEZTRLTTBQWGdabXFwcC1yYVg0aW5ubHZvLTRQVHZ0NWY2S2E4SEVWMjNueXFQOGktRjlsRzNKOS1KUlRUU1dIamg4ejVxWExMZU5TaWtnYlZKWFNZRE84M1NiNEVIRjREUHR6TnhpUFNTdnBUSmh5QkpRZkZ0N21RbnQwcWpFQTI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-30T22:05:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/breast-radiologist-nominated-surgeon-general-president-trump",
-      "published_at": "2026-04-30T21:32:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/radiomic-ai-model-earlier-ct-detection-pancreatic-ductal-adenocarcinoma-",
-      "published_at": "2026-04-30T17:36:00+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -686,32 +608,12 @@
       "type": "News"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/pertinent-insights-evolution-amyloid-pet-imaging-patients-alzheimers-disease",
-      "published_at": "2026-04-29T21:20:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit und Geld: Das bringt eine Zuckerabgabe - tagesschau.de",
       "summary_de": "Gesundheit und Geld: Das bringt eine Zuckerabgabe &nbsp;&nbsp; tagesschau.de",
       "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeF91anFaNUY2TEtWc2hHUVVFVHZ3U0JyMEFxUXJYWXpGeDdyNnBMVHlEQW85VGd6Zjd6WkNtZW1jSUUzaGRndzNzbHM0bXlGanljbmJBczcyUThrUUNXYVJWdjRXSjQ2ZUFWME1XQWk3UFJPSUVmVlRUQ3hBRWpGanRfUmdNMTdDZ2xBWl9TQUVrT1JGNlZoTnExSWxIS1dmOUZvRWZFd3FVWERQNW04dVlZWlJjZ3RRWWw0cVJyZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-29T17:31:24+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Lu-177 PSMA-SPECT/CT predicts survival in mCRPC",
-      "summary_de": "Lu-177 PSMA-617 SPECT/CT total tumor volume complete response at six weeks associated with overall survival.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15823563/lu177-psmaspectct-predicts-survival-in-mcrpc",
-      "published_at": "2026-04-29T16:10:32+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -752,16 +654,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/welche-kassen-ueberleben-sollen-164908/",
       "published_at": "2026-04-29T15:30:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/top-five-radiology-video-interviews-april-2026",
-      "published_at": "2026-04-29T15:08:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -990,18 +882,6 @@
       "type": "News"
     },
     {
-      "title": "Pressemitteilung: Bundesregierung will Zahlungen für versicherungsfremde Leistungen kürzen",
-      "summary_de": "„Der gute Ansatz für die anstehende GKV-Finanzierungsreform ist in eine ernsthafte Schieflage geraten. Versicherte und Arbeitgebende werden zusätzlich belastet, insbesondere die Pharmaindustrie wird mit dem nun vorgelegten Entwurf nochmals weniger gefordert und der Bund spart auf Kosten der GKV-Beitragszahlenden\", erklärt Oliber Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes mit Blick auf den heute vom Bundeskabinett beschlossenen Entwurf des GKV-Beitragssatzstabilisierungsgesetzes.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2253504.jsp",
-      "published_at": "2026-04-29T09:32:37+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit: Kabinett bringt Gesundheits-Sparpaket auf den Weg - DIE ZEIT",
       "summary_de": "Gesundheit: Kabinett bringt Gesundheits-Sparpaket auf den Weg &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -1042,18 +922,6 @@
       "type": "News"
     },
     {
-      "title": "Meldung: Wir trauen dem Braten erst, wenn das Geld da ist!",
-      "summary_de": "„Wenn die Krankenkassenbeiträge stabil blieben, dann wäre schon viel gewonnen“, so Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, im Gespräch mit der WELT. „Wenn wir jetzt allen etwas abverlangen, dann ist es vielleicht perspektivisch auch möglich, über sinkende Beitragssätze zu sprechen“, so Blatt mit Blick auf die heute im Kabinett befindliche GKV-Finanzreform.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2253499.jsp",
-      "published_at": "2026-04-29T07:11:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Gesundheitsreform: Nina Warken verteidigt geplante Einsparungen bei der Krankenkasse - DIE ZEIT",
       "summary_de": "Gesundheitsreform: Nina Warken verteidigt geplante Einsparungen bei der Krankenkasse &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -1070,16 +938,6 @@
       "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15823650/4-ct-signs-help-predict-ischemia-in-small-bowel-obstruction",
       "published_at": "2026-04-29T06:11:10+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "MRI reveals occurrence of placental contractions",
-      "summary_de": "Characterizing these contractions could help clinicians better understand the placenta's function.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15823495/mri-reveals-occurrence-of-placental-contractions",
-      "published_at": "2026-04-29T06:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1124,32 +982,12 @@
       "type": "News"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/early-spect-ct-response-pluvicto-predict-survival-patients-mcrpc",
-      "published_at": "2026-04-29T02:59:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Versorgungskosten - Warken verteidigt geplantes Sparpaket - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Versorgungskosten - Warken verteidigt geplantes Sparpaket - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVWpvNTZBQWllZm5vc2lxLW1HZThhc3Z4R3lnRndjazhPb1J4VEVENFNiYVZObm5iTzFKM3hyVjhheVp2NFpFOUYyaDFTU2t4RGRNTW13YTdYMEY1czhpVmg4Sll5SnZDMDRCQnplZ01FRFdCUm9xOUowcl85Y2JuZFJ0MlpVcEVHa0lmODBpTHFUbF85VS15ZUxtbzk1c0JOZjl0VTVMeTlTS001Q2ZfVkJNYTBmNVpCMjdPTmcwY3prSjVQSGRMU0ltb0JISkNkUVRETXFETTVhZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-28T20:42:44+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/fda-glasses-free-3d-software-ct-mri-assessment",
-      "published_at": "2026-04-28T18:18:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1186,16 +1024,6 @@
       "type": "News"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/fda-optical-coherence-tomography-system-ai-enabled-high-resolution-imaging-coronary-plaque",
-      "published_at": "2026-04-28T14:16:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit: Klinikstreit im Salzlandkreis spitzt sich zu - DIE ZEIT",
       "summary_de": "Gesundheit: Klinikstreit im Salzlandkreis spitzt sich zu &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -1203,18 +1031,6 @@
       "published_at": "2026-04-28T13:51:06+00:00",
       "category": "News",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Meldung: Zahlungen für versicherungsfremde Leistungen sollen gekürzt werden",
-      "summary_de": "„Wir begrüßen, dass es nun rasch zu der Finanzierungsreform kommen soll, allerdings bereiten uns die jüngsten Entwicklungen Sorge\", erklärt Oliver Blatt mit Blick auf die nun bekanntgewordenen Pläne zu dem GKV-Beitragssatzstabilisierungsgesetz.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2252992.jsp",
-      "published_at": "2026-04-28T13:13:35+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
       "type": "News"
     },
     {
@@ -1238,16 +1054,6 @@
       "type": "News"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/top-five-radiology-content-in-april-2026",
-      "published_at": "2026-04-28T11:55:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Precautionary recall of antidepressant medication due to manufacturing error",
       "summary_de": "The MHRA has advised healthcare professionals to stop supplying the affected batch of Sertraline 100mg and return all remaining stock to their suppliers.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1264,16 +1070,6 @@
       "source_url": "https://www.gov.uk/guidance/notify-mhra-about-a-clinical-investigation-for-a-medical-device",
       "published_at": "2026-04-28T10:49:20+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "AI algorithm shines in spotting early pancreatic cancer",
-      "summary_de": "The findings could help shift diagnosis of PDA from late-stage terminal disease to early-stage treatable disease.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15823469/ai-algorithm-beats-radiologists-at-spotting-early-pancreatic-cancer",
-      "published_at": "2026-04-28T10:30:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1314,16 +1110,6 @@
       "source_url": "https://www.ema.europa.eu/en/news/new-pilot-support-development-breakthrough-medical-devices",
       "published_at": "2026-04-28T09:26:00+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Functional MRI predicts CTD-ILD progression better than standard tests",
-      "summary_de": "The technique performs better for this indication than do standard clinical tools such as chest CT and pulmonary function tests...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15823554/functional-mri-predicts-ctdild-progression-better-than-standard-tests",
-      "published_at": "2026-04-28T09:12:20+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1430,16 +1216,6 @@
       "type": "News"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/breast-radiologists-new-acp-breast-cancer-screening-guidelines-many-steps-backward-dangerous-",
-      "published_at": "2026-04-27T20:12:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit: Warken unter Zeitdruck – Klingbeil offen für Zuckersteuer - DIE ZEIT",
       "summary_de": "Gesundheit: Warken unter Zeitdruck – Klingbeil offen für Zuckersteuer &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -1500,39 +1276,6 @@
       "type": "News"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/advances-in-ai-april-2026",
-      "published_at": "2026-04-27T09:56:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/backstabbers-radiology-alternatives-to-a-kevlar-vest",
-      "published_at": "2026-04-27T09:51:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Meldung: Gutachten bestätigt Rechtswidrigkeit bei Finanzierung der gesundheitlichen Versorgung von Bürgergeldbeziehenden",
-      "summary_de": "Der Staat als Träger der Fürsorge hat die Krankenkassen damit beauftragt, die gesundheitliche Versorgung der Bürgergeldbeziehenden zu übernehmen. Die gesetzlichen Krankenkassen haben diese Aufgabe entsprechend übernommen. Aber statt für diese Leistung voll zu bezahlen, lässt der für die Finanzierung zuständige Bund die Krankenkassen auf rund zwei Dritteln der Kosten sitzen.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2251648.jsp",
-      "published_at": "2026-04-27T08:48:26+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Versorgung",
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Daten, Zahlen, Fakten: „Basisdaten des Gesundheitswesens 2026/2027“ bieten wichtige Informationen für die anstehenden Reformen",
       "summary_de": "Das neue Heft „Basisdaten des Gesundheitswesens 2026/2027“ ist veröffentlicht. Die Broschüre bietet auf 54 Seiten die jüngsten Statistiken aus den Bereichen Bevölkerung, Versicherte und Krankenkassen, Finanzierung, Versorgung und soziale Pflegeversicherung (SPV). Damit liefert sie eine wertvolle Grundlage für die anstehenden Reformen im Gesundheitswesen.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -1588,42 +1331,12 @@
       "type": "News"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/rising-imaging-volume-radiology-current-perspectives-on-understanding-addressing-the-issue",
-      "published_at": "2026-04-26T19:20:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Besondere apparative Ausstattung | Klinik für Viszeral-, Gefäß und Allgemeinchirurgie, Bereich II Gefäßchirurgie | Klinikum Magdeburg gGmbH in 39130 Magdeburg - HEK",
-      "summary_de": "Besondere apparative Ausstattung | Klinik für Viszeral-, Gefäß und Allgemeinchirurgie, Bereich II Gefäßchirurgie | Klinikum Magdeburg gGmbH in 39130 Magdeburg &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNQmV1b3U1ZGo5OUpZRnVPRWZhNEc4TXpqMWRaTkM0MzlLaDA4ZTRSejNLeWw2QVhmb0VKdEJDNWx5UzdSM3FnVW5GV3BlclBULVo2NElIQ3dIdG5kbVBvMWp3MUZZZTgwc3BYdU5BYXRtYVNHTkF2Z1hXWVZHZEktN2JCS25kVFdwbGpJbnNQTjFMRmdnQUs3RVlfRFlBQ1BJWlZUcUlwSV9ZeWFVeTNPVVBYTDIyWlVLdmt4R0xUeDBZeFpqV0NveTZid1doZTRreUx6SjVZY1BkUmNhMXVtSFhtQUlQZWE4M3oxck8xVllJdUxBYnM0LS1RU2FBNGpTZmlvWWU4MHdSQzFQaEhPRkFRdWRzNzFHaXZ2bm1XYnFrLWlTMDZwM2pR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-25T19:38:05+00:00",
+      "title": "Reformdebatte - SPD beklagt „Unwucht“ bei Sparpaket für Gesundheitskosten - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Reformdebatte - SPD beklagt „Unwucht“ bei Sparpaket für Gesundheitskosten - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTTdqUU1LdHVMU1VnVHlSVXBaTHRmRHNpWFJRejUxVTlZTEh5cWJxdDd4S2xkZUlIOTBIbldFbmo5ZllNY0dOMTVWTmNBUmJnOHppUFp2aU0yRzJYb1RNd1Z1SUdFU25ZSUhxTG1PVUNqeFhFRkpQNnZEb25YZ1lEbEljajBxVzZweV8yUWJ1c3RBZVJNUnBRakJjZmNQWEFCOHlfNE5EVElzWVU1eE5naTNLZ3NvbEZLbDQ3OUUzazBYeEVkd3RCLTZFT3Q5bmVTSlY1MXZ5dUNOZlRsT2YyOFI2c2hlZFRyTnlGRTJtRDY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-25T23:00:05+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/diagnostic-imaging-weekly-scan-april-19-april-25",
-      "published_at": "2026-04-25T15:36:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/new-research-ai-software-breast-ultrasound",
-      "published_at": "2026-04-25T09:57:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1644,16 +1357,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUTdVOFRaTmxaNUZpRGF2cnYzUXE1eDdjbk5Bb21KNzVDMDM3bl81dWRzaTIxY29yX3MxbnVXTTl3b0pNUkhwY3VKN2EwQkthOUlZdlNtYWk4Y1lVNVhVY2lPR0dKMHJDQkFieWxNcHM0QjJ6X0pVR0NLYVRRQU9kUU1rTlB5LWpQeVROa1RIQVNtU0dIQldDY1NJQ3NmYlpLM1FVcDI3ZmVFc1RkS0R0OG1lZmxiMW5neFRSZUtqVFBfYkpld3BET2RkenBSbTRnYWdweGVrMXdTY2NTWTB1bkpCdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-25T04:00:08+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/can-ai-detect-breast-cancer-dbt-years-earlier-than-radiologists-",
-      "published_at": "2026-04-24T18:50:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1738,16 +1441,6 @@
       "type": "Studie"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/current-emerging-insights-coronary-computed-tomography-angiography",
-      "published_at": "2026-04-23T20:31:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Erläuterungen zu den Richtlinien der Kassenärztlichen Bundesvereinigung für Radiologie und Nuklearmedizin - Deutsches Ärzteblatt",
       "summary_de": "Erläuterungen zu den Richtlinien der Kassenärztlichen Bundesvereinigung für Radiologie und Nuklearmedizin &nbsp;&nbsp; Deutsches Ärzteblatt",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
@@ -1764,16 +1457,6 @@
       "source_url": "https://www.ema.europa.eu/en/news/ema-business-hours-over-kings-day-labour-day-27-april-1-may",
       "published_at": "2026-04-23T11:00:00+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/uncomfortable-reality-ai-radiology-health-care",
-      "published_at": "2026-04-23T10:27:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1828,18 +1511,6 @@
       "type": "News"
     },
     {
-      "title": "Meldung: Beitragssenkungen wieder denkbar",
-      "summary_de": "„Das Gesetz von Frau Warken hat das Potenzial, die Beiträge zu stabilisieren. Wenn ihr Entwurf eins zu eins umgesetzt wird, könnten die Beiträge im Schnitt über alle Kassen hinweg – man traut sich das ja kaum auszusprechen – sogar sinken“, so Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, im Interview mit dem Nachrichtenportal t-online.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2249728.jsp",
-      "published_at": "2026-04-23T07:04:25+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Extended versus standard lymph node dissection for urothelial carcinoma of the bladder in people undergoing radical cystectomy",
       "summary_de": "Extended versus standard lymph node dissection for urothelial carcinoma of the bladder in people undergoing radical cystectomy",
       "source_name": "Cochrane Library RSS feed.",
@@ -1848,26 +1519,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/ai-detecting-classifying-prostate-lesions-bpmri-",
-      "published_at": "2026-04-22T21:04:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/fda-new-ct-systems-diagnostic-radiology-radiation-therapy-applications",
-      "published_at": "2026-04-22T17:14:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "NHS App Management Information - March 2026",
@@ -1890,16 +1541,13 @@
       "type": "News"
     },
     {
-      "title": "Pressemitteilung: Notfallversorgung und Rettungsdienst gemeinsam reformieren",
-      "summary_de": "„Das heute verabschiedete Notfallgesetz des Bundesgesundheitsministeriums denkt die Notfallversorgung und den Rettungsdienst gemeinsam in einem Gesetz. Dieser Schritt war längst überfällig, denn so werden wir endlich eine bessere Versorgung der Patientinnen und Patienten im Notfall erhalten\", Stefanie Stoff-Ahnis anlässlich der Verabschiedung des Gesetzentwurfs zur Reform der Notfallversorgung und des Rettungsdienstes (NotfallGesetz - NotfallG) im Kabinett.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2248768.jsp",
-      "published_at": "2026-04-22T08:25:32+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Versorgung",
-        "Wirtschaft"
-      ],
+      "title": "Alleine reisen: Ein Boost für die mentale Gesundheit? - Barmer",
+      "summary_de": "Alleine reisen: Ein Boost für die mentale Gesundheit? &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3JsMklBblhWZGhjamdPb1RTVmdGUk51RUwxMUh3RXB6ZWVudS1kMzFyNGpKOGFzV2wtX0ZNS1ZTVnlhVEFXQnV0T1JTajMtQ202c1ZKX0dnV2ZvVHY0WUFRaWdLU0FwMFkzZVVRbUtiNTJjVThkOWg0NmMtcURtdmlKWTVVZS1xTVppOGNxTWMwUF9nMjBB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-22T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
@@ -2013,18 +1661,6 @@
       "type": "News"
     },
     {
-      "title": "Pressemitteilung: Die Versicherten im Blick behalten - konstruktiv nach vorne schauen",
-      "summary_de": "„Eine Reform, die alle Bereiche des Gesundheitssystems umfasst, ist unabdingbar, denn sonst steigen die Zusatzbeiträge ungebremst immer weiter und dann wären am Ende die 75 Millionen gesetzlich Versicherten erneut die Gelackmeierten\", erklärte Oliver Blatt anlässlich der laufenden Diskussion über den Referentenentwurf des GKV-Beitragsstabilisierungsgesetzes.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2247797.jsp",
-      "published_at": "2026-04-20T09:40:49+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "AIM-Studie zum Fair-Pricing zeigt, was möglich ist: Wir brauchen mehr Transparenz, um zu fairen Arzneimittelpreisen zu kommen!",
       "summary_de": "Die Preise für neue, patentgeschützte Arzneimittel sind europaweit zu hoch. Zu diesem Ergebnis kommt eine aktuelle Studie der Association Internationale de la Mutualité (AIM). „Die Studie zeigt das Einsparpotenzial, wenn wir ein Preisbildungsverfahren hätten, dass sich stärker an den realen Kosten der Pharmaindustrie orientiert”, kommentiert vdek-Vorstandsvorsitzende Ulrike Elsner.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -2034,18 +1670,6 @@
       "tags": [
         "Europa",
         "Studie",
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
-      "title": "Meldung: Versicherte vor weiteren Belastungen schützen – Kritik an „Horrorszenarien“",
-      "summary_de": "„Jetzt geht es darum zu verhindern, dass sich unter dem enormen Druck der diversen Interessensverbände im Gesetzgebungsprozess die Belastungen weiter hin zu den Versicherten verschieben“, so Oliver Batt, Vorstandsvorsitzender des GKV-Spitzenverbandes, im Gespräch mit der Neuen Osnabrücker Zeitung (NOZ).",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2246848.jsp",
-      "published_at": "2026-04-20T06:15:07+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
         "Wirtschaft"
       ],
       "type": "News"
@@ -2093,21 +1717,11 @@
       "type": "News"
     },
     {
-      "title": "Radiologie: Initiative „Medizin mit Durchblick“ - Deutsches Ärzteblatt",
-      "summary_de": "Radiologie: Initiative „Medizin mit Durchblick“ &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSEdBNk9zckFDbjlTbmhrSzhzY0RxNmFJbEJXV3h3ZHFKN2RGaVoxeE5kZ0I2Z0pvMUpGQm93ZGlZUHBycXRRd0laRHAwTmt6YXNPa1NTbVZ2WWFPODBLZ0lYQ1c0eWtDVi1zR2JDRHhCRjBsOEppRWhPc2s0cDFEYUEtbG9faktnVmhZOGhuUExFRmVSMGZWTXhxeGxfSU1jckxGVkRvdVAzakpDcnNVOVpvVktaZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-17T05:43:13+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "10.000 Schritte pro Tag - DAK-Gesundheit - dak.de",
-      "summary_de": "10.000 Schritte pro Tag - DAK-Gesundheit &nbsp;&nbsp; dak.de",
+      "title": "bei Temperaturen unter null Grad im Freien laufen - DAK-Gesundheit - dak.de",
+      "summary_de": "bei Temperaturen unter null Grad im Freien laufen - DAK-Gesundheit &nbsp;&nbsp; dak.de",
       "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTFJFMk5nZ1UyMmVINTQ5SlczeENvZWNVUEtiT0t5d3NsUDVUWnBWM3liR2Fudm9ocjBVWko3aTgyc1BBN1ItT1ZoN01naDJZMloxWmtocHptOWd5UTZhTzJPVURQTDBiWE5IeloxR3FuWTM5LXlZdTNsV0FGZC02SWszeVBGSFVuWVFtSWRfRjZlcS1JMjJOTUdiWVpYdEhPNkZsZjdCZVJYRzJrS1puRG01R1V6WWs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-16T10:41:27+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPREhrWkdFeURId0dxM3JFU3lDOWpfTmpiU2FyR3hoSDJWX0ctQmV6XzlvM1NKaXhuTi15cFhpamFsSE5xbUhXcEx0T2t0WnNqRWhvSWw4cXE2SENCQ2R5enREaS1oMllvTW8ybTZjQVVzVEU4UlZqTUFjOW51bk1hSlpHdlNPc1JuNFpkRVZzMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-16T12:59:05+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -2247,31 +1861,6 @@
       "type": "News"
     },
     {
-      "title": "Pressemitteilung: Für gute Versorgung und stabile Finanzen",
-      "summary_de": "„Die heutige Ankündigung der Bundesgesundheitsministerin, die Einnahmeentwicklung bei den Krankenkassen zum Maßstab für deren Ausgaben zu machen, begrüßen wir ausdrücklich. Mit der Koppelung des Ausgabenanstiegs an die Einnahmen bekommen wir den lang ersehnten Paradigmenwechsel in unserem Gesundheitssystem\", erklärte Oliver Blatt anlässlich der heutigen Vorstellung der Pläne für eine GKV-Finanzierungsreform durch Bundesgesundheitsministerin Nina Warken.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2244096.jsp",
-      "published_at": "2026-04-14T11:53:31+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Versorgung",
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
-      "title": "Meldung: Wir sind für unsere Versicherten da",
-      "summary_de": "„Hier wird mal wieder eine Debatte ohne Hand und Fuß geführt, die an der Realität völlig vorbeigeht“, so bewertet Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, gegenüber dem STERN die Äußerungen des CDU-Generalsekretärs, der eine Anzahl von künftig zehn Krankenkassen ins Spiel gebracht hat. „Herr Linnemann hat offenbar den Bericht der FinanzKommission Gesundheit nicht gelesen, der deutlich herausgearbeitet hat, dass der Anteil …",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2244032.jsp",
-      "published_at": "2026-04-14T08:46:28+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Fachbereichs­leiter:in (w/m/d) im Bereich Hochschulen, Innovations­strukturen und Gesundheit - ZEIT Stellenmarkt",
       "summary_de": "Fachbereichs­leiter:in (w/m/d) im Bereich Hochschulen, Innovations­strukturen und Gesundheit &nbsp;&nbsp; ZEIT Stellenmarkt",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
@@ -2298,28 +1887,6 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/national-diabetes-audit/core-q3-25-26/national-diabetes-audit-nda-2025-26-quarterly-report-for-england-integrated-care-board-icb-primary-care-network-pcn-and-gp-practice",
       "published_at": "2026-04-13T15:58:50+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Pressemitteilung: Jetzt ist die Zeit für durchgreifende Reformen",
-      "summary_de": "„Dass die Regierungskoalition den Ausgabenanstieg künftig an die Einnahmeentwicklung koppeln will, ist ein wichtiges und starkes Signal, das berechtigte Hoffnung auf künftig anhaltend stabile Krankenkassenbeiträge macht. Dies wäre gut und wichtig für die 75 Millionen gesetzlich Versicherten und unsere Wirtschaft insgesamt\", erklärte Oliver Blatt anlässlich der heutigen Vorstellung der Pläne der Regierungskoalition zur Reform der Gesetzlichen Krankenversicherung.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2242624.jsp",
-      "published_at": "2026-04-13T09:26:49+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
-      "title": "2 Professuren (m/w/d) für das Lehr- und Forschungsgebiet \"Peripartale Gesundheit\" - W2 LBesG | Teilzeit (50%) | unbefristet - ZEIT Stellenmarkt",
-      "summary_de": "2 Professuren (m/w/d) für das Lehr- und Forschungsgebiet \"Peripartale Gesundheit\" - W2 LBesG | Teilzeit (50%) | unbefristet &nbsp;&nbsp; ZEIT Stellenmarkt",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPUHZMRnF0Wl8yeHcyQWFJNEJ4X0d0ZGJCOWRMakthaV9JckdKNjczcXR4MEVUQjNieURRbHMxUHdjeDNfa29nRXRveGhkLVRjeVpxNWxPRERRUXFqRW9pVTU3YXVUamFHNzNQM0NrUWV2N2REZmRPS041UDhnMkdhcGxrYVJ6NXRfbUVqa1RrcGtDczZGSDB0MkF3T1VxWFJ2N0RFNklaNEs4Y3hmcE5FUG8zazA4alBqbVZjUXBmR3g3ajVpRTBUQzd4U1o5NEpWdHE0bzhnWDlqeWFWak5heE5yZFhpc21CZUVuWDc1NTNmS3QwNVE0NTl4WDlGUV9aRFB0b1NzMEhxbGFpMWp1MEtyeVo4aUphMVpSOW5MbHV5UDZVZGdkQ2RQclFsb1IxMjJCQ2gwWEE1Z2lNcmNGNE4wOWdsUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-12T22:00:45+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2464,19 +2031,6 @@
       "type": "News"
     },
     {
-      "title": "Pressemitteilung: DiGA wachsen – Qualität und Preise müssen Schritt halten",
-      "summary_de": "Seit 2020 stehen Digitale Gesundheitsanwendungen (DiGA) als Leistung der gesetzlichen Krankenversicherung (GKV) zur Verfügung. Der aktuelle Bericht über die Inanspruchnahme und Entwicklung der Versorgung mit DiGA zeigt, dass sich die sogenannten Apps auf Rezept nach über fünf Jahren in der Versorgung etabliert haben.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2239872.jsp",
-      "published_at": "2026-04-08T06:07:54+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Versorgung",
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Total gastrectomy with splenectomy versus total gastrectomy with spleen preservation for gastric cancer",
       "summary_de": "Total gastrectomy with splenectomy versus total gastrectomy with spleen preservation for gastric cancer",
       "source_name": "Cochrane Library RSS feed.",
@@ -2497,15 +2051,13 @@
       "type": "News"
     },
     {
-      "title": "Meldung: Jetzt gilt die Tat",
-      "summary_de": "Im Gespräch mit der Rheinischen Post betont Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, wie wichtig und schützenswert das solidarische System der gesetzlichen Krankenversicherung ist und warum er gerade deswegen die Vorschläge der Finanzkommission Gesundheit begrüßt.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2239808.jsp",
-      "published_at": "2026-04-07T08:43:17+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
+      "title": "BARMER Krankenkasse in Waldshut-Tiengen - Barmer",
+      "summary_de": "BARMER Krankenkasse in Waldshut-Tiengen &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQVcxVmxfRHNQbExsdm8xQ0ZYdFhMaktsaVFnZUh3MlBVUDhIRXhYWk1wckN6eEZHMEg5SU9oejRRNm9USUt5TDluTGVPb012cnBZTWl5RVB3cGc5b2dsbmh6VGE0eW05SHRlcnduc2picEVsd2NGY1JKUGdIQnczd2JyMkYycVRVbUJSWG5yem1ndm82TkdsbEFxdkJ3U2pRZkxoeXRUYlBTY2haRmFyaTRqdVFtS181OER3MVp1ai1faXJ1dUZEZmdUTS16RlF4cFJv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-07T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
@@ -2526,18 +2078,6 @@
       "published_at": "2026-04-02T08:31:01+00:00",
       "category": "Europa",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Meldung: Mit der Primärversorgung das Gesundheitssystem digital ins 21. Jahrhundert führen",
-      "summary_de": "Ein modernes Gesundheitssystem muss sich am medizinischen Bedarf der Patientinnen und Patienten im 21. Jahrhundert orientieren. Das Primärversorgungssystem hat diese Möglichkeiten. Es ist ein zentrales Instrument, mit dem die Gesundheitsversorgung zum Wohle der 75 Millionen gesetzlich Versicherten modernisiert werden kann.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2236992.jsp",
-      "published_at": "2026-04-02T06:18:21+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
       "type": "News"
     },
     {
@@ -2571,16 +2111,6 @@
       "type": "Studie"
     },
     {
-      "title": "BARMER Krankenkasse in Berlin Charlottenburg-Wilmersdorf - Barmer",
-      "summary_de": "BARMER Krankenkasse in Berlin Charlottenburg-Wilmersdorf &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcDRmaldyaEp3TjhHQThjdkYtZ0M4d2ZBQkhqTk1LYWZqR0l4Ym9iWWlxV0h1MTNGOXYxdkFpYU5yRnp6UlNlU0tkd1ZuRTBMQVB0UzdIV2pEMGdTTWRzbGFBSUpEUVZ2WmJGblhkbGh3YkZaWDhHbUQxNkJWcUFId292MGNma1YxcDRvM2ZwcmN3Q1ZuQ2x3dzdlcENFd19MNS1zSEtPY2swbkJRbHU5SkNBaHE5dUVIbGJvb1B3b01EbDFTZjMxU2RGZG1saDVzT1gzZVhERTNRX25WOUZBQ2pxbzZvV0FlOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-01T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Lenacapavir as pre‐exposure prophylaxis for HIV prevention",
       "summary_de": "Lenacapavir as pre‐exposure prophylaxis for HIV prevention",
       "source_name": "Cochrane Library RSS feed.",
@@ -2601,31 +2131,6 @@
       "type": "Studie"
     },
     {
-      "title": "Pressemitteilung: Menschen mit schweren psychischen Erkrankungen in den Blick nehmen",
-      "summary_de": "Am 1. April 2026 tritt die Anpassung der Vergütung der niedergelassenen Psychotherapeutinnen und Psychotherapeuten in Kraft. Dies hat der Erweiterte Bewertungsausschuss, der sich aus der Kassenärztlichen Bundesvereinigung, dem GKV-Spitzenverband und unparteiischen Mitgliedern zusammensetzt, Mitte März mit klarer Mehrheit beschlossen.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2235584.jsp",
-      "published_at": "2026-03-31T06:18:56+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
-      "title": "Pressemitteilung: Mutige Reformen kraftvoll durchsetzen",
-      "summary_de": "„Heute hat die FinanzKommission Gesundheit ein ambitioniertes Reformpaket vorgelegt, um die finanzielle Grundlage für die gesundheitliche Versorgung der 75 Millionen gesetzlich Versicherten kurzfristig zu stabilisieren. Dieses Reformpaket hat das Potential dafür zu sorgen, dass die Krankenkassenbeiträge im kommenden Jahr insgesamt stabil bleiben oder sogar gesenkt werden können\", so Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2235072.jsp",
-      "published_at": "2026-03-30T12:56:16+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Versorgung",
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "NHS Sickness Absence Rates, December 2025",
       "summary_de": "This report shows monthly sickness absence rates of NHS Hospital and Community Health Services (HCHS) staff working in NHS Trusts and other core organisations and NHS Support Organisations and Central Bodies. Data is presented by NHS England region, ICS area, organisation, organisation type, staff group and reason for sickness absence.We welcome feedback on the methodology and tables within this publication. …",
       "source_name": "Publication Feed",
@@ -2643,18 +2148,6 @@
       "published_at": "2026-03-27T10:24:55+00:00",
       "category": "Europa",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Pressemitteilung: Prävention gesamtgesellschaftlich stärken",
-      "summary_de": "Bei den Gesundheitsausgaben belegt Deutschland den europäischen Spitzenplatz, doch bei der Lebenserwartung reicht es nur fürs Mittelfeld. Gesundheitsförderung und Prävention müssen daher in allen gesellschaftlichen Bereichen einen deutlich höheren Stellenwert bekommen. Das fordert der Verwaltungsrat des GKV-Spitzenverbandes, der dazu ein Positionspapier mit zehn Forderungen für eine erfolgreiche Prävention beschlossen hat.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2233216.jsp",
-      "published_at": "2026-03-27T07:30:01+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
       "type": "News"
     },
     {
@@ -2685,18 +2178,6 @@
       "published_at": "2026-03-26T13:32:56+00:00",
       "category": "Europa",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Pressemitteilung: Entschlossenes Handeln zur Stabilisierung der GKV-Finanzen notwendig",
-      "summary_de": "\"Die Finanzsituation der gesetzlichen Krankenversicherung erfordert entschlossenes politisches Handeln. Die Schere zwischen Einnahmen und Ausgaben öffnet sich immer weiter. Nichts tun ist keine Lösung, denn sonst steigen die Beiträge der Versicherten und Arbeitgeber unvermindert weiter\", erklärt der Verwaltungsrat des GKV-Spitzenverbandes anlässlich der für Ende März 2026 erwarteten Vorlage des ersten Berichts der FinanzKommission Gesundheit.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2233152.jsp",
-      "published_at": "2026-03-26T10:41:38+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
       "type": "News"
     },
     {
@@ -2780,18 +2261,6 @@
       "type": "News"
     },
     {
-      "title": "Meldung: Den Hintern hochkriegen",
-      "summary_de": "Nach knapp einem Jahr im Amt sprach Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes im Podcast G+G-Kassentreffen unter anderem über die Faszination der GKV, deren Tragfähigkeit, die anstehenden Reformnotwendigkeiten und die Wichtigkeit von Prävention.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2231744.jsp",
-      "published_at": "2026-03-24T13:07:49+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit: Ende der Mitversicherung löst Probleme der Krankenkassen nicht - Handelsblatt",
       "summary_de": "Gesundheit: Ende der Mitversicherung löst Probleme der Krankenkassen nicht &nbsp;&nbsp; Handelsblatt",
       "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
@@ -2799,30 +2268,6 @@
       "published_at": "2026-03-24T07:00:00+00:00",
       "category": "News",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Meldung: Wir brauchen Reformen und Rückgrat",
-      "summary_de": "Im Gespräch mit der BILD betonte Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, am 21. März 2026 die Notwendigkeit grundlegender Reformen: \"Mein Appell an die Bundesregierung lautet: Stoßen Sie jetzt entschlossen die notwendigen Veränderungen an und setzen diese dann mit starkem Rückgrat durch.“",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2230720.jsp",
-      "published_at": "2026-03-23T12:53:50+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
-      "title": "Meldung: Vergütung von Apotheken steigt seit Jahren",
-      "summary_de": "Apotheken erhalten von Jahr zu Jahr mehr Geld von der gesetzlichen Krankenversicherung. „Die Mär von einer seit 2013 stagnierenden Vergütung trifft nicht zu“, sagte Stefanie Stoff-Ahnis, stellvertretende Vorstandsvorsitzende im Redaktionsnetzwerk Deutschland (RND).",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2229816.jsp",
-      "published_at": "2026-03-23T09:40:10+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
       "type": "News"
     }
   ],
