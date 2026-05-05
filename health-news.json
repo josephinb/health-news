@@ -1,8 +1,64 @@
 {
-  "generated_at": "2026-05-05T05:35:44.685540+00:00",
+  "generated_at": "2026-05-05T07:58:36.723326+00:00",
   "window_days": 42,
-  "count": 203,
+  "count": 200,
   "items": [
+    {
+      "title": "Ulrike Elsner: Weichen für eine patientennahe und praxistaugliche Versorgung jetzt stellen",
+      "summary_de": "Die Bundesregierung hat angekündigt, ein Gesetz zur Einführung eines neuen Primärversorgungssystems auf den Weg zu bringen. Der vdek unterstützt dies ausdrücklich und hat zu dem Thema ein Kurzpapier vorgelegt. „Es geht darum, den Zugang zur Versorgung passgenauer zu organisieren und ihnen eine bessere Orientierung zu geben”, so vdek-Vorstandsvorsitzende Ulrike Elsner.",
+      "source_name": "vdek - Verband der Ersatzkassen e. V.",
+      "source_url": "https://www.vdek.com/presse/pressemitteilungen/2026/kurzpapier-primaerversorgungssystem-versorgung.html?pk_campaign=rss",
+      "published_at": "2026-05-05T07:45:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Allergen‑Immuntherapie: Behörde bewertet aluminiumhaltige Adjuvanzien als sicher",
+      "summary_de": "Die Sicherheit aluminiumhaltiger Adjuvanzien in Therapieallergenen zur Hyposensibilisierung steht immer wieder in der Diskussion. Das Paul‑Ehrlich‑Institut (PEI) hat den aktuellen Wissensstand zusammengefasst und bewertet den Nutzen und m&ouml;gliche Risiken.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/behoerde-bewertet-aluminiumhaltige-adjuvanzien-als-sicher-164974/",
+      "published_at": "2026-05-05T07:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Technologieakzeptanz: So kann KI im Gesundheitswesen überzeugen",
+      "summary_de": "Menschen bewerten bahnbrechende Technologien im Gesundheitswesen unterschiedlich. Laut einer Studie urteilen sie auf Grundlage pers&ouml;nlicher Relevanz und eigener Erfahrung. Was bedeutet das f&uuml;r Vertrauen und Akzeptanz?",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/so-kann-ki-im-gesundheitswesen-ueberzeugen-164953/",
+      "published_at": "2026-05-05T06:45:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Pressemitteilung: Starker Anstieg Pflegebedürftigkeit - Zugang zur Pflege in den Blick nehmen",
+      "summary_de": "Das 2017 neu eingeführte Begutachtungsinstrument zur Feststellung der Pflegebedürftigkeit hat sich zwar bewährt, aber gleichzeitig zu starken Verschiebungen im Zugang zu Pflegeleistungen geführt. Das ist das zentrale Ergebnis einer Studie des IGES-Instituts, welche der GKV-Spitzenverband gemäß seinem gesetzlichen Auftrag in Auftrag gegeben hatte.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2256256.jsp",
+      "published_at": "2026-05-05T06:08:48+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Studie",
+        "Versorgung",
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Klaustrophobie: Mit Angststörung ins MRT",
+      "summary_de": "Wer in engen R&auml;umen Angst versp&uuml;rt, f&uuml;r den ist ein MRT ein Horror. Und wenn es doch sein muss? Ein Psychologe &uuml;ber hilfreiche Strategien und das Problem mit dem Gl&uuml;cksbringer.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/mit-angststoerung-ins-mrt-164970/",
+      "published_at": "2026-05-05T06:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Depemokimab: Asthmatherapeutikum nur zweimal jährlich",
       "summary_de": "Seit Kurzem ist ein ultralang wirksames Biologikum f&uuml;r Patienten mit schwerem Asthma oder chronischer Rhinosinusitis mit Nasenpolypen auf dem Markt. Der Antik&ouml;rper Depemokimab richtet sich gegen Interleukin-5 wird nur zweimal pro Jahr subkutan injiziert.",
@@ -10,16 +66,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/asthmatherapeutikum-nur-zweimal-jaehrlich-164943/",
       "published_at": "2026-05-05T05:00:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Baden-Württemberg: BW-Newsticker am Morgen: Vervierfachung der Parkgebühren für Anwohner beschlossen, Bürgermeister muss nach Angriff ins Krankenhaus - tagesschau.de",
-      "summary_de": "Baden-Württemberg: BW-Newsticker am Morgen: Vervierfachung der Parkgebühren für Anwohner beschlossen, Bürgermeister muss nach Angriff ins Krankenhaus &nbsp;&nbsp; tagesschau.de",
-      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUUFrU2lmbncwcGhZaWxlRUpiLXc0OFFFRmNtRmxCU1NLa0lvNTQ4UUVQNjdMTl9kQ2F2SElfLU5ra2NsWVp1UVJrOFVvSnItSFdIQU9JUzBJZXVmMm5jZDRWaHV4LUhZOTVTdG03dHVUNmt2bjBoT081Y0tJY1lRQURGRFBiTnpZWUE1anFuazA5YlJJV2tHZGtMRUZYNEtEY2F2RzlmZmlQUHV3WUZ2ZW4tXzl6bGZSS1NpWjFFTXM0cTVoY0ZQazVaQjNobG83NHlMR19KZ2JsQW41NVoxVDFXR2JEY2pnNnpF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-05T04:14:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -86,7 +132,7 @@
     {
       "title": "Arzneihersteller: Pharmabranche: Warkens Sparpaket bedroht Arznei-Standort - DIE ZEIT",
       "summary_de": "Arzneihersteller: Pharmabranche: Warkens Sparpaket bedroht Arznei-Standort &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQkNCTEd5RDAwYUFhN3hseW5QSWpIcDZSbHVpQU5uQy1RcXhJRmY3RFRhMEF2dUl6R3ZLWWlUemNGRWtSYzBPSFItWU01eEMxUW9NQ0dLRTF2c1RTVE10QmZ2V1dGaGFLQUdyVVp2eWVmRVhacExmakJJbUJFSlpRTi1vQW5tc1hVUnpHeUFUNVMweFBBa0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-05T02:00:13+00:00",
       "category": "News",
@@ -99,6 +145,16 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSzhhT2FfVEdoaHVmcTV3S0FNUXhVN3lzRTBKS2JjWVUzMU9vdkJiTmR0eVJNNmxPZ2tZM3d6ZDBoWHV6OHFNd2Rua3dCTTJtTWxHdjJNdUxTaFh2dWZiQ1c4MnNnUGh5cG8yVURYQlMtb2Y2eHU5R2xHRnk0d3hjRG1ZZFM5MERzLWNablRMdThIMFFYUFdpTzZkVTlOQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-04T18:11:30+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Baden-Württemberg: BW-Gesundheitsminister empfiehlt die Schließung einer Klinik im Neckar-Odenwald-Kreis - tagesschau.de",
+      "summary_de": "Baden-Württemberg: BW-Gesundheitsminister empfiehlt die Schließung einer Klinik im Neckar-Odenwald-Kreis &nbsp;&nbsp; tagesschau.de",
+      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUtBam5BV19KU2pxUXNpdkthSU56M0w2MTdZYXg0cHEzdjA4TVdvdEJlZXBrbC1RZEppamlzdnowaDlCYVZLMF9hMWxsdjUwYzlmaVZ4RHBUTXp1endWUVVNdDI1c3RJMmlEbEdMclpoQ2R3UkhtNzRjY2FyQi1EbzdKdVZCMUhIejlfMklybGZSbno3NWo3THFUaXhTbUtCRHZlbWM5OWpYaEtBN0J5VkRHM2l4SExtdTlZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-04T17:24:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -196,6 +252,16 @@
       "type": "News"
     },
     {
+      "title": "Vom Stoffwechsel zur Suchtmedizin: Weniger Alkoholkonsum und Verlangen dank Semaglutid",
+      "summary_de": "Der GLP-1-Rezeptoragonist Semaglutid hat bereits einige Indikationen in petto &ndash; von Typ-2-Diabetes &uuml;ber Adipositas bis hin zur Fettleber. Die Behandlung der Alkoholabh&auml;ngigkeit k&ouml;nnte folgen. Eine Studie lieferte gute Ergebnisse.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/weniger-alkoholkonsum-und-verlangen-dank-semaglutid-164958/",
+      "published_at": "2026-05-04T13:30:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "GKV-Spargesetz: Klarere Definition für Verbandmittel",
       "summary_de": "Mit einem Preismoratorium will die Bundesregierung den Verbandmittel-Markt zeitweise regulieren. Das GKV-Spargesetz soll zudem Unklarheiten bei der Begriffsdefinition ausr&auml;umen.&nbsp;",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -206,16 +272,6 @@
         "Wirtschaft"
       ],
       "type": "News"
-    },
-    {
-      "title": "Vom Stoffwechsel zur Suchtmedizin: Weniger Alkoholkonsum und Verlangen dank Semaglutid",
-      "summary_de": "Der GLP-1-Rezeptoragonist Semaglutid hat bereits einige Indikationen in petto &ndash; von Typ-2-Diabetes &uuml;ber Adipositas bis hin zur Fettleber. Die Behandlung der Alkoholabh&auml;ngigkeit k&ouml;nnte folgen. Eine Studie lieferte gute Ergebnisse.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/weniger-alkoholkonsum-und-verlangen-dank-semaglutid-164958/",
-      "published_at": "2026-05-04T13:30:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
     },
     {
       "title": "Hantavirus: Drei Tote auf Kreuzfahrtschiff im Atlantik",
@@ -712,36 +768,6 @@
       "type": "News"
     },
     {
-      "title": "ABDA-Petition : 250.000 Unterschriften für eine Honorarerhöhung",
-      "summary_de": "Im Februar hat die ABDA eine Petition gestartet, in der eine bessere Verg&uuml;tung der Apotheken gefordert wird. Jetzt hat die Zahl der Unterschriften eine wichtige Marke geknackt.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/250000-unterschriften-fuer-eine-honorarerhoehung-164933/",
-      "published_at": "2026-04-30T14:35:09+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Nachwuchskoordinator MV: »Das Interesse an den Berufen in der Apotheke ist groß«",
-      "summary_de": "Im l&auml;ndlichen Raum wird es immer schwieriger, geeignete Nachfolger f&uuml;r Apotheken zu finden. Das Land Mecklenburg-Vorpommern versucht, diesem Trend entgegenzuwirken. Auch die Apothekerkammer und der Apothekerverband stellen einen Nachwuchskoordinator ein.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/das-interesse-an-den-berufen-in-der-apotheke-ist-gross-164914/",
-      "published_at": "2026-04-30T14:20:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "PZ Briefing: Die Top-News vom 30.4.2026",
-      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-3042026-164931/",
-      "published_at": "2026-04-30T14:15:44+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Recommended use of some nasal decongestant sprays limited to five days by UK regulator",
       "summary_de": "The MHRA has limited the use of nasal decongestant sprays containing xylometazoline and oxymetazoline to a maximum of five days due to side effects of prolonged use.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1160,31 +1186,11 @@
       "type": "News"
     },
     {
-      "title": "Versorgungskosten - Gesundheits-Sparpaket soll kommen - Zuckerabgabe in Sicht - Gesundheit - SZ.de",
-      "summary_de": "Versorgungskosten - Gesundheits-Sparpaket soll kommen - Zuckerabgabe in Sicht - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNc3VIU1FySkM1aENPVS0ta2ZUNGpVZXdFbUxZQ1lVY2l5QXlwT0FLVlRWRENtd08tVmVjRGtEd0ZicjdUdlRUSkJIYTE4anA5UFhhTWxyd1kyNWJ1dE0zcHV2MTBYUHdxNU91WmVmZVJvUnh2M0JlTEw4OXRGQXBJVEE0Zl9OWmtvZnE5TGYteDN4YzJ2TXRFTjItZmxQOHc0b1E1QXJEMjFNMzdPOG5IY0RFNEppbjZnYS1iU2NBenUwb0pFMl9OMzdhY25rSEN2TzBPY3RLU2lxOENGZFFEdWxKb0FxSnhSTnFRRFFMdkFrUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-28T14:28:57+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Mogelpackungen: Was Mogelpackungen für Ihre Gesundheit tun können - DIE ZEIT",
       "summary_de": "Mogelpackungen: Was Mogelpackungen für Ihre Gesundheit tun können &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTGNxRFJYRnk0d01OcXJic1NMUFdTVmwyNGZUcGZCUTVfNTV4QnNhNWtoU2xJTjNUazRraE1kQkF1SlRVc1NEWGE5UFNBYW5jcTZkQktxUGVmajhiWDBjeGNnMGhEZFVxbEdXMmdIVjFraUlJeXBkMkNFb3VMeEdOSkRCVmI4N2ROQTNlTGRoNHJraFRQN2RvQmVxMkZHM0tvNEJWM3RR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-28T14:20:17+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit - Klinikstreit im Salzlandkreis spitzt sich zu - Panorama - SZ.de",
-      "summary_de": "Gesundheit - Klinikstreit im Salzlandkreis spitzt sich zu - Panorama &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSFpJMjludTR5dkFsUDZJM0tMcmw2VGstNlJ3b0g3MDlUc2Zacnd4LVNraVctLU15UUh5RUYwVkdzR3JHYUZZU1VZUHpseWJ5a1UzRlFPXzQwY3hDUkV4T3ozYWwweGdZYS1IQlFPUXNKNTZXck5fMUVvWV8xZU5JbGxzX2NFeUxjZ0xPam51SVZFQmxISURhNkJ5UjlMdUt3Rl9ra2RLQ1dxUU9MNy1mN3lsYlBuMmNJOFNiZ3hNS1JnOFVSM25nMmhtZGttREx1WHhGTTRZYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-28T13:51:06+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1252,16 +1258,6 @@
       "type": "News"
     },
     {
-      "title": "Umfrage - Junge Menschen sprechen immer häufiger mit KI über Probleme - Gesundheit - SZ.de",
-      "summary_de": "Umfrage - Junge Menschen sprechen immer häufiger mit KI über Probleme - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZWgxS3ZnWkpsSkNjM3dMSU41WkdlelMxSlRPaWVZcDJ2dmNZMy03Ym5sTjZmOW15UzluT29iaVgxbzYzdDIzS3FOaU41ajFoRkQtQ3ZrVkltWVRNZGtucTFCSDFMTEVqQU9XT3lyS3NIQWdZQXVkR2JFX1JUWVBTenpjRFAxTHRWSVJaWnFkUk1ja1RUSEdEM1B4WEN1VkE5QjJCdHpJVHdST3RFb2U2ZW5VcGFTdkJCVkdHN0FBUmdjMnVKZUZNUXJRWnNxMHQwaDVwMzhWcTA3dldSVVJ2Y3o5MkZIUGRYYksxNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-28T09:30:04+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "New pilot to support development of ‘breakthrough’ medical devices",
       "summary_de": "EMA has launched a pilot programme to support the development of breakthrough medical devices in the European Union (EU). The purpose of the pilot is to test a new regulatory…",
       "source_name": "News and press releases",
@@ -1318,6 +1314,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONkcyLUYwZXYzZEdmaWdtTEJackNUdnp4MzRCZnVVYXhFRmpNU1Z2Z0VELThOSVl6cGlfbFVoUjNvM0pDaFFDLURMTjdOem0xVTc4Qm5tQy1ERVVvQUhMOHNoOG1saVctbUNtSEIweFFTR0pjYmFpNUtzakFuTVpMaFl1c3dQOVhCVE5qSVBJLWdQNnFjTmw2d1hIOWlDQUhpRHRSUF9oVGVWM1BlNmJUeVBBTmRkbngycUxkRGtYdndaNVJwVDdOZmJwemtQZTBoYUVzcEx3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-04-28T07:00:13+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Was ist digitale Gesundheitskompetenz? - Techniker Krankenkasse",
+      "summary_de": "Was ist digitale Gesundheitskompetenz? &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY29LOHhkNzZ3cEJySm9EWk1mZEJGTEwta3dmcDU5NmMyd09MeUx1Q19oc0dIQUNwcjR2N0RzRVQzQ1FIVS13TEVId29TWllfNGRNajNBSGVxQmV1aU1fZy1iRTZmR0RKdmRKbXoxVlZ5UFZIZ2JtWEtxSWx2UHczOFIxUjNRQU9EUDR2c1ZzZUFXZlgxeTY3dFFIVnJaR1lkcW1XOXlkdHZqRVdSaFBnUjU4N0JNelY4dE5SNS1rSEtycnE2X3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-28T07:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1685,16 +1691,6 @@
       "type": "News"
     },
     {
-      "title": "Radiologie: Initiative „Medizin mit Durchblick“ - Deutsches Ärzteblatt",
-      "summary_de": "Radiologie: Initiative „Medizin mit Durchblick“ &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSEdBNk9zckFDbjlTbmhrSzhzY0RxNmFJbEJXV3h3ZHFKN2RGaVoxeE5kZ0I2Z0pvMUpGQm93ZGlZUHBycXRRd0laRHAwTmt6YXNPa1NTbVZ2WWFPODBLZ0lYQ1c0eWtDVi1zR2JDRHhCRjBsOEppRWhPc2s0cDFEYUEtbG9faktnVmhZOGhuUExFRmVSMGZWTXhxeGxfSU1jckxGVkRvdVAzakpDcnNVOVpvVktaZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-17T05:43:13+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "bei Temperaturen unter null Grad im Freien laufen - DAK-Gesundheit - DAK",
       "summary_de": "bei Temperaturen unter null Grad im Freien laufen - DAK-Gesundheit &nbsp;&nbsp; DAK",
       "source_name": "\"site:dak.de\" - Google News",
@@ -1765,18 +1761,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Ulrike Elsner (vdek): Stabile Beiträge sind im nächsten Jahr möglich – Im Maßnahmentableau fehlt die Refinanzierung der Kosten für Bürgergeldempfangende",
-      "summary_de": "Der vdek begrüßt, dass die Bundesregierung die Stabilisierung der GKV-Finanzen mit hoher Priorität vorantreibt und schon in Kürze einen Gesetzentwurf vorlegen will. Inakzeptabel sei dagegen, dass sich der Staat bei der Finanzierung von versicherungsfremden Leistungen weiter aus der Verantwortung nehme, so vdek-Vorstandsvorsitzende Ulrike Elsner.",
-      "source_name": "vdek - Verband der Ersatzkassen e. V.",
-      "source_url": "https://www.vdek.com/presse/pressemitteilungen/2026/warken-sparpaket-refinanzierung-versicherungsfremde-leistungen.html?pk_campaign=rss",
-      "published_at": "2026-04-14T13:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
     },
     {
       "title": "Pressemitteilung: Für gute Versorgung und stabile Finanzen",
@@ -2091,16 +2075,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit: Ende der Mitversicherung löst Probleme der Krankenkassen nicht - Handelsblatt",
-      "summary_de": "Gesundheit: Ende der Mitversicherung löst Probleme der Krankenkassen nicht &nbsp;&nbsp; Handelsblatt",
-      "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQclRrSEJ0TmE2WlBIUXVsc1ZWbDNkR09JZlVKZEhvRnlySzV4dnJJZVVmWVIwM0szdTNwQTBrZjhxeWljd1hkc0kyaENEYkV4MnpSOXRGb0VjdWxDeTBBZ0E0VFJnOHMzcU81MGM3eVViREpYbHA0RHk3dlRvYkRXSS1qcV80aWkzYjN2d2lhbTQ3ejc3SkliazU0TE01cnQ4UVlIYncwWGtMblVWUkcwMmUxWlhFcnl0dzRKR2V5elpkcjhUbjgtTnBTbUZ5Y0M2TzNJbg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-03-24T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     }
   ],
