@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-05-14T22:03:29.487645+00:00",
+  "generated_at": "2026-05-15T02:32:50.425898+00:00",
   "window_days": 42,
-  "count": 300,
+  "count": 301,
   "items": [
+    {
+      "title": "Prostate‐specific antigen (PSA) test for prostate cancer screening",
+      "summary_de": "Prostate‐specific antigen (PSA) test for prostate cancer screening",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004720.pub4",
+      "published_at": "2026-05-15T00:01:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
     {
       "title": "Clinical investigations for medical devices",
       "summary_de": "How to notify the MHRA of your intention to carry out a clinical investigation for medical devices.",
@@ -10,16 +20,6 @@
       "source_url": "https://www.gov.uk/guidance/notify-mhra-about-a-clinical-investigation-for-a-medical-device",
       "published_at": "2026-05-14T14:58:59+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Rheumatoide Arthritis: Lungenultraschall als Alternativ zum CT – News - Deutsches Ärzteblatt",
-      "summary_de": "Rheumatoide Arthritis: Lungenultraschall als Alternativ zum CT – News &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDRQbkowTjN6WVBPN3ptaDc4TU5tN2RjVkVNaHhLdDlXUXhvQ1dhWGdZMTdScG1wSER2RnFFU29hcFJCZzRqWVZ5cmpURUpsWGFFcE9qQ2Q1MGhtdVJZVlFqRWdvOEI3WGZNZjlkUUlyanhvOWNhMDZIQTNMV056RWNNNVhTd1BXaVZZaWVMTG5xYkxFOFpCVlNhbFRiTnl0WmtGNFV3SVNDSm1RX0xEbHJpZ29qeGMybEZZY1M3blRSTklVYVc0VS13?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-14T13:47:17+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -34,31 +34,21 @@
       "type": "News"
     },
     {
-      "title": "Techniker Krankenkasse kritisiert zu hohe Biologikapreise – News - Deutsches Ärzteblatt",
-      "summary_de": "Techniker Krankenkasse kritisiert zu hohe Biologikapreise – News &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeFRYTEtyNEQ4Z0V5bXkwajVuRVVZaHJxTXpXUk94a0FuN1ZGU1N6UEdLUHR4emNMUFRRcTR0WmZnZU9XODkxam5vTUYzYjV6SnRoaVQ5bjA3c3JDM2kzV0lpMmZRYXhEUmZyZV8zLTFaaGF3cldKY1c5ZERSdzBTUUNxS01LT0R0YnczN0lHNFBTTV9DZEF5VHNEQ0dtb2RIZUJ2bkNFWlRxTENYSHpjOGd3UjBYaGlZbDNhOWJyR0xNemtu?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-14T13:12:06+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "ISMRM: Researchers highlight advancements in MRI foundation models",
-      "summary_de": "null",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/ismrm/2026/article/15825114/ismrm-researchers-highlight-advancements-mri-foundation-models",
-      "published_at": "2026-05-14T13:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Hantavirus, Masern, Hepatitis: Ein Arzt erklärt, wie sich Reisende schützen sollten - FAZ",
       "summary_de": "Hantavirus, Masern, Hepatitis: Ein Arzt erklärt, wie sich Reisende schützen sollten &nbsp;&nbsp; FAZ",
       "source_name": "\"site:faz.net medizin\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZWFwdUlNVmtILUZQdlFQeUlxUERzUjVadXhKRXdnQVJqakd0OFNONWp3dE5TMzR1UUVSdFg0MFd5d0RJOXdUaGFwRmEyRjBmY01xNndSMmZ5dXVueHd6MUdfbHNvOVRiNGh1OVlMaHU1VlBsd3pTTzBaMDVwZngtamEzYVNyMnk0QURzR2UzOXhaVHhlRU5VNTFFa0J6SlhIWTVnQWxfMzVtVWtwQmhjMWdhaWRmVFYwSVlVN21GSTEwRm9FTkRldVR4T1JpTWJ4LVZQNjdfWnhnUkRVVzNkTEZobnVnUmJyRnVVOXF2bw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-14T12:40:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Chefarzt Chirurgie Klinik Öffentlicher Dienst Stellenangebote in Berlin - ärztestellen",
+      "summary_de": "Chefarzt Chirurgie Klinik Öffentlicher Dienst Stellenangebote in Berlin &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTmtYeXA5QS0tcDV3OEdoekgzaWc4NjNnYjFUdV9sZHgzVkVRNzlEU3pzX3F6eEx5YXpJa0c4VEpuUzhXMDk3cEVVRTI5VjhGMFZqOHJ4OF9pSnZHenBLV2U3TmNoTk9VTVpPd1M1bWlWUjNqZno1bS01QlNfb3pDR2dweUpMQ1ZwU040QWV6bFFndWxWcU9tTFZWODd6MzVWeXRwQmZKSjk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-14T12:34:55+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -79,6 +69,16 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTmJIbWlURk03Mnd4Sk1nN0xBaDZCRG01cTg0ZUJERVhhX010MWNyYWNvX2RldHdwd3ZPNDBTU3haVl9HZUtxWF8tcGRtX3hBZnE4UEM2LXBCdF9CMWNlTWNVcHlDbHZxTm5QSFVHUHBEeXl4V2pQMzloajNQUm04bmpWeEZnRk9TbWx0aTdqb2U1ZUY0SXB6ZHJRZWg2MWJjSWRjT1NodThfMUhsdTIybVpWd1RUaFFmX0tZa0hHaDFncnlSYVFrZkdPS1ZDN0k0bG9jY0l1ZlFHaHhWWGxIcnR6aVJTM1NRS00tci1UaWpFelVMVVJTVA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-14T12:03:34+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Verkehr: Autofahrerin stirbt nach Auffahrunfall im Krankenhaus - DIE ZEIT",
+      "summary_de": "Verkehr: Autofahrerin stirbt nach Auffahrunfall im Krankenhaus &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb1NkQlZ1d0pETFRKUkllbkdSdWJhOW1yOXB5ZWsxYXl5TmN6RlBLTlhXODFDY1FqOUNpNFdUUWcyT19QaURTTHVNWGFubXVwWU5FMnNlQnowckprMVdGbnN2WXlGWGwtNVAyZngwQ0o1T3l0bTU2cEQxclFLR1FLQ1JrRVBJYUZHSUtjczZJaUZiZTQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-14T10:43:13+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -350,6 +350,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/neuer-antikoerper-zur-rsv-praevention-bei-babys-165263/",
       "published_at": "2026-05-13T15:15:00+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Spatenstich für neue Fabrik des Pharma-Unternehmens Vetter in Saarlouis - tagesschau.de",
+      "summary_de": "Spatenstich für neue Fabrik des Pharma-Unternehmens Vetter in Saarlouis &nbsp;&nbsp; tagesschau.de",
+      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQmRJb1RrcFp3VW5vQW1RVnhyS1dZblV3NkxzVHRWTjNIV3ZXazBDdzl5T2M5azlOUndiVktUaVlKY08zcF9jSTZ2LXJVV2hyUTBwZEJOQzNrTUI0X2lxYnpyWXFsekY3ZGN1VVMwZ2hhZ3ZCOXhFTDN3bnFidlNpOTlrTWh2T1Fkc25mejNBWFlmSnlsQVZTTWYxeC1Lcy10enJrWHB6eXpsTVpRb3VtbFdmazZBY2t1WmllX3Myd0x0di1pUWc3Z0VVR1RBcVlV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-13T14:40:01+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -634,6 +644,16 @@
       "type": "News"
     },
     {
+      "title": "Medizin - TÜV-Bericht: Jedes achte Röntgengerät weist Mängel auf - Wissen - SZ.de",
+      "summary_de": "Medizin - TÜV-Bericht: Jedes achte Röntgengerät weist Mängel auf - Wissen &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVWRXdEs0SUtORFRYelhwWi1GZGRfdTJhUXlELURTbTF3X0pkcHA0eGVkN1JKbTFQRHVwRDJFLVlwX1NVc0RrOFZHVUs3eUphSjcybWhqUHdvWlU5UUMzMXJSc2Z5aFhKWlNoSEI5azkwcDhfUGRfQnhMZ0pWcFA0eGtFNUNVd1hwR082VFdZQlRPTnlLUU9vZ3pwTXpNTXJtOU0tT2hhR2s3NzJES2k3b2lFbjBpUV8tZEozMHNxbkx0T0xDejZxSEVTMGg2U0JBaGlBZEJSem9rYzlMTG51UzFobw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-13T10:40:35+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Medizin: TÜV-Bericht: Jedes achte Röntgengerät weist Mängel auf - RP Online",
       "summary_de": "Medizin: TÜV-Bericht: Jedes achte Röntgengerät weist Mängel auf &nbsp;&nbsp; RP Online",
       "source_name": "\"site:rp-online.de radiologie\" - Google News",
@@ -782,6 +802,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ0lHTEpiX1JjTEdKQ3UtdGxROEwxTlduNW9ZckFQNk1rTnYzcy1uNXJMejM1eUFuR3U5elA4Z0stME9Fazg2ek1KWHBaMEsyZzFWQUZMWnY2enlUZlB1X1Y5WG1mNDNocExSYlhDVjBjN1R2bWNWelBkSmNucWFmX0lSMVVkQk1GWjhPQ2JLOENyenFEMlZWZVZtdDdzbWVjRTVjaWZBZFlKVHZmNHFzSTVlSlJiM0psdTJGT2FJeXM5bHM4ZWxNcA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-13T07:33:29+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Deepfake: KI-generierte Röntgenbilder täuschen Radiologen und LLMs - mgo medizin",
+      "summary_de": "Deepfake: KI-generierte Röntgenbilder täuschen Radiologen und LLMs &nbsp;&nbsp; mgo medizin",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObzJWQzZMbVlPSFNKZEprVmEwWDlmWmU3QU1qaHlPRE5rel9WNE5IM014dlota3ZUUHptak9LZlUwdDl4a0tfOTNPcExqbE9aMHlXajJXVkhmUkJiYV8taGFYckJPbzYtd0xzRE1rdlRCclplMFlBY1FXajFaVFkwcF8xM01uUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-13T07:19:26+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1018,6 +1048,16 @@
       "type": "News"
     },
     {
+      "title": "Wissenschaftliche*r Mitarbeiter*in (m/w/d) in Teilzeit (50 %) an der Fakultät Wirtschaft & Gesundheit - ZEIT Stellenmarkt",
+      "summary_de": "Wissenschaftliche*r Mitarbeiter*in (m/w/d) in Teilzeit (50 %) an der Fakultät Wirtschaft & Gesundheit &nbsp;&nbsp; ZEIT Stellenmarkt",
+      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNXdHZjFadUlGaF9XRVZOVW94aWJCMnpFY1BZOHVBX0JneXV2Ym5yMnUwc1FXcFUxT0E0NVZ3V0RodVNrUVFjN0V0aVNQZ2xYZDBvUFl2VTdwN1N2TDh4Uk9WejR1b1RUcUo5eFdXMTJSM3ZOMURUYWMxSDY4Vllrc0tZNTFoLUZud1VwcVN0eUExMk40ZUNfRnhnX1dETG5iLXZ1Rm01VVdMTmNWb0paM0ZxUUpja2hOdWdpYURGQmhrZnc2ZGd5MDJoblhtbmFENk92N0ZMNU5hZjVIOUkxd3pwYmdjVDRSSnpESEVKdlRFOUJMakxaZk5FSm9adDZaV0JVX3I4bl9OQzQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-12T12:47:10+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Field Safety Notices: 4 to 8 May 2026",
       "summary_de": "List of Field Safety Notices from 4 to 8 May 2026.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1068,8 +1108,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitssystem - Geld vom Land - Harzklinikum investiert in Infektionsschutz - Gesundheit - SZ.de",
-      "summary_de": "Gesundheitssystem - Geld vom Land - Harzklinikum investiert in Infektionsschutz - Gesundheit &nbsp;&nbsp; SZ.de",
+      "title": "Gesundheitssystem - Geld vom Land - Harzklinikum investiert in Infektionsschutz - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Gesundheitssystem - Geld vom Land - Harzklinikum investiert in Infektionsschutz - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPeEo1eVB4akE2c042N2w1RDVFZ25mX3ZtU1dBdTlpTlItbTVNMVRmYzlPVDJER1ZjeE9JN2t3YzRDWDBjU0hLckFfRzZubG5EU0NwSnpzU2xSS2FGdW9qaGRtZTlKOWxka2owVlFaYjY3Y1dxX1hVbzVwekZQNlBqUTZ2SDF1OGtuM2hnd0FFV0R0TXIzRXV6bDVKRmk4dVZoRUJtQXZkWXkwVEpCZGJfWXJnbVM4ZTFOcE1EamEtTFZyVWJKOTF1WmlqVnhjR0ZVNzZIeVBXbXZmUU91OVZ2aFJ0RlM5MDVDcmNHMlJNaGE3NGVpZnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-12T11:40:56+00:00",
@@ -1088,8 +1128,8 @@
       "type": "News"
     },
     {
-      "title": "Krankheiten - Mehr Keuchhustenfälle in Rheinland-Pfalz - Gesundheit - SZ.de",
-      "summary_de": "Krankheiten - Mehr Keuchhustenfälle in Rheinland-Pfalz - Gesundheit &nbsp;&nbsp; SZ.de",
+      "title": "Krankheiten - Mehr Keuchhustenfälle in Rheinland-Pfalz - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Krankheiten - Mehr Keuchhustenfälle in Rheinland-Pfalz - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMjlaWDBHM19jdk5TdXBVTHlGcnNaeVhtcGtIQzU5eFNFbVZhdEJINWV3N29rQ1ZWaWdrQ2xZb0tRT1dEX2VSQmQydzhFWTdPTUd5ZEY5d2RtRUVvWEdCM3FTU1cwTWZ6VmR5cE1ta0NvdzdVZ1VQYTJVZUI3ZkQ3VHlTamc5Q3ZmUVRkcFBKS3hjcUx1THd2aHctQkRsVmlMTnFiNUtFaWNRTVh2QllQSlk5M3dmSGhBTlJRbGpGZzgyRXY0Wl8tT0hZa21ReUN3bzhtemtEYlQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-12T10:08:11+00:00",
@@ -1108,8 +1148,8 @@
       "type": "News"
     },
     {
-      "title": "Nach Kreuzfahrt - Hantavirus: Passagier in Quarantäne im Großraum Berlin - Gesundheit - SZ.de",
-      "summary_de": "Nach Kreuzfahrt - Hantavirus: Passagier in Quarantäne im Großraum Berlin - Gesundheit &nbsp;&nbsp; SZ.de",
+      "title": "Nach Kreuzfahrt - Hantavirus: Passagier in Quarantäne im Großraum Berlin - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Nach Kreuzfahrt - Hantavirus: Passagier in Quarantäne im Großraum Berlin - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNX2s0WVhlYjZxTkRRUkoybTI3VjByckdEZ2xJZzhaVDZBNzVITXZuT1FVZWMxZFVhcmlLTVBuQnhvaGhJbWxpZUFxZ2VzSWJ2ZjFTZ2VWNHlhcXBhZEFUSl9sNlMwanFqVW5VblUxSDRHRnY0UFE2eXl3dk15c29uYW1JZWpaZ3drcFJQVER4YmFCYzh3THoxQnVGT3FkSnQ2V2s1TEp2UG5kWUtRZ1AwdjZTYmdEUU8zSFAtMGlRWWFNWXBsaDgyTWt1OHFVbEVCaS11aVpWQ1VHcXFRejZCS04zc1doVG9hZWtGVXIzei0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-12T10:06:25+00:00",
@@ -1118,8 +1158,8 @@
       "type": "News"
     },
     {
-      "title": "Techniker Krankenkasse - Umfrage: Warum die Koordination zwischen Arztpraxen hakt - Gesundheit - SZ.de",
-      "summary_de": "Techniker Krankenkasse - Umfrage: Warum die Koordination zwischen Arztpraxen hakt - Gesundheit &nbsp;&nbsp; SZ.de",
+      "title": "Techniker Krankenkasse - Umfrage: Warum die Koordination zwischen Arztpraxen hakt - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Techniker Krankenkasse - Umfrage: Warum die Koordination zwischen Arztpraxen hakt - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQc1pUcTdHNGE0MlVBZlplOWg0SEFKZDFHeXk5V2J6QlFlNzdWN3JOSjJVVmNqaE1GZXgwaFBoTEtSZ1hkVWY0eXc0WGhXUWFvZTlJQkxEOTZVb01vTzdPZ0hLTTJrZG9vVTZkRXhVVFBUMEFYbnB5R05EajY5WFc3NENYXzJ5S0ZHYk9xc01XSW9MeEllWjU2b0pWc1lXcDlYWHVoZWswOXhuNGJBV2ZMZGJsSVJOODBOM29DdXI5ZHBqblNRYTlJUWNNSXFuYzluSFpCRDF3ZkVuamlwSGp1NGJCLVJZQUpFbTZaZnkwUHUzMUdERGdLT1FR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-12T08:55:13+00:00",
@@ -1148,8 +1188,8 @@
       "type": "News"
     },
     {
-      "title": "Virus-Ausbruch bei Kreuzfahrt - Hantavirus: Betroffener aus Mittelsachsen in Quarantäne - Gesundheit - SZ.de",
-      "summary_de": "Virus-Ausbruch bei Kreuzfahrt - Hantavirus: Betroffener aus Mittelsachsen in Quarantäne - Gesundheit &nbsp;&nbsp; SZ.de",
+      "title": "Virus-Ausbruch bei Kreuzfahrt - Hantavirus: Betroffener aus Mittelsachsen in Quarantäne - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Virus-Ausbruch bei Kreuzfahrt - Hantavirus: Betroffener aus Mittelsachsen in Quarantäne - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRU5RZzJkSTJtSmZ1dHZXTFlZelA4R21fc2J1Mm13VjczZGU4MV9iN2hLLXVfM0VJTVF5bnppODF5cFdFSG56TmQ4OW5jMUFfVnlFNDhsMXlXNkJBLUF0QmhVS2Jkd21JRWk1cVBWNXhTWG53ZjZaSXpva0hqdkhYNXdhYkdRZ3N6RkRVaWVUVXNzQ0U2d3FzSHBmTWpndFlXUHVBYkw2QVBhX2tlekd0OGl1TjdkMVVoSXBha2ozdzdLUVVwVmJqNXlVT1hnUUxhUEJxUExnbl9VdXRFYkpJQVVOTVlPODZ6ekhJZHl5c1NxS01mLWpKYk1taGdHT1VDVENn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-12T08:24:06+00:00",
@@ -1522,6 +1562,16 @@
       "type": "News"
     },
     {
+      "title": "ISMRM: Functional lung MRI detects asthma treatment responses",
+      "summary_de": "Biologic treatment of severe eosinophilic asthma is successful in only 80% of patients and predictive factors for treatment response...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/home/article/15824850/ismrm-functional-lung-mri-detects-asthma-treatment-responses",
+      "published_at": "2026-05-11T08:42:08+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Consultation on the regulation of Gene therapy medicinal products",
       "summary_de": "We are seeking views on proposed updates to the definition of Gene therapy medicinal products to better reflect advances in science and manufacturing.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1826,16 +1876,6 @@
       "type": "News"
     },
     {
-      "title": "Medizin - Grundstein für neues Herzzentrum gelegt - Gesundheit - SZ.de",
-      "summary_de": "Medizin - Grundstein für neues Herzzentrum gelegt - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNk1IOWl1bE85QTl1XzJFcTZmbDRLZUx4OUdkVTZIT2pyVnowYmtWOF9PeC1WRy1IMVpzY25IWnhHZ0cyTElyVXFCbTVoTklRVTdXMHZjZ2h5cFFOb1JpUnpTZ0xyemJMV1FSazU0ajd1WkdGeGVWLU5nZC0xOENEOUZJbFEzdXNpWWlZSmN1VUVZSFNZTXRPVFk1THhkUy1CZHlsdklDNTJwZkRDM3ZJT00zRlR6ek9wRVVncUl3MW5UQ1NYdWZhOVNwLVZEUzAzekE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-08T14:00:04+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Medizin: Grundstein für neues Herzzentrum gelegt - DIE ZEIT",
       "summary_de": "Medizin: Grundstein für neues Herzzentrum gelegt &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
@@ -1942,16 +1982,6 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/patients-registered-at-a-gp-practice/april-2026",
       "published_at": "2026-05-08T09:30:17+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Infektionskrankheiten - Nach Hantavirus auf Schiff: Wie ist die Lage im Südwesten? - Gesundheit - SZ.de",
-      "summary_de": "Infektionskrankheiten - Nach Hantavirus auf Schiff: Wie ist die Lage im Südwesten? - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNb193QW9HS3V6UjQwdjdtNTZaamlSSXkxamJhOEQwc1ZqS0hIb3ZTTmJ6UUtzWi1zNFNtbUhmYi1zSk45a0t5eFBVVEJ2WEdVRjBBWHJvcjdtV20yczNiRWJoWjlEQnI3d1NVa3pma3NEXzU2eXBNYUpzdXlWRGJSWmoxTkxtRHE0UjF6Yzk2RXRYZ044blozbF82QjNUbUVGUEV1NUM4STNjR3JEa3UxTkd4emdwaHFMSE1oaDdrNXVwc0ZZWkZleHNkbmxUVWxXSEIwZzhsR3ktbUVwdDFPcllKa2hFZHZIUDhSaEZSaXppeUFVZlFVa1JJaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-08T07:56:37+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2179,16 +2209,6 @@
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWXMydWVNM3gtNktocWRYRFktaWs2UE9jNEtSeDlfSjktX19vMFU0TU5PcDAtTWZHX1NyTGRfMFR4RkZoVWF1U05reXo5LWN5VlRkYTlmRklXRWRiUkMyVXVVYlk5blBBNkNZV3lWTDhhMnI3bHlxeWI1S3h0X1lpLU83emZsVUs3aUJMQTdSeDdHZG92Y2hZQWVtQkMtcmhFZlloQmdqbHVtOE9Pb25BZXJwMUVVZUQ1N3ZyYjJ3UU52OVdjb3pzTTBOOUxiYWxNN2dzM2hoQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-02T07:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Experten-Tipps: Ab in die Röhre: Das sollten Sie vor dem MRT-Termin wissen - RP Online",
-      "summary_de": "Experten-Tipps: Ab in die Röhre: Das sollten Sie vor dem MRT-Termin wissen &nbsp;&nbsp; RP Online",
-      "source_name": "\"site:rp-online.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTVQcXluNzNwQ0lsOGxxV0dyV3BMaUxzdktLTnhGV0xrMDhRWjdKcXNpVkVVMTBjNjhXTFRaX2R5SWhKajRuRjhJbk9VekFVUkJPbDk5cC1PZFBsTWE1bUNQX0dURUlqSzRkeXN5UWdNU1FzRk9SRkljMVBYcUxpVWVZZERxdGM2VWNLeFIzWkNLcjVyMlZ3TGRsYUxtOVpkdW5fZENNZDFRNUt2S2w4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-01T07:00:00+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -2625,6 +2645,16 @@
       "type": "News"
     },
     {
+      "title": "Karotten & Co. für Schönheit und Gesundheit - hkk Magazin",
+      "summary_de": "Karotten & Co. für Schönheit und Gesundheit &nbsp;&nbsp; hkk Magazin",
+      "source_name": "\"site:hkk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mN01SOFdkRDh2Y1JzWUU3N1c0ajlQWU5vbUZpX0pPcENSMGw5MWNkMzBGalNaWGRON2k1a0tPM3Y0ZXdwbjBPNGVoci1SakhnMXpWRk1Ya3lqUEh3blVRUnF3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-22T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gesundheit: Neue Forschungszentren - Unheilbares soll heilbar werden - DIE ZEIT",
       "summary_de": "Gesundheit: Neue Forschungszentren - Unheilbares soll heilbar werden &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
@@ -2785,16 +2815,6 @@
       "type": "News"
     },
     {
-      "title": "Radiologie: Initiative „Medizin mit Durchblick“ - Deutsches Ärzteblatt",
-      "summary_de": "Radiologie: Initiative „Medizin mit Durchblick“ &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSEdBNk9zckFDbjlTbmhrSzhzY0RxNmFJbEJXV3h3ZHFKN2RGaVoxeE5kZ0I2Z0pvMUpGQm93ZGlZUHBycXRRd0laRHAwTmt6YXNPa1NTbVZ2WWFPODBLZ0lYQ1c0eWtDVi1zR2JDRHhCRjBsOEppRWhPc2s0cDFEYUEtbG9faktnVmhZOGhuUExFRmVSMGZWTXhxeGxfSU1jckxGVkRvdVAzakpDcnNVOVpvVktaZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-17T05:43:13+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "[MI] NHS Productivity Growth Estimates - December 2025",
       "summary_de": "This publication contains the monthly NHS Productivity Growth Estimates for the period April 2025 to December 2025, which in financial terms is described as Month 9 year-to-date (YTD). It estimates the change, compared with the same period in the previous year, for the following: activity (cost‑weighted), resource use (in real terms), and productivity.The tables included in this publication present NHS …",
       "source_name": "Publication Feed",
@@ -2833,16 +2853,6 @@
       "category": "Europa",
       "tags": [],
       "type": "News"
-    },
-    {
-      "title": "Amyloid‐beta‐targeting monoclonal antibodies for people with mild cognitive impairment or mild dementia due to Alzheimer’s disease",
-      "summary_de": "Amyloid‐beta‐targeting monoclonal antibodies for people with mild cognitive impairment or mild dementia due to Alzheimer’s disease",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016297",
-      "published_at": "2026-04-16T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
     },
     {
       "title": "Gesundheitspolitik - Spiegel",
