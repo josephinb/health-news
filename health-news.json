@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-05-16T05:47:41.700786+00:00",
+  "generated_at": "2026-05-16T07:53:39.545854+00:00",
   "window_days": 42,
-  "count": 298,
+  "count": 297,
   "items": [
+    {
+      "title": "PZ Briefing: Die Top-News der Woche",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-der-woche-165324/",
+      "published_at": "2026-05-16T07:00:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Pflegereform - Pflege und Sozialhilfe - Landrat warnt vor Reformfolgen - Panorama - SZ.de - SZ.de",
       "summary_de": "Pflegereform - Pflege und Sozialhilfe - Landrat warnt vor Reformfolgen - Panorama - SZ.de &nbsp;&nbsp; SZ.de",
@@ -202,6 +212,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/zeitgrenze-statt-kontrollen-165322/",
       "published_at": "2026-05-15T12:40:08+00:00",
       "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Klinikum Bayreuth: 82-Jähriger soll Brand in Klinik gelegt haben - DIE ZEIT",
+      "summary_de": "Klinikum Bayreuth: 82-Jähriger soll Brand in Klinik gelegt haben &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU0ZsWHloaUNxVmJObkk5c3hGaEk0WlRrclpQM0JiZEtOd0VvenZRSXM0LWg2Y2VfWUFxY0NTVFEzTXdmaWtna0F2ZV90a081WlUtb3FCckJGejA2c1Nwc04wY3VOSGpDZ0ZwdFpIYVZFa2ZGbXB0RGtZRENpSUwyTnBkT2pSX2d5SXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-15T12:34:06+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -570,26 +590,6 @@
       "type": "News"
     },
     {
-      "title": "Chefarzt Chirurgie Klinik Öffentlicher Dienst Stellenangebote in Berlin - ärztestellen",
-      "summary_de": "Chefarzt Chirurgie Klinik Öffentlicher Dienst Stellenangebote in Berlin &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTmtYeXA5QS0tcDV3OEdoekgzaWc4NjNnYjFUdV9sZHgzVkVRNzlEU3pzX3F6eEx5YXpJa0c4VEpuUzhXMDk3cEVVRTI5VjhGMFZqOHJ4OF9pSnZHenBLV2U3TmNoTk9VTVpPd1M1bWlWUjNqZno1bS01QlNfb3pDR2dweUpMQ1ZwU040QWV6bFFndWxWcU9tTFZWODd6MzVWeXRwQmZKSjk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-14T12:34:55+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Oberarzt Klinikum Landshut AdöR der Stadt Landshut Klinik Stellenangebote in Bayern - ärztestellen",
-      "summary_de": "Oberarzt Klinikum Landshut AdöR der Stadt Landshut Klinik Stellenangebote in Bayern &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON0Z4MjVMNmR2Nk81TkJpZGVkTDRtbFNKclBYbDVPZkUzLVhqRW9rbFE3XzNWRUNBVDFVeDJEMXQybktvaWZ4VEVHeXdBVnVRaGh2TXJIMEllT3FyamhRc3dFbWwyMFpQRUxpWGJqdXQyR1dCdmpfZGhBNEFDbmJ1VHh0cTZmNEphdjRNWkx0M0NfYk5XQjNsTHVpVTlYX0p6bWNQLUphNi1yN002QWk5bExOcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-14T12:27:10+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Sparpläne der Bundesregierung - Krankenhäuser warnen vor Folgen der Gesundheitsreform - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Sparpläne der Bundesregierung - Krankenhäuser warnen vor Folgen der Gesundheitsreform - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -810,8 +810,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit - Ärztetag fordert Social-Media-Verbot bis 16 Jahre - Gesundheit - SZ.de",
-      "summary_de": "Gesundheit - Ärztetag fordert Social-Media-Verbot bis 16 Jahre - Gesundheit &nbsp;&nbsp; SZ.de",
+      "title": "Gesundheit - Ärztetag fordert Social-Media-Verbot bis 16 Jahre - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Gesundheit - Ärztetag fordert Social-Media-Verbot bis 16 Jahre - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV3lVdWE4S3Z3VzJhTTNEQjNBRS01TXBOdVZveDA0MmpCd1BSelpQclhMTDBHd3RaYTF1b3N6VHNYcEJpNFpjYXNjZ2xHUzBuMlYtcXB5YTA4RTkyVlpuenFNcEhaeFB2aDlsc2szUmVCRk1qc3dRLWs5N3lqcndlTnlUODhITk1URk5PZ2ZOZmphOEFDQWFxX2UwcVkxMnJsdEF3aFdBOXBPM3ZFd1JhbFBjb3JLWUNKTWdRSHl6Mkh2djBOSE1sV1BuVnF2aEVvZ2haZDlOeUl2cEpNVVFRemh2MA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-13T15:41:35+00:00",
@@ -990,16 +990,6 @@
       "type": "News"
     },
     {
-      "title": "Blick ins Ausland: Impfangebot in Apotheken ergibt höhere Impfquote",
-      "summary_de": "Das Impfen in Apotheken ist in einigen europ&auml;ischen L&auml;ndern schon l&auml;nger Usus. Eine Studie des IGES-Instituts im Auftrag von Viatris best&auml;tigt, dass ein zus&auml;tzliches Impfangebot durch Apotheken die Grippeschutzimpfquoten erh&ouml;hen k&ouml;nnen.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/impfangebot-in-apotheken-ergibt-hoehere-impfquote-165250/",
-      "published_at": "2026-05-13T12:30:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
       "title": "Gesundheit - Auswertung: „Häppi“ entlastet Hausarztpraxen - Gesundheit - SZ.de",
       "summary_de": "Gesundheit - Auswertung: „Häppi“ entlastet Hausarztpraxen - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1100,12 +1090,12 @@
       "type": "News"
     },
     {
-      "title": "Deepfake: KI-generierte Röntgenbilder täuschen Radiologen und LLMs - mgo medizin",
-      "summary_de": "Deepfake: KI-generierte Röntgenbilder täuschen Radiologen und LLMs &nbsp;&nbsp; mgo medizin",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObzJWQzZMbVlPSFNKZEprVmEwWDlmWmU3QU1qaHlPRE5rel9WNE5IM014dlota3ZUUHptak9LZlUwdDl4a0tfOTNPcExqbE9aMHlXajJXVkhmUkJiYV8taGFYckJPbzYtd0xzRE1rdlRCclplMFlBY1FXajFaVFkwcF8xM01uUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-13T07:19:26+00:00",
-      "category": "Radiologie",
+      "title": "Referent*in (m/w/d) für Digitalisierung und Lehre des Dekanats der Fakultät Wirtschaft & Gesundheit - ZEIT Stellenmarkt",
+      "summary_de": "Referent*in (m/w/d) für Digitalisierung und Lehre des Dekanats der Fakultät Wirtschaft & Gesundheit &nbsp;&nbsp; ZEIT Stellenmarkt",
+      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQZ0tBdmtYZjRZOHVDNU1yZWdWUUx0YWV3NUZMVWMwOU15S2lyOWwzV3V2ZlJ6eE1iTU0yRlJqYlNpV2pCYTVlc0hFY0JBS29QSmJQWjN6N3ljbjIxOTgwOU5GN09NZDZpd3czNGQ4RVVIZ1VraUtqQ21yRzluajNXemVnc1VaV18yV3FOamdpVkFFal9ySm5KVnBTRHg1czlpX1FqN3lqN25sRHpWYTR0TGtxdWdVWHkyRFJKbFNaR2NnZllRVHpndy0tWXl2WWZoYnRVc3F6a2ZHUXZESE11Y0k0U0xfb1FpUEpuNWRldWJKamV4V1lJT1NTdDVTOGNNVElSdmNtazJTeS1kcWhj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-13T07:17:13+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1126,6 +1116,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaFFDYTdOUmZwLUtKTHZrRXpZc09XdVdFbTFhV2VoZ2trSUNxRDN1a21vYVFrbm13SnZoRDlSOWM3TjVueVJoR1E5YlVSZmpWaVdOeGNmVjc5OUw2QkNOME5GVTh1eUZHSXFEQ1JvSnRnbTJ6UW9xdnE4dEdXTm5kVlNiUGFVS0RBWndKV3hMd1U4TVBhOUd3WEJmQ0lQTFZtV1JhMklRZXNVTGN1ZlBIck14Zl9ZRG5vNzlsXzhvb0JJdjRSamdUSHNESVZ6UGotdTV4QkduTGJJd3hyMF9vR0dUMG1hWTBLbzdCRDA4ZVl2Z3p3RzhZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-13T07:00:04+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Implantate im MRT? Aber sicher! - healthcare-in-europe.com",
+      "summary_de": "Implantate im MRT? Aber sicher! &nbsp;&nbsp; healthcare-in-europe.com",
+      "source_name": "\"site:healthcare-in-europe.com radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mNnc1dUk0b3F0WkRkdENBMUlyWkhiTTdCZmxyeU1jMEV5SG1FOERRQ29BZC1DRmh4RE9qYmlEaEx2LUFXYjZtdFRkQUlYYmIwNVQzYnJuSWJEdmxpVDhLNWZqaGhUWG91djJ1eThMbzh1MTZNM1FIb3AyYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-13T04:28:08+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1165,6 +1165,16 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPT2ZMdlYtVmNOU01aTG5qcDV3T1AwSTgyNDZEY2JzcFZsZlkzd04tV2RDRE9uOFdsLWc5NHR2NU15QlFyWXRoR3k5SmU2Nmc1aXVCS2NyWG9OOWYxUnJUVVhvNE9Cb3ZCZUtIU0lFamR5YWlUenV2dVBHanRxc3hWREdUVnpuc3FVZ1YzWEdDY0YwQlRENDhqV3BGX0NHX1JhVlNqOTFLb0xFVUxva29uSjNMbndvNUpfYnVPSDlZM3Vpb0pFVzkwWXE0N01HVVMwZmRhS3VlLV9xWnlFWmdsRm5WVi1feFQ0QjZBZDgwZXF2aHE4NHZudEdyd0x4X00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-12T14:41:04+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "„Safer space“ - Apotheke als Anlaufstelle für psychisch belastete Teenager - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "„Safer space“ - Apotheke als Anlaufstelle für psychisch belastete Teenager - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTWhrNW5JTFVadTJPUENBMlR1bnJralJIVjR0RjY0SlRaWGJSYnVGbi03ZllyanJjRFhRbWRpZjU0Q3dTWkt5RUxPN25MbVp6QkUwZFVSR0JtTUNUTUpuYjE3Qk14aHlQc1V5ZXdYREViclFoMWdHLTZ4Rlg3RlZVRnc1TWtpMTBUQXNNd05hRndNZ1FnWUZVLUh0SjVvOGNWYWZNVVRXd2taTkRYWUtQaHhHcHBRUGF1bkYxOGlRZXhCeG0weHAwQnMtRmk3eXZGZDRyVzBpcWtoMTM2dmp3VV9ZWkJpLUFnc1ZLN1hlTWY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-12T14:31:36+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1420,26 +1430,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Tag der Gesundheit - SZ.de",
-      "summary_de": "Tag der Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEQ2ZzeXVaTzc2S19CT1NRMGx4UEdrdFJMQlBDVTAxV1VIR2kyVWtPRmw1dk05cUMtSlhzQ2dqRk5PMFlENFhxRzdjaXRBQ1Zoek0yX05jVmxaTzdjRWE4V1lYMGVKdmlZVnVDMzhlWVk1WVU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-11T23:39:16+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Virus-Ausbruch bei Kreuzfahrt - Hantavirus: Vier Schiffspassagiere nach Deutschland gebracht - Gesundheit - SZ.de",
-      "summary_de": "Virus-Ausbruch bei Kreuzfahrt - Hantavirus: Vier Schiffspassagiere nach Deutschland gebracht - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeXc3ODg5WFVaNF9aRFRWcDJDVFBFZnpPOGtBa1FRLUxKQ19YbmE2bVd5Z29raVMwcHJEREsybzk2dTg0dWZWbHRsSl9LVmxnMnpkSTlrWTIzUTVyaEpqMmpxQi01bXRoLTRmVU8yNklubk9CeVI5clBacVRYMW54UHdwTWFXb2VKRkFDNTkyY2E5aVF1ZlJEeWtlQ19WMkYxZ3ZxRG5xVWs5YlFoOF9aeldWVmFDb1VFNDNHV0dlbnRXMFBXaVFOOXhCMmFMZzNqLUFnNXhzcm9OMGJUeWtWVUhVSHd2Zms4eUg3alh2Y055cms2bVFZY2hWS0ZDaUEzaGxuemlNTEI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-11T20:43:07+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Gesundheit: Nach Fristablauf: Aus für Suchtklinik in Ahlhorn besiegelt - DIE ZEIT",
@@ -1966,16 +1956,6 @@
       "type": "News"
     },
     {
-      "title": "Kürzungen im Gesundheitswesen - Weniger Arzttermine in Thüringen wegen Sparplänen erwartet - Gesundheit - SZ.de",
-      "summary_de": "Kürzungen im Gesundheitswesen - Weniger Arzttermine in Thüringen wegen Sparplänen erwartet - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQUDBqRXhxRUp2S3l1SmRUYXBvMGhrRDhYeTFlc0w2bFVHNmlEQTctWnJPaVZnX0tGbkVCaW1CWUF5RjZsSDA4LXpibWwyWEhMUlQ1dHcwejd0STgxYnljaG8wa3pyekNjODVKbnc0VkI3eURZQ0ZuV2JRWDRnYVl5bVVsaVJRRUVEb2FoSkROTUQ2UTF0cGY4Y09MMHFxOXZsbW50aWNGenBPRWJ1eHVOclZfNFhieWpDMFRhUXVTZmFvT2lPdDFHNWJZY290b2pxN0piNmE5Y2lNdjRPdkNpc1o4RV9qa3pVYl9tdzEwLUNVZk5qdllPY0lDYjVZRTJBeno2d0RPUWpkb0U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-09T09:43:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "MHRA delivers its targets to increase access to medicines and reinforce UK position as a global destination for life sciences",
       "summary_de": "The MHRA continues to speed up access to medicines for patients, increase efficiency of regulation and help to attract innovation and investment in the UK’s thriving £100 billion life sciences industry.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -2234,10 +2214,10 @@
       "type": "News"
     },
     {
-      "title": "Das sollten Sie vor dem MRT-Termin wissen - geo.de",
-      "summary_de": "Das sollten Sie vor dem MRT-Termin wissen &nbsp;&nbsp; geo.de",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcWZ3dVNvUVhoMDc3YTBFZS1ER3pSQTVhOHFMdGdnb0ZfT2Z0LUV5blQwalF4cVFEUHBseS14bkc0S0NJanZIOFZvMUsyLXlmS2xnNkYxOHlMUW5LaGtyV1JldzNicUNpNXY1bEtYMEVCMVNsdmlEYnhiYmhyLTR3dlFXQlZYTkZranFDWEhJT05EVWNKZHRwUWNVSHF0V2cwbFlLZjlCdEd0NkEw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "title": "Experten-Tipps: Ab in die Röhre: Das sollten Sie vor dem MRT-Termin wissen - RP Online",
+      "summary_de": "Experten-Tipps: Ab in die Röhre: Das sollten Sie vor dem MRT-Termin wissen &nbsp;&nbsp; RP Online",
+      "source_name": "\"site:rp-online.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTVQcXluNzNwQ0lsOGxxV0dyV3BMaUxzdktLTnhGV0xrMDhRWjdKcXNpVkVVMTBjNjhXTFRaX2R5SWhKajRuRjhJbk9VekFVUkJPbDk5cC1PZFBsTWE1bUNQX0dURUlqSzRkeXN5UWdNU1FzRk9SRkljMVBYcUxpVWVZZERxdGM2VWNLeFIzWkNLcjVyMlZ3TGRsYUxtOVpkdW5fZENNZDFRNUt2S2w4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-01T07:00:00+00:00",
       "category": "Radiologie",
       "tags": [],
@@ -2440,6 +2420,16 @@
       "source_url": "https://www.ema.europa.eu/en/news/new-pilot-support-development-breakthrough-medical-devices",
       "published_at": "2026-04-28T09:26:00+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Was ist digitale Gesundheitskompetenz? - Techniker Krankenkasse",
+      "summary_de": "Was ist digitale Gesundheitskompetenz? &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY29LOHhkNzZ3cEJySm9EWk1mZEJGTEwta3dmcDU5NmMyd09MeUx1Q19oc0dIQUNwcjR2N0RzRVQzQ1FIVS13TEVId29TWllfNGRNajNBSGVxQmV1aU1fZy1iRTZmR0RKdmRKbXoxVlZ5UFZIZ2JtWEtxSWx2UHczOFIxUjNRQU9EUDR2c1ZzZUFXZlgxeTY3dFFIVnJaR1lkcW1XOXlkdHZqRVdSaFBnUjU4N0JNelY4dE5SNS1rSEtycnE2X3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-28T07:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2783,6 +2773,16 @@
       "type": "News"
     },
     {
+      "title": "Radiologie: Initiative „Medizin mit Durchblick“ - Deutsches Ärzteblatt",
+      "summary_de": "Radiologie: Initiative „Medizin mit Durchblick“ &nbsp;&nbsp; Deutsches Ärzteblatt",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSEdBNk9zckFDbjlTbmhrSzhzY0RxNmFJbEJXV3h3ZHFKN2RGaVoxeE5kZ0I2Z0pvMUpGQm93ZGlZUHBycXRRd0laRHAwTmt6YXNPa1NTbVZ2WWFPODBLZ0lYQ1c0eWtDVi1zR2JDRHhCRjBsOEppRWhPc2s0cDFEYUEtbG9faktnVmhZOGhuUExFRmVSMGZWTXhxeGxfSU1jckxGVkRvdVAzakpDcnNVOVpvVktaZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-17T05:43:13+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "[MI] NHS Productivity Growth Estimates - December 2025",
       "summary_de": "This publication contains the monthly NHS Productivity Growth Estimates for the period April 2025 to December 2025, which in financial terms is described as Month 9 year-to-date (YTD). It estimates the change, compared with the same period in the previous year, for the following: activity (cost‑weighted), resource use (in real terms), and productivity.The tables included in this publication present NHS …",
       "source_name": "Publication Feed",
@@ -2819,16 +2819,6 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/provisional-monthly-hospital-episode-statistics-for-admitted-patient-care-outpatient-and-accident-and-emergency-data/april-2025---february-2026",
       "published_at": "2026-04-16T08:34:43+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Minijobs in der Elternzeit - was sollten Arbeitgeber wissen? | Die Techniker - Firmenkunden - Techniker Krankenkasse",
-      "summary_de": "Minijobs in der Elternzeit - was sollten Arbeitgeber wissen? | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV3hyamt0Z21VNi1kNVNNUWo1X294SGtnMDdzdHFfQ3VZVGFBR0w5eGNSUlVudlEwU0RwY2pNRnIxaVZpN2QzZF85dTJaV1ctTUhQY19WYzNsal83ckZPcThlSTIyRUxSa0c5RkE2YXgtN3AtV2Y5SkhnS3hNZzVfTkpWbUZlRFkzVVhXZHNqWEw1YXVOQ25OQy1XSm9VdWw2ZnVVd08yclVGbVU3bHZrV1laendlbGx5bGo0OGtRRUtqVjNNeXNrZkJBc2U2QWQwczBjWg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-16T07:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
