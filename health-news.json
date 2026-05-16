@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-05-16T10:08:53.670130+00:00",
+  "generated_at": "2026-05-16T13:06:09.591071+00:00",
   "window_days": 42,
-  "count": 290,
+  "count": 293,
   "items": [
+    {
+      "title": "Krankheiten - Barmer: Sachsen-Anhalter etwas weniger krankgeschrieben - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Krankheiten - Barmer: Sachsen-Anhalter etwas weniger krankgeschrieben - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSTZDanZuTjZHT0dYN2Z1RlVmekJDbHZsMEJUa2QtUzZyc1pMcHRiM1Q5TDYzZE1raldvaWltVmdoc3U0OTQyb05IQnRpNWJDeWFMRC1reTRpWWtYc0xrS0lzZjVMLVl1WEV0RmVUejlBU1dPUFJ3c2U0LVFhZTRFdDBub1pReHZOdlc3QjR6MTY2aXRLWVI2RUk2NHRyLUVFYXhrdFhSLWYyQVpDYUNDTlNLWlVRamJHbXRQNGpfeThJaUxMZlpzOWsxRVF0eUhXLXd3eDRvNXFZRndNTmM4UUN0NldKNVBHb1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-16T11:02:04+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Neuer Ebola-Ausbruch - Ebola im Kongo: 13 Fälle seltener Variante bestätigt - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Neuer Ebola-Ausbruch - Ebola im Kongo: 13 Fälle seltener Variante bestätigt - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
@@ -196,12 +206,42 @@
       "type": "News"
     },
     {
+      "title": "ISMRM: PET/MRI-guided treatment reduces low back pain",
+      "summary_de": "This study is the first to acquire follow-up FDG-PET/MRI scans after treatment to assess the correlation between clinical outcome...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/ismrm/2026/article/15825241/ismrm-petmriguided-treatment-reduces-low-back-pain",
+      "published_at": "2026-05-15T13:30:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Vorwurf der WHO : Nikotinbeutel sollen gezielt Jugendliche ansprechen",
       "summary_de": "Milliardenums&auml;tze mit Nikotinbeuteln: Sie schmecken oft s&uuml;&szlig;, enthalten aber ein Nervengift. Warum die WHO vor dem neuen Trend warnt und wie Konzerne junge Leute mit Lifestyle-Versprechen k&ouml;dern.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/nikotinbeutel-sollen-gezielt-jugendliche-ansprechen-165320/",
       "published_at": "2026-05-15T13:00:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "ISMRM: MRI-based AI predicts organ aging before disease signs emerge",
+      "summary_de": "A DL model combining MRI scans with blood markers, imaging biomarkers, and lifestyle data can predict organ-specific biological...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/ismrm/2026/article/15824724/ismrm-mribased-ai-predicts-organ-aging-before-disease-signs-emerge",
+      "published_at": "2026-05-15T13:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "ISMRM: fMRI reveals brain differences tied to psychological resilience",
+      "summary_de": "Resilience is the ability to adapt to stress, and \"low resilience is a risk factor for psychiatric disorders.\"",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/ismrm/2026/article/15824045/ismrm-fmri-reveals-brain-differences-tied-to-psychological-resilience",
+      "published_at": "2026-05-15T13:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -328,6 +368,16 @@
       "type": "News"
     },
     {
+      "title": "ISMRM: PET/MRI highly effective in patients with atherosclerosis",
+      "summary_de": "PET/MRI distinguished symptomatic from asymptomatic carotid plaques among 145 patients.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/ismrm/2026/article/15825326/ismrm-petmri-highly-effective-in-patients-with-atherosclerosis",
+      "published_at": "2026-05-15T08:54:25+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "ABDA zu Notfallreform: Klare Absage an Dispensierrecht für Ärzte",
       "summary_de": "Mit der Notfallreform sollen &Auml;rztinnen und &Auml;rzte in Notdienstpraxen an Integrierten Notfallzentren (INZ) ein beschr&auml;nktes Dispensierrecht bekommen. Die ABDA weist solche &Uuml;berlegungen grundlegend zur&uuml;ck.&nbsp;",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -336,6 +386,16 @@
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Week in Review: ISMRM 2026 coverage | Ultrasound MinnieCast | Soccer and bone health",
+      "summary_de": "null",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15825336/week-in-review-ismrm-2026-coverage-ultrasound-minniecast-soccer-and-bone-health",
+      "published_at": "2026-05-15T08:37:38+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "Kassen: »Die Versicherten und Arbeitgeber sind genug belastet.«",
@@ -396,6 +456,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/aus-pcos-wird-pmos-165268/",
       "published_at": "2026-05-15T07:00:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "ISMRM: Researchers eye fibrosis patterns in the body's organs",
+      "summary_de": "Quantitative measures obtained from MRIs enable fibrotic scoring system, according to group.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/ismrm/2026/article/15825292/researchers-eye-fibrosis-patterns-in-the-bodys-organs",
+      "published_at": "2026-05-15T06:11:06+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -550,41 +620,11 @@
       "type": "News"
     },
     {
-      "title": "ISMRM: Insulin resistance, not hyperglycemia, stresses the aging brain",
-      "summary_de": "The study results underscore MRI's value in identifying and tracking patients at risk of functional decline.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/home/article/15825149/ismrm-insulin-resistance-not-hyperglycemia-stresses-the-aging-brain",
-      "published_at": "2026-05-14T14:05:56+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "ISMRM: MRF may predict early breast cancer treatment response",
-      "summary_de": "Results shown at ISMRM 2026 suggest that MR fingerprinting could help in predicting early response to breast cancer treatment.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/ismrm/2026/article/15825148/ismrm-mrf-may-predict-early-breast-cancer-treatment-response",
-      "published_at": "2026-05-14T13:52:07+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Flora-Schau in Mainz: Garten der Gesundheit im Naturhistorischen Museum - FAZ",
       "summary_de": "Flora-Schau in Mainz: Garten der Gesundheit im Naturhistorischen Museum &nbsp;&nbsp; FAZ",
       "source_name": "\"site:faz.net medizin\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZTRXa0QtMkdHdThhWEZVeGVrblEtaEIzT2VKY0ZVNzlBQUI0Ry13enY0NG9wVFFZdjVJekl6eXd3bmF6aXRGbHNkNUdmSTFBWmNfMTlHcFNWWlluSjF2bkQ4N2wydHlvOWllSUpjOW02YUJ5ajB1OVlTYlA5Tkx5N2taZXRjNWVVdFdjdFNkOXRMWkNLMmJDNGJPYnhlY1ZDQ3pQczhkN2JPMFlweDYtbl9OUEhqdUxJQXphQmhJRjEwZHBaZUg3Ykl1ckxlUVBLRVJ5b04zanJ3MG55S0JDMg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-14T13:29:33+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "ISMRM: Researchers highlight advancements in MRI foundation models",
-      "summary_de": "null",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/ismrm/2026/article/15825114/ismrm-researchers-highlight-advancements-mri-foundation-models",
-      "published_at": "2026-05-14T13:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -605,6 +645,16 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTmJIbWlURk03Mnd4Sk1nN0xBaDZCRG01cTg0ZUJERVhhX010MWNyYWNvX2RldHdwd3ZPNDBTU3haVl9HZUtxWF8tcGRtX3hBZnE4UEM2LXBCdF9CMWNlTWNVcHlDbHZxTm5QSFVHUHBEeXl4V2pQMzloajNQUm04bmpWeEZnRk9TbWx0aTdqb2U1ZUY0SXB6ZHJRZWg2MWJjSWRjT1NodThfMUhsdTIybVpWd1RUaFFmX0tZa0hHaDFncnlSYVFrZkdPS1ZDN0k0bG9jY0l1ZlFHaHhWWGxIcnR6aVJTM1NRS00tci1UaWpFelVMVVJTVA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-14T12:03:34+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Oberarzt Neurochirurgie Klinikum Landshut AdöR der Stadt Landshut Klinik Stellenangebote in Treuchtlingen - ärztestellen",
+      "summary_de": "Oberarzt Neurochirurgie Klinikum Landshut AdöR der Stadt Landshut Klinik Stellenangebote in Treuchtlingen &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOUtFX3lSTmg3YW5mV2FrT1BOcFpvVzh4aXNPSEh3a1l2Qk1RWlNmZjVLWUtXMm1NTmdEMzdhMFpZNTRuLXFjbW1xZmNzTDlWb1gyMmJ3X3ZlTVBMWXVheGxGQlc4eGRKUWhrWlptYUg0VWRsM1FsMmtUREtwS3YtSXpvcDRqaXM5NHpGSzhndzI2bDRKLWhDWXdZZnZtajk0azBpSHJoOTd2NHlqRWl2aFJGV3k1R25MWkltNXlJUk40WVJrT3Z5aTJoODRqOFlJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-14T10:29:03+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -760,16 +810,6 @@
       "type": "News"
     },
     {
-      "title": "Aus Düsseldorf - Zweite Hantavirus-Kontaktperson in Münchner Klinik - Bayern - SZ.de - SZ.de",
-      "summary_de": "Aus Düsseldorf - Zweite Hantavirus-Kontaktperson in Münchner Klinik - Bayern - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR1FLRkFpX0tlaG9Kb2ZEVXlldzVrb0EwZndKTjRnS01DZl8xSXBmenktTW9jY1dxREJYR0ZCSzVOZU1zWXZRV19FVlNtVDdoUmlWYWFZS3ZVZk5mS0tYeXp3ZC1iSkYxZjFZLTNweTRJcjJ2LVpDdEpmSzEyMFNfSUh6T3dYbS1pUGFyUkx1UWs0UlpxWGpCbDhkM0xTQ2UwU2F0SnBJMDdxYUMzMVJCNWF3ZEVMSVVCWnVxblhvUFhBZmpGMGxFbGtORmFtalVqaXVOdE51cEEydmt0dk5DOERKWlQ0Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-13T18:34:41+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Fit Notes Issued by GP Practices, England, December 2025",
       "summary_de": "The Statement of Fitness for Work (the Med3 form or 'fit note') was introduced in April 2010 across England, Wales and Scotland. It enables healthcare professionals to give advice to their patients about the impact of their health condition on their fitness for work and is used to provide medical evidence for employers or to support a claim to health-related …",
       "source_name": "Publication Feed",
@@ -810,31 +850,11 @@
       "type": "News"
     },
     {
-      "title": "ISMRM: 3D amplified MRI reveals age-related drop in brain pulsatility",
-      "summary_de": "Brain pulsatility reflects cerebrovascular health, which makes it important to assess, according to study results shared at ISMRM...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/ismrm/2026/article/15825018/ismrm-3d-amplified-mri-reveals-agerelated-drop-in-brain-pulsatility",
-      "published_at": "2026-05-13T15:36:34+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Keine Lösung für Erhalt der Dietrich Bonhoeffer Klinik in Sicht – News - Deutsches Ärzteblatt",
       "summary_de": "Keine Lösung für Erhalt der Dietrich Bonhoeffer Klinik in Sicht – News &nbsp;&nbsp; Deutsches Ärzteblatt",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS2RWZHFVemV0XzZrd0RFWXdJcElkaEtJakVlS1BtZW90WU9ZUTI2cWpYYkQ2bk5pUUdndG9aX1NYZ2xiM01KOE9IX1JEVVhhVGNpNmZrVVY1TV9zN2lGMnk4ZW5qcDVzMU16QnV5MjRjN3lQUl9iSmZUVFdFRlpEdTEyS04wdEFaLUxnQ2pOYjQzVFFwYl8yaTlXeWgtdTgwU0VhUWtQY01ld0ZWay1wakpOTEg4ZDhwT3UwVW81Q01ZNkllNThwekU1bEQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-13T15:22:50+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "ISMRM: MRI, MRS show metabolic gains from obesity lifestyle intervention",
-      "summary_de": "MR techniques reveal how exercising can improve metabolic measures in obese patients, suggest findings presented at ISMRM 2026...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/ismrm/2026/article/15825015/mrimismrm-mrimrs-show-metabolic-gains-from-obesity-lifestyle-intervention-rs-show-metabolic-gains-from-a-lifestyle-intervention-for-obesity",
-      "published_at": "2026-05-13T15:15:20+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1080,16 +1100,6 @@
       "type": "News"
     },
     {
-      "title": "ISMRM: DWI kurtosis approach predicts breast cancer treatment response",
-      "summary_de": "A DWI approach using diffusion kurtosis showed success in predicting early treatment response in breast cancer patients.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/ismrm/2026/article/15825079/ismrm-dwi-kurtosis-approach-predicts-breast-cancer-treatment-response",
-      "published_at": "2026-05-13T08:40:17+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit: AOK: Weniger Herzinfarkte in Bayern - DIE ZEIT",
       "summary_de": "Gesundheit: AOK: Weniger Herzinfarkte in Bayern &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -1106,16 +1116,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ0lHTEpiX1JjTEdKQ3UtdGxROEwxTlduNW9ZckFQNk1rTnYzcy1uNXJMejM1eUFuR3U5elA4Z0stME9Fazg2ek1KWHBaMEsyZzFWQUZMWnY2enlUZlB1X1Y5WG1mNDNocExSYlhDVjBjN1R2bWNWelBkSmNucWFmX0lSMVVkQk1GWjhPQ2JLOENyenFEMlZWZVZtdDdzbWVjRTVjaWZBZFlKVHZmNHFzSTVlSlJiM0psdTJGT2FJeXM5bHM4ZWxNcA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-13T07:33:29+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Deepfake: KI-generierte Röntgenbilder täuschen Radiologen und LLMs - mgo medizin",
-      "summary_de": "Deepfake: KI-generierte Röntgenbilder täuschen Radiologen und LLMs &nbsp;&nbsp; mgo medizin",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObzJWQzZMbVlPSFNKZEprVmEwWDlmWmU3QU1qaHlPRE5rel9WNE5IM014dlota3ZUUHptak9LZlUwdDl4a0tfOTNPcExqbE9aMHlXajJXVkhmUkJiYV8taGFYckJPbzYtd0xzRE1rdlRCclplMFlBY1FXajFaVFkwcF8xM01uUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-13T07:19:26+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1320,6 +1320,16 @@
       "type": "News"
     },
     {
+      "title": "Die Zufriedenheit mit dem deutschen Gesundheitssystem erreicht 2026 den - DAK-Gesundheit - dak.de",
+      "summary_de": "Die Zufriedenheit mit dem deutschen Gesundheitssystem erreicht 2026 den - DAK-Gesundheit &nbsp;&nbsp; dak.de",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUmVMRXVtM2FmLTZFWGFuR1hUcGEtdFZyZVhFRUtEem85emJ2TGVuczB4ZV9wU1dMYnc0OGxmNmQzNVlfeHhZY1Mwd2RqWkZ0a3FTVVdzdUlBMWg5VWJ0emI3TmxvYmUxTWI5QXBPd25yQmoxbVoxNm9KenN2LTliN1U2UV90OTNiV2hSZEltd09uX1FPbDNETzZ0S1NZYVFHMy0xbllUUlVXYVhlWUh5NHJCQ2ZqZ1psRXdKeFpyQ0FYM3pyOWhROV9ySTFjYzFUaHNaVG8ta3lfbVdIY0wxUmlHd0U2QXNENm10Qm5Ickd6eXBzME9n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-12T11:07:05+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Nach Kreuzfahrt - Hantavirus: Passagier in Quarantäne im Großraum Berlin - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Nach Kreuzfahrt - Hantavirus: Passagier in Quarantäne im Großraum Berlin - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1350,8 +1360,8 @@
       "type": "News"
     },
     {
-      "title": "Krankenkasse für ein gesünderes Leben | BARMER - Barmer",
-      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; Barmer",
+      "title": "Krankenkasse für ein gesünderes Leben | BARMER - BARMER",
+      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-12T08:29:28+00:00",
@@ -1926,16 +1936,6 @@
       "type": "News"
     },
     {
-      "title": "Kürzungen im Gesundheitswesen - KBV: Durch Sparpaket weniger Arzttermine in Sachsen-Anhalt - Gesundheit - SZ.de",
-      "summary_de": "Kürzungen im Gesundheitswesen - KBV: Durch Sparpaket weniger Arzttermine in Sachsen-Anhalt - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOdy0xQ1A0SlVmMXppazRQZ0dTSkZ2QXVHT3Zwc2hzY1RTUTNuQ29XU3d2Szc3Qml5Z2swdUlwcnlidHVLLS1yZWRvOENOMzAwRGtPamVGU1lqZ01UV1JzOE5KTGpTaERXR3RjSW8yUldaOU9YcHhCVl9VUEk5XzhzSDFTN3d6eURFYTd4aXVfakpOVU9yeVUyLWVNMjhjSkIwZXpPc0FoVTlXWG5fV0otd0RHY25fU0I5UnRrVnVrN0ZCVVNiWm54dTF4eFNTMEprNjJSMjE0WkRIYy10OEI2ZlVjREN5M0NQb2xTbzcwcHVPeXdDRjF2QXBFX2NrN3c2aEd5cFR3aw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-09T10:00:41+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "MHRA delivers its targets to increase access to medicines and reinforce UK position as a global destination for life sciences",
       "summary_de": "The MHRA continues to speed up access to medicines for patients, increase efficiency of regulation and help to attract innovation and investment in the UK’s thriving £100 billion life sciences industry.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -2048,8 +2048,8 @@
       "type": "News"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-06T07:00:00+00:00",
@@ -2076,6 +2076,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Facharzt (m/w/d) Nuklearmedizin (befristet) - ärztestellen",
+      "summary_de": "Facharzt (m/w/d) Nuklearmedizin (befristet) &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRXJOUHpKNjZ6RHM2QkJJQjl1c2lfRFJuRHhlSE1wQjBvWWhQQnVZWDNrM3p4b3lNbkgyWUNHNEl1MENsdWFEdXZuY2RfTFY5d3p6c2Q4V3hQbDNndm9zdUtOREs2S2RObElFRFpHU1F6ZmhFNDdiVm5NQ20zZzVfdGRqenBzMU1GZGRhR0U5Rm4tWXdQVGpzbXZKeU91THpNQ0o5Z0FJa3BySXRMODJESFh6Z2o?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-05T22:00:15+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Personal Health Budgets: Quarter 4 2025-26",
@@ -2179,6 +2189,16 @@
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWXMydWVNM3gtNktocWRYRFktaWs2UE9jNEtSeDlfSjktX19vMFU0TU5PcDAtTWZHX1NyTGRfMFR4RkZoVWF1U05reXo5LWN5VlRkYTlmRklXRWRiUkMyVXVVYlk5blBBNkNZV3lWTDhhMnI3bHlxeWI1S3h0X1lpLU83emZsVUs3aUJMQTdSeDdHZG92Y2hZQWVtQkMtcmhFZlloQmdqbHVtOE9Pb25BZXJwMUVVZUQ1N3ZyYjJ3UU52OVdjb3pzTTBOOUxiYWxNN2dzM2hoQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-02T07:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Experten-Tipps: Ab in die Röhre: Das sollten Sie vor dem MRT-Termin wissen - RP Online",
+      "summary_de": "Experten-Tipps: Ab in die Röhre: Das sollten Sie vor dem MRT-Termin wissen &nbsp;&nbsp; RP Online",
+      "source_name": "\"site:rp-online.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTVQcXluNzNwQ0lsOGxxV0dyV3BMaUxzdktLTnhGV0xrMDhRWjdKcXNpVkVVMTBjNjhXTFRaX2R5SWhKajRuRjhJbk9VekFVUkJPbDk5cC1PZFBsTWE1bUNQX0dURUlqSzRkeXN5UWdNU1FzRk9SRkljMVBYcUxpVWVZZERxdGM2VWNLeFIzWkNLcjVyMlZ3TGRsYUxtOVpkdW5fZENNZDFRNUt2S2w4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-01T07:00:00+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -2719,6 +2739,16 @@
       "source_url": "https://www.ema.europa.eu/en/news/ema-recommends-authorisation-first-veterinary-vaccine-using-rna-technology",
       "published_at": "2026-04-17T12:59:00+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Radiologie: Initiative „Medizin mit Durchblick“ - Deutsches Ärzteblatt",
+      "summary_de": "Radiologie: Initiative „Medizin mit Durchblick“ &nbsp;&nbsp; Deutsches Ärzteblatt",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSEdBNk9zckFDbjlTbmhrSzhzY0RxNmFJbEJXV3h3ZHFKN2RGaVoxeE5kZ0I2Z0pvMUpGQm93ZGlZUHBycXRRd0laRHAwTmt6YXNPa1NTbVZ2WWFPODBLZ0lYQ1c0eWtDVi1zR2JDRHhCRjBsOEppRWhPc2s0cDFEYUEtbG9faktnVmhZOGhuUExFRmVSMGZWTXhxeGxfSU1jckxGVkRvdVAzakpDcnNVOVpvVktaZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-17T05:43:13+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
