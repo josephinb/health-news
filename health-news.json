@@ -1,13 +1,137 @@
 {
-  "generated_at": "2026-06-05T14:43:06.453127+00:00",
+  "generated_at": "2026-06-05T17:09:12.016285+00:00",
   "window_days": 42,
-  "count": 282,
+  "count": 251,
   "items": [
     {
-      "title": "Organspenden: Warum eine Organspenden nicht immer möglich ist",
+      "title": "Decision: Human and veterinary medicines: register of licensed manufacturing sites",
+      "summary_de": "The MHRA register of licensed manufacturing sites: manufacturer specials - human (MS) and manufacturer specials authorisation - veterinary (MANSA) only.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/human-and-veterinary-medicines-register-of-licensed-manufacturing-sites",
+      "published_at": "2026-06-05T16:03:18+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Notice: Register of brokers authorised to deal in human medicines",
+      "summary_de": "Current listing of UK brokers authorised to broker human medicines, including company name, registration and address.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/register-of-brokers-authorised-to-deal-in-human-medicines",
+      "published_at": "2026-06-05T16:00:11+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Decision: Medicines: new manufacturing and wholesale dealer licences",
+      "summary_de": "List of sites granted a manufacturer or wholesale dealer licence.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/medicines-new-manufacturing-and-wholesale-dealer-licences",
+      "published_at": "2026-06-05T15:58:43+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Notice: Medicines: terminated and cancelled manufacturing and wholesale dealer licences",
+      "summary_de": "UK companies who have their licence to manufacture or wholesale medicines terminated and cancelled.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/medicines-terminated-and-cancelled-manufacturing-and-wholesale-dealer-licences",
+      "published_at": "2026-06-05T15:58:03+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Decision: Human medicines: register of licensed wholesale distribution sites",
+      "summary_de": "Department of Health and Social Care and MHRA register of licensed wholesale distribution sites (human).",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/human-and-veterinary-medicines-register-of-licensed-wholesale-distribution-sites",
+      "published_at": "2026-06-05T15:57:13+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "NHS App Management Information - April 2026",
+      "summary_de": "This publication provides information on the number of users and usage of the NHS App, and of features available through it. It aims to provide an open and accessible data source to give insight into how the public are using the NHS App, and how usage changes over time. Data are included for the following measures at ICB and national …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-app-statistics/april-2026",
+      "published_at": "2026-06-05T15:29:01+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Nach Auszug der radiologischen Praxis: Versorgung in der Schön-Klinik sichergestellt - shz.de",
+      "summary_de": "Nach Auszug der radiologischen Praxis: Versorgung in der Schön-Klinik sichergestellt &nbsp;&nbsp; shz.de",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRDg2cXhTbm43TDJNa05tSEk4enFSaWxZTHRSZnVQcnNTTUpGQ084Q0otQWZXTFN6SXZqMktILXpvTkRoWXJIRTdsdkxEeGtqM2wtb2w4RUtMRjlBZnhDWUVZRlRoaXo1MU9oaUd6cnRxQ1VhUGllWFZIV1MydkZhZTQtaEIyZ0ZmWjNta2R5anVTYWJhaGFCeDdBd1JIMXRZZ1ZXTk5GaVNmLVVJemhSekgtTW96QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-05T15:29:00+00:00",
+      "category": "Radiologie",
+      "tags": [
+        "Versorgung"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Patients Registered at a GP Practice, May 2026",
+      "summary_de": "Data for this publication are extracted each month as a snapshot in time from the Primary Care Registration database within the PDS (Personal Demographics Service) system. This release is an accurate snapshot as at 1 May 2026.Figures are reported by gender and single year of age (SYOA) and five-year age bands (up to age 95+) at GP Practice, Primary Care …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/patients-registered-at-a-gp-practice/may-2026",
+      "published_at": "2026-06-05T15:23:03+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "MHRA review of the benefits and risks of avacopan",
+      "summary_de": "Avacopan is used in the treatment of some rare autoimmune diseases affecting small blood vessels.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/news/mhra-review-of-the-benefits-and-risks-of-avacopan",
+      "published_at": "2026-06-05T15:03:38+00:00",
+      "category": "Studie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "Studie"
+    },
+    {
+      "title": "Find product information about medicines",
+      "summary_de": "How to get information including patient information leaflets (PILs), details on how the medicine can be used (SPCs) and scientific reports (PARs).",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/find-product-information-about-medicines",
+      "published_at": "2026-06-05T14:46:13+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "PZ Briefing: Die Top-News vom 5.6.2026",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-562026-165838/",
+      "published_at": "2026-06-05T14:28:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Perspektive für Deutschland?: Pharmacist Prescribing im Überblick",
+      "summary_de": "Apotheker, die verschreibungspflichtige Arzneimittel ohne &auml;rztliche Verordnung abgeben &ndash; das soll auch in Deutschland bald in einem gewissen Rahmen m&ouml;glich sein. Welche Modelle zu unterscheiden sind und wie andere L&auml;nder mit &raquo;Pharmacist Prescribing&laquo; umgehen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/pharmacist-prescribing-im-ueberblick-165836/",
+      "published_at": "2026-06-05T14:20:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Organspenden: Warum eine Organspende nicht immer möglich ist",
       "summary_de": "Tausende Menschen in Deutschland warten auf ein Spenderorgan. Mediziner der Berliner Charit&eacute; schildern, wie Spenden oft an einer Gesetzesgrundlage scheitern.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/warum-eine-organspenden-nicht-immer-moeglich-ist-165708/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/warum-eine-organspende-nicht-immer-moeglich-ist-165708/",
       "published_at": "2026-06-05T14:00:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
@@ -226,16 +350,6 @@
       "type": "News"
     },
     {
-      "title": "World Food Safety Day 2026: EFSA advancing safer food through science",
-      "summary_de": "Every year, unsafe food causes illness, long-term health problems and economic harm for millions of people worldwide. World Health Organization estimates that contaminated food causes 866 million illnesses and 1.52 million deaths annually, affecting nearly one in nine people globally.&nbsp;For World Food Safety Day on 7 June 2026, EFSA is reaffirming its commitment to turning scientific evidence into safer food …",
-      "source_name": "EFSA | News",
-      "source_url": "https://www.efsa.europa.eu/en/news/world-food-safety-day-2026-efsa-advancing-safer-food-through-science",
-      "published_at": "2026-06-05T09:45:05+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Pandemie-Forschung - Forscher: Corona-Folgen reichen weit über Medizin hinaus - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Pandemie-Forschung - Forscher: Corona-Folgen reichen weit über Medizin hinaus - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -374,16 +488,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/neues-wirkprinzip-bei-graft-versus-host-erkrankung-165605/",
       "published_at": "2026-06-05T05:00:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Bereichsleitung Medizincontrolling und stationäres Patientenmanagement (w/m/d), DIAKOVERE Krankenhaus gGmbH - SZ-Stellenmarkt",
-      "summary_de": "Bereichsleitung Medizincontrolling und stationäres Patientenmanagement (w/m/d), DIAKOVERE Krankenhaus gGmbH &nbsp;&nbsp; SZ-Stellenmarkt",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZWFDU0VGbXpTU2xJX3FaLVF2RUY2N3ZsX2wyRWs1eDUtRjBaOG1nQ3ZLZU82RnBpcHN0eldLV3VVbFFMV1paemZrNXAzQzZFaFFXVVhDOWVoZzFSejVYZ2NrX0hrdlppbE5UTW8zbU9RVnBySFA4NXlGZW5PWTh3SlhnVWxPU3NTUnItcUlsNmV3MGVwZjM3eVp5OVVjQjlfanVlQUhyb1R3bW1zQVpzV0s4dUc5NXV3UmxqamF4ZVdnazVkdmdZT2lNYjZVVzA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-05T04:22:40+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -630,32 +734,12 @@
       "type": "News"
     },
     {
-      "title": "Aktuelle Wetterwarnungen: Was tun bei Tornado-Gefahr?",
-      "summary_de": "Tornados sind selten, aber potenziell immer lebensgef&auml;hrlich. Was tun, wenn sich am Himmel ein Wolken-R&uuml;ssel zeigt? Tipps, wie man sich sch&uuml;tzt &ndash; vorsorglich und im Notfall.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/was-tun-bei-tornado-gefahr-165779/",
-      "published_at": "2026-06-04T11:00:00+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "(S+) Gesundheit: Immer erst zum Hausarzt – was das für Kassenpatienten bedeutet - Spiegel",
       "summary_de": "(S+) Gesundheit: Immer erst zum Hausarzt – was das für Kassenpatienten bedeutet &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUWp3Rko0aS1LX25YeE04UnZ1alg2eG9RTUhHLTFyQXlWSFkyR2xoOXZ2emtsS3FsS29rNkVhZHJSZVFoYzB4UEFYclo1NmhFWTBpV1BGLTN6RmVGWVFDRXVXS0lKU0VoYWMwWUpBR0gwOGNRR0NoeTJNR2Q3TnlWNHN4M1BaNE1LVDNsV3RzZXlsdVFyS1JBNWlydXJLWkVDVmIycE01a3JkcDJFc0VORnZVSTlfY0lpOWc2X3hkZ0hpa2IxeWxVWENDcW9SYl9QZGtiX0ROQXBHTG5EX2RKdFlUNERwamVaYkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-04T11:00:00+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Neue Dienstleistungen: »Jetzt müssen wir ran«",
-      "summary_de": "Dank des gerade verabschiedeten ApoVWG d&uuml;rfen Apotheken k&uuml;nftig doppelt so viele pDL anbieten wie bisher. Beim Pharmacon in Meran appellierten Standesvertreter an die Kolleginnen und Kollegen, diese M&ouml;glichkeit zu nutzen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/jetzt-muessen-wir-ran-165781/",
-      "published_at": "2026-06-04T10:50:44+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -677,19 +761,6 @@
       "published_at": "2026-06-04T10:00:30+00:00",
       "category": "Europa",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Pressemitteilung: Pflegeneuordnungsgesetz dringend notwendig, aber viel zu unausgewogen",
-      "summary_de": "Zu dem nun vorliegenden Entwurf eines Pflegeneuordnungsgesetzes erklärt Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes: „Der Finanzdruck in der Pflege ist enorm und deshalb ist es gut, dass nun der Entwurf einer Pflegereform auf dem Tisch liegt. Bei der Pflege brennt die Hütte und der vorgelegte Entwurf enthält einige Instrumente, mit denen das Löschen beginnen kann.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2274574.jsp",
-      "published_at": "2026-06-04T08:32:49+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Versorgung",
-        "Wirtschaft"
-      ],
       "type": "News"
     },
     {
@@ -738,28 +809,6 @@
       "source_name": "\"site:tk.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43Snd6dm1TX1B4Q3dsb0VZTFpTbUtVZzN0MVhLanVrVmtBcnJINnNtbHpKNEI5M2tMUm9VNmhlc3VuUTF4V3NNSGl2YTkyeWNDZGRTYUdTRzBHNlF6d2R6WHpzQUgxQU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-04T08:11:30+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Meldung: Dynamischer Herstellerabschlag ist Sicherheitsnetz gegen höhere Beiträge",
-      "summary_de": "Mit Blick auf die hohen Arzneimittelkosten dürften Einsparungen bei der Pharmaindustrie nicht zu gering ausfallen, warnt Stefanie Stoff-Ahnis, stellvertretende Vorstandsvorsitzende des GKV-Spitzenverbandes, in der Rheinischen Post. „Arzneimittel sind nach den Krankenhäusern der zweitgrößte Kostenblock in der gesetzlichen Krankenversicherung und die Pharmaindustrie verdient daran blendend.“",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2274573.jsp",
-      "published_at": "2026-06-04T08:01:39+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
-      "title": "Ausgebüxte Kühe spazieren durch Krankenhaus – kurioser Polizeieinsatz in Hessen - Spiegel",
-      "summary_de": "Ausgebüxte Kühe spazieren durch Krankenhaus – kurioser Polizeieinsatz in Hessen &nbsp;&nbsp; Spiegel",
-      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcDFsT3dtQWJYamVTdnRDdlVHck9jS2FhMEQxSXFFNndTWHNLRmJsUjZOV0hzU2hPemlpbG1ueUdkTGJ0cU1LRTNsZXloZEYyaGFyZ0N1Z0swZ2ltNnFza1lNTHlVVS1lRmRXUGl4clQyUnpEa3g1WURveFJhM3BHYWtCOEhRNXpaRWNMYkJpRkFDTkUwcWp3cE5vZGVfYVVRUUFrT0pKN2dvaUFtbThhQXM4ZzZoWjhZNGZMUVNmTFFyTEc0aGZhRzctSlBmSEFLS1ZfNmR4eEhnTmtnTWFxclJjYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-04T06:45:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -871,16 +920,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa3g2NFpiUVFuSEpqYWRNTFpwV3ZJdlhWLW5pa3BENjBZYVN5TkI1QjVSMEpIYTBHZDg2T0dNcmxWdXNELWRmYTM2Yk5aVEgxYnJKTWFEZTVNMUhJajJNOUloSElPaHBCWlpNWG5xeUp4Mk9PRW5ZQmxGcFdELUJ0Z1FvY3B5aDU3NERyWXJpT1plWGhSUE1F?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-03T13:16:59+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "EMA, AMA and African regulatory authorities join forces on Ebola outbreak response",
-      "summary_de": "EMA’s Emergency Task Force (ETF) is engaging with the African Medicines Agency (AMA) and its national regulatory authorities (NRAs), leveraging expertise from the WHO-AFRO…",
-      "source_name": "News and press releases",
-      "source_url": "https://www.ema.europa.eu/en/news/ema-ama-african-regulatory-authorities-join-forces-ebola-outbreak-response",
-      "published_at": "2026-06-03T12:52:00+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -1135,22 +1174,10 @@
       "type": "News"
     },
     {
-      "title": "gemeinsame Pressemitteilung: Übergangslösung sichert ambulante Operationen bei Kindern und Jugendlichen",
-      "summary_de": "Ambulant durchführbare Eingriffe bei Kindern und Jugendlichen, etwa im Fall von Leistenbrüchen, werden überbrückend besser vergütet, bevor 2027 eine neue Regelung in Kraft tritt. Darauf haben sich der GKV-Spitzenverband (GKV-SV) und die Kassenärztliche Bundesvereinigung (KBV) einvernehmlich geeinigt.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2273344.jsp",
-      "published_at": "2026-06-02T07:02:57+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
-      "title": "Mückenstich entzündet: Was tun bei Schwellung, Eiter & Rötung? - DAK-Gesundheit",
-      "summary_de": "Mückenstich entzündet: Was tun bei Schwellung, Eiter & Rötung? &nbsp;&nbsp; DAK-Gesundheit",
+      "title": "Vorstand - DAK-Gesundheit",
+      "summary_de": "Vorstand &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOXJqM016bFpxTmt1QUpJaFAyOGhMVVlVMWRJNUZNWEV0UDNFSlBWUWhFR0k0LXYzSXhiQ3hmbnp3ZG4zeWNyYUgwc1FCVzZkaDVnTDllYnJoOWdDWno4QnV5bjBac25WVFVvVFAtMmNNVXVnSVRXRDUtNE1BQ2RiZmZZNjNSWHFmZEljaUstX3I4SFdkcjVXdDN1OVg0UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XSEpIWUEtb1NYRk5ZaHJ3djIzMm54ajVoLXl3MGNoTTVhdkwxZlpXTEdJYkpZc2NQZ0xBZVNGUlZGZURqcGVLTkR0Wjg3VFFCTGFmbXNUeTYyOFdRLWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-02T07:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -1163,16 +1190,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeEt0NTNOcGFYQTU4UmRPQ2tRRDc4LTBORHg5WGRzdzktanhLRDM1bGNyLS1GVmU5azBic3ppZTQ3bDFwbUFueWYybE9xZWxLZVdqMkozSERYTnFhLXg1TzNfRDBFbzZkbW9aT29HU3dGcnZHV1V4bG1FaThCMzI1LXNteEV2MzMtbkxWMVd1XzByWVZ3Y1BkRDhRd0FDYTZrZ1lfeTA0eHFYVFY3emgtb0ZjMHZQSnpKazY3Y1hxZ25FdndwWHRZcWtGM0RHMm85MHlNWG8tV2HSAfQBQVVfeXFMTWExNVlPZ3ZXN2NWbnJjT2hDbE1VUC1qNkdQenFmZ3FTbnRwNml6SlVULVB0eXlIWGR6OUZ2M3FGaEFCQmxxUm1EY2V3blZ1M1d2MUNQZEl5bVBfTDM2c09MdmJVLUIwQ09PeHptV2ZRRzQ3anNUYjRUaThFTHhnY3N0TWxMRHY1eGVWUjZtZVRiSUp5MThIQnFyWTd3cjZtTWpNdDBWcmtWVUUycXo1a0ZzRnFxV1UzTDhoQS1rSFBCSEUzR0s2UmxSTmxBWEhTbGNmYVMwZWpqMnE5eGZMSnA3YjNPakp1WURYcTlvb0l1LWVibg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-02T07:00:00+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Pflegefachkräfte (m/w/d) für die Stationäre Pflege, Wohlfahrtswerk für Baden-Württemberg - SZ-Stellenmarkt",
-      "summary_de": "Pflegefachkräfte (m/w/d) für die Stationäre Pflege, Wohlfahrtswerk für Baden-Württemberg &nbsp;&nbsp; SZ-Stellenmarkt",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbENRTkxnWGhHWGU1RmJTU1VXT0pfOXVPQnhkMGJ2U1FoeTloR05KdUdCa1A2bGpWemtXSGFqSDVLMmxraTFQa1FfT3RtVHdiOW5ScHZ0NC12VXVnUExUVGhXU0c1bDdKRXZ1QnFIX2lfN0lXZEliaFNjLUdRZVRsTEpSMFpDVGZoNkx6X0k3Qk5fczV3T0NENHdRbExKREI3M3I0Rk9xdndfcmNa?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-02T03:40:45+00:00",
-      "category": "Versorgung",
       "tags": [],
       "type": "News"
     },
@@ -1447,11 +1464,21 @@
       "type": "News"
     },
     {
-      "title": "Social Media - Zweifel säen für Klicks - Warum Influencer vor Rapsöl warnen - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Social Media - Zweifel säen für Klicks - Warum Influencer vor Rapsöl warnen - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOS3I2NmhqUWM2SFFBdnYwM3FCUV96WDVZaGw0ZzczUGp0c2RuQlZZdkVMekRnaDNmNFd0SnhpWjJPem1LM0llVWRpLUJwQTMzUjBKZlNLSjREbkFWcWZQUUdmRFU4czFJcXN2MnNmTDF6UXZUeGh3TFM3NmZkOFo4ZFFwN3d6M3U0eHV2d2hNUExnQXNxUnhDX3lSQXJ4c1BHbEQtSW1HY0U5TVJZX21kUVBvT0RZWkt4Q0pNZzlkX2JuS0RzcVpaTVBxRHdINVNjSkEySG5lTnpCWEpyS2tMbjBvbk10WlNHNUtiX2pnWGVNNFVIOUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-01T02:00:23+00:00",
+      "title": "Ltd. Oberärztin / Oberarzt (m/w/d) für unsere Klinik für Pneumologie und Beatmungsmedizin - ärztestellen",
+      "summary_de": "Ltd. Oberärztin / Oberarzt (m/w/d) für unsere Klinik für Pneumologie und Beatmungsmedizin &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMERsWXljLVBEQ0t0MDFtMG1UeldEZFNyQmJQakttZ1h1X3BBUXBJNHZYeGNqU2htWk1TM2Ytd3JkRko4ZzlGT3NnM0c1RHl0aS1TU2dHVTJsQkN4S3BiWEJjUDRZbTJFNV9fd3poWks2NWh0b2I0WU45VzJTWHA3Y3h5eFhaajFlQzJRSWFWUXgxanYzQjlSU2pTUGJpU0pNY3pDUjJDdU9LQWYzVG5hb2ZvWm8xVjhIMmZmSHpTMU5vbkVPLWxHcm8xOHF5M3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-01T06:00:08+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Arzt in Weiterbildung (m/w/d) für Gefäßchirurgie - ärztestellen",
+      "summary_de": "Arzt in Weiterbildung (m/w/d) für Gefäßchirurgie &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQTlJUWtkcHFwa3owbzVhUEo5VWI5UHE1aEwtTmxSbDRPbHpEUWVJWE12RkRtTW1pNzJJclUxQTVaekhzV19pQk9nN3VDR2dMR280b0ZYLW9CdWRUMDlrNFJMV3pXYzBkRk5TOV92dzE5Yzd2QXNQR1VOUU9KTHRkNzB5cmNwUmxsSmhvTW44c1k1ZDJWLW40TjRhOWcyN2M?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-01T05:58:24+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1487,22 +1514,12 @@
       "type": "Studie"
     },
     {
-      "title": "Personal | Innere Medizin mit Akutgeriatrischer Behandlungseinheit | Klinik Ottobeuren in 87724 Ottobeuren - HEK",
-      "summary_de": "Personal | Innere Medizin mit Akutgeriatrischer Behandlungseinheit | Klinik Ottobeuren in 87724 Ottobeuren &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSkh5OFN3cWR4eE9zQjB6dVFsMEdkWllXM0lOeF9oRUt5WVlqQTExbWNJcXhxYUY0b1A2MzRBUjlfNGpUUURqZmpZaXM0dWJpX09XWTI1bUc0VXdVNWJ5cjUwS25Eakg3QUZGV2RDc3VBWlJVTVN2X1ZhLVJFcS1sdUdrekdWRXlkdWx3QXE4bzB1WktpOHlFMUZBVGpucEFSM0JRMlJoZ3drTUpYekU3ODNvLWFuYk5RMENoVzZmeTB6YWFsckdLUFUzOUU4STFtaGJsUkNiZWZabUZncC1BbDhqUjU5ZUtreDJNV0xsbw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-31T23:39:02+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "United for Health: EMA in WorldPride 2026",
-      "summary_de": "June is PRIDE month and EMA starts a two-month celebration of diversity and inclusion in science and healthcare, leading up to its participation in the world-famous Amsterdam…, Our strength in the EU comes from our unity in diversity. Equality and non-discrimination are critical everywhere, but in health they can make the difference between…, EMA staff will be joined on the …",
-      "source_name": "News and press releases",
-      "source_url": "https://www.ema.europa.eu/en/news/united-health-ema-worldpride-2026",
+      "title": "Zur Sache: Kompetenz-Centrum Geriatrie | Die Techniker - Presse & Politik - Techniker Krankenkasse",
+      "summary_de": "Zur Sache: Kompetenz-Centrum Geriatrie | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMzJnSk5EVFhnei1UTFpWMng5UGFESWFIQ2M0Zmx2YjdzTkJuUDZMVDdudkE5eXM4LUxEMk1mV3dXVjVnQlk2aXJsaHFMYlhmQ1Awc1dvaTlOekoxbkI0cHVYdmVnZWthemlFS1B5OThMRkVobnlyRkMwb0d5dDV6OHAxSHlpbzJMcXBJSWMyV1ZHQjR6eVQ5TXdITEI3QUxpSjg0ZnpETlYwR19lWER5dGJPQUZFN1RxZFhIVmJLNi0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-31T22:00:00+00:00",
-      "category": "Europa",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1597,6 +1614,16 @@
       "type": "News"
     },
     {
+      "title": "Virus - Im Ebola-Gebiet: WHO-Chef fordert bessere Zusammenarbeit - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Virus - Im Ebola-Gebiet: WHO-Chef fordert bessere Zusammenarbeit - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOHRZb09qZjBJR01hN0xuY3BKOWhhcVlvM0l2T09jTF9XWVFiUjZFVmc0VzVHOF90eS1LWUpUbklUZS1mSVU1OWJKUnQyN1ZLRzF0Z2tmTFJNVmQ0Z3FFQ0RPaGJxNGZlMkhQV1VwX0duSHVLOGVnd0wtdjNEaVZIdi15WXZxZmlSd1FhS251Sm45VUZXQnVEc1lQYzVoY19yaDBaSDVnd2dKazFDZElTZHMyR2RYb0hraXJDMnJacVNWNDNqdHh0alVGRTMxaldUYThEUG5DVzJkUmhaZGZiX19JRWk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-30T16:28:49+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Jährliche Leibarztuntersuchung: Trumps Leibarzt bescheinigt dem US-Präsidenten »exzellente Gesundheit - DIE ZEIT",
       "summary_de": "Jährliche Leibarztuntersuchung: Trumps Leibarzt bescheinigt dem US-Präsidenten »exzellente Gesundheit &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -1647,26 +1674,14 @@
       "type": "News"
     },
     {
-      "title": "ETF recommends updating COVID-19 vaccines to target XFG variant",
-      "summary_de": "EMA’s Emergency Task Force (ETF) has recommended updating COVID-19 vaccines to target the new SARS-CoV-2 variant XFG for the 2026/2027 vaccination campaign.XFG is part of the…",
-      "source_name": "News and press releases",
-      "source_url": "https://www.ema.europa.eu/en/news/etf-recommends-updating-covid-19-vaccines-target-xfg-variant",
-      "published_at": "2026-05-29T11:35:00+00:00",
-      "category": "Europa",
+      "title": "Mückenstich entzündet: Was tun bei Schwellung, Eiter & Rötung? - DAK-Gesundheit",
+      "summary_de": "Mückenstich entzündet: Was tun bei Schwellung, Eiter & Rötung? &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOXJqM016bFpxTmt1QUpJaFAyOGhMVVlVMWRJNUZNWEV0UDNFSlBWUWhFR0k0LXYzSXhiQ3hmbnp3ZG4zeWNyYUgwc1FCVzZkaDVnTDllYnJoOWdDWno4QnV5bjBac25WVFVvVFAtMmNNVXVnSVRXRDUtNE1BQ2RiZmZZNjNSWHFmZEljaUstX3I4SFdkcjVXdDN1OVg0UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-29T11:47:26+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
-    },
-    {
-      "title": "Rilzabrutinib authorised to treat adults with immune thrombocytopenia when prior treatments have been insufficient",
-      "summary_de": "As with any medicine, the MHRA will keep the safety and effectiveness of rilzabrutinib under close review.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/rilzabrutinib-authorised-to-treat-adults-with-immune-thrombocytopenia-when-prior-treatments-have-been-insufficient",
-      "published_at": "2026-05-29T11:29:08+00:00",
-      "category": "Studie",
-      "tags": [
-        "Europa"
-      ],
-      "type": "Studie"
     },
     {
       "title": "HzV-Evaluation der TK | Die Techniker - Presse & Politik - Techniker Krankenkasse",
@@ -1689,18 +1704,6 @@
       "type": "News"
     },
     {
-      "title": "Meldung: Den überproportionalen Zuwachs der Ausgaben begrenzen",
-      "summary_de": "Im Interview mit Teach Economy sprach Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, über Finanzierbarkeit, Versorgungsqualität, Effizienzprobleme und Prävention sowie die Rolle der Politik im Spannungsfeld zwischen Reformbemühungen und Lobbyinteressen.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2271690.jsp",
-      "published_at": "2026-05-29T06:37:42+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Personal | Institut für diagnostische und interventionelle Radiologie | Krankenhaus Porz in 51149 Köln - HEK",
       "summary_de": "Personal | Institut für diagnostische und interventionelle Radiologie | Krankenhaus Porz in 51149 Köln &nbsp;&nbsp; HEK",
       "source_name": "\"site:hek.de\" - Google News",
@@ -1719,36 +1722,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Precautionary recall of blood pressure medication (Crescent Pharma Limited Ramipril 2.5mg capsules) after packaging error",
-      "summary_de": "Patients taking Crescent Pharma Limited Ramipril 2.5mg capsules are advised to check their packaging for batch number GR155023 and contact their pharmacy if any blister strips inside are labelled as Ramipril 10mg.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/precautionary-recall-of-blood-pressure-medication-crescent-pharma-limited-ramipril-25mg-capsules-after-packaging-error",
-      "published_at": "2026-05-28T13:29:19+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Class 2 Medicines Recall: Crescent Pharma Limited, Ramipril 2.5 mg Capsules, EL(26)A/25",
-      "summary_de": "Crescent Pharma Limited is initiating a precautionary recall of one batch of Ramipril 2.5 mg Capsules following the identification of a potential packaging error at the manufacturing site.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/drug-device-alerts/class-2-medicines-recall-crescent-pharma-limited-ramipril-2-dot-5-mg-capsules-el-26-a-slash-25",
-      "published_at": "2026-05-28T13:04:47+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "MHRA Safety Roundup: May 2026",
-      "summary_de": "Summary of the latest safety advice for medicines and medical device users",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-may-2026",
-      "published_at": "2026-05-28T12:07:24+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "NHS Jobs Adverts in General Practice, Q1 2022-23 to Q4 2025-26 [Management Information]",
@@ -1883,6 +1856,16 @@
       "type": "News"
     },
     {
+      "title": "Themenwelten - Neues Zentrum am Evangelischen Krankenhaus Wesel, Das Zentrum orientiert sich an den aktuellen europäischen Leitlinien sowie an den neuen deutschen Empfehlungen. - RPO - Rheinische Post - RP Online",
+      "summary_de": "Themenwelten - Neues Zentrum am Evangelischen Krankenhaus Wesel, Das Zentrum orientiert sich an den aktuellen europäischen Leitlinien sowie an den neuen deutschen Empfehlungen. - RPO - Rheinische Post &nbsp;&nbsp; RP Online",
+      "source_name": "\"site:rp-online.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNTC1DWWxtYjVqQ3hHelJNaFctaHZlTGJuNHpoU2hqd093TGJfdmRVeWFjbmtsNVd3RHlfWXpsZ0ctUGQ0UmcwYXZmbGsweHU1bGhZT1RBYmZnMnY1d3pvcnBCcGt5N19mUGYzdFBWYUh0NWhXZ2RoWkMtZDczLWdEbFRvWnZtcThOUDhEa3EwUGkzXzNkWk5xN1BYSndGYnFIUmZlQTBRZEhMV2ltSEVZM20zUFM1alRBaV9hbGp6YVlQS1BqTU5qb0o1Y2lFNk9OdjRJY3U1MURlUkFqN2p2b2xtV2ZmY0VPdHE2SFczdkx1Qzh5cExxMVBzTW9QSjhHVnhXUExOSmcydm9IYnZlLUhSVmJFQ3FadWRDbDlLSktjYzhPcl8xT2RSeWpMc0RxR1MzS1F2M1h4RlZhdkJN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-28T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Botulinum toxin type A for subacute/chronic neck pain",
       "summary_de": "Botulinum toxin type A for subacute/chronic neck pain",
       "source_name": "Cochrane Library RSS feed.",
@@ -1923,32 +1906,22 @@
       "type": "News"
     },
     {
-      "title": "Allurion Gastric Balloon: Updated safety information due to the risks of gastric outlet obstruction, small bowel obstruction and gastric perforation (DSI/2026/004)",
-      "summary_de": "In rare instances, the Allurion Gastric Balloon has not transited through the stomach or bowel as intended, leading to complications such as gastric outlet obstruction, small bowel obstruction and gastric perforation.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/drug-device-alerts/allurion-gastric-balloon-updated-safety-information-due-to-the-risks-of-gastric-outlet-obstruction-small-bowel-obstruction-and-gastric-perforation-dsi-slash-2026-slash-004",
-      "published_at": "2026-05-27T13:21:45+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "MHRA welcomes Jason Bonander as he starts his role as Chief Digital and Technology Officer",
-      "summary_de": "Jason is an experienced technology leader with over 25 years working in tech leadership and health informatics.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/mhra-welcomes-jason-bonander-as-he-starts-his-role-as-chief-digital-and-technology-officer",
-      "published_at": "2026-05-27T12:21:54+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "MRT Einladung 03 06 2026.indd - Die Johanniter",
       "summary_de": "MRT Einladung 03 06 2026.indd &nbsp;&nbsp; Die Johanniter",
       "source_name": "\"site:johanniter.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRnBfaUdsMlFQa1VtZlFFeFl3MFYtNFJHRXh4dFNpbkE0bGpieEpla2ptTjViOG1uTHlGMG1DVGQ4aHZORFpMNGxuTkhOckF2aW5reXgybG9mUlVrSE42ODUxSmZlSTdaMEhBbHJXenRQT083NEx5Qmg2dDZDa0pQTzZiNkNUVk9RaWpfSHM1SFRocFhzVnRXWFd1OXZwY0tNWWpNYjhrMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-27T11:53:03+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Die Versichertenvertretung des TK-Verwaltungsrats - Techniker Krankenkasse",
+      "summary_de": "Die Versichertenvertretung des TK-Verwaltungsrats &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa09DWWhDNkRvNWd4ZTEzRVR6VEVwZWI2UVFQZDI2cUFIcFFJRGpVdC04dUlydEtKWnlxN3B2eC1RYUVkTldwNFRiMTlva2pfZC1NUGtBUnRzeF94TmJrdUcwVE1xZF85M1JNMkdrRUVSU3RaSVFFVkF0OWJZMjNNTXhiOFBOZm44Z3ZRYTBWTmZibzhZbTA0c0hiS1k2SXNSZVVOeS1zZ2dSOXpCQVdHUl9oME5wUHFybExYQ0ZtbUxWaWtCX2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-27T07:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1973,39 +1946,6 @@
       "type": "News"
     },
     {
-      "title": "EU recommendations for 2026/2027 seasonal flu vaccine composition",
-      "summary_de": "This news announcement was updated on two occasions. On 7 May 2026, it was updated to include additional recommendations for strains for seasonal egg-derived and live-attenuated…",
-      "source_name": "News and press releases",
-      "source_url": "https://www.ema.europa.eu/en/news/eu-recommendations-2026-2027-seasonal-flu-vaccine-composition",
-      "published_at": "2026-05-26T11:50:00+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Don’t let this heatwave affect your medicines: Three important tips from the MHRA",
-      "summary_de": "Essential advice on protecting your medicines during extreme heat and staying safe.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/dont-let-this-heatwave-affect-your-medicines-three-important-tips-from-the-mhra",
-      "published_at": "2026-05-26T10:52:34+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Meldung: Die Pflege lebt auf Pump",
-      "summary_de": "Die soziale Pflegeversicherung hat im 1. Quartal dieses Jahres ein Defizit von 667 Millionen Euro eingefahren, trotz eines Darlehens von 800 Millionen Euro. Für das Jahr 2026 wird ein Minus von rund einer Milliarde Euro erwartet. „Bei der Pflegeversicherung brennt die Hütte und wir müssen uns dringend ans Löschen machen“, bringt Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, die Situation im SPIEGEL …",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2270740.jsp",
-      "published_at": "2026-05-26T08:03:09+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Versorgung",
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Steroid avoidance or withdrawal for kidney transplant recipients",
       "summary_de": "Steroid avoidance or withdrawal for kidney transplant recipients",
       "source_name": "Cochrane Library RSS feed.",
@@ -2014,36 +1954,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Meeting highlights from the Committee for Veterinary Medicinal Products (CVMP) 19-21 May 2026",
-      "summary_de": "CVMP opinions on veterinary medicinal productsThe Committee adopted a positive opinion for a marketing authorisation for Nobivac NXT HC, for the active immunisation of&nbsp;cats…",
-      "source_name": "News and press releases",
-      "source_url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-veterinary-medicinal-products-cvmp-19-21-may-2026",
-      "published_at": "2026-05-22T13:12:00+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 May 2026",
-      "summary_de": "Eight new medicines recommended for approvalEMA’s human medicines committee (CHMP) recommended eight medicines for approval at its May 2026 meeting.Jascayd (nerandomilast)…, CHMP statistics Key figures from the May 2026&nbsp;CHMP&nbsp;meeting are represented in the graphic below. &nbsp;, CHMP statistics:…, Positive recommendations on new medicines, Boey INN trenibotulinumtoxinE Marketing authorisation applicant AbbVie Deutschland GmbH &amp; Co Therapeutic indication Temporary improvement in the…, …",
-      "source_name": "News and press releases",
-      "source_url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-may-2026",
-      "published_at": "2026-05-22T10:50:00+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "New medicine for two types of pulmonary fibrosis",
-      "summary_de": "EMA has recommended granting a marketing authorisation in the European Union (EU) for Jascayd (nerandomilast) to treat adults with idiopathic pulmonary fibrosis (IPF) or…",
-      "source_name": "News and press releases",
-      "source_url": "https://www.ema.europa.eu/en/news/new-medicine-two-types-pulmonary-fibrosis",
-      "published_at": "2026-05-22T10:00:01+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Provisional Accident and Emergency Quality Indicators for England, March 2026, by provider",
@@ -2076,19 +1986,6 @@
       "type": "News"
     },
     {
-      "title": "Pressemitteilung: Apothekenreform macht die Versorgung teurer, aber nicht besser",
-      "summary_de": "„Die Politik war angetreten, die Apothekenversorgung mit guten Ansätzen zu reformieren. Auf den letzten Metern ist aus dem heute im Bundestag verabschiedeten Apotheken-Gesetz aber eine Mogelpackung geworden. Die Apothekenversorgung wird damit in Zukunft nur teurer, aber im Wesentlichen nicht besser\", sagt sagt Stefanie Stoff-Ahnis, stellvertretende Vorstandsvorsitzende des GKV-Spitzenverbandes zur heutigen 2./3. Lesung des Gesetzes zur Weiterentwicklung der Apothekenversorgung (ApoVWG) im …",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2269258.jsp",
-      "published_at": "2026-05-22T06:34:43+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Versorgung",
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Early erythropoiesis‐stimulating agents in preterm or low‐birthweight infants",
       "summary_de": "Early erythropoiesis‐stimulating agents in preterm or low‐birthweight infants",
       "source_name": "Cochrane Library RSS feed.",
@@ -2097,36 +1994,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "NHS App Management Information - April 2026",
-      "summary_de": "This publication provides information on the number of users and usage of the NHS App, and of features available through it. It aims to provide an open and accessible data source to give insight into how the public are using the NHS App, and how usage changes over time. Data are included for the following measures at ICB and national …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-app-statistics/april-2026",
-      "published_at": "2026-05-21T13:04:25+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "EMA closed on Whit Monday, 25 May",
-      "summary_de": "EMA’s office is closed on 25 May, to mark Whit Monday. The office reopens 08:30 on Tuesday, 26 May.The product emergency hotline is available outside working hours and on…",
-      "source_name": "News and press releases",
-      "source_url": "https://www.ema.europa.eu/en/news/ema-closed-whit-monday-25-may",
-      "published_at": "2026-05-21T12:00:00+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "African swine fever outbreaks increase in pigs and wild boar across the EU",
-      "summary_de": "In 2025, African swine fever (ASF) outbreaks increased across the European Union in both domestic pigs (+76%) and wild boar (+44%) compared to 2024, according to EFSA’s latest annual epidemiological report. The disease reemerged in Spain after 31 years without detections, raising the number of affected Member States to 14.&nbsp;",
-      "source_name": "EFSA | News",
-      "source_url": "https://www.efsa.europa.eu/en/news/african-swine-fever-outbreaks-increase-pigs-and-wild-boar-across-eu",
-      "published_at": "2026-05-21T09:00:31+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Statistics on people with a learning disability and autistic people in mental health hospitals, AT: April 2026, MHSDS: March 2026",
@@ -2229,18 +2096,6 @@
       "type": "Studie"
     },
     {
-      "title": "EU tracks progress towards 2030 clinical trial targets",
-      "summary_de": "The European Commission (EC), the Heads of Medicines Agencies (HMA) and EMA have published their first report tracking progress against the EU’s new clinical trial targets.…",
-      "source_name": "News and press releases",
-      "source_url": "https://www.ema.europa.eu/en/news/eu-tracks-progress-towards-2030-clinical-trial-targets",
-      "published_at": "2026-05-20T09:58:00+00:00",
-      "category": "Studie",
-      "tags": [
-        "Europa"
-      ],
-      "type": "Studie"
-    },
-    {
       "title": "Dose reduction and discontinuation of non‐tumor necrosis factor (TNF) biologic and targeted synthetic disease‐modifying antirheumatic drugs (DMARDs) for people with rheumatoid arthritis in remission or low disease activity",
       "summary_de": "Dose reduction and discontinuation of non‐tumor necrosis factor (TNF) biologic and targeted synthetic disease‐modifying antirheumatic drugs (DMARDs) for people with rheumatoid arthritis in remission or low disease activity",
       "source_name": "Cochrane Library RSS feed.",
@@ -2301,18 +2156,6 @@
       "type": "News"
     },
     {
-      "title": "gemeinsame Pressemitteilung: Pflegereform jetzt umsetzen: Prävention von Pflegebedürftigkeit muss bei den Versicherten ankommen",
-      "summary_de": "Mehr als 6 Millionen Menschen beziehen Leistungen aus der sozialen Pflegeversicherung. Die Anzahl der pflegebedürftigen Menschen, die Leistungen der sozialen Pflegeversicherung erhalten, hat sich seit 2015 mehr als verdoppelt.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2267072.jsp",
-      "published_at": "2026-05-19T07:37:19+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Topical immunosuppressants for blepharitis in adults",
       "summary_de": "Topical immunosuppressants for blepharitis in adults",
       "source_name": "Cochrane Library RSS feed.",
@@ -2350,18 +2193,6 @@
       "published_at": "2026-05-15T08:00:00+00:00",
       "category": "Gesundheitspolitik",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Meldung: Ein Aufschieben der Reform ist keine Option",
-      "summary_de": "„Kein Cent mehr Belastung für Patientinnen und Patienten als in der aktuellen Fassung des Gesetzes vorgesehen“, das fordert Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes im Gespräch mit der Deutschen Presse-Agentur (dpa).",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2264649.jsp",
-      "published_at": "2026-05-15T07:06:27+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
       "type": "News"
     },
     {
@@ -2445,16 +2276,6 @@
       "type": "News"
     },
     {
-      "title": "Patients Registered at a GP Practice, May 2026",
-      "summary_de": "Data for this publication are extracted each month as a snapshot in time from the Primary Care Registration database within the PDS (Personal Demographics Service) system. This release is an accurate snapshot as at 1 May 2026.Figures are reported by gender and single year of age (SYOA) and five-year age bands (up to age 95+) at GP Practice, Primary Care …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/patients-registered-at-a-gp-practice/may-2026",
-      "published_at": "2026-05-14T08:31:18+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Summary Hospital-level Mortality Indicator (SHMI) - Deaths associated with hospitalisation, England, January 2025 - December 2025",
       "summary_de": "This publication of the SHMI relates to discharges in the reporting period January 2025 - December 2025.The SHMI is the ratio between the actual number of patients who die following hospitalisation at the trust and the number that would be expected to die on the basis of average England figures, given the characteristics of the patients treated there. The SHMI …",
       "source_name": "Publication Feed",
@@ -2475,12 +2296,12 @@
       "type": "News"
     },
     {
-      "title": "Episode 40 - Science communication: Taking misinformation off the menu",
-      "summary_de": "Science is not finished until it’s communicated. From food safety scares and fake news to insects and microplastics, this episode explores why how we talk about science matters.",
-      "source_name": "EFSA | News",
-      "source_url": "https://www.efsa.europa.eu/en/podcast/episode-40-science-communication-taking-misinformation-menu",
-      "published_at": "2026-05-13T10:00:25+00:00",
-      "category": "Europa",
+      "title": "Cortisol senken: Wie du das Stresshormon ins Gleichgewicht bringst - DAK-Gesundheit",
+      "summary_de": "Cortisol senken: Wie du das Stresshormon ins Gleichgewicht bringst &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONm5lSlJHWGVEUVpvU1VFOHJ1b2I5TkJCODdFa2NIeU40WE9DVjFBcXVaZDhwdi1Ob0ppZEh6UmdVOHZ5RFAxQzZLeHlzSG56cDN1cXU0ZmYxTlB1dDRqYWdfbFp1WjNNQldEbTVZWWJoT0xScGx0QVFsczhSZnUtd3F0dVdlWWlBN0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-13T07:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2515,46 +2336,6 @@
       "type": "News"
     },
     {
-      "title": "EMA actively monitoring cruise ship Hantavirus outbreak",
-      "summary_de": "EMA is actively monitoring the ongoing hantavirus outbreak linked to a cruise ship, in coordination with other EU bodies.The virus has been identified as Andes hantavirus, the…",
-      "source_name": "News and press releases",
-      "source_url": "https://www.ema.europa.eu/en/news/ema-actively-monitoring-cruise-ship-hantavirus-outbreak",
-      "published_at": "2026-05-12T12:19:00+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "EMA business hours over Ascension Day holidays, 14 and 15 May",
-      "summary_de": "EMA's office is closed from 18:00 on 13 May 2026 until 08:30 on 18 May 2026.The product emergency hotline is available outside working hours and on public holidays. To reach…",
-      "source_name": "News and press releases",
-      "source_url": "https://www.ema.europa.eu/en/news/ema-business-hours-over-ascension-day-holidays-14-15-may",
-      "published_at": "2026-05-12T12:00:00+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Plant Health 4 Life – reinforcing simple actions that protect plants",
-      "summary_de": "The Plant Health 4 Life campaign returns for its fourth and final year, continuing a shared effort by the European Food Safety Authority (EFSA), the European Commission and 33 countries to put plant health at the heart of our everyday choices.",
-      "source_name": "EFSA | News",
-      "source_url": "https://www.efsa.europa.eu/en/news/plant-health-4-life-reinforcing-simple-actions-protect-plants",
-      "published_at": "2026-05-12T08:54:36+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "EMA welcomes political agreement on Critical Medicines Act",
-      "summary_de": "EMA welcomes the provisional agreement reached by the European Parliament and the Council of the European Union on the proposed Critical Medicines Act (CMA), which represents an…, “At a time of increasing global disruptions, resilient and secure supply chains for critical medicines are essential to protect public health across the EU. Today’s…, In recent years, EU Member States have faced …",
-      "source_name": "News and press releases",
-      "source_url": "https://www.ema.europa.eu/en/news/ema-welcomes-political-agreement-critical-medicines-act",
-      "published_at": "2026-05-12T08:16:00+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "vdek und Deutsche Gesellschaft für Physician Assistants e.V. fordern mehr Delegation in der ambulanten Versorgung",
       "summary_de": "Anlässlich des 130. Deutschen Ärztetages fordert der vdek mehr Delegation von Leistungen an qualifiziertes Fachpersonal zur Entlastung der Ärztinnen und Ärzte und zur Verbesserung der Versorgung. Zusammen mit der Deutschen Gesellschaft für Physician Assistants e.V. (DGPA) wurde ein Forderungspapier vorgelegt, das auf eine Ausweitung des Einsatzes von Physician Assistants (PAs) abzielt.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -2579,34 +2360,12 @@
       "type": "News"
     },
     {
-      "title": "Meldung: Pflegeversicherung vor ihrer größten Bewährungsprobe",
-      "summary_de": "„Die Pflegeversicherung steht vor der größten Bewährungsprobe seit ihrer Einführung vor 31 Jahren“, sagte Oliver Blatt, Vorstandsvorsitzender des GKV – Spitzverbandes, der Rheinischen Post. Die Situation sei extrem schwierig, denn die Pflegeversicherung müsse mehr Geld ausgeben als sie einnehme und bei den Eigenanteilen der Pflegeheimbewohner sei das Ende der Fahnenstange längst erreicht.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2261244.jsp",
-      "published_at": "2026-05-11T07:40:42+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Fersensporn: Ursachen, Symptome und Behandlung - DAK-Gesundheit",
       "summary_de": "Fersensporn: Ursachen, Symptome und Behandlung &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOU1XclgwUGdhTDE2SEMtOXJ0TjBod0JIbUx1SFotdi1pUWtXeWF6OVBjU2FGOWhZbWRJbUYxdnFHOXdsMEtfT045R3ZyeWN2QmVaYjhvSHZoXy1FeHdMRDJOVDNxYXdHN2NnQnk1aDVCNHNXaHFEelBWWWZtcjdXZmZUQWVOYmZYTjU2UzdGWjgyVzlMMXY2YnlXWTVnRnRWbk9HdmJ0dmM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-08T17:35:51+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 4-7 May 2026",
-      "summary_de": "At its monthly meeting, EMA’s safety committee (PRAC) carried out its broad range of responsibilities, which cover all aspects of the risk management of the use of medicines:…, Agenda Agenda of the PRAC meeting 4-7 May 2026Draft Reference Number: EMA/PRAC/89531/2026 Corr…, PRAC statistics: May 2026 , PRAC statistics: May 2026 English (EN) (104.16 KB - PDF)First published: 08/05/2026 View , …",
-      "source_name": "News and press releases",
-      "source_url": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-4-7-may-2026",
-      "published_at": "2026-05-08T10:00:00+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -2628,18 +2387,6 @@
       "published_at": "2026-05-07T08:31:00+00:00",
       "category": "Europa",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Meldung: Unwucht im Reformpaket",
-      "summary_de": "Trotz eines zunehmend skeptischen Blicks auf das GKV-Beitragssatzstabilisierungsgesetzes sagte Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes im Gespräch mit der Presseagentur Gesundheit für dessen Publikation OPG: „Zunächst bin ich sehr froh, dass eine umfassende Reform auf dem Tisch liegt, die viele wichtige und richtige Punkte angeht. Aber ich bin tatsächlich mit zunehmender Zeit immer skeptischer geworden.\"",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2257212.jsp",
-      "published_at": "2026-05-06T07:07:16+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
       "type": "News"
     },
     {
@@ -2683,45 +2430,11 @@
       "type": "News"
     },
     {
-      "title": "Pesticide residues in food: latest data released",
-      "summary_de": "Compliance with EU limits for pesticide residues remains high, according to EFSA, based on the results of over 125,000 food samples collected across Europe. EFSA’s latest report, in line with previous years, confirms that the risk to human health from pesticide residues in food remains low. EFSA’s report analyses data from three control programmes: EU-coordinated sampling providing a representative picture …",
-      "source_name": "EFSA | News",
-      "source_url": "https://www.efsa.europa.eu/en/news/pesticide-residues-food-latest-data-released",
-      "published_at": "2026-05-05T09:00:58+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Pressemitteilung: Starker Anstieg Pflegebedürftigkeit - Zugang zur Pflege in den Blick nehmen",
-      "summary_de": "Das 2017 neu eingeführte Begutachtungsinstrument zur Feststellung der Pflegebedürftigkeit hat sich zwar bewährt, aber gleichzeitig zu starken Verschiebungen im Zugang zu Pflegeleistungen geführt. Das ist das zentrale Ergebnis einer Studie des IGES-Instituts, welche der GKV-Spitzenverband gemäß seinem gesetzlichen Auftrag in Auftrag gegeben hatte.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2256256.jsp",
-      "published_at": "2026-05-05T06:08:48+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Studie",
-        "Versorgung",
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "[MI] Learning Disabilities Health Check Scheme, England March 2026",
       "summary_de": "The learning disabilities health check scheme is designed to encourage practices to identify all patients aged 14 and over with learning disabilities, to maintain a learning disabilities 'health check' register and offer them an annual health check, which will include producing a health action plan.The learning disabilities health check scheme is one of a number of GP enhanced services. Enhanced …",
       "source_name": "Publication Feed",
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/learning-disabilities-health-check-scheme/england-march-2026",
       "published_at": "2026-04-30T12:52:07+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "EU agencies highlight the role of research in effective policy-making",
-      "summary_de": "The European Union Agencies Network on Scientific Advice (EU‑ANSA) has reaffirmed the central role of EU agencies in supporting research and translating scientific knowledge into evidence‑based policy‑making, through a joint statement signed by Chief Scientists or highest‑ranking scientific officers from across the network, including EFSA. Drawing on experience from recent crises such as COVID‑19, EU‑ANSA highlights how EU agencies contribute …",
-      "source_name": "EFSA | News",
-      "source_url": "https://www.efsa.europa.eu/en/news/eu-agencies-highlight-role-research-effective-policy-making",
-      "published_at": "2026-04-30T11:14:43+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
@@ -2787,18 +2500,6 @@
       "type": "News"
     },
     {
-      "title": "Pressemitteilung: Bundesregierung will Zahlungen für versicherungsfremde Leistungen kürzen",
-      "summary_de": "„Der gute Ansatz für die anstehende GKV-Finanzierungsreform ist in eine ernsthafte Schieflage geraten. Versicherte und Arbeitgebende werden zusätzlich belastet, insbesondere die Pharmaindustrie wird mit dem nun vorgelegten Entwurf nochmals weniger gefordert und der Bund spart auf Kosten der GKV-Beitragszahlenden\", erklärt Oliber Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes mit Blick auf den heute vom Bundeskabinett beschlossenen Entwurf des GKV-Beitragssatzstabilisierungsgesetzes.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2253504.jsp",
-      "published_at": "2026-04-29T09:32:37+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "[MI] GP Contract Services - England, 2025-26",
       "summary_de": "The GP Contract Services publication provides data relating to the delivery of primary care services across England, agreed within the GP contract(s) between NHS England and the British Medical Association's (BMA) General Practitioners Committee (GPC). These data are primarily used for payment and management information purposes as well as for wider usage to help support commissioning, planning and policy decisions. …",
       "source_name": "Publication Feed",
@@ -2806,18 +2507,6 @@
       "published_at": "2026-04-29T07:46:12+00:00",
       "category": "Europa",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Meldung: Wir trauen dem Braten erst, wenn das Geld da ist!",
-      "summary_de": "„Wenn die Krankenkassenbeiträge stabil blieben, dann wäre schon viel gewonnen“, so Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, im Gespräch mit der WELT. „Wenn wir jetzt allen etwas abverlangen, dann ist es vielleicht perspektivisch auch möglich, über sinkende Beitragssätze zu sprechen“, so Blatt mit Blick auf die heute im Kabinett befindliche GKV-Finanzreform.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2253499.jsp",
-      "published_at": "2026-04-29T07:11:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
       "type": "News"
     },
     {
@@ -2831,47 +2520,12 @@
       "type": "News"
     },
     {
-      "title": "Meldung: Zahlungen für versicherungsfremde Leistungen sollen gekürzt werden",
-      "summary_de": "„Wir begrüßen, dass es nun rasch zu der Finanzierungsreform kommen soll, allerdings bereiten uns die jüngsten Entwicklungen Sorge\", erklärt Oliver Blatt mit Blick auf die nun bekanntgewordenen Pläne zu dem GKV-Beitragssatzstabilisierungsgesetz.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2252992.jsp",
-      "published_at": "2026-04-28T13:13:35+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Network Contract DES (MI) - March 2026",
       "summary_de": "A framework for GP contract reform to implement The NHS Long Term Plan published in January 2019 which describes significant investment in Primary Care Networks (PCNs) through the Network Contract Directed Enhanced Service (DES). The seventh year of the Network Contract DES began in April 2025. The data provides information to allow effective management of the contract. The indicators are …",
       "source_name": "Publication Feed",
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-network-contract-des/england-march-2026",
       "published_at": "2026-04-28T12:22:38+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Meldung: Gutachten bestätigt Rechtswidrigkeit bei Finanzierung der gesundheitlichen Versorgung von Bürgergeldbeziehenden",
-      "summary_de": "Der Staat als Träger der Fürsorge hat die Krankenkassen damit beauftragt, die gesundheitliche Versorgung der Bürgergeldbeziehenden zu übernehmen. Die gesetzlichen Krankenkassen haben diese Aufgabe entsprechend übernommen. Aber statt für diese Leistung voll zu bezahlen, lässt der für die Finanzierung zuständige Bund die Krankenkassen auf rund zwei Dritteln der Kosten sitzen.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2251648.jsp",
-      "published_at": "2026-04-27T08:48:26+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Versorgung",
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
-      "title": "Lauter Knall in Radiologie in Gelsenkirchen: Das steckt hinter dem „MRT-Quench“ - WAZ | Westdeutsche Allgemeine Zeitung",
-      "summary_de": "Lauter Knall in Radiologie in Gelsenkirchen: Das steckt hinter dem „MRT-Quench“ &nbsp;&nbsp; WAZ | Westdeutsche Allgemeine Zeitung",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMVlmMUtabWdGaFRLdkdIZ1FXcFpKOU9IZkZpT2RGNlMzODRNQ1RlaDJ4RzlFX0NMb21xZk16WC0wMHVZamViVnJIRUJLbWdBR2JfbUM1alhQMzdkWFNDaDlfZEx3YzcxUXlHWEZTS0J1QkRKTEJQbElxQVlRTVZYaVhoOGE4c2kyQkVCNl9aYUFsa3ViMmNpNnI4S0lxT3BqTUwtdEw5Mno0WEpaZHlfX1JrczNDU3h5Slc5bVl6bDAzMFd5Y2xrcHZ4SUdVbXNZOUFrUHdn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-27T07:00:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     }
