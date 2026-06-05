@@ -1,14 +1,248 @@
 {
-  "generated_at": "2026-06-05T07:01:16.729577+00:00",
+  "generated_at": "2026-06-05T11:56:29.611821+00:00",
   "window_days": 42,
-  "count": 260,
+  "count": 284,
   "items": [
     {
+      "title": "Decision: Medical devices given exceptional use authorisations",
+      "summary_de": "List of manufacturers and their medical devices granted an exemption by MHRA. The list also includes manufacturers whose exemption expired or was cancelled.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations",
+      "published_at": "2026-06-05T11:23:15+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Versorgungskrise: Engpässe bei Arzneimitteln im Iran nehmen zu",
+      "summary_de": "Laut eines Berichts der Deutschen Welle wird die Situation im Iran immer angespannter, was den Zugang zu Medikamenten und medizinischer Versorgung betrifft. Dortige Apotheken melden leere Regale.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/engpaesse-bei-arzneimitteln-im-iran-nehmen-zu-165812/",
+      "published_at": "2026-06-05T11:00:00+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Organspende: vdek unterstützt Entscheidungsfindung mit aktualisiertem FAQ-Katalog",
+      "summary_de": "Am 6. Juni 2026 ist Tag der Organspende. Aus diesem Anlass hat der vdek seinen umfangreichen FAQ-Katalog zum Thema Organspende aktualisiert. Die FAQ klären beispielsweise darüber auf, welche Organe gespendet werden können, ob es eine Altersgrenze gibt, wer die Kosten übernimmt und über vieles mehr.",
+      "source_name": "vdek - Verband der Ersatzkassen e. V.",
+      "source_url": "https://www.vdek.com/presse/pressemitteilungen/2026/tag-der-organspende-faq-katalog.html?pk_campaign=rss",
+      "published_at": "2026-06-05T11:00:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Praxen, Kliniken, Arzneimittel - Ärzte warnen vor „Rasenmäher“ im Gesundheitssystem - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Praxen, Kliniken, Arzneimittel - Ärzte warnen vor „Rasenmäher“ im Gesundheitssystem - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNX1VhWmY2UUxsUF9ZWXJ0VVdISjlKVjhkUENwVHZGWDJLNEJ1ZFJfRW5ZT1l4ZG9ka1l3Y3FsWWpyLTNvcEtzVk1CRGVFQlJaUlREUkUwODczWmtHTzM5YnoycWs4ZkRvSVBQY08tTWlOYThWVUpnV2x4a2JqNnFaOG9Cc3YwX1hhamYtaVNGdTlGQUFsVnZBbzBQR1pLejN1NTgwTy1SVkxZUHlnTFVnVllNSW9KbDV0eVVJOFNQbENnUFhkdWpFb0diQ0J6WHRZQVd0S0FuV2h4dDAxZ1pVYVBvWk11ZVFUMzN1bHJpNUU5MWIxa0p1Wllfb3g?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-05T10:50:55+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Reformdebatte - Pflegereform: Laumann pocht auf faire Löhne - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Reformdebatte - Pflegereform: Laumann pocht auf faire Löhne - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNk1JTkNWVnRMVmZtRkwtWk5ocWl3X1Zhc2prUkl3cUpnWWxZUGVLZEZUT3N1X3NIMFFiMjczWjFmczgtNDlnQjhkcUJDcWhjT0dwXzA2clItMjBSWFJ1bndQb1BqeVYtOUhyaGswOXNvSWxtZTZibUE0X0s3Q1VEclNGODRCT0x1TE5YWkFMVDFDMXhfSVgzY1NXRnpFc1hwSEV3MnhYTGdUNTNwUlNsMjB1YXR0cDJkTl83Q1o3N2wzVXUtZ3Mxakg0R3UxVXkwNTRMSGhhX1Y4TTFpT0ow?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-05T10:43:15+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "„Zukunftspakt Pflege“ - Niedersachsen: Pflegereform droht zur Armutsfalle zu werden - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "„Zukunftspakt Pflege“ - Niedersachsen: Pflegereform droht zur Armutsfalle zu werden - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOakpyY3RRUm5DZHVrNUFrcHJTOWVzX2FyTWpqSkZMazQ0MGlDZ2JpRFo4cVo1cjBSV3VzS3V4Skw5S1c2eE1wYjNZTXc1S1RnTmtYUXRiVXJSMUg5dVVrRmVNSVNkMjYzNG9kOE0zS0dySjh6anFzNWhEZ2tTOG9aQVhURVZSdTF5c01FQUppZ3V6TWVNbzhBajJ1d1dxNTB4aFlQdTNMLWhrU2VEaEJ2ZDlLS18xRjRTSXc5Q2JLNVduNTRrMkh0a3FwY2NsTVR5VTdRZUtPbm5XVjF3S0xvaFBnajdzVERua0d6aWpqU0VzY0pubE1vT0tsSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-05T10:36:48+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Bundesdrogenbeauftragter: Streeck will Cannabis-Modellprojekte",
+      "summary_de": "Gegen&uuml;ber dem Redaktionsnetzwerk Deutschland (RND) hat sich der Drogenbeauftragte der Bundesregierung,&nbsp;Hendrik Streeck (CDU), f&uuml;r den legalen Verkauf von Cannabis in Modellprojekten ausgesprochen. Dabei k&ouml;nnten auch die Apotheken zu Verkaufsst&auml;tten werden.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/streeck-will-cannabis-modellprojekte-165821/",
+      "published_at": "2026-06-05T10:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pilotprojekt in Portugal: Apotheken bieten HIV- und Hepatitis-Screening an",
+      "summary_de": "In der Metropolregion Lissabon bieten Apotheken seit April diesen Jahres ein Screening auf HIV, Hepatitis B und C verbunden mit einer Beratung an. Infektionen sollen so schneller erkannt und behandelt werden.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/apotheken-bieten-hiv-und-hepatitis-screening-an-165823/",
+      "published_at": "2026-06-05T10:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pflege - Städtetag schockiert: Pflegereform belastet Kommunen massiv - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Pflege - Städtetag schockiert: Pflegereform belastet Kommunen massiv - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVndLOFJrZ1JPOEpZY2JaaU1Fc3ZpWUlvbVBOekNaaXNxeG9UOUZCd29nRmFnUWJNZENzSVQzSUNzdjZVN0JPZ1NfaXFpSjhhakdBOWd2NjNBeVRiZjR5SU1NV290NnM0M18yVEVxWjBzSDVmam1wVnZTcjY1cmIzVnoyMmdRM2VkazZ4TUlQV1p6bGdJV0dfYVN2VUNHcWhxUWhOQjVIN25XYl93YXRyU1lXMF9iRjc4SnBBWEZCTkR1QUtSZjhtY2ZEWXBCdjV1dGtzVEZWUWVIbV91a2U3R1J4S1hEMTB6RHRn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-05T09:48:36+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "World Food Safety Day 2026: EFSA advancing safer food through science",
+      "summary_de": "Every year, unsafe food causes illness, long-term health problems and economic harm for millions of people worldwide. World Health Organization estimates that contaminated food causes 866 million illnesses and 1.52 million deaths annually, affecting nearly one in nine people globally.&nbsp;For World Food Safety Day on 7 June 2026, EFSA is reaffirming its commitment to turning scientific evidence into safer food …",
+      "source_name": "EFSA | News",
+      "source_url": "https://www.efsa.europa.eu/en/news/world-food-safety-day-2026-efsa-advancing-safer-food-through-science",
+      "published_at": "2026-06-05T09:45:05+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pandemie-Forschung - Forscher: Corona-Folgen reichen weit über Medizin hinaus - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Pandemie-Forschung - Forscher: Corona-Folgen reichen weit über Medizin hinaus - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONmQxTHpwdFNhRmFTYUtGREdwNUFZN3A4TDcxZENleWpzdmJ2cWk2VFlzM2gtU0xEUDRkUmdNSVdUVnJFcGI2V2lRRHNZb0lkcFJDUnM5cEFYQzliYkJIZl9EWGRha3hpUG45d0Y3bGE1NHBiSmhRUnNCZkFLLTZlZnFTa083eFk1YVRHTmJHaEpOamFweE1VRWplRFBnYzJaUWk2NTJkMEp5VUJFUHdFSm9wMUoyclVhWURKdm81YzhTV3RSWDJvS0V2T3ZnZkgyLWI1Q1ZYT1pQRUZMUXFpWmpmWDJkNjhrSDVfOEV1VWZTQWNSZG9z?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-05T09:37:40+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pandemie-Forschung: Forscher: Corona-Folgen reichen weit über Medizin hinaus - DIE ZEIT",
+      "summary_de": "Pandemie-Forschung: Forscher: Corona-Folgen reichen weit über Medizin hinaus &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVjVFS2pTeDZhVDdIRVBBTUVYY1Ntc2h0OTI1eTNPb3hqY2hOakhHdmJzNkNEVXBZZkxpRnV6VjZWT3VJZUItbDhJOW9RZjhHbkpYZDJ3VjJTMUdGLVZuY3o1bFk2Qnljd05lb1lzWDJZSWZqNlc0SlNrRXIyQklxWjJmUmlNWjdyeFc2V2p1dWdxNnhFR1Y0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-05T09:37:40+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheitskosten - Czyborra: Pflegereform würde Land Berlin Millionen kosten - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Gesundheitskosten - Czyborra: Pflegereform würde Land Berlin Millionen kosten - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMFh4YWdnWVRSbF92d0pNUy1MbFRxUUNQSTFZUHNQNmxnMFB0U05UQkxzODVrRkhLSFhObzZVZjFOZjBCOFNzZ3A3Y2lzQUlnaTVZNkczODF0bFh4c005b0ktd2RDZTNZRnh4Mkx2VWltNUFySWFUY1dOcG9xdXFXcmFJMkVhaElEeVFSczRmY0F5a3hOdjV6b2ZyUHNZUVRTODFBeWwzU205OUZWYmg1aGlYeEc3ZjhPWnlBdTAyZXVHdEtueXpDOGNXLXNUcmRvYjRmZEhUV25nbk8taWRJT3Q3ekp6a3dzZG1vRE9MYmJHZXAyMDVZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-05T09:03:52+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Schwererer Zugang, höhere Kosten : Scharfe Kritik an Warkens Pflegereform",
+      "summary_de": "F&uuml;r die Pflegeversicherung liegt jetzt ein Sanierungskonzept vor, das eine Reihe von Mehrbelastungen bei Pflegebed&uuml;rftigen, Angeh&ouml;rigen, Beitragszahlenden und Kommunen vorsieht. Gleichzeitig verweigert der Bund die Finanzierung versicherungsfremder Leistungen. Die Welle der Proteste rei&szlig;t nicht ab.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/scharfe-kritik-an-warkens-pflegereform-165818/",
+      "published_at": "2026-06-05T09:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Infektionskrankheiten - Mehr Magen-Darm-Infekte in Schleswig-Holstein - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Infektionskrankheiten - Mehr Magen-Darm-Infekte in Schleswig-Holstein - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQb3VGYTRMOHpmdlFQMXZLMzZ0UkpncjlUZTZPY2xmXy1UVU5hck9ERUtsTFdoM28xWlRCTHRmRE1obmJaZmU5NlVyNENNa3I4NFVWcXJYMTRPcGl6UGg5V2RGTEE3bHllMVB6b2E2MmNIbXdxMVVONlItM29YYzc0UVMzdzlNR2xROW1SYXNZLUd5emVobnViNWRfLWRaZzdQUnFMZWNZR2JNalFnYWRwU3p2RXFXbXRjZXVFRlBXM2pTSDlvM0NuOFgyZE4zdF9LVWFtVFQyTnBxVEhMdkNaM0xkUDJONWN0M1RBaQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-05T08:49:45+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Schuppenflechte: Biologika oft schon bei halber Dosis wirksam",
+      "summary_de": "Weniger Injektionen, weniger Kosten &ndash; einer neuen Studie zufolge kommen stabil eingestellte Psoriasis-Patienten auch mit deutlich niedrigeren Dosen bestimmter Biologika aus. Das sollte man jedoch mit seinem Arzt besprechen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/biologika-oft-schon-bei-halber-dosis-wirksam-165785/",
+      "published_at": "2026-06-05T08:30:00+00:00",
+      "category": "Studie",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "Studie"
+    },
+    {
       "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Endemeldung Arzneimittel: Sertralin-neuraxpharm 200 mg Filmtabletten pU: neuraxpharm Arzneimittel GmbH",
+      "summary_de": "Typ: Endemeldung Arzneimittel: EREMFAT 450 mg pU: Riemser Pharma GmbH",
       "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
       "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-06-05T05:53:58+00:00",
+      "published_at": "2026-06-05T08:18:25+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Kopfhörer: Von welchen Modellen HNO-Ärzte abraten",
+      "summary_de": "Musik an, Welt aus! Wer viel Zeit mit Kopfh&ouml;rern verbringt, f&ouml;rdert ein feuchtwarmes Klima im Geh&ouml;rgang. Warum das zum Problem werden kann - und wie man sich vor Entz&uuml;ndungen dort sch&uuml;tzt.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/von-welchen-modellen-hno-aerzte-abraten-165817/",
+      "published_at": "2026-06-05T08:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit: Über 200 Menschen warten auf lebenswichtiges Spenderorgan - DIE ZEIT",
+      "summary_de": "Gesundheit: Über 200 Menschen warten auf lebenswichtiges Spenderorgan &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjgwc1RCVnZPaGZ0czZ0Zkk1VTVzSlp0U0xBaUpScFVSdVd1cVpFMV9iam5sVUl6TVE3ZHB3Q0hneEdSSzl4cTlhdjBpU1liN0pOT1RoWkk0eWhtVGhUMnpRUVMxdEdFaW9IN0ctN1R6Smh4U204by14T3FXeV8zRGQyOTNySkR3b1VmTURxVTRXT1RjSXliU0FB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-05T07:59:53+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit - Über 200 Menschen warten auf lebenswichtiges Spenderorgan - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Gesundheit - Über 200 Menschen warten auf lebenswichtiges Spenderorgan - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSWw2OW03blNacUZGalY3T3AtemdRQ3Q4Q0IyVndad2VNU0p2M3pSUFVnQXAwdlFfeFFKVDJPTWZKU014SUE0Q2RncjNXSUYySl9EZnZadEpSVWU3anlGdF83cG1ndzR2bFdLYi12cnEwd1NGcDFtcHhMODdpMmN1SWlJRHJXVzdkWnREZzlnV21aSk82MGJsQnJKVmh1Z1kwVFFRQk1ndVJrNW13QWRCcW9pc1hiNGh2d3hJZHd6UkVWc0RkUzFneE9jWXZ6LVgxbmR5ZTRuMjhkUVV3ZmlUOC1hRjBRSFNBQWxxbF80NA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-05T07:59:53+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Expopharm: Noventi und Sanacorp vereint",
+      "summary_de": "Unter dem Motto &raquo;Von Apothekern f&uuml;r Apotheker&laquo; b&uuml;ndeln der Apothekendienstleister Noventi und der Gro&szlig;h&auml;ndler Sanacorp ihre Kr&auml;fte und planen einen gemeinsamen Auftritt auf der Expopharm, die vom 15. bis 17. September in M&uuml;nchen stattfindet.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/noventi-und-sanacorp-vereint-165816/",
+      "published_at": "2026-06-05T07:20:09+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Titelthema Krebs und Schwangerschaft: Die neue Ausgabe der PZ jetzt als E-Paper lesen",
+      "summary_de": "Die Pharmazeutische Zeitung gibt es auch als vollwertiges E-Paper: unkompliziert, immer pünktlich und im Rahmen des Print-Abonnements enthalten. Die neue Ausgabe ist heute erschienen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-neue-ausgabe-der-pz-jetzt-als-e-paper-lesen-165815/",
+      "published_at": "2026-06-05T07:10:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Apotheker im Stress: Burn-out entsteht durch Systemfehler",
+      "summary_de": "Weltweit stehen Apotheken unter Druck &ndash; das gef&auml;hrdet nicht nur die Teams, sondern auch die Patientensicherheit. Fachleute warnen im FIP-Webinar: Burn-out entsteht nicht durch individuelle Schw&auml;che, sondern durch Systemfehler.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/burn-out-entsteht-durch-systemfehler-165723/",
+      "published_at": "2026-06-05T07:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Organspende: Gerlach befürwortet Widerspruchslösung",
+      "summary_de": "Organspenden k&ouml;nnen das Leben Schwerkranker verl&auml;ngern. Doch seit Jahren sind die Wartelisten weit l&auml;nger als die Zahl der zur Verf&uuml;gung stehenden Spenderorgane.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/gerlach-befuerwortet-widerspruchsloesung-165814/",
+      "published_at": "2026-06-05T06:55:08+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
@@ -29,16 +263,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZWFDU0VGbXpTU2xJX3FaLVF2RUY2N3ZsX2wyRWs1eDUtRjBaOG1nQ3ZLZU82RnBpcHN0eldLV3VVbFFMV1paemZrNXAzQzZFaFFXVVhDOWVoZzFSejVYZ2NrX0hrdlppbE5UTW8zbU9RVnBySFA4NXlGZW5PWTh3SlhnVWxPU3NTUnItcUlsNmV3MGVwZjM3eVp5OVVjQjlfanVlQUhyb1R3bW1zQVpzV0s4dUc5NXV3UmxqamF4ZVdnazVkdmdZT2lNYjZVVzA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-05T04:22:40+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Droht die Klinik-Insolvenz? Der Rat dieser Stadt trifft Millionen-Entscheidung - tagesschau.de",
-      "summary_de": "Droht die Klinik-Insolvenz? Der Rat dieser Stadt trifft Millionen-Entscheidung &nbsp;&nbsp; tagesschau.de",
-      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOVpNcDlNOFk3OGZIdGFCMDA0dlBSUnNvY3QzYnAycjUyby1keW9Ma3htUGRLemx4Z1lEclgtQUUtYVlwMHZlWTJtREdxMXAtQUZkS29jbFRzcTc2Vk1XUERTMUdTdVJGQlU4R01PV3FJem1HTEdlU0hFc3JrdjFXZEw1dGZ0aHZNSUxhc0pNamlCanE0QmRZUGhSLV96ME9CMklIU1BvNTM2Y05QVldPeGhUa25LdHpaX19XN0hoeGhTaExXcGxHTXlBNHRZVU0xNWZlOG5rMXo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-05T04:19:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -306,6 +530,16 @@
       "type": "News"
     },
     {
+      "title": "(S+) Gesundheit: Immer erst zum Hausarzt – was das für Kassenpatienten bedeutet - Spiegel",
+      "summary_de": "(S+) Gesundheit: Immer erst zum Hausarzt – was das für Kassenpatienten bedeutet &nbsp;&nbsp; Spiegel",
+      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUWp3Rko0aS1LX25YeE04UnZ1alg2eG9RTUhHLTFyQXlWSFkyR2xoOXZ2emtsS3FsS29rNkVhZHJSZVFoYzB4UEFYclo1NmhFWTBpV1BGLTN6RmVGWVFDRXVXS0lKU0VoYWMwWUpBR0gwOGNRR0NoeTJNR2Q3TnlWNHN4M1BaNE1LVDNsV3RzZXlsdVFyS1JBNWlydXJLWkVDVmIycE01a3JkcDJFc0VORnZVSTlfY0lpOWc2X3hkZ0hpa2IxeWxVWENDcW9SYl9QZGtiX0ROQXBHTG5EX2RKdFlUNERwamVaYkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-04T11:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Neue Dienstleistungen: »Jetzt müssen wir ran«",
       "summary_de": "Dank des gerade verabschiedeten ApoVWG d&uuml;rfen Apotheken k&uuml;nftig doppelt so viele pDL anbieten wie bisher. Beim Pharmacon in Meran appellierten Standesvertreter an die Kolleginnen und Kollegen, diese M&ouml;glichkeit zu nutzen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -366,6 +600,19 @@
       "type": "News"
     },
     {
+      "title": "Pressemitteilung: Pflegeneuordnungsgesetz dringend notwendig, aber viel zu unausgewogen",
+      "summary_de": "Zu dem nun vorliegenden Entwurf eines Pflegeneuordnungsgesetzes erklärt Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes: „Der Finanzdruck in der Pflege ist enorm und deshalb ist es gut, dass nun der Entwurf einer Pflegereform auf dem Tisch liegt. Bei der Pflege brennt die Hütte und der vorgelegte Entwurf enthält einige Instrumente, mit denen das Löschen beginnen kann.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2274574.jsp",
+      "published_at": "2026-06-04T08:32:49+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "Nach Boehringer Ingelheim : Auch Eli Lilly streicht Investitionen in Deutschland",
       "summary_de": "Nach Boehringer Ingelheim sind es mit Eli Lilly zwei Pharmakonzerne, die ihre Investitionen in Deutschland deutlich zur&uuml;ckziehen. Die Landesregierung reagiert prompt.&nbsp;",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -406,6 +653,16 @@
       "type": "News"
     },
     {
+      "title": "TK Boarding: Status Ihres Mitgliedschaftsantrags nachverfolgen - Techniker Krankenkasse",
+      "summary_de": "TK Boarding: Status Ihres Mitgliedschaftsantrags nachverfolgen &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HQ2tNX0JkVjhXUmhPU0t2QmlKSUpwekFxWnRnOWxWVUR0Y3JVMUVBZ3FNSGx1V2RvR3lrZkU0ZXljNHpZY25tdXRXZ24wS2dJUkNSWGc1aURaZzUyWnZDb1p3RzNPSEF5R3NIcQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-04T08:26:11+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Reformplan für die Pflege – mit Mehrbelastungen - FAZ",
       "summary_de": "Reformplan für die Pflege – mit Mehrbelastungen &nbsp;&nbsp; FAZ",
       "source_name": "\"site:faz.net medizin\" - Google News",
@@ -413,6 +670,28 @@
       "published_at": "2026-06-04T08:18:25+00:00",
       "category": "Versorgung",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Kontakt - Techniker Krankenkasse",
+      "summary_de": "Kontakt &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43Snd6dm1TX1B4Q3dsb0VZTFpTbUtVZzN0MVhLanVrVmtBcnJINnNtbHpKNEI5M2tMUm9VNmhlc3VuUTF4V3NNSGl2YTkyeWNDZGRTYUdTRzBHNlF6d2R6WHpzQUgxQU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-04T08:11:30+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Meldung: Dynamischer Herstellerabschlag ist Sicherheitsnetz gegen höhere Beiträge",
+      "summary_de": "Mit Blick auf die hohen Arzneimittelkosten dürften Einsparungen bei der Pharmaindustrie nicht zu gering ausfallen, warnt Stefanie Stoff-Ahnis, stellvertretende Vorstandsvorsitzende des GKV-Spitzenverbandes, in der Rheinischen Post. „Arzneimittel sind nach den Krankenhäusern der zweitgrößte Kostenblock in der gesetzlichen Krankenversicherung und die Pharmaindustrie verdient daran blendend.“",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2274573.jsp",
+      "published_at": "2026-06-04T08:01:39+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -456,16 +735,6 @@
       "type": "News"
     },
     {
-      "title": "Tovorafenib: Neuer Wirkstoff bei kindlichen Hirntumoren",
-      "summary_de": "Mit Tovorafenib ist seit Mai erstmals eine zugelassene zielgerichtete Therapie zur Behandlung von bestimmten Hirntumoren bei Kindern verf&uuml;gbar.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/neuer-wirkstoff-bei-kindlichen-hirntumoren-165437/",
-      "published_at": "2026-06-04T05:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Ischaemic conditioning to improve patient and organ outcomes after kidney transplantation",
       "summary_de": "Ischaemic conditioning to improve patient and organ outcomes after kidney transplantation",
       "source_name": "Cochrane Library RSS feed.",
@@ -494,16 +763,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Unfallfragebogen: Warum soll ich Angaben zu meiner Verletzung machen? - Techniker Krankenkasse",
-      "summary_de": "Unfallfragebogen: Warum soll ich Angaben zu meiner Verletzung machen? &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdU04cGlsTG9wS3htVVVHTzNRWmdFZ0dpbHFERlZiMVhnSDJhZnlYOFNLZ3hZbFVJOENTVmpKcDNNT2NzWVFwTFNDdFBwRlFJazBuY1k1bmY1Z0p4eXIxYk5mM21ncTRfMURnazdlVWZPOTE2ak1RYWJ6dFg0dzJuam1xZ1dPOUl5NFFyZnFVdllTemxROGlsQ2FLM3VkOW5oMUNndWNrcjZ0R29JZWZPbW1qQ0lIbDJxRmJBV3RZa1Y4bXFPQ2JOQXcwdmh3UVpsWGtqb2FwamdheUxCMDM3Q3JhRTFlajZJZGZncldCRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-03T18:37:57+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Krankheiten - WHO-Chef: „Wir hinken im Kampf gegen Ebola hinterher“ - Gesundheit - SZ.de - SZ.de",
@@ -538,7 +797,7 @@
     {
       "title": "Pharma-Großkonzerne Lilly und Boehringer stoppen Investitionen - tagesschau.de",
       "summary_de": "Pharma-Großkonzerne Lilly und Boehringer stoppen Investitionen &nbsp;&nbsp; tagesschau.de",
-      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
+      "source_name": "\"site:tagesschau.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdGtaOEVYVURyZnNURld1YkE0SmVWV1RrcTEwQnlmUWt1OEtHMjBYQnFKYnR0cjBJeTh5SkJDVXBwdVYzaDUzRnoxZ1JhZU9pNnREUWVmTWJUd1JXdFY0eGZLbHM0Tk1MUzFFRWgwcWM0Nk1zZ1BBT2VPcXV0M1liSjdlREVIM0hsN09qUWt1YmJVdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-03T17:01:00+00:00",
       "category": "News",
@@ -554,16 +813,6 @@
       "category": "News",
       "tags": [],
       "type": "News"
-    },
-    {
-      "title": "Studie: Milliardenpotenzial bei Ende der Frührente",
-      "summary_de": "Die Regierung steht vor Entscheidungen über ein Reformpaket auch mit dem Thema Rente. Laut einer Studie würden Milliardensummen gespart bei einem Aus für die abschlagsfreie Frührente.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/milliardenpotenzial-bei-ende-der-fruehrente-165766/",
-      "published_at": "2026-06-03T15:30:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
     },
     {
       "title": "Resmetirom (Rezdiffra) authorised to treat metabolic dysfunction-associated steatohepatitis (MASH) in adults",
@@ -586,58 +835,6 @@
       "type": "News"
     },
     {
-      "title": "Therapie der CED: »Die Entwicklung ist hochdynamisch«",
-      "summary_de": "Die Therapie chronisch-entzündlicher Darmerkrankungen hat sich in den vergangenen Jahren gewandelt. Welche Substanzen aktuell eingesetzt werden und worauf bei ihrer Anwendung zu achten ist.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/die-entwicklung-ist-hochdynamisch-165767/",
-      "published_at": "2026-06-03T15:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "PZ Briefing: Die Top-News vom 3.6.2026",
-      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-362026-165768/",
-      "published_at": "2026-06-03T14:45:08+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Nachhaltige Chemikalien: EU beschleunigt Ausstieg aus Tierversuchen",
-      "summary_de": "Die Europ&auml;ische Kommission hat einen Fahrplan f&uuml;r den schrittweisen Ausstieg aus Tierversuchen bei der Bewertung der Chemikaliensicherheit vorgelegt. Die Kommission will unverz&uuml;glich mit der Umsetzung des Fahrplans beginnen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/eu-beschleunigt-ausstieg-aus-tierversuchen-165765/",
-      "published_at": "2026-06-03T14:20:00+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Neue Protestkampagne : Hausärzte fordern Änderungen am GKV-Spargesetz",
-      "summary_de": "Der Haus&auml;rztinnen- und Haus&auml;rzteverband sieht in dem geplanten GKV-Spargesetz die &raquo;gr&ouml;&szlig;te politische Bedrohung f&uuml;r die haus&auml;rztliche Versorgung der letzten zwei Jahrzehnte&laquo;. Der Verband hat daher am heutigen Mittwoch eine gro&szlig;e Protestkampagne vorgestellt.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/hausaerzte-fordern-aenderungen-am-gkv-spargesetz-165763/",
-      "published_at": "2026-06-03T14:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Versorgung"
-      ],
-      "type": "News"
-    },
-    {
-      "title": "Schwierige Bedingungen in Deutschland : Boehringer Ingelheim zieht Investitionen zurück",
-      "summary_de": "900 Millionen Euro, die eigentlich f&uuml;r hiesige Standorte von Boehringer Ingelheim vorgesehen waren, werden nun in anderen Weltregionen investiert. Der Konzern macht daf&uuml;r unter anderem die Sparpl&auml;ne der Bundesregierung und Druck aus den USA verantwortlich.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/boehringer-ingelheim-zieht-investitionen-zurueck-165764/",
-      "published_at": "2026-06-03T13:55:08+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Pläne auf Bundesebene - Krankenhaus-Allianz warnt vor Folgen geplanter Kürzungen - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Pläne auf Bundesebene - Krankenhaus-Allianz warnt vor Folgen geplanter Kürzungen - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -648,42 +845,12 @@
       "type": "News"
     },
     {
-      "title": "Assistierte Telemedizin: Box-Betreiber setzen auf Apotheken-Kabinen",
-      "summary_de": "Mit dem Schiedsspruch zur assistierten Telemedizin wurde die Grundlage f&uuml;r neue finanzierte Leistungen in der Apotheke gelegt. Zwar reichen einfache technische Mittel f&uuml;r die Erbringung aus, doch die Anbieter von Kabinen-L&ouml;sungen mit zus&auml;tzlichen M&ouml;glichkeiten erhoffen sich jetzt einen Einstieg in den Markt.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/box-betreiber-setzen-auf-apotheken-kabinen-165752/",
-      "published_at": "2026-06-03T13:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Pharma: Boehringer Ingelheim stoppt Investitionen in Deutschland - DIE ZEIT",
       "summary_de": "Pharma: Boehringer Ingelheim stoppt Investitionen in Deutschland &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa3g2NFpiUVFuSEpqYWRNTFpwV3ZJdlhWLW5pa3BENjBZYVN5TkI1QjVSMEpIYTBHZDg2T0dNcmxWdXNELWRmYTM2Yk5aVEgxYnJKTWFEZTVNMUhJajJNOUloSElPaHBCWlpNWG5xeUp4Mk9PRW5ZQmxGcFdELUJ0Z1FvY3B5aDU3NERyWXJpT1plWGhSUE1F?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-03T13:16:59+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "RKI-Analyse : Jeder dritte Erwachsene schläft schlecht",
-      "summary_de": "Schlaflos in Deutschland: Mehr als ein Drittel der Menschen in Deutschland w&auml;lzet sich nachts oft im Bett herum. Das zeigt eine aktuelle Analyse des Robert-Koch-Instituts. Experten haben Vermutungen zu den Ursachen der Schlafprobleme.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/jeder-dritte-erwachsene-schlaeft-schlecht-165762/",
-      "published_at": "2026-06-03T13:00:32+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Feste Arzneiformen: Ab durch die Magenstraße",
-      "summary_de": "So gut wie jede feste Arzneiform landet zun&auml;chst im Magen. Was es mit der Magenstra&szlig;e auf sich hat und wie diese das Anfluten von festen Arzneiformen beeinflusst, war Thema beim Fortbildungskongress Pharmacon Meran.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/ab-durch-die-magenstrasse-165737/",
-      "published_at": "2026-06-03T13:00:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -743,6 +910,16 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVnFSck9xREJYRGJET1BnTGZiTHBORXlDb3JxQTdSZ0tTZG9vYkxIM0UzQno2QlVKUXhaeTFPVTU0UF9Zb3MzaGd3NS1DbWxtU050NmlOVU9nb0tTcUVlVVRhOHRaMTVkcUNYXy1heFZIRjZlck5UMVk2QldjZ2t1WkFpaEFqSzMxUEM2dmExWWwtczJQZEtyV1VQaEc4cEVJV3Bpa0gyMjQxQ1FMVGwyTVNoeDhJSjFaTjVIV3Uzd0pvcFhpV0s4bHpTX3hOc09ieGJidXZVb214VGpqZlZTNWFZcVVPZ0ZKQThYSVNtQ0QyTW5PcktjM1Nn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-03T09:52:43+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "W3-STIFTUNGSPROFESSUR FÜR „SPORTWISSENSCHAFT MIT DEM SCHWERPUNKT BEWEGUNG UND GESUNDHEIT“ (W/M/D) - ZEIT Stellenmarkt",
+      "summary_de": "W3-STIFTUNGSPROFESSUR FÜR „SPORTWISSENSCHAFT MIT DEM SCHWERPUNKT BEWEGUNG UND GESUNDHEIT“ (W/M/D) &nbsp;&nbsp; ZEIT Stellenmarkt",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQN21jTXU0STlHNXZwNlJjWUxoYy1CQWdRVWFNUl9JTkdXMy1Fdnh0Z1FTLWxKV3VWQ0JRaVU0WE5CRkN5ZHNtT2poSzlfZnFveVpwdG9weU5xUnlOcEdST24yU1J1WFdrRjBOSDJjUXc0VENaUmFCSWs1VHMxR1lrRWtOcEVGc202ekxPLTJ5ekNWb3VnVXZUa1FPSGpxSmtZTXR5VmctbzdrQlFHZEhWZEFJZzlGQ1B3YlNva2o2U1NrVlgwaFMwQnFPX3BWdUhYZEhTVUZLZElwNjFaaXJlc3g0SklDYlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-02T22:14:47+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -945,6 +1122,18 @@
       "published_at": "2026-06-02T08:00:00+00:00",
       "category": "News",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "gemeinsame Pressemitteilung: Übergangslösung sichert ambulante Operationen bei Kindern und Jugendlichen",
+      "summary_de": "Ambulant durchführbare Eingriffe bei Kindern und Jugendlichen, etwa im Fall von Leistenbrüchen, werden überbrückend besser vergütet, bevor 2027 eine neue Regelung in Kraft tritt. Darauf haben sich der GKV-Spitzenverband (GKV-SV) und die Kassenärztliche Bundesvereinigung (KBV) einvernehmlich geeinigt.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2273344.jsp",
+      "published_at": "2026-06-02T07:02:57+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -1338,16 +1527,6 @@
       "type": "News"
     },
     {
-      "title": "Psychische Krankheit allein führt selten zu Gewalt - tagesschau.de",
-      "summary_de": "Psychische Krankheit allein führt selten zu Gewalt &nbsp;&nbsp; tagesschau.de",
-      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeXloWkhzd1EwQ0tzSmk0RkpRV2R0RnZZcmg2X2ZmSG12NGtaeTJGZTlsOTNmUVMtcmt4QnZ6TTI0ckc2ZXg1VURUOFZ5UDgyeXJmZ21DTExIU2Vpd2NJU3NpUS1Rb3l5U0w3MC1ZSnFOWnFYLXhxQ2lRZUFpcUphRkFRY2Z2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-31T07:41:48+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Personal | Lungen- und Bronchialheilkunde | VITREA Klinik Hagen-Ambrock in 58091 Hagen - HEK",
       "summary_de": "Personal | Lungen- und Bronchialheilkunde | VITREA Klinik Hagen-Ambrock in 58091 Hagen &nbsp;&nbsp; HEK",
       "source_name": "\"site:hek.de\" - Google News",
@@ -1398,21 +1577,21 @@
       "type": "News"
     },
     {
-      "title": "Virus - Im Ebola-Gebiet: WHO-Chef fordert bessere Zusammenarbeit - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Virus - Im Ebola-Gebiet: WHO-Chef fordert bessere Zusammenarbeit - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOHRZb09qZjBJR01hN0xuY3BKOWhhcVlvM0l2T09jTF9XWVFiUjZFVmc0VzVHOF90eS1LWUpUbklUZS1mSVU1OWJKUnQyN1ZLRzF0Z2tmTFJNVmQ0Z3FFQ0RPaGJxNGZlMkhQV1VwX0duSHVLOGVnd0wtdjNEaVZIdi15WXZxZmlSd1FhS251Sm45VUZXQnVEc1lQYzVoY19yaDBaSDVnd2dKazFDZElTZHMyR2RYb0hraXJDMnJacVNWNDNqdHh0alVGRTMxaldUYThEUG5DVzJkUmhaZGZiX19JRWk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-30T16:28:49+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Jährliche Leibarztuntersuchung: Trumps Leibarzt bescheinigt dem US-Präsidenten »exzellente Gesundheit - DIE ZEIT",
       "summary_de": "Jährliche Leibarztuntersuchung: Trumps Leibarzt bescheinigt dem US-Präsidenten »exzellente Gesundheit &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVDVxeUhNYmdsSGxfaXkwWm1ycjhkR2JITE8wUnJ1WDdtZVdIWFJwS2lkY0YxSU5OUVZ3UG9rVi1IUmxEY29YZ0ZsRENOWE1mMVZxZGtucTYzdzdvUVFBR2c0RnFlUFF0TnhFdmc5NEhMX2ZKeWlJZWZaOFhMeHhpWWlVNkxDVDBCd3FPdzNjb0lRcjB4UkNLUk1WeURCZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-30T10:14:43+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Hermann-Josef-Krankenhaus Stellenangebote in Am Schneller 13, 41812 Erkelenz, Deutschland - ärztestellen",
+      "summary_de": "Hermann-Josef-Krankenhaus Stellenangebote in Am Schneller 13, 41812 Erkelenz, Deutschland &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaGZ6NUpsc2pxaHRCS2d2Um1tT3lsZWt4M0JUdk1ZWV9aa3Rsb0JucGh3N0ZuRE0xaF9nSFg1aHF1OTMxZ2oyclJZbG0zOTV0ZzN6RHdmS2xMU1ppSjMwT0xFYXhJLTg4bEhrZmNuRGkzX0w3VHZrR1RrR3NIcUV5RnY4Rm16bEJDWGVPLTJadmdaR3BvdGE1T0FxVmV2YmplTFdzcFhEdUtrUndyZzhacUpqZE9wSlk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-30T08:24:06+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1434,26 +1613,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRHVjQkxoU3Q0d1FRTFJaaGRDWEIzS0c2VWJtT0pIZk5md3R3QThuc1ZEanVGTWFweU5xcVNReXZyREI1VWFoU1lIbFUzbTd4Y3puZVl2NGZyZno0djBVRi0zNWdKY29ZSFQ5LXR5UXR1N1ZiNUtPMDJZUmZMekZBLUtUTDc3VHZoNmZReGJLN2NLR2dCZWhBb1AzdGpiYW9wU0RWQy1fdnpkTVlpeVpjSG9BaU05QlBhMElRUHdqdEdtMjI0Rm1YUy1pcnc1S0hwU0J5c1NiaFV3cDBxdnVxelNyOGh5cWlIenp5eWhR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-30T02:00:26+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Schädling - Eichenprozessionsspinner breitet sich in Sachsen aus - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Schädling - Eichenprozessionsspinner breitet sich in Sachsen aus - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNHRaS1dhMHc5M2k0dW9aS3MzQ3RQUktmYnU4MjRyTVBYR3pTS1owLUdac0JuTjFUTW4xeUxHVjcwMnpyM3RCNEpBQ1B1MkUtZmpvZzV4SmhaWHIyYWFoaVJ6R2xibmkycDEzN1VHc29EaWh4TDBsQXkzLVFmOXFnS1N5UDhZTncxY2I0cUU3SEQzSlp0RGdfbHJBWnNYQ2QtQ3NGVlNMaEpuZXN4OE5JaDhWS0o5WE9kSU9CTHpmOWM2VTlTVENZTTdOdEljbzB5b1FQR1BVMDhtd1llY2R3aEpyQVJCdjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-30T02:00:08+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Decision: Medical devices given exceptional use authorisations",
-      "summary_de": "List of manufacturers and their medical devices granted an exemption by MHRA. The list also includes manufacturers whose exemption expired or was cancelled.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations",
-      "published_at": "2026-05-29T15:52:01+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -1488,18 +1647,8 @@
       "type": "News"
     },
     {
-      "title": "Pflegefachkraft (m/w/d) Psychosomatische Medizin und Psychotherapie 29.05.2026 Universitätsmedizin der Johannes Gutenberg-Universität Mainz Mainz - FAZ Stellenmarkt",
-      "summary_de": "Pflegefachkraft (m/w/d) Psychosomatische Medizin und Psychotherapie 29.05.2026 Universitätsmedizin der Johannes Gutenberg-Universität Mainz Mainz &nbsp;&nbsp; FAZ Stellenmarkt",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX19uaTZieGdJVW5ydHZIRzRyVmliZjlBcHdJaTlreDk0VE5DSlBIM3FneDJGZG1PQ1hyYm9jYjJQRkczLVBaU0k2OWlHMHBnMTJFaHBxQ1pJajNjWEdaS3Y3bEZ5T2w0eU1QWWVJY0VhN3dIblozZGdxUXdQc3IyQmNqSThRcU5wUlRJN2x0V2lkcG43V0h6cEdHTGY4c1p1MTRpWkU1X2plN2VpZnVucG1WRlg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-29T11:53:59+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Krankenkasse für ein gesünderes Leben | BARMER - BARMER",
-      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; BARMER",
+      "title": "Krankenkasse für ein gesünderes Leben | BARMER - Barmer",
+      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-29T11:53:44+00:00",
@@ -1530,16 +1679,6 @@
       "type": "Studie"
     },
     {
-      "title": "Krankenhaus in Moers: Vom Krankenpfleger zum Chefarzt – Er leitet jetzt die Innere am „Josef“ - RP Online",
-      "summary_de": "Krankenhaus in Moers: Vom Krankenpfleger zum Chefarzt – Er leitet jetzt die Innere am „Josef“ &nbsp;&nbsp; RP Online",
-      "source_name": "\"site:rp-online.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2pfN3hUeWpYM3FiQTlkTFViVFJNYlpFbzJVLVFlVWdrYmdrMmJZX256WHRwcEt6X1oyLWZhLU8xckZkazhlM0lPN05xUVliaktEVV9GUHBMX2tUUEp3LUJhRUp1MHZqejlwZjJNSnBwRkZkeFlOQTVVcmpERHg4MDRmamhoZ0JVeEVWMkNMQV9zVGFGWEJnZk1RTHZwRTJXS28zWTE1QXBEaTJEX2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-29T11:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "HzV-Evaluation der TK | Die Techniker - Presse & Politik - Techniker Krankenkasse",
       "summary_de": "HzV-Evaluation der TK | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
@@ -1560,13 +1699,15 @@
       "type": "News"
     },
     {
-      "title": "WHO-Chef: Ebola-Ausbruch in Kongo ist „sehr schwierig“ einzudämmen - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "WHO-Chef: Ebola-Ausbruch in Kongo ist „sehr schwierig“ einzudämmen - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFBCd2RnNVVUQXI5ZXJHZkRFMXk0U3I2WXk0NjZnaE5ZRV91QlBIY3BycXNmV3dYYWRPei0zM1IxejE5WEpENlpuNWU4YjdERlpJZ3Nsbm4yUm5YVHRMU1lTS1kzQ0RxcEt3N2I0R2JxZHJiU2tYd2NERnViRHJmbUlHQjB4Sk5fSnZORFVLYWRITXBtdUgwN1lwUkU4eWdIRFhwU1ZmNlR4N1ZyeUhnOF9waXh4dw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-29T06:29:19+00:00",
-      "category": "News",
-      "tags": [],
+      "title": "Meldung: Den überproportionalen Zuwachs der Ausgaben begrenzen",
+      "summary_de": "Im Interview mit Teach Economy sprach Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, über Finanzierbarkeit, Versorgungsqualität, Effizienzprobleme und Prävention sowie die Rolle der Politik im Spannungsfeld zwischen Reformbemühungen und Lobbyinteressen.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2271690.jsp",
+      "published_at": "2026-05-29T06:37:42+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -1872,6 +2013,19 @@
       "type": "News"
     },
     {
+      "title": "Meldung: Die Pflege lebt auf Pump",
+      "summary_de": "Die soziale Pflegeversicherung hat im 1. Quartal dieses Jahres ein Defizit von 667 Millionen Euro eingefahren, trotz eines Darlehens von 800 Millionen Euro. Für das Jahr 2026 wird ein Minus von rund einer Milliarde Euro erwartet. „Bei der Pflegeversicherung brennt die Hütte und wir müssen uns dringend ans Löschen machen“, bringt Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, die Situation im SPIEGEL …",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2270740.jsp",
+      "published_at": "2026-05-26T08:03:09+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "Steroid avoidance or withdrawal for kidney transplant recipients",
       "summary_de": "Steroid avoidance or withdrawal for kidney transplant recipients",
       "source_name": "Cochrane Library RSS feed.",
@@ -1939,6 +2093,19 @@
       "published_at": "2026-05-22T07:00:00+00:00",
       "category": "Gesundheitspolitik",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pressemitteilung: Apothekenreform macht die Versorgung teurer, aber nicht besser",
+      "summary_de": "„Die Politik war angetreten, die Apothekenversorgung mit guten Ansätzen zu reformieren. Auf den letzten Metern ist aus dem heute im Bundestag verabschiedeten Apotheken-Gesetz aber eine Mogelpackung geworden. Die Apothekenversorgung wird damit in Zukunft nur teurer, aber im Wesentlichen nicht besser\", sagt sagt Stefanie Stoff-Ahnis, stellvertretende Vorstandsvorsitzende des GKV-Spitzenverbandes zur heutigen 2./3. Lesung des Gesetzes zur Weiterentwicklung der Apothekenversorgung (ApoVWG) im …",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2269258.jsp",
+      "published_at": "2026-05-22T06:34:43+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -2022,8 +2189,8 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Mannheim - BARMER",
-      "summary_de": "BARMER Krankenkasse in Mannheim &nbsp;&nbsp; BARMER",
+      "title": "BARMER Krankenkasse in Mannheim - Barmer",
+      "summary_de": "BARMER Krankenkasse in Mannheim &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOelJHQ09mWkJiUXk1eE5YTGlPWnhXSmNhU0ZBNmxCTUpiUWFUdjRFbmNobGp6NGpnTy1CMlZUV1Ewc0lmdy1scERpNU5NNUFYOF80bUtVNjR2RXFWbTZDWXhSaE9YOWpjVzhXRl94RHhHZFRfRE1LckVJd1NoN0V2RU1iR2xqcElNXzRlUjFqdDh2WmQyOEhYM1NXYUtsNEtIMF80Ykpsb1puelc2cWh2eHRWUlFxclBYQkRSbllWdzRBZ2RaMjJDQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-21T07:00:00+00:00",
@@ -2154,6 +2321,18 @@
       "type": "News"
     },
     {
+      "title": "gemeinsame Pressemitteilung: Pflegereform jetzt umsetzen: Prävention von Pflegebedürftigkeit muss bei den Versicherten ankommen",
+      "summary_de": "Mehr als 6 Millionen Menschen beziehen Leistungen aus der sozialen Pflegeversicherung. Die Anzahl der pflegebedürftigen Menschen, die Leistungen der sozialen Pflegeversicherung erhalten, hat sich seit 2015 mehr als verdoppelt.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2267072.jsp",
+      "published_at": "2026-05-19T07:37:19+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "Topical immunosuppressants for blepharitis in adults",
       "summary_de": "Topical immunosuppressants for blepharitis in adults",
       "source_name": "Cochrane Library RSS feed.",
@@ -2191,6 +2370,18 @@
       "published_at": "2026-05-15T08:00:00+00:00",
       "category": "Gesundheitspolitik",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Meldung: Ein Aufschieben der Reform ist keine Option",
+      "summary_de": "„Kein Cent mehr Belastung für Patientinnen und Patienten als in der aktuellen Fassung des Gesetzes vorgesehen“, das fordert Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes im Gespräch mit der Deutschen Presse-Agentur (dpa).",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2264649.jsp",
+      "published_at": "2026-05-15T07:06:27+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -2324,6 +2515,16 @@
       "type": "News"
     },
     {
+      "title": "Implantate im MRT? Aber sicher! - healthcare-in-europe.com",
+      "summary_de": "Implantate im MRT? Aber sicher! &nbsp;&nbsp; healthcare-in-europe.com",
+      "source_name": "\"site:healthcare-in-europe.com radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mNnc1dUk0b3F0WkRkdENBMUlyWkhiTTdCZmxyeU1jMEV5SG1FOERRQ29BZC1DRmh4RE9qYmlEaEx2LUFXYjZtdFRkQUlYYmIwNVQzYnJuSWJEdmxpVDhLNWZqaGhUWG91djJ1eThMbzh1MTZNM1FIb3AyYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-13T07:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "[MI] Medicines and Pregnancy Registry - Antiepileptic use in females aged 0 to 54 in England: April 2018 to September 2025",
       "summary_de": "NHS England is working in partnership with the Medicines and Healthcare products Regulatory Agency (MHRA) to develop comprehensive national Medicines and Pregnancy Registries which can give a better understanding of the use, benefits, and risks of medicines taken in pregnancy.The objectives are to: • use data to generate evidence on the use, benefits, and risks of medicines prescribed during pregnancy …",
       "source_name": "Publication Feed",
@@ -2398,6 +2599,28 @@
       "type": "News"
     },
     {
+      "title": "Meldung: Pflegeversicherung vor ihrer größten Bewährungsprobe",
+      "summary_de": "„Die Pflegeversicherung steht vor der größten Bewährungsprobe seit ihrer Einführung vor 31 Jahren“, sagte Oliver Blatt, Vorstandsvorsitzender des GKV – Spitzverbandes, der Rheinischen Post. Die Situation sei extrem schwierig, denn die Pflegeversicherung müsse mehr Geld ausgeben als sie einnehme und bei den Eigenanteilen der Pflegeheimbewohner sei das Ende der Fahnenstange längst erreicht.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2261244.jsp",
+      "published_at": "2026-05-11T07:40:42+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Fersensporn: Ursachen, Symptome und Behandlung - DAK-Gesundheit",
+      "summary_de": "Fersensporn: Ursachen, Symptome und Behandlung &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOU1XclgwUGdhTDE2SEMtOXJ0TjBod0JIbUx1SFotdi1pUWtXeWF6OVBjU2FGOWhZbWRJbUYxdnFHOXdsMEtfT045R3ZyeWN2QmVaYjhvSHZoXy1FeHdMRDJOVDNxYXdHN2NnQnk1aDVCNHNXaHFEelBWWWZtcjdXZmZUQWVOYmZYTjU2UzdGWjgyVzlMMXY2YnlXWTVnRnRWbk9HdmJ0dmM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-08T17:35:51+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 4-7 May 2026",
       "summary_de": "At its monthly meeting, EMA’s safety committee (PRAC) carried out its broad range of responsibilities, which cover all aspects of the risk management of the use of medicines:…, Agenda Agenda of the PRAC meeting 4-7 May 2026Draft Reference Number: EMA/PRAC/89531/2026 Corr…, PRAC statistics: May 2026 , PRAC statistics: May 2026 English (EN) (104.16 KB - PDF)First published: 08/05/2026 View , …",
       "source_name": "News and press releases",
@@ -2428,8 +2651,20 @@
       "type": "News"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
+      "title": "Meldung: Unwucht im Reformpaket",
+      "summary_de": "Trotz eines zunehmend skeptischen Blicks auf das GKV-Beitragssatzstabilisierungsgesetzes sagte Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes im Gespräch mit der Presseagentur Gesundheit für dessen Publikation OPG: „Zunächst bin ich sehr froh, dass eine umfassende Reform auf dem Tisch liegt, die viele wichtige und richtige Punkte angeht. Aber ich bin tatsächlich mit zunehmender Zeit immer skeptischer geworden.\"",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2257212.jsp",
+      "published_at": "2026-05-06T07:07:16+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-06T07:00:00+00:00",
@@ -2478,14 +2713,16 @@
       "type": "News"
     },
     {
-      "title": "Ulrike Elsner: Weichen für eine patientennahe und praxistaugliche Versorgung jetzt stellen",
-      "summary_de": "Die Bundesregierung hat angekündigt, ein Gesetz zur Einführung eines neuen Primärversorgungssystems auf den Weg zu bringen. Der vdek unterstützt dies ausdrücklich und hat zu dem Thema ein Kurzpapier vorgelegt. „Es geht darum, den Zugang zur Versorgung passgenauer zu organisieren und ihnen eine bessere Orientierung zu geben”, so vdek-Vorstandsvorsitzende Ulrike Elsner.",
-      "source_name": "vdek - Verband der Ersatzkassen e. V.",
-      "source_url": "https://www.vdek.com/presse/pressemitteilungen/2026/kurzpapier-primaerversorgungssystem-versorgung.html?pk_campaign=rss",
-      "published_at": "2026-05-05T07:45:00+00:00",
+      "title": "Pressemitteilung: Starker Anstieg Pflegebedürftigkeit - Zugang zur Pflege in den Blick nehmen",
+      "summary_de": "Das 2017 neu eingeführte Begutachtungsinstrument zur Feststellung der Pflegebedürftigkeit hat sich zwar bewährt, aber gleichzeitig zu starken Verschiebungen im Zugang zu Pflegeleistungen geführt. Das ist das zentrale Ergebnis einer Studie des IGES-Instituts, welche der GKV-Spitzenverband gemäß seinem gesetzlichen Auftrag in Auftrag gegeben hatte.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2256256.jsp",
+      "published_at": "2026-05-05T06:08:48+00:00",
       "category": "Gesundheitspolitik",
       "tags": [
-        "Versorgung"
+        "Studie",
+        "Versorgung",
+        "Wirtschaft"
       ],
       "type": "News"
     },
@@ -2570,6 +2807,18 @@
       "type": "News"
     },
     {
+      "title": "Pressemitteilung: Bundesregierung will Zahlungen für versicherungsfremde Leistungen kürzen",
+      "summary_de": "„Der gute Ansatz für die anstehende GKV-Finanzierungsreform ist in eine ernsthafte Schieflage geraten. Versicherte und Arbeitgebende werden zusätzlich belastet, insbesondere die Pharmaindustrie wird mit dem nun vorgelegten Entwurf nochmals weniger gefordert und der Bund spart auf Kosten der GKV-Beitragszahlenden\", erklärt Oliber Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes mit Blick auf den heute vom Bundeskabinett beschlossenen Entwurf des GKV-Beitragssatzstabilisierungsgesetzes.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2253504.jsp",
+      "published_at": "2026-04-29T09:32:37+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "[MI] GP Contract Services - England, 2025-26",
       "summary_de": "The GP Contract Services publication provides data relating to the delivery of primary care services across England, agreed within the GP contract(s) between NHS England and the British Medical Association's (BMA) General Practitioners Committee (GPC). These data are primarily used for payment and management information purposes as well as for wider usage to help support commissioning, planning and policy decisions. …",
       "source_name": "Publication Feed",
@@ -2580,13 +2829,15 @@
       "type": "News"
     },
     {
-      "title": "Atemübungen gegen Stress & Angst: Techniken für den Alltag - DAK-Gesundheit",
-      "summary_de": "Atemübungen gegen Stress & Angst: Techniken für den Alltag &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZTFZTzVKM0VoTFdoRVFyOVQ3ZFJxR01KMUVWU3UzZ09LOGkyVUdZSkZqeS0xc2xJbkJ6MmhERkk3cDdzYTBMYXF4LWJNOGtXQTRNQlQyWUFRcmc2SnpCNnh0QnFRNU8wN0VnaDF0VlI5RzVLNGhZdmJrNHQ2dXQ0akdES3VITVRkMXFVUnlHRmd3MWZFaXNWejY5bkk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-29T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
+      "title": "Meldung: Wir trauen dem Braten erst, wenn das Geld da ist!",
+      "summary_de": "„Wenn die Krankenkassenbeiträge stabil blieben, dann wäre schon viel gewonnen“, so Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, im Gespräch mit der WELT. „Wenn wir jetzt allen etwas abverlangen, dann ist es vielleicht perspektivisch auch möglich, über sinkende Beitragssätze zu sprechen“, so Blatt mit Blick auf die heute im Kabinett befindliche GKV-Finanzreform.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2253499.jsp",
+      "published_at": "2026-04-29T07:11:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -2600,6 +2851,18 @@
       "type": "News"
     },
     {
+      "title": "Meldung: Zahlungen für versicherungsfremde Leistungen sollen gekürzt werden",
+      "summary_de": "„Wir begrüßen, dass es nun rasch zu der Finanzierungsreform kommen soll, allerdings bereiten uns die jüngsten Entwicklungen Sorge\", erklärt Oliver Blatt mit Blick auf die nun bekanntgewordenen Pläne zu dem GKV-Beitragssatzstabilisierungsgesetz.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2252992.jsp",
+      "published_at": "2026-04-28T13:13:35+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "Network Contract DES (MI) - March 2026",
       "summary_de": "A framework for GP contract reform to implement The NHS Long Term Plan published in January 2019 which describes significant investment in Primary Care Networks (PCNs) through the Network Contract Directed Enhanced Service (DES). The seventh year of the Network Contract DES began in April 2025. The data provides information to allow effective management of the contract. The indicators are …",
       "source_name": "Publication Feed",
@@ -2610,17 +2873,28 @@
       "type": "News"
     },
     {
-      "title": "Primary Care Network Workforce, 31 March 2026",
-      "summary_de": "Primary Care Networks were created in July 2019 to provide accessible and integrated primary, mental health, and community care for patients. The bulk of the PCN workforce consists of Direct Patient Care staff, funded by the Additional Roles Reimbursement Scheme (ARRS), and each PCN has the flexibility and autonomy to determine which roles are required to meet the specific needs …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/primary-care-network-workforce/31-march-2026",
-      "published_at": "2026-04-24T10:14:55+00:00",
-      "category": "Europa",
+      "title": "Meldung: Gutachten bestätigt Rechtswidrigkeit bei Finanzierung der gesundheitlichen Versorgung von Bürgergeldbeziehenden",
+      "summary_de": "Der Staat als Träger der Fürsorge hat die Krankenkassen damit beauftragt, die gesundheitliche Versorgung der Bürgergeldbeziehenden zu übernehmen. Die gesetzlichen Krankenkassen haben diese Aufgabe entsprechend übernommen. Aber statt für diese Leistung voll zu bezahlen, lässt der für die Finanzierung zuständige Bund die Krankenkassen auf rund zwei Dritteln der Kosten sitzen.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2251648.jsp",
+      "published_at": "2026-04-27T08:48:26+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Lauter Knall in Radiologie in Gelsenkirchen: Das steckt hinter dem „MRT-Quench“ - WAZ | Westdeutsche Allgemeine Zeitung",
+      "summary_de": "Lauter Knall in Radiologie in Gelsenkirchen: Das steckt hinter dem „MRT-Quench“ &nbsp;&nbsp; WAZ | Westdeutsche Allgemeine Zeitung",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMVlmMUtabWdGaFRLdkdIZ1FXcFpKOU9IZkZpT2RGNlMzODRNQ1RlaDJ4RzlFX0NMb21xZk16WC0wMHVZamViVnJIRUJLbWdBR2JfbUM1alhQMzdkWFNDaDlfZEx3YzcxUXlHWEZTS0J1QkRKTEJQbElxQVlRTVZYaVhoOGE4c2kyQkVCNl9aYUFsa3ViMmNpNnI4S0lxT3BqTUwtdEw5Mno0WEpaZHlfX1JrczNDU3h5Slc5bVl6bDAzMFd5Y2xrcHZ4SUdVbXNZOUFrUHdn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-04-27T07:00:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     }
   ],
-  "errors": [
-    "FeedError: https://www.bfarm.de/SharedDocs/RSS/RSS_Feeds/DE/RSS-Meldungen/RSS-Meldungen-Startseite.xml :: RemoteDisconnected('Remote end closed connection without response')"
-  ]
+  "errors": []
 }
