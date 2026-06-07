@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-07T11:02:50.794648+00:00",
+  "generated_at": "2026-06-07T13:26:36.513413+00:00",
   "window_days": 42,
-  "count": 263,
+  "count": 261,
   "items": [
     {
       "title": "Fachkräftemangel im Saarland: Engpass in der Pflege, genug Informatiker - tagesschau.de",
@@ -74,16 +74,6 @@
       "type": "News"
     },
     {
-      "title": "Berlin: Ebola-Patient aus Berliner Charité entlassen - tagesschau.de",
-      "summary_de": "Berlin: Ebola-Patient aus Berliner Charité entlassen &nbsp;&nbsp; tagesschau.de",
-      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZDlVTGlLRUJYTmtseF9PTmoxUHN5RW9JMzlzQ2hkdXlkMWU3d2tTRjlJWXk0THJFNHJkMGR5eG00UTFSeWNNZG11SHJfMi1QcFVxLVVHSUVySzdkaGVvaHlSdlI5OUMzMkVlOWlnWXBiQXdqaDFLYlJxbTFPYTdCVkF3bXBSa1J0WWhJdFA1TnVEM1prVWtrOGMwVzdLd2hyaTV4ZHVOdHM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-06T12:22:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gefährliches Virus - Ebola-Patient aus Berliner Charité entlassen - Gesundheit - SZ.de",
       "summary_de": "Gefährliches Virus - Ebola-Patient aus Berliner Charité entlassen - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -130,6 +120,16 @@
       "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
       "published_at": "2026-06-06T05:16:31+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "(S+) Streichung von Investitionen: Wie die Pharma-Lobby die Gesundheitsreform torpediert - Spiegel",
+      "summary_de": "(S+) Streichung von Investitionen: Wie die Pharma-Lobby die Gesundheitsreform torpediert &nbsp;&nbsp; Spiegel",
+      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORHl2T2ZaNVFqc1Jva2UwbDhhbWJPeGN4c1hTNnJCdkdMMl9zeExkS0hHS3d0SlBsZ0s1VWZKdG1Ddkh3N1EyemNEM19GV2hUazQ5MHhSTUVIbFBaY1NaV3lkVC1hN1RzeDZ1dVJhcDhfVjAxd1RmWDJQQVotZDhmRkd1X094blJCbEdERGhyMUNiZHJPdmhrWk9CMDFxVFZlU05DTEtNNVRnc2NhOXpNS0JxQlFWRTIwQVZCRUItYnFNRTV3NVJPa2tWa3MzdVRSY1dLbXlmTk9MeVV5clE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-06T04:48:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -662,8 +662,8 @@
       "type": "News"
     },
     {
-      "title": "Soziales - AOK-Institut: Kranke Kinder vorwiegend von Müttern betreut - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Soziales - AOK-Institut: Kranke Kinder vorwiegend von Müttern betreut - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Soziales - AOK-Institut: Kranke Kinder vorwiegend von Müttern betreut - Gesundheit - SZ.de",
+      "summary_de": "Soziales - AOK-Institut: Kranke Kinder vorwiegend von Müttern betreut - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTDFtak1IOGhlcVA3dHNkVC10TDlSMVJOYmZkZTNrTkZIQkctd196SUFEdGwzamMwTnE0T1VncHlPd2J0QWFGekN3UjltVHBremxLWDQ2V1VtQ3FXYUV6RWc3YUhGTm1UTjhFcUNlSkJwVUVZU19iVW1tdGNmN2V5S0FrRHBacS1kY3RaUVlTVHZmVDEweE9obUxVNldGc1V1UUNiNEJkZTVZVU8takludG52ZnVOYkpmbjhwMlFWVTZsQVoxUjhDWjNvdkduN29MRUY3Y2dDbTl1OElkVVNkbzZHdUpTeGg4YUpCTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-05T02:00:44+00:00",
@@ -1334,7 +1334,7 @@
     {
       "title": "Professur für Geburtsmedizin und maternale Gesundheit (W2) (w/m/d) - Universität zu Köln - Medizinische Fakultät - ZEIT Stellenmarkt",
       "summary_de": "Professur für Geburtsmedizin und maternale Gesundheit (W2) (w/m/d) - Universität zu Köln - Medizinische Fakultät &nbsp;&nbsp; ZEIT Stellenmarkt",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdThmWXJlSVNNY0VldnJWYlRRbVZ6S2dPSW8tczlpY1Uwd1V4Rk40eHBjeUhoa0ZEQThYczFIOVYzM1UwbGdXdjZHMXEyOTlWZUNtajlhR3RnUDhvRDBvOVV3cTZhTUhsTzBSRWN3dGJqeWxwd0EycFJ2dEZWYmlCdTJlTkpDekhNck0yX2lYekMtbEo3OGw1NU9qUm93Q21yc3JUQ09rcHRGaUtBdGdCU0JKRkYtQkdrMVR6cGdjQVlfSTNiTTlBTVNhSjl5bV9fOGppUjBWcXhSQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-01T22:00:24+00:00",
       "category": "News",
@@ -1427,16 +1427,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPT0VGeW1DRlZ6TWRIV3k2UW1aMXpnb1E2eUpCOWVzc1RDU25xRC0zeGVJbjFaNUQzVDNfczN3eERJSzZWTEZOMUdXZzg2WkVQYnJ4c3BjZU5hZkxrUjZ4LTJKSUhkWHlOMjk0Nzc2ZHB4R2xkbHo5cWs3YjVVTzdCbWVGTjN3SEVpblFTYlp2TzhaS2hLTTJZTTdZdmpKZW5YYzZpVGg0NmlyRnFEY2Z1RUlaY3NmeTJOcDgtcEdqRzZlTjg5UjVDenFBVmQ2UlJmZFJleTJZdUV5WC15WTk2b2t3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-01T12:44:10+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Soziales - AOK: Kinderkrankentage nehmen immer noch meistens Frauen - Gesundheit - SZ.de",
-      "summary_de": "Soziales - AOK: Kinderkrankentage nehmen immer noch meistens Frauen - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRTY1VUoxMk5fRF9BWVFzcVU0QzdQSy1zUUh3ZW5YSlFLeHJ0T2wyaHNWdjdIbml6LTVzT0NOOUlfUG5PVXNjWVlDWHRES2VUd2tpdmxZT0dvWnliNmhzbS1JNHByR082bXVBcUhQcmlqbmlZTUM0WGd4Z1BHTEZHZ3gyRXoyeG5sbHJTOGk1eDFEdzVjcmdqQkozM3duVWM1a3JkQ0N3N19kRHFzczVHRWt6WGdOb0h4UzNNUWoxNWFaLVBYRGxSTl9CS1Y0MHBWQnJFRzlzWEI3MUd3S2hRWURfaU9Gb2g5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-01T12:08:33+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1592,32 +1582,22 @@
       "type": "Studie"
     },
     {
+      "title": "Personal | Innere Medizin mit Akutgeriatrischer Behandlungseinheit | Klinik Ottobeuren in 87724 Ottobeuren - HEK",
+      "summary_de": "Personal | Innere Medizin mit Akutgeriatrischer Behandlungseinheit | Klinik Ottobeuren in 87724 Ottobeuren &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSkh5OFN3cWR4eE9zQjB6dVFsMEdkWllXM0lOeF9oRUt5WVlqQTExbWNJcXhxYUY0b1A2MzRBUjlfNGpUUURqZmpZaXM0dWJpX09XWTI1bUc0VXdVNWJ5cjUwS25Eakg3QUZGV2RDc3VBWlJVTVN2X1ZhLVJFcS1sdUdrekdWRXlkdWx3QXE4bzB1WktpOHlFMUZBVGpucEFSM0JRMlJoZ3drTUpYekU3ODNvLWFuYk5RMENoVzZmeTB6YWFsckdLUFUzOUU4STFtaGJsUkNiZWZabUZncC1BbDhqUjU5ZUtreDJNV0xsbw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-31T23:39:02+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "United for Health: EMA in WorldPride 2026",
       "summary_de": "June is PRIDE month and EMA starts a two-month celebration of diversity and inclusion in science and healthcare, leading up to its participation in the world-famous Amsterdam…, Our strength in the EU comes from our unity in diversity. Equality and non-discrimination are critical everywhere, but in health they can make the difference between…, EMA staff will be joined on the …",
       "source_name": "News and press releases",
       "source_url": "https://www.ema.europa.eu/en/news/united-health-ema-worldpride-2026",
       "published_at": "2026-05-31T22:00:00+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit - Ärztekammer fordert schärfere Gesetze für Nikotinprodukte - Politik - SZ.de",
-      "summary_de": "Gesundheit - Ärztekammer fordert schärfere Gesetze für Nikotinprodukte - Politik &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2pCVkRzVGdJX09XZlloOXYxTzQxcFVXSnZhS2IyZ1NtRDRWc0llT0dBZnBTaGQ3T0ZEUUVScGRNeUZPbmxaY0doU0xDeWZ2UmxyNWxucXlwXzJtcmVvakxlVFZUTDFjZm9JdjZzd0hVMDRVOWctMVhqWGlrVUtrbzI2ZEZFN29hZnFrd2VIWTFBWVAyaDllUnVnaXMzU2lvSE42S0Z0cVhGdnVWYXJjUHNtVWdTWXFIOHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-31T12:29:09+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Personal | Lungen- und Bronchialheilkunde | VITREA Klinik Hagen-Ambrock in 58091 Hagen - HEK",
-      "summary_de": "Personal | Lungen- und Bronchialheilkunde | VITREA Klinik Hagen-Ambrock in 58091 Hagen &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNlU3NFpfTDlyOGxQNWZWTXYzMWlZZkdhY3c3dl9uOHZqdEZ2dHA4azZwQV9MMF8waVQ3ZFJrbUplcjJWR0stc3ZURmlCa2cyc3gzZVJlSWhyOXQtU1I5bW9KVE01UFlfcXR1c3dDcUFmREJQZVgyVXY1QXFpazE3TzlCMFdPQVJFRERtTDJ4NWUteVo3ZHRKNUZrWlBhRlMyNXhCd3ZyT290ZnVwelhYSG1IRWtZT1d2MDJTTG9DdHVxV19TM3FyeXFWRTdPcUlON0hV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-31T07:33:12+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1678,6 +1658,16 @@
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2026/beitragssatzstabilisierungsgesetz-bstabg-bundesrat-streichvorschlaege.html?pk_campaign=rss",
       "published_at": "2026-05-29T08:30:00+00:00",
       "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Krankenhaus in Moers: Vom Krankenpfleger zum Chefarzt – Er leitet jetzt die Innere am „Josef“ - RP Online",
+      "summary_de": "Krankenhaus in Moers: Vom Krankenpfleger zum Chefarzt – Er leitet jetzt die Innere am „Josef“ &nbsp;&nbsp; RP Online",
+      "source_name": "\"site:rp-online.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2pfN3hUeWpYM3FiQTlkTFViVFJNYlpFbzJVLVFlVWdrYmdrMmJZX256WHRwcEt6X1oyLWZhLU8xckZkazhlM0lPN05xUVliaktEVV9GUHBMX2tUUEp3LUJhRUp1MHZqejlwZjJNSnBwRkZkeFlOQTVVcmpERHg4MDRmamhoZ0JVeEVWMkNMQV9zVGFGWEJnZk1RTHZwRTJXS28zWTE1QXBEaTJEX2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-29T07:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1824,22 +1814,22 @@
       "type": "News"
     },
     {
+      "title": "Aktivierung der DAK App mittels ePass-Verfahren - DAK-Gesundheit",
+      "summary_de": "Aktivierung der DAK App mittels ePass-Verfahren &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByM2p6OUZSV09rbFhOQVpEc0Y2YzhrcTliZ0ZOclBmRUN5aTlJOURpRmNDWmEyTDVWNHREcjlBYllCMzQxWWx4bWxpU1JhNHA3Ni1qS2xlY21HMlVZZTRudG1wX0pEa0F6Tll2eW45LVd4MW8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-28T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Fachärztin/-arzt für Radiologie Doppelfachärztin/-arzt für Radiologie und Nuklearmedizin (m/w/d) - ärztestellen",
       "summary_de": "Fachärztin/-arzt für Radiologie Doppelfachärztin/-arzt für Radiologie und Nuklearmedizin (m/w/d) &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONkcyLUYwZXYzZEdmaWdtTEJackNUdnp4MzRCZnVVYXhFRmpNU1Z2Z0VELThOSVl6cGlfbFVoUjNvM0pDaFFDLURMTjdOem0xVTc4Qm5tQy1ERVVvQUhMOHNoOG1saVctbUNtSEIweFFTR0pjYmFpNUtzakFuTVpMaFl1c3dQOVhCVE5qSVBJLWdQNnFjTmw2d1hIOWlDQUhpRHRSUF9oVGVWM1BlNmJUeVBBTmRkbngycUxkRGtYdndaNVJwVDdOZmJwemtQZTBoYUVzcEx3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-28T07:00:00+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Themenwelten - Neues Zentrum am Evangelischen Krankenhaus Wesel, Das Zentrum orientiert sich an den aktuellen europäischen Leitlinien sowie an den neuen deutschen Empfehlungen. - RPO - Rheinische Post - RP Online",
-      "summary_de": "Themenwelten - Neues Zentrum am Evangelischen Krankenhaus Wesel, Das Zentrum orientiert sich an den aktuellen europäischen Leitlinien sowie an den neuen deutschen Empfehlungen. - RPO - Rheinische Post &nbsp;&nbsp; RP Online",
-      "source_name": "\"site:rp-online.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNTC1DWWxtYjVqQ3hHelJNaFctaHZlTGJuNHpoU2hqd093TGJfdmRVeWFjbmtsNVd3RHlfWXpsZ0ctUGQ0UmcwYXZmbGsweHU1bGhZT1RBYmZnMnY1d3pvcnBCcGt5N19mUGYzdFBWYUh0NWhXZ2RoWkMtZDczLWdEbFRvWnZtcThOUDhEa3EwUGkzXzNkWk5xN1BYSndGYnFIUmZlQTBRZEhMV2ltSEVZM20zUFM1alRBaV9hbGp6YVlQS1BqTU5qb0o1Y2lFNk9OdjRJY3U1MURlUkFqN2p2b2xtV2ZmY0VPdHE2SFczdkx1Qzh5cExxMVBzTW9QSjhHVnhXUExOSmcydm9IYnZlLUhSVmJFQ3FadWRDbDlLSktjYzhPcl8xT2RSeWpMc0RxR1MzS1F2M1h4RlZhdkJN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-28T07:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1890,16 +1880,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRnBfaUdsMlFQa1VtZlFFeFl3MFYtNFJHRXh4dFNpbkE0bGpieEpla2ptTjViOG1uTHlGMG1DVGQ4aHZORFpMNGxuTkhOckF2aW5reXgybG9mUlVrSE42ODUxSmZlSTdaMEhBbHJXenRQT083NEx5Qmg2dDZDa0pQTzZiNkNUVk9RaWpfSHM1SFRocFhzVnRXWFd1OXZwY0tNWWpNYjhrMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-27T11:53:03+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Teamleiter (m/w/d) Arbeitsunfähigkeit/ Krankengeld - Krankenkasse - KKH",
-      "summary_de": "Teamleiter (m/w/d) Arbeitsunfähigkeit/ Krankengeld - Krankenkasse &nbsp;&nbsp; KKH",
-      "source_name": "\"site:kkh.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOTYtTllFZmlQeFYtdElkMWdGcEtLQUd5WXd2bEsxak9LRXh3MmQtSGFEMjB1TmtoVkpBVDJoWDA2QlRsZ3RacWZiMHVTX0RMXzQ4TEV3cDRrZnZYQVdkbmRWRVQ4c1ZjbWc5azBjUEt4djhqNHhhaGg5d2g2clJwSm15bWFnS2lkNVFwRHF5MmNqZVI2X0hNNEFzTkVpcm5PNnpIb0FQWjIzWk5aZGZ6N1BhYkhNdXU3Z0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-27T10:34:40+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2004,6 +1984,16 @@
       "type": "Studie"
     },
     {
+      "title": "Chlamydien: Ansteckung, Risiken in der Schwangerschaft und Behandlung - DAK-Gesundheit",
+      "summary_de": "Chlamydien: Ansteckung, Risiken in der Schwangerschaft und Behandlung &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcVZTRU5oRF8xMEtTbi1UQm1xRkJKOUJGYlgteExacndoeWxQandORGh0ZXY5RUFFXzFtTU5rcEpFbUxzSWlNTzV3WS1PVmFyMU9DQnhNVWdLN05PU1JkWGowRUN1VzYyWUMxX3JfYkxEd1lEcW1HVkRhRzNqSi1UYklpUk5ZWmxEekRkcUtTUUdHTklNUDczNTdYby0yQnJwV2x1UFJnMjFqVEFBWkFvbWkzaVB4V3dvc1VyYzNISTJzTHNTRGFMWGhKdnZHUXRVdURtenJRbVcxT3FLSHdkeWctbmE5TmNQZmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-21T14:21:20+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "EMA closed on Whit Monday, 25 May",
       "summary_de": "EMA’s office is closed on 25 May, to mark Whit Monday. The office reopens 08:30 on Tuesday, 26 May.The product emergency hotline is available outside working hours and on…",
       "source_name": "News and press releases",
@@ -2064,20 +2054,10 @@
       "type": "News"
     },
     {
-      "title": "BARMER Krankenkasse in Mannheim - Barmer",
-      "summary_de": "BARMER Krankenkasse in Mannheim &nbsp;&nbsp; Barmer",
+      "title": "BARMER Krankenkasse in Mannheim - BARMER",
+      "summary_de": "BARMER Krankenkasse in Mannheim &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOelJHQ09mWkJiUXk1eE5YTGlPWnhXSmNhU0ZBNmxCTUpiUWFUdjRFbmNobGp6NGpnTy1CMlZUV1Ewc0lmdy1scERpNU5NNUFYOF80bUtVNjR2RXFWbTZDWXhSaE9YOWpjVzhXRl94RHhHZFRfRE1LckVJd1NoN0V2RU1iR2xqcElNXzRlUjFqdDh2WmQyOEhYM1NXYUtsNEtIMF80Ykpsb1puelc2cWh2eHRWUlFxclBYQkRSbllWdzRBZ2RaMjJDQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-21T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Neuartige Behandlung ohne Vollnarkose: Innovation in Klinik - Wie Kälte gegen Endometriose hilft - RP Online",
-      "summary_de": "Neuartige Behandlung ohne Vollnarkose: Innovation in Klinik - Wie Kälte gegen Endometriose hilft &nbsp;&nbsp; RP Online",
-      "source_name": "\"site:rp-online.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWXZXOWV4NnlGdkdIS1RiSG5KTEZyUjZvZW0wbmllelEtaElwVlJUZnhHTWFVNllHdUNQbkIybTJIWHQwcnNwSkZSdEFCc2M0YXptUGF0dXhZcmpRcmx3WDh3c01RRE9ZdzFfUmRMenk2a015bGZqNXdWQndEbjk3ZDdWcm5aWTZsT1dmM3dpM2p6TnM0dFRhb1JMVWJSaU03eXc4cmZtSFpmajRPcmJVcnFQdHZIRzd0NUpuc2daUVFEajNXd0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-21T07:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -2122,6 +2102,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "TK-Safe - die elektronische Patientenakte (ePA) in der TK-App - Techniker Krankenkasse",
+      "summary_de": "TK-Safe - die elektronische Patientenakte (ePA) in der TK-App &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTkNUVkRpVldjQk9QLWhiVnBpLWV5V0dhWENkbnVzSnpLWlBRSjlocGZ3VGJUSDhhU2MyWHo5M0lMV0RLYVhyLU53djF3ZW03TVhYbk1NZ0gyZDhUX0p6SXFnZ2NSc1ptNzlKa2l4ZUR0WVpGV3VqLTBHV1YtT0dqU2ZrUzR0dkhIYXdtOU1HQUlhVUlIOHpVanpFaHVLdDJNd3lOcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-20T12:00:39+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "EU tracks progress towards 2030 clinical trial targets",
@@ -2196,6 +2186,16 @@
       "type": "News"
     },
     {
+      "title": "Tag der offenen Tür in Neuss: Johanna-Etienne-Krankenhaus zeigt Roboter-Technik im OP - RP Online",
+      "summary_de": "Tag der offenen Tür in Neuss: Johanna-Etienne-Krankenhaus zeigt Roboter-Technik im OP &nbsp;&nbsp; RP Online",
+      "source_name": "\"site:rp-online.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMmNYMXJwekJ4TDJhdEd1U3dMLUFBcGxSTXFsMFUzMGxydC1hYVU4SVR4OTdrZ01zVy1STVo0bk5KdlgyRGVVcmNuNjY2ejRYeUFSNFROVjdub3pqV0lxOVk1dGZSUDBXakF6Uk5Yam5GcTEzeE9FREdXN0U2cHpRUmF0ZTdHV1NWRDdoNkhCTjNLXzBaTGVIM2NZVFIyUl9XQjhBM3dQaEE1eDhidndvQlBPaENiTU5mRkplTmpjcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-19T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Topical immunosuppressants for blepharitis in adults",
       "summary_de": "Topical immunosuppressants for blepharitis in adults",
       "source_name": "Cochrane Library RSS feed.",
@@ -2232,16 +2232,6 @@
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2026/tag-der-selbstverwaltung-gesundheitswesen-rente-ehrenamt.html?pk_campaign=rss",
       "published_at": "2026-05-15T08:00:00+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Hohe Millionen-Investitionen geplant: Große Krankenhaus-Revolution im Kreis Kleve - RP Online",
-      "summary_de": "Hohe Millionen-Investitionen geplant: Große Krankenhaus-Revolution im Kreis Kleve &nbsp;&nbsp; RP Online",
-      "source_name": "\"site:rp-online.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc3c4MTU3TDBOYk5mOTM1cDlUS0c3aTYtaUVlNWQ2VjNSR2prRjIyUWJHNnJaTGp5NXY3TnFDVGhTSmRHMDhyNzViU3JiRXdFYnNGZGVlUDROV20xRS11Nm5CaG9tNnNsdGR6UFpEWmloQ0ZqQm4tbVh0MGJ6djl5cXFlb0QxdUk3SUlhVVBIUm9mMjJGTXJyaEpOS3A4dUNVaFp4N3d5YkZhSXpfWExsZ0sxR1JjUWdDRWRXNXZKcEtneHNZNWxiUFpSc2FFcHZZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-15T07:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2470,8 +2460,8 @@
       "type": "News"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-06T07:00:00+00:00",
@@ -2606,16 +2596,6 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/gp-contract-services/2025-26",
       "published_at": "2026-04-29T07:46:12+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Studentische Krankenversicherung: Beiträge und Kosten - DAK-Gesundheit",
-      "summary_de": "Studentische Krankenversicherung: Beiträge und Kosten &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQclkxSDBZZlo1UXhEWk50dGZoVzRFcjB1TFhDb0ZiLXBsa1ltRXY4UWtZNDQ2T2d3VGVLZUFDU0FwUGM2R2E5UTBPYWtQVTJrRHU2T3QzSWJpOTJkenBpTUFqX0c1cmRhOGdNY2NVOXBnSkxtRXlzcy1saEVWSzkzZ184TW5DRkt6cGktOExsTzZXbFhTUUxVNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-04-29T07:00:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
