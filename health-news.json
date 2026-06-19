@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-06-19T19:28:53.922636+00:00",
+  "generated_at": "2026-06-19T21:59:01.562119+00:00",
   "window_days": 42,
-  "count": 240,
+  "count": 236,
   "items": [
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Erstmeldung Arzneimittel: Nitrendipin Aristo 10 mg Filmtabletten pU: Aristo Pharma GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-06-19T17:15:41+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Doppelt positiv: Wie Sport und Schlaf zusammenhängen",
       "summary_de": "Wer Sport macht, schl&auml;ft besser &ndash; und andersherum ist derjenige leistungsf&auml;higer im Sport, der gut schl&auml;ft. Was dabei zu beachten ist und wie sinnvoll ein Proteinkonsum in der Nacht ist, haben Schlafmediziner jetzt berichtet.",
@@ -64,16 +74,6 @@
       "type": "News"
     },
     {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: Gabapentin-Micro Labs 800 mg Filmtabletten pU: Micro Labs GmbH",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-06-19T13:55:27+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "GKV-Sparpläne: Bundesregierung erteilt Länderforderungen Absage – News - Deutsches Ärzteblatt",
       "summary_de": "GKV-Sparpläne: Bundesregierung erteilt Länderforderungen Absage – News &nbsp;&nbsp; Deutsches Ärzteblatt",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
@@ -94,6 +94,16 @@
       "type": "News"
     },
     {
+      "title": "Meeting highlights from the Committee for Veterinary Medicinal Products (CVMP) 16-18 June 2026",
+      "summary_de": "CVMP opinions on veterinary medicinal productsThe Committee adopted a negative opinion for a marketing authorisation for Scovella&nbsp;(velagliflozin), a product classified as…",
+      "source_name": "News and press releases",
+      "source_url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-veterinary-medicinal-products-cvmp-16-18-june-2026",
+      "published_at": "2026-06-19T13:30:00+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Organisierte Kriminalität: Initiative warnt vor drohender europäischer Opioidkrise",
       "summary_de": "Die &raquo;Globale Initiative gegen transnationale organisierte Kriminalit&auml;t&laquo; warnt vor Vertriebszentren f&uuml;r Arzneimittel im Darknet und organisierter Kriminalit&auml;t &uuml;ber digitale Lieferketten.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -110,16 +120,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/tpg-chef-benner-spricht-ueber-aep-deal-166206/",
       "published_at": "2026-06-19T13:06:11+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Brandenburger Landtag stärkt Protest im Bundesrat gegen GKV-Spargesetz den Rücken – News - Deutsches Ärzteblatt",
-      "summary_de": "Brandenburger Landtag stärkt Protest im Bundesrat gegen GKV-Spargesetz den Rücken – News &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZmtlVEJNRGlpV3NsN3pTQzNndHdXN0ZCd3NWSkNJS2Z5ajd2Z2NEUWJxcVM5eW1PdVVsTE9tdzU3bWVSVGQzc3J1UV9Qc3pRdUJoaDNldl9fcHBRM1BsaDY2aVY5TFVtM0NaZ2poTkItOEphUkhlYnMyZ0lRVndkdENfZzdQdkhlZFl0Yjg0eW5lSTFFX0NIdWdmVmRWRTRFN3ZJVXlhR2hSXzN4UlBhaUNzMjh3REV2SnY0Qy1CbWNyZC1Ecl9UbGJjcXJNN3o0VjdrZmJqWjVaX2FYbS1WWnhrOU4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-19T13:00:34+00:00",
-      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -518,18 +518,6 @@
       "type": "News"
     },
     {
-      "title": "gemeinsame Pressemitteilung: Gemeinsamer Bundesausschuss verabschiedet Josef Hecken",
-      "summary_de": "Die heutige Plenumssitzung des Gemeinsamen Bundesauschusses (G-BA) ist die letzte gewesen, die er geleitet hat: Professor Josef Hecken beendet auf eigenen Wunsch seine Tätigkeit als unparteiischer Vorsitzender des G-BA zum 30. Juni 2026. Der 1959 in Neuwied geborene Jurist bekleidete dieses Amt seit Juli 2012.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2282880.jsp",
-      "published_at": "2026-06-18T12:25:50+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Warning on promoting newly licensed prescription-only medicines and unlicensed medicines for weight management",
       "summary_de": "The MHRA, Advertising Standards Authority, and the General Pharmaceutical Council have issued a warning to businesses seeking to promote newly authorised medicines, as well as those that do not yet have a marketing authorisation.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -577,29 +565,6 @@
       "published_at": "2026-06-18T12:02:01+00:00",
       "category": "News",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Fachärztin­­/ Facharzt für Allgemeinmedizin Innere Medizin als Anstaltsärztin­­/ Anstaltsarzt - FAZ Stellenmarkt",
-      "summary_de": "Fachärztin­­/ Facharzt für Allgemeinmedizin Innere Medizin als Anstaltsärztin­­/ Anstaltsarzt &nbsp;&nbsp; FAZ Stellenmarkt",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV2s4SFp0TEVIQlU4RVIwNlZ4N3dhVHhTU2tuYkZHSkNEZVhtdjRadmV4THEtTXQ4dlNBcmFPVFZPRm1iOTVYYTdZdjQ1MmJaWDRwSHVIVG5hWi1LdUtlck9BV1NxUlJ6MEZObTE0NFRoQ2RQTjRpVlVnNFA0c2x2ajB5LVFEVHdWckw5NExKYjdKMWhmZnpPMWZwZWtESjVhNDVNVVloRFZjT2ZRdkprLWJvRnVrNzF6dE1yLVBWN1B4UUtYNm85bDFzQ0dnc2V0SkJBZ1JDUmZYLXBvcG1r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-18T11:25:26+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Pressemitteilung: Bessere Versorgung bei Magenkrebs",
-      "summary_de": "Der Gemeinsame Bundesausschuss hat auf Antrag des GKV-Spitzenverbandes eine Mindestmenge für die Operation von Magenkrebs beschlossen. Damit wird künftig sichergestellt, dass nur Kliniken diesen komplexen und anspruchsvollen Eingriff durchführen werden, die die erforderliche Expertise und Erfahrung für den Eingriff nachweisen können.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2283776.jsp",
-      "published_at": "2026-06-18T11:09:53+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Versorgung",
-        "Wirtschaft"
-      ],
       "type": "News"
     },
     {
@@ -759,6 +724,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMElRd2h3cUNJdFRFRDRFR3ctVlpQQW1jY3JCdExBTnl1c2FMNHlhVWZWSndrdzRYeG12VG5zQnNoQjYwVGxQbHJaZWpySjc3bkdVSW9PTjFUdXZFS1dBUXZ2QXdtS2pJSUpiVmdtaEhSYVFTcXFvWjJobGtDTU9GYnFySjZwQmRhdHVtRk1mbGlXNmo4OU9ZQ0FqZnlVOUhZUDBjbTJxaUVjb01CSF9raWl6bkxZS2dFRUFxcElRVXo5V2pscDZ0eE5BVlJVeXBkZWxtRmhvUTRWMWJSMkFrSHh1empuUTYzZGdMRWFjY2pUZ29EMTZ1czhB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-18T01:30:05+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Fachärztin/-arzt für Radiologie (m/w/d) - ärztestellen",
+      "summary_de": "Fachärztin/-arzt für Radiologie (m/w/d) &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUFNwd2RqVGlSaldZTnZuUTdOdnBsTVJXd1ZwbnB6Q0tJM2ppMlk4N0FaeHpHV2ZyeGRUX2hHbW9jbVE4dmduOHc3Zm9Kd0xUZ1lhNkVnQ2EzaFR0U0lWNGR3RmhpNXhVbC12aGVZWTdpb1JvT20wamtJYmtRVHdONEZLaWRudEV3VU1ydUJOZ2RMZXFEWFVtZDl2enZuZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-17T22:00:08+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1071,6 +1046,16 @@
       "type": "News"
     },
     {
+      "title": "Arzt/Ärztin Jobs in Menden (Sauerland) - RP Online",
+      "summary_de": "Arzt/Ärztin Jobs in Menden (Sauerland) &nbsp;&nbsp; RP Online",
+      "source_name": "\"site:rp-online.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pMXJaWnRoMHVyTGwtRXFfUmdva2JNVG9mMUZocHZtTWN5TTQyc3ItUXI4Q3lISFFRUGd2ZHJ0ZkdjM1Ezd2RIVTFDLTE3S3I0Q2ctdzY2QTc2Q3hkams0YlpDb2s0RUd5MXhtWWRvS3NzYUJkeEFJOHg5M1hNUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-16T08:37:16+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Arzt/Ärztin Jobs in Meerbusch - RP Online",
       "summary_de": "Arzt/Ärztin Jobs in Meerbusch &nbsp;&nbsp; RP Online",
       "source_name": "\"site:rp-online.de radiologie\" - Google News",
@@ -1187,6 +1172,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOcHE0Qy1VMkxGMWRwVm96RGI4UHVhbHBkYmQzLUduLXhmRXVwbmFKZzNHTXBId3NQamJocGhyVlFlT1NzNXVVb1o2QldRek9iUXFHWE90b1lpVGdmZm1qMHM3SUg4dk9jRWJtLVdXUFFUdjRiVldON1hXMTlLZEFaOXhZTy15bDBWd1U0YVRUaE1uWVpvUXExZWpsYUM1QVQzYzJ1dEtzNUR2Y210TmFvb2UzV3cxa3BuWFppalpMVVotaS1kT2pNcXdsSXBCYzduVTBmQy03c1FINjhGVlRabmUzcmNNT2xFTVdITlh6OWJVZ2lQNU5j?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-15T09:28:29+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "EMA Management Board: highlights of June 2026 meeting",
+      "summary_de": "Crisis preparedness and responseThe Management Board welcomed EMA’s support to African regulators in the context of the Ebola outbreak in the Democratic Republic of Congo and…",
+      "source_name": "News and press releases",
+      "source_url": "https://www.ema.europa.eu/en/news/ema-management-board-highlights-june-2026-meeting",
+      "published_at": "2026-06-15T09:20:01+00:00",
+      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -1313,16 +1308,6 @@
       "type": "News"
     },
     {
-      "title": "Personal | Chirurgische Klinik I - Allgemein- und Viszeralchirurgie | LA-Regio Kliniken Krankenhaus Vilsbiburg in 84137 Vilsbiburg - HEK",
-      "summary_de": "Personal | Chirurgische Klinik I - Allgemein- und Viszeralchirurgie | LA-Regio Kliniken Krankenhaus Vilsbiburg in 84137 Vilsbiburg &nbsp;&nbsp; HEK",
-      "source_name": "\"site:hek.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZjVNUHpCekdxRFdCWkY5Z2M0WmZCOHVCMURXQlBDZVdGQlAtbDhuZUMwMDZYVk4wc1JETlNuWVF1akxsV2NKbzFWOHBHSjVaSVNzSm9oY2w3bm52MkFwcUpXMXo2MXBvY01ydTc2MEZpTnNfWTBpTlZObGZlQ0R5M1pEVXhwTTE5QTY3dzRCZDJtQ1pkZ3F5a3I0ZmdkcW5YaGVFeHdpUl9fOHBNWkdGcFQwT1hrX0RrZlh5RkJFNHlPZl9heENkQWhpanlKUWg3eV9JeWtUWnlMVDE1b2owdUdiVjZ1THFQdjdGdmphd05SdktVM184aElKNkI5ZDNodmZkd3AwZUU0d0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-13T12:46:27+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheitspolitik: Sachsens Ärzte fordern Neustart der Gesundheitsreform - DIE ZEIT",
       "summary_de": "Gesundheitspolitik: Sachsens Ärzte fordern Neustart der Gesundheitsreform &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
@@ -1385,6 +1370,16 @@
       "type": "News"
     },
     {
+      "title": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 8-11 June 2026",
+      "summary_de": "PRAC concludes evidence of potential risk of neurodevelopmental disorders in children born to men treated with valproate is inconsistent&nbsp;&nbsp;Committee&nbsp;recommends updating product…, Agenda Agenda of the PRAC meeting 8-11 June 2026Draft Reference Number: EMA/PRAC/115322/2026…, PRAC statistics: June 2026 , , Glossary Safety signal assessments. A safety signal is information which suggests a new potentially causal association, or a new aspect of …",
+      "source_name": "News and press releases",
+      "source_url": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-8-11-june-2026",
+      "published_at": "2026-06-12T12:00:00+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Sparpaket nicht weiter aufweichen – Staat muss auch seine Verantwortung übernehmen",
       "summary_de": "Der vdek warnt vor weiteren Abschwächungen des Beitragssatzstabilisierungsgesetzes. Neben wirksamen Maßnahmen zur Begrenzung der Ausgaben müsse auch der Bund versicherungsfremde Leistungen ausreichend finanzieren, um weitere Beitragssatzsteigerungen zu verhindern.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -1414,18 +1409,6 @@
       "published_at": "2026-06-12T07:00:00+00:00",
       "category": "Radiologie",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Pressemitteilung: Reformdruck nimmt zu – Lasten gerecht verteilen",
-      "summary_de": "„Es ist dringend notwendig, dass die Reform jetzt zügig durch den Gesetzgebungsprozess kommt. Denn die gesetzliche Krankenversicherung braucht die darin vorgesehenen Einsparungen, um die 75 Millionen Versicherten im nächsten Jahr ohne erneute Beitragssatzerhöhungen gut versorgen zu können\", erklärt Stefanie Stoff-Ahnis.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2279631.jsp",
-      "published_at": "2026-06-12T05:49:05+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
       "type": "News"
     },
     {
@@ -1499,23 +1482,21 @@
       "type": "News"
     },
     {
-      "title": "Meldung: Die Pharmaindustrie verdient in Deutschland blendend",
-      "summary_de": "Mit Verwunderung reagiert Stefanie Stoff-Ahnis, stellvertretende Vorstandsvorsitzende des GKV-Spitzenverbandes, in der Wirtschaftswoche auf die Ankündigungen einzelner Pharmaunternehmen, Investitionen in Deutschland zu streichen. Im Interview mit der Wirtschaftswoche sagt Stoff-Ahnis: „Der deutsche Markt bietet der Pharmaindustrie hervorragende Bedingungen. Patientinnen und Patienten bekommen schnell Zugang zu neuen Wirkstoffen und Arzneimitteln und die gesetzlichen Kassen sind ein großer Kunde mit 75 Millionen Versicherten.“",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2279296.jsp",
-      "published_at": "2026-06-11T11:21:41+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Regulation of AI in Healthcare",
       "summary_de": "The MHRA is seeking evidence on the regulation of AI in healthcare to inform the recommendations of the National Commission into the Regulation of AI in Healthcare.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
       "source_url": "https://www.gov.uk/government/calls-for-evidence/regulation-of-ai-in-healthcare",
       "published_at": "2026-06-11T11:00:01+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "EMA’s 2025 annual report shows strong approval numbers for human and veterinary medicines",
+      "summary_de": "Today, EMA released its 2025 annual report, highlighting progress in bringing innovative, safe and effective medicines to patients. The report outlines the most important…",
+      "source_name": "News and press releases",
+      "source_url": "https://www.ema.europa.eu/en/news/emas-2025-annual-report-shows-strong-approval-numbers-human-veterinary-medicines",
+      "published_at": "2026-06-11T11:00:00+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
@@ -1601,18 +1582,6 @@
       "type": "News"
     },
     {
-      "title": "Meldung: Hitzeaktionstag: Besser auf extreme Wetterlagen vorbereiten",
-      "summary_de": "Mit dem Klimawandel steigt die Wahrscheinlichkeit, dass Hitzeperioden häufiger vorkommen, länger andauern und auch höhere Temperaturen erreichen. Darauf ist Deutschland noch nicht ausreichend vorbereitet. Der heutige Hitzeaktionstag macht darauf aufmerksam.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2279247.jsp",
-      "published_at": "2026-06-11T07:55:23+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Medical devices: ask for a regulatory advice meeting from the MHRA",
       "summary_de": "How to apply for a regulatory advice meeting on medical devices and in vitro diagnostic devices.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1680,19 +1649,6 @@
       "published_at": "2026-06-10T11:00:00+00:00",
       "category": "Gesundheitspolitik",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Pressemitteilung: Bund lässt Krankenkassen zunehmend auf Kosten sitzen – Klagen wichtiger denn je",
-      "summary_de": "Auf 12 Milliarden Euro beziffert die FinanzKommission Gesundheit die Belastung der gesetzlichen Krankenversicherung durch die Ausgaben für die gesundheitliche Versorgung von Bürgergeldbeziehenden im nächsten Jahr. Mit der im GKV-Beitragssatzstabilisierungsgesetz vorgesehenen, über fünf Jahre gestreckten Anhebung der Beitragspauschalen des Bundes wird das Problem der Unterfinanzierung aber nur scheinbar angegangen.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2277696.jsp",
-      "published_at": "2026-06-10T08:22:20+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Versorgung",
-        "Wirtschaft"
-      ],
       "type": "News"
     },
     {
@@ -1766,19 +1722,6 @@
       "type": "News"
     },
     {
-      "title": "Pressemitteilung: Pflegeneuordnungsgesetz dringend notwendig, aber viel zu unausgewogen",
-      "summary_de": "Zu dem nun vorliegenden Entwurf eines Pflegeneuordnungsgesetzes erklärt Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes: „Der Finanzdruck in der Pflege ist enorm und deshalb ist es gut, dass nun der Entwurf einer Pflegereform auf dem Tisch liegt. Bei der Pflege brennt die Hütte und der vorgelegte Entwurf enthält einige Instrumente, mit denen das Löschen beginnen kann.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2274574.jsp",
-      "published_at": "2026-06-04T08:32:49+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Versorgung",
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Access to crisis care via NHS 111 - Mental Health, April 2026",
       "summary_de": "This publication introduces a newly established data collection for demand and call handling data items related to accessing crisis care via the NHS111 'select MH option'. This data will provide important insights into how accessible the crisis care system is helping to identify any gaps or inefficiencies. Additionally, the data will be used to support demand and capacity planning across …",
       "source_name": "Publication Feed",
@@ -1816,18 +1759,6 @@
       "published_at": "2026-06-04T08:11:30+00:00",
       "category": "News",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Meldung: Dynamischer Herstellerabschlag ist Sicherheitsnetz gegen höhere Beiträge",
-      "summary_de": "Mit Blick auf die hohen Arzneimittelkosten dürften Einsparungen bei der Pharmaindustrie nicht zu gering ausfallen, warnt Stefanie Stoff-Ahnis, stellvertretende Vorstandsvorsitzende des GKV-Spitzenverbandes, in der Rheinischen Post. „Arzneimittel sind nach den Krankenhäusern der zweitgrößte Kostenblock in der gesetzlichen Krankenversicherung und die Pharmaindustrie verdient daran blendend.“",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2274573.jsp",
-      "published_at": "2026-06-04T08:01:39+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
       "type": "News"
     },
     {
@@ -1881,6 +1812,16 @@
       "type": "News"
     },
     {
+      "title": "EMA, AMA and African regulatory authorities join forces on Ebola outbreak response",
+      "summary_de": "EMA’s Emergency Task Force (ETF) is engaging with the African Medicines Agency (AMA) and its national regulatory authorities (NRAs), leveraging expertise from the WHO-AFRO…",
+      "source_name": "News and press releases",
+      "source_url": "https://www.ema.europa.eu/en/news/ema-ama-african-regulatory-authorities-join-forces-ebola-outbreak-response",
+      "published_at": "2026-06-03T12:52:00+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "[MI] NHS Productivity Growth Estimates - February 2026",
       "summary_de": "This publication contains the monthly NHS Productivity Growth Estimates for the period April 2025 to February 2026, which in financial terms is described as Month 11 year-to-date (YTD). It estimates the change, compared with the same period in the previous year, for the following: activity (cost‑weighted), resource use (in real terms), and productivity.The tables included in this publication present NHS …",
       "source_name": "Publication Feed",
@@ -1918,18 +1859,6 @@
       "published_at": "2026-06-02T09:43:12+00:00",
       "category": "Europa",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "gemeinsame Pressemitteilung: Übergangslösung sichert ambulante Operationen bei Kindern und Jugendlichen",
-      "summary_de": "Ambulant durchführbare Eingriffe bei Kindern und Jugendlichen, etwa im Fall von Leistenbrüchen, werden überbrückend besser vergütet, bevor 2027 eine neue Regelung in Kraft tritt. Darauf haben sich der GKV-Spitzenverband (GKV-SV) und die Kassenärztliche Bundesvereinigung (KBV) einvernehmlich geeinigt.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2273344.jsp",
-      "published_at": "2026-06-02T07:02:57+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
       "type": "News"
     },
     {
@@ -2003,15 +1932,23 @@
       "type": "Studie"
     },
     {
-      "title": "Meldung: Den überproportionalen Zuwachs der Ausgaben begrenzen",
-      "summary_de": "Im Interview mit Teach Economy sprach Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, über Finanzierbarkeit, Versorgungsqualität, Effizienzprobleme und Prävention sowie die Rolle der Politik im Spannungsfeld zwischen Reformbemühungen und Lobbyinteressen.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2271690.jsp",
-      "published_at": "2026-05-29T06:37:42+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
+      "title": "United for Health: EMA in WorldPride 2026",
+      "summary_de": "June is PRIDE month and EMA starts a two-month celebration of diversity and inclusion in science and healthcare, leading up to its participation in the world-famous Amsterdam…, Our strength in the EU comes from our unity in diversity. Equality and non-discrimination are critical everywhere, but in health they can make the difference between…, EMA staff will be joined on the …",
+      "source_name": "News and press releases",
+      "source_url": "https://www.ema.europa.eu/en/news/united-health-ema-worldpride-2026",
+      "published_at": "2026-05-31T22:00:00+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "ETF recommends updating COVID-19 vaccines to target XFG variant",
+      "summary_de": "EMA’s Emergency Task Force (ETF) has recommended updating COVID-19 vaccines to target the new SARS-CoV-2 variant XFG for the 2026/2027 vaccination campaign.XFG is part of the…",
+      "source_name": "News and press releases",
+      "source_url": "https://www.ema.europa.eu/en/news/etf-recommends-updating-covid-19-vaccines-target-xfg-variant",
+      "published_at": "2026-05-29T11:35:00+00:00",
+      "category": "Europa",
+      "tags": [],
       "type": "News"
     },
     {
@@ -2155,6 +2092,16 @@
       "type": "Studie"
     },
     {
+      "title": "MRT Einladung 03 06 2026.indd - Die Johanniter",
+      "summary_de": "MRT Einladung 03 06 2026.indd &nbsp;&nbsp; Die Johanniter",
+      "source_name": "\"site:johanniter.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRnBfaUdsMlFQa1VtZlFFeFl3MFYtNFJHRXh4dFNpbkE0bGpieEpla2ptTjViOG1uTHlGMG1DVGQ4aHZORFpMNGxuTkhOckF2aW5reXgybG9mUlVrSE42ODUxSmZlSTdaMEhBbHJXenRQT083NEx5Qmg2dDZDa0pQTzZiNkNUVk9RaWpfSHM1SFRocFhzVnRXWFd1OXZwY0tNWWpNYjhrMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-27T11:53:03+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "[MI] Rapid Cancer Registration Data",
       "summary_de": "Rapid Cancer Registration Data (RCRD) provides a quick, indicative source of cancer data. It is provided to support the planning and provision of cancer services. The data is based on a rapid processing of cancer registration data sources, in particular on Cancer Outcomes and Services Dataset (COSD) information. In comparison, National Cancer Registration Data (NCRD) relies on additional data sources, …",
       "source_name": "Publication Feed",
@@ -2165,16 +2112,13 @@
       "type": "News"
     },
     {
-      "title": "Meldung: Die Pflege lebt auf Pump",
-      "summary_de": "Die soziale Pflegeversicherung hat im 1. Quartal dieses Jahres ein Defizit von 667 Millionen Euro eingefahren, trotz eines Darlehens von 800 Millionen Euro. Für das Jahr 2026 wird ein Minus von rund einer Milliarde Euro erwartet. „Bei der Pflegeversicherung brennt die Hütte und wir müssen uns dringend ans Löschen machen“, bringt Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, die Situation im SPIEGEL …",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2270740.jsp",
-      "published_at": "2026-05-26T08:03:09+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Versorgung",
-        "Wirtschaft"
-      ],
+      "title": "EU recommendations for 2026/2027 seasonal flu vaccine composition",
+      "summary_de": "This news announcement was updated on two occasions. On 7 May 2026, it was updated to include additional recommendations for strains for seasonal egg-derived and live-attenuated…",
+      "source_name": "News and press releases",
+      "source_url": "https://www.ema.europa.eu/en/news/eu-recommendations-2026-2027-seasonal-flu-vaccine-composition",
+      "published_at": "2026-05-26T11:50:00+00:00",
+      "category": "Europa",
+      "tags": [],
       "type": "News"
     },
     {
@@ -2186,6 +2130,36 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Meeting highlights from the Committee for Veterinary Medicinal Products (CVMP) 19-21 May 2026",
+      "summary_de": "CVMP opinions on veterinary medicinal productsThe Committee adopted a positive opinion for a marketing authorisation for Nobivac NXT HC, for the active immunisation of&nbsp;cats…",
+      "source_name": "News and press releases",
+      "source_url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-veterinary-medicinal-products-cvmp-19-21-may-2026",
+      "published_at": "2026-05-22T13:12:00+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 May 2026",
+      "summary_de": "Eight new medicines recommended for approvalEMA’s human medicines committee (CHMP) recommended eight medicines for approval at its May 2026 meeting.Jascayd (nerandomilast)…, CHMP statistics Key figures from the May 2026&nbsp;CHMP&nbsp;meeting are represented in the graphic below. &nbsp;, CHMP statistics:…, Positive recommendations on new medicines, Boey INN trenibotulinumtoxinE Marketing authorisation applicant AbbVie Deutschland GmbH &amp; Co Therapeutic indication Temporary improvement in the…, …",
+      "source_name": "News and press releases",
+      "source_url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-may-2026",
+      "published_at": "2026-05-22T10:50:00+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "New medicine for two types of pulmonary fibrosis",
+      "summary_de": "EMA has recommended granting a marketing authorisation in the European Union (EU) for Jascayd (nerandomilast) to treat adults with idiopathic pulmonary fibrosis (IPF) or…",
+      "source_name": "News and press releases",
+      "source_url": "https://www.ema.europa.eu/en/news/new-medicine-two-types-pulmonary-fibrosis",
+      "published_at": "2026-05-22T10:00:01+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Provisional Accident and Emergency Quality Indicators for England, March 2026, by provider",
@@ -2208,19 +2182,6 @@
       "type": "News"
     },
     {
-      "title": "Pressemitteilung: Apothekenreform macht die Versorgung teurer, aber nicht besser",
-      "summary_de": "„Die Politik war angetreten, die Apothekenversorgung mit guten Ansätzen zu reformieren. Auf den letzten Metern ist aus dem heute im Bundestag verabschiedeten Apotheken-Gesetz aber eine Mogelpackung geworden. Die Apothekenversorgung wird damit in Zukunft nur teurer, aber im Wesentlichen nicht besser\", sagt sagt Stefanie Stoff-Ahnis, stellvertretende Vorstandsvorsitzende des GKV-Spitzenverbandes zur heutigen 2./3. Lesung des Gesetzes zur Weiterentwicklung der Apothekenversorgung (ApoVWG) im …",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2269258.jsp",
-      "published_at": "2026-05-22T06:34:43+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Versorgung",
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Early erythropoiesis‐stimulating agents in preterm or low‐birthweight infants",
       "summary_de": "Early erythropoiesis‐stimulating agents in preterm or low‐birthweight infants",
       "source_name": "Cochrane Library RSS feed.",
@@ -2229,6 +2190,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "EMA closed on Whit Monday, 25 May",
+      "summary_de": "EMA’s office is closed on 25 May, to mark Whit Monday. The office reopens 08:30 on Tuesday, 26 May.The product emergency hotline is available outside working hours and on…",
+      "source_name": "News and press releases",
+      "source_url": "https://www.ema.europa.eu/en/news/ema-closed-whit-monday-25-may",
+      "published_at": "2026-05-21T12:00:00+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Maternity Services Monthly Statistics, Final February 2026, Provisional March 2026, official statistics",
@@ -2271,16 +2242,6 @@
       "type": "News"
     },
     {
-      "title": "„Wir sind Ihr Krankenhaus – und das wollen wir auch bleiben“ - RP Online",
-      "summary_de": "„Wir sind Ihr Krankenhaus – und das wollen wir auch bleiben“ &nbsp;&nbsp; RP Online",
-      "source_name": "\"site:rp-online.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR0pVSTlxZHVDamFoYlFDWlVIbXJfQzBqa1RnNjlxYlNjcUFXRnhwelRpekJBTklXdUVjbWlzQnc1V2tFSGpkR0Y4YkJ2UXRVX09PSW9yU3h3WXZ4VVJ5a3hqdy1PUmN6UjN0UVNXNkJ2Y0NzWTRpRk5heDZxTXRMR2E2NjVZaDlrRk9ZUkF2Z1o4MENjbnZNWWdBeGpiVGF2RlNNanVsdmVhNEFxblFvb21B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-21T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Artificial intelligence for detection and staging of Alzheimer’s disease using retinal images",
       "summary_de": "Artificial intelligence for detection and staging of Alzheimer’s disease using retinal images",
       "source_name": "Cochrane Library RSS feed.",
@@ -2311,46 +2272,24 @@
       "type": "Studie"
     },
     {
+      "title": "EU tracks progress towards 2030 clinical trial targets",
+      "summary_de": "The European Commission (EC), the Heads of Medicines Agencies (HMA) and EMA have published their first report tracking progress against the EU’s new clinical trial targets.…",
+      "source_name": "News and press releases",
+      "source_url": "https://www.ema.europa.eu/en/news/eu-tracks-progress-towards-2030-clinical-trial-targets",
+      "published_at": "2026-05-20T09:58:00+00:00",
+      "category": "Studie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "Studie"
+    },
+    {
       "title": "Network Contract DES (MI) - April 2026",
       "summary_de": "A framework for GP contract reform to implement The NHS Long Term Plan published in January 2019 which describes significant investment in Primary Care Networks (PCNs) through the Network Contract Directed Enhanced Service (DES). The eighth year of the Network Contract DES began in April 2026. The data provides information to allow effective management of the contract. The indicators are …",
       "source_name": "Publication Feed",
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-network-contract-des/england-april-2026",
       "published_at": "2026-05-19T14:30:44+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "gemeinsame Pressemitteilung: Pflegereform jetzt umsetzen: Prävention von Pflegebedürftigkeit muss bei den Versicherten ankommen",
-      "summary_de": "Mehr als 6 Millionen Menschen beziehen Leistungen aus der sozialen Pflegeversicherung. Die Anzahl der pflegebedürftigen Menschen, die Leistungen der sozialen Pflegeversicherung erhalten, hat sich seit 2015 mehr als verdoppelt.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2267072.jsp",
-      "published_at": "2026-05-19T07:37:19+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
-      "title": "Meldung: Ein Aufschieben der Reform ist keine Option",
-      "summary_de": "„Kein Cent mehr Belastung für Patientinnen und Patienten als in der aktuellen Fassung des Gesetzes vorgesehen“, das fordert Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes im Gespräch mit der Deutschen Presse-Agentur (dpa).",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2264649.jsp",
-      "published_at": "2026-05-15T07:06:27+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
-      "title": "Hohe Millionen-Investitionen geplant: Große Krankenhaus-Revolution im Kreis Kleve - RP Online",
-      "summary_de": "Hohe Millionen-Investitionen geplant: Große Krankenhaus-Revolution im Kreis Kleve &nbsp;&nbsp; RP Online",
-      "source_name": "\"site:rp-online.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc3c4MTU3TDBOYk5mOTM1cDlUS0c3aTYtaUVlNWQ2VjNSR2prRjIyUWJHNnJaTGp5NXY3TnFDVGhTSmRHMDhyNzViU3JiRXdFYnNGZGVlUDROV20xRS11Nm5CaG9tNnNsdGR6UFpEWmloQ0ZqQm4tbVh0MGJ6djl5cXFlb0QxdUk3SUlhVVBIUm9mMjJGTXJyaEpOS3A4dUNVaFp4N3d5YkZhSXpfWExsZ0sxR1JjUWdDRWRXNXZKcEtneHNZNWxiUFpSc2FFcHZZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-15T07:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2442,18 +2381,6 @@
       "published_at": "2026-05-12T18:01:01+00:00",
       "category": "Europa",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Meldung: Pflegeversicherung vor ihrer größten Bewährungsprobe",
-      "summary_de": "„Die Pflegeversicherung steht vor der größten Bewährungsprobe seit ihrer Einführung vor 31 Jahren“, sagte Oliver Blatt, Vorstandsvorsitzender des GKV – Spitzverbandes, der Rheinischen Post. Die Situation sei extrem schwierig, denn die Pflegeversicherung müsse mehr Geld ausgeben als sie einnehme und bei den Eigenanteilen der Pflegeheimbewohner sei das Ende der Fahnenstange längst erreicht.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2261244.jsp",
-      "published_at": "2026-05-11T07:40:42+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
       "type": "News"
     }
   ],
