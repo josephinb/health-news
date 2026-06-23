@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-06-23T17:11:25.548846+00:00",
+  "generated_at": "2026-06-23T19:51:44.356690+00:00",
   "window_days": 42,
-  "count": 238,
+  "count": 228,
   "items": [
+    {
+      "title": "Tino Sorge beim Hauptstadtkongress : Fällt der dynamische Herstellerabschlag?",
+      "summary_de": "Am Dienstag wurde auf dem Hauptstadtkongress &uuml;ber Innovationen im deutschen Gesundheitssystem diskutiert. Staatssekret&auml;r Tino Sorge (CDU) deutete dabei an, dass das Gesundheitsministerium den dynamische Herstellerabschlag streichen k&ouml;nnte.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/faellt-der-dynamische-herstellerabschlag-166266/",
+      "published_at": "2026-06-23T16:55:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Verträglichkeit von Antihypertensiva: Sartane sind die Stars",
       "summary_de": "Die Compliance zu einer blutdrucksenkenden Therapie leidet oft darunter, dass die Medikamente unangenehme Nebenwirkungen haben. Welche Wirkstoffgruppen sind dabei am kritischsten, welche am unproblematischsten? Eine Metaanalyse gibt Antworten.",
@@ -20,16 +30,6 @@
       "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-15-to-19-june-2026",
       "published_at": "2026-06-23T15:23:17+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Größeres GKV-Sparpaket: DAK-Chef Storm sieht Bund in der Verantwortung – News - Deutsches Ärzteblatt",
-      "summary_de": "Größeres GKV-Sparpaket: DAK-Chef Storm sieht Bund in der Verantwortung – News &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaC1BQllqVkxEby0zYmcySkhWWjdmTWxTeFByS2trbHJRNUFKRC1CM2JXMmJaM2dXXzBtVWtzcU0tekZ5VDA5eWFJenItMENSU3lSbHo1aTRsTEtkemc5TDRtSlp6Wi12aGVkaUFzOGlCRTJ6ZWVnN09xYUNGWExDWXhzOUo0RWZyakl4S2l0b1RubjNTUEVXS0ptNHNpcm9DbnVyOFJ1ek1wQmU2Um1iN1RyLXRBcG10WDZMN3Mwa2NmZXhWandaTTJnNzRjb1FSdlFxakh3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-23T15:15:07+00:00",
-      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -86,7 +86,7 @@
     {
       "title": "Fachbereichsleiter:in Medizinökonomie und Gesundheit - ZEIT Stellenmarkt",
       "summary_de": "Fachbereichsleiter:in Medizinökonomie und Gesundheit &nbsp;&nbsp; ZEIT Stellenmarkt",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVFFfNTZmQTFleW5EcnlJcWx4Zmw0ZXJ2ZDUzRmlwS05OdEh3ZVNaa09QbDBscFNLNWlMUmhZUllWN29RUFVEMkhtbUd0UmE2VURoUGNCaUpBemhiSXV4c0pWRm04OFdVU1UwNEJlQVZtc09oREl4MU9OcWFmd1hjQ25VTzB4Y2VfekVPNnU1Q2hTSVhmMkU4Tk52LTJFTGdJTjlFNUtlQjl3d2daejdjUlJKNjM0dVhMZ3BDUU91Y2R0LXYtWWdlcW1sWmhMNkxCeXBILU84MTVWaEluUEh0ajFuRl9OdnBVWVo3Y2lUcHlsdFVmUlJqYXBYTTBhdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-23T13:31:13+00:00",
       "category": "News",
@@ -298,7 +298,7 @@
     {
       "title": "Akademische/r Mitarbeiter/in (m/w/d) oder Abordnung (m/w/d) am Institut für Alltagskultur, Bewegung und Gesundheit - ZEIT Stellenmarkt",
       "summary_de": "Akademische/r Mitarbeiter/in (m/w/d) oder Abordnung (m/w/d) am Institut für Alltagskultur, Bewegung und Gesundheit &nbsp;&nbsp; ZEIT Stellenmarkt",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPYUdUa0d3d3g1VlJUSFBDOUxhSTRwZ2h4TW5QNUVSWFVUenN3S0Fjb2hOcmYwRndGS3RXdE1uN3lybkdMZjlWM0M2U3lYVlBhb2tnbmhwc1Nyd0llWVhKSkpsX29mc3RsaVV3Y2Z1MnhBajZXcjhjX0hhQjFON2V0QjkyeHh2VjlpelBqQW5vM3FmQ3JqR1dzQ1FmTU0zZ1lBMk1LRFdKMGUyc3FjWEFBSHprZVFiLUswSU5aMG5RSm04Tlk1dk5Kb2pMZG1XZHJZdkM5SGJLdDlXcUhCQWlRMDE4LXFLRFB6ZlJaMFZvQ2lvc1NxRGhBZ2huYTF5QmxvVGpmSmZwM1R5QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-23T08:57:12+00:00",
       "category": "News",
@@ -501,20 +501,20 @@
       "type": "News"
     },
     {
-      "title": "Von Viren lernen: KI designt neuartige Nanokäfige",
-      "summary_de": "Mithilfe k&uuml;nstlicher Intelligenz lassen sich Proteinstrukturen nicht nur analysieren, sondern auch entwerfen. Ein Beispiel stellt jetzt ein internationales Forschungsteam&nbsp;im Journal &raquo;Nature&laquo; vor: Einen Nanok&auml;fig, der das Protein-Konstruktionsprinzip von Viren nachahmt.",
+      "title": "DR Kongo: Mehr als 1000 bestätigte Ebola-Fälle",
+      "summary_de": "Gesundheitsexperten sind besorgt &uuml;ber die rasche Ausbreitung von Ebola in der Demokratischen Republik Kongo. Nun gibt es bereits mehr als 1000 best&auml;tigte F&auml;lle. Viele Kontakte bleiben unbekannt.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/ki-designt-neuartige-nanokaefige-166233/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/mehr-als-1000-bestaetigte-ebola-faelle-166235/",
       "published_at": "2026-06-22T14:20:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "DR Kongo: Mehr als 1000 bestätigte Ebola-Fälle",
-      "summary_de": "Gesundheitsexperten sind besorgt &uuml;ber die rasche Ausbreitung von Ebola in der Demokratischen Republik Kongo. Nun gibt es bereits mehr als 1000 best&auml;tigte F&auml;lle. Viele Kontakte bleiben unbekannt.",
+      "title": "Von Viren lernen: KI designt neuartige Nanokäfige",
+      "summary_de": "Mithilfe k&uuml;nstlicher Intelligenz lassen sich Proteinstrukturen nicht nur analysieren, sondern auch entwerfen. Ein Beispiel stellt jetzt ein internationales Forschungsteam&nbsp;im Journal &raquo;Nature&laquo; vor: Einen Nanok&auml;fig, der das Protein-Konstruktionsprinzip von Viren nachahmt.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/mehr-als-1000-bestaetigte-ebola-faelle-166235/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/ki-designt-neuartige-nanokaefige-166233/",
       "published_at": "2026-06-22T14:20:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
@@ -576,16 +576,6 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/lauterbach-sieht-neue-chancen-fuer-reform-der-organspende-166231/",
       "published_at": "2026-06-22T13:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Keine Beanstandung vom BMG: Assistierte Telemedizin startet am 1. Juli",
-      "summary_de": "Ab dem kommenden Monat k&ouml;nnen Apotheken assistierte Telemedizin anbieten. Das Bundesgesundheitsministerium hat den entsprechenden Schiedsspruch inzwischen gepr&uuml;ft und genehmigt.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/assistierte-telemedizin-startet-am-1-juli-166229/",
-      "published_at": "2026-06-22T12:00:08+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
@@ -677,7 +667,7 @@
       "title": "Sparpläne von Schwarz-Rot: Krankenhausverband warnt, dass jede zweite Klinik pleitegehen könnte - Spiegel",
       "summary_de": "Sparpläne von Schwarz-Rot: Krankenhausverband warnt, dass jede zweite Klinik pleitegehen könnte &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de \"Gesundheitspolitik\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZ0tmSlBlaF9XRS1TSkV5RWR3V3E0RWVoeHJEV1l3Q1RicWQxdndIQ1JBdHR5QlBBTGZHMldNeFVZLTdlLTNQTEozcG1XLUxscGNXU3JXem9tcDRQV2sxd1hRZjlzM0FMYUxXMzFOZ01lam0yeW8yclZyNHFRUC1yVmZ0QXdXdk5KVnFnZGp5Mzg4cjVzT1dpUEJ3R3JPN2VqUXF1eU9DbXg1RGRoQl9qRWgzQl9rdDNOSUQ0TGhOU1l1RzZZbmtXQmU4ay1YQW9FS2tJUVRqZ1RqUmNORTEwbE1BQ191YU1WbjE0RWhfalpSU0tMNHBZVw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQLXFqc09LSlJBNHA2dkV3MjhjMVpXNnVxYzJrb1Q4cFUxRlJfWHdnQVhFeWxtQUdpSzdubUxGLXBJb3gwaUczaXJLTDRGSXoxckRMM01lU0lsRFBiYThPVnZoalZvUDUzVm9HLTNUc096SGxXR1lsYVJBa3o0OWR2QmI2Z1BBczBRZ0wxblNvX3EzWGlYMlFqX3duQ0I1SU41TkJjU2pGcTdVcGlrMzdvel9INDdTSUtoaEQtVFFPUnhldXNJLVVZQ2p6SUQ2ckZEbFduOFYySGNrM015alowdGx3dlZVQkc0SDJmLWFaRjU0SVozTndKaHN2cUsydG5WRThrcTBMdTE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-21T23:40:00+00:00",
       "category": "News",
       "tags": [],
@@ -760,16 +750,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRDlScERDZ1F1MGRHVXNyLWxHcjVXamZyMkR2VUY5TG1FaFY0bWsteXNrTk5INlY0S3lqUENuTnNwQjhiM0lmc1lpTGJ3bXMwd0Q4U3dCeHRvb052cUplcnpUcE5BU29Zai1OV05idWtoX2c2UUxRb1JjaTk5QjRoMU1NZEhXd3ZNNkpXUFJmMWxVcUp1aEplU0o0bnpkeVhLeDgtUjlSdnpoOUNkT28zTTJrVFZ0ank0NkEwY2JPTk00dmVuaXZ1VWVNTVYyaTJLVVdYMjRR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-19T14:32:33+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Meeting highlights from the Committee for Veterinary Medicinal Products (CVMP) 16-18 June 2026",
-      "summary_de": "CVMP opinions on veterinary medicinal productsThe Committee adopted a negative opinion for a marketing authorisation for Scovella&nbsp;(velagliflozin), a product classified as…",
-      "source_name": "News and press releases",
-      "source_url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-veterinary-medicinal-products-cvmp-16-18-june-2026",
-      "published_at": "2026-06-19T13:30:00+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -904,16 +884,6 @@
       "source_url": "https://www.gov.uk/government/publications/orphan-registered-medicinal-products",
       "published_at": "2026-06-18T12:24:16+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit: Hitze und Unwetter: Tipps für die heißen Tage im Norden - DIE ZEIT",
-      "summary_de": "Gesundheit: Hitze und Unwetter: Tipps für die heißen Tage im Norden &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMFNuS0RiT1R2X3JGay1vR2VPZk9xRDVZWDZvWFBjZU55aUxmTlo3VHp3all0UWNJdy1wdlBhNjZsWmpESjRKQk1Vdk1xNFFLUjBMdExwMjUwdmN0S3hRMDlDZHI5QXlyMUVqckhPcmo2TGo4cDE5cXBkcEg3UjVNZktKRzB1dDVxXzFzVzBQZWM0ZmlzWUtV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-18T12:21:41+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1208,7 +1178,7 @@
       "title": "LMU Radiologie erhält EU-weit erste Zertifizierung für den qualitätsgesicherten Einsatz von KI in der Bildgebung - idw - Informationsdienst Wissenschaft",
       "summary_de": "LMU Radiologie erhält EU-weit erste Zertifizierung für den qualitätsgesicherten Einsatz von KI in der Bildgebung &nbsp;&nbsp; idw - Informationsdienst Wissenschaft",
       "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zUkNZVm1DT21WVTBWUncwZ1BjTUo5TjkzcXFGSWZ0eElKOXFDOElTY0Z4cEhBLTdmWVFNNS1LUFY1LXJMY3pFcWZzTQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQVYtMWhkVG1GUVVXVDFBZTBkcmZUU3lON0JxcGR0R2lfTUZMcC12WUkyNC1XTkVuMHhhRUpDbXQzaDZ6c2oxVk9sQ3Rpc1BtS3h4RlExbHlDZnpJYXd6UmNWc2ZQMGYyYllRRGg3TXhIUk54OWlaeFNNakNFZ2hRaHVXRWVUMW1BR3AxeHdiMkJCMndOaE43TzhSSWNFNTdMUXIxQ2xDSFIyMlJvRVUxLXExSGp3ZVpHVDNNNm83cFdIY0xLaGItYXJzd2puSUZxSVdXMGI2VmVxSFFMakt2emxOU002a3BqeVZYZWpOQzJvUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-16T09:40:00+00:00",
       "category": "Radiologie",
       "tags": [
@@ -1263,16 +1233,6 @@
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2026/bstabg-keine-weiteren-abstriche.html?pk_campaign=rss",
       "published_at": "2026-06-15T13:45:00+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "EMA Management Board: highlights of June 2026 meeting",
-      "summary_de": "Crisis preparedness and responseThe Management Board welcomed EMA’s support to African regulators in the context of the Ebola outbreak in the Democratic Republic of Congo and…",
-      "source_name": "News and press releases",
-      "source_url": "https://www.ema.europa.eu/en/news/ema-management-board-highlights-june-2026-meeting",
-      "published_at": "2026-06-15T09:20:01+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -1359,16 +1319,6 @@
         "Europa"
       ],
       "type": "Studie"
-    },
-    {
-      "title": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 8-11 June 2026",
-      "summary_de": "PRAC concludes evidence of potential risk of neurodevelopmental disorders in children born to men treated with valproate is inconsistent&nbsp;&nbsp;Committee&nbsp;recommends updating product…, Agenda Agenda of the PRAC meeting 8-11 June 2026Draft Reference Number: EMA/PRAC/115322/2026…, PRAC statistics: June 2026 , , Glossary Safety signal assessments. A safety signal is information which suggests a new potentially causal association, or a new aspect of …",
-      "source_name": "News and press releases",
-      "source_url": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-8-11-june-2026",
-      "published_at": "2026-06-12T12:00:00+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Sparpaket nicht weiter aufweichen – Staat muss auch seine Verantwortung übernehmen",
@@ -1497,16 +1447,6 @@
       "type": "News"
     },
     {
-      "title": "EMA’s 2025 annual report shows strong approval numbers for human and veterinary medicines",
-      "summary_de": "Today, EMA released its 2025 annual report, highlighting progress in bringing innovative, safe and effective medicines to patients. The report outlines the most important…",
-      "source_name": "News and press releases",
-      "source_url": "https://www.ema.europa.eu/en/news/emas-2025-annual-report-shows-strong-approval-numbers-human-veterinary-medicines",
-      "published_at": "2026-06-11T11:00:00+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Provisional Monthly Hospital Episode Statistics for Admitted Patient Care, Outpatient and Accident and Emergency data, April 2025 - March 2026 (M13)",
       "summary_de": "Hospital Episodes Statistics (HES) is a data warehouse containing records of all patients admitted to NHS hospitals in England. It contains details of inpatient care and outpatient appointments. Hospital episode statistics (HES) statistics are produced and published on a monthly basis. The data are provisional and should therefore be treated as an estimate until the final National Statistics annual publications.",
       "source_name": "Publication Feed",
@@ -1576,6 +1516,16 @@
       "tags": [
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Oberarzt (m/w/d) für Radiologie mit Schwerpunkt muskuloskelettale und thorakale Bildgebung - ärztestellen",
+      "summary_de": "Oberarzt (m/w/d) für Radiologie mit Schwerpunkt muskuloskelettale und thorakale Bildgebung &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWHJldE1GUE93SVlyQkVaTUlRX2h1cU5DVmR4bklaOHo0c2ZrWFVLWC1VRGNQTm9xYkNqbU9uUGhUTDcwS01VdEkxNlVlNUR1cmpWb1J0T29ySUJKa3dsWjVNVnZGdG9OeTVIek1KdnhzaVQ2UF9zRzJLVGY0ODdaV0RTMDFFMW04dGtnT0NsVnEzMl8zcEl4emx4SUl4cWRtU2xDWXR6X0ZzbEVsd29IVnlydGh5bV9WWlYxaEZGYU9TYjFiSTRvSDJqNFJmZHZCY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-11T07:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
       "type": "News"
     },
     {
@@ -1692,32 +1642,22 @@
       "type": "News"
     },
     {
+      "title": "Darum geht's beim BGM-Förderpreis 2026 - DAK-Gesundheit",
+      "summary_de": "Darum geht's beim BGM-Förderpreis 2026 &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa1laTnR0X1NOMXZzQVRNb1pTRk9nS04talJKUTkwNlN2OHRCMzF0RFlmRVhKUnNxVUNoT3pPWUxZNF92bDByWGROcEdCMEd6WHdCVEpTN29zWV9id2k1RGpvTXFud2J2ZjU0Z0Z4cU5MUzRoMUxpVVBpYXN6ZlpmLUNUMU81UHdFc2FZT19BeGxMZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-08T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Facharzt Radiologie (w/m/d) oder Arzt (w/m/d) in fortgeschrittener Weiterbildung - ärztestellen",
       "summary_de": "Facharzt Radiologie (w/m/d) oder Arzt (w/m/d) in fortgeschrittener Weiterbildung &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR0IyWUpVT2xpYkx6WEFGS3hiVFd6MXFWb0JkZmpDc1J3bVNscW9pSjZfNEFGME5OUng5YTIxWnh2Y0tOMWpJTTBFQ3JHeVNuZE5aMXg5dWJlYUtvNHRrbGduemRkTEJ4a1dNZC00TXBnWTVucVU1a2FqSUhQR0NPZVQ4aG9YVTNBQ1NmdE50cW9yUzNfUzJXbTlNbW4zVXpzNkZTaHRyNlBBOENaem9Fa1RwSVZlaUlpOXNZQzZYWGE5UzdiWE04Yjllb18?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-08T07:00:00+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Innere Medizin | in 66539 Neunkirchen - KKH",
-      "summary_de": "Innere Medizin | in 66539 Neunkirchen &nbsp;&nbsp; KKH",
-      "source_name": "\"site:kkh.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVUxLY25seFVNZWtjaERmbHJQbWVHNE1WS1RYMlNXWU54UHVndTdpWlFaSGZ0TGl2OGs5eXlybWhlS3hfRmRnQXNVd3FzNjhEdlpvT3RTRFN5OHU0NDNuRGFrcGQyZjFNRzY4anZvWktibE9qdjZ6ZC1kT180WXZRRXBBakdYNGJ6MWVLaE9hSVUtSFJrV3ctcC1vY2lPSVI5R0hCcGlEVWFoR0U3aDFwU3Q4UTg2aHhuZUktQkFrb0hnejlxSW1jTzdoc3VUYU1NZ2xUbmNKa19qZDJsRG8teg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-06T08:13:58+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Fingernägel: Was Fingernägel über Ihre Gesundheit verraten - DIE ZEIT",
-      "summary_de": "Fingernägel: Was Fingernägel über Ihre Gesundheit verraten &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSnQ2Tk9RRnRMSUlQQW1TOGpsOGNxSk5ZRWVZeHlUQm5SUWo2Zk1fbnFLcUtZTGRpUzBVT3lLa1oxVWZMaXM2MjBqNURNekx3MGxwWlN1blUyUzk3d2MxWEpUdDBLR3pqX3ZoTTBENG4ybml1RFNtR2JKbTJpb1drN3FoM0xVdlJ1SUFlZGRlSjVpVkdPZ2FwX3JMWHFaT3oxZWJYVUN0Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-06T07:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1785,16 +1725,6 @@
       "type": "News"
     },
     {
-      "title": "Kontakt - Techniker Krankenkasse",
-      "summary_de": "Kontakt &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43Snd6dm1TX1B4Q3dsb0VZTFpTbUtVZzN0MVhLanVrVmtBcnJINnNtbHpKNEI5M2tMUm9VNmhlc3VuUTF4V3NNSGl2YTkyeWNDZGRTYUdTRzBHNlF6d2R6WHpzQUgxQU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-04T08:11:30+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Meldung: Dynamischer Herstellerabschlag ist Sicherheitsnetz gegen höhere Beiträge",
       "summary_de": "Mit Blick auf die hohen Arzneimittelkosten dürften Einsparungen bei der Pharmaindustrie nicht zu gering ausfallen, warnt Stefanie Stoff-Ahnis, stellvertretende Vorstandsvorsitzende des GKV-Spitzenverbandes, in der Rheinischen Post. „Arzneimittel sind nach den Krankenhäusern der zweitgrößte Kostenblock in der gesetzlichen Krankenversicherung und die Pharmaindustrie verdient daran blendend.“",
       "source_name": "GKV-SV Presseinformationen",
@@ -1847,22 +1777,22 @@
       "type": "Studie"
     },
     {
+      "title": "Hausarztprogramm - Techniker Krankenkasse",
+      "summary_de": "Hausarztprogramm &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdFlTZmFRRlFzeFc0SjNRNy1ENXN0WVIyazRQSUVoeVlEdEpMY3NNVmdsU3BrQTdnbzlPQWVoNWVXOHc0dTZsc0pDd01XbkdjQXdFRkRlM3lVLUZoZU56SHlPTWh1WkhXaDRPcEVHRC1RbFpkTHd5MFFBX2p4OGEwTFhwblRZQk85NDBTZGNPRHZmOHVUT2c5RHA5bF8xbDU3QXRZWnFqRFIxTm4xZml5WHViOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-03T23:32:35+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "TK-Fit: die Gesundheits-App mit Belohnungen - Techniker Krankenkasse",
       "summary_de": "TK-Fit: die Gesundheits-App mit Belohnungen &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaTIyYTE1dmcwcUUtbTlPR1dQYko0QUw5VVVJa1JwOTB6Q0dGLWs3R3AxUFVHRW91QkxhQzBCTm1MLUpyUklDbUpBY3V6WmsyeHRuVWVmNUJSNDhWVlcwSThUczhjVTZRcTk0dk9OYkR1OW1iRFpEMGpTdEg1eW1STmVpVHgwSjQwUmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-03T13:38:52+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "EMA, AMA and African regulatory authorities join forces on Ebola outbreak response",
-      "summary_de": "EMA’s Emergency Task Force (ETF) is engaging with the African Medicines Agency (AMA) and its national regulatory authorities (NRAs), leveraging expertise from the WHO-AFRO…",
-      "source_name": "News and press releases",
-      "source_url": "https://www.ema.europa.eu/en/news/ema-ama-african-regulatory-authorities-join-forces-ebola-outbreak-response",
-      "published_at": "2026-06-03T12:52:00+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -1989,22 +1919,12 @@
       "type": "Studie"
     },
     {
-      "title": "United for Health: EMA in WorldPride 2026",
-      "summary_de": "June is PRIDE month and EMA starts a two-month celebration of diversity and inclusion in science and healthcare, leading up to its participation in the world-famous Amsterdam…, Our strength in the EU comes from our unity in diversity. Equality and non-discrimination are critical everywhere, but in health they can make the difference between…, EMA staff will be joined on the …",
-      "source_name": "News and press releases",
-      "source_url": "https://www.ema.europa.eu/en/news/united-health-ema-worldpride-2026",
-      "published_at": "2026-05-31T22:00:00+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "ETF recommends updating COVID-19 vaccines to target XFG variant",
-      "summary_de": "EMA’s Emergency Task Force (ETF) has recommended updating COVID-19 vaccines to target the new SARS-CoV-2 variant XFG for the 2026/2027 vaccination campaign.XFG is part of the…",
-      "source_name": "News and press releases",
-      "source_url": "https://www.ema.europa.eu/en/news/etf-recommends-updating-covid-19-vaccines-target-xfg-variant",
-      "published_at": "2026-05-29T11:35:00+00:00",
-      "category": "Europa",
+      "title": "Impfschutz für Erwachsene: Kostenübernahme und Impfempfehlungen - DAK-Gesundheit",
+      "summary_de": "Impfschutz für Erwachsene: Kostenübernahme und Impfempfehlungen &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQnc0OW5XbWZoNDdaQ21EX1EwWUg4RjhDU0w0VmtiaG9HV0NzMXdHbjM3c2VySUtEWmhIdTFzcldwcWpSS3hOamEzVWFvOHBhOFp0RXd4R3JZdTVWeFRmMHlZX29nTXlpMzB3QUt6cURuVnVaeDA3MkRZV3FmdFBzOU5STkpkenhENkRXdlRwWVRZMFZRNVVFMHBBRzFTeWVDamM3X21DdDVoX213elZFUGp2YWg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-29T07:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2176,16 +2096,6 @@
       "source_name": "Publication Feed",
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-rapid-cancer-registration-data/current/current",
       "published_at": "2026-05-26T16:03:40+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "EU recommendations for 2026/2027 seasonal flu vaccine composition",
-      "summary_de": "This news announcement was updated on two occasions. On 7 May 2026, it was updated to include additional recommendations for strains for seasonal egg-derived and live-attenuated…",
-      "source_name": "News and press releases",
-      "source_url": "https://www.ema.europa.eu/en/news/eu-recommendations-2026-2027-seasonal-flu-vaccine-composition",
-      "published_at": "2026-05-26T11:50:00+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
@@ -2427,16 +2337,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mNnc1dUk0b3F0WkRkdENBMUlyWkhiTTdCZmxyeU1jMEV5SG1FOERRQ29BZC1DRmh4RE9qYmlEaEx2LUFXYjZtdFRkQUlYYmIwNVQzYnJuSWJEdmxpVDhLNWZqaGhUWG91djJ1eThMbzh1MTZNM1FIb3AyYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-13T07:00:00+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "[MI] Medicines and Pregnancy Registry - Antiepileptic use in females aged 0 to 54 in England: April 2018 to September 2025",
-      "summary_de": "NHS England is working in partnership with the Medicines and Healthcare products Regulatory Agency (MHRA) to develop comprehensive national Medicines and Pregnancy Registries which can give a better understanding of the use, benefits, and risks of medicines taken in pregnancy.The objectives are to: • use data to generate evidence on the use, benefits, and risks of medicines prescribed during pregnancy …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-medicines-and-pregnancy-registry/antiepileptic-use-in-females-aged-0-to-54-in-england-april-2018-to-september-2025",
-      "published_at": "2026-05-12T18:01:01+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     }
