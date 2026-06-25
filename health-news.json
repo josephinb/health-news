@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-06-25T02:38:22.055487+00:00",
+  "generated_at": "2026-06-25T06:41:42.659343+00:00",
   "window_days": 42,
-  "count": 203,
+  "count": 186,
   "items": [
+    {
+      "title": "Gewitterasthma: Atemnot als Unwetterfolge",
+      "summary_de": "Heuschnupfen-Geplagte atmen oft auf, wenn Regen w&auml;hrend der Allergiesaison die Luft &raquo;reinw&auml;scht&laquo;. Kommt es allerdings bei hoher Pollenbelastung zu einem Gewitter, k&ouml;nnen sich Symptome einer Atemwegsallergie massiv verschlimmern &ndash; auch bei Menschen, die zuvor beschwerdefrei waren.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/atemnot-als-unwetterfolge-166282/",
+      "published_at": "2026-06-25T05:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Gesundheit: Braucht es neue Regeln für Organspenden? - DIE ZEIT",
       "summary_de": "Gesundheit: Braucht es neue Regeln für Organspenden? &nbsp;&nbsp; DIE ZEIT",
@@ -29,16 +39,6 @@
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMllHdFQ0WEczejBtM0tsUnBGejR5VkFzRFlVTmVsQ0RVSzVYU1FtZHpOY01iQUJULVJmNHVYQnktVk92YjRSclpJd0JhYmdRNXNVejJyTF9KcXZBd0VMX1hQQ09aR2dtWW9kRW1rTEgyRENoM0NBNWhCa2FIRTBQUmFacnFabnJBd1B1ZzAxZmtFQlQ1S1lJbVM5aTRtcVBmZFhxMnZsRXd5ZEItb0NIMExtci1ZUjN2M0ZNMHk2NXpwUTgyakRULUhJcE1qTVQ2Ti15QUFqUlU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-24T18:06:37+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "MICI Q3 2026: Radiology admins highly confident about imaging growth",
-      "summary_de": "Internal operating and staff costs and Medicare reimbursement remain the primary areas of concern.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/practice-management/administration/economics/article/15828411/mici-q3-2026-radiology-admins-highly-confident-about-imaging-growth",
-      "published_at": "2026-06-24T16:31:15+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -99,16 +99,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQa0dDcDFxeGt5dXpQMnozQkJ6bzBvankyR1lNakd3MDVnRWctS0FPYS1hVUdfY0cwVzBCVkxGSF94OXV0VTIzbjV3cmlfNnNzZzZzeTdfME85eURPU2d3RnJrb3VKR1JDcnFkcjVLVFQxSFhSVTFhTEI0SlVEelFYeHZJLUVKNzZyQmd2YjI5MlFvcG5hUXZlQy1Sa3h5dXpEcnJZYl8yeHRjSmtXSHcxVnRQQXh2MDc3ekZ1WE9NVHRFbjllQ1FRR3FuanlDcGdtN216dHU0QmtleTZpV2JwRjhPa0c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-24T15:15:41+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Growing number of patients getting cancer diagnosis from portal access",
-      "summary_de": "null",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/practice-management/article/15828397/growing-number-of-patients-getting-cancer-diagnosis-from-portal-access",
-      "published_at": "2026-06-24T15:05:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -428,16 +418,6 @@
       "type": "News"
     },
     {
-      "title": "Neuroimaging use rising in emergency settings",
-      "summary_de": "The use of neuro CT and MRI in emergency departments has risen within the last decade.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15828518/neuroimaging-use-rising-in-emergency-settings",
-      "published_at": "2026-06-24T07:33:52+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Mariendistel: Molekularer Wirkmechanismus von Silymarin entschlüsselt",
       "summary_de": "Auf Silymarin standardisierte Mariendistel-Extrakte werden therapeutisch als Hepatoprotektiva eingesetzt. Bislang war allerdings unklar, wie die Wirkung zustande kommt. Nun konnten Forschende aus Frankfurt am Main den Wirkmechanismus aufkl&auml;ren.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -608,16 +588,6 @@
       "type": "News"
     },
     {
-      "title": "Arzneimittelpreise: Warken und Merz wollen US-Regierung nicht entgegenkommen",
-      "summary_de": "Sowohl Bundeskanzler Friedrich Merz als auch Bundesgesundheitsministerin Nina Warken sehen keinen Spielraum, den USA in Sachen Medikamentenpreisen entgegenzukommen. Ursache ist eine Untersuchung deutscher Arzneimittelpreise seitens der US-Regierung.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/warken-und-merz-wollen-us-regierung-nicht-entgegenkommen-166257/",
-      "published_at": "2026-06-23T12:30:08+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Klinik zu, Hausarztpraxen unbesetzt: Wie eine Stadt im Allgäu die medizinische Versorgung neu denkt - SZ.de",
       "summary_de": "Klinik zu, Hausarztpraxen unbesetzt: Wie eine Stadt im Allgäu die medizinische Versorgung neu denkt &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -670,16 +640,6 @@
       "type": "News"
     },
     {
-      "title": "AuntMinnie.com CT Insider",
-      "summary_de": "Opportunistic screening and other AI news are the featured topics in this edition of the CT Insider.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/editors-note/article/15828422/auntminniecom-ct-insider",
-      "published_at": "2026-06-23T10:17:36+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Decision: Medical devices given exceptional use authorisations",
       "summary_de": "List of manufacturers and their medical devices granted an exemption by MHRA. The list also includes manufacturers whose exemption expired or was cancelled.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -695,26 +655,6 @@
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPYUdUa0d3d3g1VlJUSFBDOUxhSTRwZ2h4TW5QNUVSWFVUenN3S0Fjb2hOcmYwRndGS3RXdE1uN3lybkdMZjlWM0M2U3lYVlBhb2tnbmhwc1Nyd0llWVhKSkpsX29mc3RsaVV3Y2Z1MnhBajZXcjhjX0hhQjFON2V0QjkyeHh2VjlpelBqQW5vM3FmQ3JqR1dzQ1FmTU0zZ1lBMk1LRFdKMGUyc3FjWEFBSHprZVFiLUswSU5aMG5RSm04Tlk1dk5Kb2pMZG1XZHJZdkM5SGJLdDlXcUhCQWlRMDE4LXFLRFB6ZlJaMFZvQ2lvc1NxRGhBZ2huYTF5QmxvVGpmSmZwM1R5QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-23T08:57:12+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Opportunistic screening can reveal osteoporotic vertebral fractures",
-      "summary_de": "A new study demonstrates the potential of opportunistic screening in improving osteoporosis care.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15828410/opportunistic-screening-can-reveal-osteoporotic-vertebral-fractures",
-      "published_at": "2026-06-23T08:28:01+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Cardiac MRI variables boost heart failure prediction",
-      "summary_de": "null",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15828378/cardiac-mri-variables-boost-heart-failure-prediction",
-      "published_at": "2026-06-23T08:11:56+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -758,16 +698,6 @@
       "source_name": "\"site:faz.net medizin\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ1RnS3M2QWJIMXY4U1B4Q2ZjNEdrSWxENFMza0tLbmMwV1h5eEJkaU9kR25PRjFtTzNzZWlZaXdzTnZEeXlpR3c0eHQ4VTNRZHcxaE5YdDRhcjRrbmxKbHlwSl96RV9LOFpNNjZFeURvV2t6RTJhN29vTndYNFlGVl9MeDAzNDVIR0RmTjBFZTRrTF9YNHRSa0ZJN0xOR1c0ZUF0NVhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-23T03:59:13+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Studienwahl: Jura, Medizin, BWL - lohnen sich die Klassiker noch? - RP Online",
-      "summary_de": "Studienwahl: Jura, Medizin, BWL - lohnen sich die Klassiker noch? &nbsp;&nbsp; RP Online",
-      "source_name": "\"site:rp-online.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYXUtUzc5cUt4b3A1TkFNZTFxaDB5N0pteVF1Q2VodVJ1ekphUkxSQVV3eWVxLXdVazJJMWZfWkQ3dHdoc1Rsd1lFTW5VM3phcU5BakJKYm5aQWQ5YllrQ3F2ZkRHazgwU2psM3UzY0dHSXpuYnhuTkZ1VnVrX3ViOWxzMHB2Mk1ORUNBUDNUOWhrVDF1enNEVEd2a1A5SkctVnhWelMtZXdzQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-23T03:58:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -833,26 +763,6 @@
       "type": "News"
     },
     {
-      "title": "Oberarzt Anästhesiologie / Intensivmedizin Gesundheit Nordhessen Holding AG Stellenangebote - ärztestellen",
-      "summary_de": "Oberarzt Anästhesiologie / Intensivmedizin Gesundheit Nordhessen Holding AG Stellenangebote &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSHJjbVM1UExndTBPMnFqQjBZbTV1bDdQdGpKWWoyT0p2cEo1Tjlwdmk5Wl94Qkk1SEh4TTkzeUZveUJ6cXRHaGFBLWc2NjgzWWRFOGR4U20yb1FmS0lDdmw5SVdKWmxvcTBldkU2LVVKNk9UZjdHLUlGLUVoZDdYSDNYMnhRak90ZlJsVENNcmdncV8weXFHcC14YS1LV1ctalh4amx3TEV6UUZ1MmpKUVA0UTQwZXNNWll6dlpn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-22T13:00:58+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "\"Dirty\" brain white matter shows no link to dementia in older adults",
-      "summary_de": "The findings could reframe how clinicians and researchers interpret this imaging abnormality.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15827948/dirty-brain-white-matter-shows-no-link-to-dementia-in-older-adults",
-      "published_at": "2026-06-22T13:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Lebensmittel - Allergiegefahr: Falsches Etikett auf Rewe-Bierschinken - Gesundheit - SZ.de",
       "summary_de": "Lebensmittel - Allergiegefahr: Falsches Etikett auf Rewe-Bierschinken - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -882,26 +792,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTXlQMW5JRm9jOXA1a1lINWVDa0U2YVJCWDlWcDIyNFJiaTRZRGlhSC1ocnhDNmc0MkJqSHU5Z3VERmJDOXAteEstdHFVUE11aTZJRFVnUzBkbWhqV1VOQUFDc1daam5kcWx2dWxsNDI3UlIwU25TdWJFRTZCZExDcEtYV3BhZGpPcVVveHVIcTYyN2ZpOUlLRzBIVzJmVzZCbjdJQ2JqMWRDTnJ5b2tkZmJhbzRBZXdlUmtZaUlVRVJlalRaUGZfRjN0VEtXWjZheXhpMURMVDE5NU5CRWVtRkljc1U0bS1ORnhlQnNJcUJZS0k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-22T10:03:02+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Blood-based testing could improve prostate cancer screening with MRI",
-      "summary_de": "Adding the Stockholm3 blood-based biomarker test could help improve prostate cancer screening with MRI.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15828245/bloodbased-testing-could-improve-prostate-cancer-screening-with-mri",
-      "published_at": "2026-06-22T09:01:06+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Advancing precision medicine through quantitative imaging",
-      "summary_de": "Coalition develops international QI technical standards across all imaging modalities, envisions credentialed centers.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/imaging-informatics/advanced-visualization/image-processing/article/15827987/advancing-precision-medicine-through-quantitative-imaging",
-      "published_at": "2026-06-22T08:27:08+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1048,16 +938,6 @@
       "type": "Studie"
     },
     {
-      "title": "New PET tracer shows promise for guiding pancreatic cancer therapy",
-      "summary_de": "The radiotracer is designed to identify pancreatic tumors eligible for paired therapy with cancer-killing actinium-225 (Ac-225...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15828158/new-pet-tracer-shows-promise-for-guiding-pancreatic-cancer-therapy",
-      "published_at": "2026-06-19T08:09:37+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Fast 800 Untersuchungen seit März - Niebüll freut sich über neues MRT-Gerät - NDR.de",
       "summary_de": "Fast 800 Untersuchungen seit März - Niebüll freut sich über neues MRT-Gerät &nbsp;&nbsp; NDR.de",
       "source_name": "\"radiologie\" - Google News",
@@ -1096,16 +976,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Klinik MVZ Stellenangebote in Neustadt in Holstein (4) - ärztestellen",
-      "summary_de": "Klinik MVZ Stellenangebote in Neustadt in Holstein (4) &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXlYQXVOWnBrbUFuODVFcml0TlFCQk42cDFIbS12Z0M0SWhyTWZWV2NIWFJhalhCQktxeUViVUlYLXBLM3FucDhiVFJhcVRlRFh5ZGtsdTV6LXVCR3lxa2xJbXNYSlU1UDlfdVc0R2F1S2pQaWtrTExIdFBUSWtFem9B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-18T16:01:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "EU-Parlament will Entlastung von Pharma- und Kosmetikfirmen bei Abwasserkosten – News - Deutsches Ärzteblatt",
@@ -1213,41 +1083,11 @@
       "type": "News"
     },
     {
-      "title": "Krankenkasse für ein gesünderes Leben | BARMER - Barmer",
-      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; Barmer",
+      "title": "Krankenkasse für ein gesünderes Leben | BARMER - BARMER",
+      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-18T05:14:26+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Wetter und Gesundheit: Achtung, heiß: bis zu 35 Grad am Donnerstag möglich - DIE ZEIT",
-      "summary_de": "Wetter und Gesundheit: Achtung, heiß: bis zu 35 Grad am Donnerstag möglich &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcHU1UlV5aHlETGZiTWFxNldTaHZOVklfZ25nR2RURUQxdF9wYmtqcy12bVQxMnNNZTlFM2xVcEVTTHNXUmJqbUNXaHh0SEFKZlhHOU4xYmRVLXlQMzB5djZaVWhqeUo4Y2pqdnZQMDBtbEVGcHFhczFCZnU2NDBXT2hpSTBqRjM2WWdDZTJZY24?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-18T04:57:10+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit: Arztgespräch per Chatbot? Chancen, Risiken, Nebenwirkungen - DIE ZEIT",
-      "summary_de": "Gesundheit: Arztgespräch per Chatbot? Chancen, Risiken, Nebenwirkungen &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV1phWmlOblc3UHI3QUxGQVVzV1otTzZKMDlsZWlzdlRDbGV1b0Y3alJsbXNqLTFuRkRYNjJfV1hzR0p2QWpwQm8tYVNmczYweVhxNE1PYW5XdW4wekhpbVkyQWVfNW43NGRXamRMTjJNYmptcFRhWkFVaFV4aGRHTnFGMHctM2VsRGc2SFJacTYyMnZmbF84?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-18T03:00:21+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit - Arztgespräch per Chatbot? Chancen, Risiken, Nebenwirkungen - Gesundheit - SZ.de",
-      "summary_de": "Gesundheit - Arztgespräch per Chatbot? Chancen, Risiken, Nebenwirkungen - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTlpWakFGYXlHM21jemZZalE1YUNZTjFJb3I4ak92WnBfU0Uza0FnZ0hUWlN0VTR4ZmJ2MnpUTDZBZm12dmRCcWkxZ2VpMWJMMWhoaVBrRm40aF9HOTBoYW9hcFJGcHdpTVNjYjVwdEY4blo2R0pqWUJkeXJ4aHNGRjJFdkVLY0MtVGUyTk44VTZxc0RnMVRiWjdmMktNZnBleTMxMFBEZGRVQVNjanE5SGd0SkthYjBwN3lHNDg0UHpNZi1JVURfeXhRYWx6aFRNVE15RXdmTnRVWDA3TzZpVENydmV2RjZkYktzRA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-18T03:00:21+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1439,16 +1279,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY1dNdm9EYXRaa3M3T3dYbWphU2F5dFc3OE9KYnJlVjdMenRkY2ZaNkxSbDJLcVJ5SEtmYW53RllSc0VPMHdIZ3FOSzlQNnl2SnVTR2ZDOHJBTGxTZEtGQnhGNUZvQzBjNGxEN0FBTDJfT0ZnaVdXZWtzYzNPTGVKcjBrTGRMTml6ZW9XUng1SWxhZVAw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-13T07:00:00+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Assistenzärztin / Assistenzarzt (w/m/d) für die Klinik für Radio-Onkologie 80-100% - ärztestellen",
-      "summary_de": "Assistenzärztin / Assistenzarzt (w/m/d) für die Klinik für Radio-Onkologie 80-100% &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ3NmM053U2Q3RHoyLUNzcHpPbEJKN3RzbzFEOW5vNFMxajNHUFdzeWc0MGlzd0pvdFJmcHExYlQ4UU1HaE51SnNEeVR6STBpclcteTBGQUQ1TWdxeVBiZVpzdHhnUGRseFltYXBxYXVId0cyNnlfVWY1aXRjU1cwVkVlVVgxQ0NmVEZ6OUU5Tm9ZUzB0UHRoMGNrOWVHeDVPWDNmNDhlX0FweDhIbkZUWTBDenRVR2F3YTAtLVBpXzYtbVZXZG5ZWFJEb2JucmpLMi1Tdjhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-13T07:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1672,16 +1502,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR0IyWUpVT2xpYkx6WEFGS3hiVFd6MXFWb0JkZmpDc1J3bVNscW9pSjZfNEFGME5OUng5YTIxWnh2Y0tOMWpJTTBFQ3JHeVNuZE5aMXg5dWJlYUtvNHRrbGduemRkTEJ4a1dNZC00TXBnWTVucVU1a2FqSUhQR0NPZVQ4aG9YVTNBQ1NmdE50cW9yUzNfUzJXbTlNbW4zVXpzNkZTaHRyNlBBOENaem9Fa1RwSVZlaUlpOXNZQzZYWGE5UzdiWE04Yjllb18?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-08T13:35:52+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Innere Medizin | in 66539 Neunkirchen - KKH",
-      "summary_de": "Innere Medizin | in 66539 Neunkirchen &nbsp;&nbsp; KKH",
-      "source_name": "\"site:kkh.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVUxLY25seFVNZWtjaERmbHJQbWVHNE1WS1RYMlNXWU54UHVndTdpWlFaSGZ0TGl2OGs5eXlybWhlS3hfRmRnQXNVd3FzNjhEdlpvT3RTRFN5OHU0NDNuRGFrcGQyZjFNRzY4anZvWktibE9qdjZ6ZC1kT180WXZRRXBBakdYNGJ6MWVLaE9hSVUtSFJrV3ctcC1vY2lPSVI5R0hCcGlEVWFoR0U3aDFwU3Q4UTg2aHhuZUktQkFrb0hnejlxSW1jTzdoc3VUYU1NZ2xUbmNKa19qZDJsRG8teg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-06T08:13:58+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2037,6 +1857,16 @@
       "source_url": "https://www.efsa.europa.eu/en/news/african-swine-fever-outbreaks-increase-pigs-and-wild-boar-across-eu",
       "published_at": "2026-05-21T09:00:31+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Neuartige Behandlung ohne Vollnarkose: Innovation in Klinik - Wie Kälte gegen Endometriose hilft - RP Online",
+      "summary_de": "Neuartige Behandlung ohne Vollnarkose: Innovation in Klinik - Wie Kälte gegen Endometriose hilft &nbsp;&nbsp; RP Online",
+      "source_name": "\"site:rp-online.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWXZXOWV4NnlGdkdIS1RiSG5KTEZyUjZvZW0wbmllelEtaElwVlJUZnhHTWFVNllHdUNQbkIybTJIWHQwcnNwSkZSdEFCc2M0YXptUGF0dXhZcmpRcmx3WDh3c01RRE9ZdzFfUmRMenk2a015bGZqNXdWQndEbjk3ZDdWcm5aWTZsT1dmM3dpM2p6TnM0dFRhb1JMVWJSaU03eXc4cmZtSFpmajRPcmJVcnFQdHZIRzd0NUpuc2daUVFEajNXd0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-21T07:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
