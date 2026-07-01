@@ -1,8 +1,120 @@
 {
-  "generated_at": "2026-07-01T11:54:13.691619+00:00",
+  "generated_at": "2026-07-01T14:17:14.253944+00:00",
   "window_days": 42,
-  "count": 214,
+  "count": 212,
   "items": [
+    {
+      "title": "Guidance: Warning statements for labels and leaflets of certain medicines",
+      "summary_de": "This guidance sets out the warning statements which should appear on the label and/or in the leaflet of certain medicines.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/warning-statements-for-labels-and-leaflets-of-certain-medicines",
+      "published_at": "2026-07-01T14:17:56+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Guidance: Best practice guidance on patient information leaflets",
+      "summary_de": "This guidance sets out the legal framework for patient information leaflets as described in EU and national legislation and best practice in the area of information design.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/best-practice-guidance-on-patient-information-leaflets",
+      "published_at": "2026-07-01T14:17:53+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "MHRA authorises gemcitabine delivery system for adults with BCG-unresponsive high-risk non-muscle invasive bladder cancer",
+      "summary_de": "As with any medicinal product, the MHRA will keep the safety and effectiveness of the intravesical delivery system containing gemcitabine under close review.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/news/mhra-authorises-gemcitabine-delivery-system-for-adults-with-bcg-unresponsive-high-risk-non-muscle-invasive-bladder-cancer",
+      "published_at": "2026-07-01T13:35:44+00:00",
+      "category": "Studie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "Studie"
+    },
+    {
+      "title": "ApoVWG: Akutversorgung erst im Sommer 2027",
+      "summary_de": "Morgen tritt das Apothekenversorgung-Weiterentwicklungsgesetz (ApoVWG) in Kraft. Es sieht unter anderem die Rx-Abgabe ohne Rezept unter bestimmten Bedingungen vor. Bei der Akutversorgung gibt es aber noch ungekl&auml;rte Details. Erst bis 2. Juli 2027 m&uuml;ssen hierf&uuml;r erste wissenschaftliche Empfehlungen vorliegen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/akutversorgung-erst-im-sommer-2027-166482/",
+      "published_at": "2026-07-01T13:35:09+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Erstmeldung Arzneimittel: Fluorescein Alcon 10% pU: Alcon Deutschland GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-07-01T13:34:09+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit: Nach Aus für Suchtklinik - Neues Angebot für junge Patienten - DIE ZEIT",
+      "summary_de": "Gesundheit: Nach Aus für Suchtklinik - Neues Angebot für junge Patienten &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRzBqWGFQbmVvUzRnNEpEdEpqYnh0Q3pac3BQc0xaNXZ4aktKcm9Uc28wTTloR2VKa0pvRXJJZTBsZHpFSGxWRThnOXY0cFR2c01LdTJncWF6Xy02aXotWjFrLXBmTjZ5bEtGbWV4V3BKUF85YmhWbGp5dWpwM1pQTV8zSS1kVDB6aDJ2blZvek9MRjJSejFaLUYxY00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-01T13:27:40+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Levodopa/Carbidopa: Zulassungsempfehlung für neues Retardpräparat",
+      "summary_de": "Die Europ&auml;ische Arzneimittelagentur (EMA) empfiehlt die Zulassung eines neuen Retardpr&auml;parats mit Levodopa/Carbidopa f&uuml;r Patienten mit Parkinson-Krankheit. Es soll die On-Zeiten gegen&uuml;ber nicht retardierten Formulierungen verl&auml;ngern.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/zulassungsempfehlung-fuer-neues-retardpraeparat-166469/",
+      "published_at": "2026-07-01T13:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "ApoVWG: Brandenburger Kassenärzte gegen neue Apothekenleistungen",
+      "summary_de": "Die Kassen&auml;rztliche Vereinigung Brandenburg (KVBB) sieht die neuen Apothekenleistungen durch das ApoVWG kritisch. Diese M&ouml;glichkeiten seien das Gegenteil &raquo;von pragmatischer Entlastung&laquo;.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/brandenburger-kassenaerzte-gegen-neue-apothekenleistungen-166477/",
+      "published_at": "2026-07-01T12:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Leitende/r Ärztin/Arzt 80-100%, Radiologie - ärztestellen",
+      "summary_de": "Leitende/r Ärztin/Arzt 80-100%, Radiologie &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLXZfTDB4OS1LR3RhTl9DTHpueTdzTi1GQ2RCMnA4WE16di16T3RBS2dKOWNuMjNCY2VudU9ibkJTQVM1aW9GYVZ1RHJfMzEwR1drQUpfYWhtdGVXYlBTVVZ4MzRLQ2VNanE5SkRZTWhKbHNFbDZvb1BGdFJDZTJjY3RPcjJRRnlyNlRxOVcwUjgwbkM1RHlmcTNqVjlLRU9hd2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-01T12:00:06+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products",
+      "summary_de": "Over 100 cases have been reported across Europe, mainly affecting children and young adults, with evidence linking the outbreak to flavoured noodle products.",
+      "source_name": "EFSA | News",
+      "source_url": "https://www.efsa.europa.eu/en/news/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products",
+      "published_at": "2026-07-01T11:59:07+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Kurzzeitige Internetstörung : ARZ Darmstadt wieder am Netz",
+      "summary_de": "Am Mittwochvormittag war das ARZ Darmstadt von einer Internetst&ouml;rung betroffen. Vorr&uuml;bergehend konnten keine E-Rezepte angenommen werden. Inzwischen wurde die St&ouml;rung behoben.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/arz-darmstadt-wieder-am-netz-166478/",
+      "published_at": "2026-07-01T11:50:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Neue Arzneistofftargets 2025: Hoffnung vor allem für seltene Erkrankungen",
       "summary_de": "Von den im Jahr 2025 in den USA, der EU oder China neu zugelassenen Arzneimitteln adressierten elf Targets, f&uuml;r die es bisher keine zugelassenen Arzneistoffe gab. Ein &Uuml;berblick &uuml;ber die innovativen Neuzug&auml;nge.",
@@ -79,16 +191,6 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/apovwg-ab-morgen-in-kraft-166464/",
       "published_at": "2026-07-01T08:40:11+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: Propranolol AL 80 pU: ALIUD PHARMA GmbH",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-07-01T08:25:51+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
@@ -444,36 +546,6 @@
       "type": "News"
     },
     {
-      "title": "Wehen: NAD + könnte Frühgeburten verhindern",
-      "summary_de": "Die Einleitung von Wehen erfolgt nach einem ausgekl&uuml;gelten System. Forschende haben nun herausgefunden, dass auch NAD + &nbsp;dabei mitmischt. Das k&ouml;nnte einen neuen Ansatzpunkt bieten, um eine vorzeitige Wehent&auml;tigkeit zu verhindern.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/nad-koennte-fruehgeburten-verhindern-166408/",
-      "published_at": "2026-06-30T07:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Familienplanung: Mehr Homeoffice bringt mehr Geburten",
-      "summary_de": "Kann Homeoffice dabei helfen, den Geburtenr&uuml;ckgang zu bremsen? Eine internationale Studie liefert Hinweise darauf, dass Paare mit regelm&auml;&szlig;iger Arbeit von zu Hause h&auml;ufiger Kinder bekommen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/mehr-homeoffice-bringt-mehr-geburten-165952/",
-      "published_at": "2026-06-30T06:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Clascoteron: Erstes neues Mittel bei Akne seit 40 Jahren",
-      "summary_de": "Die therapeutischen M&ouml;glichkeiten bei Akne vulgaris sind schon lange unver&auml;ndert. Nun kam mit Clascoteron der erste topische Androgenrezeptor-Inhibitor auf den Markt &ndash; laut Hersteller Infectopharm die erste Neuerung seit 40 Jahren.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/erstes-neues-mittel-bei-akne-seit-40-jahren-166244/",
-      "published_at": "2026-06-30T05:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Mechanical thromboprophylaxis for preventing intradialytic hypotension in people undergoing maintenance haemodialysis",
       "summary_de": "Mechanical thromboprophylaxis for preventing intradialytic hypotension in people undergoing maintenance haemodialysis",
       "source_name": "Cochrane Library RSS feed.",
@@ -482,16 +554,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Zulassungsempfehlung: Trofinetid für Patienten mit Rett-Syndrom",
-      "summary_de": "F&uuml;r Menschen mit dem angeborenen Rett-Syndrom gibt es in Europa bislang nur symptomatische und begleitende Therapien. Dies k&ouml;nnte sich mit Trofinetid &auml;ndern. Eine Zulassungsempfehlung liegt vor.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/trofinetid-fuer-patienten-mit-rett-syndrom-166413/",
-      "published_at": "2026-06-29T16:00:00+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Guidance: Borderline products: medical devices and other products",
@@ -520,16 +582,6 @@
       "source_url": "https://www.gov.uk/government/publications/mhra-innovation-accelerator",
       "published_at": "2026-06-29T14:35:00+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Techniker Krankenkasse kündigt großen Teil der Hausarztverträge – News - Deutsches Ärzteblatt",
-      "summary_de": "Techniker Krankenkasse kündigt großen Teil der Hausarztverträge – News &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSzN3QXpFNWlGTm5IeVBNRjN4cFk4MmpTWmNnN3oyLWhDN0gzdllzTTYwU3N5MmNVRlpHQUJYTjF0MkVLSTZZRWhNOWxMVzUzNFdfakxOOGpCQnFWZ3o2UF9WbGxUVjRldTQwdFBjdXZfR1BOLVdXQnNYQXZsZWhqbVcxOHdzeXFtNHJrRTIwOEtyQnlvU1BhZnhTNXBoanFqcThDNk40dHJ0bVN3Um5fb25vVjJ4UHFrc28tbWlyMlV2NGZtcmY2TGYxTWctUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-29T14:07:23+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -590,16 +642,6 @@
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2026/zukunftswerkstatt-sozialversicherung-selbstverwaltung.html?pk_campaign=rss",
       "published_at": "2026-06-29T10:00:00+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-29T09:11:08+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -814,6 +856,16 @@
       "type": "News"
     },
     {
+      "title": "Hochgefährliche Krankheit - Mehr als 300 Ebola-Tote im Kongo - Gesundheit - SZ.de",
+      "summary_de": "Hochgefährliche Krankheit - Mehr als 300 Ebola-Tote im Kongo - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM3ViOER4RnhOQmlSWEJQRmtKalFRS1pkZHozOXliekZYS2J1OE56TXp5QmtXX2dlVDlFOVhnQWdObGtkaGdSZVpUbHd3WnZhc09jdzZmempvOXZjTVh3YnZqZGdNZ24ySTQxc3ZYTmxyWWJVTFNielN5empmTGlQYlhDbm9DOUMzbkhBQVlta1J5dVRkTkdUUGItMmdVS3ZBUUk3SFJIX3I4Y1JuT1MxcENVbzlFMm1SM0JxUHBkXy1yOGR2UUVEaVFaYXBPSk9JS3VaOFJmaGZiRnNMOWhBOVVn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-26T07:26:51+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Public Health: Studium mit Schwerpunkt Gesundheit - SZ.de",
       "summary_de": "Public Health: Studium mit Schwerpunkt Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -842,16 +894,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Ebola-Ausbruch - Fast 300 Ebola-Tote im Kongo - mehr Behandlungszentren nötig - Gesundheit - SZ.de",
-      "summary_de": "Ebola-Ausbruch - Fast 300 Ebola-Tote im Kongo - mehr Behandlungszentren nötig - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNkEyekpIMFpJTkV5OW5kOHZpTjFWTHZtT1pfVFhTa0QzcTZVQllzX3B6UVBmWjI2UDFlQ003b0tqcUJXaG5DTF95TmVfZi1RdzJyS1YzV0ItRGk3UjlQTUd4NzBTSTFVVTZuUW9acXYxdTFfVnQ2VzNLa1dhWVczSnFSLTFhQTNNRUF0TUpIX0tTRXg4TEQ3ZE9VMUhLZlNKVnNWS2pvQklIQzRINDVPQkdpZEpiWS0yS2tnZlMzUHlBLVZkdEo2S2tMbmhtYVNGcURFamFyaGNCXzVoeDdiN0R5RjYzOC0yelZQVDZBOEtLRGZIbHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-25T23:51:56+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "NHS App Management Information - May 2026",
@@ -964,11 +1006,11 @@
       "type": "News"
     },
     {
-      "title": "Wetter und Gesundheit - Deutschland steht vor Rekordhitze - über 40 Grad erwartet - Panorama - SZ.de",
-      "summary_de": "Wetter und Gesundheit - Deutschland steht vor Rekordhitze - über 40 Grad erwartet - Panorama &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbzBUSE8wTmVTZEFYMEM3c0ZyT0pYR3Q1QXVFcmhUUG5oSDdxc0xtX1l4Vmp3bHRTdk1PZHBNZmFhQVliX2xfN3ZPMXlFTWVUaVVpM3owYUUtRmRlRXlCeEFCZUZPM2YteU9aSkFOU3BHeWRyYWVIcm5kMjF2UEFZWWZJRlhnNGNfZkhCeFE0dndJNXJQVDc1R2M1UXg4emNQOUtYRmdBWHgyN1ZMalRFVnVpUEVLRUFZMWgwd2tXMWVwU0lNX0ZCeDVRcFBmbkNZS3BreUZ3SXNCWEYydmRqQkNsWlFGTGxDcXJIUEhyeDlSdHBjVC15cw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-25T12:09:51+00:00",
+      "title": "“Wir müssen die Menschen schnell und effi­zient dorthin lotsen, wo ihnen am besten geholfen wird” - Techniker Krankenkasse",
+      "summary_de": "“Wir müssen die Menschen schnell und effi­zient dorthin lotsen, wo ihnen am besten geholfen wird” &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY3ZtMHRFcnhUNXplLVRXb19KSkhiWW43elpuU2wxREx0UmxNSnJ3c3Q3bnN3c1pLSV9qdkExUnJ6QUQ1czJUOU9EUzN2Y0kwRXNGb2h1bi0tblotWVA0VnFPTDdVRFZiUTdhOF9lY2tSeDJzWUxnNGxVOHFLT2prUFVMV1R3RjlQZVk2QzZVX1JpWUNzU1E3VTI0eS1pcVg0VHJ6Nkdn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-25T12:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1084,16 +1126,6 @@
       "type": "News"
     },
     {
-      "title": "Akademische/r Mitarbeiter/in im Fach Alltagskultur und Gesundheit (m/w/d) - Pädagogische Hochschule Weingarten - ZEIT Stellenmarkt",
-      "summary_de": "Akademische/r Mitarbeiter/in im Fach Alltagskultur und Gesundheit (m/w/d) - Pädagogische Hochschule Weingarten &nbsp;&nbsp; ZEIT Stellenmarkt",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTjZlNHFjc2pkS045NlpleUR2eVJCc05kRW9odjRmS3NKclZ4MUdDSHdXNnktZkxRSWFOV0dlemZyWHFpSGFnbVJON1hMeVdhTWptRExyNlVMZ0RUQ1hwZ1Y4dHhOTkxvYUJMOFh3bERVUkRjb2pmNE5iMGdXWmw1NFo5RXpPNFVMRU1rRy1uTVBUSDlDWTE0R1Bfak1GcDFhX2lGdXpxQ2RRZkNidnpKbzRWMDVkRHh4YWdDNldDV1hFQzAwY2lzMTl2OVFoVDVpeTVwMHhzYTY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-24T12:57:11+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "NHS App Management Information - April 2026",
       "summary_de": "This publication provides information on the number of users and usage of the NHS App, and of features available through it. It aims to provide an open and accessible data source to give insight into how the public are using the NHS App, and how usage changes over time. Data are included for the following measures at ICB and national …",
       "source_name": "Publication Feed",
@@ -1120,16 +1152,6 @@
       "source_url": "https://www.gov.uk/government/publications/register-of-authorised-online-sellers-of-medicines-in-northern-ireland",
       "published_at": "2026-06-24T12:01:27+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit: Fitnessstudie: Warum Ausdauer Kindern psychisch guttut - DIE ZEIT",
-      "summary_de": "Gesundheit: Fitnessstudie: Warum Ausdauer Kindern psychisch guttut &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQi0tTHY1QzNwLVFZbWNwYXZPalhkVGxGbm1VWGNkNDBHVVFhNHhnNmpJNTlPRlVQSUdDUWFhWXFWNnItbWRiTDhHZWJJVnlFU2IxN2h3STAwZXcyemFQOWFKM3F5ZjltaC02YzNHUVNRcW5QMVpmY3F2QVZTX1dLMThhQ0FXUG42VFdFanNmaF9qZzQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-24T12:00:39+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1215,26 +1237,6 @@
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
       "source_url": "https://www.gov.uk/government/publications/marketing-authorisations-granted-in-2026",
       "published_at": "2026-06-23T10:42:49+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Decision: Parallel import licences granted in 2026",
-      "summary_de": "Parallel import licences granted in 2026.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/parallel-import-licences-granted-in-2026",
-      "published_at": "2026-06-23T10:42:34+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Decision: Medical devices given exceptional use authorisations",
-      "summary_de": "List of manufacturers and their medical devices granted an exemption by MHRA. The list also includes manufacturers whose exemption expired or was cancelled.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations",
-      "published_at": "2026-06-23T10:15:23+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
@@ -1358,18 +1360,6 @@
       "category": "Europa",
       "tags": [],
       "type": "News"
-    },
-    {
-      "title": "Update on the PATHWAYS clinical trial",
-      "summary_de": "As with all clinical trials, the MHRA’s top priority is the safety and wellbeing of the trial participants.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/update-on-the-pathways-clinical-trial",
-      "published_at": "2026-06-19T08:30:02+00:00",
-      "category": "Studie",
-      "tags": [
-        "Europa"
-      ],
-      "type": "Studie"
     },
     {
       "title": "Surgery for wrist osteoarthritis",
@@ -2141,16 +2131,6 @@
       "source_name": "\"site:rp-online.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWXZXOWV4NnlGdkdIS1RiSG5KTEZyUjZvZW0wbmllelEtaElwVlJUZnhHTWFVNllHdUNQbkIybTJIWHQwcnNwSkZSdEFCc2M0YXptUGF0dXhZcmpRcmx3WDh3c01RRE9ZdzFfUmRMenk2a015bGZqNXdWQndEbjk3ZDdWcm5aWTZsT1dmM3dpM2p6TnM0dFRhb1JMVWJSaU03eXc4cmZtSFpmajRPcmJVcnFQdHZIRzd0NUpuc2daUVFEajNXd0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-05-21T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "TK-Safe - die elektronische Patientenakte (ePA) in der TK-App - Techniker Krankenkasse",
-      "summary_de": "TK-Safe - die elektronische Patientenakte (ePA) in der TK-App &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTkNUVkRpVldjQk9QLWhiVnBpLWV5V0dhWENkbnVzSnpLWlBRSjlocGZ3VGJUSDhhU2MyWHo5M0lMV0RLYVhyLU53djF3ZW03TVhYbk1NZ0gyZDhUX0p6SXFnZ2NSc1ptNzlKa2l4ZUR0WVpGV3VqLTBHV1YtT0dqU2ZrUzR0dkhIYXdtOU1HQUlhVUlIOHpVanpFaHVLdDJNd3lOcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-05-20T12:00:39+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
