@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-01T19:42:51.036382+00:00",
+  "generated_at": "2026-07-01T22:13:22.821182+00:00",
   "window_days": 42,
-  "count": 227,
+  "count": 226,
   "items": [
     {
       "title": "Hochgefährliche Krankheit - Ebola-Zentrum im Kongo von Anwohnern niedergebrannt - Gesundheit - SZ.de",
@@ -30,6 +30,16 @@
       "source_url": "https://www.gov.uk/government/publications/mhra-innovation-office-guidance-and-support",
       "published_at": "2026-07-01T15:26:45+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: Nifedipin Denk 20 mg retard pU: Denk Pharma GmbH & Co. KG",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-07-01T15:11:37+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -136,16 +146,6 @@
       "type": "News"
     },
     {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: Fluorescein Alcon 10% pU: Alcon Deutschland GmbH",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-07-01T13:34:09+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit: Nach Aus für Suchtklinik - Neues Angebot für junge Patienten - DIE ZEIT",
       "summary_de": "Gesundheit: Nach Aus für Suchtklinik - Neues Angebot für junge Patienten &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -158,7 +158,7 @@
     {
       "title": "Wirtschaft, Medizin und Personal Hand in Hand: Drei Krankenhäuser dürfen enger zusammenarbeiten - tagesschau.de",
       "summary_de": "Wirtschaft, Medizin und Personal Hand in Hand: Drei Krankenhäuser dürfen enger zusammenarbeiten &nbsp;&nbsp; tagesschau.de",
-      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
+      "source_name": "\"site:tagesschau.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQU1jeHdnUmVCVEFBc25VS1p0NGY0UV8wSnRMRTE1QjRmdGJHUF9SWVdKb0JfeE5rLUJjU2FPWWFyM3NwS050b0EtQWFyZzdEamExNU04UDhQTF9TQnhiT0MwTkZiMTF5SXVFMWJNNkthOFQzTi10T1dMMnZxX2J6eHRtOFFiUDg4R3JpdmY2bENXdV9IZlVLWGxSS2VXYzFNQkdTWXlnR1d6dngyYkZRMlVhWC1rZ0R4dEJJOHdJRXBKcTl1b0JlTGotZWlWdEVIcjBsUVJVR1B5aldxZmk4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-01T13:10:00+00:00",
       "category": "News",
@@ -686,8 +686,8 @@
       "type": "News"
     },
     {
-      "title": "Krankenkasse für ein gesünderes Leben | BARMER - BARMER",
-      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; BARMER",
+      "title": "Krankenkasse für ein gesünderes Leben | BARMER - Barmer",
+      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-29T07:20:14+00:00",
@@ -842,26 +842,6 @@
       "source_url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-june-2026",
       "published_at": "2026-06-26T10:00:00+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit: DWD warnt vor extremer Hitze - DIE ZEIT",
-      "summary_de": "Gesundheit: DWD warnt vor extremer Hitze &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjelZiTDRDMzdUdzBtbHMtZTJaY20wU19ScDB4WEV3SkdVT3JtUGswUXBmNzJlV3RDMDAyYmlPOF9YblZUbnc5QmplY2lBZEFtWHA1LXdMY3VIX1VCSE5vSkFSNkFXdVhxQ2FvTlNXRDdPQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-26T08:59:03+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit - DWD warnt vor extremer Hitze - Panorama - SZ.de",
-      "summary_de": "Gesundheit - DWD warnt vor extremer Hitze - Panorama &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaWZEZWdyYURkRmt3MDVFVmRJOTlxWktIUkNFbDVVbnFoRS01aGszMVVsaG1OVk5nQjdDNU1wQWMyTHVkX3BCQXo1eWt4cmN2dVJHV0IwR281SWk0S2RlWnZjN0lUQjRiQW9qSG9vS2EtV3BjYU9DbzZPZWJOeDFqTFFxMmRjLUxnaUZJWG40akdjc2poa2VoU3VxUWNzeWpaRW5Bb0JING9HVnBaQ09nYzI5cW5TMjRYenc2WmsyVElfdzFX?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-26T08:59:03+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1349,6 +1329,16 @@
       "type": "News"
     },
     {
+      "title": "Oberärztin / Oberarzt (m/w/d) – Klinik für Neuroradiologie - ärztestellen",
+      "summary_de": "Oberärztin / Oberarzt (m/w/d) – Klinik für Neuroradiologie &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUlBUYTFvbGdQMzB0VExEWF80ZTgtallDTWIzN0dCdnRZREp1MEsxRklVeklmdmlKTkItRFdFX3ZaSjhDQ0JjNWJZY2lfT3NsaWFNaUdpNUNWWnBLSGxudE1SM2JfUlNSSzJ5Tk9QSEJ1N0IzUHdta1lUbE1yc1oyZHJUQlFUZkVhMHI3ck1hMHU3Rl9YeU50T1M2S291YmVZbG5r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-22T08:00:05+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "vdek-Vorstandsvorsitzende Elsner fordert: Keine weiteren Belastungen für Versicherte und Arbeitgeber beim GKV-Sparpaket",
       "summary_de": "Im Gesundheitsausschuss wird über weitere Maßnahmen zur Stabilisierung der GKV beraten. Der vdek lehnt zusätzliche Belastungen für Versicherte und Arbeitgeber ab und fordert stattdessen eine faire Lastenverteilung zwischen Staat, Leistungserbringern und Beitragszahlenden.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -1363,16 +1353,6 @@
       "summary_de": "Universitätsprofessur für Public Health Data Science UMIT TIROL - Private Universität für Gesundheitswissenschaften und -technologie GmbH &nbsp;&nbsp; ZEIT Stellenmarkt",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPeHJhY3BXNkRtZjhFOHhiTmhZWmhvazJlOFl1VTV0OFozMkJnVS1jWHdWOVUyM0ttY1RVb2RxbU43cl8zY3dZVUVyY2ZMMjI2UnpsdDJ3UGt0YWFDbFdsRUc3bWRISG9qOWVQS3U5a0l2M05qYmQ4V2otc3loNzg4am5CXzdzSVFwOFVnbmE0YjlucmhNZzAwcGZKYm1lbjVmRFJhX1FmMHF2QWZmUW1Wa1lLMEZBOEVickJSNnczNHFTM0ZISTNLekJVV004U3dJRjlVQUxRbnUybkh6RURaZHkwM3dDUGhmQk5oZnYtdnlsbndwdjMxd0FKbl84d3BnQm84MjEtSzFDUklRU2x1T1FIMlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-22T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Oberärztin / Oberarzt (m/w/d) – Klinik für Neuroradiologie - ärztestellen",
-      "summary_de": "Oberärztin / Oberarzt (m/w/d) – Klinik für Neuroradiologie &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUlBUYTFvbGdQMzB0VExEWF80ZTgtallDTWIzN0dCdnRZREp1MEsxRklVeklmdmlKTkItRFdFX3ZaSjhDQ0JjNWJZY2lfT3NsaWFNaUdpNUNWWnBLSGxudE1SM2JfUlNSSzJ5Tk9QSEJ1N0IzUHdta1lUbE1yc1oyZHJUQlFUZkVhMHI3ck1hMHU3Rl9YeU50T1M2S291YmVZbG5r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-22T07:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -2318,6 +2298,16 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/physical-health-checks-for-people-with-severe-mental-illness/q4-2025-26",
       "published_at": "2026-05-21T08:31:00+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Neuartige Behandlung ohne Vollnarkose: Innovation in Klinik - Wie Kälte gegen Endometriose hilft - RP Online",
+      "summary_de": "Neuartige Behandlung ohne Vollnarkose: Innovation in Klinik - Wie Kälte gegen Endometriose hilft &nbsp;&nbsp; RP Online",
+      "source_name": "\"site:rp-online.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWXZXOWV4NnlGdkdIS1RiSG5KTEZyUjZvZW0wbmllelEtaElwVlJUZnhHTWFVNllHdUNQbkIybTJIWHQwcnNwSkZSdEFCc2M0YXptUGF0dXhZcmpRcmx3WDh3c01RRE9ZdzFfUmRMenk2a015bGZqNXdWQndEbjk3ZDdWcm5aWTZsT1dmM3dpM2p6TnM0dFRhb1JMVWJSaU03eXc4cmZtSFpmajRPcmJVcnFQdHZIRzd0NUpuc2daUVFEajNXd0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-05-21T07:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     }
