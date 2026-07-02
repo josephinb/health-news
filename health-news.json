@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-01T22:13:22.821182+00:00",
+  "generated_at": "2026-07-02T02:37:09.068518+00:00",
   "window_days": 42,
-  "count": 226,
+  "count": 188,
   "items": [
     {
       "title": "Hochgefährliche Krankheit - Ebola-Zentrum im Kongo von Anwohnern niedergebrannt - Gesundheit - SZ.de",
@@ -30,6 +30,16 @@
       "source_url": "https://www.gov.uk/government/publications/mhra-innovation-office-guidance-and-support",
       "published_at": "2026-07-01T15:26:45+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "SNAP participation boosts cancer screening among food-insecure adults",
+      "summary_de": "Food insecurity is tied to people not getting their cancer screening, but SNAP participation may help.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15829041/snap-participation-boosts-cancer-screening-among-foodinsecure-adults",
+      "published_at": "2026-07-01T15:23:30+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -158,7 +168,7 @@
     {
       "title": "Wirtschaft, Medizin und Personal Hand in Hand: Drei Krankenhäuser dürfen enger zusammenarbeiten - tagesschau.de",
       "summary_de": "Wirtschaft, Medizin und Personal Hand in Hand: Drei Krankenhäuser dürfen enger zusammenarbeiten &nbsp;&nbsp; tagesschau.de",
-      "source_name": "\"site:tagesschau.de \"Gesundheitspolitik\"\" - Google News",
+      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQU1jeHdnUmVCVEFBc25VS1p0NGY0UV8wSnRMRTE1QjRmdGJHUF9SWVdKb0JfeE5rLUJjU2FPWWFyM3NwS050b0EtQWFyZzdEamExNU04UDhQTF9TQnhiT0MwTkZiMTF5SXVFMWJNNkthOFQzTi10T1dMMnZxX2J6eHRtOFFiUDg4R3JpdmY2bENXdV9IZlVLWGxSS2VXYzFNQkdTWXlnR1d6dngyYkZRMlVhWC1rZ0R4dEJJOHdJRXBKcTl1b0JlTGotZWlWdEVIcjBsUVJVR1B5aldxZmk4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-01T13:10:00+00:00",
       "category": "News",
@@ -286,6 +296,16 @@
       "type": "News"
     },
     {
+      "title": "Socioeconomic conditions amplify pollution-related bone loss",
+      "summary_de": "The findings underscore how environmental and social conditions work together to influence long-term bone health.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15829112/socioeconomic-conditions-amplify-pollutionrelated-bone-loss",
+      "published_at": "2026-07-01T08:51:53+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Apothekenreform: ApoVWG ab morgen in Kraft",
       "summary_de": "Das Apothekenversorgung-Weiterentwicklungsgesetz (ApoVWG) ist heute im Bundesgesetzblatt ver&ouml;ffentlicht worden und tritt damit am morgigen 2. Juli in Kraft.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -336,12 +356,12 @@
       "type": "News"
     },
     {
-      "title": "Mental Health Services Monthly Statistics, Performance April 2026",
-      "summary_de": "This publication provides the timeliest picture available of people using NHS funded secondary mental health, learning disabilities and autism services in England, excluding those who are solely in contact with Talking Therapies. This information will be of use to people needing access to information quickly for operational decision making and other purposes. More detailed information on the quality and completeness …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mental-health-services-monthly-statistics/performance-april-2026",
-      "published_at": "2026-07-01T06:18:13+00:00",
-      "category": "Europa",
+      "title": "Medicare Advantage cost-sharing varies for advanced imaging services",
+      "summary_de": "More plans require cost-sharing for advanced imaging, with a growing share of plans requiring both coinsurance and a copayment...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/practice-management/article/15829101/medicare-advantage-costsharing-varies-for-advanced-imaging-services",
+      "published_at": "2026-07-01T06:44:57+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -576,12 +596,42 @@
       "type": "News"
     },
     {
+      "title": "PET/CT guides treatment in men with recurrent prostate cancer",
+      "summary_de": "F-18 fluciclovine and Ga-68 PSMA-11 PET/CT have similar benefits for sRT planning, in terms of improving cancer control without...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15829020/petct-guides-treatment-in-men-with-recurrent-prostate-cancer",
+      "published_at": "2026-06-30T08:36:12+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Neues Webportal „Prävention direkt finden”",
       "summary_de": "Über 120.000 qualitätsgesicherte Präventionskurse können mit dem neuen Webportal „Prävention direkt finden“ nach Wohnort, Thema oder Format durchsucht werden. So finden Ärzte, Psychotherapeuten und Beratungsstellen schneller passende Präventionsangebote für ihre Patienten.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2026/neues-webportal-praevention-direkt-finden.html?pk_campaign=rss",
       "published_at": "2026-06-30T07:30:00+00:00",
       "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Most patients want to know if AI being used for imaging reports",
+      "summary_de": "Most patients want disclosure about whether AI is being used for their imaging reports.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15829002/most-patients-want-to-know-if-ai-being-used-for-imaging-reports",
+      "published_at": "2026-06-30T07:20:58+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Low muscle density on coronary CT linked to heart risk",
+      "summary_de": "Patients with skeletal muscle attenuation below the median had a higher risk of mortality and myocardial infarction.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15828982/low-muscle-density-on-coronary-ct-linked-to-heart-risk",
+      "published_at": "2026-06-30T06:19:34+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -594,6 +644,26 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Years-smoked criteria may improve lung cancer screening eligibility",
+      "summary_de": "Smoke duration thresholds could help improve lung cancer screening with low-dose CT.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15828814/yearssmoked-criteria-may-improve-lung-cancer-screening-eligibility",
+      "published_at": "2026-06-29T15:24:20+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Nearly half of mCRPC patients never receive second-line treatment",
+      "summary_de": "ARPIs were the most common first-line treatment (79.3%) and remained the most common second-line treatment (41.1%).",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/radiation-oncology-therapy/article/15828764/nearly-half-of-mcrpc-patients-never-receive-secondline-treatment",
+      "published_at": "2026-06-29T15:21:30+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Guidance: Borderline products: medical devices and other products",
@@ -622,6 +692,16 @@
       "source_url": "https://www.gov.uk/government/publications/mhra-innovation-accelerator",
       "published_at": "2026-06-29T14:35:00+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Techniker Krankenkasse kündigt großen Teil der Hausarztverträge – News - Deutsches Ärzteblatt",
+      "summary_de": "Techniker Krankenkasse kündigt großen Teil der Hausarztverträge – News &nbsp;&nbsp; Deutsches Ärzteblatt",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSzN3QXpFNWlGTm5IeVBNRjN4cFk4MmpTWmNnN3oyLWhDN0gzdllzTTYwU3N5MmNVRlpHQUJYTjF0MkVLSTZZRWhNOWxMVzUzNFdfakxOOGpCQnFWZ3o2UF9WbGxUVjRldTQwdFBjdXZfR1BOLVdXQnNYQXZsZWhqbVcxOHdzeXFtNHJrRTIwOEtyQnlvU1BhZnhTNXBoanFqcThDNk40dHJ0bVN3Um5fb25vVjJ4UHFrc28tbWlyMlV2NGZtcmY2TGYxTWctUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-29T14:07:23+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -656,16 +736,6 @@
       "type": "News"
     },
     {
-      "title": "Female Genital Mutilation - Quarterly Report: January to March 2026",
-      "summary_de": "The Female Genital Mutilation Enhanced Dataset (FGMED) is a repository for data collected by healthcare providers in England where FGM was identified or a procedure for FGM was undertaken.Data collected includes: FGM type, country of patient's birth and where FGM was undertaken, age at latest attendance, and if the patient was advised of the health implications and illegalities of FGM.This …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/female-genital-mutilation/january-to-march-2026",
-      "published_at": "2026-06-29T10:53:45+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Class 4 Medicines Defect Notification: Brancaster Pharma Limited, Benzylpenicillin benzathine 1.2 Million I.U. and 2.4 Million I.U. powder for suspension for injection, EL(26)A/30",
       "summary_de": "Brancaster Pharma Limited has informed the MHRA that the Patient Information Leaflet (PIL) in the cartons for the batches listed in this notification were released with an outdated PIL.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -691,6 +761,16 @@
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-29T07:20:14+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "ASE: Simple 'nudge' on echo reports improves aortic stenosis follow-up",
+      "summary_de": "An automated reminder in echo reports can improve follow-up rates for patients with severe aortic stenosis.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ultrasound/article/15828879/ase-simple-nudge-on-echo-reports-improves-aortic-stenosis-followup",
+      "published_at": "2026-06-29T07:11:10+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -856,6 +936,18 @@
       "type": "News"
     },
     {
+      "title": "Week in Review: Interventional radiology trends | FIFA World Cup and radiology | Quantitative imaging",
+      "summary_de": "Interventional radiology workforce trends and a feature on radiology at the FIFA World Cup were the top stories on AuntMinnie...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15828767/week-in-review-interventional-radiology-trends-fifa-world-cup-and-radiology-quantitative-imaging",
+      "published_at": "2026-06-26T08:56:04+00:00",
+      "category": "Studie",
+      "tags": [
+        "Radiologie"
+      ],
+      "type": "Studie"
+    },
+    {
       "title": "Gesundheit: Wie Pflegeheime auf die Hitze reagieren - DIE ZEIT",
       "summary_de": "Gesundheit: Wie Pflegeheime auf die Hitze reagieren &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -916,86 +1008,6 @@
       "type": "Studie"
     },
     {
-      "title": "NHS App Management Information - May 2026",
-      "summary_de": "This publication provides information on the number of users and usage of the NHS App, and of features available through it. It aims to provide an open and accessible data source to give insight into how the public are using the NHS App, and how usage changes over time. Data are included for the following measures at ICB and national …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-app-statistics/may-2026",
-      "published_at": "2026-06-25T14:53:15+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit: Braucht es neue Regeln für Organspenden? - DIE ZEIT",
-      "summary_de": "Gesundheit: Braucht es neue Regeln für Organspenden? &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON0llNjRvRG1vb1VRQkwtUEE1UnNyMXFoOEMybC03dl9ZUDJlN2VWV2ZhR0ZrTUlRZDRwaThBZGdBSkcxSU5saTZpek5TM1NsQ2JoNEloQ1EybTNISV9hbW4wREJ0NEJvZk4wMFVXTEttdUJSVGUtcFZZUUJra2ZISWhB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-25T14:39:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Submissions via Online Consultation Systems in General Practice, May 2026",
-      "summary_de": "Submissions via Online Consultation Systems in General Practice, May 2026",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/submissions-via-online-consultation-systems-in-general-practice/may-2026",
-      "published_at": "2026-06-25T13:13:10+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Primary Care Network Workforce, 31 May 2026",
-      "summary_de": "Primary Care Networks were created in July 2019 to provide accessible and integrated primary, mental health, and community care for patients. The bulk of the PCN workforce consists of Direct Patient Care staff, funded by the Additional Roles Reimbursement Scheme (ARRS), and each PCN has the flexibility and autonomy to determine which roles are required to meet the specific needs …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/primary-care-network-workforce/31-may-2026",
-      "published_at": "2026-06-25T13:12:11+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "NHS Workforce Statistics - April 2026",
-      "summary_de": "This report shows monthly numbers of NHS Hospital and Community Health Services (HCHS) staff. The data is split between staff working in NHS Trusts and other core organisations in England (excluding primary care staff), and staff working in NHS support organisations and central bodies. Data are available as full-time equivalent and headcount and for all months from 30 September 2009 …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-workforce-statistics/april-2026",
-      "published_at": "2026-06-25T13:11:00+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "General Practice Workforce, 31 May 2026",
-      "summary_de": "The General Practice Workforce series of Official Statistics presents a snapshot of the primary care general practice workforce. A snapshot statistic relates to the situation at a specific date, which for these workforce statistics is now the last calendar day each month.This monthly snapshot reflects the general practice workforce at 31 May 2026. These statistics present full-time equivalent (FTE) and …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/general-and-personal-medical-services/31-may-2026",
-      "published_at": "2026-06-25T13:09:44+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Cloud Based Telephony Data in General Practice, May 2026",
-      "summary_de": "This publication provides information about the number of cloud based telephony calls received by general practices. This information is published monthly and includes practice-level data.The publication presents a high-level time series from October 2024 onwards, showing monthly counts grouped by day and time of call of:• The total count of practices included in this publication• The total number of inbound …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/cloud-based-telephony-data-in-general-practice/may-2026",
-      "published_at": "2026-06-25T13:08:38+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Appointments in General Practice, May 2026",
-      "summary_de": "The aim of the publication is to inform users about activity and usage of GP appointments historically and how primary care is impacted by seasonal pressures, such as winter. NHS England publishes this information to support winter preparedness and provide information about some activity within primary care. The publication covers historic appointments, marked as attended or did not attend, from …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/may-2026",
-      "published_at": "2026-06-25T13:06:57+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Auszeichnung für Johanna-Etienne-Krankenhaus: Neusser Klinik wird Kompetenzzentrum für Thoraxchirurgie - RP Online",
       "summary_de": "Auszeichnung für Johanna-Etienne-Krankenhaus: Neusser Klinik wird Kompetenzzentrum für Thoraxchirurgie &nbsp;&nbsp; RP Online",
       "source_name": "\"site:rp-online.de radiologie\" - Google News",
@@ -1011,16 +1023,6 @@
       "source_name": "\"site:rp-online.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQWRnckZfcmdMcnQ1Slp2bXFXVzF0cUpHOHduWnc0ZFAyVXdmX0xqWkZIdnlESEgwYzRWYmphTVRUMklvb2E1MmFqbjdDV2xzYTZQSk5HOF84NUNCeE5UUGFHWGNaQndsS0x3S01mTEk5bFBNYy05MDRaWldDLWQ2TXkwbHJOZnRVT3lnZHVVYUNFQTBPZndXZ01ndGdOVl9BV05hTUZFb1RWYWxzQVctSkxNYjdvUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-25T12:48:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Wetter und Gesundheit: Deutschland steht vor Rekordhitze - über 40 Grad erwartet - DIE ZEIT",
-      "summary_de": "Wetter und Gesundheit: Deutschland steht vor Rekordhitze - über 40 Grad erwartet &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORE5RNlpzUkR3WnpzNl9hV25PUnoyYWZhbFBObGNxNXRkaG5yOC1wMzBvdTJvQTlKS0Nmc1dyZFdqWGg0U3FCdnZVYXRSdXN3d2Vka2ZoX1RYNjRWZ0FjYWRZRzVyVDBlOWxvM3pPTXQwYXpoQW1peGtsVlpzMjBpdDlBeTZ2al9VVTlOVlo3VXdCX2gwRGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-25T12:09:51+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1078,26 +1080,6 @@
       "type": "News"
     },
     {
-      "title": "NHS Staff Earnings Estimates, April 2026 (including supplementary analysis on pay by ethnicity)",
-      "summary_de": "This report shows average annual earnings for the following four earnings measures, provisionally showing overall figures for the NHS HCHS workforce (excluding primary care staff) in England in NHS Trusts and other core organisations in England and NHS Support Organisations and Central Bodies.Mean annual basic pay per FTE – is the mean amount of basic pay paid per 1 full-time …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-staff-earnings-estimates/april-2026",
-      "published_at": "2026-06-25T08:31:15+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "NHS Sickness Absence Rates, March 2026",
-      "summary_de": "This report shows monthly sickness absence rates of NHS Hospital and Community Health Services (HCHS) staff working in NHS Trusts and other core organisations and NHS Support Organisations and Central Bodies. Data is presented by NHS England region, ICS area, organisation, organisation type, staff group and reason for sickness absence.We welcome feedback on the methodology and tables within this publication. …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-sickness-absence-rates/march-2026",
-      "published_at": "2026-06-25T08:31:01+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit: Sport bei Hitze: Diese Tipps helfen bei hohen Temperaturen - DIE ZEIT",
       "summary_de": "Gesundheit: Sport bei Hitze: Diese Tipps helfen bei hohen Temperaturen &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -1134,26 +1116,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeGY0SEZ5bEFDTEZyMVFRdFV2amVZVlpEU3I0NF9QRkpRb1FwbmdDTHZFYVdpaGZocWsyQlp3X3hheEQwekJQVDQ0TjNlM1NOM1F0cFlobG1qcFBjZ3BhWGtlckY0QXhxLVlkV0J5bVpiY3ZEdHNubUVOSzZDbU96NWFBSkVyeFkt?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-24T15:23:54+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "ADHD Management Information - May 2026",
-      "summary_de": "Attention deficit hyperactivity disorder (ADHD) is defined by the World Health Organization as being characterised by a persistent pattern of inattention and/or hyperactivity-impulsivity that has a direct negative impact on academic, occupational, or social functioning, the level of which is outside the limits of normal variation expected for age and level of intellectual functioning. Historically there has been no specific …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-adhd/may-2026",
-      "published_at": "2026-06-24T13:19:39+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "NHS App Management Information - April 2026",
-      "summary_de": "This publication provides information on the number of users and usage of the NHS App, and of features available through it. It aims to provide an open and accessible data source to give insight into how the public are using the NHS App, and how usage changes over time. Data are included for the following measures at ICB and national …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-app-statistics/april-2026",
-      "published_at": "2026-06-24T12:20:17+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -1232,16 +1194,6 @@
       "type": "News"
     },
     {
-      "title": "[MI] Learning Disabilities Health Check Scheme, England March 2026",
-      "summary_de": "The learning disabilities health check scheme is designed to encourage practices to identify all patients aged 14 and over with learning disabilities, to maintain a learning disabilities 'health check' register and offer them an annual health check, which will include producing a health action plan.The learning disabilities health check scheme is one of a number of GP enhanced services. Enhanced …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/learning-disabilities-health-check-scheme/england-march-2026",
-      "published_at": "2026-06-23T11:48:56+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Elsner zu stationärer Versorgung und GKV-Sparpaket: „Auch Beitragszahlende haben berechtigte Interessen“",
       "summary_de": "Der vdek warnt vor weiteren Ausnahmen für Krankenhäuser im GKV-Sparpaket. Zusätzliche Forderungen bei Tarifrefinanzierung und Pflegebudget würden nach Ansicht der Ersatzkassen zulasten von Versicherten und Arbeitgebern gehen.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -1297,16 +1249,6 @@
       "type": "Studie"
     },
     {
-      "title": "Primary Care Workforce Recruited through the Additional Roles Reimbursement Scheme (ARRS), 1 October 2024 – 31 May 2026 [Management Information]",
-      "summary_de": "Additional funding of £82 million was announced in August 2024 to support the inclusion of recently qualified GPs in the Additional Roles Reimbursement Scheme (ARRS) for 2024/25 with funding only available for GPs who had qualified within the last 2 years. As a result, the primary care network directed enhanced service (PCN DES) was amended for 2024/25 to expand the …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-primary-care-workforce-recruited-through-the-additional-roles-reimbursement-scheme-arrs/1-october-2024---31-may-2026/content-copy",
-      "published_at": "2026-06-22T15:28:55+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Meldung: Sinkende Beitragssätze bei gleichbleibender Versorgungsqualität wären möglich",
       "summary_de": "Anlässlich der öffentlichen Anhörung im Gesundheitsausschuss zum GKV- Beitragssatzstabilisierungsgesetz äußerten sich von Seiten des GKV-Spitzenverbandes Dr. Susanne Wagenmann, amtierende Verwaltungsratsvorsitzende und Arbeitgebervertreterin, gegenüber der Wirtschaftswoche sowie Oliver Blatt, Vorstandsvorsitzender, gegenüber der Rheinischen Post. Beide mahnen deutlich höhere Einsparungen an und warnen vor einer Verwässerung der Reform und falsche Zugeständnisse an die Pharmaindustrie.",
       "source_name": "GKV-SV Presseinformationen",
@@ -1316,26 +1258,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Statistics on people with a learning disability and autistic people in mental health hospitals, AT: April 2026, MHSDS: March 2026",
-      "summary_de": "Latest monthly statistics on people with a learning disability and autistic people in inpatient services from the Assuring Transformation (AT) collection and Mental Health Services Data Set (MHSDS).Data on inpatients with learning disabilities and/or autism are being collected both within the AT collection and MHSDS. There are differences in the inpatient figures between the AT and MHSDS data sets and …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/learning-disability-services-statistics/at-april-2026-mhsds-march-2026",
-      "published_at": "2026-06-22T08:37:04+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Oberärztin / Oberarzt (m/w/d) – Klinik für Neuroradiologie - ärztestellen",
-      "summary_de": "Oberärztin / Oberarzt (m/w/d) – Klinik für Neuroradiologie &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUlBUYTFvbGdQMzB0VExEWF80ZTgtallDTWIzN0dCdnRZREp1MEsxRklVeklmdmlKTkItRFdFX3ZaSjhDQ0JjNWJZY2lfT3NsaWFNaUdpNUNWWnBLSGxudE1SM2JfUlNSSzJ5Tk9QSEJ1N0IzUHdta1lUbE1yc1oyZHJUQlFUZkVhMHI3ck1hMHU3Rl9YeU50T1M2S291YmVZbG5r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-22T08:00:05+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
@@ -1359,12 +1281,12 @@
       "type": "News"
     },
     {
-      "title": "Statistics on people with a learning disability and autistic people in mental health hospitals, AT: May 2026, MHSDS: April 2026",
-      "summary_de": "Latest monthly statistics on people with a learning disability and autistic people in inpatient services from the Assuring Transformation (AT) collection and Mental Health Services Data Set (MHSDS).Data on inpatients with learning disabilities and/or autism are being collected both within the AT collection and MHSDS. There are differences in the inpatient figures between the AT and MHSDS data sets and …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/learning-disability-services-statistics/at-may-2026-mhsds-april-2026",
-      "published_at": "2026-06-22T06:47:08+00:00",
-      "category": "Europa",
+      "title": "Oberärztin / Oberarzt (m/w/d) – Klinik für Neuroradiologie - ärztestellen",
+      "summary_de": "Oberärztin / Oberarzt (m/w/d) – Klinik für Neuroradiologie &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUlBUYTFvbGdQMzB0VExEWF80ZTgtallDTWIzN0dCdnRZREp1MEsxRklVeklmdmlKTkItRFdFX3ZaSjhDQ0JjNWJZY2lfT3NsaWFNaUdpNUNWWnBLSGxudE1SM2JfUlNSSzJ5Tk9QSEJ1N0IzUHdta1lUbE1yc1oyZHJUQlFUZkVhMHI3ck1hMHU3Rl9YeU50T1M2S291YmVZbG5r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-22T07:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1441,36 +1363,6 @@
         "Versorgung",
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Maternity Services Monthly Statistics, Final March 2026, Provisional April 2026, official statistics",
-      "summary_de": "This statistical release makes available the most recent monthly data on NHS-funded maternity services in England, using data submitted to the Maternity Services Data Set (MSDS).This is the latest report from version 2.0 of the data set, which has been in place since April 2019. This latest version was a significant change from the previous 1.5 version which added support …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/maternity-services-monthly-statistics/final-march-2026-provisional-april-2026-official-statistics",
-      "published_at": "2026-06-18T08:31:09+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Statistics on Women's Smoking Status at Time of Delivery: England, Q4 2025/26",
-      "summary_de": "This report presents statistics on women’s smoking status at time of delivery, at Sub Integrated Care Board (Sub-ICB), Integrated Care Board (ICB), Local Authority, regional and national levels. This release includes finalised data for quarter 4 of 2025-26 and annual data for 2025-26 using data from the Maternity Services Dataset (MSDS). A separate annual data file includes breakdowns by maternal …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/statistics-on-women-s-smoking-status-at-time-of-delivery-england/statistics-on-womens-smoking-status-at-time-of-delivery-england-q4-2025-26",
-      "published_at": "2026-06-18T08:31:03+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "NHS Surplus Land, Oct-Mar 2025/26",
-      "summary_de": "The NHS Surplus Land collection has existed since 2008 and was originally designed to provide information to the Department of Health and Social Care (DHSC), Homes England and the Office of Government Property (OGP) on sites that can be disposed of, thereby contributing to the Public Land for Housing Programme. The collection currently monitors the contribution made by the NHS …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-surplus-land/oct-mar-2025-26",
-      "published_at": "2026-06-18T08:31:01+00:00",
-      "category": "Europa",
-      "tags": [],
       "type": "News"
     },
     {
@@ -1598,16 +1490,6 @@
       "type": "News"
     },
     {
-      "title": "National Pregnancy in Diabetes Audit - Hybrid closed loop 2025 (01 January 2025 to 31 December 2025)",
-      "summary_de": "The National Pregnancy in Diabetes (NPID) audit is part of the National Diabetes Audit (NDA) programme which is managed by NHS England. It aims to support clinical teams to deliver better care and outcomes for women with diabetes who become pregnant and has been running since 2014.This report summarises national findings on the use of hybrid closed loop (HCL) technologies …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/national-pregnancy-in-diabetes-audit/2025",
-      "published_at": "2026-06-12T08:38:03+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "GKV-Reform: Gesundheitsreform stößt im Bundestag auf großen Widerstand - DIE ZEIT",
       "summary_de": "GKV-Reform: Gesundheitsreform stößt im Bundestag auf großen Widerstand &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
@@ -1640,26 +1522,6 @@
       "type": "Studie"
     },
     {
-      "title": "[MI] Learning Disabilities Health Check Scheme, England April 2026",
-      "summary_de": "The learning disabilities health check scheme is designed to encourage practices to identify all patients aged 14 and over with learning disabilities, to maintain a learning disabilities 'health check' register and offer them an annual health check, which will include producing a health action plan.The learning disabilities health check scheme is one of a number of GP enhanced services. Enhanced …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/learning-disabilities-health-check-scheme/england-april-2026",
-      "published_at": "2026-06-11T12:46:14+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Network Contract DES (MI) - May 2026",
-      "summary_de": "A framework for GP contract reform to implement The NHS Long Term Plan published in January 2019 which describes significant investment in Primary Care Networks (PCNs) through the Network Contract Directed Enhanced Service (DES). The eighth year of the Network Contract DES began in April 2026. The data provides information to allow effective management of the contract. The indicators are …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-network-contract-des/england-may-2026",
-      "published_at": "2026-06-11T12:41:28+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Meldung: Die Pharmaindustrie verdient in Deutschland blendend",
       "summary_de": "Mit Verwunderung reagiert Stefanie Stoff-Ahnis, stellvertretende Vorstandsvorsitzende des GKV-Spitzenverbandes, in der Wirtschaftswoche auf die Ankündigungen einzelner Pharmaunternehmen, Investitionen in Deutschland zu streichen. Im Interview mit der Wirtschaftswoche sagt Stoff-Ahnis: „Der deutsche Markt bietet der Pharmaindustrie hervorragende Bedingungen. Patientinnen und Patienten bekommen schnell Zugang zu neuen Wirkstoffen und Arzneimitteln und die gesetzlichen Kassen sind ein großer Kunde mit 75 Millionen Versicherten.“",
       "source_name": "GKV-SV Presseinformationen",
@@ -1677,46 +1539,6 @@
       "source_name": "News and press releases",
       "source_url": "https://www.ema.europa.eu/en/news/emas-2025-annual-report-shows-strong-approval-numbers-human-veterinary-medicines",
       "published_at": "2026-06-11T11:00:00+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Provisional Monthly Hospital Episode Statistics for Admitted Patient Care, Outpatient and Accident and Emergency data, April 2025 - March 2026 (M13)",
-      "summary_de": "Hospital Episodes Statistics (HES) is a data warehouse containing records of all patients admitted to NHS hospitals in England. It contains details of inpatient care and outpatient appointments. Hospital episode statistics (HES) statistics are produced and published on a monthly basis. The data are provisional and should therefore be treated as an estimate until the final National Statistics annual publications.",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/provisional-monthly-hospital-episode-statistics-for-admitted-patient-care-outpatient-and-accident-and-emergency-data/april-2025---march-2026-m13",
-      "published_at": "2026-06-11T09:25:50+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "NHS Talking Therapies Monthly Statistics Including Employment Advisors, Performance April 2026",
-      "summary_de": "This statistical release makes available the most recent NHS Talking Therapies for anxiety and depression monthly data, including activity, waiting times, and outcomes such as recovery.NHS Talking Therapies is run by the NHS in England and offers NICE-approved therapies for treating people with depression or anxiety. This release also includes statistics about NHS Talking Therapies employment advisor services.We hope this …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-talking-therapies-monthly-statistics-including-employment-advisors/performance-april-2026",
-      "published_at": "2026-06-11T08:33:23+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Patients Registered at a GP Practice, June 2026",
-      "summary_de": "Data for this publication are extracted each month as a snapshot in time from the Primary Care Registration database within the PDS (Personal Demographics Service) system. This release is an accurate snapshot as at 1 June 2026.Figures are reported by gender and single year of age (SYOA) and five-year age bands (up to age 95+) at GP Practice, Primary Care …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/patients-registered-at-a-gp-practice/june-2026",
-      "published_at": "2026-06-11T08:31:19+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Summary Hospital-level Mortality Indicator (SHMI) - Deaths associated with hospitalisation, England, February 2025 - January 2026",
-      "summary_de": "This publication of the SHMI relates to discharges in the reporting period February 2025 - January 2026.The SHMI is the ratio between the actual number of patients who die following hospitalisation at the trust and the number that would be expected to die on the basis of average England figures, given the characteristics of the patients treated there. The SHMI …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/shmi/2026-06",
-      "published_at": "2026-06-11T08:31:03+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
@@ -1827,16 +1649,6 @@
       "type": "Studie"
     },
     {
-      "title": "Patients Registered at a GP Practice, May 2026",
-      "summary_de": "Data for this publication are extracted each month as a snapshot in time from the Primary Care Registration database within the PDS (Personal Demographics Service) system. This release is an accurate snapshot as at 1 May 2026.Figures are reported by gender and single year of age (SYOA) and five-year age bands (up to age 95+) at GP Practice, Primary Care …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/patients-registered-at-a-gp-practice/may-2026",
-      "published_at": "2026-06-05T15:23:03+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "World Food Safety Day 2026: EFSA advancing safer food through science",
       "summary_de": "Every year, unsafe food causes illness, long-term health problems and economic harm for millions of people worldwide. World Health Organization estimates that contaminated food causes 866 million illnesses and 1.52 million deaths annually, affecting nearly one in nine people globally.&nbsp;For World Food Safety Day on 7 June 2026, EFSA is reaffirming its commitment to turning scientific evidence into safer food …",
       "source_name": "EFSA | News",
@@ -1857,26 +1669,6 @@
         "Versorgung",
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Access to crisis care via NHS 111 - Mental Health, April 2026",
-      "summary_de": "This publication introduces a newly established data collection for demand and call handling data items related to accessing crisis care via the NHS111 'select MH option'. This data will provide important insights into how accessible the crisis care system is helping to identify any gaps or inefficiencies. Additionally, the data will be used to support demand and capacity planning across …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/access-to-crisis-care-via-nhs-111---mental-health/april-2026",
-      "published_at": "2026-06-04T08:31:02+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Primary Care Workforce Recruited through the Additional Roles Reimbursement Scheme (ARRS), 1 October 2024 – 30 April 2026 [Management Information]",
-      "summary_de": "Additional funding of £82 million was announced in August 2024 to support the inclusion of recently qualified GPs in the Additional Roles Reimbursement Scheme (ARRS) for 2024/25 with funding only available for GPs who had qualified within the last 2 years. As a result, the primary care network directed enhanced service (PCN DES) was amended for 2024/25 to expand the …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-primary-care-workforce-recruited-through-the-additional-roles-reimbursement-scheme-arrs/1-october-2024---30-april-2026",
-      "published_at": "2026-06-04T08:31:00+00:00",
-      "category": "Europa",
-      "tags": [],
       "type": "News"
     },
     {
@@ -1972,16 +1764,6 @@
       "type": "News"
     },
     {
-      "title": "[MI] NHS Productivity Growth Estimates - February 2026",
-      "summary_de": "This publication contains the monthly NHS Productivity Growth Estimates for the period April 2025 to February 2026, which in financial terms is described as Month 11 year-to-date (YTD). It estimates the change, compared with the same period in the previous year, for the following: activity (cost‑weighted), resource use (in real terms), and productivity.The tables included in this publication present NHS …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhs-productivity-growth-estimates/february-2026",
-      "published_at": "2026-06-03T10:10:20+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Pharma-Großkonzerne Lilly und Boehringer stoppen Investitionen - tagesschau.de",
       "summary_de": "Pharma-Großkonzerne Lilly und Boehringer stoppen Investitionen &nbsp;&nbsp; tagesschau.de",
       "source_name": "\"site:tagesschau.de \"Gesundheitspolitik\"\" - Google News",
@@ -2008,26 +1790,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeUkxV09pdGVtRDVndS1pdjM0d2s2Nm9jbmxkaHR6a09YR042emNDcjBTZE56aWpzYmZ2dFVSaExZRTVmOHdUdDVDcG1Wa29JNkR1Zjh6R3lwZVZvdmxGWURPc3JnYzNTTkFaeGJjRndLN2RnT09hZ1F6WC1NYktBN21LR3BUQllqWkpOc3dXLXk4WnBPaFVzSUZtVXBPNF9RdnV6NDJKRld2c1JUZEZFbkpBRUFtSmp1Vk1OeXh2aUJRa1U1SjVRN291VQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-03T07:00:00+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Community Services Statistics, March 2026",
-      "summary_de": "This is a monthly report on publicly funded community services for people of all ages using data from the Community Services Data Set (CSDS) reported in England for March 2026. It has been developed to help achieve better outcomes and provide data that will be used to commission services in a way that improves health, reduces inequalities, and supports service …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/community-services-statistics-for-children-young-people-and-adults/march-2026",
-      "published_at": "2026-06-02T09:43:12+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Provisional Accident and Emergency Quality Indicators for England, April 2026, by provider",
-      "summary_de": "Provisional Accident and Emergency Quality Indicators for England, April 2026, by providerThis publication contains statistics for total time in A&amp;E, time to assessment, time to treatment, attendances where patients left before treatment, and unplanned reattendances within 7 days. It also compares data coverage in ECDS to the emergency monthly situation report (MSitAE) published separately by NHS England. Each report contains …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/provisional-accident-and-emergency-quality-indicators-for-england/april-2026-by-provider",
-      "published_at": "2026-06-02T08:46:47+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -2116,116 +1878,6 @@
       "type": "Studie"
     },
     {
-      "title": "NHS Jobs Adverts in General Practice, Q1 2022-23 to Q4 2025-26 [Management Information]",
-      "summary_de": "This Management Information data release presents the summed Full-Time Equivalent (FTE) of jobs advertised by, or on behalf of General Practices using the NHS Jobs platform.Data are presented in Excel tables by National Workforce Data (NWD) Staff Group, and aggregated to show summed Full Time Equivalent (FTE) at National level and by NHS England Region and Integrated Care Board (ICB) …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhs-job-adverts-in-general-practice/q1-2022-23-to-q4-2025-26",
-      "published_at": "2026-05-28T09:47:59+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Submissions via Online Consultation Systems in General Practice, April 2026",
-      "summary_de": "Submissions via Online Consultation Systems in General Practice, April 2026",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/submissions-via-online-consultation-systems-in-general-practice/april-2026",
-      "published_at": "2026-05-28T09:23:27+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Primary Care Network Workforce, 30 April 2026",
-      "summary_de": "Primary Care Networks were created in July 2019 to provide accessible and integrated primary, mental health, and community care for patients. The bulk of the PCN workforce consists of Direct Patient Care staff, funded by the Additional Roles Reimbursement Scheme (ARRS), and each PCN has the flexibility and autonomy to determine which roles are required to meet the specific needs …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/primary-care-network-workforce/30-april-2026",
-      "published_at": "2026-05-28T09:02:43+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "NHS Vacancy Statistics England, April 2015 - March 2026, Experimental Statistics",
-      "summary_de": "This is the latest compendium publication in the NHS Vacancy Statistics series containing vacancy related data for the NHS which provide different views on recruitment information for the NHS.Data from NHS Jobs, the Electronic Staff Record (ESR) and Trac Recruitment Management Software (Trac) provide a range of proxy data sources for NHS vacancies. The series also includes management information related …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-vacancies-survey/april-2015---march-2026-experimental-statistics",
-      "published_at": "2026-05-28T09:01:48+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "NHS Staff Earnings Estimates, March 2026",
-      "summary_de": "This report shows average annual earnings for the following four earnings measures, provisionally showing overall figures for the NHS HCHS workforce (excluding primary care staff) in England in NHS Trusts and other core organisations in England and NHS Support Organisations and Central Bodies.Mean annual basic pay per FTE – is the mean amount of basic pay paid per 1 full-time …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-staff-earnings-estimates/march-2026",
-      "published_at": "2026-05-28T09:00:36+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "NHS Sickness Absence Rates, February 2026",
-      "summary_de": "This report shows monthly sickness absence rates of NHS Hospital and Community Health Services (HCHS) staff working in NHS Trusts and other core organisations and NHS Support Organisations and Central Bodies. Data is presented by NHS England region, ICS area, organisation, organisation type, staff group and reason for sickness absence. We welcome feedback on the methodology and tables within this …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-sickness-absence-rates/february-2026",
-      "published_at": "2026-05-28T08:59:40+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "NHS Workforce Statistics - March 2026",
-      "summary_de": "This report shows monthly numbers of NHS Hospital and Community Health Services (HCHS) staff. The data is split between staff working in NHS Trusts and other core organisations in England (excluding primary care staff), and staff working in NHS support organisations and central bodies. Data are available as full-time equivalent and headcount and for all months from 30 September 2009 …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-workforce-statistics/march-2026",
-      "published_at": "2026-05-28T08:58:45+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "General Practice Workforce, 30 April 2026",
-      "summary_de": "The General Practice Workforce series of Official Statistics presents a snapshot of the primary care general practice workforce. A snapshot statistic relates to the situation at a specific date, which for these workforce statistics is now the last calendar day each month.This monthly snapshot reflects the general practice workforce at 30 April 2026. These statistics present full-time equivalent (FTE) and …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/general-and-personal-medical-services/30-april-2026",
-      "published_at": "2026-05-28T08:57:42+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Cloud Based Telephony Data in General Practice, April 2026",
-      "summary_de": "This publication provides information about the number of cloud based telephony calls received by general practices. This information is published monthly and includes practice-level data.The publication presents a high-level time series from November 2024 onwards, showing monthly counts grouped by day and time of call of:• The total count of practices included in this publication• The total number of inbound …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/cloud-based-telephony-data-in-general-practice/april-2026",
-      "published_at": "2026-05-28T08:56:42+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Appointments in General Practice, April 2026",
-      "summary_de": "The aim of the publication is to inform users about activity and usage of GP appointments historically and how primary care is impacted by seasonal pressures, such as winter. NHS England publishes this information to support winter preparedness and provide information about some activity within primary care. The publication covers historic appointments, marked as attended or did not attend, from …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/april-2026",
-      "published_at": "2026-05-28T08:55:47+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "[MI] Rapid Cancer Registration Data",
-      "summary_de": "Rapid Cancer Registration Data (RCRD) provides a quick, indicative source of cancer data. It is provided to support the planning and provision of cancer services. The data is based on a rapid processing of cancer registration data sources, in particular on Cancer Outcomes and Services Dataset (COSD) information. In comparison, National Cancer Registration Data (NCRD) relies on additional data sources, …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-rapid-cancer-registration-data/current/current",
-      "published_at": "2026-05-26T16:03:40+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Meldung: Die Pflege lebt auf Pump",
       "summary_de": "Die soziale Pflegeversicherung hat im 1. Quartal dieses Jahres ein Defizit von 667 Millionen Euro eingefahren, trotz eines Darlehens von 800 Millionen Euro. Für das Jahr 2026 wird ein Minus von rund einer Milliarde Euro erwartet. „Bei der Pflegeversicherung brennt die Hütte und wir müssen uns dringend ans Löschen machen“, bringt Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, die Situation im SPIEGEL …",
       "source_name": "GKV-SV Presseinformationen",
@@ -2236,16 +1888,6 @@
         "Versorgung",
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Provisional Accident and Emergency Quality Indicators for England, March 2026, by provider",
-      "summary_de": "Provisional Accident and Emergency Quality Indicators for England, March 2026, by providerThe measures included in this publication report on data coverage in ECDS compared with the emergency monthly situation reports MSitAE published separately by NHS England. They also report statistics for total time in A&amp;E, time to assessment, time to treatment, A&amp;E attendances that left before treatment and unplanned reattendances …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/provisional-accident-and-emergency-quality-indicators-for-england/march-2026-by-provider",
-      "published_at": "2026-05-22T08:31:01+00:00",
-      "category": "Europa",
-      "tags": [],
       "type": "News"
     },
     {
@@ -2277,26 +1919,6 @@
       "source_name": "EFSA | News",
       "source_url": "https://www.efsa.europa.eu/en/news/african-swine-fever-outbreaks-increase-pigs-and-wild-boar-across-eu",
       "published_at": "2026-05-21T09:00:31+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Maternity Services Monthly Statistics, Final February 2026, Provisional March 2026, official statistics",
-      "summary_de": "This statistical release makes available the most recent monthly data on NHS-funded maternity services in England, using data submitted to the Maternity Services Data Set (MSDS).This is the latest report from version 2.0 of the data set, which has been in place since April 2019. This latest version was a significant change from the previous 1.5 version which added support …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/maternity-services-monthly-statistics/final-february-2026-provisional-march-2026-official-statistics",
-      "published_at": "2026-05-21T08:31:02+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Physical Health Checks for People with Severe Mental Illness, Q4 2025-26",
-      "summary_de": "Physical Health Checks for People with Severe Mental Illness, Q4 2025-26",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/physical-health-checks-for-people-with-severe-mental-illness/q4-2025-26",
-      "published_at": "2026-05-21T08:31:00+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
