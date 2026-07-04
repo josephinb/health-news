@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-07-04T02:11:29.223595+00:00",
+  "generated_at": "2026-07-04T06:12:57.709415+00:00",
   "window_days": 42,
-  "count": 215,
+  "count": 230,
   "items": [
+    {
+      "title": "GKV-Spitzenverband: Krankenkassen warnen vor Zugeständnissen bei Sparplänen - DIE ZEIT",
+      "summary_de": "GKV-Spitzenverband: Krankenkassen warnen vor Zugeständnissen bei Sparplänen &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZHoyVUFGMEhqUW11WThRSWxpWDVMMTJ1Vi1adFR0Y0JsTXNkdEk2X3JyRmZ6d2JVenRYLXlOemEzVFVtb3F1eExrM25LQjdLNXdBV0JabENxQlRGd3pRYXJFQUdRNlBIcG5zU2FodWxoYTdqRWRNWDBEV2lTRFZsVlpMQXpHRW1uQ0tETnNVdXNlUmh3Z3dFMGlPNS1TYUZWLVRZQS1ocTdPQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-04T03:23:57+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Wie fühlt es sich an, Patient im Krankenhaus zu sein? - FAZ",
       "summary_de": "Wie fühlt es sich an, Patient im Krankenhaus zu sein? &nbsp;&nbsp; FAZ",
@@ -286,22 +296,22 @@
       "type": "News"
     },
     {
-      "title": "Stellenangebote Schweiz Innere Medizin und Pneumologie (3) - ärztestellen",
-      "summary_de": "Stellenangebote Schweiz Innere Medizin und Pneumologie (3) &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUi1NaW5PTlJZWXhNeG1ueEZ5UDNDbnNJZmQ1ZVlxX0lxR0xyZ0x4cVkxdi01MjNWRGY5R3pTbTIzZ0ExQnJUUExkc3NzZmJ5ZlplQkZXejByMWFYZ2R4bHFzRlBqbU5TNmFBalZCLWoxb0ZNeXFtUmdDTjFBdWdBbUhDUWpJUFFNMF96WFNRUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-03T07:33:19+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Masterarbeit zu AMTS: Welche Apps die Adhärenz fördern",
       "summary_de": "Apps k&ouml;nnen helfen, regelm&auml;&szlig;ig an die Medikamenteneinnahme zu denken und die Adh&auml;renz zu f&ouml;rdern. Apothekerin&nbsp;Imke Binder hat in ihrer Masterarbeit zu AMTS untersucht, welche Apps sich besonders daf&uuml;r eignen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/welche-apps-die-adhaerenz-foerdern-166232/",
       "published_at": "2026-07-03T07:00:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Vergiftungsgefahr: Grundschüler essen giftige Pflanze und müssen ins Krankenhaus - tagesschau.de",
+      "summary_de": "Vergiftungsgefahr: Grundschüler essen giftige Pflanze und müssen ins Krankenhaus &nbsp;&nbsp; tagesschau.de",
+      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNblBIc2VoUHR1ZjJYT0tBekIzcjVSdG03S2N5bERrcS0xdEo4UUJubkttd3o2WWhrT05hSXhwU0ZVblpxYUlwbTJaVDZ2M0dPeTRmY3JrNnhmd3RobkljWWczN2ZKdTVDRnkwWnYzT3RsbFJfWklrOTZ4VGtjWjFVQ2ZMdHNpbkNFaU1mNmtZbF94VjBBMG1pWGh2Y3Iyc3NvdG1lRUgwRzA3N0tUNFZwWXR6cl8yM3Q5RTVRWnh4ZFZrVHJGelZoNjNBMkNDX0pDZUVsai1qRUNLb1NRdXg2YlFKTnU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-03T06:47:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -351,6 +361,16 @@
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS0Q2NkxSMWZJcDc1T3E3WUNOM0NNMG5KUllDdXhHVHR4cjI5aTJWbFpQcFFBSHdsSHdfcFVSRURYLS16OE5La1NrX0JMUTJFcDFDcDVlaWdDcTZ4OTM2OElVdnZFbXpWV2VERGNvazRNbWVwWDd5NWstV19jMWpNUVFGNDBhX2tYMHR1VGlWUXZjUmtpN2wzVkFWMVAwZG1VUDJvNHhoY3VnR04tMjFBanhEQXFJMTNWcmEzc241Ujhoa0pranJUZVJwWmxjQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-02T22:27:29+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Leitender Oberarzt (m/w/d) für die Klinik für Neurologie - ärztestellen",
+      "summary_de": "Leitender Oberarzt (m/w/d) für die Klinik für Neurologie &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ29CcTM4d21ZRUo0YWF3ZjNKc0NGOG02RUkyV2txa0ZYSVRmLURTNzBMcVVxSDN4RFV5ODJfT0lyRXlSTVpLRUVoWTJsNEQzSTM3YWxtYlZSc05tNjQ3Z0JkZDl6ampPQ2tGeThHbGM3ZjVjTV9QQ2s5ZVZ0N0Y2aVZTR1NfN2k5a21kUTFVekZLUUk2QnJHdU9DYkZncHdlVzVtU0FiM0cwMDZCaFhxNnByN09OUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-02T22:00:20+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -736,6 +756,18 @@
       "type": "News"
     },
     {
+      "title": "Pressemitteilung: Präventionskurse tragen zu gesundem Lebensstil bei, erreichen aber noch nicht alle",
+      "summary_de": "Ob Rücken-, Beckenboden- oder Ganzkörper-Training – die von den gesetzlichen Krankenkassen geförderten Präventionskurse tragen nachhaltig zu gesünderen Gewohnheiten im Alltag bei. Zu diesem Ergebnis kommt eine Evaluation des BQS Instituts für Qualität & Patientensicherheit. Es hat im Auftrag des GKV-Spitzenverbands 172 Angebote untersucht, die sich gezielt mit Bewegungsgewohnheiten auseinandersetzen.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2287424.jsp",
+      "published_at": "2026-07-02T06:24:57+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "Ludwigslust: Zwei Tote bei Brand in Krankenhaus - Spiegel",
       "summary_de": "Ludwigslust: Zwei Tote bei Brand in Krankenhaus &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
@@ -856,16 +888,6 @@
         "Europa"
       ],
       "type": "Studie"
-    },
-    {
-      "title": "Gesundheit: Nach Aus für Suchtklinik - Neues Angebot für junge Patienten - DIE ZEIT",
-      "summary_de": "Gesundheit: Nach Aus für Suchtklinik - Neues Angebot für junge Patienten &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRzBqWGFQbmVvUzRnNEpEdEpqYnh0Q3pac3BQc0xaNXZ4aktKcm9Uc28wTTloR2VKa0pvRXJJZTBsZHpFSGxWRThnOXY0cFR2c01LdTJncWF6Xy02aXotWjFrLXBmTjZ5bEtGbWV4V3BKUF85YmhWbGp5dWpwM1pQTV8zSS1kVDB6aDJ2blZvek9MRjJSejFaLUYxY00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-01T13:27:40+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Wirtschaft, Medizin und Personal Hand in Hand: Drei Krankenhäuser dürfen enger zusammenarbeiten - tagesschau.de",
@@ -1318,6 +1340,18 @@
       "type": "News"
     },
     {
+      "title": "Pressemitteilung: Unwuchten zulasten der Beitragszahlenden korrigieren, einnahmenorientierte Ausgabenpolitik konsequent umsetzen!",
+      "summary_de": "Mit Blick auf die abschließenden Beratungen des Deutschen Bundestages zu dem Gesetzentwurf des GKV-Beitragssatzstabilisierungsgesetzes im Juli 2026 erklärt der Verwaltungsrat des GKV- Spitzenverbandes: Unbestreitbar braucht es jetzt eine nachhaltige Reform zur Stabilisierung der Beitragssätze der GKV. Die 75 Millionen gesetzlich Versicherten und ihre Arbeitgeber werden allein in den Jahren 2025 und 2026 zusätzliche Ausgaben im Umfang von rund 50 Milliarden …",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2285409.jsp",
+      "published_at": "2026-06-25T10:12:23+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "5th European Conference on Xylella fastidiosa: science drives progress towards sustainable management",
       "summary_de": "The 5 th European Conference on&nbsp; Xylella fastidiosa &nbsp;concluded today in Mola di Bari, Italy,&nbsp;confirming that research on one of the world's most damaging plant pathogens has reached a new level of maturity.",
       "source_name": "EFSA | News",
@@ -1464,6 +1498,19 @@
       "type": "News"
     },
     {
+      "title": "Pressemitteilung: GKV-Tag: 370 Milliarden Euro für gute Versorgung",
+      "summary_de": "Tag für Tag ermöglichen die gesetzlichen Krankenkassen die medizinische Versorgung der rund 75 Millionen gesetzlich Versicherten. Damit dies so bleiben kann, braucht es kurzfristig ein durchgreifendes Sparpaket und mittelfristig Strukturreformen.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2284608.jsp",
+      "published_at": "2026-06-23T05:25:05+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "Preconception and first‐trimester metformin for improving pregnancy outcomes in women with polycystic ovary syndrome",
       "summary_de": "Preconception and first‐trimester metformin for improving pregnancy outcomes in women with polycystic ovary syndrome",
       "source_name": "Cochrane Library RSS feed.",
@@ -1491,6 +1538,18 @@
       "published_at": "2026-06-22T15:28:55+00:00",
       "category": "Europa",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Meldung: Sinkende Beitragssätze bei gleichbleibender Versorgungsqualität wären möglich",
+      "summary_de": "Anlässlich der öffentlichen Anhörung im Gesundheitsausschuss zum GKV- Beitragssatzstabilisierungsgesetz äußerten sich von Seiten des GKV-Spitzenverbandes Dr. Susanne Wagenmann, amtierende Verwaltungsratsvorsitzende und Arbeitgebervertreterin, gegenüber der Wirtschaftswoche sowie Oliver Blatt, Vorstandsvorsitzender, gegenüber der Rheinischen Post. Beide mahnen deutlich höhere Einsparungen an und warnen vor einer Verwässerung der Reform und falsche Zugeständnisse an die Pharmaindustrie.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2284577.jsp",
+      "published_at": "2026-06-22T11:23:48+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -1572,6 +1631,31 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "gemeinsame Pressemitteilung: Gemeinsamer Bundesausschuss verabschiedet Josef Hecken",
+      "summary_de": "Die heutige Plenumssitzung des Gemeinsamen Bundesauschusses (G-BA) ist die letzte gewesen, die er geleitet hat: Professor Josef Hecken beendet auf eigenen Wunsch seine Tätigkeit als unparteiischer Vorsitzender des G-BA zum 30. Juni 2026. Der 1959 in Neuwied geborene Jurist bekleidete dieses Amt seit Juli 2012.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2282880.jsp",
+      "published_at": "2026-06-18T12:25:50+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Pressemitteilung: Bessere Versorgung bei Magenkrebs",
+      "summary_de": "Der Gemeinsame Bundesausschuss hat auf Antrag des GKV-Spitzenverbandes eine Mindestmenge für die Operation von Magenkrebs beschlossen. Damit wird künftig sichergestellt, dass nur Kliniken diesen komplexen und anspruchsvollen Eingriff durchführen werden, die die erforderliche Expertise und Erfahrung für den Eingriff nachweisen können.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2283776.jsp",
+      "published_at": "2026-06-18T11:09:53+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
+      "type": "News"
     },
     {
       "title": "Maternity Services Monthly Statistics, Final March 2026, Provisional April 2026, official statistics",
@@ -1726,6 +1810,18 @@
       "type": "News"
     },
     {
+      "title": "Pressemitteilung: Reformdruck nimmt zu – Lasten gerecht verteilen",
+      "summary_de": "„Es ist dringend notwendig, dass die Reform jetzt zügig durch den Gesetzgebungsprozess kommt. Denn die gesetzliche Krankenversicherung braucht die darin vorgesehenen Einsparungen, um die 75 Millionen Versicherten im nächsten Jahr ohne erneute Beitragssatzerhöhungen gut versorgen zu können\", erklärt Stefanie Stoff-Ahnis.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2279631.jsp",
+      "published_at": "2026-06-12T05:49:05+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "Clinical effectiveness of telepharmacy services in patients with non‐communicable diseases in ambulatory care settings",
       "summary_de": "Clinical effectiveness of telepharmacy services in patients with non‐communicable diseases in ambulatory care settings",
       "source_name": "Cochrane Library RSS feed.",
@@ -1753,6 +1849,18 @@
       "published_at": "2026-06-11T12:41:28+00:00",
       "category": "Europa",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Meldung: Die Pharmaindustrie verdient in Deutschland blendend",
+      "summary_de": "Mit Verwunderung reagiert Stefanie Stoff-Ahnis, stellvertretende Vorstandsvorsitzende des GKV-Spitzenverbandes, in der Wirtschaftswoche auf die Ankündigungen einzelner Pharmaunternehmen, Investitionen in Deutschland zu streichen. Im Interview mit der Wirtschaftswoche sagt Stoff-Ahnis: „Der deutsche Markt bietet der Pharmaindustrie hervorragende Bedingungen. Patientinnen und Patienten bekommen schnell Zugang zu neuen Wirkstoffen und Arzneimitteln und die gesetzlichen Kassen sind ein großer Kunde mit 75 Millionen Versicherten.“",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2279296.jsp",
+      "published_at": "2026-06-11T11:21:41+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -1806,13 +1914,15 @@
       "type": "News"
     },
     {
-      "title": "Kardiometabolische Risiken mittels MRT womöglich abschätzbar – News - Deutsches Ärzteblatt",
-      "summary_de": "Kardiometabolische Risiken mittels MRT womöglich abschätzbar – News &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaXY4Y1FPZEh1d0pMbDBmQVNTZmZXUVZ0MzFDLVQ1OUQ5M2FtcFVmR1hwbHlvelJDdmplQzdpSGxvc2VocWdkeE5idzdTMHk0NEdSc0lSX0YzT0xpV3VLZlRmZzZpSWs5OEV6cUx5eUN1RTBjQ0V4MmlvWGNoczJqOVY2bEpnY2JTcURiZW1ISFliRGVBbUdyVkdTVV9HVG44cmdNbnBxTF93Tno4cDZtY05HSmZaemVweUlXOHNVVFdKNzFZbG1hdg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-11T07:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
+      "title": "Meldung: Hitzeaktionstag: Besser auf extreme Wetterlagen vorbereiten",
+      "summary_de": "Mit dem Klimawandel steigt die Wahrscheinlichkeit, dass Hitzeperioden häufiger vorkommen, länger andauern und auch höhere Temperaturen erreichen. Darauf ist Deutschland noch nicht ausreichend vorbereitet. Der heutige Hitzeaktionstag macht darauf aufmerksam.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2279247.jsp",
+      "published_at": "2026-06-11T07:55:23+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -1866,6 +1976,19 @@
       "type": "News"
     },
     {
+      "title": "Pressemitteilung: Bund lässt Krankenkassen zunehmend auf Kosten sitzen – Klagen wichtiger denn je",
+      "summary_de": "Auf 12 Milliarden Euro beziffert die FinanzKommission Gesundheit die Belastung der gesetzlichen Krankenversicherung durch die Ausgaben für die gesundheitliche Versorgung von Bürgergeldbeziehenden im nächsten Jahr. Mit der im GKV-Beitragssatzstabilisierungsgesetz vorgesehenen, über fünf Jahre gestreckten Anhebung der Beitragspauschalen des Bundes wird das Problem der Unterfinanzierung aber nur scheinbar angegangen.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2277696.jsp",
+      "published_at": "2026-06-10T08:22:20+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "Geschlechtersensible Medizin: Gesundheitsministerkonferenz berät über Frauengesundheit - Pharmazeutische Zeitung",
       "summary_de": "Geschlechtersensible Medizin: Gesundheitsministerkonferenz berät über Frauengesundheit &nbsp;&nbsp; Pharmazeutische Zeitung",
       "source_name": "\"site:pharmazeutische-zeitung.de radiologie\" - Google News",
@@ -1906,6 +2029,19 @@
       "type": "News"
     },
     {
+      "title": "Pressemitteilung: Pflegeneuordnungsgesetz dringend notwendig, aber viel zu unausgewogen",
+      "summary_de": "Zu dem nun vorliegenden Entwurf eines Pflegeneuordnungsgesetzes erklärt Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes: „Der Finanzdruck in der Pflege ist enorm und deshalb ist es gut, dass nun der Entwurf einer Pflegereform auf dem Tisch liegt. Bei der Pflege brennt die Hütte und der vorgelegte Entwurf enthält einige Instrumente, mit denen das Löschen beginnen kann.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2274574.jsp",
+      "published_at": "2026-06-04T08:32:49+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "Access to crisis care via NHS 111 - Mental Health, April 2026",
       "summary_de": "This publication introduces a newly established data collection for demand and call handling data items related to accessing crisis care via the NHS111 'select MH option'. This data will provide important insights into how accessible the crisis care system is helping to identify any gaps or inefficiencies. Additionally, the data will be used to support demand and capacity planning across …",
       "source_name": "Publication Feed",
@@ -1943,6 +2079,18 @@
       "published_at": "2026-06-04T08:11:30+00:00",
       "category": "News",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Meldung: Dynamischer Herstellerabschlag ist Sicherheitsnetz gegen höhere Beiträge",
+      "summary_de": "Mit Blick auf die hohen Arzneimittelkosten dürften Einsparungen bei der Pharmaindustrie nicht zu gering ausfallen, warnt Stefanie Stoff-Ahnis, stellvertretende Vorstandsvorsitzende des GKV-Spitzenverbandes, in der Rheinischen Post. „Arzneimittel sind nach den Krankenhäusern der zweitgrößte Kostenblock in der gesetzlichen Krankenversicherung und die Pharmaindustrie verdient daran blendend.“",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2274573.jsp",
+      "published_at": "2026-06-04T08:01:39+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -2036,6 +2184,18 @@
       "type": "News"
     },
     {
+      "title": "gemeinsame Pressemitteilung: Übergangslösung sichert ambulante Operationen bei Kindern und Jugendlichen",
+      "summary_de": "Ambulant durchführbare Eingriffe bei Kindern und Jugendlichen, etwa im Fall von Leistenbrüchen, werden überbrückend besser vergütet, bevor 2027 eine neue Regelung in Kraft tritt. Darauf haben sich der GKV-Spitzenverband (GKV-SV) und die Kassenärztliche Bundesvereinigung (KBV) einvernehmlich geeinigt.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2273344.jsp",
+      "published_at": "2026-06-02T07:02:57+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "MRT per Kran durchs Krankenhausfenster: Umbau Radiologie - WDR",
       "summary_de": "MRT per Kran durchs Krankenhausfenster: Umbau Radiologie &nbsp;&nbsp; WDR",
       "source_name": "\"radiologie\" - Google News",
@@ -2063,6 +2223,18 @@
       "published_at": "2026-06-01T09:02:59+00:00",
       "category": "News",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Meldung: Den überproportionalen Zuwachs der Ausgaben begrenzen",
+      "summary_de": "Im Interview mit Teach Economy sprach Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, über Finanzierbarkeit, Versorgungsqualität, Effizienzprobleme und Prävention sowie die Rolle der Politik im Spannungsfeld zwischen Reformbemühungen und Lobbyinteressen.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2271690.jsp",
+      "published_at": "2026-05-29T06:37:42+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -2163,6 +2335,19 @@
       "published_at": "2026-05-28T08:55:47+00:00",
       "category": "Europa",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Meldung: Die Pflege lebt auf Pump",
+      "summary_de": "Die soziale Pflegeversicherung hat im 1. Quartal dieses Jahres ein Defizit von 667 Millionen Euro eingefahren, trotz eines Darlehens von 800 Millionen Euro. Für das Jahr 2026 wird ein Minus von rund einer Milliarde Euro erwartet. „Bei der Pflegeversicherung brennt die Hütte und wir müssen uns dringend ans Löschen machen“, bringt Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, die Situation im SPIEGEL …",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2270740.jsp",
+      "published_at": "2026-05-26T08:03:09+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
       "type": "News"
     }
   ],
