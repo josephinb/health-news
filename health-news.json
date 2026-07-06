@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-07-06T19:45:31.683051+00:00",
+  "generated_at": "2026-07-06T22:08:34.670092+00:00",
   "window_days": 42,
-  "count": 238,
+  "count": 240,
   "items": [
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: Thyronajod 50 Henning pU: Sanofi-Aventis Deutschland GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-07-06T17:11:56+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "»Deadly Patient«: Amazon löscht vergurkte KI-Synchro - Spiegel",
       "summary_de": "»Deadly Patient«: Amazon löscht vergurkte KI-Synchro &nbsp;&nbsp; Spiegel",
@@ -164,16 +174,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVmxmOXZXbFZOck0ta1RuUDltdXpoVDdKODJiZlByNGRHUGhwbmVWUS1DUGtIdlY2VVNvVWl0SFN0UEJrYlZrQ3M5YUQ5WmxGNTYyaS1ROTdKa1gzSmp2d2lvX1FaeXRHR0JEbkp5LU1Yb1M0WFpSUXBNVWUyX0hQUWxBUGZDVUlta2lQSXd4cUNIbU8yR2hXcFlQTmQ2Qk1Sd0h3SjhvdzlIV0dCMlVKWFFZMThxTWRCMzY3YThjQkx0V3V3el94WTZySjZhamtDd0F1VnFMX01Ndw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-06T12:53:05+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: MetoHEXAL Succ 142,5 mg Retardtabletten pU: H e x a l Aktiengesellschaft",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-07-06T12:37:38+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -523,16 +523,6 @@
       "type": "News"
     },
     {
-      "title": "Entwarnung aus Paris - Ebola-Ausbruch im Kongo: Französischer Arzt wieder gesund - Gesundheit - SZ.de",
-      "summary_de": "Entwarnung aus Paris - Ebola-Ausbruch im Kongo: Französischer Arzt wieder gesund - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTjI0bFh3SVp5R0ZFT000UHZMaXNCR2YzemNxdEVxZFQtbXk4RnZYMnBPX1QyNDJObGMtOXFnSWlSVlIwS0s2ZlZ2eDkzTmpyWEU2YVMyR1picXYzQ0RjcFNMLWhKOEQxVnlIYjFGY3dMdFp1OFFxX24xX2l4NDdTTDVBVzZWM2MwcmxsOF9JdHdKUEUxYmlUdzVEbmtOeDU4Y1REd3FBd2E0bmIwSnlfRG5tcW5tZmdGdE54WFBQR3RPbUstVTZDUkd6RVpnTEdUUWJ4OU16MHJqMWIyYkFCcElzczQ1RU5VOHZ3ZEFtVnFKcjVpbWFadmFWWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-04T16:33:09+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Staatsexamen in Hessen: So laufen Prüfungen in Jura, Lehramt und Medizin ab - FAZ",
       "summary_de": "Staatsexamen in Hessen: So laufen Prüfungen in Jura, Lehramt und Medizin ab &nbsp;&nbsp; FAZ",
       "source_name": "\"site:faz.net medizin\" - Google News",
@@ -813,6 +803,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Leitender Oberarzt (m/w/d) für die Klinik für Neurologie - ärztestellen",
+      "summary_de": "Leitender Oberarzt (m/w/d) für die Klinik für Neurologie &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ29CcTM4d21ZRUo0YWF3ZjNKc0NGOG02RUkyV2txa0ZYSVRmLURTNzBMcVVxSDN4RFV5ODJfT0lyRXlSTVpLRUVoWTJsNEQzSTM3YWxtYlZSc05tNjQ3Z0JkZDl6ampPQ2tGeThHbGM3ZjVjTV9QQ2s5ZVZ0N0Y2aVZTR1NfN2k5a21kUTFVekZLUUk2QnJHdU9DYkZncHdlVzVtU0FiM0cwMDZCaFhxNnByN09OUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-02T22:00:20+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Medicines: apply for a variation to your marketing authorisation",
@@ -1269,11 +1269,11 @@
       "type": "Studie"
     },
     {
-      "title": "Tierärztin/-arzt oder Humanmedizinerin/-mediziner (m/w/d) als Fachgebietsleitung, Paul-Ehrlich-Institut - SZ-Stellenmarkt",
-      "summary_de": "Tierärztin/-arzt oder Humanmedizinerin/-mediziner (m/w/d) als Fachgebietsleitung, Paul-Ehrlich-Institut &nbsp;&nbsp; SZ-Stellenmarkt",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYXI1QkJTMnZiUnZtbWZPZVM5dGRqTEJlVGptN2VLOEs4cmd5UDhvOFdoV2ctbldqMWJxUXlKelVfc3J5cnVpaU44NzctSTdKTGQzZzlaaDQyZ3lFdGVXVFZHMWpWVG5fTzh0Wjd2aTZldEZqTkFEbDU0RkZ0OHZMR01wNXptT1ZOcWI2dzJiRVRlMWxqNFE5RHJ2STVnc3Bmd2hVYXpiMWlUM2hsMkhOeXhOWkV1bEFxbDU1QXZTTzM1TWc5bGtHTnZmdEoxUnlrdzMyMElwSEU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-29T18:51:39+00:00",
+      "title": "Department für seelische Gesundheit - HEK",
+      "summary_de": "Department für seelische Gesundheit &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaldsNW5FZjFkdmF4TjhyZEc2dU1Va1YxdjJTTDFIMEs4T1A0Y2RIOGhSTXhwVHFFamhMLVJRTUFIV25ETkpyd2RvYWxpTGpYTHJXcTU4cXBxVXRMNm1KQ3Z1U1FwTlJ5UlhUeEFtTTVKQ1VuQmZ2UTRSNUVoZnhWcWJxVFhQUTRRdzQzLWR4dG54VjRoXzNCQnJ2N0s0bXl6MXpSaXpFdHdEcXdRdEZBTmRWYTJjU08xalJ5T2x6YUNtMHVuNmViMDJlNW55T2JBV2dFaDYxdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-29T13:18:39+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1692,6 +1692,16 @@
       "type": "News"
     },
     {
+      "title": "Arzt über Ganzkörper-MRTs: „Wir finden bei fast allen irgendwas“ - Berliner Morgenpost",
+      "summary_de": "Arzt über Ganzkörper-MRTs: „Wir finden bei fast allen irgendwas“ &nbsp;&nbsp; Berliner Morgenpost",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTXlQMW5JRm9jOXA1a1lINWVDa0U2YVJCWDlWcDIyNFJiaTRZRGlhSC1ocnhDNmc0MkJqSHU5Z3VERmJDOXAteEstdHFVUE11aTZJRFVnUzBkbWhqV1VOQUFDc1daam5kcWx2dWxsNDI3UlIwU25TdWJFRTZCZExDcEtYV3BhZGpPcVVveHVIcTYyN2ZpOUlLRzBIVzJmVzZCbjdJQ2JqMWRDTnJ5b2tkZmJhbzRBZXdlUmtZaUlVRVJlalRaUGZfRjN0VEtXWjZheXhpMURMVDE5NU5CRWVtRkljc1U0bS1ORnhlQnNJcUJZS0k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-22T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Statistics on people with a learning disability and autistic people in mental health hospitals, AT: May 2026, MHSDS: April 2026",
       "summary_de": "Latest monthly statistics on people with a learning disability and autistic people in inpatient services from the Assuring Transformation (AT) collection and Mental Health Services Data Set (MHSDS).Data on inpatients with learning disabilities and/or autism are being collected both within the AT collection and MHSDS. There are differences in the inpatient figures between the AT and MHSDS data sets and …",
       "source_name": "Publication Feed",
@@ -1887,6 +1897,16 @@
       "type": "News"
     },
     {
+      "title": "Psychotherapeutische Medizin Radiology Advanced GmbH Stellenangebote in Berlin (0) - ärztestellen",
+      "summary_de": "Psychotherapeutische Medizin Radiology Advanced GmbH Stellenangebote in Berlin (0) &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU3A0Wm9Pcm5WSWRhVGl3dlZGNzVyMGg4Mk9fX1prdUhEdnp0ZDl6bndBbWJUTnROX182MEFCM0s4YXVjN3NGU080VDhjNFZ2cndLQUp1aGNwYi1Fb3BXeUxUcGVHQThubl9vOTFlZXRuVkNGZE9ZeVpCYVpMWnVFUHBTR3h2N2d1MlVCVEF3VkloVklUa0IzbnF3YjVKTm82bTY1NkR1dG1hRVk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-12T09:10:30+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "National Pregnancy in Diabetes Audit - Hybrid closed loop 2025 (01 January 2025 to 31 December 2025)",
       "summary_de": "The National Pregnancy in Diabetes (NPID) audit is part of the National Diabetes Audit (NDA) programme which is managed by NHS England. It aims to support clinical teams to deliver better care and outcomes for women with diabetes who become pregnant and has been running since 2014.This report summarises national findings on the use of hybrid closed loop (HCL) technologies …",
       "source_name": "Publication Feed",
@@ -1916,16 +1936,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Krampfader-Operationen im Ambulanten Gefäßzentrum Dr. Seiter in Stuttgart - DAK-Gesundheit",
-      "summary_de": "Krampfader-Operationen im Ambulanten Gefäßzentrum Dr. Seiter in Stuttgart &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZG8tNWxJdlRlekl5WFAtWFo5a1AwR0VMbEZ6MzVTSnFQTGF1WURKeVc2dzU4VnI2Y3pPLXZIajBCY0VvM2NubjJVeGYxRGpqdFUzZ3E0eUplM0FkeGNDX19PbENyNkxSZ1BPNFBTSE1RSTR3d0l6M0VEbEp3bVN1bkFoM0haT2ZJaUVGNGlxeC1zb1d0ZFpUSlRlclVsZTNYbExGdENucURkVWhtQzZrdmpicGppMmZtb21iVmdzRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-12T03:27:38+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
@@ -2063,6 +2073,16 @@
       "type": "Studie"
     },
     {
+      "title": "Mehr als heiße Luft: Wie der Klimawandel Arbeit und Gesundheit verändert - IKK classic",
+      "summary_de": "Mehr als heiße Luft: Wie der Klimawandel Arbeit und Gesundheit verändert &nbsp;&nbsp; IKK classic",
+      "source_name": "\"site:ikk-classic.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWWlKZmVIVFdyYW9MbjcwRUZHRHlKRlJoaXBZdl9keG9aLXNPVFZEc1pKTjRZX25Ua29DRy1NNnBhZzQtbU9NbUhBV0xFTS1oM0ZpVnMyVXFvV2RBamRLckJQemI4YlJlbEpSM1VlVzVTemlNbk5La0ZFZU8ySHdfZXF4T0lVS2F1TmdyOE1LcVZ0NG85V1ZHamFHQkV3aThoNUU0YkxPSnpmQnN5MlpIS2l6Y2lLNFZjMVIwU3lma25NU1AzR3did1EtNXo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-10T16:37:57+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "EFSA confirms health concern from dietary exposure to dioxins and dioxin-like PCBs in Europe",
       "summary_de": "Dietary exposure to dioxins and dioxin-like polychlorinated biphenyls (PCBs) continues to raise a health concern for the European population, according to a new scientific opinion from EFSA.",
       "source_name": "EFSA | News",
@@ -2096,10 +2116,10 @@
       "type": "News"
     },
     {
-      "title": "DAK Fitness-Coaching: Jetzt starten - DAK-Gesundheit",
-      "summary_de": "DAK Fitness-Coaching: Jetzt starten &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaEllVFY2RVRldWU2RUJKOC1oSS05bktpcm5pS0MxWkZlZC1SRExqRnNKeUpWeml3bkYtcGtDN3o1NUJnTFo3T2dSOE5yMlJpbFctaTl5LTZ1aGF2WTZCTFV6SVF3S3FzUlk4eDRKYXhkdEh5Njg1d2Y3cWl0YWJFcHY5OA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "title": "Neues Zentrum für Schwerverletzte: Teil vom Krankenhaus Boberg zieht nach Eppendorf zum UKE - tagesschau.de",
+      "summary_de": "Neues Zentrum für Schwerverletzte: Teil vom Krankenhaus Boberg zieht nach Eppendorf zum UKE &nbsp;&nbsp; tagesschau.de",
+      "source_name": "\"site:tagesschau.de \"Gesundheitspolitik\"\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQREpFTVFBdTdZa1RLajdCcGlDTzVJSlVTTlV1WDdlcmxOLUJuYl9HOWJNV1Z4cWhLX1dLVmNSVG5YWEE3QXFLSGtrRVVpX1R2TEFRWEZoMVRuU0oxdGo3UjE1cjd3Mnpyc3RWN2ZseEk0WXN4a0tveERIOTNFeFlMeEZsT1UyWHYwMktPOWU1bzhxRk1OR0wwb0R3ZjRSVXNzazdwZGJuaUJzRElmcFZCeHF5cWJrczVCLU5F?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-09T07:00:00+00:00",
       "category": "News",
       "tags": [],
