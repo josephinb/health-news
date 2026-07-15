@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-15T01:46:41.395384+00:00",
+  "generated_at": "2026-07-15T05:23:38.545890+00:00",
   "window_days": 42,
-  "count": 289,
+  "count": 277,
   "items": [
     {
       "title": "Gesundheitsreform - Ärzte in Berlin und Brandenburg: Reform hat negative Folgen - Gesundheit - SZ.de",
@@ -94,22 +94,22 @@
       "type": "News"
     },
     {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: L-Thyroxin Henning 150 pU: Sanofi-Aventis Deutschland GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-07-14T14:01:32+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "PZ Briefing: Die Top-News vom 14.7.2026",
       "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-1472026-166802/",
       "published_at": "2026-07-14T14:00:32+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: Dilzem 90mg retard pU: Pfizer Pharma GmbH",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-07-14T13:34:03+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -182,16 +182,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcWtkVkEtVlJIaGdrLXJxR0E3QUF2SGNSaVE3WUpDRWtMMkdLVFYwSERmMDY4SXM0eFZEb1hESWF5YWh2RDM0MDNfYzlHWmZCaE5WRnFrM2t2UFhXdzU0NlFBOUJJY24tWmMwd0RsUE40el9xdEE1VVZKLUJlRVZuOXZpaFdFWGt3My1wakhHb0RHREZ3U3hTVFVDdVhyWkVmSmRiVEYxZEFuWlZ4bVBDTm15dE9jdHVTbWNoMEdpUDZveUFwOXVkN00tYzdBMDVUSk9DbEVISkI2MU5WaEtRbk56SmlJM1kySW9MVTU5OEg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-14T12:17:48+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Wenn Pflege Wertschätzung erfährt – was Deutschland lernen kann - tagesschau.de",
-      "summary_de": "Wenn Pflege Wertschätzung erfährt – was Deutschland lernen kann &nbsp;&nbsp; tagesschau.de",
-      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83cWpjSlpIbmc5dldteFFXMmh6ZjJENG5fUHZ6UWxVT0JhOWo2eGhlS2QyM0FZeEhtcXhQYlpRdnV5a2FPaUV6RlpDa0RVNkhIbFNKTWtGOGJscWg2U2ZqUWdKMlFqUlJlbEMtVFRR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-14T11:54:00+00:00",
-      "category": "Versorgung",
       "tags": [],
       "type": "News"
     },
@@ -488,16 +478,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Clinical tool can reduce the use of CPTA in cancer patients",
-      "summary_de": "The YEARS algorithm obviated the need to perform CTPAs in 22% of patients without increasing the risk of a missed blood clot.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15829820/clinical-tool-can-reduce-the-use-of-cpta-in-cancer-patients",
-      "published_at": "2026-07-13T16:43:08+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Bundibugyo-Ebolavirus: WHO startet klinische Therapiestudie",
@@ -812,16 +792,6 @@
       "type": "News"
     },
     {
-      "title": "Die GE-HealthCare-Aktie bleibt vom wachsenden Imaging-Geschäft gestützt - Ad-hoc-news.de",
-      "summary_de": "Die GE-HealthCare-Aktie bleibt vom wachsenden Imaging-Geschäft gestützt &nbsp;&nbsp; Ad-hoc-news.de",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcXljSElfRkkyOU1pelpET29GMVNCYWFSTlZsemNYMTlnakVYa1ExVnU0NmxKSC11cHlnR0VjSWJ1dkcwRHZpdzZIV21yWWRjTm1ZcU0zY09TQWJabnY4TDM1V0VMWkY3WGczaWtQVE5IUXU0OWR0M3ZNQzVHZ1o5NTROYXhZQ01OTXp5dS1jUnhaenRBS3FBX2lUMUluRHVPMTZsdHdoNHJLRW1DeUM2RktzM1YtSlB0OUZqY1F1WE4zRXFxc2tMdmw3Sms?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-13T04:41:54+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "In Haft statt im Krankenhaus - tagesschau.de",
       "summary_de": "In Haft statt im Krankenhaus &nbsp;&nbsp; tagesschau.de",
       "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
@@ -837,6 +807,16 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMzdPM3RwQTY4dnRRcGxxTk9vZUVqNDNUdzhQYWFldm5FZHFGQmlDMnRBb1dMcUhqRkk0Q1dEWTNSVXI4c0p0M1FKa1lUMVdOMTVRM1F1R3FwSGdXdENxYzJ6ZEE4NEgyT1VoZVE5b0UwNHlZWUw5R254R3VxT3EtTWp2T1hVUjAzUFI1alZUak8xeURQTGxDUWtNeW52dHptSDFhM2Z0OU4xSVI0OWo1N3Yxa3ZHbnU3djVvYllxeFZiVGxoREdQQ1dhNncxSWMycDhFTTNiNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-13T03:00:25+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Weiterer amerikanischer Ebola-Patient jetzt in Deutschland - FAZ",
+      "summary_de": "Weiterer amerikanischer Ebola-Patient jetzt in Deutschland &nbsp;&nbsp; FAZ",
+      "source_name": "\"site:faz.net medizin\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdE1kSHY5Z001aFlYUjl1eVdTM3J2cVVEbFAtQmoyQjItWV9IRS15bWQ2UUxtaXk2MHVtS1FzdE5tMjl4Q1hIUUY4bnpucTJPR09ERFQ5WmZweGlxbmZ2OUtGcVliQ21lVi05azQ5dWpwcXByVHB1emNuVjZrOGVGU1pITTdjb21YYmtmaUtxamZzMnZvTGk4YTE1SkdQdmREYVZsQmJjUk92eTlmWE5HOEQwOXdrVjJyRGFsWDNQbHBSa2pkVk5hNzVB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-13T02:06:09+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1017,26 +997,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVXRRS2l2SHF0QVFCOFFMTE9sRHVEcjBrRlM2YW9hREpwYzlEeUE3ckhlUVRpT2haTlJfUHBPWlQzc3VZZ3FqcVczQUt2XzVqQU5EemtFVFh6akZETk1CRXd4aVA4c1djMDVYTWxBb25hQVlZb3JKcVh0NGRDVnByYWZVM3ZwOUllMHdoMXBoNmNCRkFKSHRDb0hvdHV3eVFzamIxY0tJdjR0RUpReGVIaWZEdEhDUlNqdUtBN1BCUnFUa3hZVl9Yb0lHUVhpYXlrNWMwaGRMaUo3eTU0T0pqSGx4dXE1MHJndXhyeHBNdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-11T03:30:10+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Marijuana use linked to greater coronary plaque burden",
-      "summary_de": "Marijuana users demonstrated more than double coronary artery calcium scores than nonusers.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15829799/marijuana-use-linked-to-greater-coronary-plaque-burden",
-      "published_at": "2026-07-10T17:54:43+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "CEM on par with MRI for breast cancer diagnosis, local staging",
-      "summary_de": "CEM alone in a prospective study achieved perfect sensitivity and negative predictive value in diagnosing breast cancer.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15829784/cem-on-par-with-mri-for-breast-cancer-diagnosis-local-staging",
-      "published_at": "2026-07-10T16:54:35+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1268,36 +1228,6 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/provisional-monthly-hospital-episode-statistics-for-admitted-patient-care-outpatient-and-accident-and-emergency-data/april-2026---may-2026",
       "published_at": "2026-07-10T08:31:00+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "ASTRO highlights study on disappearing radiation oncology centers",
-      "summary_de": "Over two-thirds of all U.S. counties reported lacking a radiation oncology practice site in 2025.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/radiation-oncology-therapy/article/15829803/astro-highlights-study-on-disappearing-radiation-oncology-centers",
-      "published_at": "2026-07-10T08:19:27+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Week in Review: New treatment response criteria | Lumbar spinal stenosis grading | Ultrasound MinnieCast, Episode 12",
-      "summary_de": "New treatment response criteria for bone metastases and episode 12 of our Ultrasound MinnieCast podcast series topped the charts...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/editors-note/article/15829811/week-in-review-new-treatment-response-criteria-lumbar-spinal-stenosis-grading-ultrasound-minniecast-episode-12",
-      "published_at": "2026-07-10T08:14:52+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "CCTA finds coronary disease in men with erectile dysfunction",
-      "summary_de": "Erectile dysfunction caused by vascular problems is associated with a higher risk of coronary artery disease.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15829808/ccta-finds-coronary-disease-in-half-of-men-with-erectile-dysfunction",
-      "published_at": "2026-07-10T08:11:39+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1570,16 +1500,6 @@
       "type": "News"
     },
     {
-      "title": "New PET tracer show promise in neuroblastoma",
-      "summary_de": "F-18 mFBG achieved a pooled sensitivity of 97%, compared with 82% for I-123 MIBG.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15829699/new-pet-tracer-show-promise-in-neuroblastoma",
-      "published_at": "2026-07-09T08:47:58+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Diabetes Prevention Programme: Non-Diabetic Hyperglycaemia, April 2025 to March 2026",
       "summary_de": "The NHS Diabetes Prevention Programme (DPP) is a joint commitment from NHS England and Diabetes UK to deliver, at scale, evidence based behavioural interventions that can prevent or delay the onset of Type 2 diabetes in adults who have been identified as having non-diabetic hyperglycaemia (NDH).This report presents the national audit findings, summarising registration and demographic information on people registered …",
       "source_name": "Publication Feed",
@@ -1706,36 +1626,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQOVZpWlVFSXZFaWstU2JsSDJzSE5YbjZWN0lHblhrNHhlTFZrVm5icDZTNWYzVXFwOHRMVk9yZG84dnVrczBzMU53aTZLZG9iYXBqYmtyVkVnNHZYTlZBaEYtbUJZa3VnV2JwZU95SmRRR19zeUluSjZzSV9FWEFtRXBzOHFfaEx2cmdOd1BPMzYtWkY1akhmM3huWlU3R0xCYjJwczdfeHFib3drMXdJamJHM1o2NXBQeDdmOHdzdVd0ZTVCeTFzMWkwa2dpeE0wNE8xOHY5OWRoMEZxNm5BUkNCcl9FUmd4ZkhjSlJHSzhVNGFBSTY3UU9B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-09T02:00:22+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Professur (W2) Medizin - Hochschule für Angewandte Wissenschaften Hamburg (HAW Hamburg) - ZEIT Stellenmarkt",
-      "summary_de": "Professur (W2) Medizin - Hochschule für Angewandte Wissenschaften Hamburg (HAW Hamburg) &nbsp;&nbsp; ZEIT Stellenmarkt",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcmdVTkh6QU95UVF2UllmVWYyMUc2Ry1kTExmTWo1MUllQS0ySUVVRkdjWm1xMVRvenVEcGUxY3BMUlBqY0gzLXBzSXZOV25vRktTQ0NjZV83M0h3RHF4OHJnMjB6MjJEM2UtRUlOMGQxVHB1ZTgxMlJPOTd1Y09od1IzUllhcVVCd0F3TlNpbzJsTHo4Yko4b0ZRWndCZ21jbDVEUTByNXdXTTdaQkx0SlVfR3g5THZTY0JfYi1za20zUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-08T22:00:22+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "AR-guided localization may sub for CT for early-stage lung cancer",
-      "summary_de": "AR-guided localization was noninferior to conventional CT guidance and led to better patient experiences.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15829530/arguided-localization-may-sub-for-ct-for-earlystage-lung-cancer",
-      "published_at": "2026-07-08T16:02:39+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Study backs LDCT lung cancer screening in Singapore",
-      "summary_de": "Lung cancer is the leading cause of cancer death in Singapore, with approximately 48% of cases occurring in individuals who have...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15829484/study-backs-ldct-lung-cancer-screening-in-singapore",
-      "published_at": "2026-07-08T15:58:06+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1906,16 +1796,6 @@
       "type": "News"
     },
     {
-      "title": "New criteria evaluates treatment response in bone metastases",
-      "summary_de": "RECIBM-defined response classifications showed high agreement with established criteria and reclassified 19% of patients.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/article/15829477/new-criteria-evaluates-treatment-response-in-bone-metastases",
-      "published_at": "2026-07-07T08:27:27+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Komfortabel, smart, sicher: So funktioniert das E-Rezept - Techniker Krankenkasse",
       "summary_de": "Komfortabel, smart, sicher: So funktioniert das E-Rezept &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
@@ -1932,16 +1812,6 @@
       "source_url": "https://www.efsa.europa.eu/en/news/new-management-board-takes-office",
       "published_at": "2026-07-06T13:39:51+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Tag des Denkmals 2026 in Paris: das Museum für Radiologie und medizinische Bildgebung - Sortir à Paris",
-      "summary_de": "Tag des Denkmals 2026 in Paris: das Museum für Radiologie und medizinische Bildgebung &nbsp;&nbsp; Sortir à Paris",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOYTZYNEhtcVZYaENBdGg1XzBHYVBmcFVURGlxS2Y0ekhHQWhTVkhtc00wYTByY21HdkNjc0ZoY3NqdHZybEpfRXNnT1g5RUpCT2wyTGNWZGpVblBmMEMxYkJ1Z1pVbWE2M2Vpa1l5QjladFlaWjJmXzcwM1Z2YlF3N19DeGFkaGhsS0VCRmFpcTZQOWl1M3hRd1lsd2tyY01PNnRrbVNkRTlwbkkzeXFlTW1Tenh1WUxsdW9TTGhmS1ZyZ2dSdC1HRGxWaDhTb0FWSW9oRFB3S082TTVSMW5tbzlxeElPbFpuSEJrQlpCVXNkWE9FSkJQRk9B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-06T13:18:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -2643,6 +2513,16 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-surplus-land/oct-mar-2025-26",
       "published_at": "2026-06-18T08:31:01+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Fachärztin/-arzt für Radiologie (m/w/d) - ärztestellen",
+      "summary_de": "Fachärztin/-arzt für Radiologie (m/w/d) &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUFNwd2RqVGlSaldZTnZuUTdOdnBsTVJXd1ZwbnB6Q0tJM2ppMlk4N0FaeHpHV2ZyeGRUX2hHbW9jbVE4dmduOHc3Zm9Kd0xUZ1lhNkVnQ2EzaFR0U0lWNGR3RmhpNXhVbC12aGVZWTdpb1JvT20wamtJYmtRVHdONEZLaWRudEV3VU1ydUJOZ2RMZXFEWFVtZDl2enZuZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-18T07:00:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
