@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-14T21:51:08.654330+00:00",
+  "generated_at": "2026-07-15T01:46:41.395384+00:00",
   "window_days": 42,
-  "count": 278,
+  "count": 289,
   "items": [
     {
       "title": "Gesundheitsreform - Ärzte in Berlin und Brandenburg: Reform hat negative Folgen - Gesundheit - SZ.de",
@@ -60,16 +60,6 @@
       "source_url": "https://www.gov.uk/government/publications/international-recognition-procedure",
       "published_at": "2026-07-14T14:38:43+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "GKV-Sparpaket: Acht Koalitionäre gaben keine Zustimmung – News - Deutsches Ärzteblatt",
-      "summary_de": "GKV-Sparpaket: Acht Koalitionäre gaben keine Zustimmung – News &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObTZyYkszOTVpNU0wV240SGhTLUNJc3k3b3NMVjd6dVV2N0ltM0pxZG9DeTVXVWtjX3N3TXdkRUN5bmZKV0ExSnZqc0hZVzR0MjVJVnhnUVZTUHlZcWFsUzhIODYzcXBOaFljVFUwNklQeHB0QkU0NVR6d2xFNmhQWjNtbFJsTXRLRElnbmVHWnhPT3E5eFRwSE1RbG9qb3RGYktRSjdVUFpzaDYyclYyeFB3TV9fZS1ocHB4LWptczE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-14T14:25:38+00:00",
-      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -192,6 +182,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcWtkVkEtVlJIaGdrLXJxR0E3QUF2SGNSaVE3WUpDRWtMMkdLVFYwSERmMDY4SXM0eFZEb1hESWF5YWh2RDM0MDNfYzlHWmZCaE5WRnFrM2t2UFhXdzU0NlFBOUJJY24tWmMwd0RsUE40el9xdEE1VVZKLUJlRVZuOXZpaFdFWGt3My1wakhHb0RHREZ3U3hTVFVDdVhyWkVmSmRiVEYxZEFuWlZ4bVBDTm15dE9jdHVTbWNoMEdpUDZveUFwOXVkN00tYzdBMDVUSk9DbEVISkI2MU5WaEtRbk56SmlJM1kySW9MVTU5OEg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-14T12:17:48+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Wenn Pflege Wertschätzung erfährt – was Deutschland lernen kann - tagesschau.de",
+      "summary_de": "Wenn Pflege Wertschätzung erfährt – was Deutschland lernen kann &nbsp;&nbsp; tagesschau.de",
+      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83cWpjSlpIbmc5dldteFFXMmh6ZjJENG5fUHZ6UWxVT0JhOWo2eGhlS2QyM0FZeEhtcXhQYlpRdnV5a2FPaUV6RlpDa0RVNkhIbFNKTWtGOGJscWg2U2ZqUWdKMlFqUlJlbEMtVFRR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-14T11:54:00+00:00",
+      "category": "Versorgung",
       "tags": [],
       "type": "News"
     },
@@ -490,6 +490,16 @@
       "type": "Studie"
     },
     {
+      "title": "Clinical tool can reduce the use of CPTA in cancer patients",
+      "summary_de": "The YEARS algorithm obviated the need to perform CTPAs in 22% of patients without increasing the risk of a missed blood clot.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15829820/clinical-tool-can-reduce-the-use-of-cpta-in-cancer-patients",
+      "published_at": "2026-07-13T16:43:08+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Bundibugyo-Ebolavirus: WHO startet klinische Therapiestudie",
       "summary_de": "W&auml;hrend sich das Bundibugyo-Ebolavirus in Zentralafrika ausbreitet, fehlen bislang gezielte Behandlungsm&ouml;glichkeiten. Im Rahmen der PARTNERS-Studie sollen nun Remdesivir, ein Antik&ouml;rpercocktail namens MBP134 und die Kombination aus beiden Substanzen getestet werden.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -690,8 +700,8 @@
       "type": "News"
     },
     {
-      "title": "Zecken - Bisher mehr Borreliose-Fälle in Thüringen gemeldet als 2025 - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Zecken - Bisher mehr Borreliose-Fälle in Thüringen gemeldet als 2025 - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Zecken - Bisher mehr Borreliose-Fälle in Thüringen gemeldet als 2025 - Gesundheit - SZ.de",
+      "summary_de": "Zecken - Bisher mehr Borreliose-Fälle in Thüringen gemeldet als 2025 - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWkR1SlZhS1EtV2hXc2Y5UlJ4dGVVZmt3aHhIWUVmdUhMck90VWV6NXBZVWZPbG9CczVSSGVvZ0pkNm1ad0FlMjRfczVOeDg1cDZndzJ4dVZ6V2FEZEFRVml4Q0hRVkpnY0doT3R6ZkRzN2JRMTltMW9Db3ItZnRIM3FJbGQyYWc0bEhSQlVKQThkQVU5SlB0S3dobEF5UERmc2s2OW5MVTdoMkJyTm0tR2hhdzZSVzI0cEtNWWtUWVNodGVWSkhvcl9NSTFPOEJGWk1PVktRX24xNzNtTXNUOEItblJTRklXUjNNMWln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-13T10:32:43+00:00",
@@ -972,16 +982,6 @@
       "type": "News"
     },
     {
-      "title": "Krankheit von Bryan Johnson entzaubert Longevity - FAZ",
-      "summary_de": "Krankheit von Bryan Johnson entzaubert Longevity &nbsp;&nbsp; FAZ",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVEJIVHUxY3NVZ0R6eEE5Q2NYbm9jQTQ2dHM4ZDFNYnlsS3JpZXNYNDdmTXlJTmNoN3JkalItQ1hXamNsczlGVHpVbm5yU2duMVIyLWtlU0pPZlpTaVdJYUFTY2pPTF9XNUptNVlldFh5U191QldnYWlnVlBFU3B4WnFsWWY0MlRIUTI5c280b3FidnF4bXl3RkJxWFIyNENkU0dzVUg4TjZjS3BZNEQ1Mg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-11T16:03:44+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "GKV-Sparpaket: Tschentscher nennt Kassenreform »Fehlleistung der Bundesregierung« - DIE ZEIT",
       "summary_de": "GKV-Sparpaket: Tschentscher nennt Kassenreform »Fehlleistung der Bundesregierung« &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
@@ -1017,6 +1017,26 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVXRRS2l2SHF0QVFCOFFMTE9sRHVEcjBrRlM2YW9hREpwYzlEeUE3ckhlUVRpT2haTlJfUHBPWlQzc3VZZ3FqcVczQUt2XzVqQU5EemtFVFh6akZETk1CRXd4aVA4c1djMDVYTWxBb25hQVlZb3JKcVh0NGRDVnByYWZVM3ZwOUllMHdoMXBoNmNCRkFKSHRDb0hvdHV3eVFzamIxY0tJdjR0RUpReGVIaWZEdEhDUlNqdUtBN1BCUnFUa3hZVl9Yb0lHUVhpYXlrNWMwaGRMaUo3eTU0T0pqSGx4dXE1MHJndXhyeHBNdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-11T03:30:10+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Marijuana use linked to greater coronary plaque burden",
+      "summary_de": "Marijuana users demonstrated more than double coronary artery calcium scores than nonusers.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15829799/marijuana-use-linked-to-greater-coronary-plaque-burden",
+      "published_at": "2026-07-10T17:54:43+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "CEM on par with MRI for breast cancer diagnosis, local staging",
+      "summary_de": "CEM alone in a prospective study achieved perfect sensitivity and negative predictive value in diagnosing breast cancer.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15829784/cem-on-par-with-mri-for-breast-cancer-diagnosis-local-staging",
+      "published_at": "2026-07-10T16:54:35+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1058,6 +1078,16 @@
       "source_url": "https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations",
       "published_at": "2026-07-10T14:29:47+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "(S+) Gesundheitsreform verabschiedet: Was Versicherte zum GKV-Sparprogramm wissen müssen - Spiegel",
+      "summary_de": "(S+) Gesundheitsreform verabschiedet: Was Versicherte zum GKV-Sparprogramm wissen müssen &nbsp;&nbsp; Spiegel",
+      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPaVVkZ2JodG9qNVUtUUdxVmhudUw2Rm1DbXhVbkFKNnVvVXp5YW5qeWJOa3ZJQkNXeV9vWjZZY2t5bXhHT0NqNTk0aTZyeWlBUkQ0Yzh0LUJiYXFSanhHZktSbkgwX3Q5ajF3UUNEMnZTeVRkVEdKVFRYMjNyRUxXOGFqc2FnYkRUeURnQzhYaGpEVTNBYjZYUGtOWFV6Q00xbHlTbmxfT0ZXZ29Zamw4dmY5MUt2SFBOOUgxNXhvYTl1emozeDdacjNPa1l2eDMtN1ZpVHJFeW1SS09PUVFpZFJ6SVd6M2xYV0pQNDNMdXBDWEhHXzh3eg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-10T13:53:00+00:00",
+      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -1144,7 +1174,7 @@
     {
       "title": "GKV-Reform: Was sich durch die Reform der Krankenversicherung für Patienten ändert - DIE ZEIT",
       "summary_de": "GKV-Reform: Was sich durch die Reform der Krankenversicherung für Patienten ändert &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkpJX20zTDJCZzZscEhtTmk2MGVNQU54ZWFWd1BROGFwcnBQeTlQR01FSWVHVjQ5b1lxd0JTU2o5TFV4UmR1cWlpZTVkZDc1NGZLeUFJVi1kd3FZRFVXQkVtS1E3RS1LZzdnRV9TUGtweW16WHcxNmVIdl93eFVSb3pyYjRqbEltb3I5QXlJdU56RmNLQk42bnlzNTN6dVhfUEd5alhkUy1EcVV0SWNxX3RlMDBHZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-10T11:23:02+00:00",
       "category": "Gesundheitspolitik",
@@ -1238,6 +1268,36 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/provisional-monthly-hospital-episode-statistics-for-admitted-patient-care-outpatient-and-accident-and-emergency-data/april-2026---may-2026",
       "published_at": "2026-07-10T08:31:00+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "ASTRO highlights study on disappearing radiation oncology centers",
+      "summary_de": "Over two-thirds of all U.S. counties reported lacking a radiation oncology practice site in 2025.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/radiation-oncology-therapy/article/15829803/astro-highlights-study-on-disappearing-radiation-oncology-centers",
+      "published_at": "2026-07-10T08:19:27+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Week in Review: New treatment response criteria | Lumbar spinal stenosis grading | Ultrasound MinnieCast, Episode 12",
+      "summary_de": "New treatment response criteria for bone metastases and episode 12 of our Ultrasound MinnieCast podcast series topped the charts...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15829811/week-in-review-new-treatment-response-criteria-lumbar-spinal-stenosis-grading-ultrasound-minniecast-episode-12",
+      "published_at": "2026-07-10T08:14:52+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "CCTA finds coronary disease in men with erectile dysfunction",
+      "summary_de": "Erectile dysfunction caused by vascular problems is associated with a higher risk of coronary artery disease.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15829808/ccta-finds-coronary-disease-in-half-of-men-with-erectile-dysfunction",
+      "published_at": "2026-07-10T08:11:39+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1510,6 +1570,16 @@
       "type": "News"
     },
     {
+      "title": "New PET tracer show promise in neuroblastoma",
+      "summary_de": "F-18 mFBG achieved a pooled sensitivity of 97%, compared with 82% for I-123 MIBG.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15829699/new-pet-tracer-show-promise-in-neuroblastoma",
+      "published_at": "2026-07-09T08:47:58+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Diabetes Prevention Programme: Non-Diabetic Hyperglycaemia, April 2025 to March 2026",
       "summary_de": "The NHS Diabetes Prevention Programme (DPP) is a joint commitment from NHS England and Diabetes UK to deliver, at scale, evidence based behavioural interventions that can prevent or delay the onset of Type 2 diabetes in adults who have been identified as having non-diabetic hyperglycaemia (NDH).This report presents the national audit findings, summarising registration and demographic information on people registered …",
       "source_name": "Publication Feed",
@@ -1645,6 +1715,26 @@
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcmdVTkh6QU95UVF2UllmVWYyMUc2Ry1kTExmTWo1MUllQS0ySUVVRkdjWm1xMVRvenVEcGUxY3BMUlBqY0gzLXBzSXZOV25vRktTQ0NjZV83M0h3RHF4OHJnMjB6MjJEM2UtRUlOMGQxVHB1ZTgxMlJPOTd1Y09od1IzUllhcVVCd0F3TlNpbzJsTHo4Yko4b0ZRWndCZ21jbDVEUTByNXdXTTdaQkx0SlVfR3g5THZTY0JfYi1za20zUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-08T22:00:22+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "AR-guided localization may sub for CT for early-stage lung cancer",
+      "summary_de": "AR-guided localization was noninferior to conventional CT guidance and led to better patient experiences.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15829530/arguided-localization-may-sub-for-ct-for-earlystage-lung-cancer",
+      "published_at": "2026-07-08T16:02:39+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Study backs LDCT lung cancer screening in Singapore",
+      "summary_de": "Lung cancer is the leading cause of cancer death in Singapore, with approximately 48% of cases occurring in individuals who have...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15829484/study-backs-ldct-lung-cancer-screening-in-singapore",
+      "published_at": "2026-07-08T15:58:06+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1812,6 +1902,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSjlrVi1kTnk0QUdST0U0czhiVThsX2k2TEpiaWdxcHVNNk5tY1FKOEhYVGF5VW5SUXNGYmNXOV9ITE9mSTBnVkI5d00xOXFCYTdTc3gxWkt1bzRQXzZUX3ZCd19IREZKR0hGbG1TNUNWNmJPUU9fOWxZOTlWTDU3MmJ0TTBnc0ZzOEhfRGhlY1VqUFktcFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-07T09:21:55+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "New criteria evaluates treatment response in bone metastases",
+      "summary_de": "RECIBM-defined response classifications showed high agreement with established criteria and reclassified 19% of patients.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/article/15829477/new-criteria-evaluates-treatment-response-in-bone-metastases",
+      "published_at": "2026-07-07T08:27:27+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2409,6 +2509,16 @@
       "tags": [
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Universitätsprofessur für Public Health Data Science UMIT TIROL - Private Universität für Gesundheitswissenschaften und -technologie GmbH - ZEIT Stellenmarkt",
+      "summary_de": "Universitätsprofessur für Public Health Data Science UMIT TIROL - Private Universität für Gesundheitswissenschaften und -technologie GmbH &nbsp;&nbsp; ZEIT Stellenmarkt",
+      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPeHJhY3BXNkRtZjhFOHhiTmhZWmhvazJlOFl1VTV0OFozMkJnVS1jWHdWOVUyM0ttY1RVb2RxbU43cl8zY3dZVUVyY2ZMMjI2UnpsdDJ3UGt0YWFDbFdsRUc3bWRISG9qOWVQS3U5a0l2M05qYmQ4V2otc3loNzg4am5CXzdzSVFwOFVnbmE0YjlucmhNZzAwcGZKYm1lbjVmRFJhX1FmMHF2QWZmUW1Wa1lLMEZBOEVickJSNnczNHFTM0ZISTNLekJVV004U3dJRjlVQUxRbnUybkh6RURaZHkwM3dDUGhmQk5oZnYtdnlsbndwdjMxd0FKbl84d3BnQm84MjEtSzFDUklRU2x1T1FIMlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-22T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
