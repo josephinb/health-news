@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T18:59:34.232387+00:00",
+  "generated_at": "2026-07-16T21:57:59.969027+00:00",
   "window_days": 42,
   "count": 270,
   "items": [
@@ -130,6 +130,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/zwischen-bundesliga-und-bunsenbrenner-166567/",
       "published_at": "2026-07-16T12:00:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Götz von Berlichingen: Hand erstmals im CT gescannt - FAZ",
+      "summary_de": "Götz von Berlichingen: Hand erstmals im CT gescannt &nbsp;&nbsp; FAZ",
+      "source_name": "\"site:faz.net medizin\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTlBLWC1fdk5sbkhIWVNrUnhwMF9RbWhZcUtiLV9jcHkyeUpVcnZ0Nm93X1Awc2o2NGkxam12aUtWSmRxUUNudW01dkh3cENfSTROX3BOYlFXdi12TS1kSHNQclVfcTZaRVd6SWVMVG5GenRHdW1hMWxfWjUybGpMLUxlbWdiTkJvR3BSYXhrYlJLZTdFSmZ5VlFGejhqZlRmcV9ta3U0WG14eUJvZkVyc2JOTE11Nkd0dXdiSVpn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-16T11:44:48+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -833,8 +843,8 @@
       "type": "News"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-14T14:28:49+00:00",
@@ -1224,16 +1234,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPMl9JdjB1T0YxaDc1Q3FTQk45RHZSQy1BZ2FqdjRPY0MzS1FFaG5HVEp2LVNmOE04a0tiNnVUTHU4VldyTndmQkN6LVRnREdDY3FTWXl2UFA2VVpENTlMOVMtaWwyNF9KT2tCUkh1b0VWT3pZS1V4bEZBOW5mbVNzUzdUSkdvRVljTFdNWm42UmtBM3Jyd0lMMGE4eHBxR0p5aGtqNW1kTWZzRmtDVTk0YkpxTzhjWW1FejJfSFFOeUJ4bUcxVHhvVXI2bE05b0JJcEI3SEJQa1NPWnlTWG5WcVJ2UXh6bjlmZGU1SEtRVnh4dklDQV9adDN6RDg2RTNYblNJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-13T07:12:57+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Hitzeerschöpfung erkennen: Symptome & schnelle Hilfe - DAK-Gesundheit",
-      "summary_de": "Hitzeerschöpfung erkennen: Symptome & schnelle Hilfe &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QajF5WnltMnJaUzl2bHpaZ0hCSTAzWno3LVJZMm9wdm0tT3ozNFFycFhwdDZjaExVOTFhVlRTZWV1M2tqaXlVN3pYVEtlcWlVMG9ZWUpxdFNqcWQzWU1BVHpUTVhKRDNzMkZnaF8xMnVIUDBpSWFvdHFn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-13T07:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1763,16 +1763,6 @@
       "type": "News"
     },
     {
-      "title": "GKV-Finanzreform: Grüne wollen Abstimmung über Krankenkassenreform verhindern - DIE ZEIT",
-      "summary_de": "GKV-Finanzreform: Grüne wollen Abstimmung über Krankenkassenreform verhindern &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQUUySEh3a1NLSEUtci1HSTVwcUZHUnhBQTVPRlpMQnR1TDZUNkI0R0VRRzdnTEthdS1VRHJfdE1sT1lRSll6Nlg5MUt1c3V1c2Q1MnhBRWJ0RmhVYzBudEVDYS1OeWZZbE1QMHJQTkVMVzJ5RnVwdmFreVFUc292Y2xzenpkNlNZOXl1a0xMTDR0ZEp5dmdxeFFlWG0wN09CRjRzU19WZUhoZXB5YXk4YnBFV3QwU19fUU1KVnV2bzNVOS1tT0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-08T07:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Meinung: News des Tages: Nato-Gipfel in Ankara, Gesundheitspolitik, Ärger bei der Fußball-WM - Spiegel",
       "summary_de": "Meinung: News des Tages: Nato-Gipfel in Ankara, Gesundheitspolitik, Ärger bei der Fußball-WM &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de \"Gesundheitspolitik\"\" - Google News",
@@ -1856,6 +1846,16 @@
       "tags": [
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Künstliche Intelligenz in der pädiatrischen Radiologie - mgb-medizin.de",
+      "summary_de": "Künstliche Intelligenz in der pädiatrischen Radiologie &nbsp;&nbsp; mgb-medizin.de",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSjlrVi1kTnk0QUdST0U0czhiVThsX2k2TEpiaWdxcHVNNk5tY1FKOEhYVGF5VW5SUXNGYmNXOV9ITE9mSTBnVkI5d00xOXFCYTdTc3gxWkt1bzRQXzZUX3ZCd19IREZKR0hGbG1TNUNWNmJPUU9fOWxZOTlWTDU3MmJ0TTBnc0ZzOEhfRGhlY1VqUFktcFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-07T09:21:55+00:00",
+      "category": "Radiologie",
+      "tags": [],
       "type": "News"
     },
     {
