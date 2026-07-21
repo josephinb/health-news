@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-20T21:55:32.850382+00:00",
+  "generated_at": "2026-07-21T01:59:09.665561+00:00",
   "window_days": 42,
-  "count": 244,
+  "count": 242,
   "items": [
     {
       "title": "Neues Antibiotikum: FDA lässt erstes orales Carbapenem zu",
@@ -9,6 +9,16 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/fda-laesst-erstes-orales-carbapenem-zu-166933/",
       "published_at": "2026-07-20T16:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Erstmeldung Arzneimittel: Gabapentin Glenmark 800 mg Filmtabletten pU: Glenmark Arzneimittel GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-07-20T15:36:09+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
@@ -49,16 +59,6 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/nerandomilast-bei-lungenfibrose-zugelassen-166929/",
       "published_at": "2026-07-20T13:50:09+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: Baraclude 0,5 mg Filmtabletten - OP90(90x1) pU: Bristol-Myers Squibb Pharma EEIG",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-07-20T13:10:45+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
@@ -304,16 +304,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPeGRLNjhvUUFGREZQUzJzTXA0b0M4Vlg0bGdMZmdyNl9vMjE0SHNHVHpVanBJd1JGYXNOQ3E5Y0lyN2tvOS1oNFRkeXBXTEZQSjV1QmRycG1BWHpxRDRmd0hMVmN2Ri1GR3I3cVFrWUs1Uy1sLTBNNEZ2M2ItY0ZPSU5nMjUyS2VPU1RWalN0elBiZ1ZZdjNiM1diWlYzOWk2TGtseDVvd2NxM2tiWEc3eEVTbThvcEVJQmpJQ3oyYjl1ZXZJdzAtbkR5NmZWa1ZCTDQ4dy1BaUFpM3dmT1h4NzloaXFEbWgyUURvQ1lYdXBhWWFQdXdXV2F5NVdndWI4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-20T01:35:04+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Pflege (dual - ausbildungsintegrierend) (Bachelor) FH Münster - University of Applied Sciences - HeyStudium",
-      "summary_de": "Pflege (dual - ausbildungsintegrierend) (Bachelor) FH Münster - University of Applied Sciences &nbsp;&nbsp; HeyStudium",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOTRnTnYtX0NxeGNTM21HVGtOTXlQekt1cUFTVmJjenV3aHpKdzV2VGZDUFFGVFVLYXRzQV9nRFFpZ040amg4NTk0MFcyNmljYlhsN2VkVkNNNkczaXgtZUxYQ0FWblNwVlJwNWJQSmFpbkw1RGhXamxaQTZnaHgtYzVnTjVLelZNRU4xYlc3MA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-20T00:08:45+00:00",
-      "category": "Versorgung",
       "tags": [],
       "type": "News"
     },
@@ -848,8 +838,8 @@
       "type": "News"
     },
     {
-      "title": "Krankenkasse für ein gesünderes Leben | BARMER - BARMER",
-      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; BARMER",
+      "title": "Krankenkasse für ein gesünderes Leben | BARMER - Barmer",
+      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-16T06:46:46+00:00",
@@ -1137,8 +1127,8 @@
       "type": "News"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-14T14:28:49+00:00",
@@ -1172,16 +1162,6 @@
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZTdlWGRCWHVsTnd4cFgxNTJkQlo2cGUyaEhucmFuYkJUaThBOFprYktETDRVRXNhbDVRMDNGMEI0dlFFOE9ha1RobDdfOWZ4TV82enZ0d2l2aXNYcmg0ZENWZTdTU1JjNVk5S250S3pWYWlYNlVja1VBMXR4elZFMy1xN0hqZ2RsUHIzblp1cU9BU2JCdmVtRXd5QXVaaUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-14T12:23:07+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Pflegeversicherung unter Druck - Thüringer Pflegeheime: Was die Eigenanteile hochtreibt - Gesundheit - SZ.de",
-      "summary_de": "Pflegeversicherung unter Druck - Thüringer Pflegeheime: Was die Eigenanteile hochtreibt - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPTTFSQzBBTkZvY0NmUzhFdDQzVjJvOFFpOFdoVDJKenBjZUV1cWg5Z3pFSnRBX0hiLV9mYjBEZlV1cVVMaDlyY1NzcllaczJVVFNaNG5ubTZKRmVHTlBDcmRQY3RnQUp1RWR1akZ4QWRobVpxLUJQcmZ1VnFkX2JienlKY2VDbG1BUkwycDlWekp6M2pTZ19TeWFsNG11djBHaF9xNnBaUkxDc0JpTzl0cDJkMjB3TlFWVDlva2lCM0oxcXl4ckpYb3dVUzl4V0J3VnRYdW5PNTJQNmpZamltaVMwMk9uZUFzRXJTQjNESWRRcm41dlZFRXFsWVhyOTJwV2JkQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-14T11:30:32+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
