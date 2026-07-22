@@ -1,15 +1,65 @@
 {
-  "generated_at": "2026-07-22T08:12:47.774911+00:00",
+  "generated_at": "2026-07-22T11:00:56.979622+00:00",
   "window_days": 42,
-  "count": 234,
+  "count": 165,
   "items": [
     {
-      "title": "Digitalisierung im Krankenhaus | Die Techniker - Presse & Politik - Techniker Krankenkasse",
-      "summary_de": "Digitalisierung im Krankenhaus | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOREc4MnRwbmdHbGRPSGVfaGpXYmZKdllvMnlsYXl4dS1VOWNtQ1dfS24zWC1Jck51WVhaS2ZrYi1oMnVwRE1xbXFjTGg3ZVJUWEgzQkdlMmxaS0hYdFhkbG45dW1vQUFHNEZvNUNuWk5vb1dTU21XZkhuaGVURzVIZGd2eWEyNTZQOUgwZWdzQzZvd1Vyc1pzRU5USVRpeU1DM2F4blNsazNQcEVUaHRsd2hrdVdhdldXcDFkSHBNRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-22T07:17:30+00:00",
-      "category": "News",
+      "title": "»Letter of Intent«: DAV und ADAS treiben ePA voran",
+      "summary_de": "Die Apotheken und die Anbieter von Apotheken-Softwaresystemen wollen gemeinsam die elektronische Patientenakte (ePA) f&uuml;r die Nutzung in den Apotheken intuitiver und effizienter gestalten.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/dav-und-adas-treiben-epa-voran-166995/",
+      "published_at": "2026-07-22T09:55:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Corporate report: MHRA: policy for handling corporate conflicts of interest",
+      "summary_de": "Information about how we handle potential corporate conflicts of interest (COI) between different parts of the Agency.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/mhra-policy-for-handling-conflicts-of-interest",
+      "published_at": "2026-07-22T09:15:59+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "EFSA lowers safe level for exposure to TFA",
+      "summary_de": "The European Food Safety Authority (EFSA) has reduced the safe level of trifluoroacetic acid (TFA) in the diet based on new scientific evidence. TFA is a breakdown product of some pesticides.",
+      "source_name": "EFSA | News",
+      "source_url": "https://www.efsa.europa.eu/en/news/efsa-lowers-safe-level-exposure-tfa",
+      "published_at": "2026-07-22T09:08:45+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Versandapotheke: Sanicare ist insolvent",
+      "summary_de": "Die Versandapotheke Sanicare mit Sitz im nieders&auml;chsischen Bad Laer ist insolvent. Die Gesch&auml;ftsf&uuml;hrung der Betreibergesellschaft BS Apotheken OHG bleibt aber selbst am Steuer und will den Sanierungskurs unter Aufsicht fortsetzen.&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/sanicare-ist-insolvent-166968/",
+      "published_at": "2026-07-22T08:56:15+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Türkei: Der Apotheker, der Erdogan herausfordert",
+      "summary_de": "Er wurde als Chef der gr&ouml;&szlig;ten Oppositionspartei CHP abgesetzt, viele Weggef&auml;hrten sind in Haft. Nun gr&uuml;ndet &Ouml;zg&uuml;r &Ouml;zel eine neue Partei. Kann der&nbsp;Apotheker damit Erfolg haben?",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/der-apotheker-der-erdogan-herausfordert-166966/",
+      "published_at": "2026-07-22T08:30:28+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Häufige Arzneistoffe: Steckbrief Cyanocobalamin",
+      "summary_de": "Im Vergleich zu anderen Vitaminen f&auml;llt Cyanocobalamin (Vitamin B 12 ) durch seine au&szlig;ergew&ouml;hnliche Struktur, einen Corrin-Ring mit zentralem Cobalt-Atom, aus dem Rahmen. Zudem wartet es mit vielf&auml;ltigen Funktionen auf.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/steckbrief-cyanocobalamin-166812/",
+      "published_at": "2026-07-22T08:00:00+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -35,10 +85,10 @@
     },
     {
       "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Endemeldung Arzneimittel: Dexa-Gentamicin pU: URSAPHARM Arzneimittel GmbH",
+      "summary_de": "Typ: Endemeldung Arzneimittel: EMEND 125 mg Pulver zur Herstellung einer Suspension zum Einnehmen - OPXXXXmg pU: Merck Sharp & Dohme B.V.",
       "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
       "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-07-22T05:42:08+00:00",
+      "published_at": "2026-07-22T06:41:34+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
@@ -54,14 +104,14 @@
       "type": "News"
     },
     {
-      "title": "Delmenhorst: MRT-Upgrade verkürzt Untersuchungszeiten erheblich - Weser Kurier",
-      "summary_de": "Delmenhorst: MRT-Upgrade verkürzt Untersuchungszeiten erheblich &nbsp;&nbsp; Weser Kurier",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUXRHVlZzOG85S1lCcHpGQ2Y2OHVlc2w1cDlORWRHYklRa3VKSzJITzNWTG9xMVpBX0dwMVlNdDBWd2NRS2xqMWM5RnktMUFOZXowLUVnUHNBOVdNcHdzSzdldGJ4YUlBZGx3M09EcTA1M1BlWmdIMnRkaTF4WHFzcXBFc3h6Sm45SXZvNzhmVGFTck9wQ0Z1bzFLV1BFOFE4SG1HbjNCX0xGS0JhWjF1LVlfR3ZDUFhFNllhbmNnUW5FbzhVVldKalRPWVk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-21T15:45:00+00:00",
-      "category": "Radiologie",
+      "title": "Prophylactic versus selective use of surfactant for preventing morbidity and mortality in preterm infants at risk of respiratory distress syndrome",
+      "summary_de": "Prophylactic versus selective use of surfactant for preventing morbidity and mortality in preterm infants at risk of respiratory distress syndrome",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000510.pub3",
+      "published_at": "2026-07-22T00:00:00+00:00",
+      "category": "Studie",
       "tags": [],
-      "type": "News"
+      "type": "Studie"
     },
     {
       "title": "Pflegereform : Wie wichtig ist kultursensible Pflege?",
@@ -84,32 +134,12 @@
       "type": "News"
     },
     {
-      "title": "für Innere Medizin mit Schwerpunkt Hämatologie und Onkologie - ZEIT Stellenmarkt",
-      "summary_de": "für Innere Medizin mit Schwerpunkt Hämatologie und Onkologie &nbsp;&nbsp; ZEIT Stellenmarkt",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUkJvQmk1NVRiRjhqNVRLaTNXYXNSUF9sbHRpUW1hZmQ1QUY1M1pjZE12eFN3LW9DYzJrbmpaT3VsdktmdlQ4UmJGOXNfZlZHd2M2RnRhMXliLWYwcWFEdzloYUYtNUtVZnFqeEVyX3huLXg1bl9jY000U1BjYjNuRzdWeVdYakhPZVd5YWoxVGV5N0FfQXUzZ0dCQ09wczJoczFzVmdfSU04Yzl2a0txN3Jpdm5zWVFBaGlNdkdaZGM5QVJkTGYwamQ4UGphTTNIamJrZmR5LTZLR04ybnFzSXVNOTZ5TDYyWEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-21T13:57:07+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "United Kingdom: Cooper folgt auf Streeting",
       "summary_de": "Yvette Cooper legt ihr Amt als Au&szlig;enministerin nieder und &uuml;bernimmt den Gesundheitsbereich. Der neue Regierungschef Andy Burnham sorgt bei der Berufung seiner Ministerinnen- und Ministerriege f&uuml;r einige &Uuml;berraschungen. Erste wichtige Telefonate sind gef&uuml;hrt.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/cooper-folgt-auf-streeting-166956/",
       "published_at": "2026-07-21T13:11:17+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Hessen: Betrugsvorwürfe: Hessische Ermittler vermuten Arzt in USA - doch der arbeitet um die Ecke - tagesschau.de",
-      "summary_de": "Hessen: Betrugsvorwürfe: Hessische Ermittler vermuten Arzt in USA - doch der arbeitet um die Ecke &nbsp;&nbsp; tagesschau.de",
-      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaTB3ZVB4Zmw4N2Q3VU5KelVoZ1hfcXhmRmhjWFVyZWh1LVNhV0pZcFl2azhwZ3hCVzRGOWk5QVZJMmN2aVlDaXVOSllaU2tyc256VXV1ZVZkaENVQS15Ulo2aEx6bjR0dFlZbmlrUG81QXRwUVozaGNxWHFfcGQwakU4clp3cmpiZ0hPLXRqbzQyUnlHNWloY3N5QlVKUXppa3Y1RTZoVEt1MGZCalpmWWRTVG5pblItdzRQclA4S3FaeTNLLV9oa0VQQ21rYmluYzFIXw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-21T13:03:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -140,16 +170,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/mit-einfachen-mitteln-entgegenwirken-166893/",
       "published_at": "2026-07-21T12:00:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Vergiftungen im Urlaub - Dutzende Hotelgäste nach Pool-Vorfall in Spanien in Klinik - Panorama - SZ.de",
-      "summary_de": "Vergiftungen im Urlaub - Dutzende Hotelgäste nach Pool-Vorfall in Spanien in Klinik - Panorama &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZWYyVy0wYnYyQWRwZHhXS3Y0eUdxNDUtU185SzUzVHFyMzV2bmhqNE9iUmJEMmxkaUFnZm5tQUluRFVDaVdMbjRHN2lkdGVWU0pfUVd2Ty1aeHZFOEVVaWlvaEN6S2FCd0VUUnBnN0VSY29MWE85MEtXNndwRlpaYjZ2ME9XSmUxc0N3d3B3YzVLaXQxYkpaTGRDekdROWtVVDU3Rm11Y1BPMzNaWkVsa0xPZlBKLTg4RnR2X21hUzR6SnpTUm1LYjFlVGE5YzVvWGdKOVY0Um1jVlk4bFptbjFFMEJzbS1FQy1OdkdETm96SnhuWjdSTjNjODBGQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-21T11:59:32+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -224,16 +244,6 @@
       "type": "News"
     },
     {
-      "title": "Drogen - Gedenken an Drogentote - Höchststand erreicht - Gesundheit - SZ.de",
-      "summary_de": "Drogen - Gedenken an Drogentote - Höchststand erreicht - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOWpWZjNNX0M2QkhhQVR2UVBHVWUwczJ6cDRYZ25RaVJCRnVZWTk2bWkzckh0WGw4MW1pQkhSUHZmTVdDR01YazYtelowNGcyOVpIZ1dxS1NoZFlHcC0xQXpLWXVTalZkQ3hQTEpyYzBzLU9aUmpNV01TazBEd2tWRTBZWktScHVKRnpiQVRQQVBJMkZuWk9XNzBveEs1TUR5NXNQZUxDaTR5ZlVtYkVNSUJMeU8zR2hVd0cxZmxJOHBCcDdxVU1xbXJwSE16Z25zZU42RDZiVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-21T08:40:45+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Brief an Ministerin: Preis fordert Rx-Boni-Strafen von Warken",
       "summary_de": "ABDA-Pr&auml;sident Thomas Preis wendet sich in einem pers&ouml;nlichen Brief an Bundesgesundheitsministerin Nina Warken. Die CDU-Politikerin soll endlich dem Treiben der Versender Einhalt gebieten und mit Sanktionen gegen unzul&auml;ssige Rx-Boni vorgehen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -296,32 +306,12 @@
       "type": "News"
     },
     {
-      "title": "Rauchgasvergiftung - Kellerbrand in Arnstadt: Zweijähriges Kind im Krankenhaus - Panorama - SZ.de",
-      "summary_de": "Rauchgasvergiftung - Kellerbrand in Arnstadt: Zweijähriges Kind im Krankenhaus - Panorama &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVTlmRTFqakt5Qzd4dm9rU3pYenZabklrZmVyVGE3X1d0MFlRYUprVzkxMmwwTlZPRVpZM1VYRktoM2U3Z3VDRlZ2UnFNUjJkWmhmSmVfdFdrS0lJbkVadnBncUM3VmFmOFFSVGl5M041XzVxbkp5UXhEVE1PTjlOc0RnMXpqS19zdnA0N2RpdzhGTmU1MXE0aUtvak1wcFRDdmVxbzEtajVSV2gzX3ZmSmhWNTgyZWFrTjNCVlZfVmg1RVkxcjlzOUZmSTZYVTRYanNWV0FMR1R5T196ZGRPUWJFQi1rbGRsMTBEOU9mNE9LYzFGLVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-21T05:43:08+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Infektionsgefahr: Babys nicht ins Gesicht küssen",
       "summary_de": "Neugeborene sind sehr anf&auml;llig. F&uuml;r Erwachsene harmlose Erreger k&ouml;nnen bei ihnen schwere Infektionen ausl&ouml;sen oder lebensbedrohlich sein. Das Risiko wird oft untersch&auml;tzt, wenn jemand ein Baby k&uuml;ssen oder ber&uuml;hren m&ouml;chte.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/babys-nicht-ins-gesicht-kuessen-166808/",
       "published_at": "2026-07-21T05:00:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Tiere lauern an vielen Orten - Zecken breiten sich im Nordwesten aus – so schützen Sie sich - Gesundheit - SZ.de",
-      "summary_de": "Tiere lauern an vielen Orten - Zecken breiten sich im Nordwesten aus – so schützen Sie sich - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOdmZ4cXR4N0w3S3l2eDJZVVBvb1Q3ZnZCYUlIUnhmY1dIcUtHTmlfeXJJNThXTTA2UFJ3RkJ0cXhQMTNDbDNCY2lacTNJUG5KWmJ0NUptVEhtZTNQSnZ2bXJJck5jdTlpdDdZaDN6ekk3NDdlRHhpV2NneTYySzR5VVlHbXAzUDFlOFpoTmVtMUJEQmtRVGlCV0dQNHI5SjN2RVVwaFFNMUdGSFZLQXN0QVhLNV9YR2NzUGlTTnh3Zi1VNXF4VS03SjNrd3I2RFdtalMxdDF2SDRmbVZnb2ZNM0pRaS10bmlMUElZLVVObmlZUjdkOHE3RkdoTWhGNVpmdjZSUkpKMEc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-21T03:00:05+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -396,16 +386,6 @@
       "type": "News"
     },
     {
-      "title": "Ein Blick auf die Radiologie: Uni-Klinik holt Nachhaltigkeits-Siegel - Meetingpoint Brandenburg",
-      "summary_de": "Ein Blick auf die Radiologie: Uni-Klinik holt Nachhaltigkeits-Siegel &nbsp;&nbsp; Meetingpoint Brandenburg",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd0RwVWZ0R3RBeGtSSEpHSWxZcEVTbFllRXdpTlZWaFNBTlMwLW55OFh4TkYybDdMd1FONlRxZWhEMHBYSU53c3FBVVJZdXE4aUhtUGRJcEhabFVwQ1dKU2k5NERmTmwta01HSDQzM0drOWpRU19zODVHUE9yRGRNZF83R1N5UHlwMFFnNGhtLXg1SlR2QXJndlJEcDVlMlJCSURsTVFVUTZOOUJtQVhsLWZmNVJiNHlEeVNXTzFudEdvbFhyVFRPUUFpblFYOTQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-20T13:01:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Nach Rossmann-Vorstoß: dm plant keinen Rx-Versand – vorerst",
       "summary_de": "Rossmann will zum Jahresende in den Arzneimittelversandhandel einsteigen und nimmt von Anfang an Rx mit ins Portfolio. Konkurrent dm&nbsp;verschickt seit Ende vergangenen Jahres OTC und will vorerst bei seiner Gesch&auml;ftspolitik bleiben, h&auml;lt sich aber alles offen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -466,26 +446,6 @@
       "type": "News"
     },
     {
-      "title": "Arzneimittelversorgung: Ziemiak informiert sich bei Noweda",
-      "summary_de": "&nbsp;Paul Ziemiak, Generalsekret&auml;r der CDU in Nordrhein-Westfalen (NRW), besuchte die Noweda-Zentrale in Essen, um sich &uuml;ber die Rolle des pharmazeutischen Gro&szlig;handels bei der Arzneimittelversorgung zu informieren.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/ziemiak-informiert-sich-bei-noweda-166917/",
-      "published_at": "2026-07-20T09:45:44+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Eosinophile und IgE: Blutwerte können auf Asthmarisiko hinweisen",
-      "summary_de": "Erh&ouml;hte Blutspiegel von Eosinophilen und IgE im Kindes- und Jugendalter k&ouml;nnen ein Hinweis auf Asthma, Entz&uuml;ndungen der Atemwege und bronchiale Hyperreagibilit&auml;t im Erwachsenenalter sein. Darauf deuten Daten aus D&auml;nemark hin.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/blutwerte-koennen-auf-asthmarisiko-hinweisen-166877/",
-      "published_at": "2026-07-20T09:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Meldung: Stabilisierung, aber kein Spielraum für Abschwächungen",
       "summary_de": "Das Sparpaket der Bundesregierung für die Gesundheitsausgaben ist beschlossen - doch wie sicher ist jetzt auch der Schutz vor höheren Beiträgen? Der GKV-Spitzenverband sieht eine Stabilisierung erreicht, aber keinen Spielraum mehr für Abschwächungen. „Wir haben jetzt eine solide Grundlage dafür, dass die Krankenkassenbeiträge in den kommenden zwei Jahren insgesamt stabil bleiben können“, erläuterte Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes gegenüber der …",
       "source_name": "GKV-SV Presseinformationen",
@@ -524,166 +484,6 @@
       "source_url": "https://www.gov.uk/government/publications/custom-made-medical-devices",
       "published_at": "2026-07-20T08:06:13+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Tropenkrankheit - Malaria am Flughafen: Vier Mitarbeiter infiziert - Gesundheit - SZ.de",
-      "summary_de": "Tropenkrankheit - Malaria am Flughafen: Vier Mitarbeiter infiziert - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRHhTcGVrNXdTV3FUMWtER3ZwQUVyblJ6dzd4djR4Yl95X1hmbG9LeTJXMkZYMzJSTEpzMElaSlQwaGY3SHpOckVpaFk3a0xCQ01Yb2Z5U1cxSENabElydkY3THQ1S3VUOEREWllETTM4a0lhY214VHNvVkd3TUFpTUhMYkdVMHE5bFdWeUpVamNSeTZxOWNOTlpLa0RmejdOUW05TFZkQVpQb0lGekRoWTVSWjRsbXZ2WDVjZUl6aU9VYTJQN2hKZTRJc0VDSmpoZnN5ZEUycTdvSEc5eVZ2RUp1YldsRTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-20T07:46:51+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "DAK-Gesundheit-Auswertung: Krankenstand leicht gesunken",
-      "summary_de": "Die Bundesregierung plant h&ouml;here H&uuml;rden f&uuml;r Besch&auml;ftigte, sich bei der Arbeit krankzumelden. Im ersten Halbjahr sanken die Zahlen nun aber etwas, wie neue Kassendaten zeigen. H&auml;lt der Trend?",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/krankenstand-leicht-gesunken-166912/",
-      "published_at": "2026-07-20T07:40:09+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Steuerberater sieht positive Signale: »Die Apothekenkaufpreise werden steigen«",
-      "summary_de": "Mit der Honorarerh&ouml;hung und weiteren Reformbestandteilen werden die Apotheken zumindest etwas gest&auml;rkt. Doch es gibt Zweifel, ob sich der R&uuml;ckgang an Apotheken damit stoppen l&auml;sst. Ein &uuml;berraschend positives Bild zeichnet Rechtsanwalt und Steuerberater Bernhard Bellinger.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/die-apothekenkaufpreise-werden-steigen-166899/",
-      "published_at": "2026-07-20T07:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Arbeitsunfähigkeit - Kasse: Leichter Rückgang bei Krankheitsausfällen im Job - Gesundheit - SZ.de",
-      "summary_de": "Arbeitsunfähigkeit - Kasse: Leichter Rückgang bei Krankheitsausfällen im Job - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSnYwVFNwSklHUzVKMUZVWmEtUkhZaWhCR0pPMmFTTkRRb0otTXJpTzRqeXpOVWFqWEZKRmctMGczeE5BRFdDb01wRFh6VGpxTDNLTGZKb0NGOFhqbmk3Zk1UXzJRRGZ4ZGFXTXZLTkJYVE9fTUVRSUtGRnhqZ3U3THlFX1RhSkx0aFBKaWVvalFQZktpRjVFMnR0anRaZTB4LXdXMHZoLTJEeTNkOFRocUhneHBDR0dQNkxyRjlnVW1oeko4blhPdVFVNTJldWlzaS05Zm12LS1NT0RobG1QbkRmQm45d3pydnN3dlRGU2pTcThJeGVpUg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-20T03:30:05+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Klinik in Forst und Guben: Chefarzt aus Berlin zieht für neuen Job an die Neiße - Lausitzer Rundschau",
-      "summary_de": "Klinik in Forst und Guben: Chefarzt aus Berlin zieht für neuen Job an die Neiße &nbsp;&nbsp; Lausitzer Rundschau",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONno5eWduWFZxYkZNcm9EZFlMVmEyZ1hycHFHcEc4cUxTX3o4ZVVPb0E5c3RRb2xfb3ZDem0ybWMwWl91YzhxZzBuR25QUS15a0REZDlBaXBsOGFwX29nTEZLUEpTdmVmRE5oX2hacGdwbTdzck8yZ19LeFZIVmdOMzNCbmdQNkhiSThmeWRvQkEtcmtUSDFZUHR2S3FHUHJ5TzVOdnVyUUU2S09rNjlfbUxxUEE4aVMzb2Rrb3ZNSkNyUlFiaGJUaTBmRVZjRC1oSlNJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-20T02:20:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheitsversorgung - Hoch: Die Krankenhauslandschaft wird sich spürbar verändern - Gesundheit - SZ.de",
-      "summary_de": "Gesundheitsversorgung - Hoch: Die Krankenhauslandschaft wird sich spürbar verändern - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPeGRLNjhvUUFGREZQUzJzTXA0b0M4Vlg0bGdMZmdyNl9vMjE0SHNHVHpVanBJd1JGYXNOQ3E5Y0lyN2tvOS1oNFRkeXBXTEZQSjV1QmRycG1BWHpxRDRmd0hMVmN2Ri1GR3I3cVFrWUs1Uy1sLTBNNEZ2M2ItY0ZPSU5nMjUyS2VPU1RWalN0elBiZ1ZZdjNiM1diWlYzOWk2TGtseDVvd2NxM2tiWEc3eEVTbThvcEVJQmpJQ3oyYjl1ZXZJdzAtbkR5NmZWa1ZCTDQ4dy1BaUFpM3dmT1h4NzloaXFEbWgyUURvQ1lYdXBhWWFQdXdXV2F5NVdndWI4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-20T01:35:04+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Sand aus der Sahara: Zunahme von Wüstenstaub belastet in Europa Gesundheit und Wirtschaft - DIE ZEIT",
-      "summary_de": "Sand aus der Sahara: Zunahme von Wüstenstaub belastet in Europa Gesundheit und Wirtschaft &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZG1Ib01aZGhDYkc0R2kySG9jOWhrejBlTGRDaE5jR0t2RXVseEJaaUtRMEwwTUtYVzFnQ2hTV1czR3J6RXYyNElnaWFzWnpfalVQTGNTQzJ5SFR4Z1ZvU2F5M0RBbG8tT2N4TTZubi16M0NUTmI0b0tuZm0teGFHVmxLMllST2Zfa3pUdEplSTRmRVJYYmpz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-19T09:31:19+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Spezialist/-in Prävention (m/w/d) - Schwerpunkt Suchtmittelkonsum - DAK-Gesundheit",
-      "summary_de": "Spezialist/-in Prävention (m/w/d) - Schwerpunkt Suchtmittelkonsum &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOUVlcHNsVmdEeVJGX0YxUVV5aGtuYjhLa2NwRUc5WndBbnVkZzlNWERKRFpvRTZWRXpUQ2dfdkE0allZNUl3djNYT0RIX2JpQmk5TjhrMzZtY3pFMDVJNFJQdXd3UVZ5OUNGZ2hsWmFqVzluWEtsMFRQTTI0emxmZnk5MkR3UzVKYjgtNlRndmdpQWczbzFHVk50S1RTSldWR3FIMjhWMVl1TjhzbFBlbERjbVlPbnZZMFpLMWJNa08?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-19T06:41:48+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Reform - Gesundheits-Sparpaket – Wie gesichert sind stabile Beiträge? - Gesundheit - SZ.de",
-      "summary_de": "Reform - Gesundheits-Sparpaket – Wie gesichert sind stabile Beiträge? - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNV0w5bHI5a2pTR2h4Snk5aHROd3lVZkE3MndMTkJHRHdYT3RvMnZTLUhEM1JzT3lrTElmb25jRFdlcTZYeDdJOEg2OWFWeWhGUkFtMm1JVHdkLWtJWWdzemJTN2NLY3E1V0RTTXlIR3BFbXBvUkZJVEw2YlhYckVES0ZvVE8tcFdreU9qU1B0Y3M4d0NlRldCVldVREpxWUtjZDZfaXNKc2k4TVNiMnJ3U2preUJZb21zdERYSGR5SFhhVjBZdWM3Y3dWYXhLSld0MTJheGlOa1NPc0E5LXljZmQtTk9pVXFXaXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-19T05:00:05+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Mitarbeiter (m/w/d) Lungenfunktion in der Karl-Hansen-Klinik - SZ-Stellenmarkt",
-      "summary_de": "Mitarbeiter (m/w/d) Lungenfunktion in der Karl-Hansen-Klinik &nbsp;&nbsp; SZ-Stellenmarkt",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFFzTmZGUG9iMzdaOTJVV2JVejVnZEVPSWk5ZlphSkxUNVFGUTJWZXVvckNwYnA3LW5GT1luUHlFaUpOVEl3TzZpMGkwbGNHT3lPQlQ5NUtPcl9JZjhmekM0RUxMc0dVRVNKbkJWd04tVzV6UGZ4VUNnZ1lkRlg5UXFrVlpnYVlNYlIzeU5Ya3RwRE9WbnNFbmVLd2lJcGtrb010UWdvMUpHS3JVZ1FnN29jNHhHUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-18T17:53:45+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Krankheiten - Grüne für Stärkung der Suchthilfe und Prävention - Gesundheit - SZ.de",
-      "summary_de": "Krankheiten - Grüne für Stärkung der Suchthilfe und Prävention - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeEV1TzJFNEVqd0pvckNZSGNqYnVBbmJ4NFJDSkRlYWlVckVVVXJaY1pmM0pXaFhySU0ySVFuWDVyNmtEWUNRbEhmUHZ3RTdrTUVha2RUandyMkFpckFJZHE3T3lhNG9pTkMzT0pxc3JiSmp5NWNIZEpCOUtqUFQwcHBUb2MwZkUzS09lMUVZdlF6QUhPMVY0UmdMQ2djZDVpV2gxUjFWMThlQ2Zxc0NqZUp2RkNqVHJ4cUtFSUx2MzZ0VldjaFVocS1HanhiY2NvUzRHazR6R3hSQ1pTaGp5cmhTdGVNRVNZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-18T11:26:29+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "In Niedersachsen - Gut jeder zweite Beschäftigte über 50 will früher in Rente - Gesundheit - SZ.de",
-      "summary_de": "In Niedersachsen - Gut jeder zweite Beschäftigte über 50 will früher in Rente - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYnNtWXRiMTJXQWFyNUJZenpLMk9hRVA2XzZwLVRpZmZXTHhJNXowa2lpNV9nZERJb2VLa0V4VF9wd2VtWHRrSXJhS1FiWmt2VVlwQUdIa2RiU3JIR1YzaG1qc1AtN1pKY2k3eWJYVEpyV29ZYU41NVVyZzB4emZqMURmNzczRlBoN1VBdS1QUGZoSXB6QnlNYUdKQ3l0TnpmWGpKejFTTE5qb2g4WUFHSVdTZ3g0QndueExYWmVvajRhVnRVejFMMlh2dFdhZGZWYWVyRGptZ0tPUEkzLVJHcTh0dlVQVXkzX2ljUS1tTm43d1F5emJKWU02QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-18T02:30:06+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit und Rente: DAK-Report: Auch gesunde Arbeitnehmer wollen früh in Rente - DIE ZEIT",
-      "summary_de": "Gesundheit und Rente: DAK-Report: Auch gesunde Arbeitnehmer wollen früh in Rente &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSTlrbG5XQ1lTbmxISVpJZkU4QXFGOVhpX0RwbTZHNl9PRGRwNlkzQTN1NDBNSkp6NDhjcEhKS3VoNW1MZUEwai0tRVU5cFZoSFd4WGlsODN5Ri1sSlMtNHJMTlBmQTktRjJsSmdKS3NpSjAtLVRYUWdFVlB0ZkVlWXQzQUh2bThVQ1FUa1pkblZ5dUF4RURwa25R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-18T02:00:13+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Renten-Debatte - Umfrage: Mehrheit im Südwesten will nicht länger arbeiten - Gesundheit - SZ.de",
-      "summary_de": "Renten-Debatte - Umfrage: Mehrheit im Südwesten will nicht länger arbeiten - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQb0FLdVZENlpLODZwOEFyVTh4RGROTGFmQ1MzR0NJUzlWTWtaSExkZmtSb0tyb0NkMTZDVnlyMXB3ME9icmFKdXRUZEV1Nm4xdTdQdkNtbmlHOVR1UlMtb25KMDh0b0RzcjUtUUFfUmRqZHEzUWg0aUJNdVpmdG0tV2xKZmY4ZzkwaXpJbXVzSU5wX1ptTkxILWZJM0pDTmFiRlM2ZnVLc0l2YTFGcmlERDNKbG4xMTBIM0JHZWRXZzhRRmpQUVYyNzVIV0dNMzgtUDBaOFJKX0F1TlJfQkc3ZG1OWExyRW90UWxfRjFpY3J5VWhB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-18T02:00:12+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Produktrückruf - Durchfall-Risiko: Rückruf für Bio-Beerenmischung von Lidl - Gesundheit - SZ.de",
-      "summary_de": "Produktrückruf - Durchfall-Risiko: Rückruf für Bio-Beerenmischung von Lidl - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSnJ5WTh3bjQ3M1UyN1NOWC00T1JjZzA4SkJCU0JTZkc3M2lCVHZ4Y1lPbTZUZG4xdHdGcEpiODdUVkxEbTJSWHduV1pFRkRHY012dUlMRlpwWFp6WFZZNGdYdXg4WFBMbzRZNEVRaC1XdDhINkxqNGNncUlBakVPYk41YnIxSG1xaVcwdFd2cFM5Y25LQ1ZmZ0sxYWdRUUh5RGZZVkE0UHljNzk4bk9JT1ZkUlhIc0RrNVBZd0RFM29hTDh2aXRjckMzYjJlSlhFbWpmMEloQmJaMVV3UjNmZ3RlbnpMY29RM1JEeU15b3dlY0FVNHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-17T18:25:43+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "So belastet Hitze auch die psychische Gesundheit - tagesschau.de",
-      "summary_de": "So belastet Hitze auch die psychische Gesundheit &nbsp;&nbsp; tagesschau.de",
-      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa3kycXAtOUVNRExDd1g0U1QxZW4tZHE0c2k2MWs1NUJCUEdBR1Izb2hpMkh2SlQyekxQbEdfcG1TcGVUR0t2eDRuX1MwZHZlZnBZWHg0SkpYQkJ4SUtHSUh0aDBtLV9UTFc1RTlILVR5V3BzNUhnalhJUVhtY3hvTHZnRklNb3BWVV9HQ2NNTHdmTHBzM0NMZENIWkZUSjNhYVVRRDlRZlpJRWQ1TmwtNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-17T15:40:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -778,46 +578,6 @@
       "type": "News"
     },
     {
-      "title": "NRW: 53 Prozent der älteren Beschäftigten wollen früher in Rente - DAK-Gesundheit",
-      "summary_de": "NRW: 53 Prozent der älteren Beschäftigten wollen früher in Rente &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMU9IWlhBWWc0ZWszeFBoY19mTXhFYTk1TmdrUkVGU2Y4UFFBUm9IVlA3eU1nWWFOaGVlX21tcmc3a1Q3TWI0azJZakx3ek9mQnJoeGFCUDk4WG5mV0VjSDJIZmhDNk5naWNCc3NzdzdDcmFCYlcxYWZMZFI3Z3lieXJ2VlNSUnZFSmlGcmpBTEdvQUJiN2N3TDltYlVNYUowaTRmZDZER2N4T0F1Qlg1eEV2QTYxUjNyTFBjNV83Tk5FaHJSOGhXcDM1Mnh0NG9ndEpfZjlSZjB2dFk4NHc3eDVuMXQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-17T08:05:54+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Hamburg: 45 Prozent der älteren Beschäftigten wollen früher in Rente - DAK-Gesundheit",
-      "summary_de": "Hamburg: 45 Prozent der älteren Beschäftigten wollen früher in Rente &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNampsTWtXWkV3aXJrYkU3Nm4yR1cxYlNiSUtoS25TM1dPcFpCd0UyLXAxUDZEMEg2UXdiZXB3VVBMSklVZk1nQ3Z2VVZoVUxLT2NvRXVHUlpzdGd4clNtSmdzcElURmJ4OTJ3cUNNeTFaQ1U5bEQ1bEx0NHFzVmVQazdkMWhYaUxPcmUyajBVcWRxUjQ4VktadXhBVHZRWDFXX0xiMXJpRndPdTg2YnJxdXFRcTJNbzdjXzJiVmpZbGp6b1NMNDRFa3BGQ0NKU3RSZXJGT3lheHlLUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-17T08:05:54+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Projektgruppenleitung Digitale Lebenswelten und Gesundheit (d/m/w) - Robert Koch-Institut - ZEIT Stellenmarkt",
-      "summary_de": "Projektgruppenleitung Digitale Lebenswelten und Gesundheit (d/m/w) - Robert Koch-Institut &nbsp;&nbsp; ZEIT Stellenmarkt",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRk1UZWJnVVJhUHRodmF5MVlnRUNqX1U3Ny14cnBvV2JiWjhmbXM3UTdCdDNUOHZtNEhFbHNwWkVud0JEcU91emMzd29nV21HSEF5alFrTHp0YzNISEppNkF3Z05semcyRnpZM1VydlZNNmx0OFNIRGtiZEdMaVFnWjdXMmpZdTNhb0Vrclh5UWY4M1NkTUJUTVJ6bWNPVG9RT091SXpiVG05MkJXYjZtanRnajRtbnVwSDJFMVIxUlpmZnpt?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-17T07:41:12+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Perspektive DVT – „Die SCS Bildgebung – Ein integraler Teil meiner Praxis\" - PresseBox",
-      "summary_de": "Perspektive DVT – „Die SCS Bildgebung – Ein integraler Teil meiner Praxis\" &nbsp;&nbsp; PresseBox",
-      "source_name": "\"site:pressebox.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPbzY3c092TFJIMGhMeFJVay15V2JXNVJ3UnNFOWxQVjhjREttLWx6NkxEdVZaYTJmX3Y5SnpGQkQxdmtGOGJwM3FVWHNadlZ2c1BFV3FGN0tzMzZZaU9zN3dFc2hXUGh6UFRLVVpFN18yMWYySTR1a21UMWNKaS1WMXNyR3JQV19XX0lRRTBxSlZhUXdaTGN1QlhnRzNLNXI2RkhsWXZRdFhEXzdpNWpNM1hKZXVHSVV5WEZoNl9kUW10OUlTM2pTN1FmVW15S2NteDN2UTJDSHVVZF95cS1JRHVtdUNhdVIxM1RwdDBXcmNCenV1Q0lUUVl3U3ZqYzd1ZlpJVHBqdVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-17T07:05:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Topical cyclosporine A therapy for dry eye disease",
       "summary_de": "Topical cyclosporine A therapy for dry eye disease",
       "source_name": "Cochrane Library RSS feed.",
@@ -848,46 +608,6 @@
       "type": "News"
     },
     {
-      "title": "Tarifabschluss - Mehr Geld für Beschäftigte in Lebensmittelwerken - Gesundheit - SZ.de",
-      "summary_de": "Tarifabschluss - Mehr Geld für Beschäftigte in Lebensmittelwerken - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQl9IVU11TXpxUGVjTVlJX1puVlBDcVZXSzJXVDZSNllZcFUxSTh5LWRsQlhHVHVBUHc5ejE1Y0ZscmtFWVdNR3l6YzJoZDBpWUFuaVVqeVJQOEVqa3RVY3g3QlJXU0o2T2hiT1FZa0I3dGlwT0RpUFRacnFEZHZkdXZrcE9PWDM1NVJwWlJNRElURWNEbEtRX2ZMZ1F2Nmx0QlYtc20tRWdrQndjMHlZVVVkZDF4N0JiY25PRVFFb2w5R2l1X2ZualV4a1AtWUZPTU1kdlZQaE5IY0JIbVQ0MS11OE1jRjJ3Y0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-16T15:39:20+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Testosteron und Gesundheit: Soll man das Sexualhormon substituieren? - SZ.de",
-      "summary_de": "Testosteron und Gesundheit: Soll man das Sexualhormon substituieren? &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNGZ2c3hDemU1Z2VHLV94OVR6ak40NExrODZYR3V5LXRmLWJ1T3pHQnhjUTd6em54OVFrbTBOdC1PdllGN3pyalZqalU4WS1WQkloZlFLczd2UnRkNC15VjQ0OHlYZTF0Zkt0Q2c3UVVxbjgxUEtxNFYxR2traDZaY1pGNEd3bzdoTXRsQkxDSUZsTzNWY25ybGJmZXRydmZOckk2TW90TDEtUkFzTzN2VEdDTmU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-16T13:34:06+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Monitoring und Kontrolle von KI-Lösungen im Krankenhaus, Adiccon GmbH, Story - PresseBox",
-      "summary_de": "Monitoring und Kontrolle von KI-Lösungen im Krankenhaus, Adiccon GmbH, Story &nbsp;&nbsp; PresseBox",
-      "source_name": "\"site:pressebox.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaGtQdm5VaUtaaF8zV3BRLU9TZ1lsUEtPVE9lNUNUUDQ4OFYtTEluOXFHRVF4LUItVkM5MTQ3THhtVzhZeG5pcUViRk5OLWdVemNDZmEwZy1KRFh6SVBXSUp6VmJfaTl0ZmMxNVc3N0diX1NtNlpBR2lGTEdLQ0dzX1pZVGZ2UjNFdTNKcmthN251WE5hOGpzLTVfT3ZMV2Y2UGVlSHVzN05wSEVzS1VtZkp3MU9IMjRfcUlrRFFuSkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-16T12:09:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Ingo Hilgendorf, Facharzt für Innere Medizin und Kardiologie - DIE ZEIT",
-      "summary_de": "Ingo Hilgendorf, Facharzt für Innere Medizin und Kardiologie &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdFhWdjhMX0lMYThNYzFkNHdlN0FGQUdNVDZFTUt0dmFoQktGTlZ6TU9vc1ppTFhRRW1mU1o0RzRNZ0RwY1NCVmJZRGpDLUsxbk5aOFRVVE05NjRuVXFlUGN6cGxVWGNWVWFRS2ZpS2Y5S21pQS0tYXRzOHhVOUozd2xhVi1KX0xqbHV3ak1wWHppM25CRVZqTkdFaGMyTHJVbUhmYy1YQVhvbVNq?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-16T11:42:07+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "MHRA delivers record performance as 2025-26 Annual Report and Accounts confirms growing global influence",
       "summary_de": "The Medicines and Healthcare products Regulatory Agency (MHRA) has published its 2025–26 Annual Report and Accounts highlighting a year of strong and consistent delivery as set out in the agency’s first Results and Forecast report earlier this year.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -914,36 +634,6 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-network-contract-des/england-june-2026",
       "published_at": "2026-07-16T08:31:00+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Röntgen, CT und MRT: Wie bildgebende Verfahren funktionieren und was sie sichtbar machen - ZDFheute",
-      "summary_de": "Röntgen, CT und MRT: Wie bildgebende Verfahren funktionieren und was sie sichtbar machen &nbsp;&nbsp; ZDFheute",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOFNPWmVpcElhZU5oNEdWNW10MEdpeldhdERWQkpaUkdlZXJLdV93VlA0MjBkaVBGemhDa2xselRwY0E0eWRGSGY1eG5STkJxMUdSWFNvSWFralBFSlo5YnRVTU5VdFQ5dVJYamJWQVF6dlRNSE5wdmxlVl9veUdUT0tpT3FHTVpDejktUzZNbEk0czVNRzBWR0hiYnVudHVvWTJv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-16T08:05:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheitswesen - Protestdemo gegen Schließung von Klinik-Abteilungen geplant - Gesundheit - SZ.de",
-      "summary_de": "Gesundheitswesen - Protestdemo gegen Schließung von Klinik-Abteilungen geplant - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOOUdsMGNKSHBpczlaY0JTVFg2MlBXNHFHOFA0SUNlYTRObnpycnQ1VzBFVUxRNmVtR1NmaUJVS01USk4xZWtNVDRpcXBlQlR3VGZFRlFzQ3NMQzMyY2FOeWZSZXBSVWFJa24zWXIwLXN4VjhNa2QwVFljUzRqOHpCcWVMZFR1SmhxbVloS25YQVczZUVTSkFQMURydXVSdk5zbXNzVFRLSTh0c0NTcEFlSVpoQW5fQm5CQnRNd1ptcllYcHpBcVZwenBHZU9PNkNqU3AxVU9xTmV6TGxvVWVnOWlyUV9xT3ZsUTNZbVd1cWZURWJvZGlyaHNB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-16T07:30:06+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Krankenkasse für ein gesünderes Leben | BARMER - BARMER",
-      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-16T06:46:46+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1002,32 +692,12 @@
       "type": "News"
     },
     {
-      "title": "Clinical trials for medicines: Clinical Trials Regulations transitional arrangements",
-      "summary_de": "Guidance on transitional arrangements for the Clinical Trials Regulations.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-clinical-trials-regulations-transitional-arrangements",
-      "published_at": "2026-07-15T11:54:40+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "EMA and EISMEA boost cooperation to accelerate health innovations",
       "summary_de": "EMA and the European Innovation Council and SMEs Executive Agency (EISMEA) have strengthened their cooperation in support of health innovation in the European Union (EU). Today…, Enabling innovation is central to our public health mission to bring new treatments to patients. Our collaboration with EISMEA helps us better support innovators to…, The earlier health innovators can engage with regulatory expertise, …",
       "source_name": "News and press releases",
       "source_url": "https://www.ema.europa.eu/en/news/ema-eismea-boost-cooperation-accelerate-health-innovations",
       "published_at": "2026-07-15T10:45:00+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit: Mehr Medizinstudierende verpflichten sich für Landarztpraxis - DIE ZEIT",
-      "summary_de": "Gesundheit: Mehr Medizinstudierende verpflichten sich für Landarztpraxis &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLWJRaUhsRk50b3FsTGF3anJwdlZFNDFQWXJXTndzNVRHSDRheVdWamVNVWpTeW1jMC1XVjA2dGRPb1kxYzBDVW52RS14a0dmeVkzN3VZdU5pck8wT2ZvWTNNMjZ6SzktTjZXRVRfRnZkelU5RTlHcllTZGwyam12RmR0MnJiblNVWE5MOXVlX08zQ05DZkluZmx4bzFOdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-15T10:31:40+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1082,36 +752,6 @@
       "type": "News"
     },
     {
-      "title": "Pharma: Boehringer legt Fokus bei Investitionen auf Wachstumsmärkte - DIE ZEIT",
-      "summary_de": "Pharma: Boehringer legt Fokus bei Investitionen auf Wachstumsmärkte &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSFNvb3hPMVZLVlM2cFdsbEwyc0lac2ZPOVJsVGZzczF2S2padU5UZm1QYzFfZWRPNE1HY0ZZZU5KSnB6MUY1MEE1TnRsWXF1TU9FYkNNM0V6cTBpaVRmM1BsVWVMZGtzblFNMlctd1F4ZFZocjZQYUdrMDU4VVRoNWlHTzg0aVZ6ckstZW8zUmZlMG5UQ0ZaVW1Ya28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-15T08:49:59+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Pharma: Boehringer legt Fokus bei Investitionen auf Wachstumsmärkte - Handelsblatt",
-      "summary_de": "Pharma: Boehringer legt Fokus bei Investitionen auf Wachstumsmärkte &nbsp;&nbsp; Handelsblatt",
-      "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV0xIU2dRcG56TTZONWZaVG1mZEc5MndKcFV4WEpNY25BcWpIQzFkY1RBVjRRdzFteG1xMVhRU0dGb1JqbmlmbWVTcm1xbjNacF9sclhzakFZQVEtYlBMTFQ5ZjZvU1R4S1o0SDN4VXJGVG8zS2YwSlVmcmVmN3VySlVmSHZyekV1M0ZSWnh4Ul9RazhsY3d1MjFjdF9XTHVfd1hOU0VBLUhtZkxaNUtSODZDTldfb18xYUVxWlRYdHdWZ3hmS2NJSW5Raw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-15T08:49:59+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "W2-Professur „Optoelektronik und Diagnostik“ - Hochschule Aalen - Technik, Wirtschaft und Gesundheit - ZEIT Stellenmarkt",
-      "summary_de": "W2-Professur „Optoelektronik und Diagnostik“ - Hochschule Aalen - Technik, Wirtschaft und Gesundheit &nbsp;&nbsp; ZEIT Stellenmarkt",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOFJ6NGNwUWYwUzU4SnN5bWV6S2IxTDk1SmtQOVZwZjZ0aTllWG5xanMzeUtYd2t4TUllazJqdmZKVzZYeW1NN3JRTDdTcjQ0ckZDQUV5ekJMQjQ5Y3dteFFsWm52WkJzcnNSVXZDQzI2SHQ5R3Yxa250azZaQkgyeHF1UGpndXpyeVprLVA0Q0JYM1BaeVN3ZEFaNWFScEd0SDRfTU5ZQkVlUFFBWUV0Vkx0NWdrUzh4cXpSY1RsMGZocDAwcmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-15T07:27:11+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Pressemitteilung: Digitalisierung muss Versorgung verbessern",
       "summary_de": "Der GKV-Spitzenverband begrüßt die Verabschiedung des Gesetzes für Daten und digitale Innovationen im Gesundheitswesen (GeDIG) im Bundeskabinett. Mit dem GeDIG wird ein wichtiger Perspektivwechsel vollzogen: Digitale Infrastruktur, Datennutzung und konkrete Versorgungsprozesse sollen künftig enger miteinander verzahnt werden. Der Gesetzentwurf setzt damit wichtige Impulse, um die Digitalisierung stärker auf den konkreten Nutzen für Versicherte und deren Versorgung auszurichten.",
       "source_name": "GKV-SV Presseinformationen",
@@ -1155,26 +795,6 @@
       "type": "Studie"
     },
     {
-      "title": "Multiple Sklerose: Die Krankheit der tausend Gesichter - SPIEGEL TV für Arte Re - Spiegel",
-      "summary_de": "Multiple Sklerose: Die Krankheit der tausend Gesichter - SPIEGEL TV für Arte Re &nbsp;&nbsp; Spiegel",
-      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYU9HZVhQdF9Vdk0zMHVPQ0pIc3VUZFQyUjlrekZuTk1TSm0wbC16Zm1YMXBTTmdFd1pUVVhVelZ1SFJIUzk0OGgteHBwUDFpV1ZnRnlxeHZ4NkFMbDFqX1NSX3hLTURpNWhyZXZLOG5lR1JmU2dSbEVFRkFoQ1lJYkp6X0V6Y016dFVpN1BqbmNreVpuVUJ2UERBbjV3M004bU5jVm5tazI5bDA3T3Z6NGxyOVNtNHNqRkI2bFVtX0V3WWV2ZGUtX29rNG5nTzRlM1NPNzF3YWVodEZUSklfbzdnM3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-14T17:16:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-14T14:28:49+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Pressemitteilung: Datengestützte Prävention wirkt",
       "summary_de": "Die gesetzlichen Kranken- und Pflegekassen erreichen mit datengestützten Präventionsmaßnahmen immer mehr Versicherte – mit messbarem Erfolg: Bislang wurden rund 1,5 Millionen Menschen gezielt auf individuelle Gesundheitsrisiken wie fehlende Impfungen oder Vorsorgeuntersuchungen hingewiesen. Etwa 110.000 von ihnen nahmen daraufhin konkrete Versorgungsangebote in Anspruch.",
       "source_name": "GKV-SV Presseinformationen",
@@ -1199,16 +819,6 @@
       "type": "News"
     },
     {
-      "title": "Recombinant follicle‐stimulating hormone (rFSH) versus other recombinant or urinary gonadotropins for ovarian stimulation in assisted reproductive technology cycles",
-      "summary_de": "Recombinant follicle‐stimulating hormone (rFSH) versus other recombinant or urinary gonadotropins for ovarian stimulation in assisted reproductive technology cycles",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005354.pub3",
-      "published_at": "2026-07-14T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
       "title": "Blood pressure management in reperfused ischemic stroke",
       "summary_de": "Blood pressure management in reperfused ischemic stroke",
       "source_name": "Cochrane Library RSS feed.",
@@ -1229,14 +839,14 @@
       "type": "Studie"
     },
     {
-      "title": "Professur „Pflege- und Gesundheitsmanagement“ (m/w/d) mit den Schwerpunkten Digitalisierung, Gerontologie und Gesundheitsbildung - Fachhochschule Dresden - Private Fachhochschule GmbH - ZEIT Stellenmarkt",
-      "summary_de": "Professur „Pflege- und Gesundheitsmanagement“ (m/w/d) mit den Schwerpunkten Digitalisierung, Gerontologie und Gesundheitsbildung - Fachhochschule Dresden - Private Fachhochschule GmbH &nbsp;&nbsp; ZEIT Stellenmarkt",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQWHpUUk9iLU9ORTBmREp1Z2Joa2FjZmJjNVpHR3NIZzMxR2F1QmtmM21oZUdVU1ZndEhOVG9mTm1vLUY2WmtzQmFCVXZRVngtUXNtck9FZEtEZkl1WUpsZmZqRFQzR21xZkxmeDZsRGVBQ2RxNmRURlM5SW83QVo2ZWw0VGxZX2xITWdXWlJ4NFpJdkRfN3g3cjA0N0JmTnBFV0lHSm5Qc3pnLU9DczlER0Z4SmMxUzA2VkplZHZOWGJ4eF9qWTdsNzhJeGxUVWhTVTF6ZE9UejAxNkNUQWI2c3BrSEY2SVJnTS1nYUFMSVJKR05KMjROM2FVS0lIYkl3X0dIOTlwekp2S041WEZ2M3dLb1VSWTFHY2VocE5hRjZ3V1hSYkMyMkFEdFNLbDJsVkpTdnFWZWY4TkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-13T13:17:11+00:00",
-      "category": "Versorgung",
+      "title": "Recombinant follicle‐stimulating hormone (rFSH) versus other recombinant or urinary gonadotropins for ovarian stimulation in assisted reproductive technology cycles",
+      "summary_de": "Recombinant follicle‐stimulating hormone (rFSH) versus other recombinant or urinary gonadotropins for ovarian stimulation in assisted reproductive technology cycles",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005354.pub3",
+      "published_at": "2026-07-14T00:00:00+00:00",
+      "category": "Studie",
       "tags": [],
-      "type": "News"
+      "type": "Studie"
     },
     {
       "title": "Pressemitteilung: Geschäftsbericht 2025: GKV-Spitzenverband macht sich weiter für Reformen stark",
@@ -1248,26 +858,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Hitzeerschöpfung erkennen: Symptome & schnelle Hilfe - DAK-Gesundheit",
-      "summary_de": "Hitzeerschöpfung erkennen: Symptome & schnelle Hilfe &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QajF5WnltMnJaUzl2bHpaZ0hCSTAzWno3LVJZMm9wdm0tT3ozNFFycFhwdDZjaExVOTFhVlRTZWV1M2tqaXlVN3pYVEtlcWlVMG9ZWUpxdFNqcWQzWU1BVHpUTVhKRDNzMkZnaF8xMnVIUDBpSWFvdHFn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-13T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "(S+) Israel: Deutsche Parlamentarier fordern Schutz für inhaftierten Arzt aus Gaza - Spiegel",
-      "summary_de": "(S+) Israel: Deutsche Parlamentarier fordern Schutz für inhaftierten Arzt aus Gaza &nbsp;&nbsp; Spiegel",
-      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNHhpaU9QT1lUM2MzZ2EtQkV6T1k1enNSSmNpNEFldEI1UjdoUlN5eFI5LTBEZHFSZkVTY1E0VUNoWHNRZzdEeGRlTzNwMlNOME5aa1BPWlpWdk14NkRsS3p6OC1GZDR0aEdFbG9OVEQ0SEtFSnJDc1p4eWsyMGlpZGg3elA3QzB3VVR1LVNES09QS1BWd05PaS1fa2kyc1NrRzB3VDdWT0RjUFZaQWt2d2NhUU12eE41ZER2OHB1SjR0cGgxYmcteWFCcVNpV1d0czBTTkVnX1lZYmt0QkJOZlgzOUFDTFhCZEZhU0d5bUs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-13T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
@@ -1341,26 +931,6 @@
       "type": "Studie"
     },
     {
-      "title": "Fast jeder Dritte hat gesundheitliche Probleme durch Hitze - DAK-Gesundheit",
-      "summary_de": "Fast jeder Dritte hat gesundheitliche Probleme durch Hitze &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOUdpLWZ3T2dMbzBRa09TTllmRlVDUGYyd3NqckhjWThjd2E5UWIxLTM5UlliZ181aHViMEpVRmU0QUhVQXBNRHJrSThDOVBpbUprWDhIbzl2bHNqckpGVEJsQ0ZleDdxQ01FQWJjbVZGMlhzRjd6ckthZjlMaTVaV0k0T0R0VTcxV19aRzNYZjlXTlVJU2ZvSHotWC1JU1dPZFJOOVJQQlBTamt6T2JvSUctOERXa2RmTGJ4ZmR3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-12T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Präzisionsdiagnostik in der Radiologie: Neues MRT für das Helios Klinikum Pforzheim - Helios Gesundheit",
-      "summary_de": "Präzisionsdiagnostik in der Radiologie: Neues MRT für das Helios Klinikum Pforzheim &nbsp;&nbsp; Helios Gesundheit",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa1ZpOTl0d0Y3VFNUelpkRU9xZ3kxVFZsWGQwSy1XbUZLLUdpcC1odDNYd3VCSVZkcVZUc1FWQ0N2STJTTnNtRGN0M0pCM0Zibldwc2MySGRBVlQzZ0NseXcxNHJrT2tDSWVWeWFUMlV3NXdEVUxudHZSR1U5VEtzUDFPVWl4RDFhT2h4SWtnMXNWQldOb0dzM2h3Tm9GR292LXVnbF9HRVhqNXNFWmt6N1I0dUQ0M0d0Yk9acUlUVE5DTTlN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-10T11:46:50+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 6-9 July 2026",
       "summary_de": "PRAC agrees new safety information on desogestrel- and etonogestrel-containing contraceptives and Litfulo, a medicine to treat alopecia areata&nbsp; &nbsp;Desogestrel- and etonogestrel-…, Agenda Agenda of the PRAC meeting 6-9 July 2026Draft Reference Number: EMA/PRAC/141965/2026…, PRAC statistics: July 2026 , PRAC statistics: July 2026 English (EN) (174.12 KB - PDF)First published: 10/07/2026 View , Glossary Safety signal assessments. A safety signal is …",
       "source_name": "News and press releases",
@@ -1403,36 +973,6 @@
       "type": "News"
     },
     {
-      "title": "GKV-Spargesetz: Das sind die fünf größten Streitpunkte der Krankenkassenreform - DIE ZEIT",
-      "summary_de": "GKV-Spargesetz: Das sind die fünf größten Streitpunkte der Krankenkassenreform &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdzhwejFMYlg1OWxMOTllUjMzdDVLQXgxQm91UjM3UjhzU2lmMEZFbHhTRll3dWVHZG1pX3lfd29IUmJ4cGVuaW5IUDlJVmlhdmZjZXJOS2x4UGtZSGdIRll3bHQ1V2tZRF9KQjdHUUdER3Y2bjZlVDViaFd2dlBhRUlsVzltUW9lc1NDNnZCTXZtVE1EWmo2LUpyR2RldWZCQ1RtSm1rMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-10T07:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "GKV-Reform: Was sich durch die Reform der Krankenversicherung für Patienten ändert - DIE ZEIT",
-      "summary_de": "GKV-Reform: Was sich durch die Reform der Krankenversicherung für Patienten ändert &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkpJX20zTDJCZzZscEhtTmk2MGVNQU54ZWFWd1BROGFwcnBQeTlQR01FSWVHVjQ5b1lxd0JTU2o5TFV4UmR1cWlpZTVkZDc1NGZLeUFJVi1kd3FZRFVXQkVtS1E3RS1LZzdnRV9TUGtweW16WHcxNmVIdl93eFVSb3pyYjRqbEltb3I5QXlJdU56RmNLQk42bnlzNTN6dVhfUEd5alhkUy1EcVV0SWNxX3RlMDBHZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-10T07:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Pro & Contra: Die Evidenz zur Nutzung von KI-Systemen in der neurologischen Bildgebung ist ausreichend - Deutsches Ärzteblatt",
-      "summary_de": "Pro & Contra: Die Evidenz zur Nutzung von KI-Systemen in der neurologischen Bildgebung ist ausreichend &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONm9MTmIwdkVmVTZrRGFXVXU3VTkwMUgyNkh3Y1BvODE5dmpQc09iV2RqSGxJTkNjQ0hVZHNwZVVNalNoN29KbnFBd3hRNXlQLUJpaVhzYzl6MjY1bkF4MjBPWHU4bmZoR01fZTVJRlNPeXEzZEtQbTNsZGREM0NPUFFDQncyNHhZMDFqd3hQeXFCaXQ4aVJ1NjRUMGhnaW5YdmdrbU5OZGVqWXJNLXFRUTdtaEVuMDRlWEFQbURsa2dPdU0tQ3ZBMFdrd0RsbUpHTVZKbFQxWmdRc09GeTBXc1RuMVFhNHFRamFOOWxnNGdsV0tzb3RwZl9jMnVJY29XRFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-10T07:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Pressemitteilung: Notfallreform soll zentrale Anlaufstellen und passgenaue Hilfe ermöglichen",
       "summary_de": "In der Notfallversorgung soll künftig die Arbeit von Notaufnahmen der Krankenhäuser, des vertragsärztlichen Notdienstes und der Rettungsdienste besser aufeinander abgestimmt sein. Das ist eines der zentralen Ziele der Reform, die das Bundeskabinett im April dieses Jahres beschlossen hat. Für heute ist die erste Lesung im Bundestag geplant.",
       "source_name": "GKV-SV Presseinformationen",
@@ -1442,16 +982,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheitspolitik: Geballter Gegenwind bei Reform der Krankenversicherung - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Geballter Gegenwind bei Reform der Krankenversicherung &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeVFXZjFLcTJWMENQcjZZQ2JCY0xzblNqM1BiQzViallsbHIyOXlWX0FYSDdHd1BOeGppZHNyaHMtMlVfWjFhMXNmWlhZdmtWajNITk02elRRTGt6d2h2LWNXODN5eGl4NFZxakJGem1wd3Azd2xpRzJWM0d6UGhONlQwSG5vZlR2c2o3NWZPSE1iZHZ5cFpadTZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-09T15:21:01+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
       "type": "News"
     },
     {
@@ -1525,16 +1055,6 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik: Boehringer-Deutschlandchef: Industrie wird de-priorisiert - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Boehringer-Deutschlandchef: Industrie wird de-priorisiert &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLTdROXd0ZHgwVWxJNkh1U2dfaEUtT2FqQmNCbjN3R18zSFVwdE84RngtTWthSGtDM0xzcDhhOW83ZU81ZlpFQmxfNWREcWZEbjUybndJUGJUOXNUaDc5bnpfamNMQU1VZkR6Q3lVWGhaZWIxR24xR3FOZmJLamdaLUY2OEZsckNBYzBJNC1EbUJOUzU5WWln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-09T07:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Non-Emergency Patient Transport Services (NEPTS) dataset - Summary page for data up to and including 2024/25 financial year",
       "summary_de": "This national minimum dataset is collected to allow for a national and Integrated Care Board (ICB) view of Non-Emergency Patient Transport Services within the NHS, to provide a better understanding of the provider landscape, assurance on performance and spend, and an opportunity for the identification and sharing of good practice.",
       "source_name": "Publication Feed",
@@ -1575,16 +1095,6 @@
       "type": "News"
     },
     {
-      "title": "Meinung: News des Tages: Nato-Gipfel in Ankara, Gesundheitspolitik, Ärger bei der Fußball-WM - Spiegel",
-      "summary_de": "Meinung: News des Tages: Nato-Gipfel in Ankara, Gesundheitspolitik, Ärger bei der Fußball-WM &nbsp;&nbsp; Spiegel",
-      "source_name": "\"site:spiegel.de \"Gesundheitspolitik\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNU05TcFpjNngwZUdFN3ZHbWwtSGJTRGxUTWRfTkl4MXFNa29xbWdQM3NVMWwyS2NGWUVTSXlONlN5dDh5RHo1MlZ6M19pN2pJSHdOa2hsejRjdEtuQUhHelhoNHlYVURqcnNtM0VCZGQxSVFVQkYzUVRNX0Vpd0hHa2FQSlFhNE5mWkhvVEV4WDU2TWV0ZHlrOTFZMEt5Vl9ZcWJlRDNDekV4T2FTdFo4RHRSV28zSnRLLTF0bUFuZTlhcmFieGRaWDRQRUtPcEMyZVJabHZKTmlQaHd1OWZJMWtiQzYzcmtUQ2FJVHBuYjEwSFVUYkY4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-08T07:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "gemeinsame Pressemitteilung: GKV und PKV fördern Krankenhäuser auf dem Land mit gut 79 Millionen Euro",
       "summary_de": "Im kommenden Jahr erhalten 128 Krankenhäuser zusätzliches Geld, um die wohnortnahe Basisversorgung im ländlichen Raum zu sichern. Insgesamt sind dafür 79,25 Millionen Euro vorgesehen, die aus den Töpfen der gesetzlichen Krankenkassen (GKV) und der privaten Krankenversicherung gezahlt werden. Die Förderung für bedarfsnotwendige Krankenhäuser geht damit bereits ins achte Auszahlungsjahr. Es handelt sich um pauschale Zuschläge, die zur regulären Finanzierung der …",
       "source_name": "GKV-SV Presseinformationen",
@@ -1619,16 +1129,6 @@
       "type": "News"
     },
     {
-      "title": "TK-Ärzteführer - Techniker Krankenkasse",
-      "summary_de": "TK-Ärzteführer &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYmtvVElOR3MwVVlHZl9pQnpPOVUxRVpSUWM3LTMzY0hIVHlrWjdhS05kMFYzdUpVUzZXRXBrbWVPVVdhZkpxZ2VnSUlXZDRzVkVWQWVORTBUTlFfT3VNVVI5MXhpOElkMjlHSjNQTUU3VU82a2Z3cUJfSUtkQkRQS3diNVVrQlR3UlU1NUY2d1RmQUxOVXJVd19ZYk1DZzVWQnJ1OU14WUI5SGh3U3RqdkxSMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-07T11:01:03+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Elsner: Einnahmenorientierte Ausgabenpolitik wird zunehmend durchlöchert - neue Risiken für stabile Beiträge",
       "summary_de": "Der vdek warnt davor, dass die jetzt vorliegenden Änderungsanträge zum GKV-Beitragsstabilisierungsgesetz nur teilweise für einnahmenorientierte Ausgaben sorgen. Sonderregelungen für bestimmte Leistungsbereiche sollte es nicht geben.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -1638,16 +1138,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Komfortabel, smart, sicher: So funktioniert das E-Rezept - Techniker Krankenkasse",
-      "summary_de": "Komfortabel, smart, sicher: So funktioniert das E-Rezept &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRUNFejI0a2ZUckRGMHFSZGNFYlpCTElsTVVVSnI4WW1uYnNLTzlma1ZnRU9TM3ExaC1JR05tYU5SMUlmSmRkRXpsV1liaFI0Tm9Bc0pqZGFISlRSSjNmT21FUGMzTE9DUHhjRkZpMkU5QXFxTUh2ZUhvaHd1VUIzTzU3TjNHVXFvcVRPOXYwa1NwMno1bVJuemYtWmNNWXRJdV9UT1M1Rmd3QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-06T15:29:27+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
@@ -1686,26 +1176,6 @@
       "type": "News"
     },
     {
-      "title": "(S+) Mentale Gesundheit: Fünfpunkteplan für den Umgang mit Gefühlen im Team - Spiegel",
-      "summary_de": "(S+) Mentale Gesundheit: Fünfpunkteplan für den Umgang mit Gefühlen im Team &nbsp;&nbsp; Spiegel",
-      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbVBrYTgxVGc5cnM4UGdtNGZKX2JDZTc1NUN0RTJoamJRNjc2d2ZZUmJLNzJPdHZCWHVrMUhtWDVsdkQ4M1poNkpPZ3JzTGg5bWg1ZDZ4NjJ6cFV5cnpjdFp1aTVvQjVfQmhQSzNfTjRERVRBTGtCcUxuTC00LTdlYXlQajU2VTRSWl9TSzNCc0RXQUNCcnYxM2xMNEdJTWFfMklpdDVFTWdFMnFsZmdhcVBweV9zaWk0YVVzWjBaVjhJUFNiQzJIMGZwMDlCcWhUeFRvOFNjdmdxbWNvclE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-06T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "GKV-Finanzreform: Nina Warken ändert Krankenkassen-Sparpaket - DIE ZEIT",
-      "summary_de": "GKV-Finanzreform: Nina Warken ändert Krankenkassen-Sparpaket &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORXdaUXIyM2xYQy13dXlHR0dIb21OeUZ3VzV4N1dLNVB0QUthclZxanZnYVhyYVRKZEZwTHlzZlY0dTJRcW4wQ29tRERhT3ZGSS0tc2lURWhIeUZkQ0loMG1VX2t2OFlCSFJYY20xMjlKdkJ0Smp6RGg0Q0U0U3ltZ3cxeGVISFVZY1JzaDhGVmZhQksxQm9EQ25zaEZNQUh0cVlUSVM3TnRDaWdU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-06T07:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Uwe Klemens appelliert an Politik: Keine weiteren Belastungen für Versicherte und Arbeitgeber",
       "summary_de": "Der vdek fordert, die Finanzstabilisierung von Kranken- und Pflegeversicherung ausgewogen zu gestalten. Zusätzliche Belastungen für Versicherte und Arbeitgeber lehnt der Verbandsvorsitzende Uwe Klemens ebenso ab wie weitere Abschwächungen des GKV-Sparpakets.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -1722,16 +1192,6 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/provisional-monthly-hospital-episode-statistics-for-admitted-patient-care-outpatient-and-accident-and-emergency-data/april-2026",
       "published_at": "2026-07-03T08:31:01+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheitspolitik: Gerlach kritisiert Aus für telefonische Krankschreibung - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Gerlach kritisiert Aus für telefonische Krankschreibung &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUTZZSlNMcjM4UzdmZlYtazN6ZGtuZFpsTUJPaFA1S2x5bzY1ODI2RnZmejVSVzVMNHVHODdZTVd6eXpKZDExbVFlWXhvalY2cHplU1BiVGozaEtUZ3ZJUnBNTDZjd1FCNlByNUFuUjdJeDhFWkZjQWg0X19PVFhPSEQyZXIzMDdnal9IXzBXel9RZHptb0p3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-03T07:00:00+00:00",
-      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -1782,26 +1242,6 @@
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2026/praeventionskurse-studie-webportal.html?pk_campaign=rss",
       "published_at": "2026-07-02T08:30:00+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Kannibalismus ist schlecht für die Gesundheit - auch Kochen tötet Krankheitserreger nicht - Spiegel",
-      "summary_de": "Kannibalismus ist schlecht für die Gesundheit - auch Kochen tötet Krankheitserreger nicht &nbsp;&nbsp; Spiegel",
-      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPX25pREszNVBqbDZVWGFjUE5JMnREZDhia0Y0M1l1TENZbC1Bb3Qycnd5Y0hYREdpZ1N5Ri0xXzcyQldDNC1QanBzVWFwbDc1MlRXdV9xOFhHSG5TeGZLOVFlRmE5bUkwNm1uMnppUXVZZWJHVkZIbm5fTDRaMGxkaXYtOFhZRXlvSTNZRDB0cEFIUjVFQ0lQMmhBVEYyeEgyb19pNU9GelVva0pldndRVXFxNGZYY0ExTUZQTzA2ZXdJMUNlSHBSOGpLM2NtUElObXB5T3ZyN1VvbjlVWnk5Rmd1U29WYm9VeFJMNUVOZ1VQdEdCNVZR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-02T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Ganzkörper-MRT: Radiologe erklärt, wann es sinnvoll ist – und wann er abrät - Berliner Morgenpost",
-      "summary_de": "Ganzkörper-MRT: Radiologe erklärt, wann es sinnvoll ist – und wann er abrät &nbsp;&nbsp; Berliner Morgenpost",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLVBqWnRYQ1pkUFNBS3ZTazhORnd5cWZpeDNCRXpsUF9OQS1mYmY0dVRFR05zazFjcm1ia0Z4ZXhHSzNWcU5yMG1KUDRPYkRjVnhvbm9zc0NvMTNDMHlFS25VUmkyUjQ4aDlRUFZUN0dvZTZwaWFqR0hiU3NlbXZZZ0hPVERmQUp0eDFvQWx0MmdmeUkxaEdBcVlyV1hqZEpMRUVTYThIMjQ3d0paNTFHQlBONHF6SHo0bXZFSEZ1RTRwVmRKMVF1VW03UDZHaFg3TVA1VGpFNmV1RVhzVHl0NVVtWWJTZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-02T07:00:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1858,16 +1298,6 @@
       "type": "Studie"
     },
     {
-      "title": "Gesundheitsapps und \"DiGA\" verstehen und sinnvoll nutzen - Techniker Krankenkasse",
-      "summary_de": "Gesundheitsapps und \"DiGA\" verstehen und sinnvoll nutzen &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRElnQW1fWmhmZ1VLNEhNWjFWZzNyRVJLOXNXcDBIVTcxZkY3SmRtd1dXcHBwS0YxTXRtLWcySGRrUVJCbzdCOEg1VlBRX3FISDc3ZjlmbXFQRlFsMzdhOFJtaHkyYWlMUGN1ZjZSWEVZSjJXTmpLMXBYTVZWbXJJOGZ4MDAxR3FlVzhCSTZ3VEJBbnN3UWVxZTZYaWxaUWFtZF8tZDUxS29oV0t4cElFNFpUQnNZcFBQaDEwZzNWQWdJNlFSM01nWFNpUktYejlO?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-29T15:01:19+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Female Genital Mutilation - Quarterly Report: January to March 2026",
       "summary_de": "The Female Genital Mutilation Enhanced Dataset (FGMED) is a repository for data collected by healthcare providers in England where FGM was identified or a procedure for FGM was undertaken.Data collected includes: FGM type, country of patient's birth and where FGM was undertaken, age at latest attendance, and if the patient was advised of the health implications and illegalities of FGM.This …",
       "source_name": "Publication Feed",
@@ -1886,16 +1316,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "(S+) Hitze und Gesundheit: Wenn das Krankenhaus zur Hitzefalle wird - Spiegel",
-      "summary_de": "(S+) Hitze und Gesundheit: Wenn das Krankenhaus zur Hitzefalle wird &nbsp;&nbsp; Spiegel",
-      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV0lta094ZVV4SkJnYW5QU095dEw0RmpKRm1MR20zamllY1dqck9VUHNSN1ZBRjZJR1JVN0s5TjZodU5pT1BZUllwSnRndGdyUHI0WXhVUUVDQVJUY2ltakRIY09YTm93Y0IxemdMVTBXYXVSWnM5V0ZpT2J0MUczTHRXMVFjV3hfY0d2WkdHcHI1bW52VWtfSldHWW9jckp4MG85SWhRaEtQSExDUzI4YTQxNWZ6M0lwQThlS1BPTEZoT1lMODQ5ajdWdE84M3QxQTJ6MVZzNFFkQ3I4aWFBLQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-27T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "[MI] Rapid Cancer Registration Data",
@@ -1924,16 +1344,6 @@
       "source_url": "https://www.efsa.europa.eu/en/news/avian-influenza-cases-fall-eu-during-spring",
       "published_at": "2026-06-26T08:57:04+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Nach zweijährigen Startphase: Forschung für psychische Gesundheit wird ausgebaut - DIE ZEIT",
-      "summary_de": "Nach zweijährigen Startphase: Forschung für psychische Gesundheit wird ausgebaut &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVTR5bTg4T25BZUtFZy1CR1JSbE5iMzdwcF9ZUDNXVWpBbzhtaW5HSm9Va2xSWFdkbGpkTlpsZkhsakljNjR1Z1VVXzBnaFpoNEdnT18xbjdjbHZ1dE9lYnpCTmpjYlJJdUk4eW5iM3B4Rmp1ODhDQUdCNVJfZ1pYREd3Zkx2VzNlclRuWWNuMWU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-26T07:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2092,26 +1502,6 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik: Krankenhausreform und Nichtraucherschutz: Hochs Schwerpunkte - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Krankenhausreform und Nichtraucherschutz: Hochs Schwerpunkte &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeGY0SEZ5bEFDTEZyMVFRdFV2amVZVlpEU3I0NF9QRkpRb1FwbmdDTHZFYVdpaGZocWsyQlp3X3hheEQwekJQVDQ0TjNlM1NOM1F0cFlobG1qcFBjZ3BhWGtlckY0QXhxLVlkV0J5bVpiY3ZEdHNubUVOSzZDbU96NWFBSkVyeFkt?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-24T07:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Non‐pharmacological interventions for anxiety and depression in Parkinson's disease",
-      "summary_de": "Non‐pharmacological interventions for anxiety and depression in Parkinson's disease",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016360",
-      "published_at": "2026-06-24T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
       "title": "Pressemitteilung: GKV-Tag: 370 Milliarden Euro für gute Versorgung",
       "summary_de": "Tag für Tag ermöglichen die gesetzlichen Krankenkassen die medizinische Versorgung der rund 75 Millionen gesetzlich Versicherten. Damit dies so bleiben kann, braucht es kurzfristig ein durchgreifendes Sparpaket und mittelfristig Strukturreformen.",
       "source_name": "GKV-SV Presseinformationen",
@@ -2153,16 +1543,6 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/learning-disability-services-statistics/at-may-2026-mhsds-april-2026",
       "published_at": "2026-06-22T06:47:08+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Bänderriss am Sprunggelenk: Diagnostische 3D-Präzision mit der DVT Bildgebung - PresseBox",
-      "summary_de": "Bänderriss am Sprunggelenk: Diagnostische 3D-Präzision mit der DVT Bildgebung &nbsp;&nbsp; PresseBox",
-      "source_name": "\"site:pressebox.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQNDZ6LUNMQ0p3VWs2eEgyZHZQdGZFcExqYjJLSENSR2hIT1YwZm5DWlVTR0pFal9WOVM5UWJpV2pHdm1qVlQ0bWZURkZDSnEzU3FDWUtCZ2ZKT0NwS1YyRUNTZUtDNzdGUWZ3SDZiTTdhc0RzaGhXSEZoeHF0cG5pdHZodFpENDdxQmduMjg0ejNibnZDOC1WNklDSUU5QXB5eGZjOTdZNEM5TTRQMTRzeXRJTzJLbXE1VGRUX2RydktNNFd0bjI3V3VLZkQxY1BwV1FMQ3NVaXJLU2R2SHE1ZlBSVHhLd3Qwa3p5LWtNMW9yLWZxR3p6YXF1Z3loMW5odDlnUGtsenZtX19kV0c3Vg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-19T07:00:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -2232,64 +1612,12 @@
       "type": "News"
     },
     {
-      "title": "Für Ärzt:innen - Kassenärztliche Vereinigung Berlin",
-      "summary_de": "Für Ärzt:innen &nbsp;&nbsp; Kassenärztliche Vereinigung Berlin",
-      "source_name": "\"site:kvberlin.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNT0tOdFdyMW1mRURwZmZrb2VmaHRYUklHWG1XMGVsTXA2SGJ0S24wSVFZNTdSSmdZTmt5Q3g2WUxxZlpJVXUwNi16N2ZNaFEzT0Y0MkpfSE95YUUycV83MGNPRkhVdDhxV0VzNUVXbUk0OEZZOWh5QmR6RFZyLXphdE1iU0ZtekFDYjhaTl9kR2NmTDByMG5hd2h1WXFHbHhKcW9mN3JfOXdKamJ6dFJXVF95bC0wWm05QjJ6ZE9mUjBfWi1BVldHYzlDMFE2Z3diby1aTnVfUUc3clczY0RoYjA1ZTYweVNJcThwakpfbnVEZmk0UURuOUtCY1ZzaWZXXzlxT242UTROdVdLc0pMcEp4NWdxQ3dpb0xoMkkzTGFueVc5b3BKb2pmLWpTck4wRmlVQVM5SHR4S3VQbUlRUGVHT2ZSUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-16T23:28:26+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "LMU Radiologie erhält EU-weit erste Zertifizierung für den qualitätsgesicherten Einsatz von KI in der Bildgebung - idw - Informationsdienst Wissenschaft",
-      "summary_de": "LMU Radiologie erhält EU-weit erste Zertifizierung für den qualitätsgesicherten Einsatz von KI in der Bildgebung &nbsp;&nbsp; idw - Informationsdienst Wissenschaft",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zUkNZVm1DT21WVTBWUncwZ1BjTUo5TjkzcXFGSWZ0eElKOXFDOElTY0Z4cEhBLTdmWVFNNS1LUFY1LXJMY3pFcWZzTQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-16T09:40:00+00:00",
-      "category": "Radiologie",
-      "tags": [
-        "Europa"
-      ],
-      "type": "News"
-    },
-    {
-      "title": "Freital: Radiologie bekommt ein neues MRT - Sächsische Zeitung",
-      "summary_de": "Freital: Radiologie bekommt ein neues MRT &nbsp;&nbsp; Sächsische Zeitung",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT0dOVWVLZk8zYzBabUhxWVNmSnBuY2t4cXR0VlEyQWVSVWh1YW9hWmEtX0Nra0dvcDdrYUtvY2J5OEpENUhIWGpHYlRpSy1maThBdU9WWmtSVnpJSDhrNGthS0NnNDdiV2EyV2o1VTBqM2pmZFFXcjFydmJ0bnkwY216bl9GX2RjeVk1b2FOaHkyYlc1WTNBT1B5MllaWDdwUm5zNEtpdlNNc09DdWVOS2dEWlV2RU9wS2xhWlBaTWVmeGlELXprV0VERUNPdWRsUUxRYmVGWnVPNGlYQTJIcVBTd9IB_wFBVV95cUxPdEFiWGJuUmhrTVhRZzlIanQ4ZHN6QnhwRDJuR3lzQXMxNWpCTW05aVNtdnBpdXRaMlY0QmtodldGZ0Fqcjg4dFVSZGtVTnJRRVVld0RTVFB1ZzJJYmVsMVFod25RenVyNVFyTE44VXlxVXBfRklvemcwcWduNlR2V05iNkEyVXF5RHI1aElVQWRxbWhYbEZBbDlkZkJRbzNfeVJkSnhLN2VEbjN5cC1RY1BHMnE5ZzMwWThqcWVqRV9nRHJSM1B6MV9TSllHWjhWcnQ4ajJlb1ZoWDA5cTJscW43ZmtCRHJ2dlpJOHNwaUZaeGhRcWxBTUZwbDByTm8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-16T02:01:49+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheitspolitik: Sachsens Ärzte fordern Neustart der Gesundheitsreform - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Sachsens Ärzte fordern Neustart der Gesundheitsreform &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY1dNdm9EYXRaa3M3T3dYbWphU2F5dFc3OE9KYnJlVjdMenRkY2ZaNkxSbDJLcVJ5SEtmYW53RllSc0VPMHdIZ3FOSzlQNnl2SnVTR2ZDOHJBTGxTZEtGQnhGNUZvQzBjNGxEN0FBTDJfT0ZnaVdXZWtzYzNPTGVKcjBrTGRMTml6ZW9XUng1SWxhZVAw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-13T07:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "National Pregnancy in Diabetes Audit - Hybrid closed loop 2025 (01 January 2025 to 31 December 2025)",
       "summary_de": "The National Pregnancy in Diabetes (NPID) audit is part of the National Diabetes Audit (NDA) programme which is managed by NHS England. It aims to support clinical teams to deliver better care and outcomes for women with diabetes who become pregnant and has been running since 2014.This report summarises national findings on the use of hybrid closed loop (HCL) technologies …",
       "source_name": "Publication Feed",
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/national-pregnancy-in-diabetes-audit/2025",
       "published_at": "2026-06-12T08:38:03+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "GKV-Reform: Gesundheitsreform stößt im Bundestag auf großen Widerstand - DIE ZEIT",
-      "summary_de": "GKV-Reform: Gesundheitsreform stößt im Bundestag auf großen Widerstand &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaUY4NFpZbm8zVFVtdEppSmgzbTYtQnBqNFRhOXhGVU1udVRUdUlpREViaVd4ektRQXl5WDlsTGY5YTUyaDI0Ql9kM1loU2NMS2pMejZ2Z1VLQVRIRDVNaFo0c2tqakxGVkF4V29faC1TRzhiZTQyWnloUUlJUzVUVHIwZGNqcG5WM1l0akZEUUdzMnI5aFR4cWpWY0twS3BlMnc5WWpBdUwydw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-12T07:00:00+00:00",
-      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -2375,29 +1703,6 @@
       "published_at": "2026-06-11T07:55:23+00:00",
       "category": "Gesundheitspolitik",
       "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
-      "title": "EFSA confirms health concern from dietary exposure to dioxins and dioxin-like PCBs in Europe",
-      "summary_de": "Dietary exposure to dioxins and dioxin-like polychlorinated biphenyls (PCBs) continues to raise a health concern for the European population, according to a new scientific opinion from EFSA.",
-      "source_name": "EFSA | News",
-      "source_url": "https://www.efsa.europa.eu/en/news/efsa-confirms-health-concern-dietary-exposure-dioxins-and-dioxin-pcbs-europe",
-      "published_at": "2026-06-10T09:00:10+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Pressemitteilung: Bund lässt Krankenkassen zunehmend auf Kosten sitzen – Klagen wichtiger denn je",
-      "summary_de": "Auf 12 Milliarden Euro beziffert die FinanzKommission Gesundheit die Belastung der gesetzlichen Krankenversicherung durch die Ausgaben für die gesundheitliche Versorgung von Bürgergeldbeziehenden im nächsten Jahr. Mit der im GKV-Beitragssatzstabilisierungsgesetz vorgesehenen, über fünf Jahre gestreckten Anhebung der Beitragspauschalen des Bundes wird das Problem der Unterfinanzierung aber nur scheinbar angegangen.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2277696.jsp",
-      "published_at": "2026-06-10T08:22:20+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Versorgung",
         "Wirtschaft"
       ],
       "type": "News"
