@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-07-21T21:58:25.255419+00:00",
+  "generated_at": "2026-07-22T01:57:58.596631+00:00",
   "window_days": 42,
-  "count": 236,
+  "count": 238,
   "items": [
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: Sertralin TAD 100 mg Filmtabletten pU: TAD Pharma GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-07-21T14:57:11+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Pflegereform : Wie wichtig ist kultursensible Pflege?",
       "summary_de": "Mit einer Kleinen Anfrage an die Bundesregierung will die Fraktion Die Linke das Thema &raquo;kultursensible Pflege&laquo; in den Vordergrund stellen. Der Apotheker Nojan Nejatian und die Pflegerin Melisa Kalayci erkl&auml;ren, warum dieser Aspekt f&uuml;r Pflegende besonders wichtig ist.",
@@ -114,16 +124,6 @@
       "type": "News"
     },
     {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: Brevibloc 10 mg/ml Infusionsl&#246;sung pU: Baxter Deutschland GmbH",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-07-21T11:08:37+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "MHRA approves world's first lower-carbon beclometasone inhalers for patients with asthma",
       "summary_de": "The new inhalers use a next-generation propellant designed to reduce environmental impact while maintaining the same established treatment.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -222,6 +222,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/selbst-staendig-und-erfolgreich-166931/",
       "published_at": "2026-07-21T07:00:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "GKV-Gesetz: Stabile Beiträge sind gut – solange Medikamente verfügbar bleiben - FAZ",
+      "summary_de": "GKV-Gesetz: Stabile Beiträge sind gut – solange Medikamente verfügbar bleiben &nbsp;&nbsp; FAZ",
+      "source_name": "\"site:faz.net medizin\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZU9pNGpnQW1iT2MyMkxVNXJrY1NFNUd5VHVjc2JLZnFFbHJqcmQxYTB4ZU9yRWxPQmhDQWdsX29JMVN3bzU1VzRNUVI2SUw1YVBlU3k3S1ZwRlNLU2t6RnVJTjY0SXBxWnFfUXNuSXEwSVU3S2c0Q29GMWRZT3VTY0pDZDZkRGZCTC1NLTlTSW5nblc3Y0Y4WDBPOEJRSXVQckVZSUpuaU5fWE9IMDdocDVjY0ZFSUg5RkVWV2Q3cDVDb0ZId0xWU0s1aVE4VEhQVFhCNXFSbGM1czlZeHlv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-21T06:28:15+00:00",
+      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -1238,6 +1248,16 @@
       "tags": [
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Hitzeerschöpfung erkennen: Symptome & schnelle Hilfe - DAK-Gesundheit",
+      "summary_de": "Hitzeerschöpfung erkennen: Symptome & schnelle Hilfe &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QajF5WnltMnJaUzl2bHpaZ0hCSTAzWno3LVJZMm9wdm0tT3ozNFFycFhwdDZjaExVOTFhVlRTZWV1M2tqaXlVN3pYVEtlcWlVMG9ZWUpxdFNqcWQzWU1BVHpUTVhKRDNzMkZnaF8xMnVIUDBpSWFvdHFn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-13T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
