@@ -1,10 +1,140 @@
 {
-  "generated_at": "2026-07-23T11:03:38.106687+00:00",
+  "generated_at": "2026-07-23T13:39:00.280739+00:00",
   "window_days": 42,
-  "count": 220,
+  "count": 235,
   "items": [
     {
-      "title": "Titelthema Kommunikation: Die neue Ausgabe der PZ jetzt als E-Paper lesen",
+      "title": "Barmer-Umfrage: Mehrheit sieht KI in der Medizin als Chance",
+      "summary_de": "K&uuml;nstliche Intelligenz (KI) in der Medizin st&ouml;&szlig;t auf breite Zustimmung. Eine aktuelle Barmer-Umfrage zeigt jedoch auch die klaren Grenzen. Die meisten Menschen w&uuml;nschen sich, dass KI &Auml;rztinnen und &Auml;rzte unterst&uuml;tzt, sie aber nicht ersetzt. Dies teilt die Krankenkasse in einer Pressemitteilung mit.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/mehrheit-sieht-ki-in-der-medizin-als-chance-167038/",
+      "published_at": "2026-07-23T13:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Ausbruch mit zwei Toten - Legionellen-Befall in Berlin: Symptome, Häufigkeit, Gefahren - Gesundheit - SZ.de",
+      "summary_de": "Ausbruch mit zwei Toten - Legionellen-Befall in Berlin: Symptome, Häufigkeit, Gefahren - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPMlNFaGV5M2tnaFVmcVdBdFI3R2RXODktUG92ZjFobXd5MmN4S0VFZ1diNXowZUtBWUlGcWluZzhKX1JlMUdXT3owdWxjYmItTnFTYXhnWExMWG8taWxEZ1JfNFRRcUxqMzdHX3JtZGNwUTlDbjY0ZDROV05xMW56LVpxS0hYeV9Na1QtOVdpaG5yR2hfeGRKMS11QWJZM2hfT2dLYWV5UmFfa2t3OE9oUDlkRnhfdlRBSDN4TWFLSTZwRzIxSkdqeWUzc3BxbmpNUzJFOTljWVhIR19uQzhBZUR0M3NGQXRNZ21iTDl4MVNOdXBtMDRCenhjbUQ0amdF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-23T13:10:25+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Test: FAS stärkt Vor-Ort-Apotheken den Rücken",
+      "summary_de": "Die FAS hat im Juni zehn Vor-Ort-Apotheken und zehn Online-Apotheken miteinander verglichen. Das Fazit: Online ist nicht automatisch g&uuml;nstiger, und die pers&ouml;nliche Beratung bleibt ein entscheidender Vorteil der station&auml;ren Apotheken.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/fas-staerkt-vor-ort-apotheken-den-ruecken-167031/",
+      "published_at": "2026-07-23T13:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Bundesagentur für Arbeit: Gehalt in Apotheken weit unter Mittelwert",
+      "summary_de": "Die Geh&auml;lter von Apothekenangestellten liegen weiterhin deutlich unter dem bundesweiten Mediangehalt. Das geht aus aktuellen Zahlen der Bundesagentur f&uuml;r Arbeit hervor.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/gehalt-in-apotheken-weit-unter-mittelwert-167036/",
+      "published_at": "2026-07-23T13:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Guidance: Clinical investigations: compiling a submission",
+      "summary_de": "How to notify the MHRA that you are going to undertake a clinical investigation of a medical device.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/clinical-investigations-compiling-a-submission",
+      "published_at": "2026-07-23T12:43:36+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Guidance: Medical devices that need a clinical investigation",
+      "summary_de": "How to determine if you will need to undertake a clinical investigation of a medical device, or if it is exempt under the regulations.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/medical-devices-that-need-a-clinical-investigation",
+      "published_at": "2026-07-23T12:43:35+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Clinical investigations for medical devices",
+      "summary_de": "How to notify the MHRA of your intention to carry out a clinical investigation for medical devices.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/notify-mhra-about-a-clinical-investigation-for-a-medical-device",
+      "published_at": "2026-07-23T12:43:34+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Clinical investigations in Great Britain",
+      "summary_de": "How manufacturers should undertake a clinical investigation for a medical device to ensure they comply with medical device regulations.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/clinical-investigations-in-great-britain",
+      "published_at": "2026-07-23T12:43:34+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Guidance: Approving clinical investigations",
+      "summary_de": "How the MHRA decides whether to approve a clinical investigation for medical devices.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/approving-clinical-investigations",
+      "published_at": "2026-07-23T12:43:33+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Tonhöhe, Tempo, Atmung: Stimme als Stress-Sensor",
+      "summary_de": "K&ouml;rperliche Belastung und Stress ver&auml;ndern die Stimme. Doch Spracherkennungssysteme tun sich mit dem Verstehen schwer, wenn wir uns nicht unter neutralen Bedingungen &auml;u&szlig;ern. Das kann ein Problem f&uuml;r Rettungseins&auml;tze sein.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/stimme-als-stress-sensor-166911/",
+      "published_at": "2026-07-23T12:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "ABDA-Faktenblatt : Deutsche Apothekendichte unter EU-Durchschnitt",
+      "summary_de": "Die Apothekendichte in Deutschland liegt deutlich unter dem europ&auml;ischen Durchschnitt. Au&szlig;erdem gibt es in den meisten EU-Staaten ein Verbot des Rx-Versandhandels. Das sind einige der Ergebnisse eines neuen ABDA-Faktenblatts.&nbsp;&nbsp;",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/deutsche-apothekendichte-unter-eu-durchschnitt-167032/",
+      "published_at": "2026-07-23T11:30:47+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Berufspflichten Apotheker: Haftung bei Medikamentenabgabe ohne Rezept",
+      "summary_de": "Bei Abgabe von Rx-Medikamenten ohne Rezept haftet der Apotheker f&uuml;r m&ouml;gliche Gesundheitssch&auml;den des Patienten. Seine Sorgfaltspflichten erstrecken sich auch auf Fehler von Mitarbeitenden. Es bedarf deshalb wirksamer Kontrollmechanismen, wie ein aktuelles Urteil verdeutlicht.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/haftung-bei-medikamentenabgabe-ohne-rezept-166959/",
+      "published_at": "2026-07-23T11:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesetzgebungsverfahren: Karlsruhe verwirft Klage wegen Beratungszeit",
+      "summary_de": "Die Organklage&nbsp;gegen die Ausgestaltung des Gesetzgebungsverfahrens zum sogenannten Heizungsgesetz im Jahr 2023 ist ohne Erfolg &ndash; das hat das Bundesverfassungsgericht (BVerfG) jetzt entschieden. Aktuellen Bezug erhielt das Verfahren durch die Kritik am eilig durchgezogenen GKV-Spargesetz.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/karlsruhe-verwirft-klage-wegen-beratungszeit-167029/",
+      "published_at": "2026-07-23T11:05:09+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Titelschwerpunkt Kommunikation: Die neue Ausgabe der PZ jetzt als E-Paper lesen.",
       "summary_de": "Die Pharmazeutische Zeitung gibt es auch als vollwertiges E-Paper: unkompliziert, immer p&uuml;nktlich und im Rahmen des Print-Abonnements enthalten. Die neue Ausgabe ist heute erschienen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/die-neue-ausgabe-der-pz-jetzt-als-e-paper-lesen-167026/",
@@ -19,16 +149,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdV92cGUxLVpLdEdkTzctS2lOdVVHNzZMcEpKUEktajJ4b1lBZUlwYVhWWFdyNWM5RXNUNlg1Y1Z0ODljQTNNNHN6LTJBSUFjbFkyTF94cGllWEZwaW5vMWRvdmprSVhzSFNuWm5tY3VJWFFLWGs1NUFnZXFzNk5IYl9zdl93Tk9YYUpGeVpOejF0SUVmWlJaaXZrdHBORUFfSGxzREFTaGJtSk95V0d2VHMtcDVwM2IyM1JmN2dkZzMwYzZ4TXExOXdIekxVcnY0YWt3MVR3UXdkRVpyNlB4NGpNanJDbUJkZWlGUmN6VEJTdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-23T10:21:04+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "OP in Klinik: Mann bei Streit mit Messer verletzt - Verdächtiger gefasst - DIE ZEIT",
-      "summary_de": "OP in Klinik: Mann bei Streit mit Messer verletzt - Verdächtiger gefasst &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORUxoek1aeUptVTgxMGllTW02WVVEenNXN0xlVkk4UU1QdUpaZnc1dEZmNEdrbmxJQ2lSeGRtalRZTElCdXl1Z3JFUUxFRlBVUjA0X3N1dlY2ZG9XTDBvci0zQ2c2ZzJJLXFtZGtRZENlR1JYU3BSVEVxTjFCU2R0d1RFV2dydlkzSExTWW9mOEk5NVRyaVVnXw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-23T10:06:06+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -74,26 +194,6 @@
       "type": "News"
     },
     {
-      "title": "Mordprozess: Arzt soll Patienten getötet haben – Vorwürfe «absurd» - DIE ZEIT",
-      "summary_de": "Mordprozess: Arzt soll Patienten getötet haben – Vorwürfe «absurd» &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaG9Ga0xIdll4akpzc2RTd2xBVlhfWlJVQXpCZGRvVEhGVWJNa25CcDhRWVRFQ2p4WWdnVXo0LVFlQkdjWWNCYS1MNURwWnVHTW1SZFhxWXdXVVp6OU1rdDBNWG52a014RGFNVlF2am4tamxqRTk2ekRtZm1kNEE2a3dxTHZzbEN2X3dkQlJwWk0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-23T09:23:25+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Mordprozess - Arzt soll Patienten getötet haben – Vorwürfe „absurd“ - Panorama - SZ.de",
-      "summary_de": "Mordprozess - Arzt soll Patienten getötet haben – Vorwürfe „absurd“ - Panorama &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcUNEaFNfbHRURVN4eWJiVmNZOGpTVmJOV1g3YjV1YTN2YVRqLVlwbzZKT0pfTlRFVXgyY2hxNmdiNmZOREZ6X0tJcUQ3SjE3dS1ldWc1bG5INWVnQ2pMWmRoM3NBNG1MSExoWTZBckRjTy0yLUJ5TUpJZ3JLRDRLLTNYTmNiT1pwUlJmd01jRWtmSWhxZVI2Z3Azd3FWdDAtd1pDSmIzNmp0YU8zdkRkaThIT2FIQ2N6SjdkRmFnMUpMclZ5T3llME0xakV6aFVSSFZZMl9FMk8zb0RmdEFhdnMyLVg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-23T09:23:25+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
       "summary_de": "Typ: Endemeldung Arzneimittel: L-Thyroxin Henning 125 pU: Sanofi-Aventis Deutschland GmbH",
       "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
@@ -110,16 +210,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/laenger-leben-laenger-krank-167013/",
       "published_at": "2026-07-23T09:00:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Brand in Thüringer Klinik: Ermittler nennen Ursache - tagesschau.de",
-      "summary_de": "Brand in Thüringer Klinik: Ermittler nennen Ursache &nbsp;&nbsp; tagesschau.de",
-      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZjBDdTlrVmxkakh3N185N2w0ejYwbVBIS1BBamlwb0p4VmY2NWZ4QUVEYkhEbFZWcDdSQzhITV9DbmsxMVJQSzItVEFXdzhuWGlWN09NRkpMUE1aSWE1NTUwRE5KTWFsV1NoY090TFg4WERad204eE5YWXdGNVlRUHBYVVZkNFE3elhFN05JNC00WHAwaU5rdDB2TzFOVUNCOUJZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-23T08:51:25+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -214,6 +304,18 @@
       "type": "News"
     },
     {
+      "title": "Pressemitteilung: Gemischtes Zwischenfazit nach zwei Jahren Blankoverordnung in der Ergotherapie",
+      "summary_de": "Zum 1. April 2024 wurde die Heilmittelversorgung mit erweiterter Versorgungsverantwortung nach § 125a SGB V (kurz Blankoverordnung) in der Ergotherapie eingeführt. Nach zwei Jahren Praxiserfahrung mit der Blankoverordnung liegt nun der erste Zwischenbericht zu dieser neuen Versorgungsform vor. Das Zwischenfazit fällt gemischt aus.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2293056.jsp",
+      "published_at": "2026-07-23T06:26:51+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "Bei Gefahr: Pferde haben ein Pokerface",
       "summary_de": "Pferde sind Fluchttiere &ndash; bei Gefahr laufen sie schnell weg. Forschende waren daher &uuml;berrascht, als sie herausfanden, dass die Tiere in Gefahrensituationen trotz innerer Anspannung ein Pokerface zeigen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -237,7 +339,7 @@
       "title": "Medizin-Wunder: Wie Therapien bei Autoimmunleiden helfen - FAZ",
       "summary_de": "Medizin-Wunder: Wie Therapien bei Autoimmunleiden helfen &nbsp;&nbsp; FAZ",
       "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcnBUUC0xN0ZCZ3VZaFNybnVSaC1pdDVjMkpDSjA4VTlHbFRpWU0xMTlwd3VrbnRyRVB5RkdCVWlNaTFzaUZFYVhhZXZQQUFyOVlqNFphdWROeWo4VjBmYTB6UmRBeFRZZHhSb19kdnduSnlhWXp1OGcyNmtDeFJZVWVGQmk2SWVveWpfVEtPWFlFaUtTYS0yNlRaVXRGN0luTXRYY01GWkZjV1VKNmptdUhyZUpmd1RHX1hYc1U2Mk8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRFFmXzVOenV1UlVOM1RpekFNWHpoZUJYVjBMT0R0VGwzUkFlc2tIaGdfNTlBU0tCOGFUZHZKNXhPY0xSbV81S0VuS19UaWxGcUEya3dEZTVKUkVoMGVfclFPQ20zZmlqUjRBWnZaQWJZdm5RdklQTGhLT1NBcnZsOHh4WHJUQWU4d0JUb0RLM3FSZnBicnNfYlNLWEVHc095NkpQTW9ZY0VXTk9LOWdOVkpPb190dmd3MEVZVkpCRlhiQVZPZHRTaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-23T03:59:23+00:00",
       "category": "News",
       "tags": [],
@@ -464,20 +566,20 @@
       "type": "News"
     },
     {
-      "title": "Kommentar: Top, die Pille gilt!",
-      "summary_de": "Wer braucht heute noch einen Health Claim, wenn Marketing die Botschaft auch ohne Worte transportiert? Bill Kaulitz und sein BillPill&trade; Recovery sind bestes Beispiel daf&uuml;r. Ein Kommentar.",
+      "title": "Entspannungstrend: Junge Menschen zieht es ins Bett",
+      "summary_de": "Gegen den Alltagsstress einfach mal rumgammeln &ndash; und zwar im Liegen. &raquo;Bed Rotting&laquo; nennt sich der Tiktok-Trend, der bei jungen Menschen beliebt ist. Experten sehen diese Form der Auszeit aber kritisch.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/top-die-pille-gilt-166996/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/junge-menschen-zieht-es-ins-bett-166961/",
       "published_at": "2026-07-22T12:30:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Entspannungstrend: Junge Menschen zieht es ins Bett",
-      "summary_de": "Gegen den Alltagsstress einfach mal rumgammeln &ndash; und zwar im Liegen. &raquo;Bed Rotting&laquo; nennt sich der Tiktok-Trend, der bei jungen Menschen beliebt ist. Experten sehen diese Form der Auszeit aber kritisch.",
+      "title": "Kommentar: Top, die Pille gilt!",
+      "summary_de": "Wer braucht heute noch einen Health Claim, wenn Marketing die Botschaft auch ohne Worte transportiert? Bill Kaulitz und sein BillPill&trade; Recovery sind bestes Beispiel daf&uuml;r. Ein Kommentar.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/junge-menschen-zieht-es-ins-bett-166961/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/top-die-pille-gilt-166996/",
       "published_at": "2026-07-22T12:30:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
@@ -524,16 +626,6 @@
       "type": "News"
     },
     {
-      "title": "»Letter of Intent«: DAV und ADAS treiben ePA voran",
-      "summary_de": "Die Apotheken und die Anbieter von Apotheken-Softwaresystemen wollen gemeinsam die elektronische Patientenakte (ePA) f&uuml;r die Nutzung in den Apotheken intuitiver und effizienter gestalten.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/dav-und-adas-treiben-epa-voran-166995/",
-      "published_at": "2026-07-22T09:55:08+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Infektion mit Parasiten - Über 4.000 bestätigte Fälle bei Durchfallwelle in den USA - Gesundheit - SZ.de",
       "summary_de": "Infektion mit Parasiten - Über 4.000 bestätigte Fälle bei Durchfallwelle in den USA - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -564,36 +656,6 @@
       "type": "News"
     },
     {
-      "title": "Versandapotheke: Sanicare ist insolvent",
-      "summary_de": "Die Versandapotheke Sanicare mit Sitz im nieders&auml;chsischen Bad Laer ist insolvent. Die Gesch&auml;ftsf&uuml;hrung der Betreibergesellschaft BS Apotheken OHG bleibt aber selbst am Steuer und will den Sanierungskurs unter Aufsicht fortsetzen.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/sanicare-ist-insolvent-166968/",
-      "published_at": "2026-07-22T08:56:15+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Türkei: Der Apotheker, der Erdogan herausfordert",
-      "summary_de": "Er wurde als Chef der gr&ouml;&szlig;ten Oppositionspartei CHP abgesetzt, viele Weggef&auml;hrten sind in Haft. Nun gr&uuml;ndet &Ouml;zg&uuml;r &Ouml;zel eine neue Partei. Kann der&nbsp;Apotheker damit Erfolg haben?",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/der-apotheker-der-erdogan-herausfordert-166966/",
-      "published_at": "2026-07-22T08:30:28+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Häufige Arzneistoffe: Steckbrief Cyanocobalamin",
-      "summary_de": "Im Vergleich zu anderen Vitaminen f&auml;llt Cyanocobalamin (Vitamin B 12 ) durch seine au&szlig;ergew&ouml;hnliche Struktur, einen Corrin-Ring mit zentralem Cobalt-Atom, aus dem Rahmen. Zudem wartet es mit vielf&auml;ltigen Funktionen auf.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/steckbrief-cyanocobalamin-166812/",
-      "published_at": "2026-07-22T08:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Krankenhausreform - Minister hält weitere Schließungen bei Kliniken für möglich - Gesundheit - SZ.de",
       "summary_de": "Krankenhausreform - Minister hält weitere Schließungen bei Kliniken für möglich - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -610,36 +672,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOREc4MnRwbmdHbGRPSGVfaGpXYmZKdllvMnlsYXl4dS1VOWNtQ1dfS24zWC1Jck51WVhaS2ZrYi1oMnVwRE1xbXFjTGg3ZVJUWEgzQkdlMmxaS0hYdFhkbG45dW1vQUFHNEZvNUNuWk5vb1dTU21XZkhuaGVURzVIZGd2eWEyNTZQOUgwZWdzQzZvd1Vyc1pzRU5USVRpeU1DM2F4blNsazNQcEVUaHRsd2hrdVdhdldXcDFkSHBNRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-22T07:17:30+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Ab Sommer 2028: Trump droht mit 100-Prozent-Zöllen auf Generika",
-      "summary_de": "US-Pr&auml;sident Donald Trump hat schon l&auml;nger die Pharmabranche im Ausland im Visier. Er will, dass Medikamente in den USA produziert werden. Sein Druckmittel sind einmal mehr: Z&ouml;lle. Nun sollen sie Generika treffen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/trump-droht-mit-100-prozent-zoellen-auf-generika-166962/",
-      "published_at": "2026-07-22T07:05:09+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Orientierungsprobleme: Leben ohne innere Landkarte",
-      "summary_de": "Die F&auml;higkeit, die Welt zu kartografieren, erscheint selbstverst&auml;ndlich &ndash; ist sie aber nicht. Manche Menschen k&ouml;nnen Orientierungspunkte aus ihrer Umgebung nicht zu einem Gesamtbild zusammenf&uuml;gen. Doch das l&auml;sst sich trainieren.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/leben-ohne-innere-landkarte-166878/",
-      "published_at": "2026-07-22T07:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Jogger-Schienbein: Was tun bei Schmerzen nach dem Laufen?",
-      "summary_de": "Gr&uuml;&szlig;t nach dem Joggen das Schienbein, hat man es wahrscheinlich &uuml;bertrieben. Ein Sportmediziner verr&auml;t, wie es f&uuml;r Hobby-Sportlerinnen und -Sportler besser l&auml;uft.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/was-tun-bei-schmerzen-nach-dem-laufen-166957/",
-      "published_at": "2026-07-22T05:00:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -744,6 +776,18 @@
       "type": "News"
     },
     {
+      "title": "Pressemitteilung: Zufriedenheit mit Pflegeberatung gestiegen",
+      "summary_de": "Rund 87 Prozent der Versicherten sind mit der Pflegeberatung ihrer Pflegekasse zufrieden. Das geht aus dem Bericht zur Evaluation der Pflegeberatung des IGES-Instituts im Auftrag des GKV-Spitzenverbandes hervor. Im Vergleich zur letzten Erhebung aus dem Jahr 2023 ist das ein Anstieg der Zufriedenheit um fast 5 Prozent. Die Pflegekassen bieten demnach ein verlässliches und qualitativ hochwertiges Beratungsangebot an, das von …",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2292352.jsp",
+      "published_at": "2026-07-21T07:44:45+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "GKV-Gesetz: Warum stabile Krankenkassenbeiträge Medikamente gefährden könnten - FAZ",
       "summary_de": "GKV-Gesetz: Warum stabile Krankenkassenbeiträge Medikamente gefährden könnten &nbsp;&nbsp; FAZ",
       "source_name": "\"site:faz.net medizin\" - Google News",
@@ -791,6 +835,18 @@
       "published_at": "2026-07-20T13:01:18+00:00",
       "category": "Europa",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Meldung: Stabilisierung, aber kein Spielraum für Abschwächungen",
+      "summary_de": "Das Sparpaket der Bundesregierung für die Gesundheitsausgaben ist beschlossen - doch wie sicher ist jetzt auch der Schutz vor höheren Beiträgen? Der GKV-Spitzenverband sieht eine Stabilisierung erreicht, aber keinen Spielraum mehr für Abschwächungen. „Wir haben jetzt eine solide Grundlage dafür, dass die Krankenkassenbeiträge in den kommenden zwei Jahren insgesamt stabil bleiben können“, erläuterte Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes gegenüber der …",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2292096.jsp",
+      "published_at": "2026-07-20T08:54:47+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -851,6 +907,16 @@
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONno5eWduWFZxYkZNcm9EZFlMVmEyZ1hycHFHcEc4cUxTX3o4ZVVPb0E5c3RRb2xfb3ZDem0ybWMwWl91YzhxZzBuR25QUS15a0REZDlBaXBsOGFwX29nTEZLUEpTdmVmRE5oX2hacGdwbTdzck8yZ19LeFZIVmdOMzNCbmdQNkhiSThmeWRvQkEtcmtUSDFZUHR2S3FHUHJ5TzVOdnVyUUU2S09rNjlfbUxxUEE4aVMzb2Rrb3ZNSkNyUlFiaGJUaTBmRVZjRC1oSlNJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-20T02:20:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Seltene Krankheit - 125 Mpox-Fälle in Berlin - Amt rät zur Impfung - Gesundheit - SZ.de",
+      "summary_de": "Seltene Krankheit - 125 Mpox-Fälle in Berlin - Amt rät zur Impfung - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNHJJX3ZzTUVnTFdINEx5MGhqSTFKeWxSMW9oU3B1TGZxOU1QWUNqVVloNU9FYUMtdmszaXZwZERoOHN1QTAtZDNOVE1GNFFNWkNQYXl3QkxOMF9TYTNhX3dPd1ZqREx1TmJnd3FRNDZ5QlE2dDVGLUNmdERsSGlnbDNXM1E2N3NhamRaZnNFUjg2ZjRRVFBSTkRSaklzT1I2dGxIdmtjaFhsci1DNnN6RFZTY2QxVWJabXdHSnV6Tm5xYktWWWpnakc2Um9qTzNpcjA3MzJ5SDNEbmJtNmV5cy1KYndPeHA5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-19T10:01:43+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1006,16 +1072,6 @@
       "type": "News"
     },
     {
-      "title": "Guidance: AI Airlock Sandbox Phase 2 Programme Report",
-      "summary_de": "The MHRA’s AI Airlock second phase ran between April 2025 and May 2026. This report does not constitute formal MHRA guidance.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/ai-airlock-sandbox-phase-2-programme-report",
-      "published_at": "2026-07-17T10:11:27+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Meeting highlights from the Committee for Veterinary Medicinal Products (CVMP) 14-16 July 2026",
       "summary_de": "CVMP opinions on veterinary medicinal products&nbsp;The Committee adopted a positive opinion for a marketing authorisation for Bexatil&nbsp;for the reduction of hyperglycaemia in cats…",
       "source_name": "News and press releases",
@@ -1126,16 +1182,6 @@
       "type": "News"
     },
     {
-      "title": "MHRA delivers record performance as 2025-26 Annual Report and Accounts confirms growing global influence",
-      "summary_de": "The Medicines and Healthcare products Regulatory Agency (MHRA) has published its 2025–26 Annual Report and Accounts highlighting a year of strong and consistent delivery as set out in the agency’s first Results and Forecast report earlier this year.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/mhra-delivers-record-performance-as-2025-26-annual-report-and-accounts-confirms-growing-global-influence",
-      "published_at": "2026-07-16T10:58:51+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Statistics on people with a learning disability and autistic people in mental health hospitals, AT: June 2026, MHSDS: May 2026",
       "summary_de": "Latest monthly statistics on people with a learning disability and autistic people in inpatient services from the Assuring Transformation (AT) collection and Mental Health Services Data Set (MHSDS).Data on inpatients with learning disabilities and/or autism are being collected both within the AT collection and MHSDS. There are differences in the inpatient figures between the AT and MHSDS data sets and …",
       "source_name": "Publication Feed",
@@ -1176,45 +1222,15 @@
       "type": "News"
     },
     {
-      "title": "Krankenkasse für ein gesünderes Leben | BARMER - Barmer",
-      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; Barmer",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-16T06:46:46+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Updated warnings for botulinum toxin products following rare cases of botulism",
-      "summary_de": "The MHRA is strengthening safety warnings for all botulinum toxin type A products, following reports of rare cases of botulism linked to their use.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/updated-warnings-for-botulinum-toxin-products-following-rare-cases-of-botulism",
-      "published_at": "2026-07-15T13:52:16+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Clinical trials for medicines: ending a clinical trial",
-      "summary_de": "Guidance on the process for ending a clinical trial.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-ending-a-clinical-trial",
-      "published_at": "2026-07-15T13:50:10+00:00",
-      "category": "Studie",
+      "title": "gemeinsame Pressemitteilung: Bundesländer finanzieren Investitionen der Krankenhäuser nicht ausreichend",
+      "summary_de": "Den Krankenhäusern in Deutschland fehlen in diesem Jahr rund vier Milliarden Euro für Investitionen, um ihren Bestand erhalten zu können. Für diese Kosten müssen eigentlich in voller Höhe die Bundesländer aufkommen, so sieht es das duale System der Krankenhausfinanzierung vor: Während die gesetzliche (GKV) und die private Krankenversicherung (PKV) die Kosten für den laufenden Betrieb der Krankenhäuser übernehmen, sind die …",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2291299.jsp",
+      "published_at": "2026-07-16T06:21:33+00:00",
+      "category": "Gesundheitspolitik",
       "tags": [
-        "Europa"
+        "Wirtschaft"
       ],
-      "type": "Studie"
-    },
-    {
-      "title": "UK-donor plasma given go-ahead for new medicines",
-      "summary_de": "Medicines and Healthcare products Regulatory Agency (MHRA) has approved the use of UK‑donor plasma for five high‑priority plasma-derived medicinal products.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/mhra-safety-review-gives-uk-plasma-donations-go-ahead",
-      "published_at": "2026-07-15T13:38:24+00:00",
-      "category": "Europa",
-      "tags": [],
       "type": "News"
     },
     {
@@ -1288,6 +1304,19 @@
       "type": "News"
     },
     {
+      "title": "Pressemitteilung: Digitalisierung muss Versorgung verbessern",
+      "summary_de": "Der GKV-Spitzenverband begrüßt die Verabschiedung des Gesetzes für Daten und digitale Innovationen im Gesundheitswesen (GeDIG) im Bundeskabinett. Mit dem GeDIG wird ein wichtiger Perspektivwechsel vollzogen: Digitale Infrastruktur, Datennutzung und konkrete Versorgungsprozesse sollen künftig enger miteinander verzahnt werden. Der Gesetzentwurf setzt damit wichtige Impulse, um die Digitalisierung stärker auf den konkreten Nutzen für Versicherte und deren Versorgung auszurichten.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2291107.jsp",
+      "published_at": "2026-07-15T07:18:01+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "Multiple Sklerose: Die Krankheit der tausend Gesichter - SPIEGEL TV für Arte Re - Spiegel",
       "summary_de": "Multiple Sklerose: Die Krankheit der tausend Gesichter - SPIEGEL TV für Arte Re &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
@@ -1335,6 +1364,18 @@
       "published_at": "2026-07-14T07:00:00+00:00",
       "category": "News",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pressemitteilung: Datengestützte Prävention wirkt",
+      "summary_de": "Die gesetzlichen Kranken- und Pflegekassen erreichen mit datengestützten Präventionsmaßnahmen immer mehr Versicherte – mit messbarem Erfolg: Bislang wurden rund 1,5 Millionen Menschen gezielt auf individuelle Gesundheitsrisiken wie fehlende Impfungen oder Vorsorgeuntersuchungen hingewiesen. Etwa 110.000 von ihnen nahmen daraufhin konkrete Versorgungsangebote in Anspruch.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2290915.jsp",
+      "published_at": "2026-07-14T06:51:18+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -1387,6 +1428,18 @@
       "published_at": "2026-07-13T13:17:11+00:00",
       "category": "Versorgung",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pressemitteilung: Geschäftsbericht 2025: GKV-Spitzenverband macht sich weiter für Reformen stark",
+      "summary_de": "Das Gesundheitswesen steht unter Druck. Effizienter, digitaler und vernetzter muss es werden, um auch künftig rund 75 Millionen Versicherte gut zu versorgen. Der GKV-Spitzenverband wird nicht müde, für das Gesundheitssystem neue Konzepte zu entwickeln und tiefgreifende Reformen voranzutreiben. Das veranschaulicht unser Geschäftsbericht für das Jahr 2025, der nun online abrufbar ist.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2290496.jsp",
+      "published_at": "2026-07-13T08:55:25+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -1520,6 +1573,18 @@
       "type": "News"
     },
     {
+      "title": "Pressemitteilung: Gemeinsam für mehr Gesundheit",
+      "summary_de": "Mit seiner heutigen Entscheidung hat der Bundestag den Weg für insgesamt stabile Beitragssätze in der gesetzlichen Krankenversicherung geebnet. Das ist ein gutes Signal für 75 Millionen gesetzlich Versicherte und deren Arbeitgebende. Jetzt kommt es darauf an, dass die Beschlüsse von allen Akteuren im Gesundheitswesen zügig und konstruktiv umgesetzt werden.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2289856.jsp",
+      "published_at": "2026-07-10T07:17:50+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "GKV-Spargesetz: Das sind die fünf größten Streitpunkte der Krankenkassenreform - DIE ZEIT",
       "summary_de": "GKV-Spargesetz: Das sind die fünf größten Streitpunkte der Krankenkassenreform &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
@@ -1547,6 +1612,18 @@
       "published_at": "2026-07-10T07:00:00+00:00",
       "category": "Radiologie",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pressemitteilung: Notfallreform soll zentrale Anlaufstellen und passgenaue Hilfe ermöglichen",
+      "summary_de": "In der Notfallversorgung soll künftig die Arbeit von Notaufnahmen der Krankenhäuser, des vertragsärztlichen Notdienstes und der Rettungsdienste besser aufeinander abgestimmt sein. Das ist eines der zentralen Ziele der Reform, die das Bundeskabinett im April dieses Jahres beschlossen hat. Für heute ist die erste Lesung im Bundestag geplant.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2289600.jsp",
+      "published_at": "2026-07-09T15:26:38+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -1680,6 +1757,18 @@
       "type": "News"
     },
     {
+      "title": "gemeinsame Pressemitteilung: GKV und PKV fördern Krankenhäuser auf dem Land mit gut 79 Millionen Euro",
+      "summary_de": "Im kommenden Jahr erhalten 128 Krankenhäuser zusätzliches Geld, um die wohnortnahe Basisversorgung im ländlichen Raum zu sichern. Insgesamt sind dafür 79,25 Millionen Euro vorgesehen, die aus den Töpfen der gesetzlichen Krankenkassen (GKV) und der privaten Krankenversicherung gezahlt werden. Die Förderung für bedarfsnotwendige Krankenhäuser geht damit bereits ins achte Auszahlungsjahr. Es handelt sich um pauschale Zuschläge, die zur regulären Finanzierung der …",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2289123.jsp",
+      "published_at": "2026-07-08T06:24:44+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "EMA fast tracks review of a medicine for metastatic pancreatic cancer",
       "summary_de": "EMA’s human medicines committee (CHMP) has started a phased review of data on daraxonrasib, a medicine intended for the treatment of metastatic pancreatic cancer. A phased…",
       "source_name": "News and press releases",
@@ -1741,6 +1830,31 @@
       "published_at": "2026-07-06T13:39:51+00:00",
       "category": "Europa",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pressemitteilung: Kurs halten, denn stabile Beiträge nur bei konsequenter Reform möglich",
+      "summary_de": "„Die jetzt bekanntgewordenen Änderungen an der Finanzierungsreform weisen in die richtige Richtung, denn der Anstieg der Zuzahlungen wird leicht begrenzt, der Bund leistet etwas mehr für die Finanzierung der gesundheitlichen Versorgung von Grundsicherungsbeziehenden und insgesamt leisten alle Bereiche im Gesundheitswesen einen Sparbeitrag. Aber ob damit die Beiträge stabil bleiben können, ist noch nicht gesichert\", so Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes …",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2288704.jsp",
+      "published_at": "2026-07-06T09:57:40+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Meldung: Dann fliegen uns die Finanzen um die Ohren",
+      "summary_de": "„In den ersten Monaten des Jahres sind die Ausgaben der Krankenkassen doppelt so schnell gestiegen wie die Einnahmen. Wenn nicht schnell und entschlossen gehandelt wird, dann fliegen uns zum Jahreswechsel die Finanzen um die Ohren“, betonte Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, im Gespräch mit der Neuen Osnabrücker (NOZ) Zeitung.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2288640.jsp",
+      "published_at": "2026-07-06T08:09:23+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -1861,6 +1975,18 @@
       "published_at": "2026-07-02T07:00:00+00:00",
       "category": "Radiologie",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pressemitteilung: Präventionskurse tragen zu gesundem Lebensstil bei, erreichen aber noch nicht alle",
+      "summary_de": "Ob Rücken-, Beckenboden- oder Ganzkörper-Training – die von den gesetzlichen Krankenkassen geförderten Präventionskurse tragen nachhaltig zu gesünderen Gewohnheiten im Alltag bei. Zu diesem Ergebnis kommt eine Evaluation des BQS Instituts für Qualität & Patientensicherheit. Es hat im Auftrag des GKV-Spitzenverbands 172 Angebote untersucht, die sich gezielt mit Bewegungsgewohnheiten auseinandersetzen.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2287424.jsp",
+      "published_at": "2026-07-02T06:24:57+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -2014,6 +2140,18 @@
       "type": "News"
     },
     {
+      "title": "Pressemitteilung: Unwuchten zulasten der Beitragszahlenden korrigieren, einnahmenorientierte Ausgabenpolitik konsequent umsetzen!",
+      "summary_de": "Mit Blick auf die abschließenden Beratungen des Deutschen Bundestages zu dem Gesetzentwurf des GKV-Beitragssatzstabilisierungsgesetzes im Juli 2026 erklärt der Verwaltungsrat des GKV- Spitzenverbandes: Unbestreitbar braucht es jetzt eine nachhaltige Reform zur Stabilisierung der Beitragssätze der GKV. Die 75 Millionen gesetzlich Versicherten und ihre Arbeitgeber werden allein in den Jahren 2025 und 2026 zusätzliche Ausgaben im Umfang von rund 50 Milliarden …",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2285409.jsp",
+      "published_at": "2026-06-25T10:12:23+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "5th European Conference on Xylella fastidiosa: science drives progress towards sustainable management",
       "summary_de": "The 5 th European Conference on&nbsp; Xylella fastidiosa &nbsp;concluded today in Mola di Bari, Italy,&nbsp;confirming that research on one of the world's most damaging plant pathogens has reached a new level of maturity.",
       "source_name": "EFSA | News",
@@ -2066,6 +2204,19 @@
       "type": "News"
     },
     {
+      "title": "Pressemitteilung: GKV-Tag: 370 Milliarden Euro für gute Versorgung",
+      "summary_de": "Tag für Tag ermöglichen die gesetzlichen Krankenkassen die medizinische Versorgung der rund 75 Millionen gesetzlich Versicherten. Damit dies so bleiben kann, braucht es kurzfristig ein durchgreifendes Sparpaket und mittelfristig Strukturreformen.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2284608.jsp",
+      "published_at": "2026-06-23T05:25:05+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "Primary Care Workforce Recruited through the Additional Roles Reimbursement Scheme (ARRS), 1 October 2024 – 31 May 2026 [Management Information]",
       "summary_de": "Additional funding of £82 million was announced in August 2024 to support the inclusion of recently qualified GPs in the Additional Roles Reimbursement Scheme (ARRS) for 2024/25 with funding only available for GPs who had qualified within the last 2 years. As a result, the primary care network directed enhanced service (PCN DES) was amended for 2024/25 to expand the …",
       "source_name": "Publication Feed",
@@ -2073,6 +2224,18 @@
       "published_at": "2026-06-22T15:28:55+00:00",
       "category": "Europa",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Meldung: Sinkende Beitragssätze bei gleichbleibender Versorgungsqualität wären möglich",
+      "summary_de": "Anlässlich der öffentlichen Anhörung im Gesundheitsausschuss zum GKV- Beitragssatzstabilisierungsgesetz äußerten sich von Seiten des GKV-Spitzenverbandes Dr. Susanne Wagenmann, amtierende Verwaltungsratsvorsitzende und Arbeitgebervertreterin, gegenüber der Wirtschaftswoche sowie Oliver Blatt, Vorstandsvorsitzender, gegenüber der Rheinischen Post. Beide mahnen deutlich höhere Einsparungen an und warnen vor einer Verwässerung der Reform und falsche Zugeständnisse an die Pharmaindustrie.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2284577.jsp",
+      "published_at": "2026-06-22T11:23:48+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -2093,6 +2256,31 @@
       "published_at": "2026-06-19T07:00:00+00:00",
       "category": "Radiologie",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "gemeinsame Pressemitteilung: Gemeinsamer Bundesausschuss verabschiedet Josef Hecken",
+      "summary_de": "Die heutige Plenumssitzung des Gemeinsamen Bundesauschusses (G-BA) ist die letzte gewesen, die er geleitet hat: Professor Josef Hecken beendet auf eigenen Wunsch seine Tätigkeit als unparteiischer Vorsitzender des G-BA zum 30. Juni 2026. Der 1959 in Neuwied geborene Jurist bekleidete dieses Amt seit Juli 2012.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2282880.jsp",
+      "published_at": "2026-06-18T12:25:50+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Pressemitteilung: Bessere Versorgung bei Magenkrebs",
+      "summary_de": "Der Gemeinsame Bundesausschuss hat auf Antrag des GKV-Spitzenverbandes eine Mindestmenge für die Operation von Magenkrebs beschlossen. Damit wird künftig sichergestellt, dass nur Kliniken diesen komplexen und anspruchsvollen Eingriff durchführen werden, die die erforderliche Expertise und Erfahrung für den Eingriff nachweisen können.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2283776.jsp",
+      "published_at": "2026-06-18T11:09:53+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -2198,22 +2386,24 @@
       "type": "News"
     },
     {
+      "title": "Pressemitteilung: Reformdruck nimmt zu – Lasten gerecht verteilen",
+      "summary_de": "„Es ist dringend notwendig, dass die Reform jetzt zügig durch den Gesetzgebungsprozess kommt. Denn die gesetzliche Krankenversicherung braucht die darin vorgesehenen Einsparungen, um die 75 Millionen Versicherten im nächsten Jahr ohne erneute Beitragssatzerhöhungen gut versorgen zu können\", erklärt Stefanie Stoff-Ahnis.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2279631.jsp",
+      "published_at": "2026-06-12T05:49:05+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "Gesundheitsberater/-in mit Schwerpunkt Praxisbetreuung (m/w/d) - DAK-Gesundheit",
       "summary_de": "Gesundheitsberater/-in mit Schwerpunkt Praxisbetreuung (m/w/d) &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS2o1Z2tnenJDRlNOTkdoalZra1ltaTNiYVg4OC1UUzF3VHhoNW1Zeko2LWZGd0RzYVVwdUxOa3djOV9ZTzFONnZlcTNCTnZ5NHkwSVVONHpmOXczT25LazdPM1huUlZYdnJNSlBoUWNPbXRqRWtuVnlUOVlNR2Z6enk3WWJxS0RtTHRCV0x1ZVFXTjVsV05SRUh2U1BFTXBOZGpDQ2xxR2ZtUEpVa05FLUFyVzl4MW1hdWw1OQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-11T23:50:47+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Network Contract DES (MI) - May 2026",
-      "summary_de": "A framework for GP contract reform to implement The NHS Long Term Plan published in January 2019 which describes significant investment in Primary Care Networks (PCNs) through the Network Contract Directed Enhanced Service (DES). The eighth year of the Network Contract DES began in April 2026. The data provides information to allow effective management of the contract. The indicators are …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-network-contract-des/england-may-2026",
-      "published_at": "2026-06-11T12:41:28+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     }
