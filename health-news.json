@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-07-25T05:36:05.634045+00:00",
+  "generated_at": "2026-07-25T07:54:23.170070+00:00",
   "window_days": 42,
-  "count": 236,
+  "count": 232,
   "items": [
+    {
+      "title": "PZ Briefing: Die Top-News der Woche",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-der-woche-167067/",
+      "published_at": "2026-07-25T07:00:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Gesundheit: Krankenstand in Niedersachsen sinkt - Krankheitsdauer steigt - DIE ZEIT",
       "summary_de": "Gesundheit: Krankenstand in Niedersachsen sinkt - Krankheitsdauer steigt &nbsp;&nbsp; DIE ZEIT",
@@ -508,20 +518,20 @@
       "type": "News"
     },
     {
-      "title": "Bundesagentur für Arbeit: Gehalt in Apotheken weit unter Mittelwert",
-      "summary_de": "Die Geh&auml;lter von Apothekenangestellten liegen weiterhin deutlich unter dem bundesweiten Mediangehalt. Das geht aus aktuellen Zahlen der Bundesagentur f&uuml;r Arbeit hervor.",
+      "title": "Test: FAS stärkt Vor-Ort-Apotheken den Rücken",
+      "summary_de": "Die FAS hat im Juni zehn Vor-Ort-Apotheken und zehn Online-Apotheken miteinander verglichen. Das Fazit: Online ist nicht automatisch g&uuml;nstiger, und die pers&ouml;nliche Beratung bleibt ein entscheidender Vorteil der station&auml;ren Apotheken.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/gehalt-in-apotheken-weit-unter-mittelwert-167036/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/fas-staerkt-vor-ort-apotheken-den-ruecken-167031/",
       "published_at": "2026-07-23T13:00:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Test: FAS stärkt Vor-Ort-Apotheken den Rücken",
-      "summary_de": "Die FAS hat im Juni zehn Vor-Ort-Apotheken und zehn Online-Apotheken miteinander verglichen. Das Fazit: Online ist nicht automatisch g&uuml;nstiger, und die pers&ouml;nliche Beratung bleibt ein entscheidender Vorteil der station&auml;ren Apotheken.",
+      "title": "Bundesagentur für Arbeit: Gehalt in Apotheken weit unter Mittelwert",
+      "summary_de": "Die Geh&auml;lter von Apothekenangestellten liegen weiterhin deutlich unter dem bundesweiten Mediangehalt. Das geht aus aktuellen Zahlen der Bundesagentur f&uuml;r Arbeit hervor.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/fas-staerkt-vor-ort-apotheken-den-ruecken-167031/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/gehalt-in-apotheken-weit-unter-mittelwert-167036/",
       "published_at": "2026-07-23T13:00:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
@@ -604,26 +614,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/haftung-bei-medikamentenabgabe-ohne-rezept-166959/",
       "published_at": "2026-07-23T11:30:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesetzgebungsverfahren: Karlsruhe verwirft Klage wegen Beratungszeit",
-      "summary_de": "Die Organklage&nbsp;gegen die Ausgestaltung des Gesetzgebungsverfahrens zum sogenannten Heizungsgesetz im Jahr 2023 ist ohne Erfolg &ndash; das hat das Bundesverfassungsgericht (BVerfG) jetzt entschieden. Aktuellen Bezug erhielt das Verfahren durch die Kritik am eilig durchgezogenen GKV-Spargesetz.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/karlsruhe-verwirft-klage-wegen-beratungszeit-167029/",
-      "published_at": "2026-07-23T11:05:09+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Nach Teil-Legalisierung - Mehr Menschen kommen wegen Cannabis ins Krankenhaus - Wissen - SZ.de",
-      "summary_de": "Nach Teil-Legalisierung - Mehr Menschen kommen wegen Cannabis ins Krankenhaus - Wissen &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdV92cGUxLVpLdEdkTzctS2lOdVVHNzZMcEpKUEktajJ4b1lBZUlwYVhWWFdyNWM5RXNUNlg1Y1Z0ODljQTNNNHN6LTJBSUFjbFkyTF94cGllWEZwaW5vMWRvdmprSVhzSFNuWm5tY3VJWFFLWGs1NUFnZXFzNk5IYl9zdl93Tk9YYUpGeVpOejF0SUVmWlJaaXZrdHBORUFfSGxzREFTaGJtSk95V0d2VHMtcDVwM2IyM1JmN2dkZzMwYzZ4TXExOXdIekxVcnY0YWt3MVR3UXdkRVpyNlB4NGpNanJDbUJkZWlGUmN6VEJTdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-23T10:21:04+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -806,16 +796,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNHhrMWs1d3dVWnEzajY1Mlg4UHZsb1hWUUQzSWZ1SF9sczR5N2xyeW90dnRKaUZIR2l6Slo2YjdtU25aUkh2RkRzYVcyNUZwZWc5dFRmSHlnUDdfTF8tUXl1bUlIT1luTmFnQ21yWVE1dGNiZzdIRkRkaUpLa3pzZzBDNF9TTkpvQkl4aEhuRFdEZFB4Z1JDeXd1ckd5R2Y5TWxiV2R6QUQ3X2VnaTdSczZEWWV6bndiSGRxZ29obFFZZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-22T22:00:33+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "GKV-Spargesetz: Durchschnittlich 2,7 Millionen Euro weniger pro Krankenhaus – News - Deutsches Ärzteblatt",
-      "summary_de": "GKV-Spargesetz: Durchschnittlich 2,7 Millionen Euro weniger pro Krankenhaus – News &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUkVMVDNMdTZqbmNSc2F6NnVjOEdxM0ZBWHU3NDk3d3FfSWxva1NpbXQ4cUhjVW9nSmJ6SEZkYWZEcU03SXY1ZmJJSDBySFdpUkwyTDlVRGFPb2FfUDh6RGo2OGg1VHRtY0FNbkxpS0E3Tk13ZkJXT2prOGNKeG14RUQ0aGhoZThPOXVvbHRQenRjZERBOVFQMVJDcE1MQzF5TGhqVmI4MEZyd0xqQlNZRS04bWtfQjJ0SXdYZ2ptcVg0aVdhVjk4X2wxV2lNYXZFY3BrNUhMNXhRdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-22T17:48:58+00:00",
-      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -1139,16 +1119,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFFzTmZGUG9iMzdaOTJVV2JVejVnZEVPSWk5ZlphSkxUNVFGUTJWZXVvckNwYnA3LW5GT1luUHlFaUpOVEl3TzZpMGkwbGNHT3lPQlQ5NUtPcl9JZjhmekM0RUxMc0dVRVNKbkJWd04tVzV6UGZ4VUNnZ1lkRlg5UXFrVlpnYVlNYlIzeU5Ya3RwRE9WbnNFbmVLd2lJcGtrb010UWdvMUpHS3JVZ1FnN29jNHhHUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-18T17:53:45+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Krankheiten - Grüne für Stärkung der Suchthilfe und Prävention - Gesundheit - SZ.de",
-      "summary_de": "Krankheiten - Grüne für Stärkung der Suchthilfe und Prävention - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeEV1TzJFNEVqd0pvckNZSGNqYnVBbmJ4NFJDSkRlYWlVckVVVXJaY1pmM0pXaFhySU0ySVFuWDVyNmtEWUNRbEhmUHZ3RTdrTUVha2RUandyMkFpckFJZHE3T3lhNG9pTkMzT0pxc3JiSmp5NWNIZEpCOUtqUFQwcHBUb2MwZkUzS09lMUVZdlF6QUhPMVY0UmdMQ2djZDVpV2gxUjFWMThlQ2Zxc0NqZUp2RkNqVHJ4cUtFSUx2MzZ0VldjaFVocS1HanhiY2NvUzRHazR6R3hSQ1pTaGp5cmhTdGVNRVNZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-18T11:26:29+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -2404,16 +2374,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT0dOVWVLZk8zYzBabUhxWVNmSnBuY2t4cXR0VlEyQWVSVWh1YW9hWmEtX0Nra0dvcDdrYUtvY2J5OEpENUhIWGpHYlRpSy1maThBdU9WWmtSVnpJSDhrNGthS0NnNDdiV2EyV2o1VTBqM2pmZFFXcjFydmJ0bnkwY216bl9GX2RjeVk1b2FOaHkyYlc1WTNBT1B5MllaWDdwUm5zNEtpdlNNc09DdWVOS2dEWlV2RU9wS2xhWlBaTWVmeGlELXprV0VERUNPdWRsUUxRYmVGWnVPNGlYQTJIcVBTd9IB_wFBVV95cUxPdEFiWGJuUmhrTVhRZzlIanQ4ZHN6QnhwRDJuR3lzQXMxNWpCTW05aVNtdnBpdXRaMlY0QmtodldGZ0Fqcjg4dFVSZGtVTnJRRVVld0RTVFB1ZzJJYmVsMVFod25RenVyNVFyTE44VXlxVXBfRklvemcwcWduNlR2V05iNkEyVXF5RHI1aElVQWRxbWhYbEZBbDlkZkJRbzNfeVJkSnhLN2VEbjN5cC1RY1BHMnE5ZzMwWThqcWVqRV9nRHJSM1B6MV9TSllHWjhWcnQ4ajJlb1ZoWDA5cTJscW43ZmtCRHJ2dlpJOHNwaUZaeGhRcWxBTUZwbDByTm8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-06-16T02:01:49+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheitspolitik: Sachsens Ärzte fordern Neustart der Gesundheitsreform - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Sachsens Ärzte fordern Neustart der Gesundheitsreform &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY1dNdm9EYXRaa3M3T3dYbWphU2F5dFc3OE9KYnJlVjdMenRkY2ZaNkxSbDJLcVJ5SEtmYW53RllSc0VPMHdIZ3FOSzlQNnl2SnVTR2ZDOHJBTGxTZEtGQnhGNUZvQzBjNGxEN0FBTDJfT0ZnaVdXZWtzYzNPTGVKcjBrTGRMTml6ZW9XUng1SWxhZVAw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-13T07:00:00+00:00",
-      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     }
