@@ -1,8 +1,98 @@
 {
-  "generated_at": "2026-07-28T11:09:59.344613+00:00",
+  "generated_at": "2026-07-28T13:47:02.259162+00:00",
   "window_days": 42,
-  "count": 226,
+  "count": 228,
   "items": [
+    {
+      "title": "Umfrage: Immer noch große Wissenslücken zu Hepatitis B",
+      "summary_de": "Anl&auml;sslich des Welt-Hepatitis-Tags lie&szlig; GSK Menschen in Deutschland zu ihrem Hepatitis-B-Wissen befragen. Neun von zehn Befragten haben sich demnach noch nie oder selten Gedanken &uuml;ber eine m&ouml;gliche Ansteckung gemacht.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/immer-noch-grosse-wissensluecken-zu-hepatitis-b-167143/",
+      "published_at": "2026-07-28T13:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Stiftung Warentest: Wie gut helfen KI-Chatbots bei Gesundheitsfragen?",
+      "summary_de": "Irgendwo im K&ouml;rper kribbelt oder schmerzt es &ndash; was k&ouml;nnte das sein? Viele fragen die KI nach einer ersten Einsch&auml;tzung. Die Stiftung Warentest wollte wissen: Was taugen die Diagnosen von Chatbots? Drei von f&uuml;nf KI gaben demnach akzeptable Antworten.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/wie-gut-helfen-ki-chatbots-bei-gesundheitsfragen-167141/",
+      "published_at": "2026-07-28T12:45:10+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "CSU-Vorstoß: BMG soll Zuzahlungsproblem lösen",
+      "summary_de": "Mit dem GKV-Beitragssatzstabilisierungsgesetz sind die Zuzahlungen auf Rx-Medikamente um 50 Prozent gestiegen. Versender gehen mit dem Angebot, die Zuzahlung zu erlassen, bereits auf Kundenfang. Nun sei das Bundesgesundheitsministerium (BMG) in der Pflicht, so Unions-Apothekenberichterstatter Stephan Pilsinger (CSU).",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/bmg-soll-zuzahlungsproblem-loesen-167134/",
+      "published_at": "2026-07-28T12:30:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Mordprozess - Arzt soll Patienten getötet haben – Haftbefehl aufgehoben - Panorama - SZ.de",
+      "summary_de": "Mordprozess - Arzt soll Patienten getötet haben – Haftbefehl aufgehoben - Panorama &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeS00VXdEV2pWYTdoUmRkMkl5LWllUzNKdzZ1Z2VSNi0zVHk2UDZuN0cyX0tYM1pzMDhIYmtiY0Q2cFRHSkpCTnMtcDhvanRydmJvcXBlWDM5RUt2aEFXRGxfbHZtR2FwLWFSek5BNWozak45dmRJTGZGZ2xTYk1UelFjTkppNWRUTHFZQktKX0lTM0dWMjM3R1VoM0ROdFg3V2hPNmViajZrSlVINTNVRGdkMWFjamZZVV9CcFJFNXFuNVRsMXhCWnRoOV9wV2NwNk4zc3E3dlZqc1pVbW8zZTFnclBQLVhqQUtB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-28T12:05:30+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Letzter Tag als Gesundheitsministerin: Warken besucht Apotheke und MVZ in Magdeburg",
+      "summary_de": "Kurz bevor Nina Warken das Bundesgesundheitsministerium verl&auml;sst, besuchte sie ein Medizinisches Versorgungszentrum (MVZ) und eine Apotheke in Magdeburg. Ministerpr&auml;sident&nbsp;Sven Schulze &auml;u&szlig;erte sich bei der Gelegenheit zur Entlassung des Staatssekret&auml;rs Tino Sorge.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/warken-besucht-apotheke-und-mvz-in-magdeburg-167137/",
+      "published_at": "2026-07-28T11:35:09+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gefährliches Virus - Ebola-Patient aus Frankfurter Uniklinik entlassen - Wissen - SZ.de",
+      "summary_de": "Gefährliches Virus - Ebola-Patient aus Frankfurter Uniklinik entlassen - Wissen &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTmN2ZEhRaVVQV0I1M2tpQnRPSS1lTDg1MnAzVGNsWjlhVl8yeXJVOXk2YTJITHFJVFdHZHF0eXNYVkJrTVE1LWcyZ2UyQlBNS3BxMzBfdTB6S2xjWHVhM1FkMWhnMl9kSHNsakVlUUx2ZXByVlg5S3lWQnlRLVlRaE9Kb09iWDREVER6UnZfTUVyTnpCRFJDaVEtT2pIRHZIdU5uM1dBX1d6cHNQeFhvR1d6ZEVSQk1nNERfQVczWks4Sm1MWU9RWmUxLTctRDI4Q2g2dWszSlBjQUxGSGhwWlZOM05INHJ4NWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-28T11:34:46+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "»Tief erschüttert«: CSD: Kammer Berlin informiert über Anlaufstellen",
+      "summary_de": "Die Apothekerkammer Berlin zeigt sich nach dem Anschlag beim Berliner CSD tief betroffen und weist auf Anlauf- und Beratungsstellen zu psychosozialen Hilfsangeboten hin.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/csd-kammer-berlin-informiert-ueber-anlaufstellen-167135/",
+      "published_at": "2026-07-28T11:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Waldbrände in Frankreich: So schädlich ist der Rauch für die Gesundheit - Spiegel",
+      "summary_de": "Waldbrände in Frankreich: So schädlich ist der Rauch für die Gesundheit &nbsp;&nbsp; Spiegel",
+      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcEVteVNNYnFFZzh2VEhHRXRzeTl3WWFsX2dVUm1LNmhMeXlNMGgySjNWYl9ONFFtS0V0ejhWTkYzcDdUSTRHcXdJVzdqamZxc1Z4NlBkdG84ekM3dXZXRi1PSWdjcTM4aTZ6azY3MlRaN08zY2Ftd0VSalV3eDQtbE5oTVc5X3pHRkpUYXJqUk9mMm9vYXM4WWplSmk3cjBTVlAyaUlrMmh4ci1abmJOZjlSVFdIbjlPS091VFdfQTVoRkxqTnlYc1FNbHU5NTdNaVEta3dyUXcyMFFfSEEw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-28T11:14:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Bundesverwaltungsgericht: Die feinen Unterschiede zwischen Fertig- und Rezepturarzneimitteln",
+      "summary_de": "Apotheken d&uuml;rfen Rezepturen nur auf Basis konkreter Verschreibungen herstellen. Eine Herstellung f&uuml;r den Praxisbedarf ist unzul&auml;ssig. Zu seinem Urteil aus dem vergangenen M&auml;rz hat das Bundesverwaltungsgericht nun die Begr&uuml;ndung vorgelegt.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-feinen-unterschiede-zwischen-fertig-und-rezepturarzneimitteln-167123/",
+      "published_at": "2026-07-28T11:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Field Safety Notices: 20 to 24 July 2026",
       "summary_de": "List of Field Safety Notices from 20 to 24 July 2026.",
@@ -14,12 +104,12 @@
       "type": "News"
     },
     {
-      "title": "(S+) Mentale Gesundheit: Warum so viele Tierärzte suizidgefährdet sind - Spiegel",
-      "summary_de": "(S+) Mentale Gesundheit: Warum so viele Tierärzte suizidgefährdet sind &nbsp;&nbsp; Spiegel",
-      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOTZKbTUzd215Vm5iczRwU2FUNW1yUElrMlVMYTM5ZVdLQjRpb1NUbkl5T0RQak81R2l4M3kyMGNfX3BKZS1Pd3g5dnAwZDIyWWNHN2ZrVmdSS091WVFrZThxYzJJTGJjdE9Kbmx6SzRwUkZQU2hvSGtwdEctdHF6Y09HeHN1dEdfQ3BQN0JmZ01PRE9yLVR4eklSelJ1N3E3d0M0bEw4ek5rejZzaFFxdG9YRWs1cEJhem85LXpMZGJTSDQybE90N0FzYXV2N3hzd2FYMHhtV1Y?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-28T10:37:00+00:00",
-      "category": "News",
+      "title": "Zahnarztbesuch im Alter - Barmer: Zahnarzt-Versorgung von Pflegebedürftigen lückenhaft - Gesundheit - SZ.de",
+      "summary_de": "Zahnarztbesuch im Alter - Barmer: Zahnarzt-Versorgung von Pflegebedürftigen lückenhaft - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQc3VnWE1mdi1RX0hGVzUtWDFwZzB3NkpGQTJNS0RBZDdTREpMTVAyVWtHUk9INF82dUpaRFliVXkyNFhJX2luWnFQQWQ3Q0JIdUxBUC13OEF2NElKcmFaaS1SdlBnYWZpM0hPaXFyVXZYMUZLQ014ZWFsQ0VLQUt3cm1qNm1YVUxwUXZlOXNWSFhYXzRlWjBnMVgya3JsOE5FT1ZzR0UzVjNMNkNIWUk0YTI3YUdidGoyQ3Vtbm5GSS1IUXZDY0tJQ29JRi1WNEVxUlc5eU9acG9IRnFRSVJ6OVhwS2xPLU9QZFE3Rk1yajVTRFpON0Rpa3M0aUZ3MzZRVGo3aw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-28T10:57:02+00:00",
+      "category": "Versorgung",
       "tags": [],
       "type": "News"
     },
@@ -70,16 +160,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/linerixibat-lindert-cholestatischen-juckreiz-167108/",
       "published_at": "2026-07-28T08:30:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Zeugensuche: Senior stirbt im Krankenhaus - 20-Jähriger unter Verdacht - DIE ZEIT",
-      "summary_de": "Zeugensuche: Senior stirbt im Krankenhaus - 20-Jähriger unter Verdacht &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaGxqeklIT3FqNmlSMldEbDNOSms4dm9pb1VaNVhYMm55cnYtbEV2LUVOUUUySUkwRlBhTEt4Wl9EeDlYai1LT3pvclVFYktwZE1XQTJ2dHRMQWh6VzRYLWh0VGlpOHhHdkpMaFpoQzZ4UV9UZVlzb1M0VW12b2J6WTlSSk4xVm1BWWE5M0RHN0dZeUJRRkVv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-28T08:17:31+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -400,16 +480,6 @@
       "type": "News"
     },
     {
-      "title": "Nach verheerendem Erdbeben: Apotheker ohne Grenzen helfen in Venezuela",
-      "summary_de": "Die Hilfsorganisation Apotheker ohne Grenzen hilft den Menschen in Venezuela, die nach einem verheerenden Erdbeben in Not geraten sind. Eine Berliner Apothekerin berichtet von den schwierigen Bedingungen vor Ort.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/apotheker-ohne-grenzen-helfen-in-venezuela-167089/",
-      "published_at": "2026-07-27T08:10:31+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Schleswig-Holstein: Krankenstand im ersten Halbjahr 2026 auf Vorjahresniveau - DAK-Gesundheit",
       "summary_de": "Schleswig-Holstein: Krankenstand im ersten Halbjahr 2026 auf Vorjahresniveau &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
@@ -420,52 +490,12 @@
       "type": "News"
     },
     {
-      "title": "Makuladegeneration: Grünes Licht für Ranibizumab-haltiges Augenimplantat",
-      "summary_de": "Die Europ&auml;ische Arzneimittelagentur hat das permanente und wiederbef&uuml;llbare Ranibizumab-haltige Augenimplantat Susvimo&reg; (Roche) zur Zulassung empfohlen. Indiziert ist es bei neovaskul&auml;rer altersbedingter Makuladegeneration.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/gruenes-licht-fuer-ranibizumab-haltiges-augenimplantat-167074/",
-      "published_at": "2026-07-27T07:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Alkoholbesteuerung : Wirksamkeit wird angezweifelt",
-      "summary_de": "Mehr als 455 Millionen Euro soll eine h&ouml;here Steuer auf alkoholische Getr&auml;nke bringen. Doch viele bezweifeln, dass dadurch seltener zur Flasche gegriffen wird.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/wirksamkeit-wird-angezweifelt-167076/",
-      "published_at": "2026-07-27T06:45:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Ehrlichkeitskrise: Betrug nimmt in der digalen Welt zu",
-      "summary_de": "Eine L&uuml;ge aufrechtzuhalten, kostet mehr Energie als die Wahrheit zu sagen. Doch Ehrlichkeit ist seltener geworden. Ein Grund sei die digitale Welt, sagt ein Forscher. Er erl&auml;utert, wie Betrug die Gemeinschaft schw&auml;cht &ndash; und warum er trotzdem optimistisch ist.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/betrug-nimmt-in-der-digalen-welt-zu-166943/",
-      "published_at": "2026-07-27T06:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Das Gesundheitssystem muss sich an die neue Realität anpassen | Die Techniker - Presse & Politik - Techniker Krankenkasse",
       "summary_de": "Das Gesundheitssystem muss sich an die neue Realität anpassen | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM1IyWXZQWm9ZQTA3amNtZHlJSUdEZE5pSjZ3NFRHaWFrWXZEY1ludmZjWlAwblVkUjk2em5vV2pNaDQ3dDM5WmxsMXo1eGJSaDRRbTVLYXJlM0R3SUdOUjM0cDlvQjVVcGF4aXhjaUo0SDNiR18zMlJVb191LXUtRTBjaVplZ2JFLUpyRG9TOFYyc3JSdFN1NkZkRHp2ZC1KYXFOUzVKRXc5ZllzMmJqai11TlBNbl84eXlKaQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-27T06:00:00+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Fertigarzneimittel vor Rezeptur: Vorwurf der Einflussnahme bei Cannabis-Regelung",
-      "summary_de": "Mit dem GKV-Beitragssatzstabilisierungsgesetz gibt es auch Einschr&auml;nkungen in der Cannabisversorgung. Bl&uuml;ten werden nicht l&auml;nger erstattet und Fertigpr&auml;parate haben eine Zeit lang Vorrang gegen&uuml;ber Rezepturen. Das sorgt f&uuml;r Kritik &ndash; bis hin zum Vorwurf politischer Einflussnahme.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/vorwurf-der-einflussnahme-bei-cannabis-regelung-167049/",
-      "published_at": "2026-07-27T05:00:00+00:00",
-      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -516,16 +546,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZThRVVFHSm1EN0doU3h0Y0RkeGFOd04wYWVWQ3NDQTJ2NEVRX1pPU0RwVFd2ekZsMmsyVGtZQ2RhMVZnaUNWN2ZpNExuckloNUZpZncySDZBeEVtb3hEN2h2ZGRrVU1JcHJLdW5GcmpQYXNmZEVieVBKMVRvNXBWc3JHRmtvbDNUUlF2QUFCNnMta1pLekI3TFplSTlHZXdKYUktZzliUmE3WU1NSWthMVNrN2dFQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-26T12:28:47+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Kommunikation: Der Ton macht die Musik",
-      "summary_de": "Die Kommunikation mit Patienten in der Apotheke ist nicht nur eine Pflicht, sondern wertvoll, vielf&auml;ltig und bunt &ndash; aber nicht immer einfach. Wie gelingt Kommunikation in schwierigen Situationen, und was kann das Apothekenteam f&uuml;reinander tun?",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/der-ton-macht-die-musik-166919/",
-      "published_at": "2026-07-26T06:00:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -1966,8 +1986,8 @@
       "type": "News"
     },
     {
-      "title": "Leitende/r Ärztin/Arzt 80-100%, Radiologie - ärztestellen",
-      "summary_de": "Leitende/r Ärztin/Arzt 80-100%, Radiologie &nbsp;&nbsp; ärztestellen",
+      "title": "Leitende/r Ärztin/Arzt 80-100%, Radiologie - Ueberlandstrasse 14, 3902 Glis, Schweiz - ärztestellen",
+      "summary_de": "Leitende/r Ärztin/Arzt 80-100%, Radiologie - Ueberlandstrasse 14, 3902 Glis, Schweiz &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLXZfTDB4OS1LR3RhTl9DTHpueTdzTi1GQ2RCMnA4WE16di16T3RBS2dKOWNuMjNCY2VudU9ibkJTQVM1aW9GYVZ1RHJfMzEwR1drQUpfYWhtdGVXYlBTVVZ4MzRLQ2VNanE5SkRZTWhKbHNFbDZvb1BGdFJDZTJjY3RPcjJRRnlyNlRxOVcwUjgwbkM1RHlmcTNqVjlLRU9hd2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-01T12:00:06+00:00",
