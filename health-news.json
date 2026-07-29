@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-28T21:56:06.872171+00:00",
+  "generated_at": "2026-07-29T01:56:12.477149+00:00",
   "window_days": 42,
-  "count": 201,
+  "count": 224,
   "items": [
     {
       "title": "China: Todesfall nach Gentherapie erst nach Recherche aufgedeckt",
@@ -20,6 +20,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUFpHSHlreXl6cHRERGtvWF9EUFg2Vmw5eU5pb04xWThLYkFQeTFiSmNvaHgzcUJaaW1CNms0MGZSVnVVTEw5Qkl4OXJyeEhfWlJzckhPN212UHYtUjE4MlhpeGpxRWJ5cFJ5YkJQSk1kRGxJUndLMnp2RGdMOWNGa2ZIXzl6dFZmYjFaRFlreWxUOU9wc0VVcDByY0lIbnFVSm9DbE9ISk9aVjN0RmFyMl9aRjQxTmEzQTV4UHhR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-28T15:30:00+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Endemeldung Arzneimittel: Presinol 500 pU: TEOFARMA S.R.L.",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-07-28T15:01:24+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -59,16 +69,6 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/phoenix-verspricht-festen-skonto-satz-167124/",
       "published_at": "2026-07-28T14:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: Myozyme 5 mg Lyophilisat f&#252;r ein Konzentrat zur Herstellung einer Infusionsl&#246;sung - OP10 pU: Sanofi B.V.",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-07-28T13:15:07+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
@@ -259,6 +259,16 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaS0xUlRsa2UxUnNsVndBaXlqeXRubjdpd1dpOFFnR0pDX0lxeV83bzdFSno1YWFsVHRqbjM0ZkhudGVXNjc1SmxKSzVmdVdNZmxwTUZRYmd5ODJ3eWk1dTFfbWp3dEk0Y2N4ZnJNM2c0MW5UWnkwck53dDJGRFNudHFCRHZ3QWhkM3lzMkZPX2lRempIeTdnVHZFaFFyeG1KSGIxVkE4THpkaTBnOGFCcEVTQjZrMlUtWnFyRjFoZ2pTTGcwdldxdkhBTEM5MWwxUUhSaVNhaWJvbG5NWFNNQUU4N2ticUNheDdz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-28T02:30:06+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Albumin for people with liver cirrhosis and bacterial infections",
+      "summary_de": "Albumin for people with liver cirrhosis and bacterial infections",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014636.pub2",
+      "published_at": "2026-07-28T00:00:00+00:00",
       "category": "Studie",
       "tags": [],
       "type": "Studie"
@@ -510,14 +520,14 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit für Lunge und Atemwege: Xantener Krankenhaus baut Pneumologie weiter aus - RP Online",
-      "summary_de": "Gesundheit für Lunge und Atemwege: Xantener Krankenhaus baut Pneumologie weiter aus &nbsp;&nbsp; RP Online",
-      "source_name": "\"site:rp-online.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbWNQTF9QajE0NDhXdFFSNW5qUVhNVkVaeTJUaFEweEtXZ2VxaFFkWm04enhTT2Z5QzlHeGRVaVVFWjhLVGttdGZSX0h3emRjMzZxNGtrVkxVWGh0WFc3Q2NfajdkelItY1Q5RmxvWDFwdGNXUk5mQndoX3NtQ2tEYjhnMXlGOE9sUDVzY2d4V3hmUC16dG16cWgxMW9hRkRNVVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-26T12:49:00+00:00",
-      "category": "News",
+      "title": "Switching from sulphasalazine or oral 5‐aminosalicylic acid to another oral 5‐aminosalicylic acid drug in the maintenance of remission in ulcerative colitis",
+      "summary_de": "Switching from sulphasalazine or oral 5‐aminosalicylic acid to another oral 5‐aminosalicylic acid drug in the maintenance of remission in ulcerative colitis",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016374",
+      "published_at": "2026-07-27T00:00:00+00:00",
+      "category": "Studie",
       "tags": [],
-      "type": "News"
+      "type": "Studie"
     },
     {
       "title": "Gesundheit - Klingbeil und Schwesig für bessere Behandlung nach Krebs - Politik - SZ.de",
@@ -712,6 +722,26 @@
       "type": "News"
     },
     {
+      "title": "Krankenhausreform - Brandenburgs Kliniken: Der Druck wächst täglich - Gesundheit - SZ.de",
+      "summary_de": "Krankenhausreform - Brandenburgs Kliniken: Der Druck wächst täglich - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMkRMMWhrSjViYS1DR2NNN04xOFIzcVlwd2ZCRmpLVGtCTkpZdXJtNkI3U2lhVkZYWk9PRThLWVJoVmtrWkNlQjBNZE15WU5HUHlsU3dRb0wwVTFTZE02VV85UklLSFE0UW50U0VobDBmXy1NMVdHbk5lYVJQYmQ1Y0FrWnkzb1pkTGtIV2FKUGdMQlJuWDBKUDFfSmd4dTVkWmJDTjJObVl5Z3g3QldPcU01cjFXRG1PRzBQRm5ISmd2bkcwZGxSX2l3alNGaHh5NURncEdxLVUzcTNkOGJrbmZUWXVkV2RZT0JN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-24T03:00:21+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Therapeutic donor hypothermia following brain death to improve the quality of transplanted organs",
+      "summary_de": "Therapeutic donor hypothermia following brain death to improve the quality of transplanted organs",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015190.pub2",
+      "published_at": "2026-07-24T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "#GesundheitSachsenAnhalt: Folge 05 | Die Techniker - Presse & Politik - Techniker Krankenkasse",
       "summary_de": "#GesundheitSachsenAnhalt: Folge 05 | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
@@ -874,6 +904,56 @@
       "type": "News"
     },
     {
+      "title": "Nucleic acid‐based therapies for people with cystic fibrosis",
+      "summary_de": "Nucleic acid‐based therapies for people with cystic fibrosis",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016370",
+      "published_at": "2026-07-23T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Larger versus smaller red blood cell volume per transfusion in hospitalized adults, children and preterm neonates",
+      "summary_de": "Larger versus smaller red blood cell volume per transfusion in hospitalized adults, children and preterm neonates",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015898.pub2",
+      "published_at": "2026-07-23T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Preoperative physical exercise training for people scheduled for major abdominal surgery",
+      "summary_de": "Preoperative physical exercise training for people scheduled for major abdominal surgery",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010122.pub2",
+      "published_at": "2026-07-23T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Interventions for replacing missing teeth: zygomatic implants for the rehabilitation of the severely atrophic edentulous maxilla",
+      "summary_de": "Interventions for replacing missing teeth: zygomatic implants for the rehabilitation of the severely atrophic edentulous maxilla",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004151.pub4",
+      "published_at": "2026-07-23T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Exercise for osteoarthritis of the hip",
+      "summary_de": "Exercise for osteoarthritis of the hip",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007912.pub3",
+      "published_at": "2026-07-23T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "Professur (m/w/d) für Allgemeine Medizin Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe - ZEIT Stellenmarkt",
       "summary_de": "Professur (m/w/d) für Allgemeine Medizin Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe &nbsp;&nbsp; ZEIT Stellenmarkt",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
@@ -922,6 +1002,16 @@
       "category": "News",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Prophylactic versus selective use of surfactant for preventing morbidity and mortality in preterm infants at risk of respiratory distress syndrome",
+      "summary_de": "Prophylactic versus selective use of surfactant for preventing morbidity and mortality in preterm infants at risk of respiratory distress syndrome",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000510.pub3",
+      "published_at": "2026-07-22T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "Domperidone: new contraindication in patients with phaeochromocytoma due to the risk of severe hypertension",
@@ -996,6 +1086,16 @@
       "type": "News"
     },
     {
+      "title": "Minimally invasive trabecular meshwork surgery for open‐angle glaucoma",
+      "summary_de": "Minimally invasive trabecular meshwork surgery for open‐angle glaucoma",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015186.pub2",
+      "published_at": "2026-07-21T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "Class 4 Medicines Defect Notification: Macarthys Laboratories Ltd T/A Martindale Pharma, Xaggitin XL Prolonged-release Tablets, EL(26)A/35",
       "summary_de": "Macarthys Laboratories Ltd T/A Martindale Pharma has notified the MHRA of a manufacturing issue impacting several batches of Xaggitin XL Prolonged-release Tablets, due to the occurrence of incorrect tablet counts in the bottles.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1048,16 +1148,6 @@
       "type": "News"
     },
     {
-      "title": "Spezialist/-in Prävention (m/w/d) - Schwerpunkt Suchtmittelkonsum - DAK-Gesundheit",
-      "summary_de": "Spezialist/-in Prävention (m/w/d) - Schwerpunkt Suchtmittelkonsum &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOUVlcHNsVmdEeVJGX0YxUVV5aGtuYjhLa2NwRUc5WndBbnVkZzlNWERKRFpvRTZWRXpUQ2dfdkE0allZNUl3djNYT0RIX2JpQmk5TjhrMzZtY3pFMDVJNFJQdXd3UVZ5OUNGZ2hsWmFqVzluWEtsMFRQTTI0emxmZnk5MkR3UzVKYjgtNlRndmdpQWczbzFHVk50S1RTSldWR3FIMjhWMVl1TjhzbFBlbERjbVlPbnZZMFpLMWJNa08?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-19T06:41:48+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Community Services Statistics, April 2026",
       "summary_de": "**Change notice: The Data Quality Statement page of this publication has been updated to include an additional DQ note about Barnsley and Sheffield Local Authorities.This is a monthly report on publicly funded community services for people of all ages using data from the Community Services Data Set (CSDS) reported in England for April 2026. It has been developed to help …",
       "source_name": "Publication Feed",
@@ -1096,6 +1186,26 @@
       "category": "Radiologie",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Topical cyclosporine A therapy for dry eye disease",
+      "summary_de": "Topical cyclosporine A therapy for dry eye disease",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010051.pub3",
+      "published_at": "2026-07-17T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Venepuncture versus heel lance for blood sampling in term neonates",
+      "summary_de": "Venepuncture versus heel lance for blood sampling in term neonates",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001452.pub5",
+      "published_at": "2026-07-17T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "Ersatzkassen fordern besseren Schutz von Kindern und Jugendlichen bei der Nutzung digitaler Medien",
@@ -1243,8 +1353,38 @@
       "type": "News"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
+      "title": "Non‐invasive management strategies for molar‐incisor hypomineralization (MIH) in children",
+      "summary_de": "Non‐invasive management strategies for molar‐incisor hypomineralization (MIH) in children",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016369",
+      "published_at": "2026-07-15T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Performance of next‐generation sequencing technologies for detecting drug‐resistant tuberculosis in people with pulmonary tuberculosis",
+      "summary_de": "Performance of next‐generation sequencing technologies for detecting drug‐resistant tuberculosis in people with pulmonary tuberculosis",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016368",
+      "published_at": "2026-07-15T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Non‐surgical treatment for lower limb apophyseal injuries",
+      "summary_de": "Non‐surgical treatment for lower limb apophyseal injuries",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015156.pub2",
+      "published_at": "2026-07-15T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-14T07:00:00+00:00",
@@ -1277,6 +1417,36 @@
       "type": "News"
     },
     {
+      "title": "Blood pressure management in reperfused ischemic stroke",
+      "summary_de": "Blood pressure management in reperfused ischemic stroke",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016085.pub2",
+      "published_at": "2026-07-14T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Restorative materials for direct coronal restoration of permanent posterior teeth: an overview of systematic reviews",
+      "summary_de": "Restorative materials for direct coronal restoration of permanent posterior teeth: an overview of systematic reviews",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016279",
+      "published_at": "2026-07-14T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Recombinant follicle‐stimulating hormone (rFSH) versus other recombinant or urinary gonadotropins for ovarian stimulation in assisted reproductive technology cycles",
+      "summary_de": "Recombinant follicle‐stimulating hormone (rFSH) versus other recombinant or urinary gonadotropins for ovarian stimulation in assisted reproductive technology cycles",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005354.pub3",
+      "published_at": "2026-07-14T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "Pressemitteilung: Geschäftsbericht 2025: GKV-Spitzenverband macht sich weiter für Reformen stark",
       "summary_de": "Das Gesundheitswesen steht unter Druck. Effizienter, digitaler und vernetzter muss es werden, um auch künftig rund 75 Millionen Versicherte gut zu versorgen. Der GKV-Spitzenverband wird nicht müde, für das Gesundheitssystem neue Konzepte zu entwickeln und tiefgreifende Reformen voranzutreiben. Das veranschaulicht unser Geschäftsbericht für das Jahr 2025, der nun online abrufbar ist.",
       "source_name": "GKV-SV Presseinformationen",
@@ -1287,6 +1457,66 @@
         "Wirtschaft"
       ],
       "type": "News"
+    },
+    {
+      "title": "Methotrexate for hand osteoarthritis",
+      "summary_de": "Methotrexate for hand osteoarthritis",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016228",
+      "published_at": "2026-07-13T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Tumescent solution for thermal ablation of lower limb varicose veins",
+      "summary_de": "Tumescent solution for thermal ablation of lower limb varicose veins",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016366",
+      "published_at": "2026-07-13T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Cognitive‐behavioural treatment for neck pain",
+      "summary_de": "Cognitive‐behavioural treatment for neck pain",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015052",
+      "published_at": "2026-07-13T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Vector control strategies for preventing dengue transmission",
+      "summary_de": "Vector control strategies for preventing dengue transmission",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016364",
+      "published_at": "2026-07-13T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Physical activity for the management of obesity in children up to the age of 9 years",
+      "summary_de": "Physical activity for the management of obesity in children up to the age of 9 years",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015988",
+      "published_at": "2026-07-13T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Perioperative immune checkpoint inhibitors with or without chemotherapy versus placebo with or without chemotherapy in elderly people with localised non‐small cell lung cancer",
+      "summary_de": "Perioperative immune checkpoint inhibitors with or without chemotherapy versus placebo with or without chemotherapy in elderly people with localised non‐small cell lung cancer",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016104",
+      "published_at": "2026-07-13T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 6-9 July 2026",
@@ -1953,6 +2183,16 @@
       "type": "News"
     },
     {
+      "title": "Senior-IT-Architekt/-in mit Fokus Telematikinfrastruktur (m/w/d) - DAK-Gesundheit",
+      "summary_de": "Senior-IT-Architekt/-in mit Fokus Telematikinfrastruktur (m/w/d) &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNUJrcXI5aTF3SDcxem1UX0RXQzQ4MHdtUEdtWnJ0TWdiN29JcUtCNGRmLWM5elFwLWk4S3JnQi1sMW1rYWtNZzBfZmVkYlV0MEZBc0hTMl9seEdXSEU2UDdZeVRhSGpCVmYtRXprREdhbFdhZXZmOGx0ZG9QaUd4a2lROWJvNk0zdm9faUtnd2NsMGNHZEF0OHc3Z05hT3FLYjFrMzU3cFVMcjY4TjljREZlcTMyeC1oQTE4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-22T22:52:04+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Primary Care Workforce Recruited through the Additional Roles Reimbursement Scheme (ARRS), 1 October 2024 – 31 May 2026 [Management Information]",
       "summary_de": "Additional funding of £82 million was announced in August 2024 to support the inclusion of recently qualified GPs in the Additional Roles Reimbursement Scheme (ARRS) for 2024/25 with funding only available for GPs who had qualified within the last 2 years. As a result, the primary care network directed enhanced service (PCN DES) was amended for 2024/25 to expand the …",
       "source_name": "Publication Feed",
@@ -2056,16 +2296,6 @@
       "source_url": "https://www.efsa.europa.eu/en/podcast/episode-41-microplastics-food-what-we-dont-know",
       "published_at": "2026-06-17T08:59:23+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Für Ärzt:innen - Kassenärztliche Vereinigung Berlin",
-      "summary_de": "Für Ärzt:innen &nbsp;&nbsp; Kassenärztliche Vereinigung Berlin",
-      "source_name": "\"site:kvberlin.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNT0tOdFdyMW1mRURwZmZrb2VmaHRYUklHWG1XMGVsTXA2SGJ0S24wSVFZNTdSSmdZTmt5Q3g2WUxxZlpJVXUwNi16N2ZNaFEzT0Y0MkpfSE95YUUycV83MGNPRkhVdDhxV0VzNUVXbUk0OEZZOWh5QmR6RFZyLXphdE1iU0ZtekFDYjhaTl9kR2NmTDByMG5hd2h1WXFHbHhKcW9mN3JfOXdKamJ6dFJXVF95bC0wWm05QjJ6ZE9mUjBfWi1BVldHYzlDMFE2Z3diby1aTnVfUUc3clczY0RoYjA1ZTYweVNJcThwakpfbnVEZmk0UURuOUtCY1ZzaWZXXzlxT242UTROdVdLc0pMcEp4NWdxQ3dpb0xoMkkzTGFueVc5b3BKb2pmLWpTck4wRmlVQVM5SHR4S3VQbUlRUGVHT2ZSUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-16T23:28:26+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     }
