@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-07-31T08:50:32.694856+00:00",
+  "generated_at": "2026-07-31T11:23:40.117921+00:00",
   "window_days": 42,
-  "count": 225,
+  "count": 245,
   "items": [
+    {
+      "title": "Decision: Medical devices given exceptional use authorisations",
+      "summary_de": "List of manufacturers and their medical devices granted an exemption by MHRA. The list also includes manufacturers whose exemption expired or was cancelled.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations",
+      "published_at": "2026-07-31T10:58:07+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Wetterfolgen: Krankenkasse: Mehr Kreislaufprobleme bei Hitzewelle im Juni - DIE ZEIT",
+      "summary_de": "Wetterfolgen: Krankenkasse: Mehr Kreislaufprobleme bei Hitzewelle im Juni &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYmk1ajJpc1dkYTJFdFBnZlBsWVpKMWNLVEdFX2Rub1Q0YnRabUlDZVNXVFg1TVpxM19hNFliMi1uTVVOV2dqYVFJbTBBZVhOMDRWQWVRQy0zT0ktMlkzUnlwS2tQY0VLVE53WTRMVi1lbHhPRGtFUzd1SDU2RkxQUWZ1RlRUOWJlbXAzemRPQXYtWXU2bGdXZ2RR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-31T10:02:22+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Auslaufender Patentschutz: GSK will Milliarden sparen",
+      "summary_de": "Der britische Pharmakonzern Glaxo-Smith-Kline (GSK) wappnet sich mit einem umfassenden Sparprogramm in Milliardenh&ouml;he f&uuml;r anstehende Patentabl&auml;ufe.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/gsk-will-milliarden-sparen-167248/",
+      "published_at": "2026-07-31T09:50:38+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Erstmeldung Arzneimittel: Bendarabin 50 mg pU: Bendalis GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-07-31T09:42:05+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Clinical trials for medicines: MHRA phase I accreditation scheme",
+      "summary_de": "How to join the phase I accreditation scheme.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-mhra-phase-i-accreditation-scheme",
+      "published_at": "2026-07-31T09:31:24+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Hitzeschutz : Deutsche vermissen ausreichende Maßnahmen",
+      "summary_de": "Etwas Begr&uuml;nung, ein paar Trinkbrunnen und k&uuml;hle R&auml;ume: Laut dem&nbsp;ZDF-&raquo;Politbarometer&laquo; reicht das aus Sicht der meisten Menschen nicht, um hohe Temperaturen ertr&auml;glich zu machen. Auch die Sorge vor Extremwetter ist gro&szlig;.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/deutsche-vermissen-ausreichende-massnahmen-167239/",
+      "published_at": "2026-07-31T09:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Herbstgrasmilben: Juckreiz ohne Mückenstich",
+      "summary_de": "Im Sommer sind viele kleine Tierchen unterwegs, die stechen oder bei&szlig;en. Nicht ganz so bekannt wie M&uuml;cken oder Zecken sind Herbstgrasmilben, die starken Juckreiz verursachen k&ouml;nnen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/juckreiz-ohne-mueckenstich-167242/",
+      "published_at": "2026-07-31T08:45:10+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "USA: USA streichen Medicare-Zuschüsse",
       "summary_de": "Die US-Regierung will zum Jahresende ein Zuschussprogramm f&uuml;r Medicare-Part-D-Arzneimitteltarife beenden. Der Wegfall der staatlichen Unterst&uuml;tzung k&ouml;nnte dazu f&uuml;hren, dass Millionen &auml;lterer Menschen in den USA k&uuml;nftig h&ouml;here Beitr&auml;ge f&uuml;r ihre Arzneimittelversorgung zahlen m&uuml;ssen.",
@@ -29,16 +99,6 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/phoenix-will-apothekenlager-managen-167231/",
       "published_at": "2026-07-31T06:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: Visipaque 270 pU: GE Healthcare Buchler GmbH & Co.KG",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-07-31T05:43:32+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
@@ -84,8 +144,18 @@
       "type": "News"
     },
     {
-      "title": "Facharzt (m/w/d) für Psychosomatische Medizin und Psychotherapie / Psychiatrie und Psychotherapie - Tagesklinik Nymphenburg, KIRINUS Health GmbH - stellenmarkt.sueddeutsche.de",
-      "summary_de": "Facharzt (m/w/d) für Psychosomatische Medizin und Psychotherapie / Psychiatrie und Psychotherapie - Tagesklinik Nymphenburg, KIRINUS Health GmbH &nbsp;&nbsp; stellenmarkt.sueddeutsche.de",
+      "title": "Educational and skills‐based interventions for preventing relationship and dating violence in adolescents and young adults",
+      "summary_de": "Educational and skills‐based interventions for preventing relationship and dating violence in adolescents and young adults",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016376",
+      "published_at": "2026-07-31T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Facharzt (m/w/d) für Psychosomatische Medizin und Psychotherapie / Psychiatrie und Psychotherapie - Tagesklinik Nymphenburg, KIRINUS Health GmbH - SZ-Stellenmarkt",
+      "summary_de": "Facharzt (m/w/d) für Psychosomatische Medizin und Psychotherapie / Psychiatrie und Psychotherapie - Tagesklinik Nymphenburg, KIRINUS Health GmbH &nbsp;&nbsp; SZ-Stellenmarkt",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxORjJKSTFrNmFmYVh4T3l2RUI2TFh1WnFIMFZXdXd5MHIxbVhlbmlpMHB5X2FJUlpSSjZNc1F4b040RndvQVFRbHpYY1Z2NWE3dkFHMEtBbzhBaWRISnNlWkdKczUxWHp1U3gtRzNyWF9sWmV6YUdZYmFCZ0NwVmpOblo0WXVKODI4SldFUEdHRDdqdTgtaGlTWXE2VUFFZW5WY0tIQ3FkUnpKM0wzSGQzaDNkR2kyd1N5RXAxT3F5UEZPcWdBSlhyWlY1c3JXS1BtRE1xQzFYdEtIWGNySnZOaE1BRFNickpPUmFoVTUwUUVCaGpsSklDVW93bjlMU2dzQk5JX2RB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-30T16:25:08+00:00",
@@ -292,16 +362,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/in-jede-juniorzahnpasta-gehoert-fluorid-167211/",
       "published_at": "2026-07-30T12:00:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Overthinking stoppen: Was gegen Grübeln und Gedankenkarussell hilft - DAK-Gesundheit",
-      "summary_de": "Overthinking stoppen: Was gegen Grübeln und Gedankenkarussell hilft &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uM0tkOXlrWFhWSUpmUF9aaXJCNmZ6b3lLYnJZNHUzdUxRWjltQlplMHZhN0MzSmtoVmx5NEVoT1E5YzFqc3NkQ3FHbjAwdWRmU3ZYMkxibmNndzZJcmxLZTZ3SWdyUkVsUlRGU2pkR3RxR1BtVER0azRaMTdhZnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-30T11:37:48+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -548,20 +608,20 @@
       "type": "News"
     },
     {
-      "title": "Rezeptursubstanz verfügbar: Lorazepam in der Rezeptur",
-      "summary_de": "Gelegentlich bekommt die DAC/NRF-Informationsstelle Anfragen zu Rezepturen mit Lorazepam.&nbsp;Bislang mussten Fertigarzneimittel verarbeitet werden. Inzwischen ist Lorazepam-Rezeptursubstanz erh&auml;ltlich, was die Herstellung vereinfacht.",
+      "title": "Resilienz für Forschende: Emotionen steuern – wie im Wettkampf",
+      "summary_de": "Wer trainiert, lernt Resilienz, klare Priorit&auml;ten und den Wert kleiner Fortschritte. Eine Wissenschaftlerin berichtet, wie eng k&ouml;rperliches Training und wissenschaftliche Produktivit&auml;t zusammenh&auml;ngen &ndash; und ihr bei der Laborarbeit helfen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/lorazepam-in-der-rezeptur-167142/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/emotionen-steuern-wie-im-wettkampf-167111/",
       "published_at": "2026-07-30T08:00:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Resilienz für Forschende: Emotionen steuern – wie im Wettkampf",
-      "summary_de": "Wer trainiert, lernt Resilienz, klare Priorit&auml;ten und den Wert kleiner Fortschritte. Eine Wissenschaftlerin berichtet, wie eng k&ouml;rperliches Training und wissenschaftliche Produktivit&auml;t zusammenh&auml;ngen &ndash; und ihr bei der Laborarbeit helfen.",
+      "title": "Rezeptursubstanz verfügbar: Lorazepam in der Rezeptur",
+      "summary_de": "Gelegentlich bekommt die DAC/NRF-Informationsstelle Anfragen zu Rezepturen mit Lorazepam.&nbsp;Bislang mussten Fertigarzneimittel verarbeitet werden. Inzwischen ist Lorazepam-Rezeptursubstanz erh&auml;ltlich, was die Herstellung vereinfacht.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/emotionen-steuern-wie-im-wettkampf-167111/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/lorazepam-in-der-rezeptur-167142/",
       "published_at": "2026-07-30T08:00:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
@@ -600,16 +660,6 @@
       "type": "News"
     },
     {
-      "title": "Hausbesuch im Dezember: Da wird der Arzt zum Nikolaus - ärztestellen",
-      "summary_de": "Hausbesuch im Dezember: Da wird der Arzt zum Nikolaus &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbUFlb2J5V3dGbFBqUmVVTV9Ud2lzYjVBc3pkU01PYkI0ODRRNzZMZkVOVGlZMkFBbU1JYXNmaXRGbTlVb2lNSkoxTThRNU5wdTUxdllnMXdJeTNPWEt1UmJsUU5pWW5DblJRZVV1Mk5HOUtVRjJMLTFLdzBIU2VhVHJtMzZSemF1TlRDR1Z3ZGJid0R3Q0wybUp3ckUzb2FkbjA1Mw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-30T05:05:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Antidiabetika-Vergleich: Haarverlust wahrscheinlicher unter GLP-1-Agonisten",
       "summary_de": "Forschende haben anhand Zehntausender Patientendatens&auml;tze untersucht, ob das Alopezie-Risiko unter GLP-1-Rezeptoragonisten gr&ouml;&szlig;er ist als bei anderen Antidiabetika. Die Auswertung zeigt ein leicht erh&ouml;htes Risiko.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -628,6 +678,16 @@
       "category": "News",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Analgesic agents versus placebo, no intervention, or alternative analgesic regimens in acute pancreatitis",
+      "summary_de": "Analgesic agents versus placebo, no intervention, or alternative analgesic regimens in acute pancreatitis",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016112",
+      "published_at": "2026-07-30T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "Assistenzarzt / Arzt in Weiterbildung Radiologie Stellenangebote in Neuruppin - ärztestellen",
@@ -700,42 +760,12 @@
       "type": "News"
     },
     {
-      "title": "Letzter Tag als Gesundheitsministerin: So lief der Besuch von Nina Warken",
-      "summary_de": "Nina Warken besuchte an ihrem letzten Tag als Gesundheitsministerin eine Apotheke in Magdeburg. Die Apothekerin Doreen Kessner beschreibt die Ministerin als interessiert und zugewandt. Sie habe ihr aber auch die prek&auml;re wirtschaftliche Situation vieler Apotheken erl&auml;utert.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/so-lief-der-besuch-von-nina-warken-167184/",
-      "published_at": "2026-07-29T14:15:09+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Erste Infektion mit West-Nil-Virus im Inland in diesem Jahr - SZ.de",
       "summary_de": "Erste Infektion mit West-Nil-Virus im Inland in diesem Jahr &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVUNMWWNfTG1wS21Wd2VBYnFhemUtRHZ5TFR4bjAwUzl3NHBFWjZrX2dyUVNESFhTZHFKeU5pTDl0X2RpMVJYbUM4WS1ocFgta2VHRncxWUdDTXhPRV9yRUZIcGxOX3lteWFhUlhKRm5kVTB1Y2RYZEdRdjVSbGRzME5KUURhVlRPeGtXcU1weEU0RWxBbGNBZkJvcTZpN0NMNjVIUDM4cU5vQmFpcFFNLS1ZM0o4MWN4d2NCS2pTeFJOXzhxQ25ESFpoREhRTVJGUkp4cTJ0TWt1X2JsOVlzN0ZTZEp5amJpQ2V5QTZJNFYtZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-29T14:12:12+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Bundesapothekerkammer: Neue Leitlinie zum Medikationsmanagement",
-      "summary_de": "Eine Leitlinie zur Medikationsanalyse gibt es schon, nun hat die Bundesapothekerkammer erstmals eine Leitlinie zum Medikationsmanagement verabschiedet. Damit setzt sie die Leitplanken f&uuml;r eine kontinuierliche Betreuung.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/neue-leitlinie-zum-medikationsmanagement-167181/",
-      "published_at": "2026-07-29T14:05:09+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "PZ Briefing: Die Top-News vom 29.7.2026",
-      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie,&nbsp; Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-2972026-167180/",
-      "published_at": "2026-07-29T14:03:00+00:00",
-      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -842,8 +872,8 @@
       "type": "News"
     },
     {
-      "title": "Projektmanager (m/w/d), Robert-Bosch-Krankenhaus GmbH - stellenmarkt.sueddeutsche.de",
-      "summary_de": "Projektmanager (m/w/d), Robert-Bosch-Krankenhaus GmbH &nbsp;&nbsp; stellenmarkt.sueddeutsche.de",
+      "title": "Projektmanager (m/w/d), Robert-Bosch-Krankenhaus GmbH - SZ-Stellenmarkt",
+      "summary_de": "Projektmanager (m/w/d), Robert-Bosch-Krankenhaus GmbH &nbsp;&nbsp; SZ-Stellenmarkt",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNmlENjFvZHM5WUhidFJCeFJyM0thZWZKMzJTSkRPWW1taEpGdDQySWc2NjVBUGFiSDkzQUZ2SElFTGdMR0VnRXFjYTlrRnZ3empMc1ZZYXNOV0R3U0F2QUdnQ21XRk1VM050MTVqRlV3VHJlLUVwTEtDNXprd2ZGc2NKUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-29T05:19:43+00:00",
@@ -880,6 +910,36 @@
       "category": "News",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Psychological and psychosocial interventions for trauma‐related psychological distress in adults living in ongoing conflict",
+      "summary_de": "Psychological and psychosocial interventions for trauma‐related psychological distress in adults living in ongoing conflict",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016367",
+      "published_at": "2026-07-29T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Neoadjuvant chemotherapy before surgery versus surgery followed by chemotherapy for initial treatment in advanced epithelial ovarian cancer",
+      "summary_de": "Neoadjuvant chemotherapy before surgery versus surgery followed by chemotherapy for initial treatment in advanced epithelial ovarian cancer",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005343.pub8",
+      "published_at": "2026-07-29T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Vestibular stimulation for promoting development and preventing morbidity in preterm infants",
+      "summary_de": "Vestibular stimulation for promoting development and preventing morbidity in preterm infants",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016072.pub2",
+      "published_at": "2026-07-29T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "Spezialist/-in Digital Workplace - Messaging & Office (m/w/d) - DAK-Gesundheit",
@@ -972,6 +1032,16 @@
       "type": "Studie"
     },
     {
+      "title": "Albumin for people with liver cirrhosis and bacterial infections",
+      "summary_de": "Albumin for people with liver cirrhosis and bacterial infections",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014636.pub2",
+      "published_at": "2026-07-28T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "Guidance: AI Airlock Sandbox Phase 2 Programme Report",
       "summary_de": "The MHRA’s AI Airlock second phase ran between April 2025 and May 2026. This report does not constitute formal MHRA guidance.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1026,16 +1096,6 @@
       "type": "News"
     },
     {
-      "title": "Das Gesundheitssystem muss sich an die neue Realität anpassen | Die Techniker - Presse & Politik - Techniker Krankenkasse",
-      "summary_de": "Das Gesundheitssystem muss sich an die neue Realität anpassen | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM1IyWXZQWm9ZQTA3amNtZHlJSUdEZE5pSjZ3NFRHaWFrWXZEY1ludmZjWlAwblVkUjk2em5vV2pNaDQ3dDM5WmxsMXo1eGJSaDRRbTVLYXJlM0R3SUdOUjM0cDlvQjVVcGF4aXhjaUo0SDNiR18zMlJVb191LXUtRTBjaVplZ2JFLUpyRG9TOFYyc3JSdFN1NkZkRHp2ZC1KYXFOUzVKRXc5ZllzMmJqai11TlBNbl84eXlKaQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-27T06:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gender Data Gap: Forschungsdatenzentrum Gesundheit kommt erst langsam voran (Meldung) | SZ Dossier - SZ.de",
       "summary_de": "Gender Data Gap: Forschungsdatenzentrum Gesundheit kommt erst langsam voran (Meldung) | SZ Dossier &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1046,14 +1106,24 @@
       "type": "News"
     },
     {
-      "title": "Atmungstherapeut (m/w/d) Klinik Martinusquelle, Medizinisches Zentrum für Gesundheit Bad Lippspringe GmbH - stellenmarkt.sueddeutsche.de",
-      "summary_de": "Atmungstherapeut (m/w/d) Klinik Martinusquelle, Medizinisches Zentrum für Gesundheit Bad Lippspringe GmbH &nbsp;&nbsp; stellenmarkt.sueddeutsche.de",
+      "title": "Atmungstherapeut (m/w/d) Klinik Martinusquelle, Medizinisches Zentrum für Gesundheit Bad Lippspringe GmbH - SZ-Stellenmarkt",
+      "summary_de": "Atmungstherapeut (m/w/d) Klinik Martinusquelle, Medizinisches Zentrum für Gesundheit Bad Lippspringe GmbH &nbsp;&nbsp; SZ-Stellenmarkt",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZlo4THYxTDU1a0tEVV92b0d5WjcxS2VNMGdYUVNaLWhRVmVXLWtILWk0UGNCU3pZeGI2WmY3SGgzRVlBOTdlenp2T3RvcVNNcVdiTEZ6QlJPZm9aTXV4V2JOaWYtRnVaQ2tsMnhuTjNLWkdVZXI3N1drd3UzazZPOTdDNjRNWXZuTGtMM29NTWNSSkZJb28yVVdkTWhLSWktQnJDN0k3N1V4clp6?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-27T03:56:55+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Switching from sulphasalazine or oral 5‐aminosalicylic acid to another oral 5‐aminosalicylic acid drug in the maintenance of remission in ulcerative colitis",
+      "summary_de": "Switching from sulphasalazine or oral 5‐aminosalicylic acid to another oral 5‐aminosalicylic acid drug in the maintenance of remission in ulcerative colitis",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016374",
+      "published_at": "2026-07-27T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "Gesundheit - Klingbeil und Schwesig für bessere Behandlung nach Krebs - Politik - SZ.de",
@@ -1126,16 +1196,6 @@
       "type": "News"
     },
     {
-      "title": "Decision: Medical devices given exceptional use authorisations",
-      "summary_de": "List of manufacturers and their medical devices granted an exemption by MHRA. The list also includes manufacturers whose exemption expired or was cancelled.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations",
-      "published_at": "2026-07-24T12:11:26+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit: Zehenfreiheit gefragt – Verband sieht Trend zum Barfußschuh - DIE ZEIT",
       "summary_de": "Gesundheit: Zehenfreiheit gefragt – Verband sieht Trend zum Barfußschuh &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -1176,16 +1236,6 @@
       "type": "News"
     },
     {
-      "title": "Krankenhausreform: Abteilungen schließen: Minister verteidigt Klinik-Pläne - DIE ZEIT",
-      "summary_de": "Krankenhausreform: Abteilungen schließen: Minister verteidigt Klinik-Pläne &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTWNtLWk1SFUtSmtHNWZ3dXJ2bUpDdHMtNDNoeEc5ZVMxcE82a2R4SGFyaktGLTVrVHMtWVJDVW4wbU04c2MzTXhrODM1c2x0c0JzOTlINFR5MXplaGx6ZG5YeVAzLUt3b191LTQ1NXBYRWg5V3Nfdm5hZlh5MUxVNFRseGp4ZHVJTWY3Q0VaZ3VjTENOaTJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-24T09:21:04+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Pressemitteilung: Es bleibt viel zu tun für den designierten Bundesgesundheitsminister",
       "summary_de": "Anlässlich des angekündigten Wechsels im Bundesgesundheitsministerium mit Carsten Linnemann als neuem Bundesgesundheitsminister meldet sich der Vorstandsvorsitzende des GKV-Spitzenverbandes Oliver Blatt zu Wort.",
       "source_name": "GKV-SV Presseinformationen",
@@ -1218,21 +1268,21 @@
       "type": "News"
     },
     {
+      "title": "Therapeutic donor hypothermia following brain death to improve the quality of transplanted organs",
+      "summary_de": "Therapeutic donor hypothermia following brain death to improve the quality of transplanted organs",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015190.pub2",
+      "published_at": "2026-07-24T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "NHS App Management Information - June 2026",
       "summary_de": "This publication provides information on the number of users and usage of the NHS App, and of features available through it. It aims to provide an open and accessible data source to give insight into how the public are using the NHS App, and how usage changes over time. Data are included for the following measures at ICB and national …",
       "source_name": "Publication Feed",
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-app-statistics/june-2026",
       "published_at": "2026-07-23T13:55:35+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Guidance: Clinical investigations: compiling a submission",
-      "summary_de": "How to notify the MHRA that you are going to undertake a clinical investigation of a medical device.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/clinical-investigations-compiling-a-submission",
-      "published_at": "2026-07-23T12:43:36+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
@@ -1310,6 +1360,56 @@
       "type": "News"
     },
     {
+      "title": "Nucleic acid‐based therapies for people with cystic fibrosis",
+      "summary_de": "Nucleic acid‐based therapies for people with cystic fibrosis",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016370",
+      "published_at": "2026-07-23T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Larger versus smaller red blood cell volume per transfusion in hospitalized adults, children and preterm neonates",
+      "summary_de": "Larger versus smaller red blood cell volume per transfusion in hospitalized adults, children and preterm neonates",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015898.pub2",
+      "published_at": "2026-07-23T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Preoperative physical exercise training for people scheduled for major abdominal surgery",
+      "summary_de": "Preoperative physical exercise training for people scheduled for major abdominal surgery",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010122.pub2",
+      "published_at": "2026-07-23T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Interventions for replacing missing teeth: zygomatic implants for the rehabilitation of the severely atrophic edentulous maxilla",
+      "summary_de": "Interventions for replacing missing teeth: zygomatic implants for the rehabilitation of the severely atrophic edentulous maxilla",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004151.pub4",
+      "published_at": "2026-07-23T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Exercise for osteoarthritis of the hip",
+      "summary_de": "Exercise for osteoarthritis of the hip",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007912.pub3",
+      "published_at": "2026-07-23T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "EFSA lowers safe level for exposure to TFA",
       "summary_de": "The European Food Safety Authority (EFSA) has reduced the safe level of trifluoroacetic acid (TFA) in the diet based on new scientific evidence. TFA is a breakdown product of some pesticides.",
       "source_name": "EFSA | News",
@@ -1328,6 +1428,16 @@
       "category": "News",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Prophylactic versus selective use of surfactant for preventing morbidity and mortality in preterm infants at risk of respiratory distress syndrome",
+      "summary_de": "Prophylactic versus selective use of surfactant for preventing morbidity and mortality in preterm infants at risk of respiratory distress syndrome",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000510.pub3",
+      "published_at": "2026-07-22T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "[MI] Learning Disabilities Health Check Scheme, England May 2026",
@@ -1362,8 +1472,18 @@
       "type": "News"
     },
     {
-      "title": "Ein Blick auf die Radiologie: Uni-Klinik holt Nachhaltigkeits-Siegel - meetingpoint-brandenburg.de",
-      "summary_de": "Ein Blick auf die Radiologie: Uni-Klinik holt Nachhaltigkeits-Siegel &nbsp;&nbsp; meetingpoint-brandenburg.de",
+      "title": "Minimally invasive trabecular meshwork surgery for open‐angle glaucoma",
+      "summary_de": "Minimally invasive trabecular meshwork surgery for open‐angle glaucoma",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015186.pub2",
+      "published_at": "2026-07-21T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Ein Blick auf die Radiologie: Uni-Klinik holt Nachhaltigkeits-Siegel - Meetingpoint Brandenburg",
+      "summary_de": "Ein Blick auf die Radiologie: Uni-Klinik holt Nachhaltigkeits-Siegel &nbsp;&nbsp; Meetingpoint Brandenburg",
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd0RwVWZ0R3RBeGtSSEpHSWxZcEVTbFllRXdpTlZWaFNBTlMwLW55OFh4TkYybDdMd1FONlRxZWhEMHBYSU53c3FBVVJZdXE4aUhtUGRJcEhabFVwQ1dKU2k5NERmTmwta01HSDQzM0drOWpRU19zODVHUE9yRGRNZF83R1N5UHlwMFFnNGhtLXg1SlR2QXJndlJEcDVlMlJCSURsTVFVUTZOOUJtQVhsLWZmNVJiNHlEeVNXTzFudEdvbFhyVFRPUUFpblFYOTQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-20T13:01:00+00:00",
@@ -1434,12 +1554,42 @@
       "type": "News"
     },
     {
+      "title": "Topical cyclosporine A therapy for dry eye disease",
+      "summary_de": "Topical cyclosporine A therapy for dry eye disease",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010051.pub3",
+      "published_at": "2026-07-17T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Venepuncture versus heel lance for blood sampling in term neonates",
+      "summary_de": "Venepuncture versus heel lance for blood sampling in term neonates",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001452.pub5",
+      "published_at": "2026-07-17T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "Ersatzkassen fordern besseren Schutz von Kindern und Jugendlichen bei der Nutzung digitaler Medien",
       "summary_de": "Die Ersatzkassen fordern in einer Resolution Gesellschaft und Politik auf, die Medien- und Digitalkompetenz von Kindern und Jugendlichen durch geeignete präventive Maßnahmen zu stärken.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2026/digitale-medien-kompetenz.html?pk_campaign=rss",
       "published_at": "2026-07-16T15:47:00+00:00",
       "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Monitoring und Kontrolle von KI-Lösungen im Krankenhaus, Adiccon GmbH, Story - PresseBox",
+      "summary_de": "Monitoring und Kontrolle von KI-Lösungen im Krankenhaus, Adiccon GmbH, Story &nbsp;&nbsp; PresseBox",
+      "source_name": "\"site:pressebox.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaGtQdm5VaUtaaF8zV3BRLU9TZ1lsUEtPVE9lNUNUUDQ4OFYtTEluOXFHRVF4LUItVkM5MTQ3THhtVzhZeG5pcUViRk5OLWdVemNDZmEwZy1KRFh6SVBXSUp6VmJfaTl0ZmMxNVc3N0diX1NtNlpBR2lGTEdLQ0dzX1pZVGZ2UjNFdTNKcmthN251WE5hOGpzLTVfT3ZMV2Y2UGVlSHVzN05wSEVzS1VtZkp3MU9IMjRfcUlrRFFuSkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-16T12:09:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1460,16 +1610,6 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-network-contract-des/england-june-2026",
       "published_at": "2026-07-16T08:31:00+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Fachärztin/-arzt für Radiologie 60-100% - ärztestellen",
-      "summary_de": "Fachärztin/-arzt für Radiologie 60-100% &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjFyZXROU1ZhVUU5bWlCbkotdzhSYnlzbUh0MnFyeHpYUEVySkdNUVp1TThhNldVVTFiYktuNnRkUjNtRHJmNW1fTk9GcUxfT2Q0VUw4N0psWXUyMG5DeFNLaHpNSjFZeWg0UDA1R094MGJibE9hbkdORGsyVzA0dDhUZGZTTGRlR05HMDQ1RGNkNDI2UFFXRVBseVBmanM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-16T07:00:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1569,8 +1709,38 @@
       "type": "News"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
+      "title": "Non‐invasive management strategies for molar‐incisor hypomineralization (MIH) in children",
+      "summary_de": "Non‐invasive management strategies for molar‐incisor hypomineralization (MIH) in children",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016369",
+      "published_at": "2026-07-15T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Performance of next‐generation sequencing technologies for detecting drug‐resistant tuberculosis in people with pulmonary tuberculosis",
+      "summary_de": "Performance of next‐generation sequencing technologies for detecting drug‐resistant tuberculosis in people with pulmonary tuberculosis",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016368",
+      "published_at": "2026-07-15T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Non‐surgical treatment for lower limb apophyseal injuries",
+      "summary_de": "Non‐surgical treatment for lower limb apophyseal injuries",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015156.pub2",
+      "published_at": "2026-07-15T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-14T07:00:00+00:00",
@@ -1603,6 +1773,36 @@
       "type": "News"
     },
     {
+      "title": "Blood pressure management in reperfused ischemic stroke",
+      "summary_de": "Blood pressure management in reperfused ischemic stroke",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016085.pub2",
+      "published_at": "2026-07-14T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Restorative materials for direct coronal restoration of permanent posterior teeth: an overview of systematic reviews",
+      "summary_de": "Restorative materials for direct coronal restoration of permanent posterior teeth: an overview of systematic reviews",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016279",
+      "published_at": "2026-07-14T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Recombinant follicle‐stimulating hormone (rFSH) versus other recombinant or urinary gonadotropins for ovarian stimulation in assisted reproductive technology cycles",
+      "summary_de": "Recombinant follicle‐stimulating hormone (rFSH) versus other recombinant or urinary gonadotropins for ovarian stimulation in assisted reproductive technology cycles",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005354.pub3",
+      "published_at": "2026-07-14T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "Professur „Pflege- und Gesundheitsmanagement“ (m/w/d) mit den Schwerpunkten Digitalisierung, Gerontologie und Gesundheitsbildung - Fachhochschule Dresden - Private Fachhochschule GmbH - ZEIT Stellenmarkt",
       "summary_de": "Professur „Pflege- und Gesundheitsmanagement“ (m/w/d) mit den Schwerpunkten Digitalisierung, Gerontologie und Gesundheitsbildung - Fachhochschule Dresden - Private Fachhochschule GmbH &nbsp;&nbsp; ZEIT Stellenmarkt",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
@@ -1633,6 +1833,16 @@
       "category": "Radiologie",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Methotrexate for hand osteoarthritis",
+      "summary_de": "Methotrexate for hand osteoarthritis",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016228",
+      "published_at": "2026-07-13T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 6-9 July 2026",
@@ -1873,16 +2083,6 @@
       "type": "News"
     },
     {
-      "title": "TK-Ärzteführer - Techniker Krankenkasse",
-      "summary_de": "TK-Ärzteführer &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYmtvVElOR3MwVVlHZl9pQnpPOVUxRVpSUWM3LTMzY0hIVHlrWjdhS05kMFYzdUpVUzZXRXBrbWVPVVdhZkpxZ2VnSUlXZDRzVkVWQWVORTBUTlFfT3VNVVI5MXhpOElkMjlHSjNQTUU3VU82a2Z3cUJfSUtkQkRQS3diNVVrQlR3UlU1NUY2d1RmQUxOVXJVd19ZYk1DZzVWQnJ1OU14WUI5SGh3U3RqdkxSMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-07T11:01:03+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Elsner: Einnahmenorientierte Ausgabenpolitik wird zunehmend durchlöchert - neue Risiken für stabile Beiträge",
       "summary_de": "Der vdek warnt davor, dass die jetzt vorliegenden Änderungsanträge zum GKV-Beitragsstabilisierungsgesetz nur teilweise für einnahmenorientierte Ausgaben sorgen. Sonderregelungen für bestimmte Leistungsbereiche sollte es nicht geben.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -1892,16 +2092,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Komfortabel, smart, sicher: So funktioniert das E-Rezept - Techniker Krankenkasse",
-      "summary_de": "Komfortabel, smart, sicher: So funktioniert das E-Rezept &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRUNFejI0a2ZUckRGMHFSZGNFYlpCTElsTVVVSnI4WW1uYnNLTzlma1ZnRU9TM3ExaC1JR05tYU5SMUlmSmRkRXpsV1liaFI0Tm9Bc0pqZGFISlRSSjNmT21FUGMzTE9DUHhjRkZpMkU5QXFxTUh2ZUhvaHd1VUIzTzU3TjNHVXFvcVRPOXYwa1NwMno1bVJuemYtWmNNWXRJdV9UT1M1Rmd3QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-06T15:29:27+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
@@ -2078,6 +2268,16 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/female-genital-mutilation/january-to-march-2026",
       "published_at": "2026-06-29T10:53:45+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Doppelfacharzt für Radiologie und Nuklearmedizin - ärztestellen",
+      "summary_de": "Doppelfacharzt für Radiologie und Nuklearmedizin &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSE56eFR3S0dLMklIdTV3UWprekNhYzJoR0xXQU90c0RiWXZpdDVEd2NBU0VLZ0xfN1EtUEM3Q2JxWmNXV05ySnNNcVN0Sk5KbTV5U1JqU1JTLVpsQ2lMOGR2bFd6TGM1NVlTcG9NTFg5dExXejVMb2R0aXBzbGRhRkoySW8tSEpHUEtBQnV2WXJFQ0gxYlI2V2NWbmFScldXQm5GNHNZMDFZWEI2?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-06-29T07:00:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
