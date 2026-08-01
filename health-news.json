@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-08-01T13:02:08.830171+00:00",
+  "generated_at": "2026-08-01T15:55:15.297490+00:00",
   "window_days": 42,
   "count": 246,
   "items": [
+    {
+      "title": "Krankheiten - Ebola-Ausbruch im Kongo verschärft sich - Gesundheit - SZ.de",
+      "summary_de": "Krankheiten - Ebola-Ausbruch im Kongo verschärft sich - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdXV6c29udnZtQWNvSmZMMnp3ZW1lSlJoYkQ2SHRNRHowc2JZeUdfZ1FpVm1vUzF4YU5MazFxcjgxS2VIU3c2T3BRQTJLMzZFN0hLcTJ6NEN1Z094dWhWNUVvenlnYnpSRFVYeDQ3YWYwRk9VeV9GR0Q2cTFoWkl5aXc0Q19FUDhLS1YzemI1RXBJWUsyVFJPZWVzSEJiQlI4Ni00NVJEYzhxcjM3akdaSTUxYTBtUlU4TGh6RTladjZfYVJXaHY5bnk5dFlNT0ZiTm1CZVpvaDI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-01T13:11:40+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Der MAGNETOM Free.Max von Siemens Healthineers - MRT mit offenem 80-Zentimeter-Bohrdurchmesser - AD HOC NEWS",
       "summary_de": "Der MAGNETOM Free.Max von Siemens Healthineers - MRT mit offenem 80-Zentimeter-Bohrdurchmesser &nbsp;&nbsp; AD HOC NEWS",
@@ -226,16 +236,6 @@
       "type": "News"
     },
     {
-      "title": "USA: USA streichen Medicare-Zuschüsse",
-      "summary_de": "Die US-Regierung will zum Jahresende ein Zuschussprogramm f&uuml;r Medicare-Part-D-Arzneimitteltarife beenden. Der Wegfall der staatlichen Unterst&uuml;tzung k&ouml;nnte dazu f&uuml;hren, dass Millionen &auml;lterer Menschen in den USA k&uuml;nftig h&ouml;here Beitr&auml;ge f&uuml;r ihre Arzneimittelversorgung zahlen m&uuml;ssen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/usa-streichen-medicare-zuschuesse-167228/",
-      "published_at": "2026-07-31T08:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Metaanalyse: Antihistaminika bei Neurodermitis eher schädlich als nützlich",
       "summary_de": "Helfen Antihistaminika bei atopischer Dermatitis, besser bekannt als Neurodermitis? Dieser Frage ging ein Forschungsteam mit einem systematischen Review und einer Metaanalyse nach. Es r&auml;t von einem standardm&auml;&szlig;igen Einsatz ab.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -244,6 +244,16 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "USA: USA streichen Medicare-Zuschüsse",
+      "summary_de": "Die US-Regierung will zum Jahresende ein Zuschussprogramm f&uuml;r Medicare-Part-D-Arzneimitteltarife beenden. Der Wegfall der staatlichen Unterst&uuml;tzung k&ouml;nnte dazu f&uuml;hren, dass Millionen &auml;lterer Menschen in den USA k&uuml;nftig h&ouml;here Beitr&auml;ge f&uuml;r ihre Arzneimittelversorgung zahlen m&uuml;ssen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/usa-streichen-medicare-zuschuesse-167228/",
+      "published_at": "2026-07-31T08:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Nuklearmedizin Stellenangebote in 53123 Bonn, Deutschland (0) - ärztestellen",
@@ -366,22 +376,22 @@
       "type": "News"
     },
     {
-      "title": "PZ Briefing : Die Top-News vom 30.7.2026",
-      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-3072026-167225/",
-      "published_at": "2026-07-30T14:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Rezeptabrechnung : Von NARZ zu AVN",
       "summary_de": "Jetzt wird abgerechnet: K&uuml;nftig soll die Rezeptabrechnung des Norddeutschen Apotheken-Rechenzentrums (NARZ) in die Zust&auml;ndigkeit der AVN Apotheken-Verrechnungsstelle Dr. Carl Carstens fallen. Dies gab der Verwaltungsrat via Pressemitteilung bekannt.&nbsp;",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/von-narz-zu-avn-167224/",
       "published_at": "2026-07-30T14:00:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "PZ Briefing : Die Top-News vom 30.7.2026",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-3072026-167225/",
+      "published_at": "2026-07-30T14:00:00+00:00",
+      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -402,16 +412,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/mehrheit-stellt-sich-auf-beitragserhoehungen-ein-167220/",
       "published_at": "2026-07-30T13:45:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Brandenburg: Krankenhaus-Azubis in Uckermark und Barnim bekommen mehr Geld - tagesschau.de",
-      "summary_de": "Brandenburg: Krankenhaus-Azubis in Uckermark und Barnim bekommen mehr Geld &nbsp;&nbsp; tagesschau.de",
-      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWHdtaThBRzZGRU0zUDZsQUFXVVBhY20tVjM0ZC03bHpBV1RPOFNSRFk1WjZZOTJ3WHg1endiQ3NUdG5FYU1DWnpnLUV1YTFfQkJqQWxCTWY0XzJpZEFjMnFOSDY2MmNTNjhYNjhSa1M5NzBidGxGQUpSbjBiUHFXWEpIV19FaWo4bHpnbFdxV19fVDUyaEFybktiTmFmN1Vxc3FDdVFhTXVrTVR6MVdaSGtJaXhfR1lpOU5yZlJiV1VFb3pNQUZr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-30T13:41:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1064,6 +1064,16 @@
       "type": "News"
     },
     {
+      "title": "Gesundheitsprobleme möglich - Wöchentliche Kontrolle von Bleilochstausee wegen Blaualgen - Gesundheit - SZ.de",
+      "summary_de": "Gesundheitsprobleme möglich - Wöchentliche Kontrolle von Bleilochstausee wegen Blaualgen - Gesundheit &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMmNhNHotTy10TUlxMXpXVldqMzZ2SDZoeV9rd18tRTRYeGU2NXhWOV9rSEdaX3BfMjc5S1dlQi00Nk1PYlpDSlJBb1VOSGhjN0pQeHNrSkt1Tjd0OERVNVBuWmdHTk5rUUJWejVORFlMcW54S1Bia3RCb3dNcW5uQzNFbnB3NFBSY2hmRDBEWVFFR3NaRDhES2tHV1NpVGc3V3czSWJ6ZnVsMjFrbklEakl4Si14ODlkbTBzdFhDUG84WVloS0pnekkxcmNzZ2Y5bkVaaHhCNHdpWS1vUEtlYWZjREhnMFdXaFlPdk54LUUybkVGenZDbEUzdU1ZLVk0RzR1UWxYSmw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-28T09:14:40+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Bakterien und Viren - Im Pool planschen Krankheitserreger immer mit - Gesundheit - SZ.de",
       "summary_de": "Bakterien und Viren - Im Pool planschen Krankheitserreger immer mit - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1158,8 +1168,8 @@
       "type": "News"
     },
     {
-      "title": "Atmungstherapeut (m/w/d) Klinik Martinusquelle, Medizinisches Zentrum für Gesundheit Bad Lippspringe GmbH - stellenmarkt.sueddeutsche.de",
-      "summary_de": "Atmungstherapeut (m/w/d) Klinik Martinusquelle, Medizinisches Zentrum für Gesundheit Bad Lippspringe GmbH &nbsp;&nbsp; stellenmarkt.sueddeutsche.de",
+      "title": "Atmungstherapeut (m/w/d) Klinik Martinusquelle, Medizinisches Zentrum für Gesundheit Bad Lippspringe GmbH - SZ-Stellenmarkt",
+      "summary_de": "Atmungstherapeut (m/w/d) Klinik Martinusquelle, Medizinisches Zentrum für Gesundheit Bad Lippspringe GmbH &nbsp;&nbsp; SZ-Stellenmarkt",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZlo4THYxTDU1a0tEVV92b0d5WjcxS2VNMGdYUVNaLWhRVmVXLWtILWk0UGNCU3pZeGI2WmY3SGgzRVlBOTdlenp2T3RvcVNNcVdiTEZ6QlJPZm9aTXV4V2JOaWYtRnVaQ2tsMnhuTjNLWkdVZXI3N1drd3UzazZPOTdDNjRNWXZuTGtMM29NTWNSSkZJb28yVVdkTWhLSWktQnJDN0k3N1V4clp6?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-27T03:56:55+00:00",
@@ -1751,8 +1761,8 @@
       "type": "Studie"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-14T07:00:00+00:00",
@@ -2212,16 +2222,6 @@
       "type": "News"
     },
     {
-      "title": "Kannibalismus ist schlecht für die Gesundheit - auch Kochen tötet Krankheitserreger nicht - Spiegel",
-      "summary_de": "Kannibalismus ist schlecht für die Gesundheit - auch Kochen tötet Krankheitserreger nicht &nbsp;&nbsp; Spiegel",
-      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPX25pREszNVBqbDZVWGFjUE5JMnREZDhia0Y0M1l1TENZbC1Bb3Qycnd5Y0hYREdpZ1N5Ri0xXzcyQldDNC1QanBzVWFwbDc1MlRXdV9xOFhHSG5TeGZLOVFlRmE5bUkwNm1uMnppUXVZZWJHVkZIbm5fTDRaMGxkaXYtOFhZRXlvSTNZRDB0cEFIUjVFQ0lQMmhBVEYyeEgyb19pNU9GelVva0pldndRVXFxNGZYY0ExTUZQTzA2ZXdJMUNlSHBSOGpLM2NtUElObXB5T3ZyN1VvbjlVWnk5Rmd1U29WYm9VeFJMNUVOZ1VQdEdCNVZR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-02T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Brand im Krankenhaus Ludwigslust: Dachstuhl der Radiologie brennt - NDR.de",
       "summary_de": "Brand im Krankenhaus Ludwigslust: Dachstuhl der Radiologie brennt &nbsp;&nbsp; NDR.de",
       "source_name": "\"radiologie\" - Google News",
@@ -2232,8 +2232,8 @@
       "type": "News"
     },
     {
-      "title": "Ganzkörper-MRT: Radiologe erklärt, wann es sinnvoll ist – und wann er abrät - morgenpost.de",
-      "summary_de": "Ganzkörper-MRT: Radiologe erklärt, wann es sinnvoll ist – und wann er abrät &nbsp;&nbsp; morgenpost.de",
+      "title": "Ganzkörper-MRT: Radiologe erklärt, wann es sinnvoll ist – und wann er abrät - Berliner Morgenpost",
+      "summary_de": "Ganzkörper-MRT: Radiologe erklärt, wann es sinnvoll ist – und wann er abrät &nbsp;&nbsp; Berliner Morgenpost",
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLVBqWnRYQ1pkUFNBS3ZTazhORnd5cWZpeDNCRXpsUF9OQS1mYmY0dVRFR05zazFjcm1ia0Z4ZXhHSzNWcU5yMG1KUDRPYkRjVnhvbm9zc0NvMTNDMHlFS25VUmkyUjQ4aDlRUFZUN0dvZTZwaWFqR0hiU3NlbXZZZ0hPVERmQUp0eDFvQWx0MmdmeUkxaEdBcVlyV1hqZEpMRUVTYThIMjQ3d0paNTFHQlBONHF6SHo0bXZFSEZ1RTRwVmRKMVF1VW03UDZHaFg3TVA1VGpFNmV1RVhzVHl0NVVtWWJTZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-02T07:00:00+00:00",
