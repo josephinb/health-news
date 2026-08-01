@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-08-01T05:47:49.741268+00:00",
+  "generated_at": "2026-08-01T08:07:48.395217+00:00",
   "window_days": 42,
-  "count": 244,
+  "count": 247,
   "items": [
+    {
+      "title": "PZ Briefing: Die Top-News der Woche",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-der-woche-167268/",
+      "published_at": "2026-08-01T07:30:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Unzulässige Bonusmodelle: BMG: Paritätische Stelle soll aktiv werden",
+      "summary_de": "Ab Januar werden h&ouml;here Zuzahlungen auf Rx f&auml;llig. Die Versender werben bereits damit, ihren Kunden die Betr&auml;ge zu erlassen. Handhabe dagegen gibt es theoretisch in Form der Parit&auml;tischen Stelle, aber an die glaubt die Politik selbst nicht. Dennoch sieht sich das Bundesgesundheitsministerium (BMG) nicht in der Pflicht.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/bmg-paritaetische-stelle-soll-aktiv-werden-167238/",
+      "published_at": "2026-08-01T07:05:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Viren aus der Kolonialzeit - Genetischer Nachweis: Europäer brachten Pocken nach Amerika - Gesundheit - SZ.de",
       "summary_de": "Viren aus der Kolonialzeit - Genetischer Nachweis: Europäer brachten Pocken nach Amerika - Gesundheit &nbsp;&nbsp; SZ.de",
@@ -510,26 +530,6 @@
       "type": "News"
     },
     {
-      "title": "Titelthema Qualität: Die neue Ausgabe der PZ jetzt als E-Paper lesen",
-      "summary_de": "Die Pharmazeutische Zeitung gibt es auch als vollwertiges E-Paper: unkompliziert, immer p&uuml;nktlich und im Rahmen des Print-Abonnements enthalten. Die neue Ausgabe ist heute erschienen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/die-neue-ausgabe-der-pz-jetzt-als-e-paper-lesen-167190/",
-      "published_at": "2026-07-30T10:28:25+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "RKI-Bericht: Fast 10.000 hitzebedingte Todesfälle in diesem Jahr",
-      "summary_de": "Mehrere Tausend Menschen sind laut RKI in diesem Jahr an den Folgen gro&szlig;er Hitze gestorben &ndash; mehr als in jedem Gesamtjahr seit 2016. Besonders betroffen sind &auml;ltere Menschen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/fast-10000-hitzebedingte-todesfaelle-in-diesem-jahr-167187/",
-      "published_at": "2026-07-30T10:26:59+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Thousands of patients to benefit from new daily pill for serious heart condition following co-ordinated MHRA and NICE decisions",
       "summary_de": "Aficamten is recommended by NICE at the same time it was approved by the MHRA, thanks to improvements driven by closer working between the two organisations.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -894,6 +894,16 @@
       "type": "News"
     },
     {
+      "title": "Impressum - Techniker Krankenkasse",
+      "summary_de": "Impressum &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55VlNIMURWd21UU185bm1nS0loTzl2NDJmc2ktYnh6UDcxMkl0MTJfV2pTcDN6WkNvcW9FZlhMQ0hudnNORUNJSTVMaWJWQ3RJTGZjcDZPMmg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-29T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gesundheit und Erholung: In der Hitze der Nacht: Schläft es sich nackt besser? - DIE ZEIT",
       "summary_de": "Gesundheit und Erholung: In der Hitze der Nacht: Schläft es sich nackt besser? &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -1034,12 +1044,12 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitsprobleme möglich - Wöchentliche Kontrolle von Bleilochstausee wegen Blaualgen - Gesundheit - SZ.de",
-      "summary_de": "Gesundheitsprobleme möglich - Wöchentliche Kontrolle von Bleilochstausee wegen Blaualgen - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMmNhNHotTy10TUlxMXpXVldqMzZ2SDZoeV9rd18tRTRYeGU2NXhWOV9rSEdaX3BfMjc5S1dlQi00Nk1PYlpDSlJBb1VOSGhjN0pQeHNrSkt1Tjd0OERVNVBuWmdHTk5rUUJWejVORFlMcW54S1Bia3RCb3dNcW5uQzNFbnB3NFBSY2hmRDBEWVFFR3NaRDhES2tHV1NpVGc3V3czSWJ6ZnVsMjFrbklEakl4Si14ODlkbTBzdFhDUG84WVloS0pnekkxcmNzZ2Y5bkVaaHhCNHdpWS1vUEtlYWZjREhnMFdXaFlPdk54LUUybkVGenZDbEUzdU1ZLVk0RzR1UWxYSmw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-28T09:14:40+00:00",
-      "category": "News",
+      "title": "Ärztin / Arzt in Weiterbildung – Radiologie (m/w/d) - Senator-Weßling-Straße 1, 28277 Bremen, Deutschland - ärztestellen",
+      "summary_de": "Ärztin / Arzt in Weiterbildung – Radiologie (m/w/d) - Senator-Weßling-Straße 1, 28277 Bremen, Deutschland &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVUJJcGNTbTZ2WHNyMXVjdUVZRFRJMVZGZ2h1SFV3c3kzWXhPUmItV3lRZzNDTnFKNGk4dVctazMwd0UyZ0c3elVDVVF1eUZzd1hLUWxhSk93dnY4Z2Ric2xleVV0dkhaOEgxWVVFVWdNTmFoQmhjX3BHNXdVUjF3ZVE3aS1GRlVxT3p0Y1gyTERCQ1Y3X2thWG9hWWxhdlZkYTdEMg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-28T07:00:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1118,6 +1128,16 @@
       "type": "News"
     },
     {
+      "title": "Das Gesundheitssystem muss sich an die neue Realität anpassen | Die Techniker - Presse & Politik - Techniker Krankenkasse",
+      "summary_de": "Das Gesundheitssystem muss sich an die neue Realität anpassen | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM1IyWXZQWm9ZQTA3amNtZHlJSUdEZE5pSjZ3NFRHaWFrWXZEY1ludmZjWlAwblVkUjk2em5vV2pNaDQ3dDM5WmxsMXo1eGJSaDRRbTVLYXJlM0R3SUdOUjM0cDlvQjVVcGF4aXhjaUo0SDNiR18zMlJVb191LXUtRTBjaVplZ2JFLUpyRG9TOFYyc3JSdFN1NkZkRHp2ZC1KYXFOUzVKRXc5ZllzMmJqai11TlBNbl84eXlKaQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-27T06:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gender Data Gap: Forschungsdatenzentrum Gesundheit kommt erst langsam voran (Meldung) | SZ Dossier - SZ.de",
       "summary_de": "Gender Data Gap: Forschungsdatenzentrum Gesundheit kommt erst langsam voran (Meldung) | SZ Dossier &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1188,20 +1208,20 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: DAK: Hessen im ersten Halbjahr weniger krankgeschrieben - DIE ZEIT",
-      "summary_de": "Gesundheit: DAK: Hessen im ersten Halbjahr weniger krankgeschrieben &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit: DAK: Krankenstand im Südwesten leicht rückläufig - DIE ZEIT",
+      "summary_de": "Gesundheit: DAK: Krankenstand im Südwesten leicht rückläufig &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS1pic1laNnAzWGxVTnhCMzhGdzR4YXg5SnU4OFBIWlU5RWhuQVdaVjN4U1ZYdHBKb2tkalJXXzgtYU9mRE5vSVJWRld3elJVbVllcUJXQV9nWmtOUEoyZmpBd3M0M0k3dm9fVHN2N0Itdy1MNW1kbm40NWdqRE5kdy1tRDFVb0huTzdkRF9MRGlNS1VK?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaWZmbWJobHNQNnZsdnFZOEhhYW5DR2t2bWdadlNiQ2V1c3pZY1o2ZllUcWpTVXZfUlowdjNEMThvQzc2V0dNamxHaGplMk0ybU5ueF9HamJpZzVKWDFnc09GemVabnVwN0FDdHlEczFLMGt0aEhCd1JwcGVkZnVnTDU1SkFfbFhNeDFWMTdQdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-26T02:00:13+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Gesundheit: DAK: Krankenstand im Südwesten leicht rückläufig - DIE ZEIT",
-      "summary_de": "Gesundheit: DAK: Krankenstand im Südwesten leicht rückläufig &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit: DAK: Hessen im ersten Halbjahr weniger krankgeschrieben - DIE ZEIT",
+      "summary_de": "Gesundheit: DAK: Hessen im ersten Halbjahr weniger krankgeschrieben &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaWZmbWJobHNQNnZsdnFZOEhhYW5DR2t2bWdadlNiQ2V1c3pZY1o2ZllUcWpTVXZfUlowdjNEMThvQzc2V0dNamxHaGplMk0ybU5ueF9HamJpZzVKWDFnc09GemVabnVwN0FDdHlEczFLMGt0aEhCd1JwcGVkZnVnTDU1SkFfbFhNeDFWMTdQdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS1pic1laNnAzWGxVTnhCMzhGdzR4YXg5SnU4OFBIWlU5RWhuQVdaVjN4U1ZYdHBKb2tkalJXXzgtYU9mRE5vSVJWRld3elJVbVllcUJXQV9nWmtOUEoyZmpBd3M0M0k3dm9fVHN2N0Itdy1MNW1kbm40NWdqRE5kdy1tRDFVb0huTzdkRF9MRGlNS1VK?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-26T02:00:13+00:00",
       "category": "News",
       "tags": [],
@@ -1817,16 +1837,6 @@
       "type": "News"
     },
     {
-      "title": "Ärztin / Arzt in Weiterbildung – Radiologie (m/w/d) - Senator-Weßling-Straße 1, 28277 Bremen, Deutschland - ärztestellen",
-      "summary_de": "Ärztin / Arzt in Weiterbildung – Radiologie (m/w/d) - Senator-Weßling-Straße 1, 28277 Bremen, Deutschland &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVUJJcGNTbTZ2WHNyMXVjdUVZRFRJMVZGZ2h1SFV3c3kzWXhPUmItV3lRZzNDTnFKNGk4dVctazMwd0UyZ0c3elVDVVF1eUZzd1hLUWxhSk93dnY4Z2Ric2xleVV0dkhaOEgxWVVFVWdNTmFoQmhjX3BHNXdVUjF3ZVE3aS1GRlVxT3p0Y1gyTERCQ1Y3X2thWG9hWWxhdlZkYTdEMg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-13T07:31:59+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Methotrexate for hand osteoarthritis",
       "summary_de": "Methotrexate for hand osteoarthritis",
       "source_name": "Cochrane Library RSS feed.",
@@ -2075,6 +2085,16 @@
       "type": "News"
     },
     {
+      "title": "TK-Ärzteführer - Techniker Krankenkasse",
+      "summary_de": "TK-Ärzteführer &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYmtvVElOR3MwVVlHZl9pQnpPOVUxRVpSUWM3LTMzY0hIVHlrWjdhS05kMFYzdUpVUzZXRXBrbWVPVVdhZkpxZ2VnSUlXZDRzVkVWQWVORTBUTlFfT3VNVVI5MXhpOElkMjlHSjNQTUU3VU82a2Z3cUJfSUtkQkRQS3diNVVrQlR3UlU1NUY2d1RmQUxOVXJVd19ZYk1DZzVWQnJ1OU14WUI5SGh3U3RqdkxSMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-07T11:01:03+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Elsner: Einnahmenorientierte Ausgabenpolitik wird zunehmend durchlöchert - neue Risiken für stabile Beiträge",
       "summary_de": "Der vdek warnt davor, dass die jetzt vorliegenden Änderungsanträge zum GKV-Beitragsstabilisierungsgesetz nur teilweise für einnahmenorientierte Ausgaben sorgen. Sonderregelungen für bestimmte Leistungsbereiche sollte es nicht geben.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -2084,6 +2104,16 @@
       "tags": [
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Komfortabel, smart, sicher: So funktioniert das E-Rezept - Techniker Krankenkasse",
+      "summary_de": "Komfortabel, smart, sicher: So funktioniert das E-Rezept &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRUNFejI0a2ZUckRGMHFSZGNFYlpCTElsTVVVSnI4WW1uYnNLTzlma1ZnRU9TM3ExaC1JR05tYU5SMUlmSmRkRXpsV1liaFI0Tm9Bc0pqZGFISlRSSjNmT21FUGMzTE9DUHhjRkZpMkU5QXFxTUh2ZUhvaHd1VUIzTzU3TjNHVXFvcVRPOXYwa1NwMno1bVJuemYtWmNNWXRJdV9UT1M1Rmd3QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-06T15:29:27+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
@@ -2192,8 +2222,8 @@
       "type": "News"
     },
     {
-      "title": "Brand im Krankenhaus Ludwigslust: Dachstuhl der Radiologie brennt - ndr.de",
-      "summary_de": "Brand im Krankenhaus Ludwigslust: Dachstuhl der Radiologie brennt &nbsp;&nbsp; ndr.de",
+      "title": "Brand im Krankenhaus Ludwigslust: Dachstuhl der Radiologie brennt - NDR.de",
+      "summary_de": "Brand im Krankenhaus Ludwigslust: Dachstuhl der Radiologie brennt &nbsp;&nbsp; NDR.de",
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMEtxU0R1YVVrUkhrVXJpcGtDTTZTWTFaaEpFNURRcHFjdVJuaVk3S1dIaVdMU1BmZ1BHZXowcXJETTlDUmt3alV5UDFVUk90WWRlM1hCV0ZYUlJFVHR1SzVUTXFBLWYxTEt5SnlrRVB2NWl6T2RhMDN1VEFSRFFkTVZka3I3RUc3Q3pPOUxmcGdqb0NrNnc4a0JoUUJkUUpILVh3bnZ5eE9iY05hZ3cyMkRyWFh2TVFyZEVGSkdQX2J6SmRjeXNPckVmazFTcTIzWks0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-02T07:00:00+00:00",
