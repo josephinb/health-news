@@ -1,24 +1,196 @@
 {
-  "generated_at": "2026-08-03T06:12:39.516548+00:00",
+  "generated_at": "2026-08-03T12:14:25.045175+00:00",
   "window_days": 42,
-  "count": 240,
+  "count": 239,
   "items": [
+    {
+      "title": "Arzneimittelpolitik: Frankreich setzt bei Generika den Rotstift an",
+      "summary_de": "Nicht nur in Deutschland, sondern auch in anderen L&auml;ndern m&uuml;ssen die Krankenkassen sparen. In Frankreich soll dabei auch die Generika-Branche eine Rolle spielen. Die franz&ouml;sische Regierung plant, durch Preissenkungen 24 Millionen Euro f&uuml;r die Sozialversicherung einzusparen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/frankreich-setzt-bei-generika-den-rotstift-an-167289/",
+      "published_at": "2026-08-03T11:45:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Infektionskrankheit: Mumien verraten Ursprung der Pocken in Amerika",
+      "summary_de": "Die Analysen von Mumien aus Chile zeigen, dass die europ&auml;ische Kolonialisierung die Pocken nach Amerika brachte. Forschende haben nun die ersten genetischen Beweise gefunden.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/mumien-verraten-ursprung-der-pocken-in-amerika-167281/",
+      "published_at": "2026-08-03T11:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Atopische Dermatitis: Erstmals Creme mit einem JAK-Hemmer zugelassen",
+      "summary_de": "Die Europ&auml;ische Kommission hat die Ruxolitinib-haltige Creme Opzelura&reg; zur Behandlung der mittelschweren atopischen Dermatitis bei Erwachsenen zugelassen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/erstmals-creme-mit-einem-jak-hemmer-zugelassen-167288/",
+      "published_at": "2026-08-03T11:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pharma Deutschland: Wie steht es um die psychische Gesundheitsversorgung?",
+      "summary_de": "Im Auftrag von Pharma Deutschland wurde eine Civey-Umfrage durchgef&uuml;hrt. 5000 Bundesb&uuml;rger wurden nach ihrer Einsch&auml;tzung bez&uuml;glich der psychischen Gesundheitsversorgung gefragt: 37 Prozent sehen sie als Herausforderung in ihrer direkten Wohnumgebung.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/wie-steht-es-um-die-psychische-gesundheitsversorgung-167290/",
+      "published_at": "2026-08-03T11:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Bekannter Kärntner Arzt kündigt wegen schlechten Arbeitsbedingungen - Kleine Zeitung",
+      "summary_de": "Bekannter Kärntner Arzt kündigt wegen schlechten Arbeitsbedingungen &nbsp;&nbsp; Kleine Zeitung",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOFJTd2cyYzNMeXFOanc2Qi1MQUtZc29IZlRCQ0NlOE40OV9SYThGR0MwMm5NWWM3N3BaMEQxbnVVZXBoUVo5MlVSVmUwVXN5cVRadG5ybHQxUF9zS1hyWEtISUluVWhQTDdNd0dqOV9hRml3cU1oMUR0Mm5vejF2VXM1UWZleHNBclpfcXFJd3NQSDczb3NuTnJISzFLcG1KXzN0SjNJNUNKUXFFRXQ1WnhENVBaQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-03T10:43:10+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Ernährung: Was ist besser im Alter – viel oder wenig Protein?",
+      "summary_de": "W&auml;hrend Fachgesellschaften &auml;lteren Menschen aufgrund der Sorge vor Sarkopenie zunehmend eine h&ouml;here Proteinzufuhr empfehlen, mehren sich experimentelle und epidemiologische Daten, die genau diese Strategie infrage stellen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/was-ist-besser-im-alter-viel-oder-wenig-protein-167285/",
+      "published_at": "2026-08-03T10:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pharma: Biontech bekommt neuen Chef - Nachfolger von Sahin gefunden - DIE ZEIT",
+      "summary_de": "Pharma: Biontech bekommt neuen Chef - Nachfolger von Sahin gefunden &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ3MwWXVad0VkM2xBOW02V0xXdUZBQUdPOUI3VThHWU1jMjVLa1k5MUJwb2YyN2ZfUE1Ed1ViRjJtdWNZajNKN3V1SVdZSUJ3QU5xc1d2bHVTT04tS2hJaDRCR3picHdjallfOTBfeThfQnk1WmIyWDJVS2p6Uk52cGZTLU9ZbWxDOXBNZ2ZiZGZ2aXF5eEZKOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-03T09:50:26+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Wochenbett: Drei Irrtümer rund ums Stillen in den ersten Tagen",
+      "summary_de": "Die WHO sieht beim Stillen weltweit Fortschritte, doch viele L&auml;nder bleiben hinter den Zielen zur&uuml;ck. Eine Studie legt passend zur Weltstillwoche weit verbreitete Irrt&uuml;mer offen, die zum Teil auch auf Entbindungsstationen erz&auml;hlt werden.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/drei-irrtuemer-rund-ums-stillen-in-den-ersten-tagen-167280/",
+      "published_at": "2026-08-03T09:05:09+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: Pazopanib Viatris 200 mg Filmtabletten pU: Viatris Germany GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-08-03T08:49:21+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Biotechnologie: Chinas Pharmaindustrie auf dem Weg zum globalen Vorreiter",
+      "summary_de": "Die weltweite Pharmaindustrie steht vor einem strukturellen Machtwechsel. Chinesische Pharmaunternehmen dr&auml;ngen mit wachsender Geschwindigkeit auf die M&auml;rkte Europas und der USA. Westliche Konzerne nehmen diese Entwicklung l&auml;ngst als strategische Bedrohung wahr.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/chinas-pharmaindustrie-auf-dem-weg-zum-globalen-vorreiter-167267/",
+      "published_at": "2026-08-03T08:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Innovationen auf der Expopharm: Warum sich der Besuch für jede Apotheke lohnt",
+      "summary_de": "Die Leitmesse f&uuml;r den Apothekenmarkt, die Expopharm, findet vom 15. bis 17. September in M&uuml;nchen statt. Im Mittelpunkt stehen die Apotheken von morgen und der Einsatz neuer Technologien im Apothekenalltag, beispielsweise k&uuml;nstliche Intelligenz.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/warum-sich-der-besuch-fuer-jede-apotheke-lohnt-167256/",
+      "published_at": "2026-08-03T08:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Sturzprophylaxe: So trainiert man das Gleichgewicht",
+      "summary_de": "Auf einem Bein stehen, einen Fu&szlig; vor den anderen setzen, auf dem SUP paddeln &ndash; das alles trainiert unser Gleichgewicht und damit zahlreiche Muskelgruppen, die Koordination und das Gehirn. &Ouml;fter mal unsere Balance herauszufordern, senkt auch das Sturzrisiko.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/so-trainiert-man-das-gleichgewicht-167272/",
+      "published_at": "2026-08-03T07:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Erhöhter Kassenabschlag: HAV nimmt neuen Minister Linnemann in die Pflicht",
+      "summary_de": "Zum 1. Januar steigt der Kassenabschlag von 1,77 auf 2,07 Euro. Als eine ihrer letzten Amtshandlungen als Bundesgesundheitsministerin verteidigte Nina Warken (CDU) gegen&uuml;ber dem Hessischen Apothekerverband (HAV)&nbsp;die Erh&ouml;hung.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/hav-nimmt-neuen-minister-linnemann-in-die-pflicht-167275/",
+      "published_at": "2026-08-03T07:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Professur (W 2) für Ergotherapie und Mentale Gesundheit - Hochschule Furtwangen - ZEIT Stellenmarkt",
+      "summary_de": "Professur (W 2) für Ergotherapie und Mentale Gesundheit - Hochschule Furtwangen &nbsp;&nbsp; ZEIT Stellenmarkt",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbWI5dWg3UmVHeXFPVWR4MzFOZjBGMkNkVmhQc2hKRnJ4RzVEUjdsTlJDM3JweE5aSFdVY0d1d0t5MEtDeTdIbWlDbEtmbkVHc043cjhUaGw3ZFZheGdJUlA5UGFjSVppd1Y4WGFDblJDVnVaa2I1WFVhekRxWVpVQmdTVzY0Y3JnZVNYbHZwd1l1Z09hdEsyUDBxLTUzVGhHUXcybmVNNDRZeDRlVm5j?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-03T07:17:09+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Interview: Phagro-Chef Freitag: »Nur weil bislang niemand gestorben ist…«",
+      "summary_de": "Der Gesetzgeber tut sich schwer, strengere Transportbedingungen f&uuml;r Arzneimittelversender zu erlassen. Der Gro&szlig;handelsverband Phagro hatte sich im Gesetzgebungsverfahren f&uuml;r eine deutliche Versch&auml;rfung eingesetzt. Der Vorsitzende Marcus Freitag erkl&auml;rt im PZ-Interview, was ihm bei dem Thema dennoch Hoffnung macht.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/nur-weil-bislang-niemand-gestorben-ist-167125/",
+      "published_at": "2026-08-03T06:59:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Abnehmmittel: G-BA-Chefin offen für Kostenübernahme",
+      "summary_de": "Die neue Vorsitzende des Gemeinsamen Bundesausschusses (G-BA), Sonja Optendrenk, zeigt sich offen f&uuml;r eine Kosten&uuml;bernahme bei bestimmten Abnehmmitteln durch die Gesetzliche Krankenversicherung (GKV). Bislang gelten sie als Lifestyle-Pr&auml;parate und werden nicht erstattet.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/g-ba-chefin-offen-fuer-kostenuebernahme-167274/",
+      "published_at": "2026-08-03T06:15:37+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Abschlussfeier an der LMU: Strahlende Gesichter im Audimax",
+      "summary_de": "Bei der akademischen Abschlussfeier des Departments f&uuml;r Pharmazie der Ludwig-Maximilians-Universit&auml;t M&uuml;nchen erhielten Pharmazie-Absolventen ein Gl&uuml;ckwunschschreiben und etliche eine Auszeichnung f&uuml;r besondere Leistungen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/strahlende-gesichter-im-audimax-167243/",
+      "published_at": "2026-08-03T06:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Facharzt Nuklearmedizin oder Assistenzarzt Nuklearmedizin (w/m/d) - ärztestellen",
+      "summary_de": "Facharzt Nuklearmedizin oder Assistenzarzt Nuklearmedizin (w/m/d) &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRnQ3NTE3X2FCb005MDFycUZIQ013eHJLcm9DUEthdEhtSURsTFBJQzh5d1QwbEVEYU5Ua09iSVRlVzlFQmM5ZUliV3hjVXg1WFJCeDlXYldfZWtXWEI1QjJ1ZWxMTDhxNDJIcVpDVkEwQThCaGZkR05rbXF0M3VTRW9XelQ1RWYzbHBjQmY1MGxRWlUybUszYU9TcFJVd2drXzNDWUhvU0ticHZzQ25r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-03T05:00:13+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Stress, Einsamkeit, Angst: Das Gehirn kann nicht Schritt halten",
       "summary_de": "Psychosoziale Probleme nehmen zu. Kein Wunder, meinen Forschende aus Singapur: Alte Instinkte werden in modernen Lebenswelten fehlgeleitet. Dieses evolution&auml;re Missverh&auml;ltnis f&uuml;hrt zu Anspannung, Einsamkeit und sozialem Vergleichsdruck.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/das-gehirn-kann-nicht-schritt-halten-167159/",
       "published_at": "2026-08-03T05:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: Plerixafor Viatris 20 mg/ml Injektionsl&#246;sung pU: Viatris Germany GmbH",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-08-03T04:57:20+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
@@ -49,6 +221,16 @@
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVDkwdkFWVElwTEo4cG9mWU9ob0lHSkRoUTJ3eFdQekRVQmVWV2pNM3NwVFpTRDc5WXpvU08wMmYtbmhKeHFoeWdoS19wZDBDeVMyVkhXLVZsUG0yVUFabzhrLXNOb0FlQjM0SUxDTU81X3NhNWs3OHlNUlpvNFpDWUViOWI5NlNnR19peEMzZHRLUk9fYTlaNXVoQ05LMHM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-02T16:01:03+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Mehr als heiße Luft: Wie der Klimawandel Arbeit und Gesundheit verändert - IKK classic",
+      "summary_de": "Mehr als heiße Luft: Wie der Klimawandel Arbeit und Gesundheit verändert &nbsp;&nbsp; IKK classic",
+      "source_name": "\"site:ikk-classic.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQT2tmY3l0anMwbjdNMXhKdDZVU1Jab0lFa0pkQmhTSy1OcVU2WGpFUDkyWUJ1bzBxTEpnck4wSVpGUDlXbi1XcFlyeTh5aE82V2xMcUJVVGxhR2o2anhvR2NRVEota043SUZFaFN5QTdBYWlLRTFhX1RueG1fbEs2Q0RjMUlWWUlqcWNYSWdKb2dZUEpYRDB1SE9WSHNHVGNRWjlCakF1M0Y2aFUtVjJzOGRjV2g2elY0ZmhzLUZ3UTU5SWVxOVZPZVlSV3JVWS01R3NFd2NRM2VsUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-02T11:08:09+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -94,16 +276,6 @@
       "type": "News"
     },
     {
-      "title": "Der MAGNETOM Free.Max von Siemens Healthineers - MRT mit offenem 80-Zentimeter-Bohrdurchmesser - AD HOC NEWS",
-      "summary_de": "Der MAGNETOM Free.Max von Siemens Healthineers - MRT mit offenem 80-Zentimeter-Bohrdurchmesser &nbsp;&nbsp; AD HOC NEWS",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWkFEMXBHSlZDZ182UjUxeFFvdjgyZFk4M3BxZUJMVG5hbEJSQzNSaHpXYjJpRU1ZZnJmRGpRdXBZeEtXM3ZfVllMUW1EYklEbHN1M2ZFak1PYk9BSTFoVEJITVNvR01DbFR2SjFUVURlNUJ6TnJEZDhuak9RTHFrSFRLcV9hNElGTmMwS1NVVTk4bXFvaWZIOWxpVUdoVlJCTHRyM21rU3poM2hqR19mdTJrc0ZhM2prbVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-01T10:21:43+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Viren aus der Kolonialzeit - Genetischer Nachweis: Europäer brachten Pocken nach Amerika - Gesundheit - SZ.de",
       "summary_de": "Viren aus der Kolonialzeit - Genetischer Nachweis: Europäer brachten Pocken nach Amerika - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -144,8 +316,8 @@
       "type": "News"
     },
     {
-      "title": "Ingenieur*in Architektur / Gebäudetechnik (m/w/d), Max-Delbrück-Centrum für Molekulare Medizin - stellenmarkt.faz.net",
-      "summary_de": "Ingenieur*in Architektur / Gebäudetechnik (m/w/d), Max-Delbrück-Centrum für Molekulare Medizin &nbsp;&nbsp; stellenmarkt.faz.net",
+      "title": "Ingenieur*in Architektur / Gebäudetechnik (m/w/d), Max-Delbrück-Centrum für Molekulare Medizin - FAZ Stellenmarkt",
+      "summary_de": "Ingenieur*in Architektur / Gebäudetechnik (m/w/d), Max-Delbrück-Centrum für Molekulare Medizin &nbsp;&nbsp; FAZ Stellenmarkt",
       "source_name": "\"site:faz.net medizin\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUTBQcnFHX3JNbXBQck5US19MZG9CeE5EZWpGWDFYbU54VjVIcVV4bjYtMl9TV0dUdW0yeU1ITnZsYnVaZ0lUSjZBTm51S19sVjd1aDBWZTZkRjl3Y2dNdUluWWpvMUI4ai1MWXFtZVBBTEF5XzRBM1k5dGlHYW0wM2VfcElUcWF5b21tSmFEWFIyUUhfdXI1OEV5cGhOMEJIWDFWZQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-01T00:06:17+00:00",
@@ -276,6 +448,16 @@
       "type": "News"
     },
     {
+      "title": "TK gibt 2,3 Milliarden Euro in Schleswig-Holstein aus | Die Techniker - Presse & Politik - Techniker Krankenkasse",
+      "summary_de": "TK gibt 2,3 Milliarden Euro in Schleswig-Holstein aus | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVWk1X0RrS2pqOTFxZFV3a1h6R0hvMWhHek5oN1NYM05CSmtNajU5Z0VzWGtOblJMa2pETXNnMGxWZUhtVk95WVF6STVQQ09ud1k2UGlEcHJLSC1maGJWcGRyZFhWUTI4THVPWUw4T3FEX29tTTVwUVJ5d001eDB5SkFKeXI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-31T09:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Herbstgrasmilben: Juckreiz ohne Mückenstich",
       "summary_de": "Im Sommer sind viele kleine Tierchen unterwegs, die stechen oder bei&szlig;en. Nicht ganz so bekannt wie M&uuml;cken oder Zecken sind Herbstgrasmilben, die starken Juckreiz verursachen k&ouml;nnen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -316,8 +498,8 @@
       "type": "News"
     },
     {
-      "title": "Krankenkasse für ein gesünderes Leben | BARMER - BARMER",
-      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; BARMER",
+      "title": "Krankenkasse für ein gesünderes Leben | BARMER - Barmer",
+      "summary_de": "Krankenkasse für ein gesünderes Leben | BARMER &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-31T08:09:00+00:00",
@@ -336,32 +518,12 @@
       "type": "News"
     },
     {
-      "title": "Phoenix/MVDA: Freitag neuer Chef des Aufsichtsrats bei Linda",
-      "summary_de": "Phoenix-Deutschlandchef Marcus Freitag ist neuer Aufsichtsratsvorsitzender der Linda AG. Der Gro&szlig;h&auml;ndler hatte im April die H&auml;lfte der Anteile der Kooperation &uuml;bernommen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/freitag-neuer-chef-des-aufsichtsrats-bei-linda-167230/",
-      "published_at": "2026-07-31T05:30:09+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Wasserqualität - Blaualgen an zwei Berliner Badestellen - Gesundheit - SZ.de",
       "summary_de": "Wasserqualität - Blaualgen an zwei Berliner Badestellen - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbXRtazR0bnJhTTlVYzVIa1JpeGZzOUxRemd4VmN6ZGZZNUoyN0p4YUJ3bUlUVmZXbXdVbll0TEFERDA3ZE02YmxHaGNqcVBsdWd6cHBFOTNlQ3A5YkNjTlFtLV9UM2xwZ08xT0pyX2JoSXJWcGJjWDRVZmZ3eEsxdC1LbkszVmpCUlRCUktfNEVXS0oxem5mSXgxQ1ZncWxTWnAyelFraVdxcndJTkVCa1RKNGFZQVVnYlF2U2VvdUZDa2duWnF4RnVCc0RuWjZIYkpWSTRjNUVCYUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-31T05:29:42+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Leiden als Prüfung: Schmerz hat eine Geschichte",
-      "summary_de": "Schon immer haben Menschen Schmerz verstehen wollen &ndash; von D&auml;monen &uuml;ber K&ouml;rpers&auml;fte bis hin zu Glaubenspr&uuml;fungen konnte vieles daf&uuml;r verantwortlich sein. Und viele der alten Ideen beeinflussen uns bis heute.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/schmerz-hat-eine-geschichte-167133/",
-      "published_at": "2026-07-31T05:00:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -376,28 +538,8 @@
       "type": "Studie"
     },
     {
-      "title": "Long Covid: Erschöpfte zytotoxische T-Zellen als Krankheitstreiber",
-      "summary_de": "Die Ursache von Long Covid ist nach wie vor ungekl&auml;rt. Eine neue Studie zeigt nun, dass virusspezifische zytotoxische T-Zellen dabei eine Rolle spielen k&ouml;nnten. Offenbar gelingt es dem Immunsystem der Betroffenen auch Monate nach der Infektion nicht, die zellul&auml;re Immunantwort herunterzuregulieren.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/erschoepfte-zytotoxische-t-zellen-als-krankheitstreiber-167223/",
-      "published_at": "2026-07-30T16:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "CSD: »Niemand darf mit den Folgen allein gelassen werden«",
-      "summary_de": "Die Anschl&auml;ge beim CSD haben eine breite Welle der Solidarit&auml;t ausgel&ouml;st, auch unter der Apothekerschaft. Der Berufsverband der Psychologinnen und Psychologen spricht sich nun f&uuml;r eine st&auml;rkere psychosoziale Notfallversorgung nach Terror und schweren Anschl&auml;gen aus.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/niemand-darf-mit-den-folgen-allein-gelassen-werden-167227/",
-      "published_at": "2026-07-30T15:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Chefarzt aus Moers: KI im Krankenhaus – „mehr Zeit für eine gute Behandlung - rp-online.de",
-      "summary_de": "Chefarzt aus Moers: KI im Krankenhaus – „mehr Zeit für eine gute Behandlung &nbsp;&nbsp; rp-online.de",
+      "title": "Chefarzt aus Moers: KI im Krankenhaus – „mehr Zeit für eine gute Behandlung - RP Online",
+      "summary_de": "Chefarzt aus Moers: KI im Krankenhaus – „mehr Zeit für eine gute Behandlung &nbsp;&nbsp; RP Online",
       "source_name": "\"site:rp-online.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOG9zUXl6dWRFZlhJUHJ4ZVprSnJ4SGZNdS1mUWRBODc4dGIycUNIaXBGNTVNaWZSYXpsdGc4aVlkQjJndm5aaXQ2YVh2NnNtVnBYdklqRGlYT0h6UFpmalB5ZnJuY1R5XzZxVTF2R3YxeW5laGQzUEVyODR1MnRxbER4aGc1M0s3UVplWUZ1NXE2QU5CaDRiNVNfRHg2Z0tKMVY0X2tjR0hfWHB1ZTdCUA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-30T15:30:00+00:00",
@@ -416,46 +558,6 @@
       "type": "News"
     },
     {
-      "title": "Kammer und Verband Nordrhein: 1000 Kick-off-Teilnehmende zum ApoVWG",
-      "summary_de": "Zur Umsetzung des lang ersehnten Apothekenversorgung-Weiterentwicklungsgesetzes (ApoVWG) organisierten die Apothekerkammer Nordrhein (AKNR) und der Apothekerverband Nordrhein (AVNR) eine Auftaktveranstaltung. Die Organisierenden freuten sich &uuml;ber insgesamt 1000 Teilnehmende.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/1000-kick-off-teilnehmende-zum-apovwg-167226/",
-      "published_at": "2026-07-30T15:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Umfrage: Menschen sind bereit für Impfungen in der Apotheke",
-      "summary_de": "5000 Menschen lie&szlig; Pfizer befragen, wie sie zum Impfen in der Apotheke stehen.&nbsp;Viele wollen sich dort gern impfen lassen. Zwei Dritteln ist das niedrigschwellige, zus&auml;tzliche Angebot auch bereits bekannt.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/menschen-sind-bereit-fuer-impfungen-in-der-apotheke-167221/",
-      "published_at": "2026-07-30T14:20:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "PZ Briefing : Die Top-News vom 30.7.2026",
-      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-3072026-167225/",
-      "published_at": "2026-07-30T14:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Rezeptabrechnung : Von NARZ zu AVN",
-      "summary_de": "Jetzt wird abgerechnet: K&uuml;nftig soll die Rezeptabrechnung des Norddeutschen Apotheken-Rechenzentrums (NARZ) in die Zust&auml;ndigkeit der AVN Apotheken-Verrechnungsstelle Dr. Carl Carstens fallen. Dies gab der Verwaltungsrat via Pressemitteilung bekannt.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/von-narz-zu-avn-167224/",
-      "published_at": "2026-07-30T14:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit: RKI: Mehr als 1.300 Hitzetote dieses Jahr in Hessen - DIE ZEIT",
       "summary_de": "Gesundheit: RKI: Mehr als 1.300 Hitzetote dieses Jahr in Hessen &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -466,32 +568,12 @@
       "type": "News"
     },
     {
-      "title": "Forsa-Umfrage: Mehrheit stellt sich auf Beitragserhöhungen ein",
-      "summary_de": "Die Skepsis der Bev&ouml;lkerung gegen&uuml;ber der Bundesregierung nimmt nicht ab &ndash; im Gegenteil: 88 Prozent der befragten Deutschen glauben, dass es bereits 2026, sp&auml;testens 2027 weitere Beitragssteigerungen in der Kranken- und Pflegeversicherung geben wird.&nbsp;Dies ergab eine aktuelle Forsa-Befragung im Auftrag des AOK-Bundesverbandes.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/mehrheit-stellt-sich-auf-beitragserhoehungen-ein-167220/",
-      "published_at": "2026-07-30T13:45:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Brandenburg: Krankenhaus-Azubis in Uckermark und Barnim bekommen mehr Geld - tagesschau.de",
       "summary_de": "Brandenburg: Krankenhaus-Azubis in Uckermark und Barnim bekommen mehr Geld &nbsp;&nbsp; tagesschau.de",
       "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWHdtaThBRzZGRU0zUDZsQUFXVVBhY20tVjM0ZC03bHpBV1RPOFNSRFk1WjZZOTJ3WHg1endiQ3NUdG5FYU1DWnpnLUV1YTFfQkJqQWxCTWY0XzJpZEFjMnFOSDY2MmNTNjhYNjhSa1M5NzBidGxGQUpSbjBiUHFXWEpIV19FaWo4bHpnbFdxV19fVDUyaEFybktiTmFmN1Vxc3FDdVFhTXVrTVR6MVdaSGtJaXhfR1lpOU5yZlJiV1VFb3pNQUZr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-30T13:41:00+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Tag-Nacht-Rhythmus: Schlaftipps für Schichtarbeitende",
-      "summary_de": "Licht meiden, Schlaf sch&uuml;tzen, clever essen: Experten verraten, wie Schichtarbeitende fit bleiben und worauf sie ganz besonders achten sollten.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/schlaftipps-fuer-schichtarbeitende-167213/",
-      "published_at": "2026-07-30T13:30:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -516,54 +598,12 @@
       "type": "News"
     },
     {
-      "title": "Forderung an Linnemann: »De-Industrialisierung unserer Branche verhindern«",
-      "summary_de": "Der Bundesverband der Pharmazeutischen Industrie (BPI) begr&uuml;&szlig;t den Wechsel im Bundesgesundheitsministerium, formuliert aber zugleich klare Erwartungen an den neuen Minister Linnemann: die St&auml;rkung des Pharmastandorts und verl&auml;ssliche politische Rahmenbedingungen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/de-industrialisierung-unserer-branche-verhindern-167219/",
-      "published_at": "2026-07-30T13:15:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "MHRA Safety Roundup: July 2026",
       "summary_de": "Summary of the latest safety advice for medicines and medical device users",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
       "source_url": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-july-2026",
       "published_at": "2026-07-30T13:03:00+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Neue Therapie: FDA lässt Centanafadin bei ADHS zu",
-      "summary_de": "Mit der Zulassung von Centanafadin erweitert sich in den USA das therapeutische Spektrum bei ADHS erstmals um einen Vertreter der neuen Wirkstoffklasse der NDSRI.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/fda-laesst-centanafadin-bei-adhs-zu-167212/",
-      "published_at": "2026-07-30T13:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Mantelverordnung: Brüssel feilt noch an Details",
-      "summary_de": "Die Mantelverordnung, die die Apothekenreform abschlie&szlig;t, ist l&auml;ngst vom Bundesrat beschlossen, aber noch immer nicht verk&uuml;ndet. Nach Informationen der PZ liegt dies an der EU-Kommission.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/bruessel-feilt-noch-an-details-167217/",
-      "published_at": "2026-07-30T12:45:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Europa"
-      ],
-      "type": "News"
-    },
-    {
-      "title": "Digitalradar Krankenhaus | Die Techniker - Presse & Politik - Techniker Krankenkasse",
-      "summary_de": "Digitalradar Krankenhaus | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMExGWnBMN1FWY0E4M2E3T0c0dEdNZ3hOOTctRm9JbE1ETkdxRTJkRF9pazVhMGNYbTZhd2NIZkxsd0dtOW1ScU1jSVl2QlZRdzJ1eDNYclBpVnMxQndjdjhzWXk5QkhMRGxUNEZuTkFRV1pOVmdYQXo3eGNuVzlieC14cktWSFNJTmRVMmhRRU9BNUc4QVlic3NobHc3NDhyOUYwM2c2SVRHaUV5dEtEcC1iYUtuUEJLZ2ppTU1Jc1Y2dFpC?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-30T11:45:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -802,16 +842,6 @@
       "type": "News"
     },
     {
-      "title": "Krankenhäuser - Digitalisierung in Krankenhäusern macht Fortschritte - Gesundheit - SZ.de",
-      "summary_de": "Krankenhäuser - Digitalisierung in Krankenhäusern macht Fortschritte - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOX0VwSjUwS04xSExXeDFUQ24zTGlvNXNVWDJoU09Eb2VyczFETFJLaEtFSlZIYV80UEktMkpLb3JhVHVKR3YzaVh6UGZabW9NNXloN1ExRDI1aTI1SUVQdUJFRk9yRmFITlVyTHFTVDJYd01ULTRHR2F6a2dUaHpFM092OFJ1ZFppVDJBSGZjZTVDc0F4MXhSTmtweDBTeVhvVHItd1cwdU1DSXVpLWhIQVpVcUpfMHBBcjJrY2g3Y0JhRDh3X3AxMnRodVJ3MjdmWWtUV2Y2UXhBOEtYekRmdHg5Rl9BZmhkX2p6M0pR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-30T04:52:59+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Analgesic agents versus placebo, no intervention, or alternative analgesic regimens in acute pancreatitis",
       "summary_de": "Analgesic agents versus placebo, no intervention, or alternative analgesic regimens in acute pancreatitis",
       "source_name": "Cochrane Library RSS feed.",
@@ -1024,20 +1054,20 @@
       "type": "Studie"
     },
     {
-      "title": "Neoadjuvant chemotherapy before surgery versus surgery followed by chemotherapy for initial treatment in advanced epithelial ovarian cancer",
-      "summary_de": "Neoadjuvant chemotherapy before surgery versus surgery followed by chemotherapy for initial treatment in advanced epithelial ovarian cancer",
+      "title": "Vestibular stimulation for promoting development and preventing morbidity in preterm infants",
+      "summary_de": "Vestibular stimulation for promoting development and preventing morbidity in preterm infants",
       "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005343.pub8",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016072.pub2",
       "published_at": "2026-07-29T00:00:00+00:00",
       "category": "Studie",
       "tags": [],
       "type": "Studie"
     },
     {
-      "title": "Vestibular stimulation for promoting development and preventing morbidity in preterm infants",
-      "summary_de": "Vestibular stimulation for promoting development and preventing morbidity in preterm infants",
+      "title": "Neoadjuvant chemotherapy before surgery versus surgery followed by chemotherapy for initial treatment in advanced epithelial ovarian cancer",
+      "summary_de": "Neoadjuvant chemotherapy before surgery versus surgery followed by chemotherapy for initial treatment in advanced epithelial ovarian cancer",
       "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016072.pub2",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005343.pub8",
       "published_at": "2026-07-29T00:00:00+00:00",
       "category": "Studie",
       "tags": [],
@@ -1175,6 +1205,16 @@
       "tags": [
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Erstes MRT eines neuen Vier-Geräte-Systems an der Universitätsmedizin Magdeburg in Betrieb genommen - med.ovgu.de",
+      "summary_de": "Erstes MRT eines neuen Vier-Geräte-Systems an der Universitätsmedizin Magdeburg in Betrieb genommen &nbsp;&nbsp; med.ovgu.de",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQWVNzd2hBOUNpVlhGd1o2ME1XRkVpNGJELUFvallDblp4bVc3ZXY0Q094TWl4YUVfV2N5Y2RSY3VMQTgwell1ZUw5YVFwVnB0TVJzenFRWGVyS2dyXzUxTk9ITWtYMC1ady04aUpmMWtDNi1udWFrVFJDSFlRTWlPaFJEUnJqQm0yTWhUV0xWQ2RsU0pvSUt1QWMtdzlsYkE2bmtRMnZiUUZsNVpKRnJWNTZrWDJFV0dlQVY3elUyQ3VEQmVSNU5vZ2RTQ2NKWFRSZkZ2OU1wV0FTSkIwX09ZLXpyRHl5aXNybEdlbzRVQXB4dklXdm9pMk84Tzd0V2QyZXJLNXFxanYtUVk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-27T10:58:56+00:00",
+      "category": "Radiologie",
+      "tags": [],
       "type": "News"
     },
     {
@@ -1711,8 +1751,8 @@
       "type": "Studie"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-14T07:00:00+00:00",
@@ -1773,16 +1813,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Professur „Pflege- und Gesundheitsmanagement“ (m/w/d) mit den Schwerpunkten Digitalisierung, Gerontologie und Gesundheitsbildung - Fachhochschule Dresden - Private Fachhochschule GmbH - ZEIT Stellenmarkt",
-      "summary_de": "Professur „Pflege- und Gesundheitsmanagement“ (m/w/d) mit den Schwerpunkten Digitalisierung, Gerontologie und Gesundheitsbildung - Fachhochschule Dresden - Private Fachhochschule GmbH &nbsp;&nbsp; ZEIT Stellenmarkt",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQWHpUUk9iLU9ORTBmREp1Z2Joa2FjZmJjNVpHR3NIZzMxR2F1QmtmM21oZUdVU1ZndEhOVG9mTm1vLUY2WmtzQmFCVXZRVngtUXNtck9FZEtEZkl1WUpsZmZqRFQzR21xZkxmeDZsRGVBQ2RxNmRURlM5SW83QVo2ZWw0VGxZX2xITWdXWlJ4NFpJdkRfN3g3cjA0N0JmTnBFV0lHSm5Qc3pnLU9DczlER0Z4SmMxUzA2VkplZHZOWGJ4eF9qWTdsNzhJeGxUVWhTVTF6ZE9UejAxNkNUQWI2c3BrSEY2SVJnTS1nYUFMSVJKR05KMjROM2FVS0lIYkl3X0dIOTlwekp2S041WEZ2M3dLb1VSWTFHY2VocE5hRjZ3V1hSYkMyMkFEdFNLbDJsVkpTdnFWZWY4TkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-13T13:17:11+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Pressemitteilung: Geschäftsbericht 2025: GKV-Spitzenverband macht sich weiter für Reformen stark",
@@ -2152,8 +2182,8 @@
       "type": "News"
     },
     {
-      "title": "Ganzkörper-MRT: Radiologe erklärt, wann es sinnvoll ist – und wann er abrät - morgenpost.de",
-      "summary_de": "Ganzkörper-MRT: Radiologe erklärt, wann es sinnvoll ist – und wann er abrät &nbsp;&nbsp; morgenpost.de",
+      "title": "Ganzkörper-MRT: Radiologe erklärt, wann es sinnvoll ist – und wann er abrät - Berliner Morgenpost",
+      "summary_de": "Ganzkörper-MRT: Radiologe erklärt, wann es sinnvoll ist – und wann er abrät &nbsp;&nbsp; Berliner Morgenpost",
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLVBqWnRYQ1pkUFNBS3ZTazhORnd5cWZpeDNCRXpsUF9OQS1mYmY0dVRFR05zazFjcm1ia0Z4ZXhHSzNWcU5yMG1KUDRPYkRjVnhvbm9zc0NvMTNDMHlFS25VUmkyUjQ4aDlRUFZUN0dvZTZwaWFqR0hiU3NlbXZZZ0hPVERmQUp0eDFvQWx0MmdmeUkxaEdBcVlyV1hqZEpMRUVTYThIMjQ3d0paNTFHQlBONHF6SHo0bXZFSEZ1RTRwVmRKMVF1VW03UDZHaFg3TVA1VGpFNmV1RVhzVHl0NVVtWWJTZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-02T07:00:00+00:00",
@@ -2250,16 +2280,6 @@
       "source_url": "https://www.efsa.europa.eu/en/news/avian-influenza-cases-fall-eu-during-spring",
       "published_at": "2026-06-26T08:57:04+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Nach zweijährigen Startphase: Forschung für psychische Gesundheit wird ausgebaut - DIE ZEIT",
-      "summary_de": "Nach zweijährigen Startphase: Forschung für psychische Gesundheit wird ausgebaut &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVTR5bTg4T25BZUtFZy1CR1JSbE5iMzdwcF9ZUDNXVWpBbzhtaW5HSm9Va2xSWFdkbGpkTlpsZkhsakljNjR1Z1VVXzBnaFpoNEdnT18xbjdjbHZ1dE9lYnpCTmpjYlJJdUk4eW5iM3B4Rmp1ODhDQUdCNVJfZ1pYREd3Zkx2VzNlclRuWWNuMWU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-26T07:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2421,43 +2441,11 @@
       "type": "News"
     },
     {
-      "title": "Senior-IT-Architekt/-in mit Fokus Telematikinfrastruktur (m/w/d) - DAK-Gesundheit",
-      "summary_de": "Senior-IT-Architekt/-in mit Fokus Telematikinfrastruktur (m/w/d) &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNUJrcXI5aTF3SDcxem1UX0RXQzQ4MHdtUEdtWnJ0TWdiN29JcUtCNGRmLWM5elFwLWk4S3JnQi1sMW1rYWtNZzBfZmVkYlV0MEZBc0hTMl9seEdXSEU2UDdZeVRhSGpCVmYtRXprREdhbFdhZXZmOGx0ZG9QaUd4a2lROWJvNk0zdm9faUtnd2NsMGNHZEF0OHc3Z05hT3FLYjFrMzU3cFVMcjY4TjljREZlcTMyeC1oQTE4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-06-22T22:52:04+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Primary Care Workforce Recruited through the Additional Roles Reimbursement Scheme (ARRS), 1 October 2024 – 31 May 2026 [Management Information]",
       "summary_de": "Additional funding of £82 million was announced in August 2024 to support the inclusion of recently qualified GPs in the Additional Roles Reimbursement Scheme (ARRS) for 2024/25 with funding only available for GPs who had qualified within the last 2 years. As a result, the primary care network directed enhanced service (PCN DES) was amended for 2024/25 to expand the …",
       "source_name": "Publication Feed",
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-primary-care-workforce-recruited-through-the-additional-roles-reimbursement-scheme-arrs/1-october-2024---31-may-2026/content-copy",
       "published_at": "2026-06-22T15:28:55+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Meldung: Sinkende Beitragssätze bei gleichbleibender Versorgungsqualität wären möglich",
-      "summary_de": "Anlässlich der öffentlichen Anhörung im Gesundheitsausschuss zum GKV- Beitragssatzstabilisierungsgesetz äußerten sich von Seiten des GKV-Spitzenverbandes Dr. Susanne Wagenmann, amtierende Verwaltungsratsvorsitzende und Arbeitgebervertreterin, gegenüber der Wirtschaftswoche sowie Oliver Blatt, Vorstandsvorsitzender, gegenüber der Rheinischen Post. Beide mahnen deutlich höhere Einsparungen an und warnen vor einer Verwässerung der Reform und falsche Zugeständnisse an die Pharmaindustrie.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2284577.jsp",
-      "published_at": "2026-06-22T11:23:48+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
-      "title": "Statistics on people with a learning disability and autistic people in mental health hospitals, AT: May 2026, MHSDS: April 2026",
-      "summary_de": "Latest monthly statistics on people with a learning disability and autistic people in inpatient services from the Assuring Transformation (AT) collection and Mental Health Services Data Set (MHSDS).Data on inpatients with learning disabilities and/or autism are being collected both within the AT collection and MHSDS. There are differences in the inpatient figures between the AT and MHSDS data sets and …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/learning-disability-services-statistics/at-may-2026-mhsds-april-2026",
-      "published_at": "2026-06-22T06:47:08+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
