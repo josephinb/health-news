@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-08-10T10:10:06.247178+00:00",
+  "generated_at": "2026-08-10T12:51:45.814707+00:00",
   "window_days": 42,
-  "count": 201,
+  "count": 200,
   "items": [
+    {
+      "title": "Alliance Healthcare: Austausch zwischen Politik und Pharma",
+      "summary_de": "Andreas Philippi, nieders&auml;chsischer Minister f&uuml;r Soziales, Arbeit, Gesundheit und Gleichstellung (SPD), gewann bei einer Werksf&uuml;hrung Einblicke und potenzielle Antworten auf die Frage:&nbsp;Wie kann die Arzneimittelversorgung der Zukunft aussehen?",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/austausch-zwischen-politik-und-pharma-167476/",
+      "published_at": "2026-08-10T12:50:09+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Armut und Gesundheit: Lebenserwartung in Deutschland - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Armut und Gesundheit: Lebenserwartung in Deutschland - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUG05Q1dCaElKaUZxbW5QX3c1SmQyal9vU0hRV3o4ek56OHctSUZ0OHFEWEF3cFp0SE8yT3BfXzhPY05Vd1lOT3FBQXc3YkxfcnowbTdUVEo5bFdCQk1PdjlqdE83WVJpbG1sSVpEWks5dmVIc3J6WUpKc2dFUkZxNVRhLW1tQzJQbDA2dlhMUU9EblUxdXFOUVRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-10T12:38:38+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "GLP-1-Rezeptor-Agonisten: Erstattungsdebatte geht in die nächste Runde",
+      "summary_de": "Die Diskussion um die Erstattung der&nbsp;GLP-1-Rezeptor-Agonisten geht weiter. Die Deutsche Adipositas-Gesellschaft begr&uuml;&szlig;t einerseits die Idee, fordert allerdings einen ausgewogenen Diskurs &uuml;ber den Zugang zu besagten Medikamenten.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/erstattungsdebatte-geht-in-die-naechste-runde-167471/",
+      "published_at": "2026-08-10T12:00:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Rote-Hand-Brief: Schwere Nebenwirkungen bei Mittel gegen Haarausfall möglich",
+      "summary_de": "Ritlectinib ist ein JAK-Hemmer, der seit 2023 zur Behandlung schwerer Alopecia areata auf dem Markt ist. Die Empfehlungen zur Risikominimierung f&uuml;r schwere Nebenwirkungen wurden nun aktualisiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/schwere-nebenwirkungen-bei-mittel-gegen-haarausfall-moeglich-167468/",
+      "published_at": "2026-08-10T11:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "UK first in Europe to authorise orforglipron for weight management and type 2 diabetes",
+      "summary_de": "As with all GLP-1 receptor agonists, the MHRA will keep the safety and effectiveness of orforglipron under close review.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/news/uk-first-in-europe-to-authorise-orforglipron-for-weight-management-and-type-2-diabetes",
+      "published_at": "2026-08-10T11:27:16+00:00",
+      "category": "Studie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "Studie"
+    },
+    {
+      "title": "Menopause: Kann man den Beginn der Wechseljahre beeinflussen?",
+      "summary_de": "Die eine ist mit den Wechseljahren fr&uuml;h dran, die andere sp&auml;t. Bestimmen allein die Gene, wann es so weit ist? Was kann die Menopause der Mutter &uuml;ber die eigene verraten? Eine Gyn&auml;kologin antwortet.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/kann-man-den-beginn-der-wechseljahre-beeinflussen-167461/",
+      "published_at": "2026-08-10T11:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Decision: Orphan registered medicinal products",
       "summary_de": "A list of authorised orphan medicinal products registered by the UK licensing authority.",
@@ -124,8 +186,8 @@
       "type": "News"
     },
     {
-      "title": "Bildung: Hunderte Lehrer fallen wegen Krankheit dauerhaft aus - DIE ZEIT",
-      "summary_de": "Bildung: Hunderte Lehrer fallen wegen Krankheit dauerhaft aus &nbsp;&nbsp; DIE ZEIT",
+      "title": "Bildung: Hunderte Lehrer fallen wegen Krankheit dauerhaft aus - zeit.de",
+      "summary_de": "Bildung: Hunderte Lehrer fallen wegen Krankheit dauerhaft aus &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNblRGNEZVb1pTZ1lvZHV0UjRkQzFnT0NUcTBPQmVxdVVTb3k0dTNHdXh0ZkduWmcwSzJCZEVYMXVhNEVZeTNwOC1NVjdhSUhibUtZTzRsZ2M5SFpjX09kMWh5VXRRVm5kd3liSm9JZHF0Z3BzOTMzbEJ1T2d5UnRyeWFDZzEyUDlSanYzeXEzUTVoQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-09T15:21:54+00:00",
@@ -144,8 +206,8 @@
       "type": "News"
     },
     {
-      "title": "Biotechnologie: Ihre Arznei könnte Leben retten. Doch bei Patienten kommt sie nicht an - DIE ZEIT",
-      "summary_de": "Biotechnologie: Ihre Arznei könnte Leben retten. Doch bei Patienten kommt sie nicht an &nbsp;&nbsp; DIE ZEIT",
+      "title": "Biotechnologie: Ihre Arznei könnte Leben retten. Doch bei Patienten kommt sie nicht an - zeit.de",
+      "summary_de": "Biotechnologie: Ihre Arznei könnte Leben retten. Doch bei Patienten kommt sie nicht an &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWmRraUZSM3d6V0pZeVB0V2xKdkpqUFQ2X3RmRFJxc2FDU2R0NEJrdFZxVEdMX2tZYkNwV0dRQXhucWY3azBDQUFITEpBMkk3enpGcmdES1p6dXZuek9QM3lyYUZqOWh5Q295YWFjeFdDUXBqaUR1ek5kR2RGSUdMQURwWW5JbFBlbTFNMmhEdEJ4WnBYc2ZoRHlEUjVJQnNZYVBB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-09T14:23:54+00:00",
@@ -154,8 +216,8 @@
       "type": "News"
     },
     {
-      "title": "Biotechnologie: Ihre Arznei könnte Leben retten. Doch bei Patienten kommt sie nicht an - DIE ZEIT",
-      "summary_de": "Biotechnologie: Ihre Arznei könnte Leben retten. Doch bei Patienten kommt sie nicht an &nbsp;&nbsp; DIE ZEIT",
+      "title": "Biotechnologie: Ihre Arznei könnte Leben retten. Doch bei Patienten kommt sie nicht an - zeit.de",
+      "summary_de": "Biotechnologie: Ihre Arznei könnte Leben retten. Doch bei Patienten kommt sie nicht an &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTdJenp5d0pWNFVRWTBNWm9lUmw5c0tfdlV3ekEtRjhBNE80dVJkSjBhUFE2RUxEVXNuUjdOd2JiYVNWd1lBR3NYaUVuc2MyXzRkOWpxQ19sLTBkN0hoZXFLRmt5all3SGZackpYN0RyTklFS2JUZlB6S3c2dVZuRjBmd0luNi1fUUNQVDhkUEY5NktZUHlDWA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-09T13:04:37+00:00",
@@ -164,8 +226,8 @@
       "type": "News"
     },
     {
-      "title": "Ärztl. Geschäftsführer / Direktor Innere Medizin LWL-Klinik Warstein Stellenangebote - ärztestellen",
-      "summary_de": "Ärztl. Geschäftsführer / Direktor Innere Medizin LWL-Klinik Warstein Stellenangebote &nbsp;&nbsp; ärztestellen",
+      "title": "Ärztl. Geschäftsführer / Direktor Innere Medizin LWL-Klinik Warstein Stellenangebote - aerztestellen.aerzteblatt.de",
+      "summary_de": "Ärztl. Geschäftsführer / Direktor Innere Medizin LWL-Klinik Warstein Stellenangebote &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWVRoLWRfaWgxWlBSSFZIbC11REpxeUx3dEQ3R00wbUhVS25RVnI0T1BqQnNuMDFicHlQMnNqWWxMTmJqNVF6bmdlcElYRlJwUl9mTHNuekVtallleVJUeDdpTzVlcFoxakJ1RnkwaWZac2Z2VDRqSDFnekQwQTZJRldrT0d5bkdZbVRiaVQwMFJEYzVYUHh4ai1hejBra1NJSUhkb1lwZEJkZ1d1RUlkc1libTAyd1lPaTIyekRkblR3aURTemc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-09T12:09:38+00:00",
@@ -174,8 +236,8 @@
       "type": "News"
     },
     {
-      "title": "Ärztl. Geschäftsführer / Direktor Innere Medizin und Endokrinologie und Diabetologie Stellenangebote in Hessen - ärztestellen",
-      "summary_de": "Ärztl. Geschäftsführer / Direktor Innere Medizin und Endokrinologie und Diabetologie Stellenangebote in Hessen &nbsp;&nbsp; ärztestellen",
+      "title": "Ärztl. Geschäftsführer / Direktor Innere Medizin und Endokrinologie und Diabetologie Stellenangebote in Hessen - aerztestellen.aerzteblatt.de",
+      "summary_de": "Ärztl. Geschäftsführer / Direktor Innere Medizin und Endokrinologie und Diabetologie Stellenangebote in Hessen &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcnp4NU9LUTN3emtsWEJCazMtQVJwa0lqQk1PUWFBMnFBQi0wQ3hsTjBZcWlXSzYtV0tTUW9mQlpiT1Y0cmdLb1BSSnBnLXg2WDdPUXNXWXVvbm5sd1FXOE1DTFVsTm90dDVYazR3Qi1oUVJPYVFmN2gwME9vdnh3ZGNpSDc4YmJDVWVCdnFUSXpFUFh4TXRwR1pVbmUtRjkybk1CNGNCLTF2aGpicW8zc1lGclJXSUhWZTZLeFV5MmFQbl9UaUNEeEFzMHVEY3dXaVJwdDdR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-09T11:50:27+00:00",
@@ -204,8 +266,8 @@
       "type": "News"
     },
     {
-      "title": "Innere Medizin Gemeinschaftspraxisfür Radiologie und Nuklearmedizin Stellenangebote in Sachsen-Anhalt - ärztestellen",
-      "summary_de": "Innere Medizin Gemeinschaftspraxisfür Radiologie und Nuklearmedizin Stellenangebote in Sachsen-Anhalt &nbsp;&nbsp; ärztestellen",
+      "title": "Innere Medizin Gemeinschaftspraxisfür Radiologie und Nuklearmedizin Stellenangebote in Sachsen-Anhalt - aerztestellen.aerzteblatt.de",
+      "summary_de": "Innere Medizin Gemeinschaftspraxisfür Radiologie und Nuklearmedizin Stellenangebote in Sachsen-Anhalt &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbjZEbU1uN2FueklEc01BaVhNbWRKVWdud0N6VjJlOGNsdHdoczZmVmczWnVaUHE1aDVXd0RSTTNTdjZJMWpRazJ5YVhScWNOa3oyRFhhbjFkREF6NlQ0cGNNRWMtVVNOUVJlLVdzVHNLLTZNTW9QYUdFWkV1NXdNOUJMTzFYamxhTV9aQ3lMVWpIaUhuOHVMU29BVlhSbE95cGZnY3Z6cTlDaFlpTzhDcEpRX3VOV29QbDdSbEttQnkzNWExZENWRVl1eDRVWGlTSi1wTE5XTmkzQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-09T08:44:49+00:00",
@@ -234,12 +296,22 @@
       "type": "News"
     },
     {
-      "title": "Innere Medizin Bundesamt für das Personalmanagement der Bundeswehr Stellenangebote in Hessen (0) - ärztestellen",
-      "summary_de": "Innere Medizin Bundesamt für das Personalmanagement der Bundeswehr Stellenangebote in Hessen (0) &nbsp;&nbsp; ärztestellen",
+      "title": "Innere Medizin Bundesamt für das Personalmanagement der Bundeswehr Stellenangebote in Hessen (0) - aerztestellen.aerzteblatt.de",
+      "summary_de": "Innere Medizin Bundesamt für das Personalmanagement der Bundeswehr Stellenangebote in Hessen (0) &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY3EyRTRvZ0d1cERvNjNsdEd5XzJBTXZIQ0N3NXpTS1V4SmR5bk1JWjkwZWltSnNBaTVkTzF2Y25mSGltYXdORG1aaEYtTzVxTWxPWEdVcGY3MHZhc3prME1TcE1Ta21NekxLclZCY1lxc05WcENQT09yR3NXX0JtYS02V3ZtMkhZLU1DRWVTQ3ExSS0tXzBHVmJDOS1CQ01BUnpMMFVUQ19DM2hwSnpKVGVSRVhIVXdJbTM1Vm1EYU85WXhCVTR4alg0WnZnYVp3TmUyMUd4dnE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-09T03:02:42+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Ärztl. Geschäftsführer / Direktor Radiologie Universitätsklinikum Ruppin-Brandenburg (ukrb) Klinik Stellenangebote - aerztestellen.aerzteblatt.de",
+      "summary_de": "Ärztl. Geschäftsführer / Direktor Radiologie Universitätsklinikum Ruppin-Brandenburg (ukrb) Klinik Stellenangebote &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWWZ5NWFjVDBZYUliTE04VEZMU01fRno5cWVMZWdORmRQenFzMlNiNnJ0a0RMbVJNbEd1OWhSVEhXbElLMHhIakJSZUx4aHp6d1JsSEJadGw4WmhkdWxKdjNyaDVtN042SHpJSnVMYlU5UVEyQkxTOHd5UWRRN0lOSEpFRGRFQU1oSGVGZTZoT3pwdEUyLTBTX0gyUk9CVFNxeUdSMWdqc0tHM21uMW5fNk9Bd19EQkRpa1NRWDdYY1k3bG5idUxjZnFFVGRpVHJXb0t6NzZzby0tRkRNaXhzaXRTUkJEZ20wWEpfUA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-09T02:52:59+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -254,8 +326,8 @@
       "type": "News"
     },
     {
-      "title": "Radiologie Caritas-Krankenhaus St. Josef Regensburg Stellenangebote in Schleswig-Holstein - ärztestellen",
-      "summary_de": "Radiologie Caritas-Krankenhaus St. Josef Regensburg Stellenangebote in Schleswig-Holstein &nbsp;&nbsp; ärztestellen",
+      "title": "Radiologie Caritas-Krankenhaus St. Josef Regensburg Stellenangebote in Schleswig-Holstein - aerztestellen.aerzteblatt.de",
+      "summary_de": "Radiologie Caritas-Krankenhaus St. Josef Regensburg Stellenangebote in Schleswig-Holstein &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYkZTX3Q1dHNlV251U2FrRFFwTjNCSmU5R0FvNTBSeVdPWlJhVjVfTEt1VzU2bzNhY3g3elVodmpUallGN2lZNUdhZ2QtMUdTdEpJSDRIWnFUa05vZUhiQXVhRi15aGZheHVLREQybm93eUx1SkNnbmJSN01ONjZlYWlxR1pGaFI3VEU4ZGE3Xy1ObFMtajc5Wl92NW5ROEJmRDBsLUxxR1NaRE1FTVc5ZTQwSDhBbDhtZXY0djEtS2Vfd19qazRN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-09T01:21:24+00:00",
@@ -264,8 +336,8 @@
       "type": "News"
     },
     {
-      "title": "Assistenzarzt / Arzt in Weiterbildung Pathologie Klinikum Oldenburg AöR Stellenangebote in Niedersachsen - ärztestellen",
-      "summary_de": "Assistenzarzt / Arzt in Weiterbildung Pathologie Klinikum Oldenburg AöR Stellenangebote in Niedersachsen &nbsp;&nbsp; ärztestellen",
+      "title": "Assistenzarzt / Arzt in Weiterbildung Pathologie Klinikum Oldenburg AöR Stellenangebote in Niedersachsen - aerztestellen.aerzteblatt.de",
+      "summary_de": "Assistenzarzt / Arzt in Weiterbildung Pathologie Klinikum Oldenburg AöR Stellenangebote in Niedersachsen &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMzF3ZFpTUDdzaUhEN0wzbVpKQjJLaTB2OFhEaDVtSW9KZWlVNEpVRUlWMmtUTTBlTFNVdFpNcnI4TnJ6djBkWTQ1YzB0T1h5czM4a2FKWDNJeHRZelpUbHYyQWZHVUR3S1dKeXRfUC1rU2w0Y1BQcHAzOUlaSFFhSTlKQUdGTXgtX3RheHVEeWNQNTNvRmplUnhiUGZsOXltdnZGUkF1c0ZDVHBMRzFlTmJ0cS1reEhfV05qNGFpbDR2NGlBUzFBZA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-08T19:37:38+00:00",
@@ -476,20 +548,20 @@
       "type": "News"
     },
     {
-      "title": "Qualität toppt Quantität: Wie sich Schwangere gesund ernähren",
-      "summary_de": "Wenn das Baby im Bauch w&auml;chst, spielt gesunde Ern&auml;hrung eine besonders wichtige Rolle. Aber was ist damit gemeint? Tipps, worauf Schwangere beim Essen achten k&ouml;nnen.",
+      "title": "Testkauf bei Hitze: Wenn Zäpfchen zu Joghurt werden",
+      "summary_de": "Die Versandlobby intervenierte in Br&uuml;ssel mit Erfolg gegen umfassendere Temperaturkontrollen. Apotheker Peter Vorstheim aus Hessen wollte es wissen und t&auml;tigte in der ersten Hitzewelle einen Testkauf bei der Shop Apotheke. Was herauskam, hatte mit Arzneimitteln nichts mehr zu tun.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/wie-sich-schwangere-gesund-ernaehren-167403/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/wenn-zaepfchen-zu-joghurt-werden-167405/",
       "published_at": "2026-08-07T08:00:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Testkauf bei Hitze: Wenn Zäpfchen zu Joghurt werden",
-      "summary_de": "Die Versandlobby intervenierte in Br&uuml;ssel mit Erfolg gegen umfassendere Temperaturkontrollen. Apotheker Peter Vorstheim aus Hessen wollte es wissen und t&auml;tigte in der ersten Hitzewelle einen Testkauf bei der Shop Apotheke. Was herauskam, hatte mit Arzneimitteln nichts mehr zu tun.",
+      "title": "Qualität toppt Quantität: Wie sich Schwangere gesund ernähren",
+      "summary_de": "Wenn das Baby im Bauch w&auml;chst, spielt gesunde Ern&auml;hrung eine besonders wichtige Rolle. Aber was ist damit gemeint? Tipps, worauf Schwangere beim Essen achten k&ouml;nnen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/wenn-zaepfchen-zu-joghurt-werden-167405/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/wie-sich-schwangere-gesund-ernaehren-167403/",
       "published_at": "2026-08-07T08:00:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
@@ -541,6 +613,16 @@
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUjVIWmFnakFxUUhIMWR2MmJpa2JIdS11bmV2MFNKc2YzYW1WQlU0Y3AxWmd4S1ZVYTZBa0VxYk5NbklXYVB0NU1lMmtLNm5kOGlSNnF5VzZZNUc0aXQwaGJoSlRzc0c1Tk5HeERtLVVaeEZvRm5sbEY4WGlCTUpSYmI5WXU1aEFrQ25hN0hQbTRNdkRRZk5NTnJWNDZpcGxMU2NuZUhzeEVkbjZuZXNPRjdmbkYzcDNsRFplQ2trX0x2WGNIMnNTdzV2WkdWWUlFT3pCemFwWlRtMC02Y0hRbHNVeUNNVDNNYXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-07T02:47:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Krankheit: Rock-Legende Glenn Hughes zieht sich von der Bühne zurück - zeit.de",
+      "summary_de": "Krankheit: Rock-Legende Glenn Hughes zieht sich von der Bühne zurück &nbsp;&nbsp; zeit.de",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRklQRUdZRTJ0SkdFOXpGeHJsenpvS3BoSURja3Q0Wm82TzhhazBtTWNVSzBpNGZ4RVhja2Uxb3N5dWEtYmdNOTExckdlWGcwc3k2UkJFS2dnLWFhQUJ2TnlFQWwwbm11cFFyV19TTmtuYkJIVWtVVFBVRmkyMS1mdEtrUHFZWGhEOG5XSDd4SUphN0xXbkp0bDFzaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-06T18:01:41+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -602,32 +684,12 @@
       "type": "News"
     },
     {
-      "title": "Zweites Quartal 2026: Mercks Umsatz übertrifft Erwartungen",
-      "summary_de": "Ein gutes Gesch&auml;ft mit Laborausr&uuml;stung und gefragte Halbleitermaterialien im KI-Boom treiben die Quartalszahlen von Merck an. Der Konzern wird optimistischer f&uuml;r 2026 &ndash; und setzt auf einen Milliardendeal in den USA.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/mercks-umsatz-uebertrifft-erwartungen-167398/",
-      "published_at": "2026-08-06T13:20:08+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Deutschland: Mehr Hitzetote durch extreme Sommerhitze im Juni als bislang angenommen - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Deutschland: Mehr Hitzetote durch extreme Sommerhitze im Juni als bislang angenommen - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVVlRdjBvdURhLURwNDQxX29KZ0xiU3hnajltcTZOWlg2U3RsT2FCVWliWTA1STAwVy1TY1pKNDJ3enhVVGkxa2RhTHZHRTZWSnBveV9NM1ZrRFhqQkxyUkxoRWtaVUxXT0RBWktmb3QzRURMMzBuRkdPdFRLLWdVUEZrdnJ5bG14eTMxeGQzT2pvQXZEV2N5UA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-06T13:07:49+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "EU-Handelsabkommen: Pharmaindustrie sorgt sich um Patentschutz",
-      "summary_de": "Die Europ&auml;ische Union schlie&szlig;t aktuell eine ganze Reihe von Handelsabkommen ab. F&uuml;r die Pharmaindustrie entstehen so neue Exportm&ouml;glichkeiten. Doch eine neue Analyse zeigt in vielen der L&auml;nder Defizite beim Schutz geistigen Eigentums.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/pharmaindustrie-sorgt-sich-um-patentschutz-167374/",
-      "published_at": "2026-08-06T13:00:00+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -642,8 +704,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Risiko für Krankheiten nach Mückenstichen wächst - DIE ZEIT",
-      "summary_de": "Gesundheit: Risiko für Krankheiten nach Mückenstichen wächst &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit: Risiko für Krankheiten nach Mückenstichen wächst - zeit.de",
+      "summary_de": "Gesundheit: Risiko für Krankheiten nach Mückenstichen wächst &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWmxPb2lrTTdGbTNtblBBdnAyUllzZXpaeTJyc3FwZlpNdW1OV0NUbVB3ZFh5N090dWY5R1hNZHdab1N5cHNEVzFtaEdiZjJoVFp3SFZQb1o2azBTdm4yWWFIb3dMQkNuclVoVTloaG9rTlhqWVR3TVpNaEdLNlgxRHdGcEpFUDdmcGFybjd5OUU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-06T12:00:25+00:00",
@@ -662,26 +724,6 @@
       "type": "News"
     },
     {
-      "title": "Nahrungsergänzungsmittel: Was ältere Menschen wissen sollten",
-      "summary_de": "Nierensteine durch zu viel Vitamin D, verf&auml;lschte Laborwerte und verstecktes Natrium: Welche Probleme eine Verbrauchersch&uuml;tzerin f&uuml;r Senioren sieht und mit welchen Alternativen man besser f&auml;hrt.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/was-aeltere-menschen-wissen-sollten-167386/",
-      "published_at": "2026-08-06T12:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Niedrigwasser im Rhein: Dürre belastet Pharmaindustrie",
-      "summary_de": "Die Chemie- und Pharmaindustrie ist auf den Transport von Rohstoffen &uuml;ber Fl&uuml;sse wie den Rhein angewiesen. Die aktuelle D&uuml;rre k&ouml;nnte daher zu Produktionsk&uuml;rzungen f&uuml;hren. Industrieverb&auml;nde fordern jetzt mehr Investitionen in Infrastruktur.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/duerre-belastet-pharmaindustrie-167378/",
-      "published_at": "2026-08-06T11:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "(S+) Reform des Sozialstaats: Geht es bei Rente, Gesundheit und Steuern gerecht zu? - Spiegel",
       "summary_de": "(S+) Reform des Sozialstaats: Geht es bei Rente, Gesundheit und Steuern gerecht zu? &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
@@ -692,8 +734,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Dresdner Krebszentrum erhält 3,8 Millionen Euro Förderung - DIE ZEIT",
-      "summary_de": "Gesundheit: Dresdner Krebszentrum erhält 3,8 Millionen Euro Förderung &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit: Dresdner Krebszentrum erhält 3,8 Millionen Euro Förderung - zeit.de",
+      "summary_de": "Gesundheit: Dresdner Krebszentrum erhält 3,8 Millionen Euro Förderung &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdHN3ejExWmRCclFwVjRKZkJRVDFMcWdKSkFqRGZRd3p0VXpNYXdSX2tHMFJfUWwxdFBVV2lGeldJRmtCcmI3SE8zcXRwcTRTUDFOc3BMYkZrd0ZDSWdSTC03a3puSVcydnVjeGpyMnhYejdKQXBCYWdRcklMNHNrZk5ja25VVmhnR3JCbTRKZ2M2eEV2SjJaZk9HZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-06T08:45:46+00:00",
@@ -732,8 +774,8 @@
       "type": "News"
     },
     {
-      "title": "Hitze und Gesundheit: Das Thermometer im Rettungswagen zeigt 39,2 Grad - DIE ZEIT",
-      "summary_de": "Hitze und Gesundheit: Das Thermometer im Rettungswagen zeigt 39,2 Grad &nbsp;&nbsp; DIE ZEIT",
+      "title": "Hitze und Gesundheit: Das Thermometer im Rettungswagen zeigt 39,2 Grad - zeit.de",
+      "summary_de": "Hitze und Gesundheit: Das Thermometer im Rettungswagen zeigt 39,2 Grad &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYkVxNENmWlF6THIwbU9WcUd6TjJyRGlGSzcwVmN3UG00TmVkZ0ltSFllSFIzUEptMGVxZFJVcG84bVF4Rk4xSmk5OXhzcElTNVVVaEhuMFA0ZDZNNVZmdUxPdjE3cUNXMXNUemJiLUdHTElDem9xS3hycHMwNm1iYm9aNUdLbGhLQ1FDRXNOd0JSajdxZWpRelJqRjdzZFRhMXY4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-06T06:07:37+00:00",
@@ -742,8 +784,8 @@
       "type": "News"
     },
     {
-      "title": "Hitze und Gesundheit: Das Thermometer im Rettungswagen zeigt 39,2 Grad - DIE ZEIT",
-      "summary_de": "Hitze und Gesundheit: Das Thermometer im Rettungswagen zeigt 39,2 Grad &nbsp;&nbsp; DIE ZEIT",
+      "title": "Hitze und Gesundheit: Das Thermometer im Rettungswagen zeigt 39,2 Grad - zeit.de",
+      "summary_de": "Hitze und Gesundheit: Das Thermometer im Rettungswagen zeigt 39,2 Grad &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbExOR2t0SGxIbTVEVGhsUXV2MDhTYVNoRi1hWjlOX2tNZUNSdjBnSTZpMkNPVWplTkNEY2hTeW5TZnprNEI2WF93Tkc2bm1vOXJ5aXNmVkNqbHpDa1dfNE5GYmhjVEE4cTZYWVhZeG5KOG0zbE9IY3VjNXZ1MG9vYzAyT19FeEFMQ1dPM3NZV1FIdXJXQU5DWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-06T06:07:37+00:00",
@@ -772,8 +814,8 @@
       "type": "News"
     },
     {
-      "title": "„Bislang existiert kein vergleichbares mobiles MRT-System dieser Art“ - rp-online.de",
-      "summary_de": "„Bislang existiert kein vergleichbares mobiles MRT-System dieser Art“ &nbsp;&nbsp; rp-online.de",
+      "title": "„Bislang existiert kein vergleichbares mobiles MRT-System dieser Art“ - RP Online",
+      "summary_de": "„Bislang existiert kein vergleichbares mobiles MRT-System dieser Art“ &nbsp;&nbsp; RP Online",
       "source_name": "\"site:rp-online.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSkNYQUlUbTB0SEo4LVQxcTVIeTdyR2xGbElmYXpJRk9kT25mdG5pU0N4NVl0UEhJT2czV2h6YzR0TXpQazIzMDRRRzIzYlpMb2RIckRpSEd5MDhrdWpGTXZYWVF3WkNzb3Q3ODBMMktoT25sT2Y1dEtNNUN5bTJ5N0hBbGtaN292UFQ4MTgzTmEyRlFNbE84b1M5QjVRSlQ4cUFscVZneXJPaHEyMllJelNPWGhYSUFicnFnWkVzUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-05T12:54:00+00:00",
@@ -792,8 +834,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: 4,8 Millionen Euro für Mitteldeutsches Krebszentrum - DIE ZEIT",
-      "summary_de": "Gesundheit: 4,8 Millionen Euro für Mitteldeutsches Krebszentrum &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit: 4,8 Millionen Euro für Mitteldeutsches Krebszentrum - zeit.de",
+      "summary_de": "Gesundheit: 4,8 Millionen Euro für Mitteldeutsches Krebszentrum &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbk9xcVFMTGllVDg1dUJyck0tRF9qcVN0YlAxOVJYS2gwXzdvM0dHekxoZkFqU3BSNnEzakRtdElxcklLZWRTRzFNVWZDOHJaUnhTYjFiZmJOU0xKUzBFc2pVU2RuYlc4VVg1NFowT3EzaXVwV1dNQ1hjTm9GeGxfeUZSMFQ5VTFyQnpjVlJXdW5zdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-05T10:41:25+00:00",
@@ -802,8 +844,8 @@
       "type": "News"
     },
     {
-      "title": "THC in der Medizin: Cannabis-Wirkstoff hilft traumatisierten Menschen - DIE ZEIT",
-      "summary_de": "THC in der Medizin: Cannabis-Wirkstoff hilft traumatisierten Menschen &nbsp;&nbsp; DIE ZEIT",
+      "title": "THC in der Medizin: Cannabis-Wirkstoff hilft traumatisierten Menschen - zeit.de",
+      "summary_de": "THC in der Medizin: Cannabis-Wirkstoff hilft traumatisierten Menschen &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNkpvS1RuM3lnRlE1STdmc3dWUHZrQjVBYkE0U3lhZHFvMkc3Qm1OZk16d3JSSGNTT1RXVlBaZFVHcHhQUXN5SEQ1LXR6VFFVQjBzQXNxem1JdnFZaVFUVVdJc0h1RTlybzdFejJoMXpJZlVzdDB0ZVNVTENiZHA2VDVCcVlJVkhRNERfUndn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-05T09:00:09+00:00",
@@ -812,8 +854,8 @@
       "type": "News"
     },
     {
-      "title": "THC in der Medizin: Cannabis-Wirkstoff hilft traumatisierten Menschen - rp-online.de",
-      "summary_de": "THC in der Medizin: Cannabis-Wirkstoff hilft traumatisierten Menschen &nbsp;&nbsp; rp-online.de",
+      "title": "THC in der Medizin: Cannabis-Wirkstoff hilft traumatisierten Menschen - RP Online",
+      "summary_de": "THC in der Medizin: Cannabis-Wirkstoff hilft traumatisierten Menschen &nbsp;&nbsp; RP Online",
       "source_name": "\"site:rp-online.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTW9QYWhNMmxBMlBoOVRCTHdyMUNvNnl2SmtjSkRETUJPSDExSkxRM3lZMWtLdHR3U05KUVBvUFZhSmt6RFJETGdfR3dFLXcwanJKeC1oTUVNcTRveWdTZXVmWDJqc3NQUkJVc2l1MjJ0ZWd0RFpZRVBBb1E1SWhNQTFEZU5IbnowV1Brd3YxMldMUm5kaTZyZEJwSHVmWUxJT1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-05T09:00:00+00:00",
@@ -832,8 +874,8 @@
       "type": "News"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-05T07:48:31+00:00",
@@ -862,8 +904,8 @@
       "type": "News"
     },
     {
-      "title": "Innere Medizin und Angiologie Bundesamt für das Personalmanagement der Bundeswehr Stellenangebote in Sachsen-Anhalt | Ärztestellen - ärztestellen",
-      "summary_de": "Innere Medizin und Angiologie Bundesamt für das Personalmanagement der Bundeswehr Stellenangebote in Sachsen-Anhalt | Ärztestellen &nbsp;&nbsp; ärztestellen",
+      "title": "Innere Medizin und Angiologie Bundesamt für das Personalmanagement der Bundeswehr Stellenangebote in Sachsen-Anhalt | Ärztestellen - aerztestellen.aerzteblatt.de",
+      "summary_de": "Innere Medizin und Angiologie Bundesamt für das Personalmanagement der Bundeswehr Stellenangebote in Sachsen-Anhalt | Ärztestellen &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVEVvUGxrc2lOZXRUeGw4N2t0aTFuUlRuWW1YdUtUZURhWjJEMkNEU3BWdVI3T1hMSXdqUlBOQUh3dm9NejBWRjk1UTUtNGJnc0wwQkJlMzNVYmtKdnpsR3VuODZ6LUtqcml2MVlodU85Nl9GUHU4Ukt3NkdtSGozalh5SHNyVE9mTGlHQkRtajJzNHY2YWlrZ2VxZlhvOC1tNWt1VjREbHdmbUdEWS1YQUJ4TXdEWFVCSmxUWTNtRGxoa0d2eEwyMkRqSDItYmlLOXdoV0hrVjl0Z1BNaUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-05T01:32:20+00:00",
@@ -912,8 +954,8 @@
       "type": "News"
     },
     {
-      "title": "Pharma: Weniger Impfstoffnachfrage - Biontech tief in Verlustzone - DIE ZEIT",
-      "summary_de": "Pharma: Weniger Impfstoffnachfrage - Biontech tief in Verlustzone &nbsp;&nbsp; DIE ZEIT",
+      "title": "Pharma: Weniger Impfstoffnachfrage - Biontech tief in Verlustzone - zeit.de",
+      "summary_de": "Pharma: Weniger Impfstoffnachfrage - Biontech tief in Verlustzone &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSi01MVFBUjZBV21EX1RnWk9tdERQVU9IUEpBbF82eUgtZ2F0TkpwX2dEY2l0UnR3N1FISFNVQXpXY0FSYThTanBDamJNRVNrY0RYUVBidmRqZnNXYTNvNWc0eGYyUktjbFNudll2bElSQzhCTzFFaVpqV0pYUEVDaFd2allCYW4tSndoVmVuSE5ZUjNaRVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-04T12:21:33+00:00",
@@ -985,16 +1027,6 @@
       "type": "News"
     },
     {
-      "title": "Infektion mit Parasiten - Michigan: Erste Tote nach Durchfallwelle - Gesundheit - SZ.de",
-      "summary_de": "Infektion mit Parasiten - Michigan: Erste Tote nach Durchfallwelle - Gesundheit &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRkstMVBpMDZxTjY4bmdtRm9RelprZURnaW41R2R3WTlkd2lTdlNwRkcwSUEtMDhNNF9XTThNSXdsRUxhUnBmamJPX1BoSWZQckptR0xWekFYdHVla0J4c2dPeXUweV8tZUNfMGFYM3Y1bjI1OVBzZldKQy1wMk5QcC10OExiZlVYejhsLXJoRjBCZndaSGZaMEdxU0VWUElfVnNtd212NWdRb2NEczBMSktnN1RBNkdiVFAzVXotenNCc1lEOHQ5ejNWVndkZ2I2eGRHUG5FWWY2MXAtMmFGeDZCRFN2VGs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-03T17:18:44+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Decision: Human medicines: register of electronic export certificates",
       "summary_de": "Department of Health and Social Care and MHRA register of electronic export certificates (human).",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1025,21 +1057,11 @@
       "type": "News"
     },
     {
-      "title": "Innere Medizin Universitätsklinikum Schleswig-Holstein (UKSH) Stellenangebote in Sachsen-Anhalt - ärztestellen",
-      "summary_de": "Innere Medizin Universitätsklinikum Schleswig-Holstein (UKSH) Stellenangebote in Sachsen-Anhalt &nbsp;&nbsp; ärztestellen",
+      "title": "Innere Medizin Universitätsklinikum Schleswig-Holstein (UKSH) Stellenangebote in Sachsen-Anhalt - aerztestellen.aerzteblatt.de",
+      "summary_de": "Innere Medizin Universitätsklinikum Schleswig-Holstein (UKSH) Stellenangebote in Sachsen-Anhalt &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSUNkR1NocllWNnNrWmhxRXBQRDctTEttbXhPVEhPdTl3ZFpyRjBxY19vc1NEQnpDTURteFlUUDR0YV9CdHpDWU5mUVVPSzVqX0gzMFdiMWU3bHcxdmVEczJYajBUU08zQjJvWFVtalE1QnJGU2NZeGNEUTJ6VTBiV1lOTnZ3QVdwNTBRaG1GcF9YbEZhZTI4dHBtT0ZSSnBIYUthR0MzdHU4RTNfdWNDTjVudGEzX0xQaTNaU1p4VFI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-03T15:12:27+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Kärntner Arzt kündigt wegen schlechter Arbeitsbedingungen - Kleine Zeitung",
-      "summary_de": "Kärntner Arzt kündigt wegen schlechter Arbeitsbedingungen &nbsp;&nbsp; Kleine Zeitung",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOFJTd2cyYzNMeXFOanc2Qi1MQUtZc29IZlRCQ0NlOE40OV9SYThGR0MwMm5NWWM3N3BaMEQxbnVVZXBoUVo5MlVSVmUwVXN5cVRadG5ybHQxUF9zS1hyWEtISUluVWhQTDdNd0dqOV9hRml3cU1oMUR0Mm5vejF2VXM1UWZleHNBclpfcXFJd3NQSDczb3NuTnJISzFLcG1KXzN0SjNJNUNKUXFFRXQ1WnhENVBaQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-03T10:43:10+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1102,18 +1124,6 @@
       "published_at": "2026-07-30T13:03:00+00:00",
       "category": "Europa",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Guidance: Magnetic resonance imaging equipment in clinical use: safety guidelines",
-      "summary_de": "Relevant safety information for users of magnetic resonance imaging (MRI) equipment in clinical use.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/safety-guidelines-for-magnetic-resonance-imaging-equipment-in-clinical-use",
-      "published_at": "2026-07-30T11:13:47+00:00",
-      "category": "Radiologie",
-      "tags": [
-        "Europa"
-      ],
       "type": "News"
     },
     {
@@ -1241,16 +1251,6 @@
       "type": "News"
     },
     {
-      "title": "Impressum - Techniker Krankenkasse",
-      "summary_de": "Impressum &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55VlNIMURWd21UU185bm1nS0loTzl2NDJmc2ktYnh6UDcxMkl0MTJfV2pTcDN6WkNvcW9FZlhMQ0hudnNORUNJSTVMaWJWQ3RJTGZjcDZPMmg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-29T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Wie melde ich mich für das Bonusprogramm AktivBonus an? - DAK-Gesundheit",
       "summary_de": "Wie melde ich mich für das Bonusprogramm AktivBonus an? &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
@@ -1281,8 +1281,8 @@
       "type": "News"
     },
     {
-      "title": "Ärztin / Arzt in Weiterbildung – Radiologie (m/w/d) - ärztestellen",
-      "summary_de": "Ärztin / Arzt in Weiterbildung – Radiologie (m/w/d) &nbsp;&nbsp; ärztestellen",
+      "title": "Ärztin / Arzt in Weiterbildung – Radiologie (m/w/d) - aerztestellen.aerzteblatt.de",
+      "summary_de": "Ärztin / Arzt in Weiterbildung – Radiologie (m/w/d) &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVUJJcGNTbTZ2WHNyMXVjdUVZRFRJMVZGZ2h1SFV3c3kzWXhPUmItV3lRZzNDTnFKNGk4dVctazMwd0UyZ0c3elVDVVF1eUZzd1hLUWxhSk93dnY4Z2Ric2xleVV0dkhaOEgxWVVFVWdNTmFoQmhjX3BHNXdVUjF3ZVE3aS1GRlVxT3p0Y1gyTERCQ1Y3X2thWG9hWWxhdlZkYTdEMg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-28T07:00:00+00:00",
@@ -1291,8 +1291,8 @@
       "type": "News"
     },
     {
-      "title": "Fachärztin/Facharzt für Nuklearmedizin (m/w/d) oder Radiologin/Radiologe (m/w/d) mit Fachkunde Nuklearmedizin - Schwerpunkt PET/CT - ärztestellen",
-      "summary_de": "Fachärztin/Facharzt für Nuklearmedizin (m/w/d) oder Radiologin/Radiologe (m/w/d) mit Fachkunde Nuklearmedizin - Schwerpunkt PET/CT &nbsp;&nbsp; ärztestellen",
+      "title": "Fachärztin/Facharzt für Nuklearmedizin (m/w/d) oder Radiologin/Radiologe (m/w/d) mit Fachkunde Nuklearmedizin - Schwerpunkt PET/CT - aerztestellen.aerzteblatt.de",
+      "summary_de": "Fachärztin/Facharzt für Nuklearmedizin (m/w/d) oder Radiologin/Radiologe (m/w/d) mit Fachkunde Nuklearmedizin - Schwerpunkt PET/CT &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNalJ3aXZ0SFBqZFEyNmh0aFViS2hsR183eE5BSG1kRDQ5MGJSYUhRNGZtTWdnQkdSTUkxOTRfXzMyVlN3a3lJYmRXaG9kb0NXdC1WUjV4QXNGRkZmOVZyZ1doMHNndFdvWlc1OVpjOVN2c1lRVmYxZHBQSk83RC1YbDJaY3RYYkpsTzV2TGZLc2JGS1NHdDY0WUV0d1d3eTdPeHB4WnhtaDVnX0ZHc0s5d2hNQjA3Mlc4RURtR2lnOXNrVTBzX2FSYlk5T1kzaERPVGUtaFFn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-28T07:00:00+00:00",
@@ -1355,8 +1355,8 @@
       "type": "News"
     },
     {
-      "title": "Ärztin / Arzt in Weiterbildung – Radiologie (m/w/d) - ärztestellen",
-      "summary_de": "Ärztin / Arzt in Weiterbildung – Radiologie (m/w/d) &nbsp;&nbsp; ärztestellen",
+      "title": "Ärztin / Arzt in Weiterbildung – Radiologie (m/w/d) - aerztestellen.aerzteblatt.de",
+      "summary_de": "Ärztin / Arzt in Weiterbildung – Radiologie (m/w/d) &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS0VVMzQ5YWM0NklUUjFzVXVrb3RFQlZYbHNveTM0ZjBmMzdGaWg4bG1kUTVGRDNxZEs0VFYzZl9kYWtSX3RHalhEYmptRWc5V3RhYkdsVjBuNHFsVklWRDQzQzhRMWRPTERwejVDckRGR0xtX1pTZWlEVzAyRm8wdERmZGE3SDV1b3Z3Y2w2azZGYXdyc2NuYV9fMExSMG1YbnE3eA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-24T07:00:00+00:00",
@@ -1551,8 +1551,8 @@
       "type": "News"
     },
     {
-      "title": "Fachärztin/Facharzt für Nuklearmedizin oder Doppelfacharzt/-ärztin für Radiologie und Nuklearmedizin - ärztestellen",
-      "summary_de": "Fachärztin/Facharzt für Nuklearmedizin oder Doppelfacharzt/-ärztin für Radiologie und Nuklearmedizin &nbsp;&nbsp; ärztestellen",
+      "title": "Fachärztin/Facharzt für Nuklearmedizin oder Doppelfacharzt/-ärztin für Radiologie und Nuklearmedizin - aerztestellen.aerzteblatt.de",
+      "summary_de": "Fachärztin/Facharzt für Nuklearmedizin oder Doppelfacharzt/-ärztin für Radiologie und Nuklearmedizin &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMFpFOTVqWTJkMlhFYmpLMmsxUHFJQnlLR0R2MFdFRktmVXEzWFF5MXpXRWM4QmpYOS1RTnAwSGsyZzZxQVpBa3BseGljem9tM1REU1dlZzlSc3R5Mk9SS3c2UVByMGRISW40WWtEajFHVERkV0FpRXpnSlRGYUdUUVpTMzRFS2xxRGN4RElIanZHcF93MXFBWENXbVJyRkIwMlQwb1V1T0g1dWFHZ2w5WG5yZnhuTUt3UHBSOFo5V0p6dmtrSWlGbnlrbzhNWDZr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-17T07:00:00+00:00",
@@ -1666,6 +1666,16 @@
       "type": "News"
     },
     {
+      "title": "Assistenz- oder Facharzt für Innere Medizin oder Allgemeinmedizin (m/w/d) - ZEIT Stellenmarkt",
+      "summary_de": "Assistenz- oder Facharzt für Innere Medizin oder Allgemeinmedizin (m/w/d) &nbsp;&nbsp; ZEIT Stellenmarkt",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUmIzVFhDcGVzV09TaWFjekd6Q1FwcVNVVmJrUUxxaEI1RVkwS3NXdWhNYmp5WmtjN2J2OXg0NVJSYzFCeGNtbTk1ek9MZEgyNGNyRERobmpvX1NpY2tGWTVGQ2Jpb3d2Vm5hXzdnVjRoVkpGR0N2QTkwVmJIQ1JfMVpmcDFyTVQ5aTdLak1WcEdmS2xRbW5tZlRNUkhIVnpMQWdZR1RlYXFXOHl1cnR6b0g3REU2MGxfXzVYZmNPZGUzWVAzZ3ZfVkZGUDRZQUdoRS1lYjR5QWR1Y2FmMl9OZTRyNFV5WGdjNjY5VWpsR2NzYU9fNUVrVG45SzA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-14T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Pressemitteilung: Datengestützte Prävention wirkt",
       "summary_de": "Die gesetzlichen Kranken- und Pflegekassen erreichen mit datengestützten Präventionsmaßnahmen immer mehr Versicherte – mit messbarem Erfolg: Bislang wurden rund 1,5 Millionen Menschen gezielt auf individuelle Gesundheitsrisiken wie fehlende Impfungen oder Vorsorgeuntersuchungen hingewiesen. Etwa 110.000 von ihnen nahmen daraufhin konkrete Versorgungsangebote in Anspruch.",
       "source_name": "GKV-SV Presseinformationen",
@@ -1734,8 +1744,8 @@
       "type": "News"
     },
     {
-      "title": "GKV-Spargesetz: Das sind die fünf größten Streitpunkte der Krankenkassenreform - DIE ZEIT",
-      "summary_de": "GKV-Spargesetz: Das sind die fünf größten Streitpunkte der Krankenkassenreform &nbsp;&nbsp; DIE ZEIT",
+      "title": "GKV-Spargesetz: Das sind die fünf größten Streitpunkte der Krankenkassenreform - zeit.de",
+      "summary_de": "GKV-Spargesetz: Das sind die fünf größten Streitpunkte der Krankenkassenreform &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdzhwejFMYlg1OWxMOTllUjMzdDVLQXgxQm91UjM3UjhzU2lmMEZFbHhTRll3dWVHZG1pX3lfd29IUmJ4cGVuaW5IUDlJVmlhdmZjZXJOS2x4UGtZSGdIRll3bHQ1V2tZRF9KQjdHUUdER3Y2bjZlVDViaFd2dlBhRUlsVzltUW9lc1NDNnZCTXZtVE1EWmo2LUpyR2RldWZCQ1RtSm1rMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-10T07:00:00+00:00",
@@ -1744,8 +1754,8 @@
       "type": "News"
     },
     {
-      "title": "GKV-Reform: Was sich durch die Reform der Krankenversicherung für Patienten ändert - DIE ZEIT",
-      "summary_de": "GKV-Reform: Was sich durch die Reform der Krankenversicherung für Patienten ändert &nbsp;&nbsp; DIE ZEIT",
+      "title": "GKV-Reform: Was sich durch die Reform der Krankenversicherung für Patienten ändert - zeit.de",
+      "summary_de": "GKV-Reform: Was sich durch die Reform der Krankenversicherung für Patienten ändert &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkpJX20zTDJCZzZscEhtTmk2MGVNQU54ZWFWd1BROGFwcnBQeTlQR01FSWVHVjQ5b1lxd0JTU2o5TFV4UmR1cWlpZTVkZDc1NGZLeUFJVi1kd3FZRFVXQkVtS1E3RS1LZzdnRV9TUGtweW16WHcxNmVIdl93eFVSb3pyYjRqbEltb3I5QXlJdU56RmNLQk42bnlzNTN6dVhfUEd5alhkUy1EcVV0SWNxX3RlMDBHZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-10T07:00:00+00:00",
@@ -1846,8 +1856,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik: Geballter Gegenwind bei Reform der Krankenversicherung - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Geballter Gegenwind bei Reform der Krankenversicherung &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheitspolitik: Geballter Gegenwind bei Reform der Krankenversicherung - zeit.de",
+      "summary_de": "Gesundheitspolitik: Geballter Gegenwind bei Reform der Krankenversicherung &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeVFXZjFLcTJWMENQcjZZQ2JCY0xzblNqM1BiQzViallsbHIyOXlWX0FYSDdHd1BOeGppZHNyaHMtMlVfWjFhMXNmWlhZdmtWajNITk02elRRTGt6d2h2LWNXODN5eGl4NFZxakJGem1wd3Azd2xpRzJWM0d6UGhONlQwSG5vZlR2c2o3NWZPSE1iZHZ5cFpadTZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-09T07:00:00+00:00",
@@ -1856,8 +1866,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik: Boehringer-Deutschlandchef: Industrie wird de-priorisiert - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Boehringer-Deutschlandchef: Industrie wird de-priorisiert &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheitspolitik: Boehringer-Deutschlandchef: Industrie wird de-priorisiert - zeit.de",
+      "summary_de": "Gesundheitspolitik: Boehringer-Deutschlandchef: Industrie wird de-priorisiert &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLTdROXd0ZHgwVWxJNkh1U2dfaEUtT2FqQmNCbjN3R18zSFVwdE84RngtTWthSGtDM0xzcDhhOW83ZU81ZlpFQmxfNWREcWZEbjUybndJUGJUOXNUaDc5bnpfamNMQU1VZkR6Q3lVWGhaZWIxR24xR3FOZmJLamdaLUY2OEZsckNBYzBJNC1EbUJOUzU5WWln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-09T07:00:00+00:00",
@@ -1908,16 +1918,6 @@
       "type": "News"
     },
     {
-      "title": "TK-Ärzteführer - Techniker Krankenkasse",
-      "summary_de": "TK-Ärzteführer &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYmtvVElOR3MwVVlHZl9pQnpPOVUxRVpSUWM3LTMzY0hIVHlrWjdhS05kMFYzdUpVUzZXRXBrbWVPVVdhZkpxZ2VnSUlXZDRzVkVWQWVORTBUTlFfT3VNVVI5MXhpOElkMjlHSjNQTUU3VU82a2Z3cUJfSUtkQkRQS3diNVVrQlR3UlU1NUY2d1RmQUxOVXJVd19ZYk1DZzVWQnJ1OU14WUI5SGh3U3RqdkxSMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-07T11:01:03+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Professur für «Gesundheit und Blockchain» (70-100%, open rank) - ZEIT Stellenmarkt",
       "summary_de": "Professur für «Gesundheit und Blockchain» (70-100%, open rank) &nbsp;&nbsp; ZEIT Stellenmarkt",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
@@ -1963,8 +1963,8 @@
       "type": "News"
     },
     {
-      "title": "GKV-Finanzreform: Nina Warken ändert Krankenkassen-Sparpaket - DIE ZEIT",
-      "summary_de": "GKV-Finanzreform: Nina Warken ändert Krankenkassen-Sparpaket &nbsp;&nbsp; DIE ZEIT",
+      "title": "GKV-Finanzreform: Nina Warken ändert Krankenkassen-Sparpaket - zeit.de",
+      "summary_de": "GKV-Finanzreform: Nina Warken ändert Krankenkassen-Sparpaket &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORXdaUXIyM2xYQy13dXlHR0dIb21OeUZ3VzV4N1dLNVB0QUthclZxanZnYVhyYVRKZEZwTHlzZlY0dTJRcW4wQ29tRERhT3ZGSS0tc2lURWhIeUZkQ0loMG1VX2t2OFlCSFJYY20xMjlKdkJ0Smp6RGg0Q0U0U3ltZ3cxeGVISFVZY1JzaDhGVmZhQksxQm9EQ25zaEZNQUh0cVlUSVM3TnRDaWdU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-06T07:00:00+00:00",
@@ -1983,8 +1983,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik: Gerlach kritisiert Aus für telefonische Krankschreibung - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Gerlach kritisiert Aus für telefonische Krankschreibung &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheitspolitik: Gerlach kritisiert Aus für telefonische Krankschreibung - zeit.de",
+      "summary_de": "Gesundheitspolitik: Gerlach kritisiert Aus für telefonische Krankschreibung &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUTZZSlNMcjM4UzdmZlYtazN6ZGtuZFpsTUJPaFA1S2x5bzY1ODI2RnZmejVSVzVMNHVHODdZTVd6eXpKZDExbVFlWXhvalY2cHplU1BiVGozaEtUZ3ZJUnBNTDZjd1FCNlByNUFuUjdJeDhFWkZjQWg0X19PVFhPSEQyZXIzMDdnal9IXzBXel9RZHptb0p3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-03T07:00:00+00:00",
@@ -2035,8 +2035,8 @@
       "type": "News"
     },
     {
-      "title": "Leitende/r Ärztin/Arzt 80-100%, Radiologie - ärztestellen",
-      "summary_de": "Leitende/r Ärztin/Arzt 80-100%, Radiologie &nbsp;&nbsp; ärztestellen",
+      "title": "Leitende/r Ärztin/Arzt 80-100%, Radiologie - aerztestellen.aerzteblatt.de",
+      "summary_de": "Leitende/r Ärztin/Arzt 80-100%, Radiologie &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLXZfTDB4OS1LR3RhTl9DTHpueTdzTi1GQ2RCMnA4WE16di16T3RBS2dKOWNuMjNCY2VudU9ibkJTQVM1aW9GYVZ1RHJfMzEwR1drQUpfYWhtdGVXYlBTVVZ4MzRLQ2VNanE5SkRZTWhKbHNFbDZvb1BGdFJDZTJjY3RPcjJRRnlyNlRxOVcwUjgwbkM1RHlmcTNqVjlLRU9hd2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-01T12:00:06+00:00",
@@ -2050,16 +2050,6 @@
       "source_name": "EFSA | News",
       "source_url": "https://www.efsa.europa.eu/en/news/multi-country-outbreak-salmonella-stanley-infections-linked-flavoured-noodle-products",
       "published_at": "2026-07-01T11:59:07+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Female Genital Mutilation - Quarterly Report: January to March 2026",
-      "summary_de": "The Female Genital Mutilation Enhanced Dataset (FGMED) is a repository for data collected by healthcare providers in England where FGM was identified or a procedure for FGM was undertaken.Data collected includes: FGM type, country of patient's birth and where FGM was undertaken, age at latest attendance, and if the patient was advised of the health implications and illegalities of FGM.This …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/female-genital-mutilation/january-to-march-2026",
-      "published_at": "2026-06-29T10:53:45+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
