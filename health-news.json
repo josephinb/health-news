@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-13T12:53:02.263333+00:00",
+  "generated_at": "2026-08-13T15:51:44.186389+00:00",
   "window_days": 42,
-  "count": 241,
+  "count": 222,
   "items": [
+    {
+      "title": "Nach der Sonnenfinsternis: Dutzende beklagen Augenschmerzen",
+      "summary_de": "Schwindel, Brennen und Flecken: Nach der Sonnenfinsternis verzeichnen Krankenh&auml;user und Augenkliniken einen Anstieg der Hilfesuchenden. Bei vielen d&uuml;rften die Beschwerden nur vor&uuml;bergehend sein.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/dutzende-beklagen-augenschmerzen-167564/",
+      "published_at": "2026-08-13T15:00:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "RKI-Update: Bisher 12.500 hitzebedingte Todesfälle",
+      "summary_de": "In diesem Jahr sind bereits jetzt deutlich mehr Menschen durch Hitze gestorben als bisher in ganzen Jahren. Besonders ins Gewicht f&auml;llt die starke Hitzewelle Ende Juni.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/bisher-12500-hitzebedingte-todesfaelle-167563/",
+      "published_at": "2026-08-13T14:40:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "HAV-Jahreshauptversammlung: »Viel bewegt, jedoch noch nicht genug«",
+      "summary_de": "Das Apotheken-Reformjahr ist noch im Gange. Wo noch nachgebessert werden muss und welche Chancen sich f&uuml;r Apotheken bieten, skizzierte Holger Seyfarth, Vorsitzender des Hessischen Apothekerverbands (HAV), bei der HAV-Jahreshauptversammlung in Frankfurt am Main.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/viel-bewegt-jedoch-noch-nicht-genug-167560/",
+      "published_at": "2026-08-13T14:15:42+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "PZ Briefing: Die Top-News vom 13.8.2026",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-1382026-167558/",
+      "published_at": "2026-08-13T14:01:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "COVID-19 test approval: how to apply",
+      "summary_de": "How manufacturers or distributors of Coronavirus (COVID-19) test devices can apply for approval of their tests to be placed on the UK market.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/covid-19-test-approval-how-to-apply",
+      "published_at": "2026-08-13T13:47:37+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Guidance: Magnetic resonance imaging equipment in clinical use: safety guidelines",
+      "summary_de": "Relevant safety information for users of magnetic resonance imaging (MRI) equipment in clinical use.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/safety-guidelines-for-magnetic-resonance-imaging-equipment-in-clinical-use",
+      "published_at": "2026-08-13T13:46:52+00:00",
+      "category": "Radiologie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Pseudoephedrin-Vergiftungen: Vor allem Unter-Sechsjährige sind betroffen",
+      "summary_de": "Pseudoephedrin kommt in Kombinationspr&auml;paraten gegen Erk&auml;ltung und Allergien vor, die nicht f&uuml;r Kinder zugelassen sind. Trotzdem betreffen die h&auml;ufigsten Anfragen bei Giftinformationszentren Kinder unter sechs Jahren, zeigt eine neue Auswertung. &Auml;rzte und Apotheker sollten mehr aufkl&auml;ren.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/vor-allem-unter-sechsjaehrige-sind-betroffen-167555/",
+      "published_at": "2026-08-13T13:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "You've got the grades, but don't pass on your health",
       "summary_de": "Medicines and medical devices regulator issues health advice for teens off to university.",
@@ -14,35 +86,13 @@
       "type": "News"
     },
     {
-      "title": "Berlin: Kältebus-Anschlag in Berlin: Täter muss in psychiatrisches Krankenhaus - tagesschau.de",
-      "summary_de": "Berlin: Kältebus-Anschlag in Berlin: Täter muss in psychiatrisches Krankenhaus &nbsp;&nbsp; tagesschau.de",
-      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ01VS2JKakRzdzQ1MjRVR2w2RE9ua3JCY0otSk12TEVBVHhvNS04ZVV4LWpSMDhEYnJTbWVrcVRKdDAwbENvT2JFMnZnUVZZTUdfaUFweTZtbm9qZkltSElBY2ZNRlZVN3JnNHNzQkxQTTN5TXd4OGtkQ3hVYWJQUkJxZjlYVFBEdlBHeGZ4c2FLaFhmTDFKc0JHcVI1a2FSU3ZNdmluV3NkMU03R0tQNHJnTDEtb0FuUVZQM2tsc2N0Q3NXbnlOMXJSSmEtUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-13T12:22:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Corporate report: MHRA quarterly Results and Forecast: 2026 to 2027",
       "summary_de": "Quarterly reports to provide performance information and projections across 2026/2027.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
       "source_url": "https://www.gov.uk/government/publications/mhra-quarterly-results-and-forecast-2026-to-2027",
-      "published_at": "2026-08-13T12:01:39+00:00",
+      "published_at": "2026-08-13T12:01:00+00:00",
       "category": "Europa",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Meldung: Rechtsgrundlage für die Vereinbarung von Bundespraxisbesonderheiten entfallen",
-      "summary_de": "Mit Inkrafttreten des GKV-Beitragssatzstablisierungsgesetz (BStabG) am 30.07.2026 ist die Rechtsgrundlage für die Vereinbarung von Bundespraxisbesonderheiten als Inhalt von Erstattungsbetragsvereinbarungen nach § 130b SGB V entfallen. Aufgrund der Streichung von § 130b Abs. 2 SGB V a. F. hat der GKV-Spitzenverband keine Befugnis mehr zur Vereinbarung von Praxisbesonderheiten für die Zukunft.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2298112.jsp",
-      "published_at": "2026-08-13T11:34:46+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
       "type": "News"
     },
     {
@@ -82,16 +132,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/die-neue-ausgabe-der-pz-jetzt-als-e-paper-lesen-167548/",
       "published_at": "2026-08-13T09:25:09+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Dr. med. Christian Thiel ist neuer Chefarzt der Radiologie und Neuroradiologie an der Asklepios Klinik Wandsbek - lifePR",
-      "summary_de": "Dr. med. Christian Thiel ist neuer Chefarzt der Radiologie und Neuroradiologie an der Asklepios Klinik Wandsbek &nbsp;&nbsp; lifePR",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOWlpJQjh0eWlJN2FiRjdROTdvaGNJb2lYb0xLMWo3UGVmR1dvZ1NSZFp1RkIxVXNpSUxzZUREYlFYNWNfdUhSQlc2WEVXV3JKbW5jRm8tRi0zMDMwTWFSeEwzZ2xfY3p1TG01VWRqR3g4djQzSjBNSmpBTnpWbU1SVFB3NkYyM0lqZ2VGc0VkMHJnZi0xNEQxX2RSWHVMVktTdnZIa0R5UGU1YjB3emJiSnZ1N01qWVE2TGN0ekdzYUlGQTdibDN6cmtiRE53VXpZazM0UVJkY2pOam9EUlpvMnM3VVQxNGxIeWpMR1BQTDdZd0pPWFNvajhOZVpUbk1vaFhwTTM1Y1l3Yzc3dFpIcmpyVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-13T09:12:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -196,18 +236,18 @@
       "type": "News"
     },
     {
-      "title": "Deutschland: Wie die Hitze im Krankenhaus zur Gefahr für Patienten wird - SZ.de",
-      "summary_de": "Deutschland: Wie die Hitze im Krankenhaus zur Gefahr für Patienten wird &nbsp;&nbsp; SZ.de",
+      "title": "Gesundheit: Wie die Hitze im Krankenhaus zur Gefahr wird - SZ.de",
+      "summary_de": "Gesundheit: Wie die Hitze im Krankenhaus zur Gefahr wird &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObWNrTWRPZGhHWWJzMTcwQmhMaV9KZGR0SlVYc3BJWXRxT0JLN2pkVm40cmNRYmZEUlo2RUtDMFdZWFN5dVA5QzBCQkNJY2Z4ZENGME9OcnRHSEl1bXNvSXgyV0dPQnJYb28xSXdGcHpEcGQ5R1hrWWFPXzJBRTM4UTN1eGg3dDQ5NVNGemlxSENvUkVPLURuYi1mRTl0ZjNqV2xHNmZCVmR4LW9pcWs2WnNKSHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNM3FvWUxSdzFKVHVnYnE4YkFLY0dubkpBNEdodzdKdjRtN19mSm12bnFtMjREUUs3T1d6Q0pUV0dwVmRDMVh3R0RQM1NpLU85RkQtLXg5MGdhVWdsZm1ORnlpZ3NDcWZTTnpFcWhseG44TEg2Q1lJRVlYUnBGS3dDOXdYajRXYkp3RWNlTHdZY0dRZWQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-13T07:41:15+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Gesundheit: West-Nil-Virus: Zahl der Fälle in Griechenland steigt stark - DIE ZEIT",
-      "summary_de": "Gesundheit: West-Nil-Virus: Zahl der Fälle in Griechenland steigt stark &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit: West-Nil-Virus: Zahl der Fälle in Griechenland steigt stark - zeit.de",
+      "summary_de": "Gesundheit: West-Nil-Virus: Zahl der Fälle in Griechenland steigt stark &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObFBRbU56NXJkcXd3VkU3X1lPUVNXZXBfdzBMR2kxbDlzRTdMNUMwc3ZBWDE2blFzMnh3SkZqWGJEbUZhT0E5dW5XVHVpNTVQZjVvLVUzWVUwQ1d5bWZLaHR1TG9VOG5sRXpxOW5qT3dMMjJuRmJFUlU3RFFKdm1mVHBsanljdVpJY0xCRUYycmI2R1hwb0w3S0dyTQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-13T07:22:21+00:00",
@@ -236,8 +276,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit und Wetter: RKI: Bislang etwa 1.700 Hitzetote in Hessen - DIE ZEIT",
-      "summary_de": "Gesundheit und Wetter: RKI: Bislang etwa 1.700 Hitzetote in Hessen &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit und Wetter: RKI: Bislang etwa 1.700 Hitzetote in Hessen - zeit.de",
+      "summary_de": "Gesundheit und Wetter: RKI: Bislang etwa 1.700 Hitzetote in Hessen &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbFI1aHFNRnVNdTBlMDl6eVlBdEllM011NVB0LVNRRHJkTEVzcnhlRHZoSENCNnVhT1dJVDdra2xkbmF1LWx0RUVObGs2UVhOR0YwbTlaUFdELXpXc3hLcl94b2plYVlOY0JzV3M2Ym1oWGxkbVdsSWRlUHVUTFpRbFItaUc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-13T07:01:05+00:00",
@@ -256,8 +296,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit und Wetter: RKI: Dieses Jahr deutlich mehr Hitzetote im Saarland - DIE ZEIT",
-      "summary_de": "Gesundheit und Wetter: RKI: Dieses Jahr deutlich mehr Hitzetote im Saarland &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit und Wetter: RKI: Dieses Jahr deutlich mehr Hitzetote im Saarland - zeit.de",
+      "summary_de": "Gesundheit und Wetter: RKI: Dieses Jahr deutlich mehr Hitzetote im Saarland &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSDZ1SGU2VUhYZ2VwQUlyMW9wMlZLQWF5MFNxbVdyM0RUSlp4U252Xy1FdTdjOWl4cmp3WGhRMVJoRDB4NEFlYVUycEhnZXdDMm1KSHlWMWRxMTBCT1N2bnJhTEpsdW54ZlRjNUhTVHAyb1JMWDJnbng4WlF4Nkd0bnI3WXdoYzd0S2cxaEQ2dGs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-13T07:01:04+00:00",
@@ -348,8 +388,8 @@
       "type": "News"
     },
     {
-      "title": "Umstrittene Gesundheitspolitik: Weniger Impfempfehlungen: WHO kritisiert USA scharf - DIE ZEIT",
-      "summary_de": "Umstrittene Gesundheitspolitik: Weniger Impfempfehlungen: WHO kritisiert USA scharf &nbsp;&nbsp; DIE ZEIT",
+      "title": "Umstrittene Gesundheitspolitik: Weniger Impfempfehlungen: WHO kritisiert USA scharf - zeit.de",
+      "summary_de": "Umstrittene Gesundheitspolitik: Weniger Impfempfehlungen: WHO kritisiert USA scharf &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOVlKTnZmZ3c4VzgxN2VvdTRVODMwS0NFcWJFTUtyTHhfVkFIRi1mTFpxa1lDRFRLZGJrN0l4QVRJd3Z3NFlOTjJocVBCWThMdmtqbEhaZmkyalFtVWdRMjF3dTJqS183dVlGOFNyQjgwaTl5T1pIQWw5U3FsT0pFN3NSaF9ocHZrTzhMamtkZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-12T17:12:40+00:00",
@@ -520,18 +560,8 @@
       "type": "News"
     },
     {
-      "title": "Sport: Wie viel ist denn nun wirklich gesund? - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Sport: Wie viel ist denn nun wirklich gesund? - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcmRYdWxHamJMLTZGeng3Y2ZfUlVaZzJocGQyY0c2T0VKVWVKNlFzbklKa1BwWVQ0SGw2R0gyZ0d3dnhXMTRKd0NMRE1KaFFzeHk4SDE3NUhCRTJUOGc5TnRXc3hLM3lZaVJQZFhWRGg4cWFMZnUxZml3M0drZHB4NWs3aHZ1Nk56WXgydEZzeERIVFJaOGxKTkEtZGV5WlpHMk1B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-12T09:01:12+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Stellenangebot Nuklearmedizin oyora GmbH - MVZ DRZ (1) - aerztestellen.aerzteblatt.de",
-      "summary_de": "Stellenangebot Nuklearmedizin oyora GmbH - MVZ DRZ (1) &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
+      "title": "Stellenangebot Nuklearmedizin oyora GmbH - MVZ DRZ (1) - ärztestellen",
+      "summary_de": "Stellenangebot Nuklearmedizin oyora GmbH - MVZ DRZ (1) &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzVXMzRReW41WTRaS2l2cUR3Slk5bUdDWDVRdDd0NThSNnNSd3NidDE2Q2p2dUlYazdXbHQ5RWRaMDFpRW1oMDFLamJxWGpIQl8xUEd6SC1Vc0p1N3ZGb0FDc3d3SW5iVjNQaEtKQmRadmdQZlpTam9pd3hrYVQzbVZ0R2NIN0pn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-12T08:42:13+00:00",
@@ -640,8 +670,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: 40.000 Demenzkranke in MV – Tendenz steigend - DIE ZEIT",
-      "summary_de": "Gesundheit: 40.000 Demenzkranke in MV – Tendenz steigend &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit: 40.000 Demenzkranke in MV – Tendenz steigend - zeit.de",
+      "summary_de": "Gesundheit: 40.000 Demenzkranke in MV – Tendenz steigend &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSDVvNXBDSTV3QnA0dUNURVZNMFBSLXFXVzVUdnFSenhpc2pwWTBFbUs4MDF1eFhrZDZxRjJ5LWZiV3NoV0V6bjdFcUUxWlR3ZXlsSEZiOEl6WGJVRVBiVjZ5WWR5MlVtYkxiN1UxYnVnMXRxRWo4UUNNUlBoS3hXTUFIUU8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-11T14:36:41+00:00",
@@ -650,28 +680,8 @@
       "type": "News"
     },
     {
-      "title": "Gesetzentwurf gegen Steuerhinterziehung: Einführung einer elektronischen Kassenpflicht",
-      "summary_de": "K&uuml;nftig sollen Unternehmen ab einem Jahresumsatz von 100.000 Euro ausschlie&szlig;lich elektronische Kassensysteme verwenden d&uuml;rfen. Das sieht ein aktueller Gesetzentwurf vor. Apotheken m&uuml;ssen mehrere Neuregelungen beachten.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/einfuehrung-einer-elektronischen-kassenpflicht-167511/",
-      "published_at": "2026-08-11T14:20:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "PZ Briefing: Die Top-News vom 11.8.2026",
-      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-1182026-167512/",
-      "published_at": "2026-08-11T14:01:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit: Schutz bei Hitze: Wie das Land auf heißere Sommer reagiert - DIE ZEIT",
-      "summary_de": "Gesundheit: Schutz bei Hitze: Wie das Land auf heißere Sommer reagiert &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit: Schutz bei Hitze: Wie das Land auf heißere Sommer reagiert - zeit.de",
+      "summary_de": "Gesundheit: Schutz bei Hitze: Wie das Land auf heißere Sommer reagiert &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMFJ5LWg5eTJOQ0tzUUlFQm03VDRVZ3AwcEFLN1R5amVQOG1nc24wN3FkYlJ0OGZia29lYUFjZ3ZMVjVHRng4NUU4WmxVcWVseHRRM2p4MThqMUdGRnpEdUJqNmx2ZFhnQWtuQi1SYmZ6a0ZvTXpLV21zWFpONXlGRDFYbTRCczl2b3VWX1RVQlkzVnVmTHFwNTV3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-11T13:38:24+00:00",
@@ -690,42 +700,12 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Hitze-Aktionsplan - Wie das Land auf heißere Sommer reagiert - DIE ZEIT",
-      "summary_de": "Gesundheit: Hitze-Aktionsplan - Wie das Land auf heißere Sommer reagiert &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit: Hitze-Aktionsplan - Wie das Land auf heißere Sommer reagiert - zeit.de",
+      "summary_de": "Gesundheit: Hitze-Aktionsplan - Wie das Land auf heißere Sommer reagiert &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdVFXb1g3amJCYWRLcm5jcjI4U2hzNEtKQlRQR3JRbU1yWXB3WjBHMGtUZFp5c3gtTXRySzV0bDRtLUh1MU9QbnRPSHlhc3RzaTgzTkNqc1VlUVNSamF4dmdBNDRXb2dGUTNuOGFNUk1ieDY3SDNMemZkQS1Tblp2U1owNTI2MlIySXpuZkMxd2NYQjJuaDJxeHUxVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-11T12:46:19+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Klimakrise: Wie Hitze und Dürre Lieferketten gefährden",
-      "summary_de": "Der Verband der Chemischen Industrie (VCI) hat k&uuml;rzlich vor Produktionsk&uuml;rzungen aufgrund des Niedrigwassers im Rhein und anderen Fl&uuml;ssen gewarnt. Auch Pharmaverb&auml;nde sind alarmiert, sehen aktuell jedoch noch keine Risiken f&uuml;r die Versorgung.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/wie-hitze-und-duerre-lieferketten-gefaehrden-167508/",
-      "published_at": "2026-08-11T12:00:00+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Essstörungen: Doppelt so viele Mädchen im Krankenhaus",
-      "summary_de": "Innerhalb von 20 Jahren hat sich die Zahl der jungen Frauen und M&auml;dchen, die wegen Essst&ouml;rungen im Krankenhaus behandelt werden, mehr als verdoppelt. Was sind die h&auml;ufigsten Diagnosen?",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/doppelt-so-viele-maedchen-im-krankenhaus-167505/",
-      "published_at": "2026-08-11T11:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Steigende Infektionszahlen: Bei Fieber nach Mückenstich an West-Nil-Virus denken",
-      "summary_de": "Diese Saison kommt es in Europa fr&uuml;h und vermehrt zu West-Nil-Infektionen, darunter auch ein Fall in Deutschland. Das Centrum f&uuml;r Reisemedizin r&auml;t zu konsequentem M&uuml;ckenschutz und fordert, die Diagnostik w&auml;hrend der M&uuml;ckensaison zu erweitern.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/bei-fieber-nach-mueckenstich-an-west-nil-virus-denken-167503/",
-      "published_at": "2026-08-11T10:30:00+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -760,8 +740,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Mehr als 2.000 Ebola-Tote im Kongo - DIE ZEIT",
-      "summary_de": "Gesundheit: Mehr als 2.000 Ebola-Tote im Kongo &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit: Mehr als 2.000 Ebola-Tote im Kongo - zeit.de",
+      "summary_de": "Gesundheit: Mehr als 2.000 Ebola-Tote im Kongo &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2Q0lLMXpGWE9idWNsekM4VkUxTktxTzlTZU1IZVIweUJ5dldKa28ycDd0VDl5XzZhQkRHV00xZjJmN3cyOFItNDZ6ZDF3M0pSQUQ2MWxybU9mcG9ybE1UbFU0T3hsczZXY1VTRi1fT1VvNGt3enJMQTlR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-11T09:21:12+00:00",
@@ -840,8 +820,8 @@
       "type": "News"
     },
     {
-      "title": "Klinik MVZ E-Health Lehre Forschung Industrie / Dienstleister Stellenangebote in Sachsen-Anhalt - aerztestellen.aerzteblatt.de",
-      "summary_de": "Klinik MVZ E-Health Lehre Forschung Industrie / Dienstleister Stellenangebote in Sachsen-Anhalt &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
+      "title": "Klinik MVZ E-Health Lehre Forschung Industrie / Dienstleister Stellenangebote in Sachsen-Anhalt - ärztestellen",
+      "summary_de": "Klinik MVZ E-Health Lehre Forschung Industrie / Dienstleister Stellenangebote in Sachsen-Anhalt &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcjN4WEFla1FVdThDT2l1bFREME9lNWVxV0NuUXg1Zl9zRkw4d2l1NWY4MHB5alBUZ1ZIWVJ5bE90MHhQWDdaRklqNHlvbUx4S2xIbzRnZGNjLW93RGh3dDR2WXVHLWdaQjJtRzBQT1NhNUJWVHRKMXFENjNZNjRXZmZrc1RpWEZ0Vi04ZERXdDVObnBwTF9PVlNiVURtcnVtb0hFVm5lRGNWcGRQc2tEWGE3TXBuSC1WMzVSR2ZxVk9XZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-11T08:01:42+00:00",
@@ -860,8 +840,8 @@
       "type": "News"
     },
     {
-      "title": "Umstrittene Gesundheitspolitik: Trump streicht Empfehlungen für Kinderimpfungen zusammen - DIE ZEIT",
-      "summary_de": "Umstrittene Gesundheitspolitik: Trump streicht Empfehlungen für Kinderimpfungen zusammen &nbsp;&nbsp; DIE ZEIT",
+      "title": "Umstrittene Gesundheitspolitik: Trump streicht Empfehlungen für Kinderimpfungen zusammen - zeit.de",
+      "summary_de": "Umstrittene Gesundheitspolitik: Trump streicht Empfehlungen für Kinderimpfungen zusammen &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc2ozUXVfT2RTYzFkQXhaNTI1WkxiaFdLV0t5c2l3RzR4cTlRcE5vRjBUWno5ZmVWWjFPbTQ5b2xwYmNHTE1qbUt6aFB0czJiZV9rY1gxby1QOFRtM2ltRzRHblU4YlpQSVRybUhIQ1hnQlNzX0puVW5SUjFsQVgzLVZSYk95RlVVdUY3cWNPUXNfOEhvZk1JaQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-11T04:50:01+00:00",
@@ -1114,16 +1094,6 @@
     {
       "title": "Biotechnologie: Ihre Arznei könnte Leben retten. Doch bei Patienten kommt sie nicht an - DIE ZEIT",
       "summary_de": "Biotechnologie: Ihre Arznei könnte Leben retten. Doch bei Patienten kommt sie nicht an &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWmRraUZSM3d6V0pZeVB0V2xKdkpqUFQ2X3RmRFJxc2FDU2R0NEJrdFZxVEdMX2tZYkNwV0dRQXhucWY3azBDQUFITEpBMkk3enpGcmdES1p6dXZuek9QM3lyYUZqOWh5Q295YWFjeFdDUXBqaUR1ek5kR2RGSUdMQURwWW5JbFBlbTFNMmhEdEJ4WnBYc2ZoRHlEUjVJQnNZYVBB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-09T14:23:54+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Biotechnologie: Ihre Arznei könnte Leben retten. Doch bei Patienten kommt sie nicht an - DIE ZEIT",
-      "summary_de": "Biotechnologie: Ihre Arznei könnte Leben retten. Doch bei Patienten kommt sie nicht an &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTdJenp5d0pWNFVRWTBNWm9lUmw5c0tfdlV3ekEtRjhBNE80dVJkSjBhUFE2RUxEVXNuUjdOd2JiYVNWd1lBR3NYaUVuc2MyXzRkOWpxQ19sLTBkN0hoZXFLRmt5all3SGZackpYN0RyTklFS2JUZlB6S3c2dVZuRjBmd0luNi1fUUNQVDhkUEY5NktZUHlDWA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-09T13:04:37+00:00",
@@ -1132,8 +1102,18 @@
       "type": "News"
     },
     {
-      "title": "Ärztl. Geschäftsführer / Direktor Innere Medizin LWL-Klinik Warstein Stellenangebote - aerztestellen.aerzteblatt.de",
-      "summary_de": "Ärztl. Geschäftsführer / Direktor Innere Medizin LWL-Klinik Warstein Stellenangebote &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
+      "title": "Biotechnologie: Ihre Arznei könnte Leben retten. Doch bei Patienten kommt sie nicht an - zeit.de",
+      "summary_de": "Biotechnologie: Ihre Arznei könnte Leben retten. Doch bei Patienten kommt sie nicht an &nbsp;&nbsp; zeit.de",
+      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWmRraUZSM3d6V0pZeVB0V2xKdkpqUFQ2X3RmRFJxc2FDU2R0NEJrdFZxVEdMX2tZYkNwV0dRQXhucWY3azBDQUFITEpBMkk3enpGcmdES1p6dXZuek9QM3lyYUZqOWh5Q295YWFjeFdDUXBqaUR1ek5kR2RGSUdMQURwWW5JbFBlbTFNMmhEdEJ4WnBYc2ZoRHlEUjVJQnNZYVBB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-09T13:04:37+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Ärztl. Geschäftsführer / Direktor Innere Medizin LWL-Klinik Warstein Stellenangebote - ärztestellen",
+      "summary_de": "Ärztl. Geschäftsführer / Direktor Innere Medizin LWL-Klinik Warstein Stellenangebote &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWVRoLWRfaWgxWlBSSFZIbC11REpxeUx3dEQ3R00wbUhVS25RVnI0T1BqQnNuMDFicHlQMnNqWWxMTmJqNVF6bmdlcElYRlJwUl9mTHNuekVtallleVJUeDdpTzVlcFoxakJ1RnkwaWZac2Z2VDRqSDFnekQwQTZJRldrT0d5bkdZbVRiaVQwMFJEYzVYUHh4ai1hejBra1NJSUhkb1lwZEJkZ1d1RUlkc1libTAyd1lPaTIyekRkblR3aURTemc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-09T12:09:38+00:00",
@@ -1142,8 +1122,8 @@
       "type": "News"
     },
     {
-      "title": "Ärztl. Geschäftsführer / Direktor Innere Medizin und Endokrinologie und Diabetologie Stellenangebote in Hessen - aerztestellen.aerzteblatt.de",
-      "summary_de": "Ärztl. Geschäftsführer / Direktor Innere Medizin und Endokrinologie und Diabetologie Stellenangebote in Hessen &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
+      "title": "Ärztl. Geschäftsführer / Direktor Innere Medizin und Endokrinologie und Diabetologie Stellenangebote in Hessen - ärztestellen",
+      "summary_de": "Ärztl. Geschäftsführer / Direktor Innere Medizin und Endokrinologie und Diabetologie Stellenangebote in Hessen &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcnp4NU9LUTN3emtsWEJCazMtQVJwa0lqQk1PUWFBMnFBQi0wQ3hsTjBZcWlXSzYtV0tTUW9mQlpiT1Y0cmdLb1BSSnBnLXg2WDdPUXNXWXVvbm5sd1FXOE1DTFVsTm90dDVYazR3Qi1oUVJPYVFmN2gwME9vdnh3ZGNpSDc4YmJDVWVCdnFUSXpFUFh4TXRwR1pVbmUtRjkybk1CNGNCLTF2aGpicW8zc1lGclJXSUhWZTZLeFV5MmFQbl9UaUNEeEFzMHVEY3dXaVJwdDdR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-09T11:50:27+00:00",
@@ -1152,8 +1132,8 @@
       "type": "News"
     },
     {
-      "title": "Innere Medizin Gemeinschaftspraxisfür Radiologie und Nuklearmedizin Stellenangebote in Sachsen-Anhalt - aerztestellen.aerzteblatt.de",
-      "summary_de": "Innere Medizin Gemeinschaftspraxisfür Radiologie und Nuklearmedizin Stellenangebote in Sachsen-Anhalt &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
+      "title": "Innere Medizin Gemeinschaftspraxisfür Radiologie und Nuklearmedizin Stellenangebote in Sachsen-Anhalt - ärztestellen",
+      "summary_de": "Innere Medizin Gemeinschaftspraxisfür Radiologie und Nuklearmedizin Stellenangebote in Sachsen-Anhalt &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbjZEbU1uN2FueklEc01BaVhNbWRKVWdud0N6VjJlOGNsdHdoczZmVmczWnVaUHE1aDVXd0RSTTNTdjZJMWpRazJ5YVhScWNOa3oyRFhhbjFkREF6NlQ0cGNNRWMtVVNOUVJlLVdzVHNLLTZNTW9QYUdFWkV1NXdNOUJMTzFYamxhTV9aQ3lMVWpIaUhuOHVMU29BVlhSbE95cGZnY3Z6cTlDaFlpTzhDcEpRX3VOV29QbDdSbEttQnkzNWExZENWRVl1eDRVWGlTSi1wTE5XTmkzQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-09T08:44:49+00:00",
@@ -1182,8 +1162,8 @@
       "type": "News"
     },
     {
-      "title": "Innere Medizin Bundesamt für das Personalmanagement der Bundeswehr Stellenangebote in Hessen (0) - aerztestellen.aerzteblatt.de",
-      "summary_de": "Innere Medizin Bundesamt für das Personalmanagement der Bundeswehr Stellenangebote in Hessen (0) &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
+      "title": "Innere Medizin Bundesamt für das Personalmanagement der Bundeswehr Stellenangebote in Hessen (0) - ärztestellen",
+      "summary_de": "Innere Medizin Bundesamt für das Personalmanagement der Bundeswehr Stellenangebote in Hessen (0) &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY3EyRTRvZ0d1cERvNjNsdEd5XzJBTXZIQ0N3NXpTS1V4SmR5bk1JWjkwZWltSnNBaTVkTzF2Y25mSGltYXdORG1aaEYtTzVxTWxPWEdVcGY3MHZhc3prME1TcE1Ta21NekxLclZCY1lxc05WcENQT09yR3NXX0JtYS02V3ZtMkhZLU1DRWVTQ3ExSS0tXzBHVmJDOS1CQ01BUnpMMFVUQ19DM2hwSnpKVGVSRVhIVXdJbTM1Vm1EYU85WXhCVTR4alg0WnZnYVp3TmUyMUd4dnE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-09T03:02:42+00:00",
@@ -1192,8 +1172,8 @@
       "type": "News"
     },
     {
-      "title": "Ärztl. Geschäftsführer / Direktor Radiologie Universitätsklinikum Ruppin-Brandenburg (ukrb) Klinik Stellenangebote - aerztestellen.aerzteblatt.de",
-      "summary_de": "Ärztl. Geschäftsführer / Direktor Radiologie Universitätsklinikum Ruppin-Brandenburg (ukrb) Klinik Stellenangebote &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
+      "title": "Ärztl. Geschäftsführer / Direktor Radiologie Universitätsklinikum Ruppin-Brandenburg (ukrb) Klinik Stellenangebote - ärztestellen",
+      "summary_de": "Ärztl. Geschäftsführer / Direktor Radiologie Universitätsklinikum Ruppin-Brandenburg (ukrb) Klinik Stellenangebote &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWWZ5NWFjVDBZYUliTE04VEZMU01fRno5cWVMZWdORmRQenFzMlNiNnJ0a0RMbVJNbEd1OWhSVEhXbElLMHhIakJSZUx4aHp6d1JsSEJadGw4WmhkdWxKdjNyaDVtN042SHpJSnVMYlU5UVEyQkxTOHd5UWRRN0lOSEpFRGRFQU1oSGVGZTZoT3pwdEUyLTBTX0gyUk9CVFNxeUdSMWdqc0tHM21uMW5fNk9Bd19EQkRpa1NRWDdYY1k3bG5idUxjZnFFVGRpVHJXb0t6NzZzby0tRkRNaXhzaXRTUkJEZ20wWEpfUA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-09T02:52:59+00:00",
@@ -1202,8 +1182,8 @@
       "type": "News"
     },
     {
-      "title": "Radiologie Caritas-Krankenhaus St. Josef Regensburg Stellenangebote in Schleswig-Holstein - aerztestellen.aerzteblatt.de",
-      "summary_de": "Radiologie Caritas-Krankenhaus St. Josef Regensburg Stellenangebote in Schleswig-Holstein &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
+      "title": "Radiologie Caritas-Krankenhaus St. Josef Regensburg Stellenangebote in Schleswig-Holstein - ärztestellen",
+      "summary_de": "Radiologie Caritas-Krankenhaus St. Josef Regensburg Stellenangebote in Schleswig-Holstein &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYkZTX3Q1dHNlV251U2FrRFFwTjNCSmU5R0FvNTBSeVdPWlJhVjVfTEt1VzU2bzNhY3g3elVodmpUallGN2lZNUdhZ2QtMUdTdEpJSDRIWnFUa05vZUhiQXVhRi15aGZheHVLREQybm93eUx1SkNnbmJSN01ONjZlYWlxR1pGaFI3VEU4ZGE3Xy1ObFMtajc5Wl92NW5ROEJmRDBsLUxxR1NaRE1FTVc5ZTQwSDhBbDhtZXY0djEtS2Vfd19qazRN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-09T01:21:24+00:00",
@@ -1212,8 +1192,8 @@
       "type": "News"
     },
     {
-      "title": "Assistenzarzt / Arzt in Weiterbildung Pathologie Klinikum Oldenburg AöR Stellenangebote in Niedersachsen - aerztestellen.aerzteblatt.de",
-      "summary_de": "Assistenzarzt / Arzt in Weiterbildung Pathologie Klinikum Oldenburg AöR Stellenangebote in Niedersachsen &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
+      "title": "Assistenzarzt / Arzt in Weiterbildung Pathologie Klinikum Oldenburg AöR Stellenangebote in Niedersachsen - ärztestellen",
+      "summary_de": "Assistenzarzt / Arzt in Weiterbildung Pathologie Klinikum Oldenburg AöR Stellenangebote in Niedersachsen &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMzF3ZFpTUDdzaUhEN0wzbVpKQjJLaTB2OFhEaDVtSW9KZWlVNEpVRUlWMmtUTTBlTFNVdFpNcnI4TnJ6djBkWTQ1YzB0T1h5czM4a2FKWDNJeHRZelpUbHYyQWZHVUR3S1dKeXRfUC1rU2w0Y1BQcHAzOUlaSFFhSTlKQUdGTXgtX3RheHVEeWNQNTNvRmplUnhiUGZsOXltdnZGUkF1c0ZDVHBMRzFlTmJ0cS1reEhfV05qNGFpbDR2NGlBUzFBZA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-08T19:37:38+00:00",
@@ -1232,42 +1212,12 @@
       "type": "News"
     },
     {
-      "title": "Ärztin / Arzt in Weiterbildung – Radiologie (m/w/d) - aerztestellen.aerzteblatt.de",
-      "summary_de": "Ärztin / Arzt in Weiterbildung – Radiologie (m/w/d) &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS0VVMzQ5YWM0NklUUjFzVXVrb3RFQlZYbHNveTM0ZjBmMzdGaWg4bG1kUTVGRDNxZEs0VFYzZl9kYWtSX3RHalhEYmptRWc5V3RhYkdsVjBuNHFsVklWRDQzQzhRMWRPTERwejVDckRGR0xtX1pTZWlEVzAyRm8wdERmZGE3SDV1b3Z3Y2w2azZGYXdyc2NuYV9fMExSMG1YbnE3eA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-08T07:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Wie ein Haus­arzt in Kai­sers­lau­tern sich von KI hel­fen lässt - Die Rheinpfalz",
       "summary_de": "Wie ein Haus­arzt in Kai­sers­lau­tern sich von KI hel­fen lässt &nbsp;&nbsp; Die Rheinpfalz",
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUWpVdVJKZ3FqcE1WOGdNdGRabFNKVjdmQWRTOTNIS2xieGNKRGhwX0xLY3N5ejZNTmxPcXhxM0U4ejFrbnJBS1E4Zlc3TnRkcjJ0Y1pVaFJXZ2VGWnJaVGxnWHlWbXNHU21yYVZrLUdZVl9VVkVZYjcwUXV5bEI2SUNxQUpjRXFJNlFDbTgzakZ6SzdJcVJwam5CcDRGaUE1VjFpblBaUFUzdDc4ZFd2cWdldWlwTy1CempoSjZ0UkFzZjZSMHBvOVVtZEZEbWRLdUJVOHk3VQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-08T05:00:00+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Good laboratory practice (GLP) for safety tests on chemicals",
-      "summary_de": "Keep up to date with the latest information from the UK GLP monitoring authority.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/guidance/good-laboratory-practice-glp-for-safety-tests-on-chemicals",
-      "published_at": "2026-08-07T16:16:26+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Taking medication this summer? What you need to know about sun and heat exposure",
-      "summary_de": "Some medicines can make you more sensitive to the sun or increase the risk of dehydration without you realising it. The MHRA is encouraging people to know the risks and stay protected this summer.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/taking-medication-this-summer-what-you-need-to-know-about-sun-and-heat-exposure",
-      "published_at": "2026-08-07T16:12:39+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -1324,8 +1274,8 @@
       "type": "News"
     },
     {
-      "title": "Hitze und Gesundheit: Das Thermometer im Rettungswagen zeigt 39,2 Grad - DIE ZEIT",
-      "summary_de": "Hitze und Gesundheit: Das Thermometer im Rettungswagen zeigt 39,2 Grad &nbsp;&nbsp; DIE ZEIT",
+      "title": "Hitze und Gesundheit: Das Thermometer im Rettungswagen zeigt 39,2 Grad - zeit.de",
+      "summary_de": "Hitze und Gesundheit: Das Thermometer im Rettungswagen zeigt 39,2 Grad &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVGZNVl9ieEE2ZV9sMFhOdHNmOFdubjRVZ25JZzFXVnVRQ3FiV1FPV3JaWnpqZVhSNEVzTGxQZF94WVdUSTFQXzk0Y3NndnpFSDlGLUJ3RVNQc3VNeUU5emlYV2FIalpkY1E4QkoxTmdBUWM4Ti11emdHWWw4dHlUbV9uM091WHgtZ0Z0dlR3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-06T06:07:37+00:00",
@@ -1599,18 +1549,6 @@
       "type": "Studie"
     },
     {
-      "title": "Pressemitteilung: Glückwunsch an den neuen Bundesgesundheitsminister: Es bleibt viel zu tun!",
-      "summary_de": "Zur heutigen Ernennung von Dr. Carsten Linnemann als Bundesgesundheitsminister erklärt der Vorstandsvorsitzende des GKV-Spitzenverbandes Oliver Blatt: „Wir gratulieren Herrn Dr. Linnemann zu seiner neuen verantwortungsvollen Aufgabe und freuen uns auf eine gute Zusammenarbeit. Für die bevorstehenden Herausforderungen wünschen wir Herrn Dr. Linnemann viel Erfolg und stets eine glückliche Hand.\"",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2294656.jsp",
-      "published_at": "2026-07-29T08:55:29+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Provisional Accident and Emergency Quality Indicators for England, May 2026, by provider",
       "summary_de": "Provisional Accident and Emergency Quality Indicators for England, May 2026, by providerThis publication contains statistics for total time in A&amp;E, time to assessment, time to treatment, attendances where patients left before treatment, and unplanned reattendances within 7 days. It also compares data coverage in ECDS to the emergency monthly situation report (MSitAE) published separately by NHS England. Each report contains …",
       "source_name": "Publication Feed",
@@ -1691,6 +1629,16 @@
       "type": "News"
     },
     {
+      "title": "Ärztin / Arzt in Weiterbildung – Radiologie (m/w/d) - ärztestellen",
+      "summary_de": "Ärztin / Arzt in Weiterbildung – Radiologie (m/w/d) &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVUJJcGNTbTZ2WHNyMXVjdUVZRFRJMVZGZ2h1SFV3c3kzWXhPUmItV3lRZzNDTnFKNGk4dVctazMwd0UyZ0c3elVDVVF1eUZzd1hLUWxhSk93dnY4Z2Ric2xleVV0dkhaOEgxWVVFVWdNTmFoQmhjX3BHNXdVUjF3ZVE3aS1GRlVxT3p0Y1gyTERCQ1Y3X2thWG9hWWxhdlZkYTdEMg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-28T07:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Albumin for people with liver cirrhosis and bacterial infections",
       "summary_de": "Albumin for people with liver cirrhosis and bacterial infections",
       "source_name": "Cochrane Library RSS feed.",
@@ -1699,18 +1647,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Pressemitteilung: Gut 80 Prozent der GKV-Versicherten greifen zu Hilfsmitteln ohne Mehrkosten",
-      "summary_de": "Wer einen Rollator, ein Hörgerät oder Schuheinlagen benötigt, muss nicht mehr als den Eigenanteil zahlen. Die gesetzlichen Krankenkassen finanzieren für ihre Versicherten das medizinisch notwendige und zugleich wirtschaftlichste Hilfsmittel. Dieser Anspruch gilt jedoch nicht für Extras: Wenn allein aus Gründen der Ästhetik oder des Komforts zusätzliche Kosten entstehen, müssen Versicherte hierfür selbst aufkommen.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2293952.jsp",
-      "published_at": "2026-07-27T11:39:31+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
     },
     {
       "title": "Switching from sulphasalazine or oral 5‐aminosalicylic acid to another oral 5‐aminosalicylic acid drug in the maintenance of remission in ulcerative colitis",
@@ -1730,18 +1666,6 @@
       "published_at": "2026-07-24T10:00:00+00:00",
       "category": "Europa",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Pressemitteilung: Es bleibt viel zu tun für den designierten Bundesgesundheitsminister",
-      "summary_de": "Anlässlich des angekündigten Wechsels im Bundesgesundheitsministerium mit Carsten Linnemann als neuem Bundesgesundheitsminister meldet sich der Vorstandsvorsitzende des GKV-Spitzenverbandes Oliver Blatt zu Wort.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2293312.jsp",
-      "published_at": "2026-07-24T09:08:31+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
       "type": "News"
     },
     {
@@ -1835,18 +1759,6 @@
       "type": "News"
     },
     {
-      "title": "Pressemitteilung: Gemischtes Zwischenfazit nach zwei Jahren Blankoverordnung in der Ergotherapie",
-      "summary_de": "Zum 1. April 2024 wurde die Heilmittelversorgung mit erweiterter Versorgungsverantwortung nach § 125a SGB V (kurz Blankoverordnung) in der Ergotherapie eingeführt. Nach zwei Jahren Praxiserfahrung mit der Blankoverordnung liegt nun der erste Zwischenbericht zu dieser neuen Versorgungsform vor. Das Zwischenfazit fällt gemischt aus.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2293056.jsp",
-      "published_at": "2026-07-23T06:26:51+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Nucleic acid‐based therapies for people with cystic fibrosis",
       "summary_de": "Nucleic acid‐based therapies for people with cystic fibrosis",
       "source_name": "Cochrane Library RSS feed.",
@@ -1927,18 +1839,6 @@
       "type": "News"
     },
     {
-      "title": "Pressemitteilung: Zufriedenheit mit Pflegeberatung gestiegen",
-      "summary_de": "Rund 87 Prozent der Versicherten sind mit der Pflegeberatung ihrer Pflegekasse zufrieden. Das geht aus dem Bericht zur Evaluation der Pflegeberatung des IGES-Instituts im Auftrag des GKV-Spitzenverbandes hervor. Im Vergleich zur letzten Erhebung aus dem Jahr 2023 ist das ein Anstieg der Zufriedenheit um fast 5 Prozent. Die Pflegekassen bieten demnach ein verlässliches und qualitativ hochwertiges Beratungsangebot an, das von …",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2292352.jsp",
-      "published_at": "2026-07-21T07:44:45+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "BGF-Koordinierungsstelle: Das neue Informations- und Kollaborationsportal für betriebliche Gesundheitsförderung ist live",
       "summary_de": "Das neue Informations- und Kollaborationsportal für Betriebliche Gesundheitsförderung, an dem verschiedene Sozialversicherungsträger beteiligt sind, ist online gegangen. Arbeitgebende können sich auf der Website über Betriebliche Gesundheitsförderung informieren, sich zu Veranstaltungen anmelden und eine Erstberatung erhalten.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -1946,18 +1846,6 @@
       "published_at": "2026-07-21T06:11:04+00:00",
       "category": "Gesundheitspolitik",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Meldung: Stabilisierung, aber kein Spielraum für Abschwächungen",
-      "summary_de": "Das Sparpaket der Bundesregierung für die Gesundheitsausgaben ist beschlossen - doch wie sicher ist jetzt auch der Schutz vor höheren Beiträgen? Der GKV-Spitzenverband sieht eine Stabilisierung erreicht, aber keinen Spielraum mehr für Abschwächungen. „Wir haben jetzt eine solide Grundlage dafür, dass die Krankenkassenbeiträge in den kommenden zwei Jahren insgesamt stabil bleiben können“, erläuterte Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes gegenüber der …",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2292096.jsp",
-      "published_at": "2026-07-20T08:54:47+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
       "type": "News"
     },
     {
@@ -2041,18 +1929,6 @@
       "type": "News"
     },
     {
-      "title": "gemeinsame Pressemitteilung: Bundesländer finanzieren Investitionen der Krankenhäuser nicht ausreichend",
-      "summary_de": "Den Krankenhäusern in Deutschland fehlen in diesem Jahr rund vier Milliarden Euro für Investitionen, um ihren Bestand erhalten zu können. Für diese Kosten müssen eigentlich in voller Höhe die Bundesländer aufkommen, so sieht es das duale System der Krankenhausfinanzierung vor: Während die gesetzliche (GKV) und die private Krankenversicherung (PKV) die Kosten für den laufenden Betrieb der Krankenhäuser übernehmen, sind die …",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2291299.jsp",
-      "published_at": "2026-07-16T06:21:33+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "EMA and EISMEA boost cooperation to accelerate health innovations",
       "summary_de": "EMA and the European Innovation Council and SMEs Executive Agency (EISMEA) have strengthened their cooperation in support of health innovation in the European Union (EU). Today…, Enabling innovation is central to our public health mission to bring new treatments to patients. Our collaboration with EISMEA helps us better support innovators to…, The earlier health innovators can engage with regulatory expertise, …",
       "source_name": "News and press releases",
@@ -2093,19 +1969,6 @@
       "type": "News"
     },
     {
-      "title": "Pressemitteilung: Digitalisierung muss Versorgung verbessern",
-      "summary_de": "Der GKV-Spitzenverband begrüßt die Verabschiedung des Gesetzes für Daten und digitale Innovationen im Gesundheitswesen (GeDIG) im Bundeskabinett. Mit dem GeDIG wird ein wichtiger Perspektivwechsel vollzogen: Digitale Infrastruktur, Datennutzung und konkrete Versorgungsprozesse sollen künftig enger miteinander verzahnt werden. Der Gesetzentwurf setzt damit wichtige Impulse, um die Digitalisierung stärker auf den konkreten Nutzen für Versicherte und deren Versorgung auszurichten.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2291107.jsp",
-      "published_at": "2026-07-15T07:18:01+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Versorgung",
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "W2-Professur „Optoelektronik und Diagnostik“ - Hochschule Aalen - Technik, Wirtschaft und Gesundheit - ZEIT Stellenmarkt",
       "summary_de": "W2-Professur „Optoelektronik und Diagnostik“ - Hochschule Aalen - Technik, Wirtschaft und Gesundheit &nbsp;&nbsp; ZEIT Stellenmarkt",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
@@ -2126,35 +1989,11 @@
       "type": "News"
     },
     {
-      "title": "Pressemitteilung: Datengestützte Prävention wirkt",
-      "summary_de": "Die gesetzlichen Kranken- und Pflegekassen erreichen mit datengestützten Präventionsmaßnahmen immer mehr Versicherte – mit messbarem Erfolg: Bislang wurden rund 1,5 Millionen Menschen gezielt auf individuelle Gesundheitsrisiken wie fehlende Impfungen oder Vorsorgeuntersuchungen hingewiesen. Etwa 110.000 von ihnen nahmen daraufhin konkrete Versorgungsangebote in Anspruch.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2290915.jsp",
-      "published_at": "2026-07-14T06:51:18+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "Pflegebedürftige zahlen im ersten Jahr durchschnittlich 3.364 Euro im Monat aus eigener Tasche – große Unterschiede zwischen Bundesländern",
       "summary_de": "Die selbst zu tragenden Kosten für Pflegebedürftige in Pflegeheimen steigen weiter. Das ergibt eine Auswertung des Verbandes der Ersatzkassen e. V. (vdek) vom 1. Juli 2026. So müssen Bewohnerinnen und Bewohner im ersten Aufenthaltsjahr bundesweit durchschnittlich 3.364 Euro monatlich aus eigener Tasche bezahlen - 256 Euro mehr als im Vorjahr.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2026/stationaere-pflege-eigenanteile-juli-2026.html?pk_campaign=rss",
       "published_at": "2026-07-14T06:30:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
-      "title": "Pressemitteilung: Geschäftsbericht 2025: GKV-Spitzenverband macht sich weiter für Reformen stark",
-      "summary_de": "Das Gesundheitswesen steht unter Druck. Effizienter, digitaler und vernetzter muss es werden, um auch künftig rund 75 Millionen Versicherte gut zu versorgen. Der GKV-Spitzenverband wird nicht müde, für das Gesundheitssystem neue Konzepte zu entwickeln und tiefgreifende Reformen voranzutreiben. Das veranschaulicht unser Geschäftsbericht für das Jahr 2025, der nun online abrufbar ist.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2290496.jsp",
-      "published_at": "2026-07-13T08:55:25+00:00",
       "category": "Gesundheitspolitik",
       "tags": [
         "Wirtschaft"
@@ -2179,18 +2018,6 @@
       "published_at": "2026-07-10T08:09:08+00:00",
       "category": "Gesundheitspolitik",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Pressemitteilung: Gemeinsam für mehr Gesundheit",
-      "summary_de": "Mit seiner heutigen Entscheidung hat der Bundestag den Weg für insgesamt stabile Beitragssätze in der gesetzlichen Krankenversicherung geebnet. Das ist ein gutes Signal für 75 Millionen gesetzlich Versicherte und deren Arbeitgebende. Jetzt kommt es darauf an, dass die Beschlüsse von allen Akteuren im Gesundheitswesen zügig und konstruktiv umgesetzt werden.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2289856.jsp",
-      "published_at": "2026-07-10T07:17:50+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
       "type": "News"
     },
     {
@@ -2221,18 +2048,6 @@
       "published_at": "2026-07-10T07:00:00+00:00",
       "category": "Radiologie",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Pressemitteilung: Notfallreform soll zentrale Anlaufstellen und passgenaue Hilfe ermöglichen",
-      "summary_de": "In der Notfallversorgung soll künftig die Arbeit von Notaufnahmen der Krankenhäuser, des vertragsärztlichen Notdienstes und der Rettungsdienste besser aufeinander abgestimmt sein. Das ist eines der zentralen Ziele der Reform, die das Bundeskabinett im April dieses Jahres beschlossen hat. Für heute ist die erste Lesung im Bundestag geplant.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2289600.jsp",
-      "published_at": "2026-07-09T15:26:38+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
       "type": "News"
     },
     {
@@ -2306,8 +2121,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik: Geballter Gegenwind bei Reform der Krankenversicherung - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Geballter Gegenwind bei Reform der Krankenversicherung &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheitspolitik: Geballter Gegenwind bei Reform der Krankenversicherung - zeit.de",
+      "summary_de": "Gesundheitspolitik: Geballter Gegenwind bei Reform der Krankenversicherung &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeVFXZjFLcTJWMENQcjZZQ2JCY0xzblNqM1BiQzViallsbHIyOXlWX0FYSDdHd1BOeGppZHNyaHMtMlVfWjFhMXNmWlhZdmtWajNITk02elRRTGt6d2h2LWNXODN5eGl4NFZxakJGem1wd3Azd2xpRzJWM0d6UGhONlQwSG5vZlR2c2o3NWZPSE1iZHZ5cFpadTZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-09T07:00:00+00:00",
@@ -2316,10 +2131,20 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik: Boehringer-Deutschlandchef: Industrie wird de-priorisiert - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Boehringer-Deutschlandchef: Industrie wird de-priorisiert &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheitspolitik: Boehringer-Deutschlandchef: Industrie wird de-priorisiert - zeit.de",
+      "summary_de": "Gesundheitspolitik: Boehringer-Deutschlandchef: Industrie wird de-priorisiert &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLTdROXd0ZHgwVWxJNkh1U2dfaEUtT2FqQmNCbjN3R18zSFVwdE84RngtTWthSGtDM0xzcDhhOW83ZU81ZlpFQmxfNWREcWZEbjUybndJUGJUOXNUaDc5bnpfamNMQU1VZkR6Q3lVWGhaZWIxR24xR3FOZmJLamdaLUY2OEZsckNBYzBJNC1EbUJOUzU5WWln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-09T07:00:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheitspolitik: Geballter Gegenwind bei Reform der Krankenversicherung - DIE ZEIT",
+      "summary_de": "Gesundheitspolitik: Geballter Gegenwind bei Reform der Krankenversicherung &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeVFXZjFLcTJWMENQcjZZQ2JCY0xzblNqM1BiQzViallsbHIyOXlWX0FYSDdHd1BOeGppZHNyaHMtMlVfWjFhMXNmWlhZdmtWajNITk02elRRTGt6d2h2LWNXODN5eGl4NFZxakJGem1wd3Azd2xpRzJWM0d6UGhONlQwSG5vZlR2c2o3NWZPSE1iZHZ5cFpadTZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-09T07:00:00+00:00",
       "category": "Gesundheitspolitik",
       "tags": [],
@@ -2356,34 +2181,12 @@
       "type": "News"
     },
     {
-      "title": "gemeinsame Pressemitteilung: GKV und PKV fördern Krankenhäuser auf dem Land mit gut 79 Millionen Euro",
-      "summary_de": "Im kommenden Jahr erhalten 128 Krankenhäuser zusätzliches Geld, um die wohnortnahe Basisversorgung im ländlichen Raum zu sichern. Insgesamt sind dafür 79,25 Millionen Euro vorgesehen, die aus den Töpfen der gesetzlichen Krankenkassen (GKV) und der privaten Krankenversicherung gezahlt werden. Die Förderung für bedarfsnotwendige Krankenhäuser geht damit bereits ins achte Auszahlungsjahr. Es handelt sich um pauschale Zuschläge, die zur regulären Finanzierung der …",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2289123.jsp",
-      "published_at": "2026-07-08T06:24:44+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "[MI] NHS Productivity Growth Estimates - March 2026",
       "summary_de": "This publication contains the monthly NHS Productivity Growth Estimates for the period April 2025 to March 2026, which in financial terms is described as Month 12 year-to-date (YTD). It estimates the change, compared with the same period in the previous year, for the following: activity (cost‑weighted), resource use (in real terms), and productivity.The tables included in this publication present NHS …",
       "source_name": "Publication Feed",
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhs-productivity-growth-estimates/march-2026",
       "published_at": "2026-07-07T11:17:29+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "TK-Ärzteführer - Techniker Krankenkasse",
-      "summary_de": "TK-Ärzteführer &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYmtvVElOR3MwVVlHZl9pQnpPOVUxRVpSUWM3LTMzY0hIVHlrWjdhS05kMFYzdUpVUzZXRXBrbWVPVVdhZkpxZ2VnSUlXZDRzVkVWQWVORTBUTlFfT3VNVVI5MXhpOElkMjlHSjNQTUU3VU82a2Z3cUJfSUtkQkRQS3diNVVrQlR3UlU1NUY2d1RmQUxOVXJVd19ZYk1DZzVWQnJ1OU14WUI5SGh3U3RqdkxSMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-07T11:01:03+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2408,31 +2211,6 @@
       "type": "News"
     },
     {
-      "title": "Pressemitteilung: Kurs halten, denn stabile Beiträge nur bei konsequenter Reform möglich",
-      "summary_de": "„Die jetzt bekanntgewordenen Änderungen an der Finanzierungsreform weisen in die richtige Richtung, denn der Anstieg der Zuzahlungen wird leicht begrenzt, der Bund leistet etwas mehr für die Finanzierung der gesundheitlichen Versorgung von Grundsicherungsbeziehenden und insgesamt leisten alle Bereiche im Gesundheitswesen einen Sparbeitrag. Aber ob damit die Beiträge stabil bleiben können, ist noch nicht gesichert\", so Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes …",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2288704.jsp",
-      "published_at": "2026-07-06T09:57:40+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Versorgung",
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
-      "title": "Meldung: Dann fliegen uns die Finanzen um die Ohren",
-      "summary_de": "„In den ersten Monaten des Jahres sind die Ausgaben der Krankenkassen doppelt so schnell gestiegen wie die Einnahmen. Wenn nicht schnell und entschlossen gehandelt wird, dann fliegen uns zum Jahreswechsel die Finanzen um die Ohren“, betonte Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, im Gespräch mit der Neuen Osnabrücker (NOZ) Zeitung.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2288640.jsp",
-      "published_at": "2026-07-06T08:09:23+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
       "title": "GKV-Finanzreform: Nina Warken ändert Krankenkassen-Sparpaket - DIE ZEIT",
       "summary_de": "GKV-Finanzreform: Nina Warken ändert Krankenkassen-Sparpaket &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
@@ -2453,8 +2231,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik: Gerlach kritisiert Aus für telefonische Krankschreibung - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Gerlach kritisiert Aus für telefonische Krankschreibung &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheitspolitik: Gerlach kritisiert Aus für telefonische Krankschreibung - zeit.de",
+      "summary_de": "Gesundheitspolitik: Gerlach kritisiert Aus für telefonische Krankschreibung &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUTZZSlNMcjM4UzdmZlYtazN6ZGtuZFpsTUJPaFA1S2x5bzY1ODI2RnZmejVSVzVMNHVHODdZTVd6eXpKZDExbVFlWXhvalY2cHplU1BiVGozaEtUZ3ZJUnBNTDZjd1FCNlByNUFuUjdJeDhFWkZjQWg0X19PVFhPSEQyZXIzMDdnal9IXzBXel9RZHptb0p3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-03T07:00:00+00:00",
