@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-08-13T09:55:36.004560+00:00",
+  "generated_at": "2026-08-13T12:53:02.263333+00:00",
   "window_days": 42,
-  "count": 243,
+  "count": 241,
   "items": [
+    {
+      "title": "You've got the grades, but don't pass on your health",
+      "summary_de": "Medicines and medical devices regulator issues health advice for teens off to university.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/news/youve-got-the-grades-but-dont-pass-on-your-health",
+      "published_at": "2026-08-13T12:37:47+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Berlin: Kältebus-Anschlag in Berlin: Täter muss in psychiatrisches Krankenhaus - tagesschau.de",
+      "summary_de": "Berlin: Kältebus-Anschlag in Berlin: Täter muss in psychiatrisches Krankenhaus &nbsp;&nbsp; tagesschau.de",
+      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ01VS2JKakRzdzQ1MjRVR2w2RE9ua3JCY0otSk12TEVBVHhvNS04ZVV4LWpSMDhEYnJTbWVrcVRKdDAwbENvT2JFMnZnUVZZTUdfaUFweTZtbm9qZkltSElBY2ZNRlZVN3JnNHNzQkxQTTN5TXd4OGtkQ3hVYWJQUkJxZjlYVFBEdlBHeGZ4c2FLaFhmTDFKc0JHcVI1a2FSU3ZNdmluV3NkMU03R0tQNHJnTDEtb0FuUVZQM2tsc2N0Q3NXbnlOMXJSSmEtUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-13T12:22:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Corporate report: MHRA quarterly Results and Forecast: 2026 to 2027",
+      "summary_de": "Quarterly reports to provide performance information and projections across 2026/2027.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/mhra-quarterly-results-and-forecast-2026-to-2027",
+      "published_at": "2026-08-13T12:01:39+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Meldung: Rechtsgrundlage für die Vereinbarung von Bundespraxisbesonderheiten entfallen",
+      "summary_de": "Mit Inkrafttreten des GKV-Beitragssatzstablisierungsgesetz (BStabG) am 30.07.2026 ist die Rechtsgrundlage für die Vereinbarung von Bundespraxisbesonderheiten als Inhalt von Erstattungsbetragsvereinbarungen nach § 130b SGB V entfallen. Aufgrund der Streichung von § 130b Abs. 2 SGB V a. F. hat der GKV-Spitzenverband keine Befugnis mehr zur Vereinbarung von Praxisbesonderheiten für die Zukunft.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2298112.jsp",
+      "published_at": "2026-08-13T11:34:46+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Parkinson: Training könnte neuroprotektiv wirken",
+      "summary_de": "Bei Parkinson kann k&ouml;rperliches Training Gangbild und Gleichgewicht verbessern. Dar&uuml;ber hinaus scheint es durch Aussch&uuml;tten von Botenstoffen aus der Muskulatur Nervenzellen zu sch&uuml;tzen. Die Evidenz hierzu wurde in einem Review in &raquo;Neuroprotection&laquo; ver&ouml;ffentlicht.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/training-koennte-neuroprotektiv-wirken-167554/",
+      "published_at": "2026-08-13T11:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Erstmeldung Arzneimittel: Urapidil AL 60 mg Hartkapseln, retardiert pU: ALIUD PHARMA GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-08-13T09:41:56+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "DOAK bei Alzheimer: Studie deutet auf langsameren kognitiven Abbau hin",
+      "summary_de": "DOAK senken bei Vorhofflimmern das Risiko f&uuml;r Schlaganf&auml;lle. Eine Studie liefert nun Hinweise auf einen m&ouml;glichen weiteren Vorteil: Bei Menschen, die zugleich an Alzheimer erkrankt waren, war die Behandlung mit einem langsameren kognitiven Abbau verbunden.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/studie-deutet-auf-langsameren-kognitiven-abbau-hin-167530/",
+      "published_at": "2026-08-13T09:30:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Titelthema Hormontherapie: Die neue Ausgabe der PZ jetzt als E-Paper lesen",
+      "summary_de": "Die Pharmazeutische Zeitung gibt es auch als vollwertiges E-Paper: unkompliziert, immer p&uuml;nktlich und im Rahmen des Print-Abonnements enthalten. Die neue Ausgabe ist heute erschienen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-neue-ausgabe-der-pz-jetzt-als-e-paper-lesen-167548/",
+      "published_at": "2026-08-13T09:25:09+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Dr. med. Christian Thiel ist neuer Chefarzt der Radiologie und Neuroradiologie an der Asklepios Klinik Wandsbek - lifePR",
       "summary_de": "Dr. med. Christian Thiel ist neuer Chefarzt der Radiologie und Neuroradiologie an der Asklepios Klinik Wandsbek &nbsp;&nbsp; lifePR",
@@ -24,31 +106,11 @@
       "type": "News"
     },
     {
-      "title": "Mordversuch im Supermarkt - Mutter wollte Söhne anzünden - Entlassung aus Klinik - Panorama - SZ.de",
-      "summary_de": "Mordversuch im Supermarkt - Mutter wollte Söhne anzünden - Entlassung aus Klinik - Panorama &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRk40NTRaM3YwbXdKeVdRdUpDODd5WkJqTjZoblBrQ1JGM2g2LW9nOUtPVWg2MktUVXhxR0ZhLVhBYXdnT0ZXUTR0ZERpLXBMM0twaHhTY3pCcDQtNWJhZkVWOTFnZk9XQUk2MkhYRFpyeThFS09Wd19pSlkwNkFiNkNSVkItQUdQMDZPRXVwNnp1cFp1UlhvNHR1VmpPTXJyaHp2X0N5YjRtLWZQUXJSb1Z3ZC16bkJQWHBRS3g2MkNfMHhNUUhBUTdfdmFvSUlEbTl1V3hIQi1VM2ZxZ0MyQXZWck03T3JfX1NxN2tzdmd4VkVMd216bg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-13T08:50:33+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "NHS Talking Therapies Monthly Statistics Including Employment Advisors, Performance June 2026 and Quarter 1 2026/27 data",
       "summary_de": "This statistical release makes available the most recent NHS Talking Therapies for anxiety and depression monthly data, including activity, waiting times, and outcomes such as recovery.NHS Talking Therapies is run by the NHS in England and offers NICE-approved therapies for treating people with depression or anxiety. This release also includes statistics about NHS Talking Therapies employment advisor services.We hope this …",
       "source_name": "Publication Feed",
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-talking-therapies-monthly-statistics-including-employment-advisors/performance-june-2026-and-quarter-1-2026-27-data",
       "published_at": "2026-08-13T08:36:41+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "You've got the grades, but don't pass on your health",
-      "summary_de": "Medicines and medical devices regulator issues health advice for teens off to university.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/youve-got-the-grades-but-dont-pass-on-your-health",
-      "published_at": "2026-08-13T08:34:52+00:00",
       "category": "Europa",
       "tags": [],
       "type": "News"
@@ -174,10 +236,10 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit und Wetter: RKI: Dieses Jahr deutlich mehr Hitzetote in Rheinland-Pfalz - DIE ZEIT",
-      "summary_de": "Gesundheit und Wetter: RKI: Dieses Jahr deutlich mehr Hitzetote in Rheinland-Pfalz &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit und Wetter: RKI: Bislang etwa 1.700 Hitzetote in Hessen - DIE ZEIT",
+      "summary_de": "Gesundheit und Wetter: RKI: Bislang etwa 1.700 Hitzetote in Hessen &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUTZpa09KeUNEVmRncUY3WUh2M2NoUVhUWHZaUzFLYkJhTTVhOE5sc2ZoZUszWVpHZzNBODMwaUFMa01nbmx6OWRHQVdiM2s0YUlDbGNxcDI4TnJRTGFzZUVoVTZEQXIwTjFJWUxFbjZCLXBrazk0YXMyN3JmbEhBR01GZTViRDl0LTd4MHBDQVRtT1hfbVo1U0pB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbFI1aHFNRnVNdTBlMDl6eVlBdEllM011NVB0LVNRRHJkTEVzcnhlRHZoSENCNnVhT1dJVDdra2xkbmF1LWx0RUVObGs2UVhOR0YwbTlaUFdELXpXc3hLcl94b2plYVlOY0JzV3M2Ym1oWGxkbVdsSWRlUHVUTFpRbFItaUc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-13T07:01:05+00:00",
       "category": "News",
       "tags": [],
@@ -256,6 +318,16 @@
       "type": "News"
     },
     {
+      "title": "Physical activity for the management of obesity in adolescents aged 10 to 19 years",
+      "summary_de": "Physical activity for the management of obesity in adolescents aged 10 to 19 years",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015987",
+      "published_at": "2026-08-13T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "Fachbereichsleitung (m/w/d) für den Fachbereich Gesundheit - ZEIT Stellenmarkt",
       "summary_de": "Fachbereichsleitung (m/w/d) für den Fachbereich Gesundheit &nbsp;&nbsp; ZEIT Stellenmarkt",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -301,16 +373,6 @@
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/was-zum-fuchsbandwurm-bekannt-ist-167543/",
       "published_at": "2026-08-12T16:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: Clarithromycin Eberth 500 mg Pulver zur Herstellung einer Infusionsl&#246;sung pU: Dr. Friedrich Eberth Arzneimittel GmbH",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-08-12T14:55:16+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
@@ -468,8 +530,8 @@
       "type": "News"
     },
     {
-      "title": "Stellenangebot Nuklearmedizin oyora GmbH - MVZ DRZ (1) - ärztestellen",
-      "summary_de": "Stellenangebot Nuklearmedizin oyora GmbH - MVZ DRZ (1) &nbsp;&nbsp; ärztestellen",
+      "title": "Stellenangebot Nuklearmedizin oyora GmbH - MVZ DRZ (1) - aerztestellen.aerzteblatt.de",
+      "summary_de": "Stellenangebot Nuklearmedizin oyora GmbH - MVZ DRZ (1) &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzVXMzRReW41WTRaS2l2cUR3Slk5bUdDWDVRdDd0NThSNnNSd3NidDE2Q2p2dUlYazdXbHQ5RWRaMDFpRW1oMDFLamJxWGpIQl8xUEd6SC1Vc0p1N3ZGb0FDc3d3SW5iVjNQaEtKQmRadmdQZlpTam9pd3hrYVQzbVZ0R2NIN0pn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-12T08:42:13+00:00",
@@ -668,36 +730,6 @@
       "type": "News"
     },
     {
-      "title": "Forderung an Minister: Linnemann soll Eigenanteil bei Pflege deckeln",
-      "summary_de": "Mit einem politischen Tauschgesch&auml;ft will Saarlands Ministerpr&auml;sidentin Anke Rehlinger (SPD) die Pflegereform vorantreiben: Wenn Bundesgesundheitsminister Carsten Linnemann (CDU) es erm&ouml;glicht, dass der Eigenanteil f&uuml;r Pflegeheimbewohner bei 1500 Euro gedeckelt wird, steige die Akzeptanz der L&auml;nder bei der Pflegereform.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/linnemann-soll-eigenanteil-bei-pflege-deckeln-167507/",
-      "published_at": "2026-08-11T10:05:08+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Arzneimittelnutzen fraglich: Zulassungswiderruf für Avacopan",
-      "summary_de": "Die Europ&auml;ische Kommission hat die Zulassung f&uuml;r Tavneos&reg; mit dem Wirkstoff Avacopan widerrufen. Apotheken m&uuml;ssen etwaige Best&auml;nde separieren und d&uuml;rfen das Medikament nicht mehr abgeben.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/zulassungswiderruf-fuer-avacopan-167506/",
-      "published_at": "2026-08-11T10:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Erdbeben in Kolumbien: »Action medeor« stellt 10.000 Euro bereit",
-      "summary_de": "Nationaler Notstand, zahlreiche Verletzte und Medienberichten zufolge mehr als 100 Tote &ndash; das Medikamentenhilfswerk &raquo;Action medeor&laquo; eilt nach einem schweren Erdbeben Betroffenen in Kolumbien zu Hilfe.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/action-medeor-stellt-10000-euro-bereit-167504/",
-      "published_at": "2026-08-11T09:31:20+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Transparency data: Medicines and Healthcare products Regulatory Agency spending over £25,000: 2026 to 2027",
       "summary_de": "Information on Medicines and Healthcare products Regulatory Agency spending over £25,000.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -741,8 +773,8 @@
       "title": "Gesundheit - Mehr als 2.000 Ebola-Tote im Kongo - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Gesundheit - Mehr als 2.000 Ebola-Tote im Kongo - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObUZST0RXbzB3RmNaVzJPa0VITlFWRlYwUFZTa2JtR2hPX1pwVHh4cnEtOUM2dGxWOUM3d0FQRWo4aFo3Z1NyNk8wTmUzYlRVdlBDdDJ0ajExV2xIUVhmcHdrU3doOVg2WUJHaUdTZ1JacEJaSU54cUN6UVJzVWNHQ2N0WlNMZTJnLVpJYTVMek0yVk41QjhLUGtjcEE5WW1ZNV9nNXJmUC0ta2pzbmQ5V1hZbzFVUDQzM2oyMXQ0bFg2aWNtTHBPc1FoODRqUkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-11T09:20:16+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbVN2ZElZSjgxUHJxcUttU0I0MjRzWktaZVAydXJyNEJKY0pGS1luSDJjSnN2M0p2XzN3UWZiYTNiM0UtU2p1Ty02VUU0OHF3ZG1qajFwZmRNcEpPNWs4ZTF5NDhUd1VJM2ZRTjBnblpiUVNFcERBVVdFdXA2cGdJRFl6WS1qRlpoSHdmS1MtVjVZVC1pWXBUOGlmc0U1UHZnYkZ6MXkxQ1VCLVhCMU15MS1Uclh5dVZGYWRWTFJJM2hFMlVQSml6R1dQdkpkdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-11T09:21:12+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -808,22 +840,12 @@
       "type": "News"
     },
     {
-      "title": "Klinik MVZ E-Health Lehre Forschung Industrie / Dienstleister Stellenangebote in Sachsen-Anhalt - ärztestellen",
-      "summary_de": "Klinik MVZ E-Health Lehre Forschung Industrie / Dienstleister Stellenangebote in Sachsen-Anhalt &nbsp;&nbsp; ärztestellen",
+      "title": "Klinik MVZ E-Health Lehre Forschung Industrie / Dienstleister Stellenangebote in Sachsen-Anhalt - aerztestellen.aerzteblatt.de",
+      "summary_de": "Klinik MVZ E-Health Lehre Forschung Industrie / Dienstleister Stellenangebote in Sachsen-Anhalt &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcjN4WEFla1FVdThDT2l1bFREME9lNWVxV0NuUXg1Zl9zRkw4d2l1NWY4MHB5alBUZ1ZIWVJ5bE90MHhQWDdaRklqNHlvbUx4S2xIbzRnZGNjLW93RGh3dDR2WXVHLWdaQjJtRzBQT1NhNUJWVHRKMXFENjNZNjRXZmZrc1RpWEZ0Vi04ZERXdDVObnBwTF9PVlNiVURtcnVtb0hFVm5lRGNWcGRQc2tEWGE3TXBuSC1WMzVSR2ZxVk9XZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-11T08:01:42+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Pflegereform: Wie die Pflege sich möglicherweise retten lässt - FAZ",
-      "summary_de": "Pflegereform: Wie die Pflege sich möglicherweise retten lässt &nbsp;&nbsp; FAZ",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOT0VXbGM4ZkVCWE92eGZ0MlI0ZklHMGJBaV9CbnU0WHlxdGdUNzhpemV6MVlkSEtBMmlNMG1qQ2dlVWZTV1dGekFBV0lRWmp0MDZtaGxVUTNneUpwUG5zRkVNR1pRQmZ6QkpzOWZVYjJOZHJnb1ZLOVZWblJlZ0l3NkE5cTlXMERVZTlzQ092ZkZMc3htLWJWME9vaTNXb25qT0c5TGxmeVZqRFctSklNTzRIYkpyUkYzeHR4cXhYd1Uta1NWTDMxYm5OcEE3RkFoU3Zz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-11T05:15:33+00:00",
-      "category": "Versorgung",
       "tags": [],
       "type": "News"
     },
@@ -1110,8 +1132,8 @@
       "type": "News"
     },
     {
-      "title": "Ärztl. Geschäftsführer / Direktor Innere Medizin LWL-Klinik Warstein Stellenangebote - ärztestellen",
-      "summary_de": "Ärztl. Geschäftsführer / Direktor Innere Medizin LWL-Klinik Warstein Stellenangebote &nbsp;&nbsp; ärztestellen",
+      "title": "Ärztl. Geschäftsführer / Direktor Innere Medizin LWL-Klinik Warstein Stellenangebote - aerztestellen.aerzteblatt.de",
+      "summary_de": "Ärztl. Geschäftsführer / Direktor Innere Medizin LWL-Klinik Warstein Stellenangebote &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWVRoLWRfaWgxWlBSSFZIbC11REpxeUx3dEQ3R00wbUhVS25RVnI0T1BqQnNuMDFicHlQMnNqWWxMTmJqNVF6bmdlcElYRlJwUl9mTHNuekVtallleVJUeDdpTzVlcFoxakJ1RnkwaWZac2Z2VDRqSDFnekQwQTZJRldrT0d5bkdZbVRiaVQwMFJEYzVYUHh4ai1hejBra1NJSUhkb1lwZEJkZ1d1RUlkc1libTAyd1lPaTIyekRkblR3aURTemc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-09T12:09:38+00:00",
@@ -1120,8 +1142,8 @@
       "type": "News"
     },
     {
-      "title": "Ärztl. Geschäftsführer / Direktor Innere Medizin und Endokrinologie und Diabetologie Stellenangebote in Hessen - ärztestellen",
-      "summary_de": "Ärztl. Geschäftsführer / Direktor Innere Medizin und Endokrinologie und Diabetologie Stellenangebote in Hessen &nbsp;&nbsp; ärztestellen",
+      "title": "Ärztl. Geschäftsführer / Direktor Innere Medizin und Endokrinologie und Diabetologie Stellenangebote in Hessen - aerztestellen.aerzteblatt.de",
+      "summary_de": "Ärztl. Geschäftsführer / Direktor Innere Medizin und Endokrinologie und Diabetologie Stellenangebote in Hessen &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcnp4NU9LUTN3emtsWEJCazMtQVJwa0lqQk1PUWFBMnFBQi0wQ3hsTjBZcWlXSzYtV0tTUW9mQlpiT1Y0cmdLb1BSSnBnLXg2WDdPUXNXWXVvbm5sd1FXOE1DTFVsTm90dDVYazR3Qi1oUVJPYVFmN2gwME9vdnh3ZGNpSDc4YmJDVWVCdnFUSXpFUFh4TXRwR1pVbmUtRjkybk1CNGNCLTF2aGpicW8zc1lGclJXSUhWZTZLeFV5MmFQbl9UaUNEeEFzMHVEY3dXaVJwdDdR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-09T11:50:27+00:00",
@@ -1130,8 +1152,8 @@
       "type": "News"
     },
     {
-      "title": "Innere Medizin Gemeinschaftspraxisfür Radiologie und Nuklearmedizin Stellenangebote in Sachsen-Anhalt - ärztestellen",
-      "summary_de": "Innere Medizin Gemeinschaftspraxisfür Radiologie und Nuklearmedizin Stellenangebote in Sachsen-Anhalt &nbsp;&nbsp; ärztestellen",
+      "title": "Innere Medizin Gemeinschaftspraxisfür Radiologie und Nuklearmedizin Stellenangebote in Sachsen-Anhalt - aerztestellen.aerzteblatt.de",
+      "summary_de": "Innere Medizin Gemeinschaftspraxisfür Radiologie und Nuklearmedizin Stellenangebote in Sachsen-Anhalt &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbjZEbU1uN2FueklEc01BaVhNbWRKVWdud0N6VjJlOGNsdHdoczZmVmczWnVaUHE1aDVXd0RSTTNTdjZJMWpRazJ5YVhScWNOa3oyRFhhbjFkREF6NlQ0cGNNRWMtVVNOUVJlLVdzVHNLLTZNTW9QYUdFWkV1NXdNOUJMTzFYamxhTV9aQ3lMVWpIaUhuOHVMU29BVlhSbE95cGZnY3Z6cTlDaFlpTzhDcEpRX3VOV29QbDdSbEttQnkzNWExZENWRVl1eDRVWGlTSi1wTE5XTmkzQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-09T08:44:49+00:00",
@@ -1160,8 +1182,8 @@
       "type": "News"
     },
     {
-      "title": "Innere Medizin Bundesamt für das Personalmanagement der Bundeswehr Stellenangebote in Hessen (0) - ärztestellen",
-      "summary_de": "Innere Medizin Bundesamt für das Personalmanagement der Bundeswehr Stellenangebote in Hessen (0) &nbsp;&nbsp; ärztestellen",
+      "title": "Innere Medizin Bundesamt für das Personalmanagement der Bundeswehr Stellenangebote in Hessen (0) - aerztestellen.aerzteblatt.de",
+      "summary_de": "Innere Medizin Bundesamt für das Personalmanagement der Bundeswehr Stellenangebote in Hessen (0) &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY3EyRTRvZ0d1cERvNjNsdEd5XzJBTXZIQ0N3NXpTS1V4SmR5bk1JWjkwZWltSnNBaTVkTzF2Y25mSGltYXdORG1aaEYtTzVxTWxPWEdVcGY3MHZhc3prME1TcE1Ta21NekxLclZCY1lxc05WcENQT09yR3NXX0JtYS02V3ZtMkhZLU1DRWVTQ3ExSS0tXzBHVmJDOS1CQ01BUnpMMFVUQ19DM2hwSnpKVGVSRVhIVXdJbTM1Vm1EYU85WXhCVTR4alg0WnZnYVp3TmUyMUd4dnE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-09T03:02:42+00:00",
@@ -1170,8 +1192,8 @@
       "type": "News"
     },
     {
-      "title": "Ärztl. Geschäftsführer / Direktor Radiologie Universitätsklinikum Ruppin-Brandenburg (ukrb) Klinik Stellenangebote - ärztestellen",
-      "summary_de": "Ärztl. Geschäftsführer / Direktor Radiologie Universitätsklinikum Ruppin-Brandenburg (ukrb) Klinik Stellenangebote &nbsp;&nbsp; ärztestellen",
+      "title": "Ärztl. Geschäftsführer / Direktor Radiologie Universitätsklinikum Ruppin-Brandenburg (ukrb) Klinik Stellenangebote - aerztestellen.aerzteblatt.de",
+      "summary_de": "Ärztl. Geschäftsführer / Direktor Radiologie Universitätsklinikum Ruppin-Brandenburg (ukrb) Klinik Stellenangebote &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWWZ5NWFjVDBZYUliTE04VEZMU01fRno5cWVMZWdORmRQenFzMlNiNnJ0a0RMbVJNbEd1OWhSVEhXbElLMHhIakJSZUx4aHp6d1JsSEJadGw4WmhkdWxKdjNyaDVtN042SHpJSnVMYlU5UVEyQkxTOHd5UWRRN0lOSEpFRGRFQU1oSGVGZTZoT3pwdEUyLTBTX0gyUk9CVFNxeUdSMWdqc0tHM21uMW5fNk9Bd19EQkRpa1NRWDdYY1k3bG5idUxjZnFFVGRpVHJXb0t6NzZzby0tRkRNaXhzaXRTUkJEZ20wWEpfUA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-09T02:52:59+00:00",
@@ -1180,8 +1202,8 @@
       "type": "News"
     },
     {
-      "title": "Radiologie Caritas-Krankenhaus St. Josef Regensburg Stellenangebote in Schleswig-Holstein - ärztestellen",
-      "summary_de": "Radiologie Caritas-Krankenhaus St. Josef Regensburg Stellenangebote in Schleswig-Holstein &nbsp;&nbsp; ärztestellen",
+      "title": "Radiologie Caritas-Krankenhaus St. Josef Regensburg Stellenangebote in Schleswig-Holstein - aerztestellen.aerzteblatt.de",
+      "summary_de": "Radiologie Caritas-Krankenhaus St. Josef Regensburg Stellenangebote in Schleswig-Holstein &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYkZTX3Q1dHNlV251U2FrRFFwTjNCSmU5R0FvNTBSeVdPWlJhVjVfTEt1VzU2bzNhY3g3elVodmpUallGN2lZNUdhZ2QtMUdTdEpJSDRIWnFUa05vZUhiQXVhRi15aGZheHVLREQybm93eUx1SkNnbmJSN01ONjZlYWlxR1pGaFI3VEU4ZGE3Xy1ObFMtajc5Wl92NW5ROEJmRDBsLUxxR1NaRE1FTVc5ZTQwSDhBbDhtZXY0djEtS2Vfd19qazRN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-09T01:21:24+00:00",
@@ -1190,8 +1212,8 @@
       "type": "News"
     },
     {
-      "title": "Assistenzarzt / Arzt in Weiterbildung Pathologie Klinikum Oldenburg AöR Stellenangebote in Niedersachsen - ärztestellen",
-      "summary_de": "Assistenzarzt / Arzt in Weiterbildung Pathologie Klinikum Oldenburg AöR Stellenangebote in Niedersachsen &nbsp;&nbsp; ärztestellen",
+      "title": "Assistenzarzt / Arzt in Weiterbildung Pathologie Klinikum Oldenburg AöR Stellenangebote in Niedersachsen - aerztestellen.aerzteblatt.de",
+      "summary_de": "Assistenzarzt / Arzt in Weiterbildung Pathologie Klinikum Oldenburg AöR Stellenangebote in Niedersachsen &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMzF3ZFpTUDdzaUhEN0wzbVpKQjJLaTB2OFhEaDVtSW9KZWlVNEpVRUlWMmtUTTBlTFNVdFpNcnI4TnJ6djBkWTQ1YzB0T1h5czM4a2FKWDNJeHRZelpUbHYyQWZHVUR3S1dKeXRfUC1rU2w0Y1BQcHAzOUlaSFFhSTlKQUdGTXgtX3RheHVEeWNQNTNvRmplUnhiUGZsOXltdnZGUkF1c0ZDVHBMRzFlTmJ0cS1reEhfV05qNGFpbDR2NGlBUzFBZA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-08T19:37:38+00:00",
@@ -1210,8 +1232,8 @@
       "type": "News"
     },
     {
-      "title": "Ärztin / Arzt in Weiterbildung – Radiologie (m/w/d) - ärztestellen",
-      "summary_de": "Ärztin / Arzt in Weiterbildung – Radiologie (m/w/d) &nbsp;&nbsp; ärztestellen",
+      "title": "Ärztin / Arzt in Weiterbildung – Radiologie (m/w/d) - aerztestellen.aerzteblatt.de",
+      "summary_de": "Ärztin / Arzt in Weiterbildung – Radiologie (m/w/d) &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS0VVMzQ5YWM0NklUUjFzVXVrb3RFQlZYbHNveTM0ZjBmMzdGaWg4bG1kUTVGRDNxZEs0VFYzZl9kYWtSX3RHalhEYmptRWc5V3RhYkdsVjBuNHFsVklWRDQzQzhRMWRPTERwejVDckRGR0xtX1pTZWlEVzAyRm8wdERmZGE3SDV1b3Z3Y2w2azZGYXdyc2NuYV9fMExSMG1YbnE3eA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-08T07:00:00+00:00",
@@ -1250,26 +1272,6 @@
       "type": "News"
     },
     {
-      "title": "Guidance: Medicines that you cannot export from the UK or hoard",
-      "summary_de": "Sets out medicines that cannot be exported from the UK or hoarded because they are needed for UK patients.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/medicines-that-cannot-be-parallel-exported-from-the-uk",
-      "published_at": "2026-08-07T13:09:52+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Halbjahreszahlen - Fleischproduktion sinkt – Geflügel mit größtem Rückgang - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Halbjahreszahlen - Fleischproduktion sinkt – Geflügel mit größtem Rückgang - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNT1ZHMGptQUlaRDE2a3lnLXhpVGVGc3lwY0RmZG5lTkRHX2N0Zk1JZ1o4aDlycFNLNjcyaHdJMUoyUFdhNmRqdk9nT2F1TWhkYU14OS1Oby00YXIzUVR6c3dKd0FrMHNRX3NqYm1Rb3BSUTBRT2IzTmdOa2xHYjJwN1RHbTV4MHpSQ21JeHA0UGVHZ3haams0OUgzTC1uYTBqZUVVMGhOQkwya1BMazhQN3RWNzhoZ2ZUaXh3cjJDZzdaa3J1cUdha3FNRl92NTZNTm1fMHl2clcyUTc0dVpqenY1aHJFb2ZWbG94c3M4S2Z1WTlhLUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-07T12:35:40+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "USA: Mitch McConnell nach fast zwei Monaten aus Krankenhaus und Reha entlassen - Spiegel",
       "summary_de": "USA: Mitch McConnell nach fast zwei Monaten aus Krankenhaus und Reha entlassen &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
@@ -1298,16 +1300,6 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/learning-disabilities-health-check-scheme/england-june-2026",
       "published_at": "2026-08-06T13:35:14+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit: Risiko für Krankheiten nach Mückenstichen wächst - DIE ZEIT",
-      "summary_de": "Gesundheit: Risiko für Krankheiten nach Mückenstichen wächst &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWmxPb2lrTTdGbTNtblBBdnAyUllzZXpaeTJyc3FwZlpNdW1OV0NUbVB3ZFh5N090dWY5R1hNZHdab1N5cHNEVzFtaEdiZjJoVFp3SFZQb1o2azBTdm4yWWFIb3dMQkNuclVoVTloaG9rTlhqWVR3TVpNaEdLNlgxRHdGcEpFUDdmcGFybjd5OUU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-06T12:00:25+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1879,16 +1871,6 @@
       "summary_de": "Exercise for osteoarthritis of the hip",
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007912.pub3",
-      "published_at": "2026-07-23T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Larger versus smaller red blood cell volume per transfusion in hospitalized adults, children and preterm neonates",
-      "summary_de": "Larger versus smaller red blood cell volume per transfusion in hospitalized adults, children and preterm neonates",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015898.pub2",
       "published_at": "2026-07-23T00:00:00+00:00",
       "category": "Studie",
       "tags": [],
