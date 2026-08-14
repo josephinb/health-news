@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-13T21:36:52.915776+00:00",
+  "generated_at": "2026-08-14T01:17:21.072512+00:00",
   "window_days": 42,
-  "count": 253,
+  "count": 240,
   "items": [
     {
       "title": "Ultraschall-Gerät aus Innsbrucker Radiologie gestohlen - NÖN.at - Niederösterreichische Nachrichten",
@@ -50,6 +50,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5HUDExWUdLb0Nfa2d1amJnZzkwUWRKRUtuVXJKSzFLemxla2JuR0I1MlBkWGRHdDNzbkw2d0QyMGJZZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-13T16:00:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Erstmeldung Arzneimittel: bicaNorm pU: Fresenius Medical Care Deutschland GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-08-13T15:34:45+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -186,16 +196,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: Urapidil AL 60 mg Hartkapseln, retardiert pU: ALIUD PHARMA GmbH",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-08-13T09:41:56+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "DOAK bei Alzheimer: Studie deutet auf langsameren kognitiven Abbau hin",
@@ -418,16 +418,6 @@
       "type": "News"
     },
     {
-      "title": "SBRT for prostate cancer cuts side effects, falls short on disease control",
-      "summary_de": "A multinational team evaluated SBRT against moderately hypofractionated intensity-modulated radiation therapy in a phase III trial...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/radiation-oncology-therapy/article/15832368/sbrt-for-prostate-cancer-cuts-side-effects-falls-short-on-disease-control",
-      "published_at": "2026-08-13T06:31:34+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
       "title": "Zügelt den Appetit - Abnehmtablette kommt in deutsche Apotheken - Ein Überblick - Gesundheit - SZ.de",
       "summary_de": "Zügelt den Appetit - Abnehmtablette kommt in deutsche Apotheken - Ein Überblick - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -470,22 +460,12 @@
       "type": "Studie"
     },
     {
-      "title": "Fachbereichsleitung (m/w/d) für den Fachbereich Gesundheit - ZEIT Stellenmarkt",
-      "summary_de": "Fachbereichsleitung (m/w/d) für den Fachbereich Gesundheit &nbsp;&nbsp; ZEIT Stellenmarkt",
+      "title": "Fachbereichsleitung (m/w/d) für den Fachbereich Gesundheit - jobs.zeit.de",
+      "summary_de": "Fachbereichsleitung (m/w/d) für den Fachbereich Gesundheit &nbsp;&nbsp; jobs.zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMkJMT1luN3pBM2VDUHBLcTJmWnBXQnhHb28wVGVUNXFiZnBQUTVEbUw3WDlHdWxfb1dxRHl2NzNqaWs3clRPRjhSNlV3czhpTjh5cG5oWnRNaDh1YTM2dENpWVcyTnFMUUJQek9jMzFqTldwQ1N2SXQ4ZkhJZEFoTElqVFdYSS1fVFlVaUxOY1REczd3Q1hmWi1kVmpYRk9sX1pkc0o0cFN6aUhpeHB1Q2NZc2Y2YjVyMkdNYzlHWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-12T22:44:06+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "AI tools may not meet breast radiologists' expectations in practice",
-      "summary_de": "AI tools in breast imaging may have more modest clinical impact on recall and biopsy rates.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15832310/ai-tools-may-not-meet-breast-radiologists-expectations-in-practice",
-      "published_at": "2026-08-12T17:14:09+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -672,26 +652,6 @@
       "type": "News"
     },
     {
-      "title": "DEXA reveals tea consumption supports bone health",
-      "summary_de": "Moderate-frequency tea consumption was associated with better bone mineral status and more favorable longitudinal changes.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15832363/dexa-reveals-tea-consumption-supports-bone-health",
-      "published_at": "2026-08-12T09:04:07+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Sport: Wie viel ist denn nun wirklich gesund? - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Sport: Wie viel ist denn nun wirklich gesund? - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcmRYdWxHamJMLTZGeng3Y2ZfUlVaZzJocGQyY0c2T0VKVWVKNlFzbklKa1BwWVQ0SGw2R0gyZ0d3dnhXMTRKd0NMRE1KaFFzeHk4SDE3NUhCRTJUOGc5TnRXc3hLM3lZaVJQZFhWRGg4cWFMZnUxZml3M0drZHB4NWs3aHZ1Nk56WXgydEZzeERIVFJaOGxKTkEtZGV5WlpHMk1B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-12T09:01:12+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Stellenangebot Nuklearmedizin oyora GmbH - MVZ DRZ (1) - ärztestellen",
       "summary_de": "Stellenangebot Nuklearmedizin oyora GmbH - MVZ DRZ (1) &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
@@ -712,8 +672,8 @@
       "type": "News"
     },
     {
-      "title": "Merlin: KI liest CT-Scans und sagt Krankheiten voraus - Denkstrom",
-      "summary_de": "Merlin: KI liest CT-Scans und sagt Krankheiten voraus &nbsp;&nbsp; Denkstrom",
+      "title": "Merlin: KI liest CT-Scans und sagt Krankheiten voraus - denkstrom.org",
+      "summary_de": "Merlin: KI liest CT-Scans und sagt Krankheiten voraus &nbsp;&nbsp; denkstrom.org",
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBydnkzMzlkclFfMUU1ejBLN25KWS1YaUJLTFFhWmY2WjZsRGVKZURLaTRpREtHdjNwaTM2TU1ZbEs3bjNjRWNxZ1JtOUp6QmM3bHFwRW5URUViXzB3VUdzM3Y1dmdXNU93czd4emRoZFFxTHFxend6eEdHTQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-12T08:05:00+00:00",
@@ -728,6 +688,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/was-das-alter-wirklich-bedeutet-167502/",
       "published_at": "2026-08-12T08:00:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Facharzt für Radiologie oder Doppelfacharzt für Nuklearmedizin und Radiologie (m/w/d) - Heidelberg - ärztestellen",
+      "summary_de": "Facharzt für Radiologie oder Doppelfacharzt für Nuklearmedizin und Radiologie (m/w/d) - Heidelberg &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMktQTjYzcGlwZUpGSkhIT0tQU3lSb2FNTVJfaUNrSVZOUFBJQk5YVm91bFB3OGFFQUI2c1FjX3hrTTVFVEFTM01BdHEzenlFazV1QWI5MXlvU1NjUGNEWEVtWEYzdmltT1FGWk5TRmRLQ1Z2eDFjeTRHc1R6aEJ5NTRUT1JjdV82THNYd3hfVEMyM1RlZkxWX1BhN0xHRzJhVlJraWJwanB1OGplem9KSjlPTkdzbDRrbkVBWElZS2FNVnpPV3pkRWctczEycE5Xb2p2TFZB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-12T07:36:32+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -802,16 +772,6 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Schutz bei Hitze: Wie das Land auf heißere Sommer reagiert - DIE ZEIT",
-      "summary_de": "Gesundheit: Schutz bei Hitze: Wie das Land auf heißere Sommer reagiert &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMFJ5LWg5eTJOQ0tzUUlFQm03VDRVZ3AwcEFLN1R5amVQOG1nc24wN3FkYlJ0OGZia29lYUFjZ3ZMVjVHRng4NUU4WmxVcWVseHRRM2p4MThqMUdGRnpEdUJqNmx2ZFhnQWtuQi1SYmZ6a0ZvTXpLV21zWFpONXlGRDFYbTRCczl2b3VWX1RVQlkzVnVmTHFwNTV3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-11T13:38:24+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit: Hitze-Aktionsplan - Wie das Land auf heißere Sommer reagiert - DIE ZEIT",
       "summary_de": "Gesundheit: Hitze-Aktionsplan - Wie das Land auf heißere Sommer reagiert &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -865,8 +825,8 @@
       "title": "Gesundheit - Mehr als 2.000 Ebola-Tote im Kongo - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Gesundheit - Mehr als 2.000 Ebola-Tote im Kongo - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObUZST0RXbzB3RmNaVzJPa0VITlFWRlYwUFZTa2JtR2hPX1pwVHh4cnEtOUM2dGxWOUM3d0FQRWo4aFo3Z1NyNk8wTmUzYlRVdlBDdDJ0ajExV2xIUVhmcHdrU3doOVg2WUJHaUdTZ1JacEJaSU54cUN6UVJzVWNHQ2N0WlNMZTJnLVpJYTVMek0yVk41QjhLUGtjcEE5WW1ZNV9nNXJmUC0ta2pzbmQ5V1hZbzFVUDQzM2oyMXQ0bFg2aWNtTHBPc1FoODRqUkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-11T09:20:16+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbVN2ZElZSjgxUHJxcUttU0I0MjRzWktaZVAydXJyNEJKY0pGS1luSDJjSnN2M0p2XzN3UWZiYTNiM0UtU2p1Ty02VUU0OHF3ZG1qajFwZmRNcEpPNWs4ZTF5NDhUd1VJM2ZRTjBnblpiUVNFcERBVVdFdXA2cGdJRFl6WS1qRlpoSHdmS1MtVjVZVC1pWXBUOGlmc0U1UHZnYkZ6MXkxQ1VCLVhCMU15MS1Uclh5dVZGYWRWTFJJM2hFMlVQSml6R1dQdkpkdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-11T09:21:12+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -932,44 +892,12 @@
       "type": "News"
     },
     {
-      "title": "Stepped reminders boost CT lung cancer screening",
-      "summary_de": "Trial findings directly address the current lack of effective lung cancer screening interventions.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15832166/stepped-reminders-boost-ct-lung-cancer-screening",
-      "published_at": "2026-08-11T08:06:41+00:00",
-      "category": "Studie",
-      "tags": [
-        "Radiologie"
-      ],
-      "type": "Studie"
-    },
-    {
       "title": "Klinik MVZ E-Health Lehre Forschung Industrie / Dienstleister Stellenangebote in Sachsen-Anhalt - ärztestellen",
       "summary_de": "Klinik MVZ E-Health Lehre Forschung Industrie / Dienstleister Stellenangebote in Sachsen-Anhalt &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcjN4WEFla1FVdThDT2l1bFREME9lNWVxV0NuUXg1Zl9zRkw4d2l1NWY4MHB5alBUZ1ZIWVJ5bE90MHhQWDdaRklqNHlvbUx4S2xIbzRnZGNjLW93RGh3dDR2WXVHLWdaQjJtRzBQT1NhNUJWVHRKMXFENjNZNjRXZmZrc1RpWEZ0Vi04ZERXdDVObnBwTF9PVlNiVURtcnVtb0hFVm5lRGNWcGRQc2tEWGE3TXBuSC1WMzVSR2ZxVk9XZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-11T08:01:42+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Model confidence, reader expertise affect reader-LLM collaboration",
-      "summary_de": "Successful human-LLM collaboration is associated with model confidence and reader expertise in chest imaging.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15832203/model-confidence-reader-expertise-affect-readerllm-collaboration",
-      "published_at": "2026-08-11T07:42:27+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "PET/CT predicts response to neoadjuvant therapy in breast cancer",
-      "summary_de": "Monitoring neoadjuvant therapy response in HER2-positive breast cancer is challenging with existing tools.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15832202/petct-predicts-response-to-neoadjuvant-therapy-in-breast-cancer",
-      "published_at": "2026-08-11T07:37:05+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1156,8 +1084,8 @@
       "type": "News"
     },
     {
-      "title": "W2-Professur „Elektrische Antriebe und Leistungselektronik“ - Hochschule Aalen - Technik, Wirtschaft und Gesundheit - ZEIT Stellenmarkt",
-      "summary_de": "W2-Professur „Elektrische Antriebe und Leistungselektronik“ - Hochschule Aalen - Technik, Wirtschaft und Gesundheit &nbsp;&nbsp; ZEIT Stellenmarkt",
+      "title": "W2-Professur „Elektrische Antriebe und Leistungselektronik“ - Hochschule Aalen - Technik, Wirtschaft und Gesundheit - jobs.zeit.de",
+      "summary_de": "W2-Professur „Elektrische Antriebe und Leistungselektronik“ - Hochschule Aalen - Technik, Wirtschaft und Gesundheit &nbsp;&nbsp; jobs.zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWDNUN3pfVHVvbE56c3BMMzU3UW40RkNqd0xUQ25IOWJKY1M1WW5RUGU5WTMyaFQ0UVZ2dC1vaTlSQUhiZUVRd3dFV19ZTUgtc25XZW5ORmxja0dTc1BBaXNQQWU1eWNyblBpQVA2dEZ3dnFTdHBPQ3laQlZUQl9TNFNNUFpvaTJ4bFFjRktQWlVnNFNGVHJwOWhuRmxZYW9pa25vaEVhbUpvdXl2XzhTQzFqTldvRV9VWVJKVU9tNG82c3ZnWlZGXzd4NXExT0NSeVNxOVZyaGEwdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-10T08:27:12+00:00",
@@ -1170,17 +1098,7 @@
       "summary_de": "ADHS: Neudiagnosen bei Kindern steigen um 16 Prozent &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ21KMk1GTmt5REttZzNmelhzQ1lNRGFuMTJzcXFqcHFTSjVlczFEaUxtbDRHaTZ5b0o0MEM3TExKcURYNU9COGRyUXpxU1AtTUt5QksxYzMtS0EyREdIRnpHOGdWTWcxb0xLUnR1QlhidE9qYVlyeDhBeFNlenAzZ3JYQktKclNrODN6YWZzdDBadG16dkc4VHFOaEtjbmlxenRSWm5sd3k0UXVwSWxQWlVNMUNNenVrWHIycXJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-10T07:29:59+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Many women interested in AI-based risk assessment for breast cancer",
-      "summary_de": "Survey findings also show that most women at higher risk are interested in additional screening tests.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15832054/many-women-interested-in-aibased-risk-assessment-for-breast-cancer",
-      "published_at": "2026-08-10T06:31:45+00:00",
+      "published_at": "2026-08-10T07:30:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1366,48 +1284,6 @@
       "type": "News"
     },
     {
-      "title": "Wie ein Haus­arzt in Kai­sers­lau­tern sich von KI hel­fen lässt - rheinpfalz.de",
-      "summary_de": "Wie ein Haus­arzt in Kai­sers­lau­tern sich von KI hel­fen lässt &nbsp;&nbsp; rheinpfalz.de",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUWpVdVJKZ3FqcE1WOGdNdGRabFNKVjdmQWRTOTNIS2xieGNKRGhwX0xLY3N5ejZNTmxPcXhxM0U4ejFrbnJBS1E4Zlc3TnRkcjJ0Y1pVaFJXZ2VGWnJaVGxnWHlWbXNHU21yYVZrLUdZVl9VVkVZYjcwUXV5bEI2SUNxQUpjRXFJNlFDbTgzakZ6SzdJcVJwam5CcDRGaUE1VjFpblBaUFUzdDc4ZFd2cWdldWlwTy1CempoSjZ0UkFzZjZSMHBvOVVtZEZEbWRLdUJVOHk3VQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-08T05:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Week in Review: Imaging turnaround times | DEXA scans drop off | Minnies nominations",
-      "summary_de": "The continued increase in radiology report turnaround times was the top topic on AuntMinnie.com last week.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/editors-note/article/15831989/week-in-review-imaging-turnaround-times-dexa-scans-drop-off-minnies-nominations",
-      "published_at": "2026-08-07T09:14:53+00:00",
-      "category": "Studie",
-      "tags": [
-        "Radiologie"
-      ],
-      "type": "Studie"
-    },
-    {
-      "title": "CT 5-star quality rating system supports optimization",
-      "summary_de": "The rating framework demonstrated robust reproducibility, with three-reader concordance reaching up to 93% in highly standardized...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15831982/ct-5star-quality-rating-system-supports-optimization",
-      "published_at": "2026-08-07T08:37:06+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Bone scan testing has fallen 35% among Medicare beneficiaries",
-      "summary_de": "null",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15831968/bone-scan-testing-has-fallen-35-among-medicare-beneficiaries",
-      "published_at": "2026-08-07T06:03:19+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "USA: Mitch McConnell nach fast zwei Monaten aus Krankenhaus und Reha entlassen - Spiegel",
       "summary_de": "USA: Mitch McConnell nach fast zwei Monaten aus Krankenhaus und Reha entlassen &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
@@ -1563,8 +1439,18 @@
       "type": "Studie"
     },
     {
-      "title": "Professur (W 2) für Ergotherapie und Mentale Gesundheit - Hochschule Furtwangen - ZEIT Stellenmarkt",
-      "summary_de": "Professur (W 2) für Ergotherapie und Mentale Gesundheit - Hochschule Furtwangen &nbsp;&nbsp; ZEIT Stellenmarkt",
+      "title": "Wie melde ich mich für den DAK AktivBonus an? - DAK-Gesundheit - DAK-Gesundheit",
+      "summary_de": "Wie melde ich mich für den DAK AktivBonus an? - DAK-Gesundheit &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORUQ1SGp4Vzd5bktxckFSblhUbXA5bTZsS2U2OVl3TXJhWDdwSDljZ01WOTZWTHo1aDlVSzZxS0ZfNXEyN1JBTzROUXlLQl95VUVfYkRmX1dkZkM3Z2I0S014U1p4cnctSERNX3FXeFEtSnp4UElIVkVyR3R2YWxUNUpjY0FMTC1TS016YzBWZ25WeklEc2FRdW5RSVl0ZWQ4cHppSXFBeGY4VXdlTDM0YVlNTTlpQTZHcU9TT0YtNjJKNjF1?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-03T18:51:27+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Professur (W 2) für Ergotherapie und Mentale Gesundheit - Hochschule Furtwangen - jobs.zeit.de",
+      "summary_de": "Professur (W 2) für Ergotherapie und Mentale Gesundheit - Hochschule Furtwangen &nbsp;&nbsp; jobs.zeit.de",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbWI5dWg3UmVHeXFPVWR4MzFOZjBGMkNkVmhQc2hKRnJ4RzVEUjdsTlJDM3JweE5aSFdVY0d1d0t5MEtDeTdIbWlDbEtmbkVHc043cjhUaGw3ZFZheGdJUlA5UGFjSVppd1Y4WGFDblJDVnVaa2I1WFVhekRxWVpVQmdTVzY0Y3JnZVNYbHZwd1l1Z09hdEsyUDBxLTUzVGhHUXcybmVNNDRZeDRlVm5j?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-03T07:17:09+00:00",
@@ -1761,16 +1647,6 @@
       "summary_de": "Impressum &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55VlNIMURWd21UU185bm1nS0loTzl2NDJmc2ktYnh6UDcxMkl0MTJfV2pTcDN6WkNvcW9FZlhMQ0hudnNORUNJSTVMaWJWQ3RJTGZjcDZPMmg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-29T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Wie melde ich mich für das Bonusprogramm AktivBonus an? - DAK-Gesundheit",
-      "summary_de": "Wie melde ich mich für das Bonusprogramm AktivBonus an? &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORUQ1SGp4Vzd5bktxckFSblhUbXA5bTZsS2U2OVl3TXJhWDdwSDljZ01WOTZWTHo1aDlVSzZxS0ZfNXEyN1JBTzROUXlLQl95VUVfYkRmX1dkZkM3Z2I0S014U1p4cnctSERNX3FXeFEtSnp4UElIVkVyR3R2YWxUNUpjY0FMTC1TS016YzBWZ25WeklEc2FRdW5RSVl0ZWQ4cHppSXFBeGY4VXdlTDM0YVlNTTlpQTZHcU9TT0YtNjJKNjF1?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-29T07:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -2252,8 +2128,8 @@
       "type": "News"
     },
     {
-      "title": "W2-Professur „Optoelektronik und Diagnostik“ - Hochschule Aalen - Technik, Wirtschaft und Gesundheit - ZEIT Stellenmarkt",
-      "summary_de": "W2-Professur „Optoelektronik und Diagnostik“ - Hochschule Aalen - Technik, Wirtschaft und Gesundheit &nbsp;&nbsp; ZEIT Stellenmarkt",
+      "title": "W2-Professur „Optoelektronik und Diagnostik“ - Hochschule Aalen - Technik, Wirtschaft und Gesundheit - jobs.zeit.de",
+      "summary_de": "W2-Professur „Optoelektronik und Diagnostik“ - Hochschule Aalen - Technik, Wirtschaft und Gesundheit &nbsp;&nbsp; jobs.zeit.de",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOFJ6NGNwUWYwUzU4SnN5bWV6S2IxTDk1SmtQOVZwZjZ0aTllWG5xanMzeUtYd2t4TUllazJqdmZKVzZYeW1NN3JRTDdTcjQ0ckZDQUV5ekJMQjQ5Y3dteFFsWm52WkJzcnNSVXZDQzI2SHQ5R3Yxa250azZaQkgyeHF1UGpndXpyeVprLVA0Q0JYM1BaeVN3ZEFaNWFScEd0SDRfTU5ZQkVlUFFBWUV0Vkx0NWdrUzh4cXpSY1RsMGZocDAwcmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-15T07:00:00+00:00",
@@ -2350,8 +2226,8 @@
       "type": "News"
     },
     {
-      "title": "Präzisionsdiagnostik in der Radiologie: Neues MRT für das Helios Klinikum Pforzheim - Helios Gesundheit",
-      "summary_de": "Präzisionsdiagnostik in der Radiologie: Neues MRT für das Helios Klinikum Pforzheim &nbsp;&nbsp; Helios Gesundheit",
+      "title": "Präzisionsdiagnostik in der Radiologie: Neues MRT für das Helios Klinikum Pforzheim - helios-gesundheit.de",
+      "summary_de": "Präzisionsdiagnostik in der Radiologie: Neues MRT für das Helios Klinikum Pforzheim &nbsp;&nbsp; helios-gesundheit.de",
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa1ZpOTl0d0Y3VFNUelpkRU9xZ3kxVFZsWGQwSy1XbUZLLUdpcC1odDNYd3VCSVZkcVZUc1FWQ0N2STJTTnNtRGN0M0pCM0Zibldwc2MySGRBVlQzZ0NseXcxNHJrT2tDSWVWeWFUMlV3NXdEVUxudHZSR1U5VEtzUDFPVWl4RDFhT2h4SWtnMXNWQldOb0dzM2h3Tm9GR292LXVnbF9HRVhqNXNFWmt6N1I0dUQ0M0d0Yk9acUlUVE5DTTlN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-10T07:00:00+00:00",
@@ -2472,16 +2348,6 @@
       "type": "News"
     },
     {
-      "title": "GKV-Finanzreform: Grüne wollen Abstimmung über Krankenkassenreform verhindern - DIE ZEIT",
-      "summary_de": "GKV-Finanzreform: Grüne wollen Abstimmung über Krankenkassenreform verhindern &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQUUySEh3a1NLSEUtci1HSTVwcUZHUnhBQTVPRlpMQnR1TDZUNkI0R0VRRzdnTEthdS1VRHJfdE1sT1lRSll6Nlg5MUt1c3V1c2Q1MnhBRWJ0RmhVYzBudEVDYS1OeWZZbE1QMHJQTkVMVzJ5RnVwdmFreVFUc292Y2xzenpkNlNZOXl1a0xMTDR0ZEp5dmdxeFFlWG0wN09CRjRzU19WZUhoZXB5YXk4YnBFV3QwU19fUU1KVnV2bzNVOS1tT0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-08T07:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Meinung: News des Tages: Nato-Gipfel in Ankara, Gesundheitspolitik, Ärger bei der Fußball-WM - Spiegel",
       "summary_de": "Meinung: News des Tages: Nato-Gipfel in Ankara, Gesundheitspolitik, Ärger bei der Fußball-WM &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de \"Gesundheitspolitik\"\" - Google News",
@@ -2514,8 +2380,8 @@
       "type": "News"
     },
     {
-      "title": "Professur für «Gesundheit und Blockchain» (70-100%, open rank) - ZEIT Stellenmarkt",
-      "summary_de": "Professur für «Gesundheit und Blockchain» (70-100%, open rank) &nbsp;&nbsp; ZEIT Stellenmarkt",
+      "title": "Professur für «Gesundheit und Blockchain» (70-100%, open rank) - jobs.zeit.de",
+      "summary_de": "Professur für «Gesundheit und Blockchain» (70-100%, open rank) &nbsp;&nbsp; jobs.zeit.de",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWUFRRUR6RHZZbXBOTk1OZUVEUTE1T2lXZW9fcmJaR3RVZjFuWlRvem5zODQ1QjMzX3pIU2ZUZjBXOV9VMzFXWk96Yzk4WmNPWFVWOVVXc25uazdUVWpuSnFlOGVVLUQ1TEpyT01mZ2M0dFBqWXNNQUo5Q3BtZUFGUEFfa2NxLVM3ejJsakM4dWk4ZVBOUWVfS2xXVnByamFmdWRXUk9MN25mMW1mRWJUVA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-07T07:00:00+00:00",
