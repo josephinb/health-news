@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-08-15T06:23:49.950056+00:00",
+  "generated_at": "2026-08-15T09:18:44.676029+00:00",
   "window_days": 42,
-  "count": 241,
+  "count": 249,
   "items": [
+    {
+      "title": "Nach dem Erdbeben: Wo das Krankenhaus selbst Hilfe braucht - FAZ",
+      "summary_de": "Nach dem Erdbeben: Wo das Krankenhaus selbst Hilfe braucht &nbsp;&nbsp; FAZ",
+      "source_name": "\"site:faz.net medizin\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTktV0VEQTlVX242ZVBKdXQ1TUlHU2ZqbXMweURDQ1o3VjZDaFp1eldBMlZPa1J5QVJWaXU0S0pSeGpSeVVUcUIzeWcxUTdSYVU2bWtuajhnZTB1RDk3VE1KRndoV3ItUjl3em5VM1FwSjBGOE01X0s3ZVhUYW9EV21vR0lYWl9PeTR2LVNOczNMdEcyWmNORGZsc21NbGJ4Q1pWUmZrTlBaM0c3clFTMDFZMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-15T07:57:16+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "PZ Briefing: Die Top-News der Woche",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-der-woche-167599/",
+      "published_at": "2026-08-15T07:00:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Mehr Bewegung im Alltag: Angebote, Coachings und Tipps - DAK-Gesundheit",
+      "summary_de": "Mehr Bewegung im Alltag: Angebote, Coachings und Tipps &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMFhkUWM2MG81VWpNWlpUSUVqdU5mSjVMdTdaQ1Y5UzZsR0VPdDdnTm5kRnYxSmFydTNFS0pTN2F5ZUNsNWF3TXBPUmhLVzdzWUhlV08wU2lfT0pvZzlkcE9ZbUVXNkpDM2MtN3ZtSmJOZV9VWnVCMzJTclhLOHNSakhDMzlSMF94SGV3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-15T01:22:32+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Gesundheit, Ernährung (Lehramt) in Hessen - HeyStudium",
       "summary_de": "Gesundheit, Ernährung (Lehramt) in Hessen &nbsp;&nbsp; HeyStudium",
@@ -51,6 +81,18 @@
       "published_at": "2026-08-14T16:00:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "GKV-Beitragssatzstabilisierungsgesetz: Gefährdung der Versorgung - Deutsches Ärzteblatt",
+      "summary_de": "GKV-Beitragssatzstabilisierungsgesetz: Gefährdung der Versorgung &nbsp;&nbsp; Deutsches Ärzteblatt",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRnZFZzZfOFhVTE1UajdRd0hXNUJScWRIalRBdVFjbmpJQl9aTzN0VnNmem96b0VRRGcwbFVfOVBWV29EZ2JkMUVhVktOam53dGg1MmVCbW4yTHVtR0VhSGJ2dTNxcUtpOXdUdDZnWDh1WUxCaS0wVkFWNTVlMkRlTVY2RXBacnptOEhDbHVtOTFJaXhEZ3Q3R0hvb0x4TDRlNXhnUG1yeThnOFRYbV9HYUdHdzdzcEpZOTVSRjJBbGJRUzJPMDIxUjNCMWFmdm5W?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-14T15:39:21+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung"
+      ],
       "type": "News"
     },
     {
@@ -124,16 +166,6 @@
       "type": "News"
     },
     {
-      "title": "Rechtliche Rahmenbedingungen: Zweigapotheken im Fokus",
-      "summary_de": "Mit der Apothekenreform will der Gesetzgeber insbesondere die Landapotheken st&auml;rken. Eine aus seiner Sicht wirksame Ma&szlig;nahme ist die erleichterte Gr&uuml;ndung von Zweigapotheken. Die Treuhand Hannover beleuchtet die rechtlichen Rahmenbedingungen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/zweigapotheken-im-fokus-167600/",
-      "published_at": "2026-08-14T12:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Charité-Studie: App entlastet Frauen mit metastasiertem Brustkrebs",
       "summary_de": "Frauen mit metastasiertem Brustkrebs profitieren laut einer Studie der Charit&eacute; von einer engmaschigen digitalen Begleitung. Sie litten seltener unter Ersch&ouml;pfung und mussten weniger h&auml;ufig ins Krankenhaus. Der G-BA empfiehlt, das Konzept f&uuml;r alle GKV-Versicherten verf&uuml;gbar zu machen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -143,6 +175,16 @@
       "tags": [
         "Studie"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Rechtliche Rahmenbedingungen: Zweigapotheken im Fokus",
+      "summary_de": "Mit der Apothekenreform will der Gesetzgeber insbesondere die Landapotheken st&auml;rken. Eine aus seiner Sicht wirksame Ma&szlig;nahme ist die erleichterte Gr&uuml;ndung von Zweigapotheken. Die Treuhand Hannover beleuchtet die rechtlichen Rahmenbedingungen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/zweigapotheken-im-fokus-167600/",
+      "published_at": "2026-08-14T12:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
       "type": "News"
     },
     {
@@ -168,20 +210,20 @@
       "type": "Studie"
     },
     {
-      "title": "Ebola: Weitere Provinz im Kongo betroffen",
-      "summary_de": "Im Kongo ist die gef&auml;hrliche Infektionskrankheit Ebola bereits in sechs Provinzen nachgewiesen. Experten f&uuml;rchten: Wenn der Ausbruch nicht gestoppt wird, k&ouml;nnte er sich auch ins Ausland ausbreiten.",
+      "title": "Familie aus dem Gleichgewicht: Geborgen trotz psychisch kranker Eltern",
+      "summary_de": "Wenn ein Elternteil psychisch erkrankt, kann die Situation ein Kind sehr stark belasten. Es kann &Auml;ngste entwickeln oder sich selbst die Schuld daf&uuml;r geben. Experten erl&auml;utern, wie Eltern Warnsignale erkennen und damit umgehen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/weitere-provinz-im-kongo-betroffen-167593/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/geborgen-trotz-psychisch-kranker-eltern-167590/",
       "published_at": "2026-08-14T11:30:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Familie aus dem Gleichgewicht: Geborgen trotz psychisch kranker Eltern",
-      "summary_de": "Wenn ein Elternteil psychisch erkrankt, kann die Situation ein Kind sehr stark belasten. Es kann &Auml;ngste entwickeln oder sich selbst die Schuld daf&uuml;r geben. Experten erl&auml;utern, wie Eltern Warnsignale erkennen und damit umgehen.",
+      "title": "Ebola: Weitere Provinz im Kongo betroffen",
+      "summary_de": "Im Kongo ist die gef&auml;hrliche Infektionskrankheit Ebola bereits in sechs Provinzen nachgewiesen. Experten f&uuml;rchten: Wenn der Ausbruch nicht gestoppt wird, k&ouml;nnte er sich auch ins Ausland ausbreiten.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/geborgen-trotz-psychisch-kranker-eltern-167590/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/weitere-provinz-im-kongo-betroffen-167593/",
       "published_at": "2026-08-14T11:30:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
@@ -370,8 +412,8 @@
       "type": "News"
     },
     {
-      "title": "Ultraschall-Gerät aus Innsbrucker Radiologie gestohlen - Salzburger Nachrichten",
-      "summary_de": "Ultraschall-Gerät aus Innsbrucker Radiologie gestohlen &nbsp;&nbsp; Salzburger Nachrichten",
+      "title": "Ultraschall-Gerät aus Innsbrucker Radiologie gestohlen - sn.at",
+      "summary_de": "Ultraschall-Gerät aus Innsbrucker Radiologie gestohlen &nbsp;&nbsp; sn.at",
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdjZySHN0akdmOUxPdlAzY0t3TDlOYjZDaXBQV2ZabDhrMmp0THFVWDZ6VkZyQzRFRGdnM3J6VlE1UjdWVTBobkVfbjdmUXdYMWttQkE2MGM2ZjZKZUIwUjV0R295RndTdlFoYkhBb25Ga3BMS0t2ck4tU2QtQnBOSXBaVXpXSWs2RHN0RW9LaXR4bWVrZDhkbUdFSjAydmo1a2trNjl6aE8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-13T16:12:00+00:00",
@@ -390,8 +432,8 @@
       "type": "News"
     },
     {
-      "title": "Diebstahl: Ultraschallgerät aus Innsbrucker Klinik gestohlen — Polizei ermittelt - MeinBezirk.at",
-      "summary_de": "Diebstahl: Ultraschallgerät aus Innsbrucker Klinik gestohlen — Polizei ermittelt &nbsp;&nbsp; MeinBezirk.at",
+      "title": "Diebstahl: Ultraschallgerät aus Innsbrucker Klinik gestohlen — Polizei ermittelt - meinbezirk.at",
+      "summary_de": "Diebstahl: Ultraschallgerät aus Innsbrucker Klinik gestohlen — Polizei ermittelt &nbsp;&nbsp; meinbezirk.at",
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcE9oellZVGlqbjg0MXJ1LVpCN2RWT09VaDJrSWk0NThfQnVJc0pldGIycDNwa001ZEFjN0tXc2g3em9IS0l2cDNSRFlQVXVoS3kzaVAxd0czVXA3UTQ0anEybWswUURFN1pma3hWZEFGMGt6am5ncm8yUHNxa3NvOG1qdzl4OFhwbnNGNkUtV2swMWlBeVc4MjlzSkdTc0E4WnFjcFdRSzRrQ0Zka3dDRnJyV0JzMXFjU0tQWVEyNUc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-13T16:05:41+00:00",
@@ -410,8 +452,8 @@
       "type": "News"
     },
     {
-      "title": "Fall an Radiologie - Rätsel an der Klinik um gestohlenes Medizingerät - Kronen Zeitung",
-      "summary_de": "Fall an Radiologie - Rätsel an der Klinik um gestohlenes Medizingerät &nbsp;&nbsp; Kronen Zeitung",
+      "title": "Fall an Radiologie - Rätsel an der Klinik um gestohlenes Medizingerät - krone.at",
+      "summary_de": "Fall an Radiologie - Rätsel an der Klinik um gestohlenes Medizingerät &nbsp;&nbsp; krone.at",
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5HUDExWUdLb0Nfa2d1amJnZzkwUWRKRUtuVXJKSzFLemxla2JuR0I1MlBkWGRHdDNzbkw2d0QyMGJZZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-13T16:00:00+00:00",
@@ -650,16 +692,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/kriterien-fuer-die-erstattung-gesucht-167542/",
       "published_at": "2026-08-13T08:30:00+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "DAC/NRF: Mitmischen auf der Expopharm",
-      "summary_de": "Die gr&ouml;&szlig;te pharmazeutische Fachmesse Europas findet vom 15. bis 17. September 2026 in M&uuml;nchen statt, und nat&uuml;rlich darf DAC/NRF nicht fehlen, ob mit Rezeptur-Rundgang, Workshop oder Vortrag.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/mitmischen-auf-der-expopharm-167464/",
-      "published_at": "2026-08-13T08:00:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -1234,6 +1266,16 @@
       "type": "News"
     },
     {
+      "title": "ADHS: Neudiagnosen bei Kindern steigen um 16 Prozent - DAK-Gesundheit",
+      "summary_de": "ADHS: Neudiagnosen bei Kindern steigen um 16 Prozent &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ21KMk1GTmt5REttZzNmelhzQ1lNRGFuMTJzcXFqcHFTSjVlczFEaUxtbDRHaTZ5b0o0MEM3TExKcURYNU9COGRyUXpxU1AtTUt5QksxYzMtS0EyREdIRnpHOGdWTWcxb0xLUnR1QlhidE9qYVlyeDhBeFNlenAzZ3JYQktKclNrODN6YWZzdDBadG16dkc4VHFOaEtjbmlxenRSWm5sd3k0UXVwSWxQWlVNMUNNenVrWHIycXJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-10T07:30:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Pharmacological treatment for uterine fibroids",
       "summary_de": "Pharmacological treatment for uterine fibroids",
       "source_name": "Cochrane Library RSS feed.",
@@ -1284,8 +1326,8 @@
       "type": "News"
     },
     {
-      "title": "Medizin Jobs in Lünen - RP Stellenmarkt",
-      "summary_de": "Medizin Jobs in Lünen &nbsp;&nbsp; RP Stellenmarkt",
+      "title": "Medizin Jobs in Lünen - jobs.rp-online.de",
+      "summary_de": "Medizin Jobs in Lünen &nbsp;&nbsp; jobs.rp-online.de",
       "source_name": "\"site:rp-online.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NQkVlZTR1RURvWTJOcnNEeWVBRjhxOXJ2ZDZQRXFlTFRmaFRfVVFrbWVjcDkxZVBLSWZXTm5NZnl1WmI0dnVDc2VDa3VNYUF5VDdUZjVvTGs5ZllLR3VoaE9odllJZ0Zp?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-09T19:43:52+00:00",
@@ -1529,6 +1571,16 @@
       "type": "News"
     },
     {
+      "title": "Wofür gibt es Bonuspunkte? - DAK-Gesundheit",
+      "summary_de": "Wofür gibt es Bonuspunkte? &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdFJqeXFXMmhWZzZsRDd6N0doa3lfRkFMNk1wUWpJanpsUGJFV1pObkpKZm4ydHFSVGNvNVFpc2lkY2I2TWRhTEhuZ0VNRVpEZjJxMzNFWnprMEFHOGdXNWJXdDgtaXRhYmFCSmpOVldpYlJoRjhlMFowQzAxazZQMjN3X05EcjhZaGtxRmY4Q05kNzFBbDM5YUs0bDdMUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-04T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Podiatry for preventing falls in older people in the community",
       "summary_de": "Podiatry for preventing falls in older people in the community",
       "source_name": "Cochrane Library RSS feed.",
@@ -1691,8 +1743,8 @@
       "type": "News"
     },
     {
-      "title": "Auszeichnungen für DAK-Gesundheit - dak.de",
-      "summary_de": "Auszeichnungen für DAK-Gesundheit &nbsp;&nbsp; dak.de",
+      "title": "Auszeichnungen für DAK-Gesundheit - DAK-Gesundheit",
+      "summary_de": "Auszeichnungen für DAK-Gesundheit &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FN21Fb0I4bFVCZEowbi1RMzlWSDBHWGJkeG5DZnc5SlpkOUtHTnBHb0YzVVJfcmFRdVpnS1d0VjlrYUhWczVHMHJtSGdWTVhpaWRQRWFGUWhLS1ppMWNXa3ctODRFLVczb29ULUVQVHR6em8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-30T07:00:00+00:00",
@@ -1737,6 +1789,16 @@
       "summary_de": "Impressum &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55VlNIMURWd21UU185bm1nS0loTzl2NDJmc2ktYnh6UDcxMkl0MTJfV2pTcDN6WkNvcW9FZlhMQ0hudnNORUNJSTVMaWJWQ3RJTGZjcDZPMmg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-29T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Wie melde ich mich für das Bonusprogramm AktivBonus an? - DAK-Gesundheit",
+      "summary_de": "Wie melde ich mich für das Bonusprogramm AktivBonus an? &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORUQ1SGp4Vzd5bktxckFSblhUbXA5bTZsS2U2OVl3TXJhWDdwSDljZ01WOTZWTHo1aDlVSzZxS0ZfNXEyN1JBTzROUXlLQl95VUVfYkRmX1dkZkM3Z2I0S014U1p4cnctSERNX3FXeFEtSnp4UElIVkVyR3R2YWxUNUpjY0FMTC1TS016YzBWZ25WeklEc2FRdW5RSVl0ZWQ4cHppSXFBeGY4VXdlTDM0YVlNTTlpQTZHcU9TT0YtNjJKNjF1?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-29T07:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -2005,6 +2067,16 @@
       "source_url": "https://www.efsa.europa.eu/en/news/efsa-lowers-safe-level-exposure-tfa",
       "published_at": "2026-07-22T09:08:45+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Kann ich Beiträge bei der DAK sparen? - DAK-Gesundheit",
+      "summary_de": "Kann ich Beiträge bei der DAK sparen? &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeWpQTXh4QUZub19ubHlVeWRXRUM1Y0dYNU50eHdHbjROY3JMN2RWZ28tQnZ1X0dZZlk4QmpDdXEtS3ZMZG9xQmNoMldtYURVZkRVaGtGbEJGcHdPQVdKMUZpb1BBbU1EZEtlb3RRdVJLMDJMVHhEWmJKN2oyaU9ENy1HY0p6UFBKRkZBemJFSDE5OTI0QTRYSXNnMVFBLXZ0dGFPTHNhelByc25tVjdFcjBaMHlVd0l3ZTRDOXRiQzJxNHdyYzQ4OWwzcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-22T07:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2406,6 +2478,16 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-nhs-productivity-growth-estimates/march-2026",
       "published_at": "2026-07-07T11:17:29+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "TK-Ärzteführer - Techniker Krankenkasse",
+      "summary_de": "TK-Ärzteführer &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYmtvVElOR3MwVVlHZl9pQnpPOVUxRVpSUWM3LTMzY0hIVHlrWjdhS05kMFYzdUpVUzZXRXBrbWVPVVdhZkpxZ2VnSUlXZDRzVkVWQWVORTBUTlFfT3VNVVI5MXhpOElkMjlHSjNQTUU3VU82a2Z3cUJfSUtkQkRQS3diNVVrQlR3UlU1NUY2d1RmQUxOVXJVd19ZYk1DZzVWQnJ1OU14WUI5SGh3U3RqdkxSMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-07T11:01:03+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
