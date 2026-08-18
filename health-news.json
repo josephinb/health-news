@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-08-18T15:23:13.735696+00:00",
+  "generated_at": "2026-08-18T18:26:14.146617+00:00",
   "window_days": 42,
-  "count": 229,
+  "count": 240,
   "items": [
     {
-      "title": "Walfund: Buckelwal vermutlich an bakterieller Infektion verendet - DIE ZEIT",
-      "summary_de": "Walfund: Buckelwal vermutlich an bakterieller Infektion verendet &nbsp;&nbsp; DIE ZEIT",
+      "title": "Bankverbindung - DAK-Gesundheit",
+      "summary_de": "Bankverbindung &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nczlJdXJNX3ZvTk1OdnZ1V25ab0VkRmU2MnpVUEhtX1IxU1ZxX28tSUY5VUV3S1hYSmp5RFRqVldrZFY4Y2lnOWtzUDR4RW1JS3pHNm1ZWm5Bd25haVlaeFptaXZMUlIxV3BsVjE5YkpwU2hH?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-18T18:25:05+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Alterspsychologie: Humor – je schwärzer, desto besser",
+      "summary_de": "Im h&ouml;heren Lebensalter wirkt Humor als Emotionsregulator, st&auml;rkt Beziehungen und kann Indikator f&uuml;r subjektives Wohlbefinden sein &ndash; selbst dann, wenn Einsamkeit, k&ouml;rperliche Einschr&auml;nkungen oder &Auml;ngste das Lachen erschweren.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/humor-je-schwaerzer-desto-besser-167519/",
+      "published_at": "2026-08-18T16:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Höhere Zusatzbeiträge: Kassen dürfen heimlich teurer werden",
+      "summary_de": "Im Zuge des GKV-Beitragssatzstabilisierungsgesetzes entf&auml;llt f&uuml;r Krankenkassen die Informationspflicht bei Erh&ouml;hung der Zusatzbeitr&auml;ge: Sie m&uuml;ssen dies nicht mehr schriftlich mitteilen. Was Versicherte jetzt beachten sollten.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/kassen-duerfen-heimlich-teurer-werden-167679/",
+      "published_at": "2026-08-18T15:10:12+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Walfund: Buckelwal vermutlich an bakterieller Infektion verendet - zeit.de",
+      "summary_de": "Walfund: Buckelwal vermutlich an bakterieller Infektion verendet &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZjhWb29nR21YQlNkYndCcFpJUG04ZTJjSGVkTUd5OTZzdW52cmlVWWVmYkJzaWxrZDRDUnd3OUU5alYybi1IVXA5OUg2ZnRlZ2tLbHFSVnpzeHltZngtOE5PRWprcnNWZVZuX0FiSkpKQ2liaFNORnFJeVU4VXJsZ0RlZ0JmcjlhM0F3V3FvQ1d1R1lpVGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-18T15:08:32+00:00",
@@ -14,8 +44,18 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Bereits mehr als 5.000 Ebola-Fälle im Kongo - DIE ZEIT",
-      "summary_de": "Gesundheit: Bereits mehr als 5.000 Ebola-Fälle im Kongo &nbsp;&nbsp; DIE ZEIT",
+      "title": "Pflegeneuordnungsgesetz: Pflegeleistung vor Prävention?",
+      "summary_de": "Das Pflegeneuordnungsgesetz (PNOG) befindet sich aktuell im laufenden Verfahren. Ein wesentlicher Punkt ist die Aufhebung des zweckgebundenen Sachleistungsanspruchs und dessen Transfer in das neue Entlastungsbudget. Was dies f&uuml;r Angeh&ouml;rige und Apotheken bedeutet, erkl&auml;rt Daniela Piossek vom Gesundheitskonzern Hartmann.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/pflegeleistung-vor-praevention-167678/",
+      "published_at": "2026-08-18T15:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit: Bereits mehr als 5.000 Ebola-Fälle im Kongo - zeit.de",
+      "summary_de": "Gesundheit: Bereits mehr als 5.000 Ebola-Fälle im Kongo &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbmFDaUJEWlEyMWVleDkza1NsaHo2Q1FZdTRmTzE2R2JFUnJYM0x3V2paajJDQkw3RldEMm5pSFFnRHRXazU5Slh4ODZmV09ZcDFaNHJ6YkV1VmZnaF9GaVktZDJWV010TE9VZl9EMkttb1NpenpjQmVlaXdUN1k2SEoxMFNHMzA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-18T14:25:01+00:00",
@@ -24,11 +64,11 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit - Bereits mehr als 5.000 Ebola-Fälle im Kongo - Gesundheit - sueddeutsche.de",
-      "summary_de": "Gesundheit - Bereits mehr als 5.000 Ebola-Fälle im Kongo - Gesundheit &nbsp;&nbsp; sueddeutsche.de",
+      "title": "Gesundheit - Bereits mehr als 5.000 Ebola-Fälle im Kongo - Gesundheit - SZ.de",
+      "summary_de": "Gesundheit - Bereits mehr als 5.000 Ebola-Fälle im Kongo - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeERpa1EzWE5qTFd0ckt5OEx5MHZINlRzeXlkcVpheFoydTVhMHZUclVkNTZMTmVUX3JOdDVPTmVXSU1ZR2F6a1prSUlTSU9NZ3B3WWoxSzhvV295eHZXRGtKT1R6cl9wVjYwbHJOUkJBMjltOUJUZG5kdFdSZWhYVTRPeTBsbVZNaTNOZmFwaThFTFJNdEw5QlVadU03TFhpbWJBVXhqVEtYWTVSWmZKYk5PNVZ0aUxaUzNkTWVYeFhId051bVBva2UxY05fLVpIZWk5ZnpxYTdHdGZO?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-18T14:24:54+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONzlMeXVTNlVKaS14QTQtWHh5MkFoTGo1dkRnemRyTWh3aUxrUnNicUZkZ0s1NlJtSmdSN3JvOHEzSTdIeW5TOXlUM2czakx3dWZDSlhJTVItTUdoRGRvRmF6RXo4bFNaaUNad1piRVZkajFkbWs5c1VSTS1MZm16NkFzUTFRajE3VTJ4LWtOYVB5NjF3TXd3X21QN1NHMHlJWmdrMHpSa01nN2I5VDQwSHlDejNUckRLNHZDc3owY2RrUHpPaW8tbWlFTVFtbk9HdHhzOVowSHdPUkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-18T14:25:01+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -84,8 +124,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Weniger Impfungen bei US-Vorschulkindern gemeldet - DIE ZEIT",
-      "summary_de": "Gesundheit: Weniger Impfungen bei US-Vorschulkindern gemeldet &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit: Weniger Impfungen bei US-Vorschulkindern gemeldet - zeit.de",
+      "summary_de": "Gesundheit: Weniger Impfungen bei US-Vorschulkindern gemeldet &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWi1vbFF4STN5T1F3ZXZKenRjMmdIcFFmNHJLOUNCRWZkOUpFNFhkSlptenBkZGoxc3dWbVFXVEpfY180Q0ZnanFDbU5Ja2RJbFZ4c3U4ZXU1c2loY2lVS1V1WTY5aHZ0UlFPTERfNVQtR2hDcUNCQkt0Z0dDSFItZlZ2b1JHVF9GdXFicktB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-18T12:47:25+00:00",
@@ -94,8 +134,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit - Weniger Impfungen bei US-Vorschulkindern gemeldet - Gesellschaft - sueddeutsche.de",
-      "summary_de": "Gesundheit - Weniger Impfungen bei US-Vorschulkindern gemeldet - Gesellschaft &nbsp;&nbsp; sueddeutsche.de",
+      "title": "Gesundheit - Weniger Impfungen bei US-Vorschulkindern gemeldet - Gesellschaft - SZ.de",
+      "summary_de": "Gesundheit - Weniger Impfungen bei US-Vorschulkindern gemeldet - Gesellschaft &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNc3VRTHhsM29YRjhpbmJQUjJMcFRXYVJocGt2SDhDbkdCeDVuUHRVRUpuelk3dlhFalN4b0xmR2dpbGpLOU0xVUZrZG5BY0xlc3N1U0dvUDNhb3pRR3l0Zm5yQ2hnZXBwWDlhd2h5OEkxRWlFVkRGLVdsTlpMUWZVZVVtbV84ZkludU85ZndUYmlOSWFzVTJVN2VtQ1M3YmZ1V0Z6dHhmWkZSUGhsaTU5LVN3S0ktdWR1VVRuQnhsYXN4SFlsN19fdXZJTkIyQkloRGtZOWR0TXlYZ21a?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-18T12:47:25+00:00",
@@ -120,6 +160,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/neues-geheimdienstgesetz-bedroht-patientengeheimnis-167671/",
       "published_at": "2026-08-18T12:30:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "KI-Konferenz in Bremen legt Fokus auf Gesundheit (Meldung) | SZ Dossier - SZ.de",
+      "summary_de": "KI-Konferenz in Bremen legt Fokus auf Gesundheit (Meldung) | SZ Dossier &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM3BjajRHbEp1dE04cERwVmFFM0ZYbm1ZeldhVEVpNC0zQ0xRSHplTDB1Nk94QUVkdHprWE5mYlhEbjd1aGNXUVpRVkpvOFV2S0xRV0M2cTJ3UjJJeld5aEFkQlFYWnFEZE56NlYya0U5MGZFSk5TZXo0akhiLXlaRXVCVTFOckM5czJPV0x2aVN1dDJMenRyVDIxM0NkeUpKNTczNkp3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-18T11:54:20+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -154,8 +204,8 @@
       "type": "News"
     },
     {
-      "title": "Ebola-Ausbruch - Deutschland stockt Ebola-Hilfe für Kongo auf - Gesundheit - sueddeutsche.de",
-      "summary_de": "Ebola-Ausbruch - Deutschland stockt Ebola-Hilfe für Kongo auf - Gesundheit &nbsp;&nbsp; sueddeutsche.de",
+      "title": "Ebola-Ausbruch - Deutschland stockt Ebola-Hilfe für Kongo auf - Gesundheit - SZ.de",
+      "summary_de": "Ebola-Ausbruch - Deutschland stockt Ebola-Hilfe für Kongo auf - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMFJMWVl4YU5JVWZKai11a3UycFRTREItZjMzZEg3Vnk2YTk4d3dYRnNvS2htczRpUXQ1OXV3WjZWaEZqSTJROUJ4aHpueElxYkg2ek4zdmtiOHQ2Q0FPSU1Qek9faEMwNll6R3JhMjIwcERzWElnUE1mT0xmSVdJVGNRd1NfWU9JNTl5aEJRNVNEVzJWWHBmZU9pT2RkdVUzM29TbzRBZ0VTS1c2V19JdTJGX01tNHozZXJXMjZhUDVfMlcxUWhMQW9qbGcycm1DVi03ODY3Y29QT0dsUlJSMFFiVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-18T10:34:55+00:00",
@@ -354,6 +404,16 @@
       "type": "News"
     },
     {
+      "title": "Radiation-related cancer mortality higher for U.S. flight crew",
+      "summary_de": "Results point to prolonged exposure to cosmic radiation at commercial flight attitudes.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15832601/radiationrelated-cancer-mortality-higher-for-us-flight-crew",
+      "published_at": "2026-08-17T15:18:47+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Decision: Suspended and revoked licences and registrations for manufacturers and wholesalers of medicines and ingredients",
       "summary_de": "Public list of companies in the UK who have had their licence/registration to manufacture or wholesale medicines/ingredients revoked or suspended.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -434,8 +494,8 @@
       "type": "News"
     },
     {
-      "title": "Rasanter Anstieg - Ebola-Ausbruch ist tödlichster in der Geschichte des Kongo - Gesundheit - sueddeutsche.de",
-      "summary_de": "Rasanter Anstieg - Ebola-Ausbruch ist tödlichster in der Geschichte des Kongo - Gesundheit &nbsp;&nbsp; sueddeutsche.de",
+      "title": "Rasanter Anstieg - Ebola-Ausbruch ist tödlichster in der Geschichte des Kongo - Gesundheit - SZ.de",
+      "summary_de": "Rasanter Anstieg - Ebola-Ausbruch ist tödlichster in der Geschichte des Kongo - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQTFEV3ozSkVOWW91SkkxSGNPeWQ2dVdMSE5TUGZSeVZadFNQSDE3b2lsdmwweGdUSW1UWmVKM2Fadm1vaHMwM0tVeFNRLXZ3Qm5sbWc3em9aenZ0ako3WEp4ZWt0aTZLNGxzejlMaE1uSXBuRjVVSlgyTy1HYkhKOWxvdmwzUUl2dzJ5cGFIOTZSZWFELWtpTkNzQWloWHVfTGoyLUFhZlFuQmFQekRGYnpFZlBXMkdneFNmVmR5QnFXckNxcXJubHhsSUtDR0h6bl93Z2I5ODdMUWFMOFB4eVFnRWRWamNReExGV3dhdnY1akZGc2U4Rg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-17T10:36:29+00:00",
@@ -454,8 +514,8 @@
       "type": "News"
     },
     {
-      "title": "W2-Professur \"Business Development und Innovation\" - Hochschule Aalen - Technik, Wirtschaft und Gesundheit - ZEIT Stellenmarkt",
-      "summary_de": "W2-Professur \"Business Development und Innovation\" - Hochschule Aalen - Technik, Wirtschaft und Gesundheit &nbsp;&nbsp; ZEIT Stellenmarkt",
+      "title": "W2-Professur \"Business Development und Innovation\" - Hochschule Aalen - Technik, Wirtschaft und Gesundheit - jobs.zeit.de",
+      "summary_de": "W2-Professur \"Business Development und Innovation\" - Hochschule Aalen - Technik, Wirtschaft und Gesundheit &nbsp;&nbsp; jobs.zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUXVKMnhTa1Y0S0tqQWwtb2FkZHRDMjMwOTAtYlZBOUVYc1RzbEdEMGNwaDJQRXN5YzEtSzBJY2dSSkk1STdhdVVXbFJ2Y1JpN3VTNkpVOE1uUXlkcklGcUdNWnlGNmh2YndWNUdpWlVsZTBZdGJXN3RhOGwwRUpSa3VUcmtoWkhrN0lWVkxNQ1VvTUVISEdwbWZhQ015QnpUSkwtYUNkT2VLejg1dlF6aHYya0pWT25fd0dXMS1ldHBrV0YyU2VGWlFaNkFDMTNjaU9icV9R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-17T09:11:13+00:00",
@@ -470,6 +530,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/branche-fordert-ressortuebergreifendes-handeln-167617/",
       "published_at": "2026-08-17T09:00:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "CT for breast radiotherapy detects ischemic heart disease risk",
+      "summary_de": "As survival after early-stage breast cancer improves, cardiovascular disease has emerged as an increasingly prominent competing...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15832683/ct-for-breast-radiotherapy-detects-ischemic-heart-disease-risk",
+      "published_at": "2026-08-17T08:50:38+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -504,6 +574,16 @@
       "type": "News"
     },
     {
+      "title": "MWA may have long-term benefits for renal cell cancer patients",
+      "summary_de": "MWA with CT or CEUS guidance leads to \"excellent\" 10-year survival rates and with minimal complications.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/interventional/article/15832676/mwa-may-have-longterm-benefits-for-renal-cell-cancer-patients",
+      "published_at": "2026-08-17T07:59:01+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Arzneimitteladhärenz bei Kindern : Fruchtaromen für die Zwerge",
       "summary_de": "In fl&uuml;ssigen Arzneiformen zum Einnehmen finden sich meist S&uuml;&szlig;ungsmittel und Geschmackskorrigenzien &ndash; und das nicht ohne Grund, denn viele Wirkstoffe haben einen nicht sehr angenehmen Geschmack. Gerade Kinder sind diesbez&uuml;glich empfindlich. Was f&uuml;r die Rezeptur zu beachten ist.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -514,8 +594,8 @@
       "type": "News"
     },
     {
-      "title": "W2- / W3-Professur für Smart Imaging und Data Profiling (Tenure Track; Open Rank) - ZEIT Stellenmarkt",
-      "summary_de": "W2- / W3-Professur für Smart Imaging und Data Profiling (Tenure Track; Open Rank) &nbsp;&nbsp; ZEIT Stellenmarkt",
+      "title": "W2- / W3-Professur für Smart Imaging und Data Profiling (Tenure Track; Open Rank) - jobs.zeit.de",
+      "summary_de": "W2- / W3-Professur für Smart Imaging und Data Profiling (Tenure Track; Open Rank) &nbsp;&nbsp; jobs.zeit.de",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOOU9TdlJaOUhOZ0F2cUx1QXFCdWV1RFVVQzVvTUp1ZFpnUWtHQTBCZjBpZldMdExtcVdLU1BQSG0xQWR5T1VjRkdtNjlBUXRsSlNNTFROYjBSRXlfdGhiTGN1RGR6NWFxOERjdGtJQVdMVWxDcXVzajJlVXowWlpXNmhXQjl4QjM3UERMUUhYNlZJdjBJVnltUnY3TVZ5QklwZE9RakFwT193UFpRb0hwTkhOWkxBcXQzYW9KdlFIbjdpQjRjb19lbjZweUZMdzFrVW9pUU1GOGZpdE4xX19xVGMtazh6by1EVnBPQnRIOGNFQWNSSy1tNGt3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-17T06:57:11+00:00",
@@ -534,8 +614,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: AOK: Gesündere Zähne bei Kindern in Mecklenburg-Vorpommern - DIE ZEIT",
-      "summary_de": "Gesundheit: AOK: Gesündere Zähne bei Kindern in Mecklenburg-Vorpommern &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit: AOK: Gesündere Zähne bei Kindern in Mecklenburg-Vorpommern - zeit.de",
+      "summary_de": "Gesundheit: AOK: Gesündere Zähne bei Kindern in Mecklenburg-Vorpommern &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYWVMVXZGWUVndUZ6dmc1bFltSGY3VGtnSHdjUlVtVjV2X21pOE1GZTFFRVdSWmxGak9tQ1ZJZ1hLV0tyNC1feUhZMnJsVUhqS3F3RG84cVhySEtFM2lZVnBwUE1vN3BXdzFNWmk1dXJNWElEdXNWWWk3WUlpSjJSdFpaQmRnZ0Y4VHRjdUhmamIxaTZOMEl1ajh4bw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-17T03:31:04+00:00",
@@ -544,8 +624,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Gibt es Klimaanlagen in Hamburger Kliniken und Heimen? - DIE ZEIT",
-      "summary_de": "Gesundheit: Gibt es Klimaanlagen in Hamburger Kliniken und Heimen? &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit: Gibt es Klimaanlagen in Hamburger Kliniken und Heimen? - zeit.de",
+      "summary_de": "Gesundheit: Gibt es Klimaanlagen in Hamburger Kliniken und Heimen? &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMUFQWVlXYkZpc3FXMDVDMTQwb3BfRGdnSENpTWJwd19OWkhhRnd6amJwQm5HbXZBYzM3NkNLd3pKaDFpdURCWVlpcW02N0FqdTV3WWxEU2p5dHQxVG1tLWNLV0hyMVJsN1M5U1pRSzRXak9nQ19ON3ktRnhtcEdScWI5YnBuZ2RBT2JNTEx3VTdtaEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-17T03:00:12+00:00",
@@ -554,8 +634,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit - Gibt es Klimaanlagen in Hamburger Kliniken und Heimen? - Gesundheit - sueddeutsche.de",
-      "summary_de": "Gesundheit - Gibt es Klimaanlagen in Hamburger Kliniken und Heimen? - Gesundheit &nbsp;&nbsp; sueddeutsche.de",
+      "title": "Gesundheit - Gibt es Klimaanlagen in Hamburger Kliniken und Heimen? - Gesundheit - SZ.de",
+      "summary_de": "Gesundheit - Gibt es Klimaanlagen in Hamburger Kliniken und Heimen? - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV29EdEFYcXduT2ZnSzdMdF9qY2tsczl3ZHFtZmxOUG9SM1VPa1h1SDcyeTh1alJvOFZnN1J2VzJ5SU1RUFFLeEY1OVhiRS0ydVk0cEt0dnBkUXpTaVBERkpCRnFwd3B1VFE4cmVIZjV4Zy1iX0lzc3ExT0Z3dWlTWm9kQ0FNMUV2cnEyOUJiNmhvSWFrczcyS3ZTWXpMSXNteVkyLXd3RG55bExkUzhCTFgzc0ZJWHYxVWdTdTBOY2lnS1YtWnp0V1gwZ0EtQnZqdG5STFByRzRMTktwWGFaaVBSZGJBalVU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-17T03:00:12+00:00",
@@ -564,8 +644,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitswesen: Gesundheit: Linke wollen Initiative gegen mehr Zuzahlungen - DIE ZEIT",
-      "summary_de": "Gesundheitswesen: Gesundheit: Linke wollen Initiative gegen mehr Zuzahlungen &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheitswesen: Gesundheit: Linke wollen Initiative gegen mehr Zuzahlungen - zeit.de",
+      "summary_de": "Gesundheitswesen: Gesundheit: Linke wollen Initiative gegen mehr Zuzahlungen &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV0JLN0pMbVdyRkZVTGRlR2E0YWVzTEZmUnRwZ0JJN0JTRFNTcUhrN05uZmNKeW5MVXdTemJJSDR0azNXQmdSaUNiTXlUczNzZUw0Zkl6TXBzdHhZRXd4Mzd0UE90TE1tUFJ2OHJ5Tm5iSVBNQ1JnLWdGT1pUTXBBWkJZTTI0V1lCUTRoclJkY1hDTWxpQng5eg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-17T03:00:11+00:00",
@@ -574,8 +654,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitswesen - Gesundheit: Linke wollen Initiative gegen mehr Zuzahlungen - Gesundheit - sueddeutsche.de",
-      "summary_de": "Gesundheitswesen - Gesundheit: Linke wollen Initiative gegen mehr Zuzahlungen - Gesundheit &nbsp;&nbsp; sueddeutsche.de",
+      "title": "Gesundheitswesen - Gesundheit: Linke wollen Initiative gegen mehr Zuzahlungen - Gesundheit - SZ.de",
+      "summary_de": "Gesundheitswesen - Gesundheit: Linke wollen Initiative gegen mehr Zuzahlungen - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMGl3MGdmalJHVTdOMmpVOVZFUVJ5NC1BeGZMQ2ZPNFNHRUdpT1F2MUU3cWlYbktFdHl5a3VBSDh5LURpNU9waU9Bc3psRXd0Z3VCdFNfV2tRcXBERi1mTkhmbW1nYUpxamc5ZnAwRGJtd1ljWTU5X0hqcW1kdGtDUk1WQkJTT1FFVVFaS19aV19SYkpuSzJGQnhGdlNNekZDdUNlUUlBc3FkakxpM3lnTXROZkg0a1g2SngtcVltM2JQSUhPVV9qWk1LTDFDdmFoYzRBbnQxVkRyMGxLbzB1cXE1QjBUWWJiOXZHTnNHUnhFbTBlSGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-17T03:00:11+00:00",
@@ -594,8 +674,8 @@
       "type": "Studie"
     },
     {
-      "title": "Digitalisierung und Robotik - Sachsen will von Südkoreas Gesundheitswesen lernen - Gesundheit - sueddeutsche.de",
-      "summary_de": "Digitalisierung und Robotik - Sachsen will von Südkoreas Gesundheitswesen lernen - Gesundheit &nbsp;&nbsp; sueddeutsche.de",
+      "title": "Digitalisierung und Robotik - Sachsen will von Südkoreas Gesundheitswesen lernen - Gesundheit - SZ.de",
+      "summary_de": "Digitalisierung und Robotik - Sachsen will von Südkoreas Gesundheitswesen lernen - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeVF2M3o0eS1wUHkyblMwbFhieWpwd0JSbFNPTEpvTUtWSm1wZ09zcUZJcTBYekY4QjF6RHRSdU5teEFodjJaeHJvcFVwZ1VRY3FPajBVeHdLREhNU2dEUXVnTEIwSXBQc3llYnY1R2xWV2Jia09vbVg3M3owN2dSalRYeDVhNWV6RHR2MDJQNXQ3NGF0RzMtMmxLRW5Vb2JBUE1Zd3ByazhPMml5ZDJzSUItNlozZ1ZOMzNBREM3OUQwdFcyc25fd3BTVTZ6eE43clJqYklhTllWekFVWkh3WEJmMnBoNzJkZG4zSElyc0N5TmRSdzlEdVpObFY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-16T09:46:55+00:00",
@@ -614,8 +694,8 @@
       "type": "News"
     },
     {
-      "title": "Gefährliche Krankheit - Zahl der Masernfälle in Bayern deutlich gesunken - Bayern - sueddeutsche.de",
-      "summary_de": "Gefährliche Krankheit - Zahl der Masernfälle in Bayern deutlich gesunken - Bayern &nbsp;&nbsp; sueddeutsche.de",
+      "title": "Gefährliche Krankheit - Zahl der Masernfälle in Bayern deutlich gesunken - Bayern - SZ.de",
+      "summary_de": "Gefährliche Krankheit - Zahl der Masernfälle in Bayern deutlich gesunken - Bayern &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS3hQVEJqVG9ocl9KeWZLdHFhY2plcDNXbDdZVXp2QXJ6ME5sRTN0Vzl3YlF0aW5oazJvM1o0YjRYTlFKallfMFY3MDJIU25nYlNDZzlHcElXZlc0eHRiQnNmZG9xcXFoVE5uVmJ1aTVURmVpU09Ha0NiOVN6aXdfRXR3VDd1OV83RXZENE8ydndmOGJsbENEOWJBd2FBUEZJc0c4Z190dEx3M3VwNllUd3JPRElhNFhqVUFxQUZYZTdIVWU4d2VjTXd2eUZ0MTNtaTNqY2Fjcjg0eFZaYUZNZl9nUzdka3dfNmc3Vkt3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-16T03:00:15+00:00",
@@ -624,8 +704,8 @@
       "type": "News"
     },
     {
-      "title": "Krankheit des Alters - AOK Bayern: Risiko für Demenz nimmt ab - Zahl der Kranken zu - Bayern - sueddeutsche.de",
-      "summary_de": "Krankheit des Alters - AOK Bayern: Risiko für Demenz nimmt ab - Zahl der Kranken zu - Bayern &nbsp;&nbsp; sueddeutsche.de",
+      "title": "Krankheit des Alters - AOK Bayern: Risiko für Demenz nimmt ab - Zahl der Kranken zu - Bayern - SZ.de",
+      "summary_de": "Krankheit des Alters - AOK Bayern: Risiko für Demenz nimmt ab - Zahl der Kranken zu - Bayern &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeURIWGRHTldDaXB1SGI4XzBPUFlXWnBlZjUyMzdCTUVzR21tcU5adGprVUdaUGZXa01oc0Z3eEtTRzBUVjZzVGowNERub0doVHFEVkRWbVlLUlpWV2t0Znd1S3dFQjRxeHE1NGdwaTBpSFFaVURRaXFaTU1DT0x0cFZHX0FudUNzeDJtTVFfZG40VGdMTkdqMU03c09GN3R4NVVsV1RYLS02UEhqbWxzT1hEclFZYlh6aXREeldfWERwc3lIRHdBUnBtSlo3QU0xcTRkbE5kSnpiZVpMS2gxeGtQRFZZXzdLNmNpbzl4cEhjemZTb1RF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-16T03:00:05+00:00",
@@ -634,20 +714,10 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Erhöhte Ozonbelastung in Teilen Hessens - DIE ZEIT",
-      "summary_de": "Gesundheit: Erhöhte Ozonbelastung in Teilen Hessens &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit: Erhöhte Ozonbelastung in Teilen Hessens - zeit.de",
+      "summary_de": "Gesundheit: Erhöhte Ozonbelastung in Teilen Hessens &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZnQyZkZpcVZwVWhwU29JUEJlQV9rYnFVVTFIRl9idkpZUkJaYWNGakg0MEdwU3RPM21xVEpoQTNpM2psT1pNbnRTZ1gyYWtVV0VWSlc3ZE5NZExlalQweEpwQkloNkxIeXdhX3V4N3hGOHEyNkF1cXVTZWtoVEQyMzl3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-15T13:04:51+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit - Erhöhte Ozonbelastung in Teilen Hessens - Panorama - sueddeutsche.de",
-      "summary_de": "Gesundheit - Erhöhte Ozonbelastung in Teilen Hessens - Panorama &nbsp;&nbsp; sueddeutsche.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdkVid1ZpaFlKUDBvWEttWGIteEZSY3RpNlVmLUNNQmtYVHhGMGVYMU0zWDBVa0UyZXNKVVdVX2dpNVJXbW5BTV83QmxyTnM2R3pQa2lNdHZmNUk1c2hVRjN3MFotdHlJWTRrSWRVVHdXUktkdDEycWNjWkhySTJkZk1XRHZ3TEk3X3RRTDJobERESzhSbUY2S21CQUZMNmR3ckMtODNZOWw3dXo3ejBRV1c5M0laOU1VUUN3anRENFhEaGNCVWRuX2MwOFo1X0J5OXhRcQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-15T13:04:51+00:00",
       "category": "News",
       "tags": [],
@@ -714,36 +784,6 @@
       "type": "News"
     },
     {
-      "title": "EU und BPI: »Umweltverträglichkeitsprüfung 2.0«",
-      "summary_de": "Um pharmazeutische Unternehmen auf das im Herbst in Kraft tretende EU-Pharma-Package vorzubereiten, bietet der&nbsp;Bundesverband der Pharmazeutischen Industrie (BPI) Unterst&uuml;tzung. Insbesondere die Umweltvertr&auml;glichkeit verschiedener Arzneimittel r&uuml;ckt ins Zentrum. Mit dem &raquo;ERA-Pooling-Project&laquo; sollen Doppelstudien vermieden werden.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/umweltvertraeglichkeitspruefung-20-167606/",
-      "published_at": "2026-08-14T15:00:00+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Bundesinitiative: Mehr als 200 Abgeordnete für neue Organspende-Regeln",
-      "summary_de": "Eine fraktions&uuml;bergreifende Gruppe von 245 Bundestagsabgeordneten will die Organspende in Deutschland neu regeln. Erwachsene sollen k&uuml;nftig automatisch als Organspender gelten, sofern sie zu Lebzeiten nicht widersprochen haben.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/mehr-als-200-abgeordnete-fuer-neue-organspende-regeln-167608/",
-      "published_at": "2026-08-14T14:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Herzinsuffizienz: Bessere Herzfunktion, weniger Klinikaufenthalte dank Polypille",
-      "summary_de": "Eine t&auml;gliche Polypille k&ouml;nnte die leitliniengerechte Therapie bei Herzinsuffizienz mit reduzierter Ejektionsfraktion vereinfachen. In einer Studie verbesserte sie die Herzfunktion, und es gab weniger Hospitalisierungen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/bessere-herzfunktion-weniger-klinikaufenthalte-dank-polypille-167595/",
-      "published_at": "2026-08-14T14:20:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
       "title": "GKV-Beitragsstabilisierungsgesetz: Vielfältige Auswirkungen - Deutsches Ärzteblatt",
       "summary_de": "GKV-Beitragsstabilisierungsgesetz: Vielfältige Auswirkungen &nbsp;&nbsp; Deutsches Ärzteblatt",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
@@ -786,8 +826,20 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Mehr als 200 Abgeordnete für neue Organspende-Regeln - DIE ZEIT",
-      "summary_de": "Gesundheit: Mehr als 200 Abgeordnete für neue Organspende-Regeln &nbsp;&nbsp; DIE ZEIT",
+      "title": "Week in Review: CT lung cancer screening uptake | California MRI accident | BACs and heart disease risk",
+      "summary_de": "An initiative to improve annual lung cancer screening rates and a new MRI safety podcast episode generated the most interest among...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15832580/week-in-review-ct-lung-cancer-screening-uptake-california-mri-accident-bacs-and-heart-disease-risk",
+      "published_at": "2026-08-14T09:05:00+00:00",
+      "category": "Studie",
+      "tags": [
+        "Radiologie"
+      ],
+      "type": "Studie"
+    },
+    {
+      "title": "Gesundheit: Mehr als 200 Abgeordnete für neue Organspende-Regeln - zeit.de",
+      "summary_de": "Gesundheit: Mehr als 200 Abgeordnete für neue Organspende-Regeln &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTVFzLWN1bnFwTmlWQVFHa3Z1TmRfaUpFVWpsVVJERHhMdnBwa25kYmZacXRXWGJheWxQM3ZtX0lDMTJjYWhNU1JkaVNSRkVuUnJhaE9MVHF4QUQ2X1dSUnhNdFlXZGNlMFM0MGFiQjlyTlUxZkJDYlA4QzhkQ2F1SVFETE5VU3M4R2s3b29xQ0Y0eWs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-14T08:43:06+00:00",
@@ -796,8 +848,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit - Mehr als 200 Abgeordnete für neue Organspende-Regeln - Gesundheit - sueddeutsche.de",
-      "summary_de": "Gesundheit - Mehr als 200 Abgeordnete für neue Organspende-Regeln - Gesundheit &nbsp;&nbsp; sueddeutsche.de",
+      "title": "Gesundheit - Mehr als 200 Abgeordnete für neue Organspende-Regeln - Gesundheit - SZ.de",
+      "summary_de": "Gesundheit - Mehr als 200 Abgeordnete für neue Organspende-Regeln - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdUJaNGRObzgyTmJuWHQ0dmdQRmlERGtqS29uT2VxUXZnclB5bmcyNHVsbjJGRUtDeTRMVkp4SEE0bUF4eFh0ZUdQanBSemk1c25rZEE2bHZ6VWV4N1NlZldSY0lvbkhMWFBscEtUeU5ydUxWenVXRnRtN3pkYm9ObFIwcGJpejBtMmVjdS1Md1RQaFJnT3dlY1hoR0haRmlsQmZUMVZMempmWlRYNlp2dnZWeWd5eHhDcUJCMUVmdHE1ejRXODAzR3BfTk9RcjUzZkRPTV9xLVNlTDFTaDVTZkJiWGY4akt2?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-14T08:43:06+00:00",
@@ -826,6 +878,16 @@
       "type": "News"
     },
     {
+      "title": "AI system cuts DEXA turnaround time, improves reports",
+      "summary_de": "null",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15832579/ai-system-cuts-dexa-turnaround-time-improves-reports",
+      "published_at": "2026-08-14T08:18:34+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Meldung: Da ist noch Luft nach oben",
       "summary_de": "Über Gleichberechtigung im Gesundheitswesen, Teamplay in der Familie und Karrierechancen sprach die stellvertretende Vorstandsvorsitzende des GKV-Spitzenverbandes, Stefanie Stoff-Ahnis, mit dem Fachmagazin „casus quo“.",
       "source_name": "GKV-SV Presseinformationen",
@@ -835,6 +897,26 @@
       "tags": [
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "PAE effective in men over 80 years old",
+      "summary_de": "Findings support PAE as an important minimally invasive treatment option for elderly patients who are nonsurgical candidates.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/interventional/article/15832560/prostate-artery-embolization-effective-in-men-over-80",
+      "published_at": "2026-08-14T07:29:56+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Prone positioning may benefit women undergoing PBI",
+      "summary_de": "Prone positioning may lead to lower heart and lung doses and lower rates of acute dermatitis.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/radiation-oncology-therapy/article/15832562/prone-positioning-may-benefit-women-undergoing-pbi",
+      "published_at": "2026-08-14T07:21:51+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
@@ -848,8 +930,8 @@
       "type": "News"
     },
     {
-      "title": "Mentales Wohlbefinden: Freundschaften stärken psychische und körperliche Gesundheit - DIE ZEIT",
-      "summary_de": "Mentales Wohlbefinden: Freundschaften stärken psychische und körperliche Gesundheit &nbsp;&nbsp; DIE ZEIT",
+      "title": "Mentales Wohlbefinden: Freundschaften stärken psychische und körperliche Gesundheit - zeit.de",
+      "summary_de": "Mentales Wohlbefinden: Freundschaften stärken psychische und körperliche Gesundheit &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS2R6dkRoc1R3WVI5MWRPdThUdTZVc2hISzl0bjc3UE9oMTJUQXZGVkQ3S1dYZzhneWtDNWI2WkJYaEZsZUZ6SU10b0daNE5FeHJnaTlzUE1uVi1HM01KSnltRGhUcGVpa0ZPbE1adXZFeEdnQVlJc2VwV3dsZGFuTHZWMnJBX00tcFVFaktGeEJDY1MtbHNqVlVDVmMzT2s?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-14T03:00:04+00:00",
@@ -858,8 +940,8 @@
       "type": "News"
     },
     {
-      "title": "Mentales Wohlbefinden - Freundschaften stärken psychische und körperliche Gesundheit - Gesundheit - sueddeutsche.de",
-      "summary_de": "Mentales Wohlbefinden - Freundschaften stärken psychische und körperliche Gesundheit - Gesundheit &nbsp;&nbsp; sueddeutsche.de",
+      "title": "Mentales Wohlbefinden - Freundschaften stärken psychische und körperliche Gesundheit - Gesundheit - SZ.de",
+      "summary_de": "Mentales Wohlbefinden - Freundschaften stärken psychische und körperliche Gesundheit - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOd2xZVjVTZnl6V3pnMFQwY1I0alJzNFdjSFF5QTg1al9ycXdKQjN2Vl9PZFg4ODg0T2tzQTZ1UHZxc2VwWE5pOFpKaWNpMmo2S2xDVVJmY0xpajZGbk9reUowa1Yya3pLcFFpd3BhUU91ZXRodF9KazZna2dSRXhlUGo4WHk0SWRmTHBYWjlUbDBldFQwek1nZnJlNEtKZUFiUndSUEdWems2eFY1bFpFXzhCSC1jRGtqd01RdllLS1NyUGdaSjh6TTcxUUJxTHU3VEZQTl8yUzlWcWNMWWtoRVRuenBJWGF4N0I2MWU2NGlhWks1bDBDdTFiaDJlZDZzb1dJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-14T03:00:04+00:00",
@@ -884,16 +966,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcE9oellZVGlqbjg0MXJ1LVpCN2RWT09VaDJrSWk0NThfQnVJc0pldGIycDNwa001ZEFjN0tXc2g3em9IS0l2cDNSRFlQVXVoS3kzaVAxd0czVXA3UTQ0anEybWswUURFN1pma3hWZEFGMGt6am5ncm8yUHNxa3NvOG1qdzl4OFhwbnNGNkUtV2swMWlBeVc4MjlzSkdTc0E4WnFjcFdRSzRrQ0Zka3dDRnJyV0JzMXFjU0tQWVEyNUc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-13T16:05:41+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Fall an Radiologie - Rätsel an der Klinik um gestohlenes Medizingerät - Kronen Zeitung",
-      "summary_de": "Fall an Radiologie - Rätsel an der Klinik um gestohlenes Medizingerät &nbsp;&nbsp; Kronen Zeitung",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5HUDExWUdLb0Nfa2d1amJnZzkwUWRKRUtuVXJKSzFLemxla2JuR0I1MlBkWGRHdDNzbkw2d0QyMGJZZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-13T16:00:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1012,8 +1084,28 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: West-Nil-Virus: Zahl der Fälle in Griechenland steigt stark - DIE ZEIT",
-      "summary_de": "Gesundheit: West-Nil-Virus: Zahl der Fälle in Griechenland steigt stark &nbsp;&nbsp; DIE ZEIT",
+      "title": "FAPI-PET/CT shows promise in hepatopancreatobiliary cancers",
+      "summary_de": "FAPI-PET/CT could potentially improve noninvasive cancer staging, and, ultimately, clinical decision making.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15832466/fapipetct-shows-promise-in-hepatopancreatobiliary-cancers",
+      "published_at": "2026-08-13T07:37:33+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Longitudinal DBT could help improve long-term cancer risk prediction",
+      "summary_de": "A longitudinal DBT model outperformed other models based on mammography and clinical factors in predicting five-year cancer risk...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15832462/longitudinal-dbt-could-help-improve-longterm-cancer-risk-prediction",
+      "published_at": "2026-08-13T07:36:18+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit: West-Nil-Virus: Zahl der Fälle in Griechenland steigt stark - zeit.de",
+      "summary_de": "Gesundheit: West-Nil-Virus: Zahl der Fälle in Griechenland steigt stark &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObFBRbU56NXJkcXd3VkU3X1lPUVNXZXBfdzBMR2kxbDlzRTdMNUMwc3ZBWDE2blFzMnh3SkZqWGJEbUZhT0E5dW5XVHVpNTVQZjVvLVUzWVUwQ1d5bWZLaHR1TG9VOG5sRXpxOW5qT3dMMjJuRmJFUlU3RFFKdm1mVHBsanljdVpJY0xCRUYycmI2R1hwb0w3S0dyTQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-13T07:22:21+00:00",
@@ -1032,8 +1124,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit und Wetter: RKI: Bislang etwa 1.700 Hitzetote in Hessen - DIE ZEIT",
-      "summary_de": "Gesundheit und Wetter: RKI: Bislang etwa 1.700 Hitzetote in Hessen &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit und Wetter: RKI: Bislang etwa 1.700 Hitzetote in Hessen - zeit.de",
+      "summary_de": "Gesundheit und Wetter: RKI: Bislang etwa 1.700 Hitzetote in Hessen &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbFI1aHFNRnVNdTBlMDl6eVlBdEllM011NVB0LVNRRHJkTEVzcnhlRHZoSENCNnVhT1dJVDdra2xkbmF1LWx0RUVObGs2UVhOR0YwbTlaUFdELXpXc3hLcl94b2plYVlOY0JzV3M2Ym1oWGxkbVdsSWRlUHVUTFpRbFItaUc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-13T07:01:05+00:00",
@@ -1042,8 +1134,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit und Wetter - RKI: Dieses Jahr deutlich mehr Hitzetote in Rheinland-Pfalz - Panorama - sueddeutsche.de",
-      "summary_de": "Gesundheit und Wetter - RKI: Dieses Jahr deutlich mehr Hitzetote in Rheinland-Pfalz - Panorama &nbsp;&nbsp; sueddeutsche.de",
+      "title": "Gesundheit und Wetter - RKI: Dieses Jahr deutlich mehr Hitzetote in Rheinland-Pfalz - Panorama - SZ.de",
+      "summary_de": "Gesundheit und Wetter - RKI: Dieses Jahr deutlich mehr Hitzetote in Rheinland-Pfalz - Panorama &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdW1vM3JZNGZWU1pvNEFPWXpCTERvNk5ZNzVUWlREbHlEcllheS1sUzU4YmtyVk5CU0VGRVNOOV9PQmNxWHV0eE1uRDAtV0VyaS0zVnhHUHFMd1hHYUtaamJJOV96aGVjbWZmNnhWbXMzU3ltUTNEbVJYaFN0cHVPQVdGVW13YUpINjktbUVHcHBfNVV2NGJTWGota3RZaDZkMnFLT2dXX0tIUjlqblJQSDBfM3NBMmdmaVFFX2N6ZnpPVUlxa3BvSkNJeWQxTDF0YjJEX2trVmFJVzJCWHhYVkRUWGMzbmdlbW5ZNFVyU3V2UXdfNVpDS3FsZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-13T07:01:05+00:00",
@@ -1052,8 +1144,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit und Wetter: RKI: Dieses Jahr deutlich mehr Hitzetote im Saarland - DIE ZEIT",
-      "summary_de": "Gesundheit und Wetter: RKI: Dieses Jahr deutlich mehr Hitzetote im Saarland &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit und Wetter: RKI: Dieses Jahr deutlich mehr Hitzetote im Saarland - zeit.de",
+      "summary_de": "Gesundheit und Wetter: RKI: Dieses Jahr deutlich mehr Hitzetote im Saarland &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSDZ1SGU2VUhYZ2VwQUlyMW9wMlZLQWF5MFNxbVdyM0RUSlp4U252Xy1FdTdjOWl4cmp3WGhRMVJoRDB4NEFlYVUycEhnZXdDMm1KSHlWMWRxMTBCT1N2bnJhTEpsdW54ZlRjNUhTVHAyb1JMWDJnbng4WlF4Nkd0bnI3WXdoYzd0S2cxaEQ2dGs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-13T07:01:04+00:00",
@@ -1062,8 +1154,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit und Wetter - RKI: Dieses Jahr deutlich mehr Hitzetote im Saarland - Panorama - sueddeutsche.de",
-      "summary_de": "Gesundheit und Wetter - RKI: Dieses Jahr deutlich mehr Hitzetote im Saarland - Panorama &nbsp;&nbsp; sueddeutsche.de",
+      "title": "Gesundheit und Wetter - RKI: Dieses Jahr deutlich mehr Hitzetote im Saarland - Panorama - SZ.de",
+      "summary_de": "Gesundheit und Wetter - RKI: Dieses Jahr deutlich mehr Hitzetote im Saarland - Panorama &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbEptU1l5Sm4tYVQyX2R5YjBTQ2EyaHRtSVZhcFZOVTJyNVVHcmt3bUVxY2U0YmlUV2V2NzVDYi10dHR3czFtMHZwdEdEaVNuWFBEd01ubG5OT0FiMEtXTjNxN05fZG1CaHVhZ2dNcDBQTTN0LU5uZ0ZFVTk0YjBwc1BLTmFPOF93MGxmMnlGMjFZMVNDM2VLRmpkNE5EVFkwaXBISU1RbzV5X05ZNjMtZnQyd1I3WEFnUUFzeEU2VUxtVU1LMnNyVlY0aWVNeFRLUkZFRlFyRFdWcGF2cklES191MjdvbXVRcnNDOWFIeDNnZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-13T07:01:04+00:00",
@@ -1072,8 +1164,18 @@
       "type": "News"
     },
     {
-      "title": "Zügelt den Appetit - Abnehmtablette kommt in deutsche Apotheken - Ein Überblick - Gesundheit - sueddeutsche.de",
-      "summary_de": "Zügelt den Appetit - Abnehmtablette kommt in deutsche Apotheken - Ein Überblick - Gesundheit &nbsp;&nbsp; sueddeutsche.de",
+      "title": "SBRT for prostate cancer cuts side effects, falls short on disease control",
+      "summary_de": "A multinational team evaluated SBRT against moderately hypofractionated intensity-modulated radiation therapy in a phase III trial...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/radiation-oncology-therapy/article/15832368/sbrt-for-prostate-cancer-cuts-side-effects-falls-short-on-disease-control",
+      "published_at": "2026-08-13T06:31:34+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Zügelt den Appetit - Abnehmtablette kommt in deutsche Apotheken - Ein Überblick - Gesundheit - SZ.de",
+      "summary_de": "Zügelt den Appetit - Abnehmtablette kommt in deutsche Apotheken - Ein Überblick - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQckpLcGpuVTNwRllTX3BIUFdvT0Z0eEpGbFBWc1pVTTFwWVQ5RWRtTVpEX2NKUVd2aXd6TzFFdjNBWFB3enNxN1E4MlVFTjh3aFZTMGc1TmVxMTVlRVRtNjNjeFV6QVcyeGRYT1dtUUxnTXR6V1l6N2hpZlloV0xfNnBqZEh6WEVoYkVHVDVjWk1oenFZVXh2Ry1Va1d4aTZaWmpjcWJhQ0ZDamQxaUJlV0VCY1kyWTVPTWMtRUpVbC1QcWRWZG5PdUJNWFdXZGxNT1VIdlk4U1hUZEVNZTJDc0I0S3Vya1VRLURERzI4TnllLWEzNFhPYlpB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-13T06:20:52+00:00",
@@ -1092,8 +1194,8 @@
       "type": "Studie"
     },
     {
-      "title": "Fachbereichsleitung (m/w/d) für den Fachbereich Gesundheit - ZEIT Stellenmarkt",
-      "summary_de": "Fachbereichsleitung (m/w/d) für den Fachbereich Gesundheit &nbsp;&nbsp; ZEIT Stellenmarkt",
+      "title": "Fachbereichsleitung (m/w/d) für den Fachbereich Gesundheit - jobs.zeit.de",
+      "summary_de": "Fachbereichsleitung (m/w/d) für den Fachbereich Gesundheit &nbsp;&nbsp; jobs.zeit.de",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMkJMT1luN3pBM2VDUHBLcTJmWnBXQnhHb28wVGVUNXFiZnBQUTVEbUw3WDlHdWxfb1dxRHl2NzNqaWs3clRPRjhSNlV3czhpTjh5cG5oWnRNaDh1YTM2dENpWVcyTnFMUUJQek9jMzFqTldwQ1N2SXQ4ZkhJZEFoTElqVFdYSS1fVFlVaUxOY1REczd3Q1hmWi1kVmpYRk9sX1pkc0o0cFN6aUhpeHB1Q2NZc2Y2YjVyMkdNYzlHWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-12T22:44:06+00:00",
@@ -1102,8 +1204,8 @@
       "type": "News"
     },
     {
-      "title": "Umstrittene Gesundheitspolitik - Weniger Impfempfehlungen: WHO kritisiert USA scharf - Gesundheit - sueddeutsche.de",
-      "summary_de": "Umstrittene Gesundheitspolitik - Weniger Impfempfehlungen: WHO kritisiert USA scharf - Gesundheit &nbsp;&nbsp; sueddeutsche.de",
+      "title": "Umstrittene Gesundheitspolitik - Weniger Impfempfehlungen: WHO kritisiert USA scharf - Gesundheit - SZ.de",
+      "summary_de": "Umstrittene Gesundheitspolitik - Weniger Impfempfehlungen: WHO kritisiert USA scharf - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNGVXVGhnTHRONnNRQjlSVWpNT0F2YWc2UldYTjVLVWJPcDFQVEduVFVrY3RTQmZHWXAyclFxTFIzSVNLS3dLeGZiSDIyLXpsb0VCdG5nMWdPUm9LYWg2SGJYYkNvQzRYNlYxN1d6bzNpbUJxcUdTbnp6ZklKZlNJQVBMLXRoOVhiU0tlMm1DWXVWN0xHcXBxRGZzN0g2R3hSYzlLWEY0YWpWTDhhTTlVLVBya2t4TUk5b19MU2NYS3FiNkpLVmFULUp5ODV1Z3pxNm8xZ3hjZGJHWFpYTlNiZ3MxRnBneHFkOEZWcmFkazFYMkJWV0lrUmZfaHpkVFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-12T17:12:40+00:00",
@@ -1112,8 +1214,8 @@
       "type": "News"
     },
     {
-      "title": "Umstrittene Gesundheitspolitik: Weniger Impfempfehlungen: WHO kritisiert USA scharf - DIE ZEIT",
-      "summary_de": "Umstrittene Gesundheitspolitik: Weniger Impfempfehlungen: WHO kritisiert USA scharf &nbsp;&nbsp; DIE ZEIT",
+      "title": "Umstrittene Gesundheitspolitik: Weniger Impfempfehlungen: WHO kritisiert USA scharf - zeit.de",
+      "summary_de": "Umstrittene Gesundheitspolitik: Weniger Impfempfehlungen: WHO kritisiert USA scharf &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOVlKTnZmZ3c4VzgxN2VvdTRVODMwS0NFcWJFTUtyTHhfVkFIRi1mTFpxa1lDRFRLZGJrN0l4QVRJd3Z3NFlOTjJocVBCWThMdmtqbEhaZmkyalFtVWdRMjF3dTJqS183dVlGOFNyQjgwaTl5T1pIQWw5U3FsT0pFN3NSaF9ocHZrTzhMamtkZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-12T17:12:40+00:00",
@@ -1232,8 +1334,8 @@
       "type": "News"
     },
     {
-      "title": "Umstrittene Gesundheitspolitik: Trump streicht Empfehlungen für Kinderimpfungen zusammen - DIE ZEIT",
-      "summary_de": "Umstrittene Gesundheitspolitik: Trump streicht Empfehlungen für Kinderimpfungen zusammen &nbsp;&nbsp; DIE ZEIT",
+      "title": "Umstrittene Gesundheitspolitik: Trump streicht Empfehlungen für Kinderimpfungen zusammen - zeit.de",
+      "summary_de": "Umstrittene Gesundheitspolitik: Trump streicht Empfehlungen für Kinderimpfungen zusammen &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc2ozUXVfT2RTYzFkQXhaNTI1WkxiaFdLV0t5c2l3RzR4cTlRcE5vRjBUWno5ZmVWWjFPbTQ5b2xwYmNHTE1qbUt6aFB0czJiZV9rY1gxby1QOFRtM2ltRzRHblU4YlpQSVRybUhIQ1hnQlNzX0puVW5SUjFsQVgzLVZSYk95RlVVdUY3cWNPUXNfOEhvZk1JaQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-11T04:50:01+00:00",
@@ -1298,6 +1400,16 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/personal-health-budgets/2026-27-q1/personal-health-budgets-q1-2026-27",
       "published_at": "2026-08-10T09:24:40+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Ihre Krankenkasse: Für alle gut, für jeden anders | BARMER - Barmer",
+      "summary_de": "Ihre Krankenkasse: Für alle gut, für jeden anders | BARMER &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-10T07:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1474,8 +1586,8 @@
       "type": "Studie"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-05T07:00:00+00:00",
@@ -2174,8 +2286,8 @@
       "type": "News"
     },
     {
-      "title": "GKV-Spargesetz: Das sind die fünf größten Streitpunkte der Krankenkassenreform - DIE ZEIT",
-      "summary_de": "GKV-Spargesetz: Das sind die fünf größten Streitpunkte der Krankenkassenreform &nbsp;&nbsp; DIE ZEIT",
+      "title": "GKV-Spargesetz: Das sind die fünf größten Streitpunkte der Krankenkassenreform - zeit.de",
+      "summary_de": "GKV-Spargesetz: Das sind die fünf größten Streitpunkte der Krankenkassenreform &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdzhwejFMYlg1OWxMOTllUjMzdDVLQXgxQm91UjM3UjhzU2lmMEZFbHhTRll3dWVHZG1pX3lfd29IUmJ4cGVuaW5IUDlJVmlhdmZjZXJOS2x4UGtZSGdIRll3bHQ1V2tZRF9KQjdHUUdER3Y2bjZlVDViaFd2dlBhRUlsVzltUW9lc1NDNnZCTXZtVE1EWmo2LUpyR2RldWZCQ1RtSm1rMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-10T07:00:00+00:00",
@@ -2184,8 +2296,8 @@
       "type": "News"
     },
     {
-      "title": "GKV-Reform: Was sich durch die Reform der Krankenversicherung für Patienten ändert - DIE ZEIT",
-      "summary_de": "GKV-Reform: Was sich durch die Reform der Krankenversicherung für Patienten ändert &nbsp;&nbsp; DIE ZEIT",
+      "title": "GKV-Reform: Was sich durch die Reform der Krankenversicherung für Patienten ändert - zeit.de",
+      "summary_de": "GKV-Reform: Was sich durch die Reform der Krankenversicherung für Patienten ändert &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkpJX20zTDJCZzZscEhtTmk2MGVNQU54ZWFWd1BROGFwcnBQeTlQR01FSWVHVjQ5b1lxd0JTU2o5TFV4UmR1cWlpZTVkZDc1NGZLeUFJVi1kd3FZRFVXQkVtS1E3RS1LZzdnRV9TUGtweW16WHcxNmVIdl93eFVSb3pyYjRqbEltb3I5QXlJdU56RmNLQk42bnlzNTN6dVhfUEd5alhkUy1EcVV0SWNxX3RlMDBHZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-10T07:00:00+00:00",
@@ -2286,8 +2398,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik: Geballter Gegenwind bei Reform der Krankenversicherung - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Geballter Gegenwind bei Reform der Krankenversicherung &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheitspolitik: Geballter Gegenwind bei Reform der Krankenversicherung - zeit.de",
+      "summary_de": "Gesundheitspolitik: Geballter Gegenwind bei Reform der Krankenversicherung &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeVFXZjFLcTJWMENQcjZZQ2JCY0xzblNqM1BiQzViallsbHIyOXlWX0FYSDdHd1BOeGppZHNyaHMtMlVfWjFhMXNmWlhZdmtWajNITk02elRRTGt6d2h2LWNXODN5eGl4NFZxakJGem1wd3Azd2xpRzJWM0d6UGhONlQwSG5vZlR2c2o3NWZPSE1iZHZ5cFpadTZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-09T07:00:00+00:00",
@@ -2296,8 +2408,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik: Boehringer-Deutschlandchef: Industrie wird de-priorisiert - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Boehringer-Deutschlandchef: Industrie wird de-priorisiert &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheitspolitik: Boehringer-Deutschlandchef: Industrie wird de-priorisiert - zeit.de",
+      "summary_de": "Gesundheitspolitik: Boehringer-Deutschlandchef: Industrie wird de-priorisiert &nbsp;&nbsp; zeit.de",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLTdROXd0ZHgwVWxJNkh1U2dfaEUtT2FqQmNCbjN3R18zSFVwdE84RngtTWthSGtDM0xzcDhhOW83ZU81ZlpFQmxfNWREcWZEbjUybndJUGJUOXNUaDc5bnpfamNMQU1VZkR6Q3lVWGhaZWIxR24xR3FOZmJLamdaLUY2OEZsckNBYzBJNC1EbUJOUzU5WWln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-09T07:00:00+00:00",
