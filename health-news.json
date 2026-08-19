@@ -1,11 +1,103 @@
 {
-  "generated_at": "2026-08-19T12:30:15.509725+00:00",
+  "generated_at": "2026-08-19T15:22:47.138269+00:00",
   "window_days": 42,
   "count": 224,
   "items": [
     {
-      "title": "Arzt angeklagt: Anästhesist nach Tod von Kind erneut vor Gericht - sueddeutsche.de",
-      "summary_de": "Arzt angeklagt: Anästhesist nach Tod von Kind erneut vor Gericht &nbsp;&nbsp; sueddeutsche.de",
+      "title": "Clinical trials for medicines: modifying a clinical trial approval",
+      "summary_de": "Guidance on the various types of modifications that can be made to a clinical trial approval.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-modifying-a-clinical-trial-approval",
+      "published_at": "2026-08-19T14:55:27+00:00",
+      "category": "Studie",
+      "tags": [
+        "Europa"
+      ],
+      "type": "Studie"
+    },
+    {
+      "title": "Absencen: Jamal Musiala gibt neurologische Dysfunktion bekannt",
+      "summary_de": "Nach zwei Zusammenbr&uuml;chen auf dem Spielfeld nennt der Bayernstar Jamal Musiala eine neurologische Dysfunktion als Grund der Aussetzer &ndash; Absencen.&nbsp;Was solche kurzen Bewusstseinspausen kennzeichnet und wie sie behandelt werden.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/jamal-musiala-gibt-neurologische-dysfunktion-bekannt-167705/",
+      "published_at": "2026-08-19T14:15:09+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "PZ Briefing: Die Top-News vom 19.8.2026",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-1982026-167704/",
+      "published_at": "2026-08-19T14:00:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: Quetiapin Heumann retard 150 mg Retardtabletten pU: Heumann Pharma GmbH & Co. Generica KG",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-08-19T13:39:19+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Hilfsmittel-Zuzahlungen : Übergangslösung wegen Fehler im Gesetz",
+      "summary_de": "Aufgrund eines redaktionellen Fehlers im GKV-Spargesetz gilt f&uuml;r zum Verbrauch bestimmte Hilfsmittel formal bereits jetzt die von 10 auf 15 Euro erh&ouml;hte Zuzahlung. Doch eine &Uuml;bergangsl&ouml;sung bewirkt, dass dies wie bei Arzneimitteln erst ab 1. Januar 2027 greifen wird.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/uebergangsloesung-wegen-fehler-im-gesetz-167696/",
+      "published_at": "2026-08-19T13:30:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "RKI-Erhebung: Vier von zehn Menschen schlafen zu wenig",
+      "summary_de": "Weniger als sieben Stunden Schlaf pro Nacht? Experten zufolge ist das zu kurz. In Deutschland trifft das aber auf viele Menschen zu. Vor allem eine Gruppe ist betroffen, wie eine Untersuchung des Robert-Koch-Instituts zeigt.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/vier-von-zehn-menschen-schlafen-zu-wenig-167694/",
+      "published_at": "2026-08-19T13:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Internationale Daten: Freundschaften stärken die Psyche",
+      "summary_de": "Freundschaften sind entscheidend f&uuml;r die psychische und k&ouml;rperliche Gesundheit. Wie stark Erfahrungen aus der Kindheit dabei eine Rolle spielen, zeigt eine Studie.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/freundschaften-staerken-die-psyche-167601/",
+      "published_at": "2026-08-19T12:30:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "»Keine Doppelstrukturen«: IKK skeptisch bei neuen pDL",
+      "summary_de": "Eine von den Innungskrankenkassen (IKK) beauftragte Umfrage zeigt, dass sich die Deutschen mehr staatliche Zusch&uuml;sse f&uuml;r die Krankenkassen und eine Anhebung der&nbsp;Beitragsbemessungsgrenze w&uuml;nschen. Die IKK geht trotz des GKV-Spargesetzes von weiter steigenden Beitr&auml;gen aus.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/ikk-skeptisch-bei-neuen-pdl-167693/",
+      "published_at": "2026-08-19T12:10:09+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Transportproteine: Die Achillesferse neuer Antibiotika",
+      "summary_de": "Antisense-Antibiotika gelten als vielversprechender Ansatz im Kampf gegen antimikrobielle Resistenzen. Als&nbsp;Schwachstelle entpuppen sich allerdings ben&ouml;tigte Hilfspeptide, da sie zu gro&szlig;en Teilen f&uuml;r Resistenzentwicklungen verantwortlich sind.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-achillesferse-neuer-antibiotika-167689/",
+      "published_at": "2026-08-19T12:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Arzt angeklagt: Anästhesist nach Tod von Kind erneut vor Gericht - SZ.de",
+      "summary_de": "Arzt angeklagt: Anästhesist nach Tod von Kind erneut vor Gericht &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOElqaUJaR09kSDNoUzJvQ2h4bTRUbklWMUxzajlBUjNpcjVRN1NNcWhiT2xzSVVrMzI3Y0ltaDc5Tk9JVWNZaHpTcFg5eUhTenkyOV83alEwV1ZteHBXbzNFaTc1aVVaalhQdDVpRktUZTZ3eGVLRHIyLXFvd1NQNEdlRWVqbFhRbXRmSFRqcWV1d2lWSTJiWjVybmRhZzJobk9JY3VMakhHNmFuV2t6cDB3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-19T11:36:39+00:00",
@@ -14,8 +106,8 @@
       "type": "News"
     },
     {
-      "title": "China KI: Einsatz in Medizin, Landwirtschaft, Robotik bis 2030 - sueddeutsche.de",
-      "summary_de": "China KI: Einsatz in Medizin, Landwirtschaft, Robotik bis 2030 &nbsp;&nbsp; sueddeutsche.de",
+      "title": "China KI: Einsatz in Medizin, Landwirtschaft, Robotik bis 2030 - SZ.de",
+      "summary_de": "China KI: Einsatz in Medizin, Landwirtschaft, Robotik bis 2030 &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SUmgwSzJIVW1uZGphaEtnbWxadDJDbHNGeE5XOTRrOGNLVlNJa3RRS0V6TGFpbEpCYUVVSUdVV3VoRTEwREtjWlFLN1ozdVJidUZVMlBRdVlMRV83eld6b29ldEFzeVpfS2RoSHVPNlRKRnJpSG0xOEN5ZmR5eDA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-19T11:34:52+00:00",
@@ -34,8 +126,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit - Umfrage: Vier von zehn Menschen schlafen zu wenig - Wissen - sueddeutsche.de",
-      "summary_de": "Gesundheit - Umfrage: Vier von zehn Menschen schlafen zu wenig - Wissen &nbsp;&nbsp; sueddeutsche.de",
+      "title": "Gesundheit - Umfrage: Vier von zehn Menschen schlafen zu wenig - Wissen - SZ.de",
+      "summary_de": "Gesundheit - Umfrage: Vier von zehn Menschen schlafen zu wenig - Wissen &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZ0w4bW5TcDM5bzRtMGk4SjhRN3gxbXNmWVBnczZTaHpXTHZuRmlPaGNpUE9OM3NBSUtRVlI2WTVaVVAwQm1uUDRHcFFSTXhnUXdGVzRfeHFicUcxOEVpVGRjM3RNYmc4ZHpuX2JaRnotNnd4azZOYmVuMHhwbXpBd3pkSkZGbkoteHJxOWhWaVlRMEg0SUJKNDN0U2podEE5eEZSYUFvZGNuNzFmbV9CZHNaVWMxeWhJazdabFNLS0dLTXR5bDEyemlFN3VoRUU1SFQweGozTEtxd2dm?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-19T11:31:37+00:00",
@@ -64,12 +156,22 @@
       "type": "News"
     },
     {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: Quetiapin-Hormosan 400 mg Retardtabletten pU: Hormosan Pharma Gesellschaft mit beschr&#228;nkter Haftung",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-08-19T09:06:17+00:00",
-      "category": "Wirtschaft",
+      "title": "Bildgebung mit Herz - SALK",
+      "summary_de": "Bildgebung mit Herz &nbsp;&nbsp; SALK",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRTdEalBjRXFZdGVaN1NJLXJmWHVXTVE4Zm1UU3paRENVc2w3TkxDSGNDSTMwbm5IREdTMWd0MUVBVC1BNFh6VnE3bDdxdTVCNGZSMWplVURBbk9VTm9jNnQwSkRuZlVTQmg2NzNqcjVTcUtOVmdFTDlxZ2E2anp3LUt0MUJKR2di?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-19T09:05:25+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Mangelernährung wird im Krankenhaus selten diagnostiziert und behandelt – News - Deutsches Ärzteblatt",
+      "summary_de": "Mangelernährung wird im Krankenhaus selten diagnostiziert und behandelt – News &nbsp;&nbsp; Deutsches Ärzteblatt",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcURpdkhzUVdJakhFNEJoRUt5aG9sWnFxY0ZFTDdxLU15cTJiNFFUU2RkYzBuS3hlcDIyZ3kxRTlYN1dQNmNvZXJEV2JkZWRZZU01SWVKSjhsVElLaUF1Um9PdTI3NUxrWnFvWE5Uc0ZIV1RYaF9KTE5EMWdzc1lDYjNURF9MTXV1TFVxZTVNYWF2UTIxaDU4NGE1MjcyUGd5RklYTHFyaGRYVl9yOWZVd0cxb19HZXN3UDRMRmZYa0pkM1dyZmI4N2ppVGpuS0o3RlRDOEE1VQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-19T08:56:50+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -154,16 +256,6 @@
       "type": "News"
     },
     {
-      "title": "Klapperschlange beißt Mann: Helikopter fliegt Gegengift zur Klinik - tagesschau.de",
-      "summary_de": "Klapperschlange beißt Mann: Helikopter fliegt Gegengift zur Klinik &nbsp;&nbsp; tagesschau.de",
-      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOHpCQmNnUHdtZUNtR1F5blptWGhlR1AteDYwaU52bUswaG8xZVpJZ2QwUEVRYVp4cENVeFRYT1RtNEVybkJWbGhMVVBtT1pjZFAzRHpVeGZaZ1FrOFFNVGpkYXV5VHZjbFpJeEduaUh4YzRQYTN4YVRiamFqQ0duUk1SRVFOZ1NkN1NBdndXUy1PNGV0UTlOVVNENS01LXBxTzJRc29JZU5aWjVZQTQxVFhiWXFuR09YWk1jWXZsVURCQjJUb0dKZEZ4cW9ULVQ4SUhCdm03TXd1VG9KRUxwajFOX2JfQVotRFlj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-18T16:05:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Alterspsychologie: Humor – je schwärzer, desto besser",
       "summary_de": "Im h&ouml;heren Lebensalter wirkt Humor als Emotionsregulator, st&auml;rkt Beziehungen und kann Indikator f&uuml;r subjektives Wohlbefinden sein &ndash; selbst dann, wenn Einsamkeit, k&ouml;rperliche Einschr&auml;nkungen oder &Auml;ngste das Lachen erschweren.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -214,8 +306,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit - Bereits mehr als 5.000 Ebola-Fälle im Kongo - Gesundheit - sueddeutsche.de",
-      "summary_de": "Gesundheit - Bereits mehr als 5.000 Ebola-Fälle im Kongo - Gesundheit &nbsp;&nbsp; sueddeutsche.de",
+      "title": "Gesundheit - Bereits mehr als 5.000 Ebola-Fälle im Kongo - Gesundheit - SZ.de",
+      "summary_de": "Gesundheit - Bereits mehr als 5.000 Ebola-Fälle im Kongo - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONzlMeXVTNlVKaS14QTQtWHh5MkFoTGo1dkRnemRyTWh3aUxrUnNicUZkZ0s1NlJtSmdSN3JvOHEzSTdIeW5TOXlUM2czakx3dWZDSlhJTVItTUdoRGRvRmF6RXo4bFNaaUNad1piRVZkajFkbWs5c1VSTS1MZm16NkFzUTFRajE3VTJ4LWtOYVB5NjF3TXd3X21QN1NHMHlJWmdrMHpSa01nN2I5VDQwSHlDejNUckRLNHZDc3owY2RrUHpPaW8tbWlFTVFtbk9HdHhzOVowSHdPUkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-18T14:25:01+00:00",
@@ -240,6 +332,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-1882026-167677/",
       "published_at": "2026-08-18T14:00:00+00:00",
       "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Medien: Kronprinzenpaar besucht König Harald im Krankenhaus - FAZ",
+      "summary_de": "Medien: Kronprinzenpaar besucht König Harald im Krankenhaus &nbsp;&nbsp; FAZ",
+      "source_name": "\"site:faz.net medizin\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2JfSUJ0Q0kzX1VjeGppTm1GbVRxc3pqWVRrN2pVbW5TbTFRTXhwTHpLandNdWdQeXlmQ2NVNWpMOWQzZVpBdndFaDhmbERVUmUtTXZsTHI0cWFhSmp5eDh5QTVBRWZzTkdGWGEyTHFTRW1nNE9GanlORkd1dlpodDJqVTJEeXlZVUQ5cHRzeXFibHN0YnM1dnhJeHl3WmM0YmNjRGxINEQ3VW55SWJPRmhOY2NLZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-18T13:31:40+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -274,8 +376,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit - Weniger Impfungen bei US-Vorschulkindern gemeldet - Gesellschaft - sueddeutsche.de",
-      "summary_de": "Gesundheit - Weniger Impfungen bei US-Vorschulkindern gemeldet - Gesellschaft &nbsp;&nbsp; sueddeutsche.de",
+      "title": "Gesundheit - Weniger Impfungen bei US-Vorschulkindern gemeldet - Gesellschaft - SZ.de",
+      "summary_de": "Gesundheit - Weniger Impfungen bei US-Vorschulkindern gemeldet - Gesellschaft &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNc3VRTHhsM29YRjhpbmJQUjJMcFRXYVJocGt2SDhDbkdCeDVuUHRVRUpuelk3dlhFalN4b0xmR2dpbGpLOU0xVUZrZG5BY0xlc3N1U0dvUDNhb3pRR3l0Zm5yQ2hnZXBwWDlhd2h5OEkxRWlFVkRGLVdsTlpMUWZVZVVtbV84ZkludU85ZndUYmlOSWFzVTJVN2VtQ1M3YmZ1V0Z6dHhmWkZSUGhsaTU5LVN3S0ktdWR1VVRuQnhsYXN4SFlsN19fdXZJTkIyQkloRGtZOWR0TXlYZ21a?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-18T12:47:25+00:00",
@@ -304,8 +406,8 @@
       "type": "News"
     },
     {
-      "title": "KI-Konferenz in Bremen legt Fokus auf Gesundheit (Meldung) | SZ Dossier - sueddeutsche.de",
-      "summary_de": "KI-Konferenz in Bremen legt Fokus auf Gesundheit (Meldung) | SZ Dossier &nbsp;&nbsp; sueddeutsche.de",
+      "title": "KI-Konferenz in Bremen legt Fokus auf Gesundheit (Meldung) | SZ Dossier - SZ.de",
+      "summary_de": "KI-Konferenz in Bremen legt Fokus auf Gesundheit (Meldung) | SZ Dossier &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM3BjajRHbEp1dE04cERwVmFFM0ZYbm1ZeldhVEVpNC0zQ0xRSHplTDB1Nk94QUVkdHprWE5mYlhEbjd1aGNXUVpRVkpvOFV2S0xRV0M2cTJ3UjJJeld5aEFkQlFYWnFEZE56NlYya0U5MGZFSk5TZXo0akhiLXlaRXVCVTFOckM5czJPV0x2aVN1dDJMenRyVDIxM0NkeUpKNTczNkp3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-18T11:54:20+00:00",
@@ -344,8 +446,8 @@
       "type": "News"
     },
     {
-      "title": "Ebola-Ausbruch - Deutschland stockt Ebola-Hilfe für Kongo auf - Gesundheit - sueddeutsche.de",
-      "summary_de": "Ebola-Ausbruch - Deutschland stockt Ebola-Hilfe für Kongo auf - Gesundheit &nbsp;&nbsp; sueddeutsche.de",
+      "title": "Ebola-Ausbruch - Deutschland stockt Ebola-Hilfe für Kongo auf - Gesundheit - SZ.de",
+      "summary_de": "Ebola-Ausbruch - Deutschland stockt Ebola-Hilfe für Kongo auf - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMFJMWVl4YU5JVWZKai11a3UycFRTREItZjMzZEg3Vnk2YTk4d3dYRnNvS2htczRpUXQ1OXV3WjZWaEZqSTJROUJ4aHpueElxYkg2ek4zdmtiOHQ2Q0FPSU1Qek9faEMwNll6R3JhMjIwcERzWElnUE1mT0xmSVdJVGNRd1NfWU9JNTl5aEJRNVNEVzJWWHBmZU9pT2RkdVUzM29TbzRBZ0VTS1c2V19JdTJGX01tNHozZXJXMjZhUDVfMlcxUWhMQW9qbGcycm1DVi03ODY3Y29QT0dsUlJSMFFiVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-18T10:34:55+00:00",
@@ -524,42 +626,12 @@
       "type": "News"
     },
     {
-      "title": "Interview Metin Ergül: Impulse für die Apotheke von morgen",
-      "summary_de": "Die Expopharm in M&uuml;nchen wirft ein Schlaglicht auf die Zukunftsthemen der Apotheken. Wie die Messe die politische Aufbruchstimmung abbildet, Zielgruppen adressiert und Impulse setzt, erkl&auml;rt Avoxa-Gesch&auml;ftsf&uuml;hrer Metin Erg&uuml;l.&nbsp;",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/impulse-fuer-die-apotheke-von-morgen-167641/",
-      "published_at": "2026-08-17T16:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Decision: Suspended and revoked licences and registrations for manufacturers and wholesalers of medicines and ingredients",
       "summary_de": "Public list of companies in the UK who have had their licence/registration to manufacture or wholesale medicines/ingredients revoked or suspended.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
       "source_url": "https://www.gov.uk/government/publications/suspended-licences-for-manufacturers-and-wholesalers-of-medicines",
       "published_at": "2026-08-17T14:49:12+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "ZNS-Lymphchirurgie: Alzheimer einfach wegoperieren?",
-      "summary_de": "Eine experimentelle mikrochirurgische Operation zur Behandlung der Alzheimer-Krankheit sorgt international f&uuml;r Aufsehen, aber auch f&uuml;r erhebliche Kontroversen. Der Eingriff verbindet Lymphgef&auml;&szlig;e im Hals mit benachbarten Venen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/alzheimer-einfach-wegoperieren-167634/",
-      "published_at": "2026-08-17T14:20:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "PZ Briefing: Die Top-News vom 17.8.2026",
-      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-1782026-167642/",
-      "published_at": "2026-08-17T14:05:09+00:00",
-      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -574,48 +646,8 @@
       "type": "News"
     },
     {
-      "title": "Chronischer Husten: Entwicklung von Camlipixant eingestellt",
-      "summary_de": "Nachdem der P2X3-Rezeptorantagonist Camlipixant im Rahmen von zwei Phase-III-Studien bei refrakt&auml;rem chronischen Husten nicht &uuml;berzeugte, hat Glaxo-Smith-Kline die Entwicklung dieses Wirkstoffs eingestellt.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/entwicklung-von-camlipixant-eingestellt-167631/",
-      "published_at": "2026-08-17T13:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Experten oder Blender: Medfluencer – wem kann man vertrauen?",
-      "summary_de": "Gesundheitstipps auf TikTok und Instagram sind beliebt &ndash; doch nicht jeder Medfluencer kennt sich aus. Die Stiftung Gesundheitswissen fasst zusammen, wie sich seri&ouml;se Accounts von fragw&uuml;rdigen unterscheiden lassen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/medfluencer-wem-kann-man-vertrauen-167623/",
-      "published_at": "2026-08-17T12:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Drohende Evakuierung: Das gehört ins Notfallgepäck",
-      "summary_de": "Die anhaltende Trockenheit erh&ouml;ht vielerorts die Waldbrandgefahr. In einigen Orten kam es bereits zu Evakuierungen. Doch was sollte man neben der pers&ouml;nlichen Medikation, Erster Hilfe und FFP2-Masken griffbereit haben, und worauf kommt es an?",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/das-gehoert-ins-notfallgepaeck-167632/",
-      "published_at": "2026-08-17T12:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "England: Blutdruck-Screening in Apotheken wird angepasst",
-      "summary_de": "In England bieten Apotheken ein Screening zur Fr&uuml;herkennung bislang unerkannter F&auml;lle von Bluthochdruck an. Die Anspruchsberechtigung wird nun pr&auml;zisiert, da einige den Service wohl so gut fanden, dass sie ihn h&auml;ufiger nutzten als angedacht.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/blutdruck-screening-in-apotheken-wird-angepasst-167622/",
-      "published_at": "2026-08-17T11:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Rasanter Anstieg - Ebola-Ausbruch ist tödlichster in der Geschichte des Kongo - Gesundheit - sueddeutsche.de",
-      "summary_de": "Rasanter Anstieg - Ebola-Ausbruch ist tödlichster in der Geschichte des Kongo - Gesundheit &nbsp;&nbsp; sueddeutsche.de",
+      "title": "Rasanter Anstieg - Ebola-Ausbruch ist tödlichster in der Geschichte des Kongo - Gesundheit - SZ.de",
+      "summary_de": "Rasanter Anstieg - Ebola-Ausbruch ist tödlichster in der Geschichte des Kongo - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQTFEV3ozSkVOWW91SkkxSGNPeWQ2dVdMSE5TUGZSeVZadFNQSDE3b2lsdmwweGdUSW1UWmVKM2Fadm1vaHMwM0tVeFNRLXZ3Qm5sbWc3em9aenZ0ako3WEp4ZWt0aTZLNGxzejlMaE1uSXBuRjVVSlgyTy1HYkhKOWxvdmwzUUl2dzJ5cGFIOTZSZWFELWtpTkNzQWloWHVfTGoyLUFhZlFuQmFQekRGYnpFZlBXMkdneFNmVmR5QnFXckNxcXJubHhsSUtDR0h6bl93Z2I5ODdMUWFMOFB4eVFnRWRWamNReExGV3dhdnY1akZGc2U4Rg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-17T10:36:29+00:00",
@@ -684,8 +716,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit - Gibt es Klimaanlagen in Hamburger Kliniken und Heimen? - Gesundheit - sueddeutsche.de",
-      "summary_de": "Gesundheit - Gibt es Klimaanlagen in Hamburger Kliniken und Heimen? - Gesundheit &nbsp;&nbsp; sueddeutsche.de",
+      "title": "Gesundheit - Gibt es Klimaanlagen in Hamburger Kliniken und Heimen? - Gesundheit - SZ.de",
+      "summary_de": "Gesundheit - Gibt es Klimaanlagen in Hamburger Kliniken und Heimen? - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV29EdEFYcXduT2ZnSzdMdF9qY2tsczl3ZHFtZmxOUG9SM1VPa1h1SDcyeTh1alJvOFZnN1J2VzJ5SU1RUFFLeEY1OVhiRS0ydVk0cEt0dnBkUXpTaVBERkpCRnFwd3B1VFE4cmVIZjV4Zy1iX0lzc3ExT0Z3dWlTWm9kQ0FNMUV2cnEyOUJiNmhvSWFrczcyS3ZTWXpMSXNteVkyLXd3RG55bExkUzhCTFgzc0ZJWHYxVWdTdTBOY2lnS1YtWnp0V1gwZ0EtQnZqdG5STFByRzRMTktwWGFaaVBSZGJBalVU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-17T03:00:12+00:00",
@@ -704,8 +736,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitswesen - Gesundheit: Linke wollen Initiative gegen mehr Zuzahlungen - Gesundheit - sueddeutsche.de",
-      "summary_de": "Gesundheitswesen - Gesundheit: Linke wollen Initiative gegen mehr Zuzahlungen - Gesundheit &nbsp;&nbsp; sueddeutsche.de",
+      "title": "Gesundheitswesen - Gesundheit: Linke wollen Initiative gegen mehr Zuzahlungen - Gesundheit - SZ.de",
+      "summary_de": "Gesundheitswesen - Gesundheit: Linke wollen Initiative gegen mehr Zuzahlungen - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMGl3MGdmalJHVTdOMmpVOVZFUVJ5NC1BeGZMQ2ZPNFNHRUdpT1F2MUU3cWlYbktFdHl5a3VBSDh5LURpNU9waU9Bc3psRXd0Z3VCdFNfV2tRcXBERi1mTkhmbW1nYUpxamc5ZnAwRGJtd1ljWTU5X0hqcW1kdGtDUk1WQkJTT1FFVVFaS19aV19SYkpuSzJGQnhGdlNNekZDdUNlUUlBc3FkakxpM3lnTXROZkg0a1g2SngtcVltM2JQSUhPVV9qWk1LTDFDdmFoYzRBbnQxVkRyMGxLbzB1cXE1QjBUWWJiOXZHTnNHUnhFbTBlSGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-17T03:00:11+00:00",
@@ -724,8 +756,8 @@
       "type": "Studie"
     },
     {
-      "title": "Digitalisierung und Robotik - Sachsen will von Südkoreas Gesundheitswesen lernen - Gesundheit - sueddeutsche.de",
-      "summary_de": "Digitalisierung und Robotik - Sachsen will von Südkoreas Gesundheitswesen lernen - Gesundheit &nbsp;&nbsp; sueddeutsche.de",
+      "title": "Digitalisierung und Robotik - Sachsen will von Südkoreas Gesundheitswesen lernen - Gesundheit - SZ.de",
+      "summary_de": "Digitalisierung und Robotik - Sachsen will von Südkoreas Gesundheitswesen lernen - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeVF2M3o0eS1wUHkyblMwbFhieWpwd0JSbFNPTEpvTUtWSm1wZ09zcUZJcTBYekY4QjF6RHRSdU5teEFodjJaeHJvcFVwZ1VRY3FPajBVeHdLREhNU2dEUXVnTEIwSXBQc3llYnY1R2xWV2Jia09vbVg3M3owN2dSalRYeDVhNWV6RHR2MDJQNXQ3NGF0RzMtMmxLRW5Vb2JBUE1Zd3ByazhPMml5ZDJzSUItNlozZ1ZOMzNBREM3OUQwdFcyc25fd3BTVTZ6eE43clJqYklhTllWekFVWkh3WEJmMnBoNzJkZG4zSElyc0N5TmRSdzlEdVpObFY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-16T09:46:55+00:00",
@@ -836,8 +868,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit - Mehr als 200 Abgeordnete für neue Organspende-Regeln - Gesundheit - sueddeutsche.de",
-      "summary_de": "Gesundheit - Mehr als 200 Abgeordnete für neue Organspende-Regeln - Gesundheit &nbsp;&nbsp; sueddeutsche.de",
+      "title": "Gesundheit - Mehr als 200 Abgeordnete für neue Organspende-Regeln - Gesundheit - SZ.de",
+      "summary_de": "Gesundheit - Mehr als 200 Abgeordnete für neue Organspende-Regeln - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdUJaNGRObzgyTmJuWHQ0dmdQRmlERGtqS29uT2VxUXZnclB5bmcyNHVsbjJGRUtDeTRMVkp4SEE0bUF4eFh0ZUdQanBSemk1c25rZEE2bHZ6VWV4N1NlZldSY0lvbkhMWFBscEtUeU5ydUxWenVXRnRtN3pkYm9ObFIwcGJpejBtMmVjdS1Md1RQaFJnT3dlY1hoR0haRmlsQmZUMVZMempmWlRYNlp2dnZWeWd5eHhDcUJCMUVmdHE1ejRXODAzR3BfTk9RcjUzZkRPTV9xLVNlTDFTaDVTZkJiWGY4akt2?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-14T08:43:06+00:00",
@@ -908,8 +940,8 @@
       "type": "News"
     },
     {
-      "title": "Mentales Wohlbefinden - Freundschaften stärken psychische und körperliche Gesundheit - Gesundheit - sueddeutsche.de",
-      "summary_de": "Mentales Wohlbefinden - Freundschaften stärken psychische und körperliche Gesundheit - Gesundheit &nbsp;&nbsp; sueddeutsche.de",
+      "title": "Mentales Wohlbefinden - Freundschaften stärken psychische und körperliche Gesundheit - Gesundheit - SZ.de",
+      "summary_de": "Mentales Wohlbefinden - Freundschaften stärken psychische und körperliche Gesundheit - Gesundheit &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOd2xZVjVTZnl6V3pnMFQwY1I0alJzNFdjSFF5QTg1al9ycXdKQjN2Vl9PZFg4ODg0T2tzQTZ1UHZxc2VwWE5pOFpKaWNpMmo2S2xDVVJmY0xpajZGbk9reUowa1Yya3pLcFFpd3BhUU91ZXRodF9KazZna2dSRXhlUGo4WHk0SWRmTHBYWjlUbDBldFQwek1nZnJlNEtKZUFiUndSUEdWems2eFY1bFpFXzhCSC1jRGtqd01RdllLS1NyUGdaSjh6TTcxUUJxTHU3VEZQTl8yUzlWcWNMWWtoRVRuenBJWGF4N0I2MWU2NGlhWks1bDBDdTFiaDJlZDZzb1dJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-14T03:00:04+00:00",
@@ -1062,20 +1094,10 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit und Wetter: RKI: Bislang etwa 1.700 Hitzetote in Hessen - DIE ZEIT",
-      "summary_de": "Gesundheit und Wetter: RKI: Bislang etwa 1.700 Hitzetote in Hessen &nbsp;&nbsp; DIE ZEIT",
+      "title": "Gesundheit und Wetter: RKI: Dieses Jahr deutlich mehr Hitzetote in Rheinland-Pfalz - DIE ZEIT",
+      "summary_de": "Gesundheit und Wetter: RKI: Dieses Jahr deutlich mehr Hitzetote in Rheinland-Pfalz &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbFI1aHFNRnVNdTBlMDl6eVlBdEllM011NVB0LVNRRHJkTEVzcnhlRHZoSENCNnVhT1dJVDdra2xkbmF1LWx0RUVObGs2UVhOR0YwbTlaUFdELXpXc3hLcl94b2plYVlOY0JzV3M2Ym1oWGxkbVdsSWRlUHVUTFpRbFItaUc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-13T07:01:05+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit und Wetter - RKI: Dieses Jahr deutlich mehr Hitzetote in Rheinland-Pfalz - Panorama - sueddeutsche.de",
-      "summary_de": "Gesundheit und Wetter - RKI: Dieses Jahr deutlich mehr Hitzetote in Rheinland-Pfalz - Panorama &nbsp;&nbsp; sueddeutsche.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdW1vM3JZNGZWU1pvNEFPWXpCTERvNk5ZNzVUWlREbHlEcllheS1sUzU4YmtyVk5CU0VGRVNOOV9PQmNxWHV0eE1uRDAtV0VyaS0zVnhHUHFMd1hHYUtaamJJOV96aGVjbWZmNnhWbXMzU3ltUTNEbVJYaFN0cHVPQVdGVW13YUpINjktbUVHcHBfNVV2NGJTWGota3RZaDZkMnFLT2dXX0tIUjlqblJQSDBfM3NBMmdmaVFFX2N6ZnpPVUlxa3BvSkNJeWQxTDF0YjJEX2trVmFJVzJCWHhYVkRUWGMzbmdlbW5ZNFVyU3V2UXdfNVpDS3FsZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUTZpa09KeUNEVmRncUY3WUh2M2NoUVhUWHZaUzFLYkJhTTVhOE5sc2ZoZUszWVpHZzNBODMwaUFMa01nbmx6OWRHQVdiM2s0YUlDbGNxcDI4TnJRTGFzZUVoVTZEQXIwTjFJWUxFbjZCLXBrazk0YXMyN3JmbEhBR01GZTViRDl0LTd4MHBDQVRtT1hfbVo1U0pB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-13T07:01:05+00:00",
       "category": "News",
       "tags": [],
@@ -1086,16 +1108,6 @@
       "summary_de": "Gesundheit und Wetter: RKI: Dieses Jahr deutlich mehr Hitzetote im Saarland &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSDZ1SGU2VUhYZ2VwQUlyMW9wMlZLQWF5MFNxbVdyM0RUSlp4U252Xy1FdTdjOWl4cmp3WGhRMVJoRDB4NEFlYVUycEhnZXdDMm1KSHlWMWRxMTBCT1N2bnJhTEpsdW54ZlRjNUhTVHAyb1JMWDJnbng4WlF4Nkd0bnI3WXdoYzd0S2cxaEQ2dGs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-13T07:01:04+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit und Wetter - RKI: Dieses Jahr deutlich mehr Hitzetote im Saarland - Panorama - sueddeutsche.de",
-      "summary_de": "Gesundheit und Wetter - RKI: Dieses Jahr deutlich mehr Hitzetote im Saarland - Panorama &nbsp;&nbsp; sueddeutsche.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbEptU1l5Sm4tYVQyX2R5YjBTQ2EyaHRtSVZhcFZOVTJyNVVHcmt3bUVxY2U0YmlUV2V2NzVDYi10dHR3czFtMHZwdEdEaVNuWFBEd01ubG5OT0FiMEtXTjNxN05fZG1CaHVhZ2dNcDBQTTN0LU5uZ0ZFVTk0YjBwc1BLTmFPOF93MGxmMnlGMjFZMVNDM2VLRmpkNE5EVFkwaXBISU1RbzV5X05ZNjMtZnQyd1I3WEFnUUFzeEU2VUxtVU1LMnNyVlY0aWVNeFRLUkZFRlFyRFdWcGF2cklES191MjdvbXVRcnNDOWFIeDNnZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-13T07:01:04+00:00",
       "category": "News",
       "tags": [],
@@ -1152,16 +1164,6 @@
       "type": "News"
     },
     {
-      "title": "MHRA reaffirms the safety of childhood vaccination",
-      "summary_de": "Vaccination is one of the most effective and safest ways to protect against many serious infectious diseases",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/mhra-reaffirms-the-safety-of-childhood-vaccination",
-      "published_at": "2026-08-12T11:41:06+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "[MI] NHS Productivity Growth Estimates - March 2026 (Final Revised)",
       "summary_de": "This publication contains the monthly NHS Productivity Growth Estimates for the period April 2025 to March 2026, which in financial terms is described as Month 12 year-to-date (YTD). It estimates the change, compared with the same period in the previous year, for the following: activity (cost‑weighted), resource use (in real terms), and productivity.The tables included in this publication present NHS …",
       "source_name": "Publication Feed",
@@ -1198,6 +1200,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZG91ak1zcGlPcmZKcXRudENoV0p1ekUxZUlnd3hWTVpKd2ZUaUFPTklFWjFZNGlhNmQtLXdYX3RTMDVMLXJPVE8zSGszTjhZd1RkV1F0LWUtZElQSDB2cHJoUGpOcC1TRTF3QURFWUtDS2Y5MTJpWnRKZ2I2YkZFMmt6UDQtdFBnZUszR3FDeWFQMEtrSEFTakhTQldZVEZWMm1XWUcxd0xsSnB2YVN3c0ZFQkdhbGVsLS1Gd2FTZVZWd1lHUWJXVHFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-12T07:36:32+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Spezialist/-in Marktforschung (m/w/d) - temporär - DAK-Gesundheit",
+      "summary_de": "Spezialist/-in Marktforschung (m/w/d) - temporär &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWm5xVlRZd0xBdG5sZW0tNzhMTlhZMk9uaGhMYmxZUTh6TWNJbm11NWhSVGJLSExOX1UzVXhqNWFJeDhrSV9NN0R3WG10SjJzVTZ2MDBhUTNaN0hpVE15Q21xOEhLUE9yTXhUVEdDNVNNM0J0bHVLQjBlVXlXZFVzMmlDeGU4cmhNeF9rMnlpTE4xU2RFUWFNVXZDNjJmTVE0dEtjS3M2TXNoQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-12T05:57:38+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1767,16 +1779,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcEVteVNNYnFFZzh2VEhHRXRzeTl3WWFsX2dVUm1LNmhMeXlNMGgySjNWYl9ONFFtS0V0ejhWTkYzcDdUSTRHcXdJVzdqamZxc1Z4NlBkdG84ekM3dXZXRi1PSWdjcTM4aTZ6azY3MlRaN08zY2Ftd0VSalV3eDQtbE5oTVc5X3pHRkpUYXJqUk9mMm9vYXM4WWplSmk3cjBTVlAyaUlrMmh4ci1abmJOZjlSVFdIbjlPS091VFdfQTVoRkxqTnlYc1FNbHU5NTdNaVEta3dyUXcyMFFfSEEw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-07-28T07:00:00+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Ärztin / Arzt in Weiterbildung – Radiologie (m/w/d) - ärztestellen",
-      "summary_de": "Ärztin / Arzt in Weiterbildung – Radiologie (m/w/d) &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVUJJcGNTbTZ2WHNyMXVjdUVZRFRJMVZGZ2h1SFV3c3kzWXhPUmItV3lRZzNDTnFKNGk4dVctazMwd0UyZ0c3elVDVVF1eUZzd1hLUWxhSk93dnY4Z2Ric2xleVV0dkhaOEgxWVVFVWdNTmFoQmhjX3BHNXdVUjF3ZVE3aS1GRlVxT3p0Y1gyTERCQ1Y3X2thWG9hWWxhdlZkYTdEMg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-28T07:00:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
