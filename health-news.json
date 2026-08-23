@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-08-23T06:27:41.583576+00:00",
+  "generated_at": "2026-08-23T09:20:14.219595+00:00",
   "window_days": 42,
-  "count": 215,
+  "count": 204,
   "items": [
+    {
+      "title": "Neues Virus breitet sich bei Rindern aus - für Kälber kann Infektion tödlich enden - tagesschau.de",
+      "summary_de": "Neues Virus breitet sich bei Rindern aus - für Kälber kann Infektion tödlich enden &nbsp;&nbsp; tagesschau.de",
+      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZy0zaHpHTV9UTGRGZjJ1MDBFT0RBZWxXWl9GelBMRFVYV3JjWEYwbkNvbWoySXBHamVmTzFzeTQyS0N1UjJyMVRnbVJkY2VwWjJwWjhwLWg2Tzhna3lFWVJxRkNRNTFsV21XcFVzOFdVM1FtODRsUXg5Ti1rbDdQTzg2Q1BaM1oycUJiNzNBU1RHbGUyTmJyNTBjLTNRR0xlbnBQbDUtV3dQNTJ3SDlWSzY4X3lYQTMyWlphNVFvOEZjT2NGZWpyMDBmdXRVOElheFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-23T08:16:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "ATMP: Heilen statt behandeln",
       "summary_de": "Arzneimittel f&uuml;r neuartige Therapien (ATMP) sind hochinnovative Produkte, die im Gegensatz zu klassischen Wirkstoffen h&auml;ufig eine Heilung erm&ouml;glichen. Was sind ATMP, wie wirken sie und bei welchen Erkrankungen werden sie eingesetzt?",
@@ -80,16 +90,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbm5HNXJvNW44elp2SWUybUpxSGJuWFFNcWlaYjNPVi0xdVU3a2ZaZktkSUl2bUtEeGk0ZjZXQWJKdkhoRmtkUkxxYW50ZFREWm5qYkJiU281RGZ1S1k4Z0tTMVRLYmkwYnd5OVM1VnNhOE9OUkFReFZ4Z1daNXhQTGRWSlpoM25jUy1nMndESTFTMFJiWGFvaWtMTjlDY3R3SkdUX09QNGhuTTdwbVVyaEQ1bWlPQjUxc0lMYlk4SW5YVms5SHVjRGVJWkNlVVcwWnZtUHpFNWFuNUZGTGtYMkZVbnBPSXBfeVY1TnJ4YldXZE03?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-22T02:00:26+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "How much surveillance imaging is needed for meningiomas?",
-      "summary_de": "Most surveillance MRI or CT exams did not result in intervention, and treatment rates remained stable during the study period.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15833051/how-much-surveillance-imaging-is-needed-for-meningiomas",
-      "published_at": "2026-08-21T17:04:55+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -200,28 +200,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/armutsrisiko-pflegebeduerftigkeit-167760/",
       "published_at": "2026-08-21T10:30:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Week in Review: AI software testing | Wearable ultrasound | Minnies nominations",
-      "summary_de": "The evidence base for FDA-cleared AI software devices in radiology was the most-popular topic on AuntMinnie last week.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/editors-note/article/15833124/week-in-review-ai-software-testing-wearable-ultrasound-minnies-nominations",
-      "published_at": "2026-08-21T09:08:18+00:00",
-      "category": "Studie",
-      "tags": [
-        "Radiologie"
-      ],
-      "type": "Studie"
-    },
-    {
-      "title": "Food insecurity linked to higher risk of death in breast cancer",
-      "summary_de": "Food-insecure regions are where people lack consistent access to enough affordable, nutritious food.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/radiation-oncology-therapy/article/15833108/food-insecurity-linked-to-higher-risk-of-death-in-breast-cancer",
-      "published_at": "2026-08-21T09:03:12+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -372,16 +350,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/neue-kindervorsorgeuntersuchung-u10-eingefuehrt-167727/",
       "published_at": "2026-08-20T14:20:00+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Thermal ablation achieves long-term survival in kidney cancer",
-      "summary_de": "The 10-year overall survival (OS) and cancer-specific survival (CSS) rates were 68.5% and 75.5%.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/interventional/article/15832918/thermal-ablation-achieves-longterm-survival-in-kidney-cancer",
-      "published_at": "2026-08-20T13:55:40+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -548,16 +516,6 @@
       "type": "News"
     },
     {
-      "title": "E-Rezept: 83 Prozent wollen elektronische Verordnungen auch für Heil- und Hilfsmittel - DAK-Gesundheit",
-      "summary_de": "E-Rezept: 83 Prozent wollen elektronische Verordnungen auch für Heil- und Hilfsmittel &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQX2d5X0kyOUxKZi1QSFNtOHRRTWpib3lOUlJzNF94VE5sRk0yTENRLVF5em9vdEI0enZPM1VWX2o0Y2lmMVlyVExFTkNWV2xIcUJIRDN6bWVvcmt3SVlYWkVsNmVxUEV1RFlON29wLUFCOVg0Y25BOU5jODE3VkxBTHVvMktCb1FLU2xEUUt4S1M3M0FVeXpWWUtFMHpZU081bGIxM2ViM3dJWXQtVWpTaV8tLXpuenEzMks5VjVhNnQtZFVwSGxXd3pVM0dyNFRrRkxiMmlHODQwclJZazF3MWNwWkU3QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-20T09:40:13+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Titelthema ATMP: Die neue Ausgabe der PZ jetzt als E-Paper lesen",
       "summary_de": "Die Pharmazeutische Zeitung gibt es auch als vollwertiges E-Paper: unkompliziert, immer p&uuml;nktlich und im Rahmen des Print-Abonnements enthalten. Die neue Ausgabe ist heute erschienen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -660,16 +618,6 @@
       "type": "News"
     },
     {
-      "title": "PET/CT outperforms MRI after focal therapy for prostate cancer",
-      "summary_de": "No accurate noninvasive method has been validated to evaluate treatment response after focal therapy.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15833000/petct-outperforms-mri-after-focal-therapy-for-prostate-cancer",
-      "published_at": "2026-08-20T07:27:33+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Generation perfekt: Versagensangst bei Jugendlichen auf Rekordniveau",
       "summary_de": "Junge Menschen stehen heute st&auml;rker unter dem Druck, perfekt sein zu m&uuml;ssen, als fr&uuml;here Generationen. Laut einer Studie k&ouml;nnte dies mit zunehmender Ungleichheit und nachlassendem Wirtschaftswachstum zusammenh&auml;ngen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -718,16 +666,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "AI framework could improve MRI quality control in prostate cancer",
-      "summary_de": "The framework uses a DL model trained on low- and high-quality MR images and helped improve radiologist accuracy.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15832854/ai-framework-could-improve-mri-quality-control-in-prostate-cancer",
-      "published_at": "2026-08-19T17:56:56+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "SAV-Mitgliedervotum: Verbändefusion zum MAV ist besiegelt",
@@ -790,18 +728,6 @@
       "category": "News",
       "tags": [],
       "type": "News"
-    },
-    {
-      "title": "Most FDA-cleared AI medical devices not tested on patient outcomes",
-      "summary_de": "Of the 1,059 FDA-cleared devices used in radiology, three had a registered trial.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15832887/most-fdacleared-ai-medical-devices-not-tested-on-patient-outcomes",
-      "published_at": "2026-08-19T06:11:14+00:00",
-      "category": "Studie",
-      "tags": [
-        "Radiologie"
-      ],
-      "type": "Studie"
     },
     {
       "title": "GKV-Beitragssatzstabilisierungsgesetz: Ärzte müssen mit deutlichen Einbußen rechnen - Deutsches Ärzteblatt",
@@ -914,16 +840,6 @@
       "type": "News"
     },
     {
-      "title": "New immuno-PET tracer shows promise in lung cancer",
-      "summary_de": "Molecular imaging can provide whole-body visualization and quantitative assessment of PD-L1 expression.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15832803/new-immunopet-tracer-shows-promise-in-lung-cancer",
-      "published_at": "2026-08-18T08:48:01+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "MHRA sets out position on regulation of microbiome-based medicinal products",
       "summary_de": "MHRA publishes position paper clarifying the UK licencing route for microbiome-based medicines, supporting developers to bring these innovative therapies to patients.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -950,16 +866,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYkRCNk56M0lvOVcxcmM1UF9WOFgyUWZWS0tmM1F0d2MwWWthWl8wQW9GX1RCSjZRZ1JqUVAzMDREMkljR3dza0RyODJQY3BXTWlaWmV5cnFYemdJTTVZRXJIamNuaE9PVGduejFqNE5YSEhoMkZ3LWpxVW1keHc2S3QtVzRiRHFMdVBEalp4MVhLb252V0JvMHExdGZoSDVCM2MyTG1hUkFqdXZHUlNCWVNyanlrQ1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-18T07:19:58+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "AI fracture detection device validated across three European hospitals",
-      "summary_de": "No differences in AI performance were observed across centers, and AI assistance was associated with higher reader sensitivity...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15832777/ai-fracture-detection-device-validated-across-three-european-hospitals",
-      "published_at": "2026-08-18T06:19:05+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -1060,16 +966,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUXVKMnhTa1Y0S0tqQWwtb2FkZHRDMjMwOTAtYlZBOUVYc1RzbEdEMGNwaDJQRXN5YzEtSzBJY2dSSkk1STdhdVVXbFJ2Y1JpN3VTNkpVOE1uUXlkcklGcUdNWnlGNmh2YndWNUdpWlVsZTBZdGJXN3RhOGwwRUpSa3VUcmtoWkhrN0lWVkxNQ1VvTUVISEdwbWZhQ015QnpUSkwtYUNkT2VLejg1dlF6aHYya0pWT25fd0dXMS1ldHBrV0YyU2VGWlFaNkFDMTNjaU9icV9R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-17T09:11:13+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "CT for breast radiotherapy detects ischemic heart disease risk",
-      "summary_de": "As survival after early-stage breast cancer improves, cardiovascular disease has emerged as an increasingly prominent competing...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15832683/ct-for-breast-radiotherapy-detects-ischemic-heart-disease-risk",
-      "published_at": "2026-08-17T08:50:38+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1422,16 +1318,6 @@
       "type": "News"
     },
     {
-      "title": "Facharzt Nuklearmedizin oder Radiologie (m/w/d) Doppelfacharzt willkommen - ärztestellen",
-      "summary_de": "Facharzt Nuklearmedizin oder Radiologie (m/w/d) Doppelfacharzt willkommen &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZG91ak1zcGlPcmZKcXRudENoV0p1ekUxZUlnd3hWTVpKd2ZUaUFPTklFWjFZNGlhNmQtLXdYX3RTMDVMLXJPVE8zSGszTjhZd1RkV1F0LWUtZElQSDB2cHJoUGpOcC1TRTF3QURFWUtDS2Y5MTJpWnRKZ2I2YkZFMmt6UDQtdFBnZUszR3FDeWFQMEtrSEFTakhTQldZVEZWMm1XWUcxd0xsSnB2YVN3c0ZFQkdhbGVsLS1Gd2FTZVZWd1lHUWJXVHFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-12T07:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Culture media for human pre‐implantation embryos in assisted reproductive technology cycles",
       "summary_de": "Culture media for human pre‐implantation embryos in assisted reproductive technology cycles",
       "source_name": "Cochrane Library RSS feed.",
@@ -1542,8 +1428,8 @@
       "type": "Studie"
     },
     {
-      "title": "Medizin Jobs in Lünen - RP Online",
-      "summary_de": "Medizin Jobs in Lünen &nbsp;&nbsp; RP Online",
+      "title": "Medizin Jobs in Lünen - RP Stellenmarkt",
+      "summary_de": "Medizin Jobs in Lünen &nbsp;&nbsp; RP Stellenmarkt",
       "source_name": "\"site:rp-online.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NQkVlZTR1RURvWTJOcnNEeWVBRjhxOXJ2ZDZQRXFlTFRmaFRfVVFrbWVjcDkxZVBLSWZXTm5NZnl1WmI0dnVDc2VDa3VNYUF5VDdUZjVvTGs5ZllLR3VoaE9odllJZ0Zp?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-09T19:43:52+00:00",
