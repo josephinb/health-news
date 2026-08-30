@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-29T22:56:22.374765+00:00",
+  "generated_at": "2026-08-30T02:53:35.961248+00:00",
   "window_days": 42,
-  "count": 215,
+  "count": 216,
   "items": [
     {
       "title": "Private Pflege: Wenn der Ex das Bett aufschüttelt - DIE ZEIT",
@@ -411,7 +411,7 @@
     {
       "title": "Fachreferentin / Fachreferent (m/w/d) für das Kompetenzzentrum Digitalisierung und Pflege - GKV-Spitzenverband - ZEIT Stellenmarkt",
       "summary_de": "Fachreferentin / Fachreferent (m/w/d) für das Kompetenzzentrum Digitalisierung und Pflege - GKV-Spitzenverband &nbsp;&nbsp; ZEIT Stellenmarkt",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY2RNaE5VQXd2dUQ1QTdydGltZHVJQ25aOW1Eb1pkU2xaX2xDU0RjanR4bmdTSG00ZWdjaVlKLUFIZ2RoaVhDSHRvUkkxYWxOaFQ3NTRMUHpYSWNYMFQzeE01ZDlmelJfUzZSLXViNjdjNkx4TVZ0VFBITDlhaEVVajRpRUk0ajhEaWdSZGZuZUJ1S25QSktmSnNucGpVcUtaUE9lTHZ3aEZqanFmaHlPOTBwUndjWWd6NERZYTh0UVNSLUZMUHN4TU1xWWNhekhWcUxiMmZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-27T14:47:14+00:00",
       "category": "Gesundheitspolitik",
@@ -1223,16 +1223,6 @@
       "type": "News"
     },
     {
-      "title": "Zur Sache: Daten und digi­tale Inno­va­tion | Die Techniker - Presse & Politik - Techniker Krankenkasse",
-      "summary_de": "Zur Sache: Daten und digi­tale Inno­va­tion | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX3RfdUFzUmN2ZGFaaXBUbS1PeG9EdE55UTB3cDFpNlRDSVZCUHlUc19nUjgyU0xHUnpVdlZVWEs4N20ySm9ncXlGR3JpVFh6YzVTS3pqenJlMGJfdm5QNS1vMzRiQVhzM25aT0hFVmZwVU9hYkxyRjgtV3JUUE5wNWpadFdRSldNaXRtQUFQM1BGTUhnSktZT194X0tzWVAwUlNpVEZTazgyWDVSRXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-24T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Interventions for preventing dengue: a mapping review",
       "summary_de": "Interventions for preventing dengue: a mapping review",
       "source_name": "Cochrane Library RSS feed.",
@@ -1424,6 +1414,16 @@
       "tags": [
         "Versorgung"
       ],
+      "type": "News"
+    },
+    {
+      "title": "(S+) Kaiserschnitt: Was Mütter und Väter zur neuen Leitlinie wissen müssen - Spiegel",
+      "summary_de": "(S+) Kaiserschnitt: Was Mütter und Väter zur neuen Leitlinie wissen müssen &nbsp;&nbsp; Spiegel",
+      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSWFqNHFjejV4Snp4RmpsbFNMVjVmb0REOEF2NnZyRnZTNThVMkp3WWVhSWJERDdXWU5UT0djUEJ6Q0xXdUVFMGh6Y0t3NHZ5MUtQQU1rbWVoakNjOVl6Yl9vX1pPUGYxZ3A5eGJSS1JNWnVZLVc3LUtTNHBFRTg4aENxZ1lpMDc1NnB3RzdFR21JZS12dVhWTTdVT0JXd1YycGNEc3BtcnV6MGQ4YnJpaEVPX2JGQkJKYUM0aUd6YjNZVXp4QlRXSW01cTJNbWc4UUg0VHhZcHA2YWsx?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-20T03:30:00+00:00",
+      "category": "Versorgung",
+      "tags": [],
       "type": "News"
     },
     {
@@ -2029,6 +2029,16 @@
       "tags": [
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Impressum - Techniker Krankenkasse",
+      "summary_de": "Impressum &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55VlNIMURWd21UU185bm1nS0loTzl2NDJmc2ktYnh6UDcxMkl0MTJfV2pTcDN6WkNvcW9FZlhMQ0hudnNORUNJSTVMaWJWQ3RJTGZjcDZPMmg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-07-29T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
