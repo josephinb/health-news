@@ -1,13 +1,43 @@
 {
-  "generated_at": "2026-09-07T02:13:39.360500+00:00",
+  "generated_at": "2026-09-07T07:45:08.484360+00:00",
   "window_days": 42,
-  "count": 200,
+  "count": 207,
   "items": [
     {
-      "title": "Wahl Sachsen-Anhalt: AfD kratzt an absoluter Mehrheit",
-      "summary_de": "Bei der Landtagswahl in Sachsen-Anhalt kratzt die rechtsextreme AfD laut ersten Hochrechnungen an der absoluten Mehrheit. Die CDU erlebt dagegen ein Debakel. Es h&auml;ngt vom Abschneiden des BSW ab.",
+      "title": "Wahrnehmungsforschung: Für wen Verschwörungstheorien attraktiv sind",
+      "summary_de": "Wer im Leben immer wieder mit Schwierigkeiten zu k&auml;mpfen hat und die Welt dadurch als ungerecht empfindet, k&ouml;nnte nach den Ergebnissen dreier aktueller Studien eher einen Hang zu Verschw&ouml;rungstheorien entwickeln.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/afd-kratzt-an-absoluter-mehrheit-168090/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/fuer-wen-verschwoerungstheorien-attraktiv-sind-167917/",
+      "published_at": "2026-09-07T07:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Ärtzetipps: Was Kinderaugen vor Kurzsichtigkeit schützt",
+      "summary_de": "Daddeln am Tablet oder Smartphone macht Kinder kurzsichtig? Die Zusammenh&auml;nge sind komplexer. Welche Tipps &Auml;rzte f&uuml;r gesunde Kinderaugen geben &ndash; und was sich hinter der 20-20-20-Regel verbirgt.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/was-kinderaugen-vor-kurzsichtigkeit-schuetzt-168086/",
+      "published_at": "2026-09-07T06:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "GLP-1-Therapie: Die Gewichtsabnahme gut begleiten",
+      "summary_de": "Ern&auml;hrungswissenschaftler Professor Dr. Martin Smollich vom Universit&auml;tsklinikum Schleswig-Holstein erkl&auml;rt bei der Expopham, warum Inkretinmimetika enormes Potenzial besitzen, ihr Erfolg aber weit mehr erfordert als eine Spritze.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-gewichtsabnahme-gut-begleiten-167646/",
+      "published_at": "2026-09-07T05:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Wahl Sachsen-Anhalt: AfD holt Wahlsieg, verpasst absolute Mehrheit",
+      "summary_de": "Bei der Landtagswahl in Sachsen-Anhalt ist die rechtsextreme AfD laut dem vorl&auml;ufigen Ergebnis klar st&auml;rkste Kraft geworden, hat aber die absolute Mehrheit verpasst. Die CDU erlebt dagegen ein Debakel. Das BSW k&ouml;nnte zum entscheidenden Faktor werden.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/afd-holt-wahlsieg-verpasst-absolute-mehrheit-168090/",
       "published_at": "2026-09-06T16:05:09+00:00",
       "category": "Wirtschaft",
       "tags": [],
@@ -19,16 +49,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYUoxTWxlRVRmcWpkUHB3VGZlNWNrUV9ENTlOamxWMk5vdE5vdTJabFQ5UmNjNEVRNURjQWpLcTFEbE8xZ3FrNmNpV3VENUUwVmJ1dWpxdC0zV041aVMxME9Cc1h1UGFJWVd1TmJFTXp6NHZpaWZSWnVaMXJhLUQyQ29PY29TNVljNXo5eXZhS2s2RG5EelhVM1czQTh0NjhQOWxjVHcwWDRlUDdsU29CMkY3RDZZQnlfdEdjandGUTMtV0pqTXl1RVdkMXRCM0RCQloyejlaT050eXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-06T02:15:05+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Durchsuchung - Einsatz in Bremer Pflegeheim - Bewohner unterversorgt? - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Durchsuchung - Einsatz in Bremer Pflegeheim - Bewohner unterversorgt? - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSHZQR3VJWVJ4dm9vSUh3dWlaSUNuVV9rdW92emJHLWNZZUhhbDJLbzhnRjU0REd0MW5oOTBNeGV5MHM0NlZ2M1p6S0tPb2xRVnl1bVJmblpOczRaNDV1UFJoWXJzQ0dBeWhiS09fcV9zWk45UFZ4XzFqemtqVmk1VkhuMC1PcmtqMXhwMERHRUdybEN3RTd6NzZneGVYR0RwMV9hU0ZKdVZOU01XcVVaeUJwSzhJdVdncnBwcll2Q2NCVS10TmZRa3BhUHhsWUhnN0ZrclZfbjFfNWNWbnp3YjRuUFpJVmx4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-05T15:11:44+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -318,6 +338,19 @@
       "type": "News"
     },
     {
+      "title": "Meldung: „Gute Prävention wirkt“",
+      "summary_de": "Weniger Krankenhausbetten, mehr Prävention, passgenaue Versorgung am richtigen Ort – so skizziert Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, drei wesentliche Bereiche des Gesundheitswesens, die dringend Reformen brauchen. Im Podcast „Lebensretter“ der Björn Steiger Stiftung sagte er: „Wir haben es ein bisschen verschlafen, das System moderner aufzustellen.\"",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2304320.jsp",
+      "published_at": "2026-09-04T07:45:16+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "Brief an Apotheken: DAK ist Fan der pDL",
       "summary_de": "Die DAK-Gesundheit ermuntert Apotheken dazu, mehr pharmazeutische Dienstleistungen zu erbringen. Denn eine sichere Arzneimitteltherapie spare auch der Krankenkasse Geld, hei&szlig;t es in einem Schreiben an Apotheken.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -338,8 +371,8 @@
       "type": "News"
     },
     {
-      "title": "Schwergewicht am Haken: Vier Tonnen schweres MRT schwebt per Kran in Ottobrunner Radiologie - Merkur",
-      "summary_de": "Schwergewicht am Haken: Vier Tonnen schweres MRT schwebt per Kran in Ottobrunner Radiologie &nbsp;&nbsp; Merkur",
+      "title": "Schwergewicht am Haken: Vier Tonnen schweres MRT schwebt per Kran in Ottobrunner Radiologie - merkur.de",
+      "summary_de": "Schwergewicht am Haken: Vier Tonnen schweres MRT schwebt per Kran in Ottobrunner Radiologie &nbsp;&nbsp; merkur.de",
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdjBEMFJ6VU1PWktKSmhjTXc3Zk9ZQ2N6MnowcFBkbVczdkFzRUdEMjRpYUlfTEpyZUhtTkJ4dnF6aDZWNExCcFVaQUZvTWFVcWxFdmJpaUZhWUx0YjAyS2RLeWpibEh5SVRQWU5HMUNyb3pURU1nc25Zc2tlQjZWUXBpUkR1TEtWTTlraFVvZkpVYW9od3JhSWoxWTFjMXRjalZvN1dvckdkeFBfYlh2eXJKUVdDcGZVRFZTMUJpX25QZnNEU0l5Z25uU2Rfa0tUQkRFRUswZlljdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-04T05:30:00+00:00",
@@ -538,16 +571,6 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit - Linnemann will Ärztemangel lindern - Politik - SZ.de - SZ.de",
-      "summary_de": "Gesundheit - Linnemann will Ärztemangel lindern - Politik - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT0o4bEw4QktsYWRkQmF3Tm5UaWRkZGFLdW9tY3VCYjhEaGFtY1prdGxMVGpXdGFXekdLMDEtS3RhRUVZb2FkVGstTXlRcTVuQzJRM1ozLVZXQWxzLXQydUx1SG1rVlhJcGlwWnFFYlBxZDBvMG9tX05Ub05TWEgyOHFwREFJWXpaa0dNRnlBV21KOUlfS3pvNw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-03T12:46:36+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Chronische Nierenkrankheit: Kreatinin-Wert reicht zur Früherkennung nicht aus",
       "summary_de": "Bei einem unauff&auml;lligen Kreatinin-Wert sind die Nieren nicht automatisch gesund. F&uuml;r eine verl&auml;ssliche Fr&uuml;herkennung sind weitere Untersuchungen notwendig.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -668,13 +691,15 @@
       "type": "Studie"
     },
     {
-      "title": "Lost Places: Verlassene Apotheken und ihre Geschichte",
-      "summary_de": "W&auml;hrend in einigen stillgelegten Apotheken heute Museen zu finden sind, bleiben andere Offizinen Lost Places &ndash; teilweise sogar mit einsehbaren Akten, abgelaufenen Medikamenten und Laborausstattung.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/verlassene-apotheken-und-ihre-geschichte-167897/",
-      "published_at": "2026-09-03T09:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
+      "title": "Meldung: Das Kostenproblem ist gewaltig",
+      "summary_de": "„Nur wenn alle bereits beschlossenen Sparmaßnahmen voll durchgezogen werden, kann die im nächsten Jahr bei der gesetzlichen Krankenversicherung klaffende 18-Milliarden-Finanzlücke geschlossen werden. Es ist kein Millimeter Spielraum“, so Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2303680.jsp",
+      "published_at": "2026-09-03T08:57:25+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -684,26 +709,6 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/access-to-crisis-care-via-nhs-111---mental-health/july-2026",
       "published_at": "2026-09-03T08:33:32+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Berlin-Wahl: Wie wird die Apotheke krisenfest?",
-      "summary_de": "Gesundheitsversorgung ist essenziell &ndash; gerade im Krisenfall. Doch Deutschland ist kaum auf diesen vorbereitet. Daher wurde am Mittwochabend in Berlin dar&uuml;ber diskutiert, wie die Gesundheitsversorgung in der Hauptstadt resilienter werden kann.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/wie-wird-die-apotheke-krisenfest-168018/",
-      "published_at": "2026-09-03T08:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Titelthema Blutprodukte: Die neue Ausgabe der PZ jetzt als E-Paper lesen",
-      "summary_de": "Die Pharmazeutische Zeitung gibt es auch als vollwertiges E-Paper: unkompliziert, immer p&uuml;nktlich und im Rahmen des Print-Abonnements enthalten. Die neue Ausgabe ist heute erschienen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/die-neue-ausgabe-der-pz-jetzt-als-e-paper-lesen-168025/",
-      "published_at": "2026-09-03T08:25:09+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -798,6 +803,16 @@
       "type": "News"
     },
     {
+      "title": "Tarifverhandlungen - Warnstreik der Pflegekräfte an der Charité - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Tarifverhandlungen - Warnstreik der Pflegekräfte an der Charité - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRG5rQkNDOVc1REdzVlh5RFhDNDdNemtDRmVPVjlPQmRWLVNfSUY4Z1dOaHRERndBdFR3WDJPMUxqUFZYaklMc1BNTnktUWZ0Um15R0ljTXNIUURjOVRCenVsUzVCS0dLQVVWaDExSHFnTDVacjgwU0xRZmF0U1BxUE5uT3lhakZ1OXlOVEpMQUc4U2UxWW93aE84N1BBLWpsUGFCRU0xYmpRTkhRajR4d3dZNXRBN0FJem1jY3pGVW5HN2tUa0xZd0Q4bmJRUEM4RndLa2VqYjJMUGIxbldnRGFtQktzUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-02T17:27:32+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Fachreferentin / Fachreferent (m/w/d) in der Forschungsstelle Pflegeversicherung - GKV-Spitzenverband - ZEIT Stellenmarkt",
       "summary_de": "Fachreferentin / Fachreferent (m/w/d) in der Forschungsstelle Pflegeversicherung - GKV-Spitzenverband &nbsp;&nbsp; ZEIT Stellenmarkt",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
@@ -824,6 +839,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb1ppNkNnY2M2RzJiS25ibktYUkhhSEtTWEhPdVV3NTZpZEs4a2hKemIxYmo4aXczczJEd1d0bEx4WHE2aWhLb1JoNDl6anA1YjdRUlB3U2haTmd4MmRpR2I4U2EzNjJRazlaM21uNFpfZEphRTlwRG9Ec2dhLW45aGNkQ0VUQ3RSMFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-02T13:20:56+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Jobs in Pflege- und Gesundheit zählen weiter zu Engpassberufen – News - Deutsches Ärzteblatt",
+      "summary_de": "Jobs in Pflege- und Gesundheit zählen weiter zu Engpassberufen – News &nbsp;&nbsp; Deutsches Ärzteblatt",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY05kbHRYTVNsTWNNNlNPaXJPOFNRRTRYVUZtYk4tbG53N1F2blMxdWpTclVYbjQxRTdYMTlvdDUyVzhCT2VkSjdGeHZQOGJ0WjM0OWlKLWVRUFI2UjFpUmNlcGRzemJuWW9GZ0JFR0lNVERaY2k3cXYxWkpvWkUxMlowV0xMOTBlM205T05oREpWNUdaU1NGYXdITTljdlRSTWtpSVJSZUY0X0cwR3M1STcycFBjeThnWGgtRWhyLTVQeXZYbFQ5ZTdn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-02T13:09:10+00:00",
+      "category": "Versorgung",
       "tags": [],
       "type": "News"
     },
@@ -1070,16 +1095,6 @@
       "type": "News"
     },
     {
-      "title": "„Pflege akut in Not“: Was bedeutet der Weckruf der Kassen? - SZ.de",
-      "summary_de": "„Pflege akut in Not“: Was bedeutet der Weckruf der Kassen? &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbERBZ1pUSzRNYlNhYUQ1bWNOaDJ2enIySlBuV2hQRWc2b0dyQjhmdFhxVWQ2RkIxTU5jb3ltT1RBS1JteHc3Z0l4QlpXQlY1MmtGRnkwMVpzLXkwZ2N3RjJRMzBmcWlDcVZIVzMwSzE0cWZIZmstT29PZ3ozcHlxdGdpMm8yYlBLN25Wbkg5bTJkMHNFbUlGY3pjS0N3Y3RWZ3BYN3N1LW1WN3IzT2ZIcm5ZQURsMlFTVDkxTTVaaEFob2lWOUo5eFpQMmhVeHh5V3pHOWlLeElQVVl5WWRRWEpsS2JIY3BoR2tITDZlSVFkeFhv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-31T13:03:16+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit - Pflegekassen schlagen wegen dramatischer Finanzlage Alarm - Politik - SZ.de - SZ.de",
       "summary_de": "Gesundheit - Pflegekassen schlagen wegen dramatischer Finanzlage Alarm - Politik - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1087,6 +1102,32 @@
       "published_at": "2026-08-31T12:17:14+00:00",
       "category": "News",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pressemitteilung: Alarmstufe Rot in der Pflege!",
+      "summary_de": "„Die Pflege ist akut in Not. Es herrscht Alarmstufe Rot. Die Ausgaben steigen fast dreimal stärker als die Einnahmen, die Dramatik ist offensichtlich. In diesem Jahr wird die Pflegeversicherung ein Defizit von 4,4 Milliarden Euro machen\", konstatiert Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, im Rahmen der heute stattfindenen Pressekonferenz des GKV-Spitzenverbandes.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2302400.jsp",
+      "published_at": "2026-08-31T07:33:41+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "gemeinsame Pressemitteilung: Letzter Baustein für neue Form der Basisversorgung – Start ab Januar 2027",
+      "summary_de": "Eine neue Form der wohnortnahen medizinischen Versorgung kann starten: Der GKV-Spitzenverband, die Deutsche Krankenhausgesellschaft und der Verband der Privaten Krankenversicherung haben sich darauf geeinigt, wie die Leistungen der geplanten sektorenübergreifenden Versorgungseinrichtungen vergütet werden.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2301760.jsp",
+      "published_at": "2026-08-28T12:09:35+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -1187,6 +1228,19 @@
       "published_at": "2026-08-27T08:40:25+00:00",
       "category": "Europa",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pressemitteilung: Mehr Digitalisierung für eine zukunftsfeste Pflege",
+      "summary_de": "Die Herausforderungen in der Pflege sind immens und werden in den kommenden Jahren weiter wachsen. Der Engpass von finanziellen und personellen Ressourcen erfordert neue Wege, um den Versicherten in der sozialen Pflegeversicherung weiterhin verlässlich eine gute pflegerische Versorgung zu ermöglichen. Die Digitalisierung kann dabei helfen, sofern ihre Möglichkeiten konsequent genutzt werden. Der Verwaltungsrat des GKV-Spitzenverbandes hat dazu auf seiner heutigen …",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2301156.jsp",
+      "published_at": "2026-08-27T08:38:45+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -1425,6 +1479,18 @@
       "type": "News"
     },
     {
+      "title": "Meldung: Krankenhäuser erhalten mehr Geld",
+      "summary_de": "„Die Krankenhäuser sind innerhalb und außerhalb des Gesundheitswesens die einzige mir bekannte Branche, die bei Mehreinnahmen von 5,5 Prozent von Kürzungen spricht“, sagte Stefanie Stoff-Ahnis, stellvertretende Vorstandsvorsitzende des GKV-Spitzenverbandes, im Gespräch mit der Rheinischen Post.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2300516.jsp",
+      "published_at": "2026-08-24T08:07:50+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "Gesundheitspolitik: Roboter gegen Einsamkeit: Köpping lobt Südkorea - DIE ZEIT",
       "summary_de": "Gesundheitspolitik: Roboter gegen Einsamkeit: Köpping lobt Südkorea &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
@@ -1465,8 +1531,8 @@
       "type": "Studie"
     },
     {
-      "title": "Ärztin / Arzt in Weiterbildung – Radiologie (m/w/d) - aerztestellen.aerzteblatt.de",
-      "summary_de": "Ärztin / Arzt in Weiterbildung – Radiologie (m/w/d) &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
+      "title": "Ärztin / Arzt in Weiterbildung – Radiologie (m/w/d) - ärztestellen",
+      "summary_de": "Ärztin / Arzt in Weiterbildung – Radiologie (m/w/d) &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS0VVMzQ5YWM0NklUUjFzVXVrb3RFQlZYbHNveTM0ZjBmMzdGaWg4bG1kUTVGRDNxZEs0VFYzZl9kYWtSX3RHalhEYmptRWc5V3RhYkdsVjBuNHFsVklWRDQzQzhRMWRPTERwejVDckRGR0xtX1pTZWlEVzAyRm8wdERmZGE3SDV1b3Z3Y2w2azZGYXdyc2NuYV9fMExSMG1YbnE3eA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-23T07:00:00+00:00",
@@ -1522,6 +1588,18 @@
       "published_at": "2026-08-20T12:40:19+00:00",
       "category": "Europa",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pressemitteilung: Bessere Prävention dank Früherkennung",
+      "summary_de": "Mit dem heutigen Beschluss des Gemeinsamen Bundesausschusses haben alle gesetzlich versicherten Kinder im Alter von 9 – 10 Jahren Anspruch auf eine zusätzliche Früherkennungsuntersuchung. Außerdem wurde die bestehende Jugendgesundheitsuntersuchung (J1) überarbeitet, die Ergebnisse werden künftig auch im Kinderuntersuchungsheft dokumentiert.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2299712.jsp",
+      "published_at": "2026-08-20T09:50:10+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -1627,16 +1705,6 @@
       "type": "Studie"
     },
     {
-      "title": "Gesundheit & Psychologie - SPIEGEL Shop",
-      "summary_de": "Gesundheit & Psychologie &nbsp;&nbsp; SPIEGEL Shop",
-      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxMmt6d09POEFBQ3R5U3VUUUFYLXNVQnp5dE9pMFNQYVo3Mjg3T0xwZGdDa2hKVm9iY081MExKNWpVd3hVcnhuc3dLeXBPcHJMaTRJSkhXUnFoU1pOUW1HQjF0bWRpNUs4TFRvVEZDNUYzU1c3MERVbzBJcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-14T21:40:03+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "vdek fordert mehr Engagement von Bund und Ländern für klimaneutrale und nachhaltige Krankenhaus- und Pflegeversorgung",
       "summary_de": "Krankenhäuser und Pflegeeinrichtungen müssen besser auf zunehmende Hitzewellen vorbereitet werden. Der vdek fordert Bund und Länder auf, stärker in Hitzeschutz und klimaresiliente Strukturen zu investieren und dafür auch Mittel aus dem Sondervermögen einzusetzen. Zudem braucht es einen nationalen Hitzeschutzplan.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -1654,6 +1722,30 @@
       "published_at": "2026-08-14T08:31:02+00:00",
       "category": "Europa",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Meldung: Da ist noch Luft nach oben",
+      "summary_de": "Über Gleichberechtigung im Gesundheitswesen, Teamplay in der Familie und Karrierechancen sprach die stellvertretende Vorstandsvorsitzende des GKV-Spitzenverbandes, Stefanie Stoff-Ahnis, mit dem Fachmagazin „casus quo“.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2298532.jsp",
+      "published_at": "2026-08-14T07:49:44+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Meldung: Rechtsgrundlage für die Vereinbarung von Bundespraxisbesonderheiten entfallen",
+      "summary_de": "Mit Inkrafttreten des GKV-Beitragssatzstablisierungsgesetz (BStabG) am 30.07.2026 ist die Rechtsgrundlage für die Vereinbarung von Bundespraxisbesonderheiten als Inhalt von Erstattungsbetragsvereinbarungen nach § 130b SGB V entfallen. Aufgrund der Streichung von § 130b Abs. 2 SGB V a. F. hat der GKV-Spitzenverband keine Befugnis mehr zur Vereinbarung von Praxisbesonderheiten für die Zukunft.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2298112.jsp",
+      "published_at": "2026-08-13T11:34:46+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -1829,16 +1921,6 @@
       "type": "News"
     },
     {
-      "title": "(S+) Reform des Sozialstaats: Geht es bei Rente, Gesundheit und Steuern gerecht zu? - Spiegel",
-      "summary_de": "(S+) Reform des Sozialstaats: Geht es bei Rente, Gesundheit und Steuern gerecht zu? &nbsp;&nbsp; Spiegel",
-      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZDVVTUNTTzJDdjMwWkIydHBETmdOeWJvMjQxQjZzeHhJVll1UUJuSl91bVh0cXV3dDR5czlXMmQ1c2lvWW1lWnBnYVZ1NEpkQWtzWUJ3b1puRjRENl9aV05STnVxQlpQWlBQTEFISFRzNE5HMFlpbnBaYlNIMklHTHhrUlIzZWNqNVVUdVZfNnpzX1M3MHdwZ05TSWN1ZHFWZUlNc0ZuNEMweFlyS2dFcWJDcjlFSUFxVlA2cm95WlNMdEw2T2lmNjhHN0RBdm1sWC1DNEhlS09oajBhSGhkVWxB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-08-06T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
       "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
@@ -1994,6 +2076,18 @@
       "type": "News"
     },
     {
+      "title": "Pressemitteilung: Glückwunsch an den neuen Bundesgesundheitsminister: Es bleibt viel zu tun!",
+      "summary_de": "Zur heutigen Ernennung von Dr. Carsten Linnemann als Bundesgesundheitsminister erklärt der Vorstandsvorsitzende des GKV-Spitzenverbandes Oliver Blatt: „Wir gratulieren Herrn Dr. Linnemann zu seiner neuen verantwortungsvollen Aufgabe und freuen uns auf eine gute Zusammenarbeit. Für die bevorstehenden Herausforderungen wünschen wir Herrn Dr. Linnemann viel Erfolg und stets eine glückliche Hand.\"",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2294656.jsp",
+      "published_at": "2026-07-29T08:55:29+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "Impressum - Techniker Krankenkasse",
       "summary_de": "Impressum &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
@@ -2014,13 +2108,15 @@
       "type": "News"
     },
     {
-      "title": "Arzt für eine Ausbildungsstelle im Sonderfach Radiologie in Vollzeitbeschäftigung (m/w/d) - aerztestellen.aerzteblatt.de",
-      "summary_de": "Arzt für eine Ausbildungsstelle im Sonderfach Radiologie in Vollzeitbeschäftigung (m/w/d) &nbsp;&nbsp; aerztestellen.aerzteblatt.de",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdHZESzdDU2lMSHBVemdiSXJqVThEU2hlNzZUZnZaQU5NQzYzT3pzNFpiWVhmeUhHLTNuVVRGSXk3dHdjb3ZuaV9MQlBVYS1vLWRpREYzNjgxai1WR0RvWm9PYjVTVllRUTQ5b0pweVJSS212Yzd0VlBiWDgwcFFpUU85WTBhYXhnT1QyY2o5UWMwWThoUW4xOTBKTlV6N2I3Y3pPVmhIU051R0hJaVBzUXd3b1AzamZSQmM5ZEV5QzBUX1lFcGk4bkcwTF9fajVvclhSQWZR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-07-27T07:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
+      "title": "Pressemitteilung: Gut 80 Prozent der GKV-Versicherten greifen zu Hilfsmitteln ohne Mehrkosten",
+      "summary_de": "Wer einen Rollator, ein Hörgerät oder Schuheinlagen benötigt, muss nicht mehr als den Eigenanteil zahlen. Die gesetzlichen Krankenkassen finanzieren für ihre Versicherten das medizinisch notwendige und zugleich wirtschaftlichste Hilfsmittel. Dieser Anspruch gilt jedoch nicht für Extras: Wenn allein aus Gründen der Ästhetik oder des Komforts zusätzliche Kosten entstehen, müssen Versicherte hierfür selbst aufkommen.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2293952.jsp",
+      "published_at": "2026-07-27T11:39:31+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     }
   ],
