@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-09-09T18:13:08.107142+00:00",
+  "generated_at": "2026-09-09T22:51:09.726645+00:00",
   "window_days": 42,
-  "count": 210,
+  "count": 207,
   "items": [
+    {
+      "title": "Bianca Kastl, Innovationsverbund Öffentliche Gesundheit, zum Pro und Kontra der neuen Eudi-Wallet - tagesschau.de",
+      "summary_de": "Bianca Kastl, Innovationsverbund Öffentliche Gesundheit, zum Pro und Kontra der neuen Eudi-Wallet &nbsp;&nbsp; tagesschau.de",
+      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81TTY3UEdIaWxkZFNOMGZoMkt2My1IOHV0SHFmZ2cyMkFKaWtFemJhZVBrNDFkUzA3MmJuMnBxV3FSdUhrZUZWZ2FpRzlpaVdjSkNXZk5VYXR5RE96LTdZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-09T17:59:20+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Vaginalmykosen: Was bringen Probiotika bei Scheidenpilz?",
       "summary_de": "In der neuesten Ausgabe des monatlichen EviNews-Newsletters stehen Probiotika bei vulvovaginaler Candidose im Fokus. Vor allem als Add-on zu einer antimykotischen Therapie k&ouml;nnten sie demnach von Nutzen sein.",
@@ -294,16 +304,6 @@
       "type": "News"
     },
     {
-      "title": "FLEX Satellit der ESA misst Gesundheit der Vegetation - FAZ",
-      "summary_de": "FLEX Satellit der ESA misst Gesundheit der Vegetation &nbsp;&nbsp; FAZ",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQenQ0THJiYmtlVFBvUTAtaTNZNG9HWkhYeGhSRHVNWEpvbkNRdHR1RHlxcUVfb29QT3l0bTNON29Ya3J4ZDdSSEtOLWQyM0VuVlNWZ0Q4T3ZEb19YY2w0c0kxaWxGNGNQTWpPMHgwTGNWZUt5VTNMUXRzOXRoSGg2c1FCUW92MFRCT0RJSGNyeUNpa2xiWDl5STgtVkh3N2RtM2RlZ2NscG42NnJVTkpVTlZzdVBXUHRVTW9kRk54YzM0ZGVzVnhPS01n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-09T05:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Mehrlingsschwangerschaft: Ursachen & Chancen - DAK-Gesundheit",
       "summary_de": "Mehrlingsschwangerschaft: Ursachen & Chancen &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
@@ -312,6 +312,18 @@
       "category": "News",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Imaging‑based models for predicting cerebrovascular complications of carotid stenosis",
+      "summary_de": "Imaging‑based models for predicting cerebrovascular complications of carotid stenosis",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016391",
+      "published_at": "2026-09-09T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [
+        "Radiologie"
+      ],
+      "type": "Studie"
     },
     {
       "title": "Holmium laser enucleation of the prostate for the treatment of lower urinary tract symptoms in men with benign prostatic hyperplasia",
@@ -331,18 +343,6 @@
       "published_at": "2026-09-09T00:00:00+00:00",
       "category": "Studie",
       "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Imaging‑based models for predicting cerebrovascular complications of carotid stenosis",
-      "summary_de": "Imaging‑based models for predicting cerebrovascular complications of carotid stenosis",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016391",
-      "published_at": "2026-09-09T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [
-        "Radiologie"
-      ],
       "type": "Studie"
     },
     {
@@ -628,8 +628,8 @@
       "type": "News"
     },
     {
-      "title": "Weniger Strahlung, schärfere Bilder: Neues CT in Cottbus in Betrieb - niederlausitz-aktuell.de",
-      "summary_de": "Weniger Strahlung, schärfere Bilder: Neues CT in Cottbus in Betrieb &nbsp;&nbsp; niederlausitz-aktuell.de",
+      "title": "Weniger Strahlung, schärfere Bilder: Neues CT in Cottbus in Betrieb - NIEDERLAUSITZ aktuell",
+      "summary_de": "Weniger Strahlung, schärfere Bilder: Neues CT in Cottbus in Betrieb &nbsp;&nbsp; NIEDERLAUSITZ aktuell",
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMTNaa3RWVjFHU3JJRjVvZ1VyS2RySW9ZSTMzcWwtejZaUlNTQ1BucUt4dGJnZVliY2FLMlhZcEo5WkhTdk5YS2J2U1FweWxUYWhrWHp4aC1GTjlLSHZqWlg3bTVrb09PWW5kenlxQzNvYzNtek9senFTYUxESnVLSFRQcmhLcFNfOHdoMU0tdzQzOVRGeGFaeWppY2JET1VLMTNQb1JmUVVuRWtGcjdKa3hlOUEzeVlUdWIxMlZISHdLUGVZS0F3Tm56M2tWLVFWQ0Y5a00wZm9icEZsamtVazlTdnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-07T12:40:10+00:00",
@@ -648,8 +648,8 @@
       "type": "News"
     },
     {
-      "title": "Professur für Mathematik im Bereich Digital & Public Health (W2) - ZEIT Stellenmarkt",
-      "summary_de": "Professur für Mathematik im Bereich Digital & Public Health (W2) &nbsp;&nbsp; ZEIT Stellenmarkt",
+      "title": "Professur für Mathematik im Bereich Digital & Public Health (W2) - jobs.zeit.de",
+      "summary_de": "Professur für Mathematik im Bereich Digital & Public Health (W2) &nbsp;&nbsp; jobs.zeit.de",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQ2w4SUVMNU9pR0VxR3dzVy1UdUM2dmgtZWdDTmtxMmlHNzZ0eW1fdmg5RklvSkM5OV83d213VkJtRVQxc2FIQVNVRjNxUFFGVnFUcnhndGRrTmdZSTR2OXBTcGFKNlFOcVhiR2M0M29fWGZBcHFKWUo4YjVfSmVSN0ZXdktrMzZDRTh3Q0hpR0NhNTZtZmRJUDRxTWx1MHZfV0YwT1BBLVRHSmVZVHk2c3gyeUVMeXBtaUl4M2VVV0FhS3RFeXQzQWxKckpQX1J5bGR1R0t1b0ZaMnU2dHlj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-07T09:17:18+00:00",
@@ -965,6 +965,16 @@
       "type": "News"
     },
     {
+      "title": "Gesundheit - Linnemann will Ärztemangel lindern - Politik - SZ.de - SZ.de",
+      "summary_de": "Gesundheit - Linnemann will Ärztemangel lindern - Politik - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT0o4bEw4QktsYWRkQmF3Tm5UaWRkZGFLdW9tY3VCYjhEaGFtY1prdGxMVGpXdGFXekdLMDEtS3RhRUVZb2FkVGstTXlRcTVuQzJRM1ozLVZXQWxzLXQydUx1SG1rVlhJcGlwWnFFYlBxZDBvMG9tX05Ub05TWEgyOHFwREFJWXpaa0dNRnlBV21KOUlfS3pvNw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-03T12:46:36+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gesundheit: Mehr als 60 auffällige Drogenproben auf Festivals entdeckt - DIE ZEIT",
       "summary_de": "Gesundheit: Mehr als 60 auffällige Drogenproben auf Festivals entdeckt &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -1019,16 +1029,6 @@
       "summary_de": "Entsendung ins Ausland | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbVlKSFYwWHh5Y19TNDFmZzZwTzFMc3NDS0VUR1NiTEJoZ1Z4ZnB3b1VLSTRaaFdqSWg0Wl9xdEtnMFplRVJadWpxeU9jWWhFanA0ZUVwTERMQWxfZnlfYWF1U2JLOG1UZ3paZ3ljWjIyNlVxSFN6OFA3WkRVblZkT0R2M01HbWs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-03T10:45:15+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Häufige Fragen zu Sozialversicherungsabkommen | Die Techniker - Firmenkunden - Techniker Krankenkasse",
-      "summary_de": "Häufige Fragen zu Sozialversicherungsabkommen | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZjVvaDRkRk9wOGN5dHdza08xZkFrZUg1NW5tWF9KeTRhTWE3a0ZnNW9HUkJ4ZmZWSDJncVg2UTM4QUI0dkdocVpDcUlPWHdlNS1zQVVuR1pPQTJ6TGJrS2s0RFc2aUdRQzBpYlFqUW1lSHBlQmd0cTVtckRCN2lfRUhtME4xNm1idkJwdmNiYXNsdzA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-03T10:45:15+00:00",
       "category": "News",
       "tags": [],
@@ -1095,36 +1095,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Professor:in oder Nachwuchsprofessor:in oder Lehrkraft für besondere Aufgaben (m/w/d) für Berufspädagogik Gesundheit und Pflege - ZEIT Stellenmarkt",
-      "summary_de": "Professor:in oder Nachwuchsprofessor:in oder Lehrkraft für besondere Aufgaben (m/w/d) für Berufspädagogik Gesundheit und Pflege &nbsp;&nbsp; ZEIT Stellenmarkt",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOS2VjQ2l3bW56S0tUNVRfSkpVbldrT3NKQU9sVi1XLU9EMjl6QnFubGZSdXRTUFFFNktlZUUyNHNNVGpXZlVmWENBZzM4c2xIbm9Qc0lzNTFnWlBFZnp0LU9Tc1I4U2huNUkwUGhEVHRzTXEwSnhub05VcnRPU1RUYl9KYXdQaW85NEEtSDJkYmxxbjdGa2x1RC1iUHZIZXhacnhfZVo2SE9pWXNEQTYxMVF2VzEwWU5yTlZkajJ0cjJtWG9EZU9jQTB1Y2pHZUNmcmJjd1F6Y3NyMl8xWEYzN2Rsc1BabWV3bFV6Q0pOeUh4eW9nall4QlVHVDdFVnQ1WjI0MEFGZDJzU2RSeGxBVXc2MmNCTGcxVkVoUTdOMGNVQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-02T22:10:38+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Lehrstuhl für Geschichte und Ethik der Medizin (W 3) - Universität Passau - ZEIT Stellenmarkt",
-      "summary_de": "Lehrstuhl für Geschichte und Ethik der Medizin (W 3) - Universität Passau &nbsp;&nbsp; ZEIT Stellenmarkt",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOGZrSDgxWUlkZE9XMHJBR29jT1Z2U3A0dm9ZYXBZMkNmLWJXbzJXSlFYR1l5NG56dzJ4WFJVVTJVLVY5dWlzTnNYUG5vY0hKNk84THlhMEZLOTE4RGYyRXdjaFg4dHlyMXpIZVVvSlA0WWU3TzdmOGZUZG92c1pvUW9NcGIzQUd1LW82bmN1eHFEdEFtbFRMZFJRRUlBYWdsa3haejVOUGQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-02T22:00:57+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Kriminalität und Gesundheit: Prozess um Tod dreier Kinder: Jury weiter uneinig - DIE ZEIT",
-      "summary_de": "Kriminalität und Gesundheit: Prozess um Tod dreier Kinder: Jury weiter uneinig &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX2dWcDNibm56QmY2aFZDcDdCN2NoRnhsN0hIXzBCa2RqSTRORzZEREZCTG5xVHdpVDhOYnR6VlN5TVJPTFRSYlpYbHVlaFhQdUE5d2M0MUU2QXFoQ2ZqcVZuSXpaYkVMNF9GWWlCQU9Dclc5a2JkVmtiZkp4VVJmTGxXVzJEbTU5elQ2Zg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-02T18:42:36+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Sex in der Schwangerschaft: Tipps einer Hebamme - DAK-Gesundheit",
@@ -1519,6 +1489,16 @@
       "type": "News"
     },
     {
+      "title": "Electronic cigarettes for smoking cessation",
+      "summary_de": "Electronic cigarettes for smoking cessation",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010216.pub11",
+      "published_at": "2026-08-26T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "Hearing aids for mild to moderate hearing loss in adults",
       "summary_de": "Hearing aids for mild to moderate hearing loss in adults",
       "source_name": "Cochrane Library RSS feed.",
@@ -1533,16 +1513,6 @@
       "summary_de": "Minimizing blood sampling in preterm infants",
       "source_name": "Cochrane Library RSS feed.",
       "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016077.pub2",
-      "published_at": "2026-08-26T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Electronic cigarettes for smoking cessation",
-      "summary_de": "Electronic cigarettes for smoking cessation",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010216.pub11",
       "published_at": "2026-08-26T00:00:00+00:00",
       "category": "Studie",
       "tags": [],
@@ -1633,16 +1603,6 @@
       "type": "Studie"
     },
     {
-      "title": "Interventions for preventing dengue: a mapping review",
-      "summary_de": "Interventions for preventing dengue: a mapping review",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016299.pub2",
-      "published_at": "2026-08-24T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
       "title": "Synthetic versus biological patches for carotid endarterectomy",
       "summary_de": "Synthetic versus biological patches for carotid endarterectomy",
       "source_name": "Cochrane Library RSS feed.",
@@ -1653,8 +1613,18 @@
       "type": "Studie"
     },
     {
-      "title": "Gesundheitspolitik - spiegel.de",
-      "summary_de": "Gesundheitspolitik &nbsp;&nbsp; spiegel.de",
+      "title": "Interventions for preventing dengue: a mapping review",
+      "summary_de": "Interventions for preventing dengue: a mapping review",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016299.pub2",
+      "published_at": "2026-08-24T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Gesundheitspolitik - Spiegel",
+      "summary_de": "Gesundheitspolitik &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXSnVSelA3c21DdllTaFZVT2Voa2d1bU05eG8xbWxmTGU4a0JYZFdVQW95N25lUUpXNkNPM2ZmZm4yd18yN2FjdEQ4bXdMRFp1dHZQaVVGR29GUUQtS2lXX1Fn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-23T00:53:39+00:00",
@@ -1901,8 +1871,8 @@
       "type": "News"
     },
     {
-      "title": "Johanniter-Krankenhaus Treuenbrietzen Weiterbildungsermächtigungen - johanniter.de",
-      "summary_de": "Johanniter-Krankenhaus Treuenbrietzen Weiterbildungsermächtigungen &nbsp;&nbsp; johanniter.de",
+      "title": "Johanniter-Krankenhaus Treuenbrietzen Weiterbildungsermächtigungen - Die Johanniter",
+      "summary_de": "Johanniter-Krankenhaus Treuenbrietzen Weiterbildungsermächtigungen &nbsp;&nbsp; Die Johanniter",
       "source_name": "\"site:johanniter.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXdMSDctR0R5NTJ2SkhYWjFyQ3VKQ3diejV4WmhOa0t2YUFKTmZzM1kxZE1Ddkx4cGZ2aUNjaWxBakdXSFJIdmNHbkhab1lYYk1wTEFSQjc0U0cwX1ZETzZxQUt1SVUyOXZuTzhMMmNoTjVWZDR2cGI1bXZhRl9WM2xfMUdnOTNtMC1keFZlbGNHR0daaWlrb0wzZ0EyRXZfMW0zRDZSb1NUWlRUa3FjV2ZXcThvVi1wMTF0VHp4Uy1zN3NvQXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-12T07:00:00+00:00",
@@ -2026,8 +1996,8 @@
       "type": "News"
     },
     {
-      "title": "Professur (W 2) für Ergotherapie und Mentale Gesundheit - Hochschule Furtwangen - ZEIT Stellenmarkt",
-      "summary_de": "Professur (W 2) für Ergotherapie und Mentale Gesundheit - Hochschule Furtwangen &nbsp;&nbsp; ZEIT Stellenmarkt",
+      "title": "Professur (W 2) für Ergotherapie und Mentale Gesundheit - Hochschule Furtwangen - jobs.zeit.de",
+      "summary_de": "Professur (W 2) für Ergotherapie und Mentale Gesundheit - Hochschule Furtwangen &nbsp;&nbsp; jobs.zeit.de",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbWI5dWg3UmVHeXFPVWR4MzFOZjBGMkNkVmhQc2hKRnJ4RzVEUjdsTlJDM3JweE5aSFdVY0d1d0t5MEtDeTdIbWlDbEtmbkVHc043cjhUaGw3ZFZheGdJUlA5UGFjSVppd1Y4WGFDblJDVnVaa2I1WFVhekRxWVpVQmdTVzY0Y3JnZVNYbHZwd1l1Z09hdEsyUDBxLTUzVGhHUXcybmVNNDRZeDRlVm5j?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-03T07:00:00+00:00",
