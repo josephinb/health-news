@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-19T19:51:18.384893+00:00",
+  "generated_at": "2026-09-19T22:35:58.332676+00:00",
   "window_days": 42,
-  "count": 229,
+  "count": 242,
   "items": [
     {
       "title": "Trinkwasserversorgung - Keime im Wasser in Märkisch-Oderland: Abkochgebot bleibt - Gesundheit - SZ.de - SZ.de",
@@ -30,6 +30,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-der-woche-168516/",
       "published_at": "2026-09-19T07:00:00+00:00",
       "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Depressionen erkennen und vorbeugen: Das sollten Sie wissen - DAK-Gesundheit",
+      "summary_de": "Depressionen erkennen und vorbeugen: Das sollten Sie wissen &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbl9IWkZqSHlkVVpVcmpqUWl0YlB4N1VielIzdzlWTS14NUdKdFZwWTRFX3plVVVpUDJ3UUlrdjgyTXZSOE1KUVpYTDdpLXpCblo2d2YxalRMSlRabGQ3Nm5RZUdtcjd2NDhFTE1Pa0xnUmVPYXppcTFILWVJd3c0ZWRZbS1lQVBxX3B4d1JEVnJlc01wekthV3JBdWNwOHdIY1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-18T18:46:39+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -296,6 +306,18 @@
       "type": "News"
     },
     {
+      "title": "Week in Review: Radiologist joins USPSTF | Ultrasound MinnieCast | IR specialization",
+      "summary_de": "Our coverage of radiologist Dennis Wulfeck, MD, joining the U.S. Preventive Services Task Force was the top story last week on...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15835335/week-in-review-radiologist-joins-uspstf-ultrasound-minniecast-ir-specialization",
+      "published_at": "2026-09-18T10:10:22+00:00",
+      "category": "Studie",
+      "tags": [
+        "Radiologie"
+      ],
+      "type": "Studie"
+    },
+    {
       "title": "Kommentar: Aufbruch braucht Ausbildung",
       "summary_de": "Mit der Apothekenreform haben die Apotheken die M&ouml;glichkeit, ihre Kompetenzen breiter einzubringen. Daf&uuml;r braucht es aber auch einen entsprechend ausgebildeten Nachwuchs. Die Novellierung der Approbationsordnung ist daher mehr als &uuml;berf&auml;llig, kommentiert PZ-Chefredakteur Sven Siebenand.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -332,16 +354,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/patientensicherheit-nicht-dem-zufall-ueberlassen-168499/",
       "published_at": "2026-09-18T09:50:09+00:00",
       "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit - Spiegel",
-      "summary_de": "Gesundheit &nbsp;&nbsp; Spiegel",
-      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIVkxuOGhaeXg0d25LaVZmNHVyNGlJZFdWYkptNWNvVXVCMkdEVWFDOXdEemQxcjVVNElRQjFqMEE4a1c0VVhOazZqc2UyUFlp?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-18T09:32:10+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -406,6 +418,16 @@
       "type": "News"
     },
     {
+      "title": "Gesundheit - Spiegel",
+      "summary_de": "Gesundheit &nbsp;&nbsp; Spiegel",
+      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FeFkzVEpoTFBUMVM0TWd0Rl9ITkhBM3dXZUJSQWpYWEp2NGljZXpvbWctN1lydklPUlRYOWlhUUVGakNsbTVRSU1MRm1vZFlD?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-18T08:37:47+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Flughafenmalaria: Dritter Malaria-Toter in Frankfurt – Mückenschutz empfohlen",
       "summary_de": "In Frankfurt gibt es nun drei Malaria-Tote. Ein Anwohner der Gegend um den Flughafen starb an der Infektion, wie die Stadt mitteilte. Er soll sich durch eine eingeschleppte M&uuml;cke infiziert haben. Das Gesundheitsamt Frankfurt r&auml;t zu M&uuml;ckenschutz.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -436,6 +458,16 @@
       "type": "News"
     },
     {
+      "title": "FES-PET guides second-line therapy decisions in breast cancer",
+      "summary_de": "FES-PET/CT results led to therapeutic management changes in 37.8% of patients.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15835305/fespet-guides-secondline-therapy-decisions-in-breast-cancer",
+      "published_at": "2026-09-18T07:10:43+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "- DAK-Gesundheit",
       "summary_de": "&nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
@@ -462,6 +494,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/teamleitung-bedeutet-nicht-selbstausbeutung-168456/",
       "published_at": "2026-09-18T07:00:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Recalls stable for radiation oncology tools despite tech advancements",
+      "summary_de": "While radiation oncology devices using AI or machine learning are increasingly entering the market, recalls may be plateauing.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/radiation-oncology-therapy/article/15835281/recalls-stable-for-radiation-oncology-tools-despite-tech-advancements",
+      "published_at": "2026-09-18T06:21:26+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -710,6 +752,16 @@
       "type": "News"
     },
     {
+      "title": "Minibeam radiotherapy performs well in first clinical trial",
+      "summary_de": "The technique delivers very high doses of radiation through closely spaced, extremely narrow beams.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/radiation-oncology-therapy/article/15835218/minibeam-radiotherapy-performs-well-in-first-clinical-trial",
+      "published_at": "2026-09-17T08:32:19+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "Maternity Services Monthly Statistics, Final June 2026, Provisional July 2026, official statistics",
       "summary_de": "This statistical release makes available the most recent monthly data on NHS-funded maternity services in England, using data submitted to the Maternity Services Data Set (MSDS).This is the latest report from version 2.0 of the data set, which has been in place since April 2019. This latest version was a significant change from the previous 1.5 version which added support …",
       "source_name": "Publication Feed",
@@ -736,6 +788,36 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQUo2WjhGVUJkbW12Z25vaTVaLUN0eWluVmk0TFBRdXJKazI4NC1xMjZQQlRkbkc5TElwVy1QaHowQXZ0bDdyRmpla0U1TjhIS3JfalVDcEVIZkJTS3hrUWNBM0MwTDNQRG0yR3BYNW0yRF83TGtFS0NpWF9pOHRtVW1LdmNzRnJpZkVHQlNaVEZlZ0JXQUZBbFhiTWM4R1loZ2ZDZ3NjNm9Bb0U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-17T08:29:49+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "USPSTF names radiologist to task force; ACR responds",
+      "summary_de": "Dennis Wulfeck, MD, has 33 years of experience in diagnostic imaging, and his appointment to the task force has the support of...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/practice-management/careers/imaging-leaders/article/15835216/uspstf-names-radiologist-to-task-force-acr-responds",
+      "published_at": "2026-09-17T08:22:59+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Individual specialization may drive IR procedure complexity",
+      "summary_de": "Practice- and radiologist-level IR specializations showed associations with greater procedural complexity.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/interventional/article/15835211/individual-specialization-may-drive-ir-procedure-complexity",
+      "published_at": "2026-09-17T08:00:52+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "AI boosts brain aneurysm detection on CT angiography",
+      "summary_de": "AI preferentially detected smaller aneurysms (< 3 mm), while radiologists more often identified larger aneurysms (3 to 5 mm and...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15835193/ai-boosts-brain-aneurysm-detection-on-ct-angiography",
+      "published_at": "2026-09-17T06:35:14+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -932,6 +1014,16 @@
       "type": "News"
     },
     {
+      "title": "ASTRO issues first radiation therapy guideline for bladder cancer",
+      "summary_de": "Bladder preservation should be presented as a curative treatment option alongside radical cystectomy.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/radiation-oncology-therapy/article/15835104/astro-issues-first-radiation-therapy-guideline-for-bladder-cancer",
+      "published_at": "2026-09-16T07:50:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Elsner: Sonderregelungen beim erhöhten Herstellerabschlag benötigen gesicherte Gegenfinanzierung",
       "summary_de": "Anlässlich der erneuten Beratungen zur Standortklausel mahnt der vdek, dass Ausnahmen vom erhöhten Herstellerabschlag die GKV nicht zusätzlich belasten dürfen. Mindereinnahmen sollen durch höhere Rabatte für Hersteller ohne Produktion in Deutschland ausgeglichen und Entlastungen auf essenzielle Arzneimittel begrenzt werden.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -1112,6 +1204,16 @@
       "type": "News"
     },
     {
+      "title": "CCTA links neighborhood income to atherosclerosis",
+      "summary_de": "The relationship between socioeconomic disparities and imaging-defined coronary atherosclerosis on CCTA has not been fully understood...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15835011/ccta-links-neighborhood-income-to-atherosclerosis",
+      "published_at": "2026-09-15T09:32:22+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Mental Health Services Monthly Statistics, Performance July 2026",
       "summary_de": "This publication provides the timeliest picture available of people using NHS funded secondary mental health, learning disabilities and autism services in England, excluding those who are solely in contact with Talking Therapies. This information will be of use to people needing access to information quickly for operational decision making and other purposes. More detailed information on the quality and completeness …",
       "source_name": "Publication Feed",
@@ -1150,6 +1252,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOREp5dTYtbWRGZmRrbHVxTjZwODZvVEpKUUw4b3B0WUQyU3hVY3NCWUR5dWdNemMwRUhrc1VhNzhuQUhZeHQ1U0R1dGwzd3NzdnRIV2M3aHFLT2x5UGFaZ195aFNBWWVrQ2RfZTV4SEdSdHhHTndpaGEycXc3cTVXZW04MFVGVUN1Skp5Z0tQaWZBaUJELUFjRG1rSkFEU1E4OGxKN2JFWWZ0REl5WG1F?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-15T08:37:18+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "AuntMinnie.com CT Insider",
+      "summary_de": "In this issue of the CT Insider, we've highlighted a study showing that chest CT scans can help to predict future thoracic vertebral...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15834988/auntminniecom-ct-insider",
+      "published_at": "2026-09-15T08:33:42+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1216,6 +1328,16 @@
       "type": "News"
     },
     {
+      "title": "AGFA HealthCare stellt die klinische Aufmerksamkeit bei Enterprise Imaging auf der RSNA 2026 in den Mittelpunkt - PresseBox",
+      "summary_de": "AGFA HealthCare stellt die klinische Aufmerksamkeit bei Enterprise Imaging auf der RSNA 2026 in den Mittelpunkt &nbsp;&nbsp; PresseBox",
+      "source_name": "\"site:pressebox.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPQ244M0c2Q2tmNmdFMDliN2lWSWJRa0Z0dHgxNm4zUGc3akQ2UDFpa2NyV19UV2tHeWM1Nm1BWHZjRUU1bC0ta3JpUFBUeHhrUXQtM1YwZFJTZ2QtTUhZYnZUX2thZlgxQVRKd2VEUjF5b1BlakluVHlDa1FUUTExdkMxYWVleUtWODF3aE5NdklYR0hDMGpWSGNvTTFpalU2MHFfdzhKcWVLUkU1RWZ5eVFFaldkbXRUaUNob1UwcVJpSEVocWVfRnJXaEs1SmZJcmdjQmRyU2FtTEdyZlIyMVo1bk1zUkYwekVqSFFFUXVEYUZZc2MzdVlLQUIweS03bTE3dFRQOUY2aHA2SjlXS21hS0FWdG01TTBXYW54M04zZGVINDJmazhWYTI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-14T15:36:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Ihre Krankenkasse: Für alle gut, für jeden anders | BARMER - BARMER",
       "summary_de": "Ihre Krankenkasse: Für alle gut, für jeden anders | BARMER &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
@@ -1226,8 +1348,8 @@
       "type": "News"
     },
     {
-      "title": "„Die wertvolle Arzt-Patient-Beziehung kann es dann nicht mehr geben“ - rp-online.de",
-      "summary_de": "„Die wertvolle Arzt-Patient-Beziehung kann es dann nicht mehr geben“ &nbsp;&nbsp; rp-online.de",
+      "title": "„Die wertvolle Arzt-Patient-Beziehung kann es dann nicht mehr geben“ - RP Online",
+      "summary_de": "„Die wertvolle Arzt-Patient-Beziehung kann es dann nicht mehr geben“ &nbsp;&nbsp; RP Online",
       "source_name": "\"site:rp-online.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYThDZURYNDFyaHEzdlRRZEVnY2EwZkVCcVJBTFJmRk5WWS1lUlg0RDE1OVJqNkRHTVlERjV1RUdxSUdDU0FUb0lVd20wRkZLTHN2NXNFTzlSNEE3Mm05RlVqdjQ5VWR6anZfdFUtVTNtREhER2NmZWlvRURkM1NONG9rM09JQkM5ZU5Xb09EUjdJNGYxWGY0eHBCTUg3T0xWNTVXMjVVajFQZjA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-14T14:12:00+00:00",
@@ -1528,6 +1650,16 @@
       "type": "News"
     },
     {
+      "title": "Meditation in der Schwangerschaft - DAK-Gesundheit",
+      "summary_de": "Meditation in der Schwangerschaft &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQjFmOW1ySkx5LVhsS1Bua1NrbUVDVjFxYmhqNXYwR0NWQS04bzVfOUN5TTJidzhRQ0lWYkpkYkYxanFJZGZqbUlDLW9tVUxGUlVXMlgwMndmTEtBZW10MThQN21nMzl6UjJmMDBfQm5HN043UDItN0dsRkpfRU9aUEpISml5WHh0T2hsUGhZQW93YVFnTlpsR3lOQ1JJdVdEdVduREZjVko4QjZfaUpB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-09T13:34:18+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Decision: Advertising investigations: August 2026",
       "summary_de": "Decisions made by MHRA on adverts reported to have breached the legislation on advertising medicines.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1811,8 +1943,8 @@
       "type": "News"
     },
     {
-      "title": "Medizin Jobs in Witten - RP Online",
-      "summary_de": "Medizin Jobs in Witten &nbsp;&nbsp; RP Online",
+      "title": "Medizin Jobs in Witten - jobs.rp-online.de",
+      "summary_de": "Medizin Jobs in Witten &nbsp;&nbsp; jobs.rp-online.de",
       "source_name": "\"site:rp-online.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kLWJUVFlBeWdsaTVqRVRRX0FFRHhqUnNuYmlKT0VGRjBXOUwwRGI2cFRONVBnbXoyUjN3dHNpc2loQWgyMFc3dkpFQWM4UlhzbkxCd0R1Z0lRclRuM3dOdE9Gak5zcXRW?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-02T09:13:28+00:00",
