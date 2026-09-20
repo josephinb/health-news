@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-09-20T13:22:43.919978+00:00",
+  "generated_at": "2026-09-20T17:50:04.250215+00:00",
   "window_days": 42,
-  "count": 222,
+  "count": 230,
   "items": [
+    {
+      "title": "Wahl in Mecklenburg-Vorpommern: AfD laut ersten Hochrechnungen vor SPD",
+      "summary_de": "Ersten Hochrechnungen zufolge liegt die AfD bei der Landtagswahl in Mecklenburg-Vorpommern mit 37,1 Prozent knapp vor der SPD, die auf 35,5 Prozent kommt. Die CDU scheint den Einzug in den Landtag zu schaffen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/afd-laut-ersten-hochrechnungen-vor-spd-168528/",
+      "published_at": "2026-09-20T16:20:34+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Berlin-Wahl: Linke vor CDU in der Hauptstadt",
+      "summary_de": "Bei der Wahl in Berlin liegt die Linke laut ersten Hochrechnungen vor der CDU, gefolgt von AfD, Gr&uuml;nen und SPD. Das BSW scheint den Einzug in das Abgeordnetenhaus zu verpassen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/linke-vor-cdu-in-der-hauptstadt-168527/",
+      "published_at": "2026-09-20T16:02:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Pflege - AOK: Zehntausende Thüringer leiden an Demenz - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Pflege - AOK: Zehntausende Thüringer leiden an Demenz - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
@@ -348,6 +368,18 @@
       "type": "News"
     },
     {
+      "title": "Week in Review: Radiologist joins USPSTF | Ultrasound MinnieCast | IR specialization",
+      "summary_de": "Our coverage of radiologist Dennis Wulfeck, MD, joining the U.S. Preventive Services Task Force was the top story last week on...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15835335/week-in-review-radiologist-joins-uspstf-ultrasound-minniecast-ir-specialization",
+      "published_at": "2026-09-18T10:10:22+00:00",
+      "category": "Studie",
+      "tags": [
+        "Radiologie"
+      ],
+      "type": "Studie"
+    },
+    {
       "title": "Kommentar: Aufbruch braucht Ausbildung",
       "summary_de": "Mit der Apothekenreform haben die Apotheken die M&ouml;glichkeit, ihre Kompetenzen breiter einzubringen. Daf&uuml;r braucht es aber auch einen entsprechend ausgebildeten Nachwuchs. Die Novellierung der Approbationsordnung ist daher mehr als &uuml;berf&auml;llig, kommentiert PZ-Chefredakteur Sven Siebenand.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -498,12 +530,12 @@
       "type": "News"
     },
     {
-      "title": "Versorgung: Die unterschätzte Rolle der Apotheke bei Lipödem",
-      "summary_de": "Warum Apotheken eine Schl&uuml;sselrolle bei der Lip&ouml;dem-Versorgung spielen sollten und was eine Betroffene &uuml;ber ihren langen Leidensweg erz&auml;hlt, wurde im Rahmen einer Podiumsdiskussion auf der Expopharm thematisiert.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/die-unterschaetzte-rolle-der-apotheke-bei-lipoedem-168484/",
-      "published_at": "2026-09-18T07:00:00+00:00",
-      "category": "Versorgung",
+      "title": "FES-PET guides second-line therapy decisions in breast cancer",
+      "summary_de": "FES-PET/CT results led to therapeutic management changes in 37.8% of patients.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15835305/fespet-guides-secondline-therapy-decisions-in-breast-cancer",
+      "published_at": "2026-09-18T07:10:43+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -514,6 +546,36 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/teamleitung-bedeutet-nicht-selbstausbeutung-168456/",
       "published_at": "2026-09-18T07:00:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Versorgung: Die unterschätzte Rolle der Apotheke bei Lipödem",
+      "summary_de": "Warum Apotheken eine Schl&uuml;sselrolle bei der Lip&ouml;dem-Versorgung spielen sollten und was eine Betroffene &uuml;ber ihren langen Leidensweg erz&auml;hlt, wurde im Rahmen einer Podiumsdiskussion auf der Expopharm thematisiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-unterschaetzte-rolle-der-apotheke-bei-lipoedem-168484/",
+      "published_at": "2026-09-18T07:00:00+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Schwangerschaftsmythen - DAK-Gesundheit",
+      "summary_de": "Schwangerschaftsmythen &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWTI5RnNEcG5VUUJXTWdDQ2Z3WW9xT2FyYVphOFl6OG1SN3V1MVlyWTFrM2ktdUIzdHRaMXJPdmZtTFlmSFJfdVM3cTAzVzJUSzg4REtNZ0hwWVZIVXdOMzV3Sm9sQ1R3VldnNHRKY29Ib0F1cGFWN2xmWjBEM2VmUEgyam16N01XT3dKTF9Da0Y5RURncUlWREoweENVeHhJaWZLWGRFem5ITzFMWlBmVHRja2tGMlRwWnd3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-18T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Recalls stable for radiation oncology tools despite tech advancements",
+      "summary_de": "While radiation oncology devices using AI or machine learning are increasingly entering the market, recalls may be plateauing.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/radiation-oncology-therapy/article/15835281/recalls-stable-for-radiation-oncology-tools-despite-tech-advancements",
+      "published_at": "2026-09-18T06:21:26+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -608,8 +670,8 @@
       "type": "Studie"
     },
     {
-      "title": "Überraschenderweise: Der härteste Kampf um AGI findet im Krankenhaus statt – Chinesische KI in Science veröffentlicht, Ärzte fürchten keine Arbeitslosigkeit und drängen auf rasche Inbetriebnahme - 36Kr",
-      "summary_de": "Überraschenderweise: Der härteste Kampf um AGI findet im Krankenhaus statt – Chinesische KI in Science veröffentlicht, Ärzte fürchten keine Arbeitslosigkeit und drängen auf rasche Inbetriebnahme &nbsp;&nbsp; 36Kr",
+      "title": "Überraschenderweise: Der härteste Kampf um AGI findet im Krankenhaus statt – Chinesische KI in Science veröffentlicht, Ärzte fürchten keine Arbeitslosigkeit und drängen auf rasche Inbetriebnahme - 36氪",
+      "summary_de": "Überraschenderweise: Der härteste Kampf um AGI findet im Krankenhaus statt – Chinesische KI in Science veröffentlicht, Ärzte fürchten keine Arbeitslosigkeit und drängen auf rasche Inbetriebnahme &nbsp;&nbsp; 36氪",
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SZ0s2ZHVfQzVsVWlmS0dRRm1pR21CcVFEQ25XeVhWdzdRV2JMNHZrT2JvUDFaR24yWXdsY2dYQWdyTVltUlhUYmU3YWhHcmVmc2hr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-17T19:02:00+00:00",
@@ -624,26 +686,6 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mental-health-learning-disability-and-autism-overview-statistics/quarter-1-2026-27",
       "published_at": "2026-09-17T16:21:16+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Deutscher Apothekertag: TI-Ausfälle – Wer soll haften?",
-      "summary_de": "Wer haftet, wenn die Telematikinfrastruktur (TI) ausf&auml;llt und Apotheken dadurch Umsatz verlieren? &Uuml;ber diese Frage diskutierten die Delegierten beim Deutschen Apothekertag kontrovers.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/ti-ausfaelle-wer-soll-haften-168455/",
-      "published_at": "2026-09-17T15:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Expopharm 2026: 27.000 Besucher, große Resonanz und zufriedene Veranstalter",
-      "summary_de": "Nach dem Ende der Expopharm in M&uuml;nchen ziehen die Veranstalter eine positive Bilanz. Die 500 Aussteller und das B&uuml;hnenprogramm lockten fast 27.000 Besucherinnen und Besucher an. Auch Gesundheitsminister Carsten Linnemann (CDU) machte einen Rundgang &uuml;ber die Messe.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/27000-besucher-grosse-resonanz-und-zufriedene-veranstalter-168465/",
-      "published_at": "2026-09-17T15:00:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -750,6 +792,16 @@
       "type": "News"
     },
     {
+      "title": "Minibeam radiotherapy performs well in first clinical trial",
+      "summary_de": "The technique delivers very high doses of radiation through closely spaced, extremely narrow beams.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/radiation-oncology-therapy/article/15835218/minibeam-radiotherapy-performs-well-in-first-clinical-trial",
+      "published_at": "2026-09-17T08:32:19+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "Maternity Services Monthly Statistics, Final June 2026, Provisional July 2026, official statistics",
       "summary_de": "This statistical release makes available the most recent monthly data on NHS-funded maternity services in England, using data submitted to the Maternity Services Data Set (MSDS).This is the latest report from version 2.0 of the data set, which has been in place since April 2019. This latest version was a significant change from the previous 1.5 version which added support …",
       "source_name": "Publication Feed",
@@ -776,6 +828,36 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQUo2WjhGVUJkbW12Z25vaTVaLUN0eWluVmk0TFBRdXJKazI4NC1xMjZQQlRkbkc5TElwVy1QaHowQXZ0bDdyRmpla0U1TjhIS3JfalVDcEVIZkJTS3hrUWNBM0MwTDNQRG0yR3BYNW0yRF83TGtFS0NpWF9pOHRtVW1LdmNzRnJpZkVHQlNaVEZlZ0JXQUZBbFhiTWM4R1loZ2ZDZ3NjNm9Bb0U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-17T08:29:49+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "USPSTF names radiologist to task force; ACR responds",
+      "summary_de": "Dennis Wulfeck, MD, has 33 years of experience in diagnostic imaging, and his appointment to the task force has the support of...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/practice-management/careers/imaging-leaders/article/15835216/uspstf-names-radiologist-to-task-force-acr-responds",
+      "published_at": "2026-09-17T08:22:59+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Individual specialization may drive IR procedure complexity",
+      "summary_de": "Practice- and radiologist-level IR specializations showed associations with greater procedural complexity.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/interventional/article/15835211/individual-specialization-may-drive-ir-procedure-complexity",
+      "published_at": "2026-09-17T08:00:52+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "AI boosts brain aneurysm detection on CT angiography",
+      "summary_de": "AI preferentially detected smaller aneurysms (< 3 mm), while radiologists more often identified larger aneurysms (3 to 5 mm and...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15835193/ai-boosts-brain-aneurysm-detection-on-ct-angiography",
+      "published_at": "2026-09-17T06:35:14+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -853,7 +935,7 @@
       "title": "Psychologischer Psychotherapeut (m/w/d) Klinik für Seelische Gesundheit - SZ-Stellenmarkt",
       "summary_de": "Psychologischer Psychotherapeut (m/w/d) Klinik für Seelische Gesundheit &nbsp;&nbsp; SZ-Stellenmarkt",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0RfWjdHQjc1VEV6NXpMWjBjWkgydmE5NjBMazNhSXpfZE5SRzd1N0tsNGFLVHVpSDREdVV3Zm5TSDl3aFUyTkQ4aDljd0prTVlKMVdKY0lDZUEtS0FTbXBublh4YkliaThaWDItRzZ0Z0d4U05OeUVZc2FpS01RaFpkcEh2cTBsckttTUo4eGdFWlJmbnEwNGdmaFVaOUd5WWRCbmhlZHRwaVlHeFhuN1Y2clZuMFpqdUUxejhJdU43TDU0eHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONHNmMVN4TDNFaFMyNWJmNVM5RW50WVVlbUpodEtvNEotRTRnTm5pUVFUYlBLN0g2eG9peFByVFNSVXZoRkR2YVdqVk1TSW5mSVk5VGRUendaM0pBcGNCUHVTTWVyY2NxQkx4alFsOGZRN21NRTAySjQwNXgzM29aWnRkMkE3QTdpNXdobm1sQllJOTdNaTdaQVJiZ3lXaVUzZXRhcGRUbHFYX3N4REtrRGFnc09HTHJQM1puTG9BaktvN1FwZ1pUODdfRV9iaFk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-16T15:40:34+00:00",
       "category": "News",
       "tags": [],
@@ -972,21 +1054,21 @@
       "type": "News"
     },
     {
-      "title": "Masterarbeit »User-Centered Design und Evaluation KI-basierter Systeme im Krankenhaus« Fraunhofer-Institut für Software- und Systemtechnik (ISST) - ZEIT Stellenmarkt",
-      "summary_de": "Masterarbeit »User-Centered Design und Evaluation KI-basierter Systeme im Krankenhaus« Fraunhofer-Institut für Software- und Systemtechnik (ISST) &nbsp;&nbsp; ZEIT Stellenmarkt",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOaUV2Z01KUzNBMm5TUUpaQ19jdjMydDluempIdURUSHlBRzFfbHRENFcyNnY1UG9TWlNoYTBLQzBBNTFJdFFEV2ROWk5obnd5QU1tdU9BdGdmaktUUmFpWXpKSTd6cVVmeGZULXFhRkpRNmNVZHJDNXZfVkFnMFNCTmw4c1h2QjJMbjRjX0hHM2lqaUlBdkhmSGR4WEw3XzVZYjR0Wm8tMVg3YmFXbjBrYkF4TmdmaEJXUGpPRTdHYjhlam9vQXBVS1NGUF9yVzdCYW83TXFRQVNmeVpPWUpacUVGWG5LaDlOb09LOVQ5ajEwdWhGazVOaDUwOThfaWJzNW5MYXVqWUxOLTdRNTM5Znln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-16T07:47:09+00:00",
+      "title": "ASTRO issues first radiation therapy guideline for bladder cancer",
+      "summary_de": "Bladder preservation should be presented as a curative treatment option alongside radical cystectomy.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/radiation-oncology-therapy/article/15835104/astro-issues-first-radiation-therapy-guideline-for-bladder-cancer",
+      "published_at": "2026-09-16T07:50:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Ausbildung zum/zur Sozialversicherungsfachangestellten (m/w/d) in Mönchengladbach - DAK-Gesundheit",
-      "summary_de": "Ausbildung zum/zur Sozialversicherungsfachangestellten (m/w/d) in Mönchengladbach &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUWxKeXl2VlhZT2pWV25Uc2NZYThuWG9HV0wtc3p5X1dyZDZpQUF3bGFDc0lHZTlMVmtSYmtuNENaN1pMY2lYblBGc1V6cXA3Sms2czFQYTFUWUdSbzBUS05hLVkybjFkX016WktXUEJhelJEdlNCX0ZJcUt2TExUU0pMV1RWRjZiVWRtSkF5eGFMVkJYNkVnS1dqODRBREI5RWpCaTdSRG41b1g5ZndaRzF4XzRhNzVOS3BoUEdOcEtPWlFCNW9SazN2QkhOWDVVVDMwQ0dUUDZHdEVTdEdCdnVIUFNGdkE3alE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-16T02:38:12+00:00",
+      "title": "Masterarbeit »User-Centered Design und Evaluation KI-basierter Systeme im Krankenhaus« Fraunhofer-Institut für Software- und Systemtechnik (ISST) - ZEIT Stellenmarkt",
+      "summary_de": "Masterarbeit »User-Centered Design und Evaluation KI-basierter Systeme im Krankenhaus« Fraunhofer-Institut für Software- und Systemtechnik (ISST) &nbsp;&nbsp; ZEIT Stellenmarkt",
+      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOaUV2Z01KUzNBMm5TUUpaQ19jdjMydDluempIdURUSHlBRzFfbHRENFcyNnY1UG9TWlNoYTBLQzBBNTFJdFFEV2ROWk5obnd5QU1tdU9BdGdmaktUUmFpWXpKSTd6cVVmeGZULXFhRkpRNmNVZHJDNXZfVkFnMFNCTmw4c1h2QjJMbjRjX0hHM2lqaUlBdkhmSGR4WEw3XzVZYjR0Wm8tMVg3YmFXbjBrYkF4TmdmaEJXUGpPRTdHYjhlam9vQXBVS1NGUF9yVzdCYW83TXFRQVNmeVpPWUpacUVGWG5LaDlOb09LOVQ5ajEwdWhGazVOaDUwOThfaWJzNW5MYXVqWUxOLTdRNTM5Znln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-16T07:47:09+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1142,6 +1224,16 @@
       "type": "News"
     },
     {
+      "title": "CCTA links neighborhood income to atherosclerosis",
+      "summary_de": "The relationship between socioeconomic disparities and imaging-defined coronary atherosclerosis on CCTA has not been fully understood...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15835011/ccta-links-neighborhood-income-to-atherosclerosis",
+      "published_at": "2026-09-15T09:32:22+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Mental Health Services Monthly Statistics, Performance July 2026",
       "summary_de": "This publication provides the timeliest picture available of people using NHS funded secondary mental health, learning disabilities and autism services in England, excluding those who are solely in contact with Talking Therapies. This information will be of use to people needing access to information quickly for operational decision making and other purposes. More detailed information on the quality and completeness …",
       "source_name": "Publication Feed",
@@ -1180,6 +1272,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOREp5dTYtbWRGZmRrbHVxTjZwODZvVEpKUUw4b3B0WUQyU3hVY3NCWUR5dWdNemMwRUhrc1VhNzhuQUhZeHQ1U0R1dGwzd3NzdnRIV2M3aHFLT2x5UGFaZ195aFNBWWVrQ2RfZTV4SEdSdHhHTndpaGEycXc3cTVXZW04MFVGVUN1Skp5Z0tQaWZBaUJELUFjRG1rSkFEU1E4OGxKN2JFWWZ0REl5WG1F?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-15T08:37:18+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "AuntMinnie.com CT Insider",
+      "summary_de": "In this issue of the CT Insider, we've highlighted a study showing that chest CT scans can help to predict future thoracic vertebral...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15834988/auntminniecom-ct-insider",
+      "published_at": "2026-09-15T08:33:42+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1252,16 +1354,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPQ244M0c2Q2tmNmdFMDliN2lWSWJRa0Z0dHgxNm4zUGc3akQ2UDFpa2NyV19UV2tHeWM1Nm1BWHZjRUU1bC0ta3JpUFBUeHhrUXQtM1YwZFJTZ2QtTUhZYnZUX2thZlgxQVRKd2VEUjF5b1BlakluVHlDa1FUUTExdkMxYWVleUtWODF3aE5NdklYR0hDMGpWSGNvTTFpalU2MHFfdzhKcWVLUkU1RWZ5eVFFaldkbXRUaUNob1UwcVJpSEVocWVfRnJXaEs1SmZJcmdjQmRyU2FtTEdyZlIyMVo1bk1zUkYwekVqSFFFUXVEYUZZc2MzdVlLQUIweS03bTE3dFRQOUY2aHA2SjlXS21hS0FWdG01TTBXYW54M04zZGVINDJmazhWYTI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-14T15:36:00+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "„Die wertvolle Arzt-Patient-Beziehung kann es dann nicht mehr geben“ - RP Online",
-      "summary_de": "„Die wertvolle Arzt-Patient-Beziehung kann es dann nicht mehr geben“ &nbsp;&nbsp; RP Online",
-      "source_name": "\"site:rp-online.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYThDZURYNDFyaHEzdlRRZEVnY2EwZkVCcVJBTFJmRk5WWS1lUlg0RDE1OVJqNkRHTVlERjV1RUdxSUdDU0FUb0lVd20wRkZLTHN2NXNFTzlSNEE3Mm05RlVqdjQ5VWR6anZfdFUtVTNtREhER2NmZWlvRURkM1NONG9rM09JQkM5ZU5Xb09EUjdJNGYxWGY0eHBCTUg3T0xWNTVXMjVVajFQZjA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-14T14:12:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1446,16 +1538,6 @@
       "type": "News"
     },
     {
-      "title": "Johanniter-Krankenhaus Treuenbrietzen Weiterbildungsermächtigungen - Die Johanniter",
-      "summary_de": "Johanniter-Krankenhaus Treuenbrietzen Weiterbildungsermächtigungen &nbsp;&nbsp; Die Johanniter",
-      "source_name": "\"site:johanniter.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXdMSDctR0R5NTJ2SkhYWjFyQ3VKQ3diejV4WmhOa0t2YUFKTmZzM1kxZE1Ddkx4cGZ2aUNjaWxBakdXSFJIdmNHbkhab1lYYk1wTEFSQjc0U0cwX1ZETzZxQUt1SVUyOXZuTzhMMmNoTjVWZDR2cGI1bXZhRl9WM2xfMUdnOTNtMC1keFZlbGNHR0daaWlrb0wzZ0EyRXZfMW0zRDZSb1NUWlRUa3FjV2ZXcThvVi1wMTF0VHp4Uy1zN3NvQXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-10T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Independent Commission led by NHS doctors sets out blueprint to accelerate safe AI adoption in healthcare",
       "summary_de": "New recommendations based on extensive public engagement set out how the NHS could give patients faster access to AI advances with proportionate safeguards to protect patient safety and maintain high levels of trust.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1482,6 +1564,16 @@
       "source_url": "https://www.gov.uk/government/publications/national-commission-into-the-regulation-of-ai-in-healthcare-recommendations-for-a-future-regulatory-framework",
       "published_at": "2026-09-09T23:01:00+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Schwangerschaft verkünden: Wann ist der richtige Zeitpunkt? - DAK-Gesundheit",
+      "summary_de": "Schwangerschaft verkünden: Wann ist der richtige Zeitpunkt? &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONGI0S0gwdENkZm5zV2s0MjhiT3VqN3VqdExyazJuekNibkZyWjNzV0J0TnNUamwzNm9tQjNaV256a2ZXbFJjaUdMM01yYnN2U2lJQ3Z2TlB3TTVROVRIWS1NYy1JUGN5MGhmTW5yMUsxaWhCSkNJcGJjNEtRRFpZU3JXdVVHLUIyN0xkaDZjelBLOWF0X284Vkw5X0s?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-09T16:10:06+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1568,8 +1660,8 @@
       "type": "Studie"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-08T07:00:00+00:00",
@@ -1735,16 +1827,6 @@
       "type": "Studie"
     },
     {
-      "title": "Professor:in oder Nachwuchsprofessor:in oder Lehrkraft für besondere Aufgaben (m/w/d) für Berufspädagogik Gesundheit und Pflege - ZEIT Stellenmarkt",
-      "summary_de": "Professor:in oder Nachwuchsprofessor:in oder Lehrkraft für besondere Aufgaben (m/w/d) für Berufspädagogik Gesundheit und Pflege &nbsp;&nbsp; ZEIT Stellenmarkt",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOS2VjQ2l3bW56S0tUNVRfSkpVbldrT3NKQU9sVi1XLU9EMjl6QnFubGZSdXRTUFFFNktlZUUyNHNNVGpXZlVmWENBZzM4c2xIbm9Qc0lzNTFnWlBFZnp0LU9Tc1I4U2huNUkwUGhEVHRzTXEwSnhub05VcnRPU1RUYl9KYXdQaW85NEEtSDJkYmxxbjdGa2x1RC1iUHZIZXhacnhfZVo2SE9pWXNEQTYxMVF2VzEwWU5yTlZkajJ0cjJtWG9EZU9jQTB1Y2pHZUNmcmJjd1F6Y3NyMl8xWEYzN2Rsc1BabWV3bFV6Q0pOeUh4eW9nall4QlVHVDdFVnQ1WjI0MEFGZDJzU2RSeGxBVXc2MmNCTGcxVkVoUTdOMGNVQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-02T22:10:38+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "So können Sie die TK-Gesundheitsdividende nutzen - Techniker Krankenkasse",
       "summary_de": "So können Sie die TK-Gesundheitsdividende nutzen &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
@@ -1755,8 +1837,8 @@
       "type": "News"
     },
     {
-      "title": "Medizin Jobs in Witten - RP Online",
-      "summary_de": "Medizin Jobs in Witten &nbsp;&nbsp; RP Online",
+      "title": "Medizin Jobs in Witten - RP Stellenmarkt",
+      "summary_de": "Medizin Jobs in Witten &nbsp;&nbsp; RP Stellenmarkt",
       "source_name": "\"site:rp-online.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kLWJUVFlBeWdsaTVqRVRRX0FFRHhqUnNuYmlKT0VGRjBXOUwwRGI2cFRONVBnbXoyUjN3dHNpc2loQWgyMFc3dkpFQWM4UlhzbkxCd0R1Z0lRclRuM3dOdE9Gak5zcXRW?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-02T09:13:28+00:00",
