@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-09-24T18:45:57.469778+00:00",
+  "generated_at": "2026-09-24T23:42:14.878466+00:00",
   "window_days": 42,
-  "count": 206,
+  "count": 222,
   "items": [
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Erstmeldung Arzneimittel: VALSARTAN BASICS 80 mg Filmtabletten pU: Basics GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-09-24T16:08:22+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "MedCanG: Zwischen Versorgungsauftrag und Missbrauchsdebatte",
       "summary_de": "Bundesgesundheitsminister Carsten Linnemann (CDU) sieht beim Medizinalcannabis dringenden Handlungsbedarf. Ob seine Ank&uuml;ndigung, gegen Missbrauch vorgehen zu wollen, zeitnah Wirkung zeigt, ist offen. Denn die geplante Novelle des Medizinalcannabisgesetzes (MedCanG) kommt nicht voran.",
@@ -20,6 +30,16 @@
       "source_url": "https://www.gov.uk/government/publications/orphan-registered-medicinal-products",
       "published_at": "2026-09-24T15:45:45+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Fröndenberg: Brand in Gefängnis-Krankenhaus - zwei Schwerverletzte - DIE ZEIT",
+      "summary_de": "Fröndenberg: Brand in Gefängnis-Krankenhaus - zwei Schwerverletzte &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS051NG5IYmpCNl80dThJNW1zcm1ibTg0a0pQTzNKUzY4T1gyZnFRcGloWl9uX0xrQjJ2R3REQmJTTWpqRHBNUHVNRU00MjJmcUZ4c2NNaUlEMVZjdnoxQ2NJS3U1RzNJdlZXMTdsTFNJS0RPTS1BbE11OHEzTWdsSUhwS1gtOU00aGx3T2Z6a1lFUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-24T15:43:01+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -84,6 +104,16 @@
       "type": "News"
     },
     {
+      "title": "S3-Leitlinie zur Langzeitanwendung von Opioiden bei chronischen nicht-tumorbedingten Schmerzen aktualisiert - Deutsches Ärzteblatt",
+      "summary_de": "S3-Leitlinie zur Langzeitanwendung von Opioiden bei chronischen nicht-tumorbedingten Schmerzen aktualisiert &nbsp;&nbsp; Deutsches Ärzteblatt",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPd01iOWFMM2RhRGxLR0JzVGxwblBqYTlVSU5HVGdYd3Iyc08wdWZ1YktyejAydWVoYkVFdlFxdmFoMG9ROTdudG1WWDNIeUxfQkc2ZFFuem03dWpoWHNiUWlxd2NhbFZVTHhzUXBJQ0p4Y3Q4aGl5WS1oMVp5MFpNY0NPT0FmQ3ZkVWdCdDIwTWRIaHFDVk9ycGZLcHZDdmtoYWRobnlJSWZpN25PX05XRjZVVUd3c044RnVzYWRRRUd2ZXpQNnFDdDhxVV8xX0tnX2lrb1NQTzdLRFV3b0c5SzVDRWZWOEpuVXU2YkwtUU96U2ZBV2VnWVJVZkVzR2tLTndxcUpVTQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-24T13:46:42+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Professor Dame Anna Dominiczak, Professor Alison Strath, and Fiona Cohrane: Catalysing the medicines ecosystem in Scotland",
       "summary_de": "Scotland’s growing commercial research infrastructure and strong NHS, academic and industry partnerships are helping widen access to clinical trials, accelerate adoption and strengthen the UK life sciences ecosystem.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -104,21 +134,11 @@
       "type": "News"
     },
     {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: NuTRIflex Omega peri novo Emulsion zur Infusion pU: B. Braun Melsungen Aktiengesellschaft",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-09-24T13:15:56+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "„Medienkompetenz ist Gesundheitskompetenz“ - Techniker Krankenkasse",
       "summary_de": "„Medienkompetenz ist Gesundheitskompetenz“ &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeHI1OVU1WHAyZHpPd0REQWd3VWl5Ui1wYjE3QUc4TEdwblVzdV8tRk45WDc1c3ItYXNFTHRfNWNmaGZIUkhmLV9CWjJoaUM5LUx4QnZ0NjFJVklfdGxoRlpIeE52aFowRU9vbmFhUXEzX3VMUDFzRDhGYkYzWDFFNDZLNWpkdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-24T13:09:32+00:00",
+      "published_at": "2026-09-24T13:08:58+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -200,6 +220,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/europas-groesstes-kuehlhaus-fuer-arzneimittel-168628/",
       "published_at": "2026-09-24T10:30:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Mitarbeiter in Klinik - Hotelüberfall mit Pfefferspray am Ku'damm - Panorama - SZ.de - SZ.de",
+      "summary_de": "Mitarbeiter in Klinik - Hotelüberfall mit Pfefferspray am Ku'damm - Panorama - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSnVWbjZwVG0tNlRBd2hsc01hOXBMQ3ZJcVZIaWY3bkVRM0o3SThjV19fMlNoN1IzckFXQlROYjZRS3lDazRXaFBQZzBTWWlWblFfa1dQbmpHb3VqRDRweklaMENacXpCc0pXMTBMVV96UlJRQlg3MjY0dndVXzh0LWh1NHNWUEJNWl84RUNySWk5LXFmSzEwX2cyQ3ZnZjh2NVpsenJmV3NmWTF4bzJaNnpWXzlTb3VPbVFpZTVEMk5OVzlfckpOTndxRTNVenZDYkVjWVhrQjhhZDJTOFZxNFo2OUg4dw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-24T10:11:38+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -424,6 +454,16 @@
       "type": "News"
     },
     {
+      "title": "What are the effects of COVID-19 pneumonia after 5 years?",
+      "summary_de": "After five years, residual lesions persisted in 35.6% of survivors (37 of 104).",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15835816/what-are-the-effects-of-covid19-pneumonia-after-5-years",
+      "published_at": "2026-09-24T07:16:54+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Wechseljahresbeschwerden: Was Phytos und Nahrungsergänzung wirklich bringen",
       "summary_de": "&raquo;&Ouml;ko-Test&laquo; hat Pr&auml;parate gegen Wechseljahresbeschwerden getestet. Neben zahlreichen Nahrungserg&auml;nzungsmitteln waren auch sechs Phytopharmaka am Start. Das Urteil der Tester fiel eindeutig aus.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -454,6 +494,16 @@
       "type": "News"
     },
     {
+      "title": "Erste Auflage des Gesundheitslaufs in Wassenberg: Wenn Pflege auf die Laufstrecke geht - RP Online",
+      "summary_de": "Erste Auflage des Gesundheitslaufs in Wassenberg: Wenn Pflege auf die Laufstrecke geht &nbsp;&nbsp; RP Online",
+      "source_name": "\"site:rp-online.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVFFxYkktREFQdXMwM0plLWZ2LU9aSi1kQ1pkRUhlRnl5N0pGTXZXT2NfcENfSElxbjVxVVBkY3VUWG00VzZ4UDd6NEloZFNXVFNvdGhpUmhkWUNBa0FqU25hdVpVOHA3eDd1Wk1zTVFZTl9sNUpUdXZQcDdRVDdoeEFCcHZEcjQzSFk5TllxRDZucUM5ZWt6c1NlemNJVC1IclZQMlN5VS1Qa3BfdElzSmZQN0pwRFR1bXJEWDFSdXFwUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-24T03:10:00+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gesundheit: Klinikradio rührt Patienten zu Tränen - DIE ZEIT",
       "summary_de": "Gesundheit: Klinikradio rührt Patienten zu Tränen &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -464,8 +514,8 @@
       "type": "News"
     },
     {
-      "title": "Professur (m/w/d) für das Gebiet Frauen- und Familien­gesundheit - jobs.zeit.de",
-      "summary_de": "Professur (m/w/d) für das Gebiet Frauen- und Familien­gesundheit &nbsp;&nbsp; jobs.zeit.de",
+      "title": "Professur (m/w/d) für das Gebiet Frauen- und Familien­gesundheit - ZEIT Stellenmarkt",
+      "summary_de": "Professur (m/w/d) für das Gebiet Frauen- und Familien­gesundheit &nbsp;&nbsp; ZEIT Stellenmarkt",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYUpFSlJXeGZzVG5GMHJCMk1MYS1qaGxoaU5Wa3pxZGprblNPbkhyWUV0Rk02OFM1di1sSk5qZ2VFQUVSSzlxMmJGd0JweDhTYlliNkt6TUFZM0ZQdWluN0ZJZkVUVVhDOVotdkNRVm9iNlBlVGJqODhrR1ZCcjFWT1otSnVpeW5pcDMxMXdOd0pnYkF1dGR2akRYa0RXRU1PempjWDN4VjEweWdtbllHbGpBZXAtMV9BTDlaZkhR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-23T22:00:36+00:00",
@@ -490,6 +540,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGNlRzJkUFUwNzlJZmVmc05PWXR5LWFJeGxIajNFODM2UWFxQWdDZDJUMy1QN2pfT0tmMjhCN1BVVmJ0bjE0bTQ3dlhQa3BvTUdRSC1RRndSVHMyeWx4MzZaV3RJeDRRYURCV2E2MlRDRW14bDdMNnBseEgycWJYSFBUUjEyTlJSeXJYNTZEdzI5cndRWUVNTG1zZGxjblVnOUZkVWg0c0I?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-23T16:30:24+00:00",
       "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "PACS workstations add to power consumption in radiology departments",
+      "summary_de": "PACS workstations consume about 25 kW when active while also consuming power cumulatively in powered down states.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/imaging-informatics/enterprise-imaging/pacs-vna/article/15835621/pacs-workstations-add-to-power-consumption-in-radiology-departments",
+      "published_at": "2026-09-23T16:24:32+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -701,6 +761,16 @@
       "type": "News"
     },
     {
+      "title": "Vereinbarkeit von Beruf und Pflege: So will die Gemeinde Niederkrüchten pflegende Angehörige besser unterstützen - RP Online",
+      "summary_de": "Vereinbarkeit von Beruf und Pflege: So will die Gemeinde Niederkrüchten pflegende Angehörige besser unterstützen &nbsp;&nbsp; RP Online",
+      "source_name": "\"site:rp-online.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR3F4OU5uNTlla1pVSDlBR0ZySlcxVkphYnVIYWRxc3BvcjZBZHhKWHdINU0tRjRBWUdmei1ITXZWMGhuVlJlSGZtc3JwVWtSS1c0dkZXc1pIcjJ5cFI4cG5leWJLY2I5WWtaNTgwN19FT2pZX0JZdGFhOC1KLW1IM3FOem80MXE5cm9Ib01RbG5GOHM2cTVFRGUxOUxmdEJLcE1BcjBCUFk5aTNRR0ozVzN0dlRLSzRXQU85RW5yMWsyX3M1eWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-23T09:56:00+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Field Safety Notices: 14 to 18 September 2026",
       "summary_de": "List of Field Safety Notices from 14 to 18 September 2026.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -717,6 +787,16 @@
       "source_url": "https://www.gov.uk/government/publications/mhra-performance-data",
       "published_at": "2026-09-23T09:00:20+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Image-based grading system estimates nasopharyngeal carcinoma severity",
+      "summary_de": "The four-tier grading system showed excellent reliability and good prognostic value for patients with nasopharyngeal carcinoma...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15835686/imagebased-grading-system-estimates-nasopharyngeal-carcinoma-severity",
+      "published_at": "2026-09-23T08:25:57+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -822,6 +902,26 @@
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-22T08:47:48+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Digital X-Ray Insider",
+      "summary_de": "This edition of our Digital X-Ray Insider highlights the potential of lateral lumbar x-ray for opportunistic cardiovascular risk...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15835579/digital-xray-insider",
+      "published_at": "2026-09-22T08:33:56+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "X-rays reveal severe aortic calcification in dialysis patients",
+      "summary_de": "The findings reinforce lateral lumbar radiography's potential as an accessible, low-cost tool for opportunistic cardiovascular...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15835554/xrays-reveal-severe-aortic-calcification-in-dialysis-patients",
+      "published_at": "2026-09-22T08:31:33+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -990,6 +1090,26 @@
       "type": "News"
     },
     {
+      "title": "Telix inks deal to acquire ITM for $1.65B",
+      "summary_de": "The deal would create a combined company with significant radioisotope manufacturing, distribution, and radiopharmaceutical development...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/nuclear-medicine/article/15835452/telix-inks-deal-to-acquire-itm-for-165b",
+      "published_at": "2026-09-21T08:09:04+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Connectivity, wellness, education at center of SDMS annual meeting",
+      "summary_de": "Kevin Rooker outlines what attendees can expect at the 2026 SDMS annual meeting in Atlanta.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ultrasound/article/15835431/connectivity-wellness-education-at-center-of-sdms-annual-meeting",
+      "published_at": "2026-09-21T07:49:06+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Dranbleiben: Mehr Bewegung im Alltag - DAK-Gesundheit",
       "summary_de": "Dranbleiben: Mehr Bewegung im Alltag &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
@@ -1005,16 +1125,6 @@
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdm85V0Q5b3dRUDBYcnVuN3V4RGsxczBGTUszbnZoZF8tbFJmU0xGTmhxeWQ5S21OWEgzUjZkOV9GeGk2eWFLck50d0YzaW8tNjFrQlkxbEhZMFc3NGFycGgxTVhUdTVVZzVYZ3VYcG5pTlZ2bWg1VXpEMk9qTDFRS3lkX3VwbkxFNFFHb2VoRG1UZUc2NTE4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-21T03:00:17+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Ausbildung zum/zur Sozialversicherungsfachangestellten (m/w/d) in Düsseldorf - DAK-Gesundheit",
-      "summary_de": "Ausbildung zum/zur Sozialversicherungsfachangestellten (m/w/d) in Düsseldorf &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeWt5Wm41czNmci1Pc0lNR1dKcXVEQk1FX0dHdS1Kb2JSWEtrNmJFdlVkem8xZVBkYXJYUTVkV0dZdEpyMk94ck5YM3lIOFRFckpuRm1vaFQ5b0NOODQwNGdzOWRwZlFwY1BsVmRlWGNtMElfX1daN1RLZGFwYnFndEtwcGNiUUkxSW9uTnZtdkRMQ1AzUHd4TktpNUtDaEVjaGZoTnQwT1JJcjlkZlBvRG5hRm0wZjhvOGtlVE1BQzBwck4zaUlMRGdMX1FPR1Rqc0VQVzczLWctSFlI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-20T11:00:32+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1100,21 +1210,21 @@
       "type": "News"
     },
     {
-      "title": "Auswirkungen von Smartphones auf das Gehirn von Kindern - DAK-Gesundheit",
-      "summary_de": "Auswirkungen von Smartphones auf das Gehirn von Kindern &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWVpnZ004bjA3QjN5NGxBTE5VY1BCdTdBTkh3a0gtUXFkYUt2UzJlZG5TRVVSWURJOGt5QklCY2xyMkdNN2dRSWJRYnVxaTJBLVBZaVhEd0FrMWxwVE42MkpsSFJYUDdyRDJCZ21XRkZWLUZaTUphZnZ0Q3Z1NmUzSlFibHYyaU9PRmUzVlpyM2pVRU1uRTdJY3Zhb1VuSGowQ2puWW1XUFJTX0hxM0hJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-18T20:05:11+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Magic Mushrooms: Aufklärung zu Wirkung und Gefahren - DAK-Gesundheit",
       "summary_de": "Magic Mushrooms: Aufklärung zu Wirkung und Gefahren &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSU9LY2dLN18xMTJtU01pUEZ6OTNkN2xvSDdmblphdkxHVXhYVlNLcUlsYkVtTE9hN3B3TXVpaHdjU2hpRTVkQVF5eVItZldSTTROTFlsUnBVU3RaaHo5ZHo3dGIyb21Pb2FDMUlpUlNKSU1PXzVfY01YWHlOdU9YS05FdXFIaG9DbmxtVmZDUEtMLW9XTjBCM3VkMl8xSkxLR1VFRnM0U1VmY200clFZZGlNZDQ3N1o0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-18T19:54:16+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Sucht: von Alkohol bis Zigaretten - DAK-Gesundheit",
+      "summary_de": "Sucht: von Alkohol bis Zigaretten &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQanVOdXdaazdkenVQaExIUXdVYjZDWHoxcGIwNGx6SkM2Mk9OdHZzN1otSVBPRXFJTHdjNk5SYUxXREJCVENtWG9peElhMFo3c1JHMmlVNWxQZFo5TkJtQ1FXTnV2aGdkbG1LVzhLa0RhSlUwN09NemhGeTlLTlJ2cHlCN1lfRkk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-18T19:54:10+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1135,16 +1245,6 @@
       "source_name": "\"site:dak.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbl9IWkZqSHlkVVpVcmpqUWl0YlB4N1VielIzdzlWTS14NUdKdFZwWTRFX3plVVVpUDJ3UUlrdjgyTXZSOE1KUVpYTDdpLXpCblo2d2YxalRMSlRabGQ3Nm5RZUdtcjd2NDhFTE1Pa0xnUmVPYXppcTFILWVJd3c0ZWRZbS1lQVBxX3B4d1JEVnJlc01wekthV3JBdWNwOHdIY1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-18T18:46:39+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "ADHS bei Kindern: Symptome, Ursachen, Behandlung - DAK-Gesundheit",
-      "summary_de": "ADHS bei Kindern: Symptome, Ursachen, Behandlung &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRTAtSTAwbnhCRDN6bXYtWlB4YUx2UklJVzFmYWpsOHpMU0ZxZTdzLXQ1OG1CWXNmQk5HQVBXTUZnVWpPbGZ4R1E0SDdzcnUyOVFVZEZmRnoyNTdZZFdyWFZPdHFEUktET3NLQzFqREpNQjFWSUNqdkFpNDRtbFVRcWs0V2JLNG52Sm9aVVVtT3VJUFZrQkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-18T18:37:36+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1188,6 +1288,18 @@
       "category": "News",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Week in Review: Radiologist joins USPSTF | Ultrasound MinnieCast | IR specialization",
+      "summary_de": "Our coverage of radiologist Dennis Wulfeck, MD, joining the U.S. Preventive Services Task Force was the top story last week on...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15835335/week-in-review-radiologist-joins-uspstf-ultrasound-minniecast-ir-specialization",
+      "published_at": "2026-09-18T10:10:22+00:00",
+      "category": "Studie",
+      "tags": [
+        "Radiologie"
+      ],
+      "type": "Studie"
     },
     {
       "title": "Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 September 2026",
@@ -1246,6 +1358,26 @@
       "source_url": "https://www.gov.uk/government/consultations/mhra-consultation-on-statutory-fees-2026",
       "published_at": "2026-09-18T08:45:02+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "FES-PET guides second-line therapy decisions in breast cancer",
+      "summary_de": "FES-PET/CT results led to therapeutic management changes in 37.8% of patients.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15835305/fespet-guides-secondline-therapy-decisions-in-breast-cancer",
+      "published_at": "2026-09-18T07:10:43+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Recalls stable for radiation oncology tools despite tech advancements",
+      "summary_de": "While radiation oncology devices using AI or machine learning are increasingly entering the market, recalls may be plateauing.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/radiation-oncology-therapy/article/15835281/recalls-stable-for-radiation-oncology-tools-despite-tech-advancements",
+      "published_at": "2026-09-18T06:21:26+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1414,8 +1546,8 @@
       "type": "News"
     },
     {
-      "title": "Juniorprofessur für Gesundheit und Bewegung - Johannes Gutenberg-Universität Mainz - jobs.zeit.de",
-      "summary_de": "Juniorprofessur für Gesundheit und Bewegung - Johannes Gutenberg-Universität Mainz &nbsp;&nbsp; jobs.zeit.de",
+      "title": "Juniorprofessur für Gesundheit und Bewegung - Johannes Gutenberg-Universität Mainz - ZEIT Stellenmarkt",
+      "summary_de": "Juniorprofessur für Gesundheit und Bewegung - Johannes Gutenberg-Universität Mainz &nbsp;&nbsp; ZEIT Stellenmarkt",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPem9zQkoxUEdYNlZMU25XMU9pdWh4T3U0SmtHOVVNY0RZTWpIc2xzUWdUWGtiOTBpczM1NkJOZ3dsdlBTd0MwVTRHQzdSYzBoLVk4bXBVYTQ1Mzcyb1I5VWFyLWs0TG96ZjJjWGRoTjdtR0FNS0ctUkVrVGNrYnFxTWdjblNSV3FtTHlaaTRYVjZUNjA2YUkyTzFjTzdvRi1UdWUyQmFWUUlVTHlKc1ZZWEt0U1QzVk1MbW1DM1ZRQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-15T09:31:14+00:00",
@@ -1445,6 +1577,16 @@
       "tags": [
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Auswirkungen von Smartphones auf das Gehirn von Kindern - DAK-Gesundheit",
+      "summary_de": "Auswirkungen von Smartphones auf das Gehirn von Kindern &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWVpnZ004bjA3QjN5NGxBTE5VY1BCdTdBTkh3a0gtUXFkYUt2UzJlZG5TRVVSWURJOGt5QklCY2xyMkdNN2dRSWJRYnVxaTJBLVBZaVhEd0FrMWxwVE42MkpsSFJYUDdyRDJCZ21XRkZWLUZaTUphZnZ0Q3Z1NmUzSlFibHYyaU9PRmUzVlpyM2pVRU1uRTdJY3Zhb1VuSGowQ2puWW1XUFJTX0hxM0hJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-15T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
@@ -1640,6 +1782,16 @@
       "type": "News"
     },
     {
+      "title": "Schwangerschaftsuntersuchungen - DAK-Gesundheit",
+      "summary_de": "Schwangerschaftsuntersuchungen &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbFg1LWpua3ZSRlJBN1AxQnRRT01zbElxNUZaTXZmd2FQQm83QlVHZEZZazRQbGxkdzd2R0l6RGprNVNJYXBzVWJPcE9mNl96Z1U0SmpuN2NYLWNmZzBPLUplUTlvWmpJN0tfYU9HOWZLdVFqTmtWMHotZVJROC0ydUU2VExGc1A5c1ptSThMYmlwV3drOVVGRklzY0lNNWs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-09T07:28:17+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Elsner: „Vernetzung der 116117 und 112 zu Gesundheitsleitstelle gehört zu den Kernelementen der Notfallreform“",
       "summary_de": "Ein gemeinsames Gesundheitsleitsystem soll Hilfesuchende schneller in die richtige Versorgung steuern und Ressourcen sparen. Der vdek fordert zudem, die Zahl der Leitstellen deutlich zu reduzieren und Bundesfördermittel an funktionsfähige Strukturen zu knüpfen.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -1757,6 +1909,16 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/access-to-crisis-care-via-nhs-111---mental-health/july-2026",
       "published_at": "2026-09-03T08:33:32+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Professor:in oder Nachwuchsprofessor:in oder Lehrkraft für besondere Aufgaben (m/w/d) für Berufspädagogik Gesundheit und Pflege - ZEIT Stellenmarkt",
+      "summary_de": "Professor:in oder Nachwuchsprofessor:in oder Lehrkraft für besondere Aufgaben (m/w/d) für Berufspädagogik Gesundheit und Pflege &nbsp;&nbsp; ZEIT Stellenmarkt",
+      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOS2VjQ2l3bW56S0tUNVRfSkpVbldrT3NKQU9sVi1XLU9EMjl6QnFubGZSdXRTUFFFNktlZUUyNHNNVGpXZlVmWENBZzM4c2xIbm9Qc0lzNTFnWlBFZnp0LU9Tc1I4U2huNUkwUGhEVHRzTXEwSnhub05VcnRPU1RUYl9KYXdQaW85NEEtSDJkYmxxbjdGa2x1RC1iUHZIZXhacnhfZVo2SE9pWXNEQTYxMVF2VzEwWU5yTlZkajJ0cjJtWG9EZU9jQTB1Y2pHZUNmcmJjd1F6Y3NyMl8xWEYzN2Rsc1BabWV3bFV6Q0pOeUh4eW9nall4QlVHVDdFVnQ1WjI0MEFGZDJzU2RSeGxBVXc2MmNCTGcxVkVoUTdOMGNVQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-02T22:10:38+00:00",
+      "category": "Versorgung",
       "tags": [],
       "type": "News"
     },
