@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-24T23:42:14.878466+00:00",
+  "generated_at": "2026-09-25T02:51:01.892232+00:00",
   "window_days": 42,
-  "count": 222,
+  "count": 225,
   "items": [
     {
       "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
@@ -454,16 +454,6 @@
       "type": "News"
     },
     {
-      "title": "What are the effects of COVID-19 pneumonia after 5 years?",
-      "summary_de": "After five years, residual lesions persisted in 35.6% of survivors (37 of 104).",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15835816/what-are-the-effects-of-covid19-pneumonia-after-5-years",
-      "published_at": "2026-09-24T07:16:54+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Wechseljahresbeschwerden: Was Phytos und Nahrungsergänzung wirklich bringen",
       "summary_de": "&raquo;&Ouml;ko-Test&laquo; hat Pr&auml;parate gegen Wechseljahresbeschwerden getestet. Neben zahlreichen Nahrungserg&auml;nzungsmitteln waren auch sechs Phytopharmaka am Start. Das Urteil der Tester fiel eindeutig aus.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -514,6 +504,26 @@
       "type": "News"
     },
     {
+      "title": "Zuclopenthixol acetate for acute schizophrenia and similar major mental illnesses",
+      "summary_de": "Zuclopenthixol acetate for acute schizophrenia and similar major mental illnesses",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000525.pub4",
+      "published_at": "2026-09-24T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Red blood cell transfusion to treat or prevent complications in sickle cell disease: an overview of Cochrane reviews",
+      "summary_de": "Red blood cell transfusion to treat or prevent complications in sickle cell disease: an overview of Cochrane reviews",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012082.pub3",
+      "published_at": "2026-09-24T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "Professur (m/w/d) für das Gebiet Frauen- und Familien­gesundheit - ZEIT Stellenmarkt",
       "summary_de": "Professur (m/w/d) für das Gebiet Frauen- und Familien­gesundheit &nbsp;&nbsp; ZEIT Stellenmarkt",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -540,16 +550,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGNlRzJkUFUwNzlJZmVmc05PWXR5LWFJeGxIajNFODM2UWFxQWdDZDJUMy1QN2pfT0tmMjhCN1BVVmJ0bjE0bTQ3dlhQa3BvTUdRSC1RRndSVHMyeWx4MzZaV3RJeDRRYURCV2E2MlRDRW14bDdMNnBseEgycWJYSFBUUjEyTlJSeXJYNTZEdzI5cndRWUVNTG1zZGxjblVnOUZkVWg0c0I?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-23T16:30:24+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "PACS workstations add to power consumption in radiology departments",
-      "summary_de": "PACS workstations consume about 25 kW when active while also consuming power cumulatively in powered down states.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/imaging-informatics/enterprise-imaging/pacs-vna/article/15835621/pacs-workstations-add-to-power-consumption-in-radiology-departments",
-      "published_at": "2026-09-23T16:24:32+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -711,10 +711,10 @@
       "type": "News"
     },
     {
-      "title": "(S+) Gesundheit: Warum gesetzlich Versicherte so lange auf den Facharzt warten - Spiegel",
-      "summary_de": "(S+) Gesundheit: Warum gesetzlich Versicherte so lange auf den Facharzt warten &nbsp;&nbsp; Spiegel",
+      "title": "(S+) Gesundheit: Warum Kassenpatienten länger warten müssen als Privatversicherte - Spiegel",
+      "summary_de": "(S+) Gesundheit: Warum Kassenpatienten länger warten müssen als Privatversicherte &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdkttTDhyX3lpbm1tZnNNdEU1X3ZMSFF5ZUhOZC1LLUVYaVB0QVBtWmM0UlpOdXFPYUkyN2VSSnJXejV4NEJ0TGFRaWxZQVd5ZGROemVESnhEN3NFejFWNnl3STNnaEVybHFFUHBySEIybVg1WG81cHhydXMxanRVMEtZTzc2Y19OLVdta2NwS2hpcUhJbmtuS1lYdVBwR1ZwVVpTMUx1QzdVbmR6LTdwNWFwNGluMmxmT0ZnRUtMS2JLOVBYUnRfZVU4V0F3bmJob2dNUmk5REp4QmRnMnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUTVoUnlnTWRCTFh1aTFYRnBrQTZLTDd3eG15VFhOUExQbWJfWDNZYlVib0xlbHNEazRMbmpMY055REJIYkR0dVRRMlRSWjFSTjAyS0VjdW9ybThQTjdzSFJxLThxRjRZMHVlWTl0VzBjSFhuRG56a2Q5dDJTdzE1UHZYQ2xJOEd2TXVmLUFqalJqVDJyZFBIcEdWUDBPZW1aZENqclduX0VDYUZQOEg3b3BXQTY1anhwUDAzdWk4cmlLRVk1Y05yQm5DNnE1b0NBV1lvd2VFeE1pc2RZMXMxU1o5dVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-23T12:37:00+00:00",
       "category": "News",
       "tags": [],
@@ -761,16 +761,6 @@
       "type": "News"
     },
     {
-      "title": "Vereinbarkeit von Beruf und Pflege: So will die Gemeinde Niederkrüchten pflegende Angehörige besser unterstützen - RP Online",
-      "summary_de": "Vereinbarkeit von Beruf und Pflege: So will die Gemeinde Niederkrüchten pflegende Angehörige besser unterstützen &nbsp;&nbsp; RP Online",
-      "source_name": "\"site:rp-online.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR3F4OU5uNTlla1pVSDlBR0ZySlcxVkphYnVIYWRxc3BvcjZBZHhKWHdINU0tRjRBWUdmei1ITXZWMGhuVlJlSGZtc3JwVWtSS1c0dkZXc1pIcjJ5cFI4cG5leWJLY2I5WWtaNTgwN19FT2pZX0JZdGFhOC1KLW1IM3FOem80MXE5cm9Ib01RbG5GOHM2cTVFRGUxOUxmdEJLcE1BcjBCUFk5aTNRR0ozVzN0dlRLSzRXQU85RW5yMWsyX3M1eWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-23T09:56:00+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Field Safety Notices: 14 to 18 September 2026",
       "summary_de": "List of Field Safety Notices from 14 to 18 September 2026.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -791,14 +781,34 @@
       "type": "News"
     },
     {
-      "title": "Image-based grading system estimates nasopharyngeal carcinoma severity",
-      "summary_de": "The four-tier grading system showed excellent reliability and good prognostic value for patients with nasopharyngeal carcinoma...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15835686/imagebased-grading-system-estimates-nasopharyngeal-carcinoma-severity",
-      "published_at": "2026-09-23T08:25:57+00:00",
-      "category": "News",
+      "title": "Combined hormonal versus nonhormonal versus progestin‐only contraceptives for postpartum contraception in lactating individuals",
+      "summary_de": "Combined hormonal versus nonhormonal versus progestin‐only contraceptives for postpartum contraception in lactating individuals",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016393",
+      "published_at": "2026-09-23T00:00:00+00:00",
+      "category": "Studie",
       "tags": [],
-      "type": "News"
+      "type": "Studie"
+    },
+    {
+      "title": "Electrophysiology procedures for preventing falls in older people living in the community",
+      "summary_de": "Electrophysiology procedures for preventing falls in older people living in the community",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016363",
+      "published_at": "2026-09-23T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Antifungal therapy for newborn infants with invasive fungal infection",
+      "summary_de": "Antifungal therapy for newborn infants with invasive fungal infection",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003953.pub4",
+      "published_at": "2026-09-23T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "Gertraud Stadler, Leitung Geschlechterforschung in der Medizin an der Charité Berlin, zur Allianz für Frauengesundheit - tagesschau.de",
@@ -907,26 +917,6 @@
       "type": "News"
     },
     {
-      "title": "Digital X-Ray Insider",
-      "summary_de": "This edition of our Digital X-Ray Insider highlights the potential of lateral lumbar x-ray for opportunistic cardiovascular risk...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/editors-note/article/15835579/digital-xray-insider",
-      "published_at": "2026-09-22T08:33:56+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "X-rays reveal severe aortic calcification in dialysis patients",
-      "summary_de": "The findings reinforce lateral lumbar radiography's potential as an accessible, low-cost tool for opportunistic cardiovascular...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15835554/xrays-reveal-severe-aortic-calcification-in-dialysis-patients",
-      "published_at": "2026-09-22T08:31:33+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Provisional Accident and Emergency Quality Indicators for England, July 2026, by provider",
       "summary_de": "Provisional Accident and Emergency Quality Indicators for England, July 2026, by providerThis publication contains statistics for total time in A&amp;E, time to assessment, time to treatment, attendances where patients left before treatment, and unplanned reattendances within 7 days. It also compares data coverage in ECDS to the emergency monthly situation report (MSitAE) published separately by NHS England. Each report contains …",
       "source_name": "Publication Feed",
@@ -955,6 +945,36 @@
       "category": "News",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Osmotic and stimulant laxatives for the management of childhood constipation",
+      "summary_de": "Osmotic and stimulant laxatives for the management of childhood constipation",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016371",
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Biliary anastomosis using T‐tube versus no T‐tube for liver transplantation in adults",
+      "summary_de": "Biliary anastomosis using T‐tube versus no T‐tube for liver transplantation in adults",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013289.pub2",
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Transanal tube for the prevention of anastomotic leakage in rectal cancer surgery",
+      "summary_de": "Transanal tube for the prevention of anastomotic leakage in rectal cancer surgery",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015472.pub2",
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "[MI] Medicines and Pregnancy Registry - Antiepileptic use in females aged 0 to 54 in England: April 2018 to March 2026",
@@ -1090,31 +1110,11 @@
       "type": "News"
     },
     {
-      "title": "Telix inks deal to acquire ITM for $1.65B",
-      "summary_de": "The deal would create a combined company with significant radioisotope manufacturing, distribution, and radiopharmaceutical development...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/nuclear-medicine/article/15835452/telix-inks-deal-to-acquire-itm-for-165b",
-      "published_at": "2026-09-21T08:09:04+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Connectivity, wellness, education at center of SDMS annual meeting",
-      "summary_de": "Kevin Rooker outlines what attendees can expect at the 2026 SDMS annual meeting in Atlanta.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/ultrasound/article/15835431/connectivity-wellness-education-at-center-of-sdms-annual-meeting",
-      "published_at": "2026-09-21T07:49:06+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Dranbleiben: Mehr Bewegung im Alltag - DAK-Gesundheit",
-      "summary_de": "Dranbleiben: Mehr Bewegung im Alltag &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XQXRFbHNfSURtQkg3dm5oV3hhd0YtbzIwb0gwdWpWWWhUei1ZMURiX25lTFZvQUI5Y09XTU5SemJzWFVtcjA5TlE1OUlCYWExTGlzX0EzaTdsYU13c04zRGQycl9PbUdrTFVxVlVzUDdNX0VuaGIxQ3BPOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-21T07:00:00+00:00",
+      "title": "Wie berechne ich das beitrags­pflich­tige Entgelt für den Über­gangs­be­reich? - Techniker Krankenkasse",
+      "summary_de": "Wie berechne ich das beitrags­pflich­tige Entgelt für den Über­gangs­be­reich? &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWTJBRHFfYjNFdFZ1NlowVW8zajFKS3ZtZzJwU1hrTm14d1k3cF9DejNuV1pSc1ptbG50RktPaXdCRWxmZ2dEeFB6cHZEZTA3a1MwM3dabm03dzR3SFIwcDJzZ3pqdWVBbDVReUswVG9qMmpCcnRxMmNJbjBYVXFSa2lmb1lMVDdOVUdJMmhlWVhDVzZaNmRQdnhXdGFMMzBUcDVlVFNyVThZUDVTUFFXUGJQNHJvV2J1MzhaaUZZRUJfb0JwQmFfejMxd0ZBakVMWGc3a2VmcUt3S0NjbGJDcTBfdFNpTUttR3IyZnZB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-21T07:36:52+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1128,6 +1128,46 @@
       "category": "News",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Diagnostic accuracy of biological markers for detecting obstructive sleep apnoea",
+      "summary_de": "Diagnostic accuracy of biological markers for detecting obstructive sleep apnoea",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016281",
+      "published_at": "2026-09-21T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Semi‐recumbent position for the prevention of ventilator‐associated pneumonia in adults requiring mechanical ventilation",
+      "summary_de": "Semi‐recumbent position for the prevention of ventilator‐associated pneumonia in adults requiring mechanical ventilation",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009946.pub3",
+      "published_at": "2026-09-21T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Mifepristone versus other interventions for the prevention of pregnancy in reproductive‐age women using emergency contraception",
+      "summary_de": "Mifepristone versus other interventions for the prevention of pregnancy in reproductive‐age women using emergency contraception",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016275",
+      "published_at": "2026-09-21T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Multifactorial and multiple component interventions for preventing falls in older people living in the community",
+      "summary_de": "Multifactorial and multiple component interventions for preventing falls in older people living in the community",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012221.pub3",
+      "published_at": "2026-09-21T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "Pflege - AOK: Zehntausende Thüringer leiden an Demenz - Gesundheit - SZ.de - SZ.de",
@@ -1210,56 +1250,6 @@
       "type": "News"
     },
     {
-      "title": "Magic Mushrooms: Aufklärung zu Wirkung und Gefahren - DAK-Gesundheit",
-      "summary_de": "Magic Mushrooms: Aufklärung zu Wirkung und Gefahren &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSU9LY2dLN18xMTJtU01pUEZ6OTNkN2xvSDdmblphdkxHVXhYVlNLcUlsYkVtTE9hN3B3TXVpaHdjU2hpRTVkQVF5eVItZldSTTROTFlsUnBVU3RaaHo5ZHo3dGIyb21Pb2FDMUlpUlNKSU1PXzVfY01YWHlOdU9YS05FdXFIaG9DbmxtVmZDUEtMLW9XTjBCM3VkMl8xSkxLR1VFRnM0U1VmY200clFZZGlNZDQ3N1o0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-18T19:54:16+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Sucht: von Alkohol bis Zigaretten - DAK-Gesundheit",
-      "summary_de": "Sucht: von Alkohol bis Zigaretten &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQanVOdXdaazdkenVQaExIUXdVYjZDWHoxcGIwNGx6SkM2Mk9OdHZzN1otSVBPRXFJTHdjNk5SYUxXREJCVENtWG9peElhMFo3c1JHMmlVNWxQZFo5TkJtQ1FXTnV2aGdkbG1LVzhLa0RhSlUwN09NemhGeTlLTlJ2cHlCN1lfRkk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-18T19:54:10+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Kein Alkohol in der Schwangerschaft - DAK-Gesundheit",
-      "summary_de": "Kein Alkohol in der Schwangerschaft &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXBWOGJNOFBBQVNYejZvOUEtYXY3ZFUwcFF2YlVNUXJiczlpU3JyR3BNdW9qdEhFNHJPTVN2WDIxTTlzZVFZOXQtT25jV0E4Qkl3ZzktcDVueno4LTBBNi1mSEVqZDk0OXFRMXZ0eDR2cDZhd0E5Z1FLTDhGTnNvWU51M3JXc0pQQkdjMWF5MlpSN3Vod2xrMUJCRTJJZkNEX2dIcl91U2c5ajhTNF9wMXZfdW4wSTA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-18T18:56:40+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Depressionen erkennen und vorbeugen: Das sollten Sie wissen - DAK-Gesundheit",
-      "summary_de": "Depressionen erkennen und vorbeugen: Das sollten Sie wissen &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbl9IWkZqSHlkVVpVcmpqUWl0YlB4N1VielIzdzlWTS14NUdKdFZwWTRFX3plVVVpUDJ3UUlrdjgyTXZSOE1KUVpYTDdpLXpCblo2d2YxalRMSlRabGQ3Nm5RZUdtcjd2NDhFTE1Pa0xnUmVPYXppcTFILWVJd3c0ZWRZbS1lQVBxX3B4d1JEVnJlc01wekthV3JBdWNwOHdIY1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-18T18:46:39+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit: Abgeordnetengruppe gegen große Umstellung bei Organspenden - DIE ZEIT",
-      "summary_de": "Gesundheit: Abgeordnetengruppe gegen große Umstellung bei Organspenden &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaVE4azNaNmE1SWRiQjN2WXloRlp3STJ6UklOcjduRkN1ODR3TVp3cGdsaXRrY01zOHY2WnMwekNVSklRakZDTUpVU0xRTTZTUkNLYnh1b2lFRDJLb0hWQ21Jdkl1UlZmRmJLT2FGbjZlY3lfRWxocHN1YVFHMklqUXB2R05uWnBZZENXY2tyeVJjcUNvVklCZVBpWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-18T14:41:09+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Guidance: COVID-19 test validation approved products",
       "summary_de": "Find out which COVID-19 test products have been approved.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1288,18 +1278,6 @@
       "category": "News",
       "tags": [],
       "type": "News"
-    },
-    {
-      "title": "Week in Review: Radiologist joins USPSTF | Ultrasound MinnieCast | IR specialization",
-      "summary_de": "Our coverage of radiologist Dennis Wulfeck, MD, joining the U.S. Preventive Services Task Force was the top story last week on...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/editors-note/article/15835335/week-in-review-radiologist-joins-uspstf-ultrasound-minniecast-ir-specialization",
-      "published_at": "2026-09-18T10:10:22+00:00",
-      "category": "Studie",
-      "tags": [
-        "Radiologie"
-      ],
-      "type": "Studie"
     },
     {
       "title": "Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 September 2026",
@@ -1362,26 +1340,6 @@
       "type": "News"
     },
     {
-      "title": "FES-PET guides second-line therapy decisions in breast cancer",
-      "summary_de": "FES-PET/CT results led to therapeutic management changes in 37.8% of patients.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15835305/fespet-guides-secondline-therapy-decisions-in-breast-cancer",
-      "published_at": "2026-09-18T07:10:43+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Recalls stable for radiation oncology tools despite tech advancements",
-      "summary_de": "While radiation oncology devices using AI or machine learning are increasingly entering the market, recalls may be plateauing.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/radiation-oncology-therapy/article/15835281/recalls-stable-for-radiation-oncology-tools-despite-tech-advancements",
-      "published_at": "2026-09-18T06:21:26+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit: Malaria-Gefahr am Hamburger Flughafen? - DIE ZEIT",
       "summary_de": "Gesundheit: Malaria-Gefahr am Hamburger Flughafen? &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -1400,6 +1358,46 @@
       "category": "News",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Monitoring strategies in adults eligible for pharmacological lipid‐lowering therapy",
+      "summary_de": "Monitoring strategies in adults eligible for pharmacological lipid‐lowering therapy",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016386",
+      "published_at": "2026-09-18T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Lower‐limb neuromuscular electrical stimulation (NMES) for adults with kidney failure undergoing dialysis",
+      "summary_de": "Lower‐limb neuromuscular electrical stimulation (NMES) for adults with kidney failure undergoing dialysis",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016155.pub2",
+      "published_at": "2026-09-18T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Service delivery interventions for lipid testing and lipid‐lowering therapy for primary and secondary prevention of cardiovascular disease in adults",
+      "summary_de": "Service delivery interventions for lipid testing and lipid‐lowering therapy for primary and secondary prevention of cardiovascular disease in adults",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016382",
+      "published_at": "2026-09-18T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Exercise‐based cardiac rehabilitation for coronary heart disease",
+      "summary_de": "Exercise‐based cardiac rehabilitation for coronary heart disease",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001800.pub5",
+      "published_at": "2026-09-18T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "Mental Health, Learning Disability and Autism Overview Statistics, Quarter 1 2026-27",
@@ -1526,6 +1524,46 @@
       "type": "News"
     },
     {
+      "title": "Pharmacological lipid‐lowering therapies for primary and secondary prevention of cardiovascular disease in adults with dyslipidaemia: a systematic review and network meta‐analysis",
+      "summary_de": "Pharmacological lipid‐lowering therapies for primary and secondary prevention of cardiovascular disease in adults with dyslipidaemia: a systematic review and network meta‐analysis",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016387",
+      "published_at": "2026-09-16T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Progesterone receptor modulators for endometriosis",
+      "summary_de": "Progesterone receptor modulators for endometriosis",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009881.pub3",
+      "published_at": "2026-09-16T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Vitamin D supplementation for prevention of vitamin D deficiency in preterm and low birth weight infants",
+      "summary_de": "Vitamin D supplementation for prevention of vitamin D deficiency in preterm and low birth weight infants",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011529.pub2",
+      "published_at": "2026-09-16T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Physical activity programmes for promoting bone mineralisation and growth in preterm infants",
+      "summary_de": "Physical activity programmes for promoting bone mineralisation and growth in preterm infants",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005387.pub4",
+      "published_at": "2026-09-16T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "Network Contract DES (MI) - August 2026",
       "summary_de": "A framework for GP contract reform to implement The NHS Long Term Plan published in January 2019 which describes significant investment in Primary Care Networks (PCNs) through the Network Contract Directed Enhanced Service (DES). The eighth year of the Network Contract DES began in April 2026. The data provides information to allow effective management of the contract. The indicators are …",
       "source_name": "Publication Feed",
@@ -1580,16 +1618,6 @@
       "type": "News"
     },
     {
-      "title": "Auswirkungen von Smartphones auf das Gehirn von Kindern - DAK-Gesundheit",
-      "summary_de": "Auswirkungen von Smartphones auf das Gehirn von Kindern &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWVpnZ004bjA3QjN5NGxBTE5VY1BCdTdBTkh3a0gtUXFkYUt2UzJlZG5TRVVSWURJOGt5QklCY2xyMkdNN2dRSWJRYnVxaTJBLVBZaVhEd0FrMWxwVE42MkpsSFJYUDdyRDJCZ21XRkZWLUZaTUphZnZ0Q3Z1NmUzSlFibHYyaU9PRmUzVlpyM2pVRU1uRTdJY3Zhb1VuSGowQ2puWW1XUFJTX0hxM0hJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-15T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheitspolitik: Zwei Länder im Norden arbeiten bei Telemedizin zusammen - DIE ZEIT",
       "summary_de": "Gesundheitspolitik: Zwei Länder im Norden arbeiten bei Telemedizin zusammen &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
@@ -1598,6 +1626,36 @@
       "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Pharmacological therapies for the prevention of fractures in men",
+      "summary_de": "Pharmacological therapies for the prevention of fractures in men",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014707.pub2",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Strategies to improve recruitment to randomised trials",
+      "summary_de": "Strategies to improve recruitment to randomised trials",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.MR000013.pub7",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Cardiorespiratory training for people with stroke",
+      "summary_de": "Cardiorespiratory training for people with stroke",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016000",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "AGFA HealthCare stellt die klinische Aufmerksamkeit bei Enterprise Imaging auf der RSNA 2026 in den Mittelpunkt - PresseBox",
@@ -1762,34 +1820,14 @@
       "type": "News"
     },
     {
-      "title": "Meditation in der Schwangerschaft - DAK-Gesundheit",
-      "summary_de": "Meditation in der Schwangerschaft &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQjFmOW1ySkx5LVhsS1Bua1NrbUVDVjFxYmhqNXYwR0NWQS04bzVfOUN5TTJidzhRQ0lWYkpkYkYxanFJZGZqbUlDLW9tVUxGUlVXMlgwMndmTEtBZW10MThQN21nMzl6UjJmMDBfQm5HN043UDItN0dsRkpfRU9aUEpISml5WHh0T2hsUGhZQW93YVFnTlpsR3lOQ1JJdVdEdVduREZjVko4QjZfaUpB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-09T13:34:18+00:00",
-      "category": "News",
+      "title": "Iodine supplementation for preventing iodine deficiency disorders in children and adolescents",
+      "summary_de": "Iodine supplementation for preventing iodine deficiency disorders in children and adolescents",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014475.pub2",
+      "published_at": "2026-09-10T00:00:00+00:00",
+      "category": "Studie",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Ernährung in der Schwangerschaft: Darauf solltest du besser verzichten - DAK-Gesundheit",
-      "summary_de": "Ernährung in der Schwangerschaft: Darauf solltest du besser verzichten &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZk5fdnYxLWtlRm14T1oxLWVKOVF2M2VOVmZiN2F3QzFaUmNaR3hlN09tR0t0bFhxYVFNdjlEa3dEVm85VDhTSlpiMGxqUFFaNjhUYjBCRFlpUXRseTRNbGRQQUYyVnhZQlF1UU1iVXNtZTAtLV9SUXJJTVpuY19pX0NfaU8zYnV6RF9RN0ljNkt0ajZYaTJQQzN2bEhmTkFjbnpuWUtHUzFPRzByTi1XRjZQTWQ3Uk9DODQzYm5JWVoxRDQ3alY0NXFn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-09T11:54:02+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Schwangerschaftsuntersuchungen - DAK-Gesundheit",
-      "summary_de": "Schwangerschaftsuntersuchungen &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbFg1LWpua3ZSRlJBN1AxQnRRT01zbElxNUZaTXZmd2FQQm83QlVHZEZZazRQbGxkdzd2R0l6RGprNVNJYXBzVWJPcE9mNl96Z1U0SmpuN2NYLWNmZzBPLUplUTlvWmpJN0tfYU9HOWZLdVFqTmtWMHotZVJROC0ydUU2VExGc1A5c1ptSThMYmlwV3drOVVGRklzY0lNNWs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-09T07:28:17+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
+      "type": "Studie"
     },
     {
       "title": "Elsner: „Vernetzung der 116117 und 112 zu Gesundheitsleitstelle gehört zu den Kernelementen der Notfallreform“",
@@ -1919,16 +1957,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOS2VjQ2l3bW56S0tUNVRfSkpVbldrT3NKQU9sVi1XLU9EMjl6QnFubGZSdXRTUFFFNktlZUUyNHNNVGpXZlVmWENBZzM4c2xIbm9Qc0lzNTFnWlBFZnp0LU9Tc1I4U2huNUkwUGhEVHRzTXEwSnhub05VcnRPU1RUYl9KYXdQaW85NEEtSDJkYmxxbjdGa2x1RC1iUHZIZXhacnhfZVo2SE9pWXNEQTYxMVF2VzEwWU5yTlZkajJ0cjJtWG9EZU9jQTB1Y2pHZUNmcmJjd1F6Y3NyMl8xWEYzN2Rsc1BabWV3bFV6Q0pOeUh4eW9nall4QlVHVDdFVnQ1WjI0MEFGZDJzU2RSeGxBVXc2MmNCTGcxVkVoUTdOMGNVQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-02T22:10:38+00:00",
       "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Risiken bei Schwangerschaft & Geburt - DAK-Gesundheit",
-      "summary_de": "Risiken bei Schwangerschaft & Geburt &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQmNVX0hkZ3dSMmVnXzNPMkZfQmE2aWlISkQ5ZFJxSmdGNmlxeE0yWTUxVllmMDF5X1d0V3ZjTVNCMnBKc1ppaEVqSHVlUDVtQ0NwbHczem5mQlVEd1NyMEYzUlEyT0NzZzVjeWpIOXpsbkRYT0I5SG9BYmpjVlRmMFRHblhtWTZXdUpTTEpPeGpGZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-02T16:39:30+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
