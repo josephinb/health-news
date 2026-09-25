@@ -1,14 +1,64 @@
 {
-  "generated_at": "2026-09-25T02:51:01.892232+00:00",
+  "generated_at": "2026-09-25T08:25:02.083207+00:00",
   "window_days": 42,
-  "count": 225,
+  "count": 241,
   "items": [
     {
+      "title": "Universitätsklinikum Frankfurt: Krankenhaus der Zukunft nutzt mehr Datenanalysen - faz.net",
+      "summary_de": "Universitätsklinikum Frankfurt: Krankenhaus der Zukunft nutzt mehr Datenanalysen &nbsp;&nbsp; faz.net",
+      "source_name": "\"site:faz.net medizin\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLUhYTElXY3J5dzFDdURZOXpPRjkzQ3hMeFV4VXBUY3hBOGNaWWdNbmtnaGlVQkFDdzJSSXliX2NaZmJkaXJaM285Tm4xS0JKQkJwa2N5VXBMeVZJMUgyalVfZDJHRE9NRmNqUkdHbjl1MksyOFAxSDZicU40SkIybFAwRnhPMGhsdko1cmdfaDFZaXlzYmJVVzJyMjVqUnhfRE9jZHZaT1ZKNEdEYzl4SV9IaUxwREg2QzV3M2ppOHdyamlab3lsd2JLb1NSREEyQWdmSmxjNFBubUhXcGEyWklzOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-25T07:55:20+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Linnemann ergänzt Merz: Auch Beamte in den Blick nehmen",
+      "summary_de": "Kanzler Merz (CDU) spricht von Gerechtigkeitsproblemen zwischen Kassen- und Privatpatientinnen und -patienten. Nur was meint er genau? Gesundheitsminister Carsten Linnemann (CDU) erkl&auml;rt, es gehe um Termine &ndash; und um die Beihilfe f&uuml;r Beamtinnen und Beamte.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/auch-beamte-in-den-blick-nehmen-168671/",
+      "published_at": "2026-09-25T07:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Ministeriums-Bericht: Häftling soll Matratze in JVA-Krankenhaus angezündet haben - DIE ZEIT",
+      "summary_de": "Ministeriums-Bericht: Häftling soll Matratze in JVA-Krankenhaus angezündet haben &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT3U5YTkyN2VYcERpWnNzVXBvYmRYRzROX3lOZHFlOXU4Vlp2UWdJcTlzekVZWllWVDB2bE1QWEp0T1gzdU9ER1U3RTZHbEpLa3J6SFNqUEl1bHRYU01Ec3J4VkRaQmZ3TTRRRS1UR1cyOXNNaDZtSzhONHB1OEw4X1lNOHQ3cFpyMk94b1RjZVAxcTE4ZlFOX1JKTFc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-25T06:38:53+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Infektionskrankheiten: Fälle von Q-Fieber im Zollernalbkreis",
+      "summary_de": "In Rangendingen leiden mehrere Menschen an Lungenbeschwerden. Jetzt ist die Diagnose klar: Q-Fieber. Bisher seien vier F&auml;lle der seltenen Krankheit sicher best&auml;tigt, teilte das Landratsamt mit. Worauf Menschen dort nun achten sollen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/faelle-von-q-fieber-im-zollernalbkreis-168646/",
+      "published_at": "2026-09-25T06:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Tabuthema: Sex nach der Krebserkrankung",
+      "summary_de": "Auch wenn die medizinische Behandlung vorbei ist, bleiben Ver&auml;nderungen in N&auml;he und Sexualit&auml;t bestehen. Das kann sich unter anderem auf die Psyche auswirken. Doch in der Krebsrehabilitation ist das Thema Sex nicht vorgesehen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/sex-nach-der-krebserkrankung-168597/",
+      "published_at": "2026-09-25T05:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: VALSARTAN BASICS 80 mg Filmtabletten pU: Basics GmbH",
+      "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: EZETIMIB/SIMVA BASICS 10 mg/20 mg Tabletten pU: Basics GmbH",
       "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
       "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-09-24T16:08:22+00:00",
+      "published_at": "2026-09-24T16:10:28+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
@@ -104,16 +154,6 @@
       "type": "News"
     },
     {
-      "title": "S3-Leitlinie zur Langzeitanwendung von Opioiden bei chronischen nicht-tumorbedingten Schmerzen aktualisiert - Deutsches Ärzteblatt",
-      "summary_de": "S3-Leitlinie zur Langzeitanwendung von Opioiden bei chronischen nicht-tumorbedingten Schmerzen aktualisiert &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPd01iOWFMM2RhRGxLR0JzVGxwblBqYTlVSU5HVGdYd3Iyc08wdWZ1YktyejAydWVoYkVFdlFxdmFoMG9ROTdudG1WWDNIeUxfQkc2ZFFuem03dWpoWHNiUWlxd2NhbFZVTHhzUXBJQ0p4Y3Q4aGl5WS1oMVp5MFpNY0NPT0FmQ3ZkVWdCdDIwTWRIaHFDVk9ycGZLcHZDdmtoYWRobnlJSWZpN25PX05XRjZVVUd3c044RnVzYWRRRUd2ZXpQNnFDdDhxVV8xX0tnX2lrb1NQTzdLRFV3b0c5SzVDRWZWOEpuVXU2YkwtUU96U2ZBV2VnWVJVZkVzR2tLTndxcUpVTQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-24T13:46:42+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Professor Dame Anna Dominiczak, Professor Alison Strath, and Fiona Cohrane: Catalysing the medicines ecosystem in Scotland",
       "summary_de": "Scotland’s growing commercial research infrastructure and strong NHS, academic and industry partnerships are helping widen access to clinical trials, accelerate adoption and strengthen the UK life sciences ecosystem.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -140,6 +180,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeHI1OVU1WHAyZHpPd0REQWd3VWl5Ui1wYjE3QUc4TEdwblVzdV8tRk45WDc1c3ItYXNFTHRfNWNmaGZIUkhmLV9CWjJoaUM5LUx4QnZ0NjFJVklfdGxoRlpIeE52aFowRU9vbmFhUXEzX3VMUDFzRDhGYkYzWDFFNDZLNWpkdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-24T13:08:58+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Basishygiene und Infektionsschutz in der häuslichen Pflege auch künftig absichern – News - Deutsches Ärzteblatt",
+      "summary_de": "Basishygiene und Infektionsschutz in der häuslichen Pflege auch künftig absichern – News &nbsp;&nbsp; Deutsches Ärzteblatt",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONkg5ZTRTVDdkVWFrWFhMdmtZSlBUU2EzdlpRdVZGTEo1akFrZUxrczdQR1FsWkhIcjdIWk9iYzRnNndyMldZNE96N3YwbHdCbUF2Rk1yOXlkSFFRUkFHNndodlc3ZE9mWmhnYXVRSE51RXNteFVUbnUxYkcwWkFJSGZLcmxxa2FieWh4Q2hrWjU2WVV5aGJvMFN2YkttLWNrUzB4Rm9XTmlmcjB3eFdDU3NxSmxIb0Z2b19xc2NMMUNKVThlT1djRWtJZ0VKMGNscmFnYWV6RHFZRXA5MXRYaGtBaHE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-24T13:05:33+00:00",
+      "category": "Versorgung",
       "tags": [],
       "type": "News"
     },
@@ -184,8 +234,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit - Nächster Anlauf zu umstrittenen neuen Organspende-Regeln - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Gesundheit - Nächster Anlauf zu umstrittenen neuen Organspende-Regeln - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Gesundheit - Nächster Anlauf zu umstrittenen neuen Organspende-Regeln - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Gesundheit - Nächster Anlauf zu umstrittenen neuen Organspende-Regeln - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQUc3U1JfZE5HNG5MZHpKOVpXWFhVd3FwaFJSaHJHR1RBU0YyYWg2bUZTWGhHeVV5SmxzQXpnWlFRSnVza09GUHZwUEo1ekRsdGF3d0ZUX3V6UzY5UXRLUVRHMWI1eE9CQjZrQl9BaFZxTmsyZHMwYktiZ01melp1aTJPak9aM05WaG9CS2ZQU3dTcWxkR2MyQm5td0l5aVVGWVJHY2pkLVJDakNibnpVN01LRzVTeWNNZEF4UjNfYXZmTlVTRm16NFNPYjNjRnZrS2dZcGwyMVBhQ25xa0ZEdG5lSFNIR2RPU0RJNDJ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-24T11:46:39+00:00",
@@ -220,16 +270,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/europas-groesstes-kuehlhaus-fuer-arzneimittel-168628/",
       "published_at": "2026-09-24T10:30:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Mitarbeiter in Klinik - Hotelüberfall mit Pfefferspray am Ku'damm - Panorama - SZ.de - SZ.de",
-      "summary_de": "Mitarbeiter in Klinik - Hotelüberfall mit Pfefferspray am Ku'damm - Panorama - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSnVWbjZwVG0tNlRBd2hsc01hOXBMQ3ZJcVZIaWY3bkVRM0o3SThjV19fMlNoN1IzckFXQlROYjZRS3lDazRXaFBQZzBTWWlWblFfa1dQbmpHb3VqRDRweklaMENacXpCc0pXMTBMVV96UlJRQlg3MjY0dndVXzh0LWh1NHNWUEJNWl84RUNySWk5LXFmSzEwX2cyQ3ZnZjh2NVpsenJmV3NmWTF4bzJaNnpWXzlTb3VPbVFpZTVEMk5OVzlfckpOTndxRTNVenZDYkVjWVhrQjhhZDJTOFZxNFo2OUg4dw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-24T10:11:38+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -434,8 +474,8 @@
       "type": "News"
     },
     {
-      "title": "Nach langer Krankheit - Heinz Hoenig: „Ich möchte meine Jungs aufwachsen sehen“ - Panorama - SZ.de - SZ.de",
-      "summary_de": "Nach langer Krankheit - Heinz Hoenig: „Ich möchte meine Jungs aufwachsen sehen“ - Panorama - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Nach langer Krankheit - Heinz Hoenig: „Ich möchte meine Jungs aufwachsen sehen“ - Panorama - SZ.de - sueddeutsche.de",
+      "summary_de": "Nach langer Krankheit - Heinz Hoenig: „Ich möchte meine Jungs aufwachsen sehen“ - Panorama - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQa2VwWEd5TVlFYm5UQTY4bDQ2RDNlcWF4a09IbV93SU41ZE40Szl3aW9IQnkwZDJlN1M0ZEptMWQ4dV9jdUxTSkdaN0w1NVB6QWxxekVsRTc0NVN2a2h4b2h3YkZnb3lJX19oME04bWVRd3c3S3dRcEtBVmxYT1BKeDVydnJQTFZwWWtVZ2o3dVBPNVRoWVRUSFpPNWFrZTJ1eWxvMkdkbGJ3M3o4aG5QUTl1N0pQTzRVOTkwNkpfSVFyWndjcFNDVy05aUx2aXJCLXN5VW1WSmVKQ3hrUDcxNDU4YXlvRG9UYWd2SGU4bk9DZ1hH?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-24T07:33:24+00:00",
@@ -450,6 +490,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/mehr-menschen-ertrinken-in-der-badesaison-168594/",
       "published_at": "2026-09-24T07:30:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "What are the effects of COVID-19 pneumonia after 5 years?",
+      "summary_de": "After five years, residual lesions persisted in 35.6% of survivors (37 of 104).",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15835816/what-are-the-effects-of-covid19-pneumonia-after-5-years",
+      "published_at": "2026-09-24T07:16:54+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -474,8 +524,8 @@
       "type": "News"
     },
     {
-      "title": "Branchentreffen - Umfragen: Ernährungswirtschaft im Nordosten unter Druck - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Branchentreffen - Umfragen: Ernährungswirtschaft im Nordosten unter Druck - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Branchentreffen - Umfragen: Ernährungswirtschaft im Nordosten unter Druck - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Branchentreffen - Umfragen: Ernährungswirtschaft im Nordosten unter Druck - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObnJxV1V3anI5Y2cwVGRWb2FyWm5LbV9FMzJESVNuQzJVZ1dCM3I3bEpuTW1LdGlOUE45eHlXa3k4NHZJemNHOTNLMHJYSFhoZUpPTnUtWkQxY09LSWhianNHaVpSMnZVamY3amZEeko3LV92YWxCOEhtZW5nNjAyRHc5TG11UUV1WlprTHk1bngzdG80aDZEZ3NJbUU2THQ3WkViamdKdjNwLVBRcF94WDVDWHljTU1WQkxvLW9BMzNJQ21vTWMtZmdlVlVNQ0s1X3pNMmJRWUJPdWhPXzJUdmxkYXRYdHZVTk5qakhCN0s1UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-24T04:00:14+00:00",
@@ -534,6 +584,16 @@
       "type": "News"
     },
     {
+      "title": "Chefarzt (m/w/d) für die Klinik für Viszeral-, Gefäß- und Akut-Chirurgie - ärztestellen",
+      "summary_de": "Chefarzt (m/w/d) für die Klinik für Viszeral-, Gefäß- und Akut-Chirurgie &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTFdlWmFsLUxMTnFSTnU4aVE5M0NEbXZaZU5qX3ZYdXY3Wm1zOS1vSGRqZTNwZEZ6X0RhX0VrV1BERkZyOUtvczhCN3FSQ3NsVzEzTkVJSWlHc0dHUV9CNkd3UWJnRXdLTmhMeDJMVUt2dHZXSzJrV1lsY3QyZE1EVHJTLTktOVRiallHSEFqUVZFdFFpYjVITHFoZGFoM2tLN21xVWphRjNUSG1DR2F2cVJqWEpmQ2xFSVNRem04amNCZFJHVWJaRGd3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-23T22:00:13+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Trainee der Geschäftsführung (m/w/d), Caritas Gesundheit Berlin gGmbH - SZ-Stellenmarkt",
       "summary_de": "Trainee der Geschäftsführung (m/w/d), Caritas Gesundheit Berlin gGmbH &nbsp;&nbsp; SZ-Stellenmarkt",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -544,12 +604,22 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik: Linnemann gegen erneute Verlängerung bei Kinderkrankentagen - Politik - SZ.de - SZ.de",
-      "summary_de": "Gesundheitspolitik: Linnemann gegen erneute Verlängerung bei Kinderkrankentagen - Politik - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Gesundheitspolitik: Linnemann gegen erneute Verlängerung bei Kinderkrankentagen - Politik - SZ.de - sueddeutsche.de",
+      "summary_de": "Gesundheitspolitik: Linnemann gegen erneute Verlängerung bei Kinderkrankentagen - Politik - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGNlRzJkUFUwNzlJZmVmc05PWXR5LWFJeGxIajNFODM2UWFxQWdDZDJUMy1QN2pfT0tmMjhCN1BVVmJ0bjE0bTQ3dlhQa3BvTUdRSC1RRndSVHMyeWx4MzZaV3RJeDRRYURCV2E2MlRDRW14bDdMNnBseEgycWJYSFBUUjEyTlJSeXJYNTZEdzI5cndRWUVNTG1zZGxjblVnOUZkVWg0c0I?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-23T16:30:24+00:00",
       "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "PACS workstations add to power consumption in radiology departments",
+      "summary_de": "PACS workstations consume about 25 kW when active while also consuming power cumulatively in powered down states.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/imaging-informatics/enterprise-imaging/pacs-vna/article/15835621/pacs-workstations-add-to-power-consumption-in-radiology-departments",
+      "published_at": "2026-09-23T16:24:32+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -592,16 +662,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/csu-politikerin-offen-fuer-staerkere-beteiligung-privater-kassen-168608/",
       "published_at": "2026-09-23T15:06:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Tennis im Alter: Ist Tennis die beste Medizin? - DIE ZEIT",
-      "summary_de": "Tennis im Alter: Ist Tennis die beste Medizin? &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CU2E0bnlhZW5BaHB2WUVERmxpUjd1UTVtVWdsWDJ3b0lrTmNnZDZXWktTVWRzcXloY3M4ZHNzTlR4SjF5OWs3REpXWG5DdnRYLXhNQ3hHQkZ3dFlJRVhqWUNxS0labWswY2R2VVZ4allZcTljaDRn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-23T14:48:59+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -658,12 +718,12 @@
       "type": "News"
     },
     {
-      "title": "Offener Brief der Pharmaindustrie : »In Europa schrillen die Alarmglocken«",
-      "summary_de": "Europa verliert den Wettlauf um Pharma-Investitionen, und ohne dringendes Handeln erwartet die Pharmaindustrie einen schleichenden Niedergang, warnen neun Pharmaunternehmen in einem offenen Brief an die Staats- und Regierungschefs Europas.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/in-europa-schrillen-die-alarmglocken-168616/",
-      "published_at": "2026-09-23T13:46:00+00:00",
-      "category": "Europa",
+      "title": "Medizinermangel - Ärzte gesucht in Brandenburg - Ältester Mediziner ist 89 - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Medizinermangel - Ärzte gesucht in Brandenburg - Ältester Mediziner ist 89 - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPenhzTG5PU05vMUlpWHIzR0NmZElNRUtmbjNJZWE1clMzYXFPNEw3eVlSeXhETjlBN1c2ck5MQjZMOHg3R0FPUVZOM3ZJN3lPREU1MlBoS2Qzc0lCMVp2YW9FZzN0QjF1dDRZWDg4OTRRQ0lZNjMyX0VqUGZ0YUNNYjFydGRSS0NSWjc5Vk15RDdDVnlMVVNBWnBKMHptbEFQQkZkZFVsZWg5RnA5Y0xkZzRGd19ISTBhc2FDRGpISjNFbzZ2VFM2czg3dnAyUE5rX3hsNzlWWjBGTGxzYlFLTy1XUzY0dTVJV3hqWEh0NkhYSGM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-23T13:44:01+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -691,18 +751,8 @@
       "type": "News"
     },
     {
-      "title": "Urteil zu dm-med am 9. Dezember: »Es geht um ein ganzes Geschäftsmodell«",
-      "summary_de": "Das Landgericht Karlsruhe besch&auml;ftigt sich mit der Frage, ob die Trennung zwischen der Drogeriemarktkette dm und ihrer Versandapotheke dm-med ausreichend ist. Das Verfahren k&ouml;nnte bis zum Bundesgerichtshof (BGH) gehen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/es-geht-um-ein-ganzes-geschaeftsmodell-168610/",
-      "published_at": "2026-09-23T13:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Hilfe zur Pflege - Mehr als 244 Millionen Euro für Pflegehilfe in Sachsen - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Hilfe zur Pflege - Mehr als 244 Millionen Euro für Pflegehilfe in Sachsen - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Hilfe zur Pflege - Mehr als 244 Millionen Euro für Pflegehilfe in Sachsen - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Hilfe zur Pflege - Mehr als 244 Millionen Euro für Pflegehilfe in Sachsen - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeVp4ZDExZVZQYVlyNjNxVXdzMHRsY3I3Wmh2TElpY3JIMkNqM3pnNWRHV2VNajc2b2FOSURPV0p0UU1rSzRPY3hrcGlxSFFreEFYTk80ZV9halNGaW9ZYkJwODdVN3IwTWFGMXJjYUY5aV9VbmZSZnVxYWF2bEQ1Vy1QMmtrLVR1VkV0N1JuS2RuRlh4dC1jRGg2OG9rZUpFNGlyRy1HenZJZHl3TC1PWGR3UFFWUVBDNlBwaXZpY3U4LXhwWE92ZkxqV3BFemFoVGFKOHhmZlFtY3NCS3ZBMGk2bERGclQ1SWppczExT2sxQk0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-23T12:41:50+00:00",
@@ -721,26 +771,6 @@
       "type": "News"
     },
     {
-      "title": "DPhG-Jahrestagung: So klappt es mit dem Doktortitel",
-      "summary_de": "Eine Promotion kann ein T&uuml;r&ouml;ffner in die akademische Welt oder Wegbereiter f&uuml;r eine erfolgreiche Karriere sein, bedeutet aber zun&auml;chst auch Entbehrungen und Verzicht. Wor&uuml;ber man sich vor einer Promotion im Klaren sein sollte und wie man die ideale Stelle findet, wurde bei der DPhG-Jahrestagung diskutiert.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/so-klappt-es-mit-dem-doktortitel-168592/",
-      "published_at": "2026-09-23T12:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Daten für Prävention: Jugendliche im Kreis Heinsberg werden zu Gesundheit befragt - RP Online",
-      "summary_de": "Daten für Prävention: Jugendliche im Kreis Heinsberg werden zu Gesundheit befragt &nbsp;&nbsp; RP Online",
-      "source_name": "\"site:rp-online.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGYwREpQUkt0aWRoTUtjRlFEamd4OHFTYWdKMzdkQmdNcGdaNUxjaEZtbng4NGlIT1N0NzhmN09USmdOMF9IaDRla0FNWXRqU292dWpKMXVPS0pGWDVoQU5UbHNUWnh5Z05oM0lmSjE2MDNSZTNTUkdTVU41X3k3dVZNVVE2WFZ4cmpTMDRNMndYLWhEYmFDem93endDVy1OX2V3M2k5UmdjTExhRDRPeE5uVVBZUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-23T11:49:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Rezeptfreie Medikamente: Rechtsstreit um Online-Apotheke von dm - Fakten zum Mitreden - DIE ZEIT",
       "summary_de": "Rezeptfreie Medikamente: Rechtsstreit um Online-Apotheke von dm - Fakten zum Mitreden &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -751,8 +781,8 @@
       "type": "News"
     },
     {
-      "title": "Zukunftsstudie Ernährung - KI in der Küche – viele Menschen laut Umfrage noch skeptisch - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Zukunftsstudie Ernährung - KI in der Küche – viele Menschen laut Umfrage noch skeptisch - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Zukunftsstudie Ernährung - KI in der Küche – viele Menschen laut Umfrage noch skeptisch - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Zukunftsstudie Ernährung - KI in der Küche – viele Menschen laut Umfrage noch skeptisch - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQV1JZVEp5WTlRVXB5UkljM2FlVDVzdUhzWC0tc0tPTVloUjlvV3hwaVdrVmk5c1VVa0lFMXRhWkx0aTl2TUdjbm5MZ2pWMTE5NndBR05kdUdmZDlfeXRlWHd6aExNWFpVNnQ0NVBrZXNjdmloZDVBV091OGRNU0tjSFhrNzI3XzB4ZTJxbVczTHdNVVhHaEpRU1o5MXI0NjN2dzhwekRWRUxjZU16QkN0bUxHYXNuRm96Y3kxZmVqOUg3dllQd3JNRDd6cXhtNWlSLV9IZnVmUC05ODFKZFJudE9IY3BYTEhQQTd3dFY4aFJ4WWdxdlNUejZQTGdTaFJ5QVdFcQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-23T11:00:05+00:00",
@@ -777,6 +807,16 @@
       "source_url": "https://www.gov.uk/government/publications/mhra-performance-data",
       "published_at": "2026-09-23T09:00:20+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Image-based grading system estimates nasopharyngeal carcinoma severity",
+      "summary_de": "The four-tier grading system showed excellent reliability and good prognostic value for patients with nasopharyngeal carcinoma...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/15835686/imagebased-grading-system-estimates-nasopharyngeal-carcinoma-severity",
+      "published_at": "2026-09-23T08:25:57+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -831,8 +871,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit - Herzschwäche tritt in Bayern regional unterschiedlich auf - Bayern - SZ.de - SZ.de",
-      "summary_de": "Gesundheit - Herzschwäche tritt in Bayern regional unterschiedlich auf - Bayern - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Gesundheit - Herzschwäche tritt in Bayern regional unterschiedlich auf - Bayern - SZ.de - sueddeutsche.de",
+      "summary_de": "Gesundheit - Herzschwäche tritt in Bayern regional unterschiedlich auf - Bayern - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaEI2RzBteF9veko2M0k2MW5XdDN1QzU0c0ozT08tWUl3NzRkYmVEU3IzTlFpM21pRWx3bENMYS10UFRYcHpfTFFSRENUamh4bGg1UnV0a3pNTE9FTVJJeENzUXJKZGdGcTMwQlVoTWJEd3NHaHZCV2p5X1pveDgyZjkya3dFM0dGN3NaN1FJSTVQdzBoeHcyb01ERkZ0UUlwX093QndPa1dHN3lwc3NRUEFIY0g4aC1CMkJXeV92YmRQMVJvVjFCS3ZHOVFUMTRCWW1nQ29DcmZUT2tpLWdyNFczUE92bXhHWkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-22T12:25:09+00:00",
@@ -851,8 +891,8 @@
       "type": "News"
     },
     {
-      "title": "Was bringen LED-Masken wirklich? - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Was bringen LED-Masken wirklich? - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Was bringen LED-Masken wirklich? - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Was bringen LED-Masken wirklich? - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BQmVDNVp5Rjk5MTNOZExnV0dRd1Y4VHpFNnJLdTdnc2ZvRjdjWHhEbk1xbmR0Tk1STmJSdmtfc3J4VUxBVEF6a3RDT2xRMFRLYXp0TGRQbHJtQ2NaMUFaZmpLczNrWVNNMFRBS01QLWRkU2FYRkZR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-22T10:10:55+00:00",
@@ -917,6 +957,26 @@
       "type": "News"
     },
     {
+      "title": "Digital X-Ray Insider",
+      "summary_de": "This edition of our Digital X-Ray Insider highlights the potential of lateral lumbar x-ray for opportunistic cardiovascular risk...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15835579/digital-xray-insider",
+      "published_at": "2026-09-22T08:33:56+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "X-rays reveal severe aortic calcification in dialysis patients",
+      "summary_de": "The findings reinforce lateral lumbar radiography's potential as an accessible, low-cost tool for opportunistic cardiovascular...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15835554/xrays-reveal-severe-aortic-calcification-in-dialysis-patients",
+      "published_at": "2026-09-22T08:31:33+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Provisional Accident and Emergency Quality Indicators for England, July 2026, by provider",
       "summary_de": "Provisional Accident and Emergency Quality Indicators for England, July 2026, by providerThis publication contains statistics for total time in A&amp;E, time to assessment, time to treatment, attendances where patients left before treatment, and unplanned reattendances within 7 days. It also compares data coverage in ECDS to the emergency monthly situation report (MSitAE) published separately by NHS England. Each report contains …",
       "source_name": "Publication Feed",
@@ -937,8 +997,8 @@
       "type": "News"
     },
     {
-      "title": "Impfquoten - Nur 10 Prozent der Kinder mit Risiken gegen Grippe geimpft - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Impfquoten - Nur 10 Prozent der Kinder mit Risiken gegen Grippe geimpft - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Impfquoten - Nur 10 Prozent der Kinder mit Risiken gegen Grippe geimpft - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Impfquoten - Nur 10 Prozent der Kinder mit Risiken gegen Grippe geimpft - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVVFMcnpZZkd4YjNWYVpITENwdHEyV3lKT21xTWNHdTB3bTVEdjhaOW1BNmhpcXc0bFp2RUFnNnZmR3dhNkZYejdtTHA2eWRnbWpfZEk0ajdsZTJrZ2Q2S19rb0NhREdVQUF5Yi1lTDJ2UzFNNzdReHZFU0xBY0NBd0xtVE1hQzBxYkFKUUFQN194N0x6bmt3dkN4SkxDODdIOVVTTXd5ZGRkUUMxOERadll4eXhhOTNwV2ZwdmNrZjZFN1B5R2JlSVBKRjk1SUVfNWFmbWhVSmMwMWY3RjU5d1NESjJBNXRFLWJfQkY5aw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-22T03:00:04+00:00",
@@ -1047,8 +1107,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit - Krankenhausgesellschaft: Bürokratie bindet 176 000 Vollzeitkräfte - Politik - SZ.de - SZ.de",
-      "summary_de": "Gesundheit - Krankenhausgesellschaft: Bürokratie bindet 176 000 Vollzeitkräfte - Politik - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Gesundheit - Krankenhausgesellschaft: Bürokratie bindet 176 000 Vollzeitkräfte - Politik - SZ.de - sueddeutsche.de",
+      "summary_de": "Gesundheit - Krankenhausgesellschaft: Bürokratie bindet 176 000 Vollzeitkräfte - Politik - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcE9WLThDeUFGVEpuNzdUUnA4LU0wczJYVE1mb0JzU056cjRQenhtUThIeVRqOWlteEtFWlp2amwtOFJLa1lNekFRT3RFSGVBWWZaZW9EOU1Gd0tMdHdQdDdacW91cE14TmNBSUhRb2RHNGhIQmViRUtDdEUxMzVVdnBZUjAxQTA4UURCSFNqcVEyaHRHYUlCeTc5cW5WMHFHdW1yVFVuYkZSR0Z1Q2pQZkNRS3I4bzAxU0pNVG5tRzV6UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-21T11:22:06+00:00",
@@ -1077,8 +1137,8 @@
       "type": "News"
     },
     {
-      "title": "Malariafälle in Frankfurt: Es könnte unentdeckte Fälle geben. - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Malariafälle in Frankfurt: Es könnte unentdeckte Fälle geben. - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Malariafälle in Frankfurt: Es könnte unentdeckte Fälle geben. - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Malariafälle in Frankfurt: Es könnte unentdeckte Fälle geben. - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU0ZIRTQxQV9SMnllRTNoTHgzLURaTE44XzVTNlRIcnc2WnZsbjNyU0FXUXZncHBieVdYazJmT0pmQ0VoYXloTVVYUnNBMzJJWHRhOUw0aDU1bWpzbV9OZnJuRHpLZDR4QjZvdEJvUnMxeWotaHR1MEtjM2o0T1UxcjlRZXVaZUJhSHp6QkdMb2RrdlMwelJzUnY3VQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-21T09:35:44+00:00",
@@ -1087,8 +1147,8 @@
       "type": "News"
     },
     {
-      "title": "Phagentherapie: Hilfe für Patienten, denen kein Antibiotikum mehr hilft - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Phagentherapie: Hilfe für Patienten, denen kein Antibiotikum mehr hilft - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Phagentherapie: Hilfe für Patienten, denen kein Antibiotikum mehr hilft - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Phagentherapie: Hilfe für Patienten, denen kein Antibiotikum mehr hilft - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeF9Sb1FwTWNuMWl4clI3RWpGVEJodVpzOGZKUThKN3JkOXh4Vm9zVU5najR3QmtPNDlsTUtnb0dPNUNTeWRKZDhNRXR6d0RZVjU3Z3NCQWFCcExNeDBNTXlyamRiYlNFVV8zTllENk5xTWhLdEdMc3hybDlDeEJodnRmelZxbU1NdnM0WXlvV1ZBclZKZ1BTblpxTHFMaWcxUWhOeXhyTU8tTXZJY2VB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-21T09:20:31+00:00",
@@ -1110,11 +1170,41 @@
       "type": "News"
     },
     {
+      "title": "Telix inks deal to acquire ITM for $1.65B",
+      "summary_de": "The deal would create a combined company with significant radioisotope manufacturing, distribution, and radiopharmaceutical development...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/nuclear-medicine/article/15835452/telix-inks-deal-to-acquire-itm-for-165b",
+      "published_at": "2026-09-21T08:09:04+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Connectivity, wellness, education at center of SDMS annual meeting",
+      "summary_de": "Kevin Rooker outlines what attendees can expect at the 2026 SDMS annual meeting in Atlanta.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ultrasound/article/15835431/connectivity-wellness-education-at-center-of-sdms-annual-meeting",
+      "published_at": "2026-09-21T07:49:06+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Wie berechne ich das beitrags­pflich­tige Entgelt für den Über­gangs­be­reich? - Techniker Krankenkasse",
       "summary_de": "Wie berechne ich das beitrags­pflich­tige Entgelt für den Über­gangs­be­reich? &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWTJBRHFfYjNFdFZ1NlowVW8zajFKS3ZtZzJwU1hrTm14d1k3cF9DejNuV1pSc1ptbG50RktPaXdCRWxmZ2dEeFB6cHZEZTA3a1MwM3dabm03dzR3SFIwcDJzZ3pqdWVBbDVReUswVG9qMmpCcnRxMmNJbjBYVXFSa2lmb1lMVDdOVUdJMmhlWVhDVzZaNmRQdnhXdGFMMzBUcDVlVFNyVThZUDVTUFFXUGJQNHJvV2J1MzhaaUZZRUJfb0JwQmFfejMxd0ZBakVMWGc3a2VmcUt3S0NjbGJDcTBfdFNpTUttR3IyZnZB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-21T07:36:52+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Dranbleiben: Mehr Bewegung im Alltag - DAK-Gesundheit",
+      "summary_de": "Dranbleiben: Mehr Bewegung im Alltag &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XQXRFbHNfSURtQkg3dm5oV3hhd0YtbzIwb0gwdWpWWWhUei1ZMURiX25lTFZvQUI5Y09XTU5SemJzWFVtcjA5TlE1OUlCYWExTGlzX0EzaTdsYU13c04zRGQycl9PbUdrTFVxVlVzUDdNX0VuaGIxQ3BPOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-21T07:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1170,21 +1260,21 @@
       "type": "Studie"
     },
     {
-      "title": "Pflege - AOK: Zehntausende Thüringer leiden an Demenz - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Pflege - AOK: Zehntausende Thüringer leiden an Demenz - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT0VmOHBfTVRhSVFFazJEZFRfWk1JZWYwUXpud1RleFFpci1ibzI4N29WWHRFSFN1UHhlYW03blVSZURsT05udVNYMXUwN3lQSi14bmt6NWpmYUVvM0s5WjBTZlIzbC1CTDNheTNESnBrcmFIc3lhTWlMVklicFByeThLajAtX1E0U2xDdGJyeGlJNktRdmhIQlhjZFp2ZnU3ZlBrZjhxM2lNQUdOdENORkhiLWU1X214TmlrOC1VcUktM3JBdEZmYUM1Z0h4TFpSa01HVWgxMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-20T08:52:17+00:00",
-      "category": "Versorgung",
+      "title": "Weiterbildungen in geschlechtersensibler Medizin sind noch rar - faz.net",
+      "summary_de": "Weiterbildungen in geschlechtersensibler Medizin sind noch rar &nbsp;&nbsp; faz.net",
+      "source_name": "\"site:faz.net medizin\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdl84S3VGSmExbHlXeHBuOHJxWHRSM1NneDRCWUZld3htczY3aUs5N3VEa2s0R2VDQjlERTdPcXRONG9UTV9xLUxmeHNCUUpHRlpaMHlsZF94WU5iaXlIVzRTYmtqZzA3eHFaeTNuY3dXNTA2ajRTWUpvTFlSSWlXc25hbTlrMlFrSFlmYXgtY2kwZGYwUDJ0aXo3ajNCWWlZTkF1akl1Rk12N2RtZTNYb3lFQ2lYM1YycjQ3SXZLTi1wUE8zNEtvWFl3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-20T08:33:10+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Weiterbildungen in geschlechtersensibler Medizin sind noch rar - FAZ",
-      "summary_de": "Weiterbildungen in geschlechtersensibler Medizin sind noch rar &nbsp;&nbsp; FAZ",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdl84S3VGSmExbHlXeHBuOHJxWHRSM1NneDRCWUZld3htczY3aUs5N3VEa2s0R2VDQjlERTdPcXRONG9UTV9xLUxmeHNCUUpHRlpaMHlsZF94WU5iaXlIVzRTYmtqZzA3eHFaeTNuY3dXNTA2ajRTWUpvTFlSSWlXc25hbTlrMlFrSFlmYXgtY2kwZGYwUDJ0aXo3ajNCWWlZTkF1akl1Rk12N2RtZTNYb3lFQ2lYM1YycjQ3SXZLTi1wUE8zNEtvWFl3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-20T08:33:10+00:00",
+      "title": "Krankenhaus in Radevormwald: Wie das Aus für die Endoprothetik abgewendet wurde - RP Online",
+      "summary_de": "Krankenhaus in Radevormwald: Wie das Aus für die Endoprothetik abgewendet wurde &nbsp;&nbsp; RP Online",
+      "source_name": "\"site:rp-online.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcTdPU3hESG9nWG1HamNMZ2dEQWxNYjFucXVvcXRQZEgzNnZsYUkyeHVoUVhZX1RjajFyY3RLNnpObkpaZUtBZGs0R1ZuMzFwc1lBOEc1MlFCdGNzMkxBVUU5R1A5c2RPQmVZWW5KaUU5T281aHhRX0I5WEZZRm95MVRwQ25ZRk1TemlLVnd0LU45LXlJRE5ZTVZZaTkxYkdIRVJwTG9n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-20T06:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1200,8 +1290,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit - Wenn das Herz stillsteht: Mit bloßen Händen Leben retten - Bayern - SZ.de - SZ.de",
-      "summary_de": "Gesundheit - Wenn das Herz stillsteht: Mit bloßen Händen Leben retten - Bayern - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Gesundheit - Wenn das Herz stillsteht: Mit bloßen Händen Leben retten - Bayern - SZ.de - sueddeutsche.de",
+      "summary_de": "Gesundheit - Wenn das Herz stillsteht: Mit bloßen Händen Leben retten - Bayern - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbVNOcXJGWXYwVmw4T2pPOW5vdEJjSEVQWndsS0lPWG1nOEhpaGdTb29naHU3SUNBcGFwYm1uYjlDb0pYVUVmRDlYSUprNkx6b0Z0cjhmUGxlRU9fS3h5MFhWNU9UWkhUdnlsYm1TUUxndlpYUm5mUklFWVpJUlBiTDAtTDVZcG5NRWQteUpNbEpDODloM0o2Q1JndHRVTzhvRUp0U3RDT0c4QWhpaFM1akdZUS00Y1JzV2EwTXlhT2diN0kwWEtZSTFlTzY3a3BNUl84LVUtYUcyVHl4dHpSbW5wNU9Xa29j?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-20T04:00:05+00:00",
@@ -1210,8 +1300,8 @@
       "type": "News"
     },
     {
-      "title": "Versorgung - Pflegebranche beklagt hohen Aufwand nur fürs Karten-Einlesen - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Versorgung - Pflegebranche beklagt hohen Aufwand nur fürs Karten-Einlesen - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Versorgung - Pflegebranche beklagt hohen Aufwand nur fürs Karten-Einlesen - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Versorgung - Pflegebranche beklagt hohen Aufwand nur fürs Karten-Einlesen - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMXh4a3VQMnVnZ3dleDdVeFFiUHlzekpDZnlXYTVqWmFFUEdXWTVNaDVHMWVubG1WZ2tqOXNXcnd3YnRaRGh6enhrN1pqR0RtRTdfTS1mS2pGeFk3b05nUDl4YzMxQkRRaTNQVFY2MmNncndJc3VtVHV2Qkp0TGFJYlkwcXJiOEJWOEpuTDJ6V19PNS1SUHlMLXZRZWxoRS1pb2RkbkpTdXFpSFhncVU2alNvUkNEdlJBZ29NY2I0NlY3UFNlbnVMVnYxNHpBdTFIWHlfd3VjZEs2WVptWlV6TFJNdjFxa0pnMzFId1JlWVBtX28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-20T03:00:20+00:00",
@@ -1230,8 +1320,8 @@
       "type": "News"
     },
     {
-      "title": "Wiesn-Gesundheit - Erstmals Grippe- und Corona-Impfung direkt auf der Wiesn - Bayern - SZ.de - SZ.de",
-      "summary_de": "Wiesn-Gesundheit - Erstmals Grippe- und Corona-Impfung direkt auf der Wiesn - Bayern - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Wiesn-Gesundheit - Erstmals Grippe- und Corona-Impfung direkt auf der Wiesn - Bayern - SZ.de - sueddeutsche.de",
+      "summary_de": "Wiesn-Gesundheit - Erstmals Grippe- und Corona-Impfung direkt auf der Wiesn - Bayern - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdzZHT3VnUVViNFh4RVUzNWlOY3N0VFdqRXNiWWY0RnYwbUZKUXF2SlNrOHdPVHVLcWpxTGJxc0xHR2dOQWhHWVpPa2RjTXdyc2EzalNxb2k4Zl9HQ1Fzc1JjQzVTQXdRN3dJZEtOM3Atd2JZR3QxQTQwTUFWZDNOck81ZkptYUZhSjBDbHc0NVhqdnJNdnZfbDI4YXFmalJaNVI0eDZkMEM5V1RzWTR0TFBOX2c5VDhnWUhKWWoyVHQxZHR0cVJuVTFuN3BlN3RNaF9SWnFBU2hCX2xwa0JOUlQ1Y180WXhLUFg0eXVR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-20T02:30:13+00:00",
@@ -1250,6 +1340,46 @@
       "type": "News"
     },
     {
+      "title": "Magic Mushrooms: Aufklärung zu Wirkung und Gefahren - DAK-Gesundheit",
+      "summary_de": "Magic Mushrooms: Aufklärung zu Wirkung und Gefahren &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSU9LY2dLN18xMTJtU01pUEZ6OTNkN2xvSDdmblphdkxHVXhYVlNLcUlsYkVtTE9hN3B3TXVpaHdjU2hpRTVkQVF5eVItZldSTTROTFlsUnBVU3RaaHo5ZHo3dGIyb21Pb2FDMUlpUlNKSU1PXzVfY01YWHlOdU9YS05FdXFIaG9DbmxtVmZDUEtMLW9XTjBCM3VkMl8xSkxLR1VFRnM0U1VmY200clFZZGlNZDQ3N1o0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-18T19:54:16+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Sucht: von Alkohol bis Zigaretten - DAK-Gesundheit",
+      "summary_de": "Sucht: von Alkohol bis Zigaretten &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQanVOdXdaazdkenVQaExIUXdVYjZDWHoxcGIwNGx6SkM2Mk9OdHZzN1otSVBPRXFJTHdjNk5SYUxXREJCVENtWG9peElhMFo3c1JHMmlVNWxQZFo5TkJtQ1FXTnV2aGdkbG1LVzhLa0RhSlUwN09NemhGeTlLTlJ2cHlCN1lfRkk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-18T19:54:10+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Kein Alkohol in der Schwangerschaft - DAK-Gesundheit",
+      "summary_de": "Kein Alkohol in der Schwangerschaft &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXBWOGJNOFBBQVNYejZvOUEtYXY3ZFUwcFF2YlVNUXJiczlpU3JyR3BNdW9qdEhFNHJPTVN2WDIxTTlzZVFZOXQtT25jV0E4Qkl3ZzktcDVueno4LTBBNi1mSEVqZDk0OXFRMXZ0eDR2cDZhd0E5Z1FLTDhGTnNvWU51M3JXc0pQQkdjMWF5MlpSN3Vod2xrMUJCRTJJZkNEX2dIcl91U2c5ajhTNF9wMXZfdW4wSTA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-18T18:56:40+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Depressionen erkennen und vorbeugen: Das sollten Sie wissen - DAK-Gesundheit",
+      "summary_de": "Depressionen erkennen und vorbeugen: Das sollten Sie wissen &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbl9IWkZqSHlkVVpVcmpqUWl0YlB4N1VielIzdzlWTS14NUdKdFZwWTRFX3plVVVpUDJ3UUlrdjgyTXZSOE1KUVpYTDdpLXpCblo2d2YxalRMSlRabGQ3Nm5RZUdtcjd2NDhFTE1Pa0xnUmVPYXppcTFILWVJd3c0ZWRZbS1lQVBxX3B4d1JEVnJlc01wekthV3JBdWNwOHdIY1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-18T18:46:39+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Guidance: COVID-19 test validation approved products",
       "summary_de": "Find out which COVID-19 test products have been approved.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1260,8 +1390,8 @@
       "type": "News"
     },
     {
-      "title": "Oxytocin, Testosteron, Cortisol: Hormone und was sie wirklich bewirken - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Oxytocin, Testosteron, Cortisol: Hormone und was sie wirklich bewirken - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Oxytocin, Testosteron, Cortisol: Hormone und was sie wirklich bewirken - Gesundheit - SZ.de - sueddeutsche.de",
+      "summary_de": "Oxytocin, Testosteron, Cortisol: Hormone und was sie wirklich bewirken - Gesundheit - SZ.de &nbsp;&nbsp; sueddeutsche.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSnBNenNURkVxOEV2MnNIXzJfNG4xckZlQVk4MDJkSEVQNXRsRFFybGFtSGNFRDNvUFRlcXZjdndWVjF4cXU0Q1g5UWQzdkdqd3ZzLWszSHBFZ1p4LXZQV0xxVE5xSXJocE5wdFlQV2xyNEoyUkhUX0RzQlB0RGhCZ0NLN1hqYTBCVG5xU2g5NXdUUjFnVzJXY28xbVUxaFdYdDFEYQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-18T14:28:35+00:00",
@@ -1278,6 +1408,18 @@
       "category": "News",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Week in Review: Radiologist joins USPSTF | Ultrasound MinnieCast | IR specialization",
+      "summary_de": "Our coverage of radiologist Dennis Wulfeck, MD, joining the U.S. Preventive Services Task Force was the top story last week on...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15835335/week-in-review-radiologist-joins-uspstf-ultrasound-minniecast-ir-specialization",
+      "published_at": "2026-09-18T10:10:22+00:00",
+      "category": "Studie",
+      "tags": [
+        "Radiologie"
+      ],
+      "type": "Studie"
     },
     {
       "title": "Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 September 2026",
@@ -1340,21 +1482,21 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Malaria-Gefahr am Hamburger Flughafen? - DIE ZEIT",
-      "summary_de": "Gesundheit: Malaria-Gefahr am Hamburger Flughafen? &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2aXpGY3hTZjFnMUVIVEgzdFJNSXE5QW53OVJkNDBvaU9OX3FkUFJrZkJ3bTM1T3A5alpKNUlZbHpsb1RlWWU4NHFCM2hILTlQZEJ0WUFpM0JYTTlPcHIydWg1dnAzZUNIeEp0MFc2cmxmOGs4RWlXbXQ3V01ZZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-18T03:00:06+00:00",
-      "category": "News",
+      "title": "FES-PET guides second-line therapy decisions in breast cancer",
+      "summary_de": "FES-PET/CT results led to therapeutic management changes in 37.8% of patients.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15835305/fespet-guides-secondline-therapy-decisions-in-breast-cancer",
+      "published_at": "2026-09-18T07:10:43+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Gesundheit - Malaria-Gefahr am Hamburger Flughafen? - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Gesundheit - Malaria-Gefahr am Hamburger Flughafen? - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTWhLT2Ywc2M5T1Y3NTdRU2ZiZ0h2cGh2eFJhamJYcjJpTHRTUmJoSVQ3SjhWdmtWbkpCeXB0UDloSG5TN2E3SDkxMVpyQm1VdVVzVW1RM2NNS2x5bTFRR0hvODYxN2NzaWpoTVNjVjRnV2ZjM1RnX24xLW1UWWEtYXNIaHI3NFl1RE9tTFZGR2c4RTg2cVJqTWlqVFBfcHpPYVpaUHZ3aTNFclRsWVdnN21DVW9QOVV1d2FOSTFkVEZhU1NlYlFLS1Y5Wk1iMktrWmlF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-18T03:00:06+00:00",
+      "title": "Recalls stable for radiation oncology tools despite tech advancements",
+      "summary_de": "While radiation oncology devices using AI or machine learning are increasingly entering the market, recalls may be plateauing.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/radiation-oncology-therapy/article/15835281/recalls-stable-for-radiation-oncology-tools-despite-tech-advancements",
+      "published_at": "2026-09-18T06:21:26+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1618,6 +1760,16 @@
       "type": "News"
     },
     {
+      "title": "Auswirkungen von Smartphones auf das Gehirn von Kindern - DAK-Gesundheit",
+      "summary_de": "Auswirkungen von Smartphones auf das Gehirn von Kindern &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWVpnZ004bjA3QjN5NGxBTE5VY1BCdTdBTkh3a0gtUXFkYUt2UzJlZG5TRVVSWURJOGt5QklCY2xyMkdNN2dRSWJRYnVxaTJBLVBZaVhEd0FrMWxwVE42MkpsSFJYUDdyRDJCZ21XRkZWLUZaTUphZnZ0Q3Z1NmUzSlFibHYyaU9PRmUzVlpyM2pVRU1uRTdJY3Zhb1VuSGowQ2puWW1XUFJTX0hxM0hJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-15T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gesundheitspolitik: Zwei Länder im Norden arbeiten bei Telemedizin zusammen - DIE ZEIT",
       "summary_de": "Gesundheitspolitik: Zwei Länder im Norden arbeiten bei Telemedizin zusammen &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
@@ -1692,16 +1844,6 @@
       "summary_de": "(S+) Mentale Gesundheit: Warum mit Führungskräften ganze Organisationen ausbrennen können &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSE4tM2NvY0NtNlZUcHk5VWZ2ZjBSR0lTRHRISTlWTnA1akZCSm0tLU55aG0xNFFTZlMxTm1pWnBXSXdrWlRmOExqWHRJa3g2d1FLU3J0Tm4tZVJKcm1jUkFWRzFXMHBkYThQWkNMU0dmTTBpbjFpMkoxYVNBZ0FzUTR4VkdLcjA5bjNlZTVzYmVMaVJRTnJZRF9NSDJjM01lMm1aY2xvLW5UYWhnQTVpNzZhQ0tJX0NQa3NsbHRwUm1RQUJ5MFY0eVl3d2VnR1Z0OXNZZFVuTTRZSXJMZW5nMDJHa3Jaa2FaMG1YV3Z3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-14T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "(S+) Meinung: »Germanische Neue Medizin«: Wenn Alternativmedizin auf Reichsbürgerideologie trifft - Spiegel",
-      "summary_de": "(S+) Meinung: »Germanische Neue Medizin«: Wenn Alternativmedizin auf Reichsbürgerideologie trifft &nbsp;&nbsp; Spiegel",
-      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPd28tdEczYkhwQ3pnQU5FQ3RLeUJYRHFCQnpab3J1YnJBN243d2QxZTVQODdwNWZsT3JqRFlWeFlicXRvRjFwazBOTkNoZ25YVHhlY29WTGRmNjlVRURkSmJKZ3pvUjZNVmJaNDJkNVFyY2RJYXB3Sk5wNWNJM0N1SjFFQUVDdUJVRkE3cm5SUFVuSDkwOUlObDJYeXVEX05iQnZIVnpIVWVqY3pXdG9oakw4U2dEcFdCVEhtbW9LUjcwOHg0SzVSaHc5dWxoM2dpM3NOVlNTYjhKNWxBNWh6dGJPWjFKdGpOMVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-14T07:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -1810,16 +1952,6 @@
       "type": "News"
     },
     {
-      "title": "Johanniter-Krankenhaus Treuenbrietzen Weiterbildungsermächtigungen - Die Johanniter",
-      "summary_de": "Johanniter-Krankenhaus Treuenbrietzen Weiterbildungsermächtigungen &nbsp;&nbsp; Die Johanniter",
-      "source_name": "\"site:johanniter.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXdMSDctR0R5NTJ2SkhYWjFyQ3VKQ3diejV4WmhOa0t2YUFKTmZzM1kxZE1Ddkx4cGZ2aUNjaWxBakdXSFJIdmNHbkhab1lYYk1wTEFSQjc0U0cwX1ZETzZxQUt1SVUyOXZuTzhMMmNoTjVWZDR2cGI1bXZhRl9WM2xfMUdnOTNtMC1keFZlbGNHR0daaWlrb0wzZ0EyRXZfMW0zRDZSb1NUWlRUa3FjV2ZXcThvVi1wMTF0VHp4Uy1zN3NvQXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-10T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Iodine supplementation for preventing iodine deficiency disorders in children and adolescents",
       "summary_de": "Iodine supplementation for preventing iodine deficiency disorders in children and adolescents",
       "source_name": "Cochrane Library RSS feed.",
@@ -1828,6 +1960,36 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
+    },
+    {
+      "title": "Meditation in der Schwangerschaft - DAK-Gesundheit",
+      "summary_de": "Meditation in der Schwangerschaft &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQjFmOW1ySkx5LVhsS1Bua1NrbUVDVjFxYmhqNXYwR0NWQS04bzVfOUN5TTJidzhRQ0lWYkpkYkYxanFJZGZqbUlDLW9tVUxGUlVXMlgwMndmTEtBZW10MThQN21nMzl6UjJmMDBfQm5HN043UDItN0dsRkpfRU9aUEpISml5WHh0T2hsUGhZQW93YVFnTlpsR3lOQ1JJdVdEdVduREZjVko4QjZfaUpB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-09T13:34:18+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Ernährung in der Schwangerschaft: Darauf solltest du besser verzichten - DAK-Gesundheit",
+      "summary_de": "Ernährung in der Schwangerschaft: Darauf solltest du besser verzichten &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZk5fdnYxLWtlRm14T1oxLWVKOVF2M2VOVmZiN2F3QzFaUmNaR3hlN09tR0t0bFhxYVFNdjlEa3dEVm85VDhTSlpiMGxqUFFaNjhUYjBCRFlpUXRseTRNbGRQQUYyVnhZQlF1UU1iVXNtZTAtLV9SUXJJTVpuY19pX0NfaU8zYnV6RF9RN0ljNkt0ajZYaTJQQzN2bEhmTkFjbnpuWUtHUzFPRzByTi1XRjZQTWQ3Uk9DODQzYm5JWVoxRDQ3alY0NXFn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-09T11:54:02+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Schwangerschaftsuntersuchungen - DAK-Gesundheit",
+      "summary_de": "Schwangerschaftsuntersuchungen &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbFg1LWpua3ZSRlJBN1AxQnRRT01zbElxNUZaTXZmd2FQQm83QlVHZEZZazRQbGxkdzd2R0l6RGprNVNJYXBzVWJPcE9mNl96Z1U0SmpuN2NYLWNmZzBPLUplUTlvWmpJN0tfYU9HOWZLdVFqTmtWMHotZVJROC0ydUU2VExGc1A5c1ptSThMYmlwV3drOVVGRklzY0lNNWs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-09T07:28:17+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Elsner: „Vernetzung der 116117 und 112 zu Gesundheitsleitstelle gehört zu den Kernelementen der Notfallreform“",
@@ -1957,6 +2119,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOS2VjQ2l3bW56S0tUNVRfSkpVbldrT3NKQU9sVi1XLU9EMjl6QnFubGZSdXRTUFFFNktlZUUyNHNNVGpXZlVmWENBZzM4c2xIbm9Qc0lzNTFnWlBFZnp0LU9Tc1I4U2huNUkwUGhEVHRzTXEwSnhub05VcnRPU1RUYl9KYXdQaW85NEEtSDJkYmxxbjdGa2x1RC1iUHZIZXhacnhfZVo2SE9pWXNEQTYxMVF2VzEwWU5yTlZkajJ0cjJtWG9EZU9jQTB1Y2pHZUNmcmJjd1F6Y3NyMl8xWEYzN2Rsc1BabWV3bFV6Q0pOeUh4eW9nall4QlVHVDdFVnQ1WjI0MEFGZDJzU2RSeGxBVXc2MmNCTGcxVkVoUTdOMGNVQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-02T22:10:38+00:00",
       "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Risiken bei Schwangerschaft & Geburt - DAK-Gesundheit",
+      "summary_de": "Risiken bei Schwangerschaft & Geburt &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQmNVX0hkZ3dSMmVnXzNPMkZfQmE2aWlISkQ5ZFJxSmdGNmlxeE0yWTUxVllmMDF5X1d0V3ZjTVNCMnBKc1ppaEVqSHVlUDVtQ0NwbHczem5mQlVEd1NyMEYzUlEyT0NzZzVjeWpIOXpsbkRYT0I5SG9BYmpjVlRmMFRHblhtWTZXdUpTTEpPeGpGZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-02T16:39:30+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2291,18 +2463,6 @@
       "published_at": "2026-08-20T08:31:03+00:00",
       "category": "Europa",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Meldung: Da ist noch Luft nach oben",
-      "summary_de": "Über Gleichberechtigung im Gesundheitswesen, Teamplay in der Familie und Karrierechancen sprach die stellvertretende Vorstandsvorsitzende des GKV-Spitzenverbandes, Stefanie Stoff-Ahnis, mit dem Fachmagazin „casus quo“.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2298532.jsp",
-      "published_at": "2026-08-14T07:49:44+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Wirtschaft"
-      ],
       "type": "News"
     }
   ],
