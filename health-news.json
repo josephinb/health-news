@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-09-26T02:54:21.313832+00:00",
+  "generated_at": "2026-09-26T08:12:07.206104+00:00",
   "window_days": 42,
-  "count": 222,
+  "count": 211,
   "items": [
+    {
+      "title": "PZ Briefing: Die Top-News der Woche",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-der-woche-168685/",
+      "published_at": "2026-09-26T07:00:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Im Krankenhaus: Vater und Sohn greifen Polizei nach E-Scooter-Kontrolle an - DIE ZEIT",
+      "summary_de": "Im Krankenhaus: Vater und Sohn greifen Polizei nach E-Scooter-Kontrolle an &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRzFPa0ktVWdfeWN6ZDRKc1R4U2k4MmJtb0daV2NnR181N1RidDFHSjRrTXhrZVJzQXRLaWFOTU9wRjZTRlhQYVo1eUFkWTZzRUNJT1hsSlZaR1lTajR3cVZ4bHlzay1jSXhvZHdFYU1zdWxjT1hLNHNYelFNOXV1MkNwTzEtTjdSSktCdDlWcDh1aXpPNVAxYS13?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-26T06:04:45+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Hessen: Krebsvorsorge: Wie ein Patient dank Früherkennung rechtzeitig operiert wurde - tagesschau.de",
+      "summary_de": "Hessen: Krebsvorsorge: Wie ein Patient dank Früherkennung rechtzeitig operiert wurde &nbsp;&nbsp; tagesschau.de",
+      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMWFPZ2hqSjBPVVhIdXRCOGYwdEVVM0NJVXcwQnlaLU5MY2RpUFpNSWpNd0pmQzA1Wl8xRnhGVVg1Q2hPOFM4WW5QYzNReFptSkV0VHBCR3JKMzd6MVBRbzl5UDhKVXpPdTh6QzBnaUxoRm51UERJVUJ2U1ZmREttVERtN3k0NWRWSk8wa01teUZfWjVCUEg3cDNMYm0xenJCbkpJcEJrbFpSTGgzRGp0SkFTUlVBc3NGeE9ScnVVUGdZd2l3eVRlZWU1U1ZUNFJaTmhF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-26T05:20:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Nachrichtenpodcast: Gesundheit, Rente, Arbeit - müssen Reformen immer Kürzungen sein? - DIE ZEIT",
+      "summary_de": "Nachrichtenpodcast: Gesundheit, Rente, Arbeit - müssen Reformen immer Kürzungen sein? &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQREhzNWgtS182bVg5T0U4bXdYUVhwcGJmc0Z0OVloVTJSSmtYY3k3Snh4YWxJVWJiTjJUM1JfUHZJR2oxMG54WldnczhuUHk1LXdqMUFaWGFXWnkwdFFyWFFGQlZsdk5yazgxOXhEV0NIbGxpYkQxUU0zbW5ydG1VM1dYc3JKMXpWNzBkNG5IcF9IMC01M1ZYY0RyUGlEMm9rTF9keFJIRElCcWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-26T04:13:14+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Pflegereform: SPD-Generalsekretär stellt sich gegen Leistungskürzung in der Pflege - DIE ZEIT",
       "summary_de": "Pflegereform: SPD-Generalsekretär stellt sich gegen Leistungskürzung in der Pflege &nbsp;&nbsp; DIE ZEIT",
@@ -174,16 +214,6 @@
       "type": "News"
     },
     {
-      "title": "Bin ich schön? Warum du dich nicht vergleichen solltest - DAK-Gesundheit",
-      "summary_de": "Bin ich schön? Warum du dich nicht vergleichen solltest &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONGRyMlhYSUwxNVdodmkwTTFrN05MTHR2M25TTW9nSTBoLVdSeFE3LTIzdWd5OENfVDJRZ1JfWk44aUhkdGRtRDdlUlZjcHJrSFZhVXFFeXRxTGJudGluMGlqWkgwckFUS2hOUDI0dXdlRm5rTVZvRTFQdTFXQlBYQ29ZLS1yR2c5cHVLUy12ckEtUDZaalFlYg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-25T10:46:27+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Find product information about medicines",
       "summary_de": "How to get information including patient information leaflets (PILs), details on how the medicine can be used (SPCs) and scientific reports (PARs).",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -312,16 +342,6 @@
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
-    },
-    {
-      "title": "Blood pressure targets for hypertension in people with diabetes mellitus",
-      "summary_de": "Blood pressure targets for hypertension in people with diabetes mellitus",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016392",
-      "published_at": "2026-09-25T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
     },
     {
       "title": "Facharzt für Nuklearmedizin oder Doppelfacharzt Radiologie/Nuklearmedizin (m/w/d) - ärztestellen",
@@ -544,16 +564,6 @@
       "type": "News"
     },
     {
-      "title": "Rheuma, Frakturen und Narkosen : Ultraschall in der modernen Medizin",
-      "summary_de": "Ultraschallverfahren spielen in verschiedenen medizinischen Fachgebieten eine wichtige Rolle. Experten erl&auml;uterten aktuelle Einsatzm&ouml;glichkeiten in Rheumatologie, Frakturdiagnostik und An&auml;sthesie.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/ultraschall-in-der-modernen-medizin-168626/",
-      "published_at": "2026-09-24T10:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Hospital Accident & Emergency Activity, 2025-26",
       "summary_de": "This publication looks at Accident and Emergency activity in England for the financial year 2025-26. It describes NHS accident and emergency activity and performance in hospitals in England. The data sources for this publication are the Emergency Care Data Set (ECDS) and the aggregate Monthly Situation Reports (MSitAE) relating to A&amp;E attendances and emergency admissions in NHS hospitals, minor injury …",
       "source_name": "Publication Feed",
@@ -724,26 +734,6 @@
       "type": "News"
     },
     {
-      "title": "Zuclopenthixol acetate for acute schizophrenia and similar major mental illnesses",
-      "summary_de": "Zuclopenthixol acetate for acute schizophrenia and similar major mental illnesses",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000525.pub4",
-      "published_at": "2026-09-24T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Red blood cell transfusion to treat or prevent complications in sickle cell disease: an overview of Cochrane reviews",
-      "summary_de": "Red blood cell transfusion to treat or prevent complications in sickle cell disease: an overview of Cochrane reviews",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012082.pub3",
-      "published_at": "2026-09-24T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
       "title": "Professur (m/w/d) für das Gebiet Frauen- und Familien­gesundheit - ZEIT Stellenmarkt",
       "summary_de": "Professur (m/w/d) für das Gebiet Frauen- und Familien­gesundheit &nbsp;&nbsp; ZEIT Stellenmarkt",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
@@ -770,16 +760,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMDJVZ2hqUE5lWXozS3JsXzMxOFFoX0FvNGZjNlBadG9oWmdCd3lsNEMwRENYa2xTMzZWdGRRd1pUM29ZR09mRUViWWlqTzdzSDFmc0JfUzhMeS1aeUNvd2YydTdMdnowWkNxbGMwbFhWU0RwUnU4WGR1QWViV2FOalNibXdzY0pGYS1xR2UxMkNtaGVNSGdPajRGLWxxRzlvaUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-23T19:36:56+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheitspolitik: Linnemann gegen erneute Verlängerung bei Kinderkrankentagen - Politik - SZ.de - SZ.de",
-      "summary_de": "Gesundheitspolitik: Linnemann gegen erneute Verlängerung bei Kinderkrankentagen - Politik - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGNlRzJkUFUwNzlJZmVmc05PWXR5LWFJeGxIajNFODM2UWFxQWdDZDJUMy1QN2pfT0tmMjhCN1BVVmJ0bjE0bTQ3dlhQa3BvTUdRSC1RRndSVHMyeWx4MzZaV3RJeDRRYURCV2E2MlRDRW14bDdMNnBseEgycWJYSFBUUjEyTlJSeXJYNTZEdzI5cndRWUVNTG1zZGxjblVnOUZkVWg0c0I?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-23T16:30:24+00:00",
-      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     },
@@ -828,6 +808,19 @@
       "type": "News"
     },
     {
+      "title": "Pressemitteilung: Honoraranstieg in der ambulanten Versorgung für das Jahr 2027 um 2,2 Prozent",
+      "summary_de": "Heute hat der Bewertungsausschuss, bestehend aus jeweils drei Vertreterinnen und Vertretern der Kassenärztlichen Bundesvereinigung (KBV) und des GKV-Spitzenverbandes, in den jährlichen Finanzierungsverhandlungen eine Erhöhung des Orientierungswertes um 2,2 Prozent beschlossen. Der Orientierungswert bestimmt den Preis für ärztliche und psychotherapeutische Leistungen.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2311104.jsp",
+      "published_at": "2026-09-23T13:27:04+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "Class 4 Medicines Defect Notification: B. Braun Melsungen AG, Meropenem 1000 mg powder and solvent for solution for infusion, EL(26)A/39",
       "summary_de": "B. Braun Melsungen AG has notified the MHRA that errors have been identified in the Patient Information Leaflet (PIL) included in some batches of Meropenem 1000 mg powder and solvent for solution for infusion.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -848,8 +841,8 @@
       "type": "News"
     },
     {
-      "title": "(S+) Gesundheit: Warum Kassenpatienten länger warten müssen als Privatversicherte - Spiegel",
-      "summary_de": "(S+) Gesundheit: Warum Kassenpatienten länger warten müssen als Privatversicherte &nbsp;&nbsp; Spiegel",
+      "title": "(S+) Gesundheit: Warum Kassenpatienten länger warten müssen als Privatversicherte - spiegel.de",
+      "summary_de": "(S+) Gesundheit: Warum Kassenpatienten länger warten müssen als Privatversicherte &nbsp;&nbsp; spiegel.de",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUTVoUnlnTWRCTFh1aTFYRnBrQTZLTDd3eG15VFhOUExQbWJfWDNZYlVib0xlbHNEazRMbmpMY055REJIYkR0dVRRMlRSWjFSTjAyS0VjdW9ybThQTjdzSFJxLThxRjRZMHVlWTl0VzBjSFhuRG56a2Q5dDJTdzE1UHZYQ2xJOEd2TXVmLUFqalJqVDJyZFBIcEdWUDBPZW1aZENqclduX0VDYUZQOEg3b3BXQTY1anhwUDAzdWk4cmlLRVk1Y05yQm5DNnE1b0NBV1lvd2VFeE1pc2RZMXMxU1o5dVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-23T12:37:00+00:00",
@@ -906,36 +899,6 @@
       "category": "News",
       "tags": [],
       "type": "News"
-    },
-    {
-      "title": "Combined hormonal versus nonhormonal versus progestin‐only contraceptives for postpartum contraception in lactating individuals",
-      "summary_de": "Combined hormonal versus nonhormonal versus progestin‐only contraceptives for postpartum contraception in lactating individuals",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016393",
-      "published_at": "2026-09-23T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Electrophysiology procedures for preventing falls in older people living in the community",
-      "summary_de": "Electrophysiology procedures for preventing falls in older people living in the community",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016363",
-      "published_at": "2026-09-23T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Antifungal therapy for newborn infants with invasive fungal infection",
-      "summary_de": "Antifungal therapy for newborn infants with invasive fungal infection",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003953.pub4",
-      "published_at": "2026-09-23T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
     },
     {
       "title": "Gesundheit: Herzschwäche tritt in Bayern regional unterschiedlich auf - DIE ZEIT",
@@ -1011,6 +974,19 @@
       "type": "News"
     },
     {
+      "title": "Pressemitteilung: Zugang zur gesundheitlichen Versorgung gerecht gestalten",
+      "summary_de": "„Gerechtigkeit in der gesundheitlichen Versorgung bedeutet, dass Patientinnen und Patienten allein bei Bedarf nach medizinischer Dringlichkeit einen Termin beim Arzt bekommen, und zwar unabhängig davon, ob sie gesetzlich oder privat versichert sind\", so Stefanie Stoff-Ahnis, stellvertretende Vorstandsvorsitzende des GKV-Spitzenverbandes, zur Debatte um einen gerechten Zugang zur Gesundheitsversorgung.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2310848.jsp",
+      "published_at": "2026-09-22T08:52:34+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "Provisional Accident and Emergency Quality Indicators for England, July 2026, by provider",
       "summary_de": "Provisional Accident and Emergency Quality Indicators for England, July 2026, by providerThis publication contains statistics for total time in A&amp;E, time to assessment, time to treatment, attendances where patients left before treatment, and unplanned reattendances within 7 days. It also compares data coverage in ECDS to the emergency monthly situation report (MSitAE) published separately by NHS England. Each report contains …",
       "source_name": "Publication Feed",
@@ -1021,8 +997,8 @@
       "type": "News"
     },
     {
-      "title": "Schlaf und Gesundheit: Wie Sie die beste Schlafposition für sich finden - Spiegel",
-      "summary_de": "Schlaf und Gesundheit: Wie Sie die beste Schlafposition für sich finden &nbsp;&nbsp; Spiegel",
+      "title": "Schlaf und Gesundheit: Wie Sie die beste Schlafposition für sich finden - spiegel.de",
+      "summary_de": "Schlaf und Gesundheit: Wie Sie die beste Schlafposition für sich finden &nbsp;&nbsp; spiegel.de",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVFVXazU1S2JzU2U0RDgtdVBXRmdUN0JvSFJvRUtqVS1ycmtuaEU2LUhoOEVDczYxdzhWVUpUS2h1X0hDUlVXMldCaXF2V2gzZ01tZUMtdFlrelplUF94dTlUOWwtN0Y1a1hCUDVjckh1YWdkMGVXeGNnbDQ4ZWtaci1LOXktczdFNm9rQjY2eFhyMDFpUkdRc2gydU5FWFZnN0xObGxPSllZcmV5czhNU0poN3BKQUQyNTFsUVdCa2JCVWNzMHM4SGNzM0w5VW1CNVpWZVRjZ0N3UGdiakVubjAwdDZpRXBQX1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-22T04:43:00+00:00",
@@ -1031,41 +1007,11 @@
       "type": "News"
     },
     {
-      "title": "Osmotic and stimulant laxatives for the management of childhood constipation",
-      "summary_de": "Osmotic and stimulant laxatives for the management of childhood constipation",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016371",
-      "published_at": "2026-09-22T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Biliary anastomosis using T‐tube versus no T‐tube for liver transplantation in adults",
-      "summary_de": "Biliary anastomosis using T‐tube versus no T‐tube for liver transplantation in adults",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013289.pub2",
-      "published_at": "2026-09-22T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Transanal tube for the prevention of anastomotic leakage in rectal cancer surgery",
-      "summary_de": "Transanal tube for the prevention of anastomotic leakage in rectal cancer surgery",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015472.pub2",
-      "published_at": "2026-09-22T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Ausbildung zum/zur Sozialversicherungsfachangestellten (m/w/d) in Braunschweig - DAK-Gesundheit",
-      "summary_de": "Ausbildung zum/zur Sozialversicherungsfachangestellten (m/w/d) in Braunschweig &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVkhjbElGREZLQkN6ZWFfU25iOWFLVUh0VllBZVhWWnlIZk9VZ0xvLVhwNzhteXNtYlFrSGVrMWZVNGFrS0dfQkVEMjBQSjVmR3B6Tk80ajlzbXlvaF81WnV2UkZ5U3hxTWJBYnMwODIwOEwxeU9TT2djTXZWVFd4ZklHY3RCVloyVVBPcmh1dUhHR3AwMVlDb3A2cnowMDlDeEhMdno3RWZqYnhtU29yNzk0aVZGVnlCOG9KWmdhYWhIajNqbm9MQzJOYk9YZFpWX2FFLQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-21T20:04:53+00:00",
+      "title": "Impfquoten - Nur 10 Prozent der Kinder mit Risiken gegen Grippe geimpft - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Impfquoten - Nur 10 Prozent der Kinder mit Risiken gegen Grippe geimpft - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVVFMcnpZZkd4YjNWYVpITENwdHEyV3lKT21xTWNHdTB3bTVEdjhaOW1BNmhpcXc0bFp2RUFnNnZmR3dhNkZYejdtTHA2eWRnbWpfZEk0ajdsZTJrZ2Q2S19rb0NhREdVQUF5Yi1lTDJ2UzFNNzdReHZFU0xBY0NBd0xtVE1hQzBxYkFKUUFQN194N0x6bmt3dkN4SkxDODdIOVVTTXd5ZGRkUUMxOERadll4eXhhOTNwV2ZwdmNrZjZFN1B5R2JlSVBKRjk1SUVfNWFmbWhVSmMwMWY3RjU5d1NESjJBNXRFLWJfQkY5aw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-22T03:00:04+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1131,16 +1077,6 @@
       "type": "News"
     },
     {
-      "title": "Zahnmedizinische:r Fachangestellte:r (m/w/d) für den Kinder- und Jugendgesundheitsdienst, Abt. Gesundheit (Kennziffer 91/2026), Landkreis Tübingen - SZ-Stellenmarkt",
-      "summary_de": "Zahnmedizinische:r Fachangestellte:r (m/w/d) für den Kinder- und Jugendgesundheitsdienst, Abt. Gesundheit (Kennziffer 91/2026), Landkreis Tübingen &nbsp;&nbsp; SZ-Stellenmarkt",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNM043YnBPc3dwWTA2c09JZndUOTE5LUdxVlExbEVIT3ZRcm1Ha0p3aGVDVjJwSWZGanE1YzZtNGtWeGd4ZjY0ZVRDNEFWMkowd3VPSWhnQXVfajFURzVhNnZrWE9RSmJ0M05qenBQdGt3Uy1GM3M5X3VMbE5lbklvT2xJLURFYmltLVdMY0NOeXNNNnlsbUtkYm5IUkRWV3dqNV9xaVV5SllSMHBkRldxbXhOSlZoZ3VaYlpqM3NiRDFaZm5rNnpLU25GT0xpeXdQd2RMbFU3dGRvbE95UTBhZE9OSnNfRjBJY0JRc2VwUHpjM29sc1d1UkhBNXpjMU42X2Q1ZnhfejZBVV9FNEM5XzFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-21T11:42:16+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit - Krankenhausgesellschaft: Bürokratie bindet 176 000 Vollzeitkräfte - Politik - SZ.de - SZ.de",
       "summary_de": "Gesundheit - Krankenhausgesellschaft: Bürokratie bindet 176 000 Vollzeitkräfte - Politik - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1191,6 +1127,19 @@
       "type": "News"
     },
     {
+      "title": "Pressemitteilung: Gute Versorgung braucht umfassende Qualitätssicherung",
+      "summary_de": "Wer sich im Krankenhaus behandeln lässt, muss auf hohe Qualitätsstandards vertrauen können. Sie verringern zum Beispiel Komplikationen und sind die Grundlage dafür, dass sich der Gesundheitszustand einer Patientin oder eines Patienten nach einem Eingriff möglichst schnell verbessern kann.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2310438.jsp",
+      "published_at": "2026-09-21T08:27:03+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "Wie erteile ich ein Lastschriftmandat für mein Unternehmen? | Die Techniker - Firmenkunden - Techniker Krankenkasse",
       "summary_de": "Wie erteile ich ein Lastschriftmandat für mein Unternehmen? | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
@@ -1219,46 +1168,6 @@
       "category": "News",
       "tags": [],
       "type": "News"
-    },
-    {
-      "title": "Diagnostic accuracy of biological markers for detecting obstructive sleep apnoea",
-      "summary_de": "Diagnostic accuracy of biological markers for detecting obstructive sleep apnoea",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016281",
-      "published_at": "2026-09-21T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Semi‐recumbent position for the prevention of ventilator‐associated pneumonia in adults requiring mechanical ventilation",
-      "summary_de": "Semi‐recumbent position for the prevention of ventilator‐associated pneumonia in adults requiring mechanical ventilation",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009946.pub3",
-      "published_at": "2026-09-21T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Mifepristone versus other interventions for the prevention of pregnancy in reproductive‐age women using emergency contraception",
-      "summary_de": "Mifepristone versus other interventions for the prevention of pregnancy in reproductive‐age women using emergency contraception",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016275",
-      "published_at": "2026-09-21T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Multifactorial and multiple component interventions for preventing falls in older people living in the community",
-      "summary_de": "Multifactorial and multiple component interventions for preventing falls in older people living in the community",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012221.pub3",
-      "published_at": "2026-09-21T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
     },
     {
       "title": "Weiterbildungen in geschlechtersensibler Medizin sind noch rar - FAZ",
@@ -1311,21 +1220,21 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit zum Anfassen - viel los bei Erntefest - tagesschau.de",
-      "summary_de": "Gesundheit zum Anfassen - viel los bei Erntefest &nbsp;&nbsp; tagesschau.de",
-      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX2I3Zkd3Tm1CeHFVWFoxQkZPM2h1cy1oLWw0a2h5eWhMMFNYSEUwZ3JYYVh4cTRwSGFsTDZ5RVVWT29nckNsZTd0MnpJNUx3TEpsVzVyNFFJZ25tek12T1ZRMThaVEVCQW9CcVZta3BQb3VSdmdvSnh2UExFd1VzM0Vwb1FWdnZENHNLa3F5aldwczJfMlFKT1U0dzNUdW1DS1RzMEJjQ2lRQjRXVWhybVZ5QkFCNnBjYTRtWng1NjRncXoyT0J4b1cxQWFaWE92ejYzd2hFVnNldw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-19T07:44:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Kostenlose Mediensucht-Hotline - DAK-Gesundheit",
       "summary_de": "Kostenlose Mediensucht-Hotline &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV0hmRHpMUFR1Nk1ZR1g2REx1Ym56WWs0SEJHOEtxRTliMEJRcEZrQV9iVjhQejZaR3VMQUdHVENxc0NFaUxlcWJSUF9aLWYwLWdGZWxfdXMzWU5QWjZiMXphQXBDOTNhNjFscVNEZzRPXzV5c1dnWG1VUVJYaWwxREhDWERVcjUzS0Jtd3QwMWVTOGp4VEpfYmNWcmxYc0Nxbmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-19T00:40:03+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Auswirkungen von Smartphones auf das Gehirn von Kindern - DAK-Gesundheit",
+      "summary_de": "Auswirkungen von Smartphones auf das Gehirn von Kindern &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWVpnZ004bjA3QjN5NGxBTE5VY1BCdTdBTkh3a0gtUXFkYUt2UzJlZG5TRVVSWURJOGt5QklCY2xyMkdNN2dRSWJRYnVxaTJBLVBZaVhEd0FrMWxwVE42MkpsSFJYUDdyRDJCZ21XRkZWLUZaTUphZnZ0Q3Z1NmUzSlFibHYyaU9PRmUzVlpyM2pVRU1uRTdJY3Zhb1VuSGowQ2puWW1XUFJTX0hxM0hJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-18T20:05:11+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1401,8 +1310,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit - Spiegel",
-      "summary_de": "Gesundheit &nbsp;&nbsp; Spiegel",
+      "title": "Gesundheit - spiegel.de",
+      "summary_de": "Gesundheit &nbsp;&nbsp; spiegel.de",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIVkxuOGhaeXg0d25LaVZmNHVyNGlJZFdWYkptNWNvVXVCMkdEVWFDOXdEemQxcjVVNElRQjFqMEE4a1c0VVhOazZqc2UyUFlp?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-18T09:32:10+00:00",
@@ -1439,46 +1348,6 @@
       "category": "Europa",
       "tags": [],
       "type": "News"
-    },
-    {
-      "title": "Monitoring strategies in adults eligible for pharmacological lipid‐lowering therapy",
-      "summary_de": "Monitoring strategies in adults eligible for pharmacological lipid‐lowering therapy",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016386",
-      "published_at": "2026-09-18T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Lower‐limb neuromuscular electrical stimulation (NMES) for adults with kidney failure undergoing dialysis",
-      "summary_de": "Lower‐limb neuromuscular electrical stimulation (NMES) for adults with kidney failure undergoing dialysis",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016155.pub2",
-      "published_at": "2026-09-18T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Service delivery interventions for lipid testing and lipid‐lowering therapy for primary and secondary prevention of cardiovascular disease in adults",
-      "summary_de": "Service delivery interventions for lipid testing and lipid‐lowering therapy for primary and secondary prevention of cardiovascular disease in adults",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016382",
-      "published_at": "2026-09-18T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Exercise‐based cardiac rehabilitation for coronary heart disease",
-      "summary_de": "Exercise‐based cardiac rehabilitation for coronary heart disease",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001800.pub5",
-      "published_at": "2026-09-18T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
     },
     {
       "title": "Mental Health, Learning Disability and Autism Overview Statistics, Quarter 1 2026-27",
@@ -1565,6 +1434,16 @@
       "type": "News"
     },
     {
+      "title": "Bin ich schön? Warum du dich nicht vergleichen solltest - DAK-Gesundheit",
+      "summary_de": "Bin ich schön? Warum du dich nicht vergleichen solltest &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONGRyMlhYSUwxNVdodmkwTTFrN05MTHR2M25TTW9nSTBoLVdSeFE3LTIzdWd5OENfVDJRZ1JfWk44aUhkdGRtRDdlUlZjcHJrSFZhVXFFeXRxTGJudGluMGlqWkgwckFUS2hOUDI0dXdlRm5rTVZvRTFQdTFXQlBYQ29ZLS1yR2c5cHVLUy12ckEtUDZaalFlYg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-17T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Pre-submission Advice & Support for Innovative Medicines",
       "summary_de": "The Medicines and Healthcare products Regulatory Agency (MHRA) offer a pre-submission service before applying for medicines Marketing Authorisations and clinical variations innovative medicines.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1595,46 +1474,6 @@
       "type": "News"
     },
     {
-      "title": "Pharmacological lipid‐lowering therapies for primary and secondary prevention of cardiovascular disease in adults with dyslipidaemia: a systematic review and network meta‐analysis",
-      "summary_de": "Pharmacological lipid‐lowering therapies for primary and secondary prevention of cardiovascular disease in adults with dyslipidaemia: a systematic review and network meta‐analysis",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016387",
-      "published_at": "2026-09-16T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Progesterone receptor modulators for endometriosis",
-      "summary_de": "Progesterone receptor modulators for endometriosis",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009881.pub3",
-      "published_at": "2026-09-16T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Vitamin D supplementation for prevention of vitamin D deficiency in preterm and low birth weight infants",
-      "summary_de": "Vitamin D supplementation for prevention of vitamin D deficiency in preterm and low birth weight infants",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011529.pub2",
-      "published_at": "2026-09-16T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Physical activity programmes for promoting bone mineralisation and growth in preterm infants",
-      "summary_de": "Physical activity programmes for promoting bone mineralisation and growth in preterm infants",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005387.pub4",
-      "published_at": "2026-09-16T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
       "title": "Network Contract DES (MI) - August 2026",
       "summary_de": "A framework for GP contract reform to implement The NHS Long Term Plan published in January 2019 which describes significant investment in Primary Care Networks (PCNs) through the Network Contract Directed Enhanced Service (DES). The eighth year of the Network Contract DES began in April 2026. The data provides information to allow effective management of the contract. The indicators are …",
       "source_name": "Publication Feed",
@@ -1655,13 +1494,27 @@
       "type": "News"
     },
     {
-      "title": "Auswirkungen von Smartphones auf das Gehirn von Kindern - DAK-Gesundheit",
-      "summary_de": "Auswirkungen von Smartphones auf das Gehirn von Kindern &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWVpnZ004bjA3QjN5NGxBTE5VY1BCdTdBTkh3a0gtUXFkYUt2UzJlZG5TRVVSWURJOGt5QklCY2xyMkdNN2dRSWJRYnVxaTJBLVBZaVhEd0FrMWxwVE42MkpsSFJYUDdyRDJCZ21XRkZWLUZaTUphZnZ0Q3Z1NmUzSlFibHYyaU9PRmUzVlpyM2pVRU1uRTdJY3Zhb1VuSGowQ2puWW1XUFJTX0hxM0hJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-15T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
+      "title": "Meldung: Hallo Bluesky, hallo Threads!",
+      "summary_de": "Heute verabschieden wir uns von der Social-Media-Plattform X. Künftig werden andere Plattformen im Rahmen der Weiterentwicklung der Kommunikation des GKV-Spitzenverbandes stärker in den Fokus rücken.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2308839.jsp",
+      "published_at": "2026-09-15T09:03:39+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Meldung: Gemeinsam anpacken für 75 Millionen Versicherte",
+      "summary_de": "Die Politik muss jetzt grundlegende Veränderungen im Gesundheitssystem anstoßen – die GKV steht bereit, konstruktiv daran mitzuwirken. Deshalb steht der heutige GKV-Tag unter dem Motto #GemeinsamAnpacken.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2308838.jsp",
+      "published_at": "2026-09-15T07:50:44+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -1675,38 +1528,8 @@
       "type": "News"
     },
     {
-      "title": "Pharmacological therapies for the prevention of fractures in men",
-      "summary_de": "Pharmacological therapies for the prevention of fractures in men",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014707.pub2",
-      "published_at": "2026-09-15T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Strategies to improve recruitment to randomised trials",
-      "summary_de": "Strategies to improve recruitment to randomised trials",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.MR000013.pub7",
-      "published_at": "2026-09-15T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Cardiorespiratory training for people with stroke",
-      "summary_de": "Cardiorespiratory training for people with stroke",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016000",
-      "published_at": "2026-09-15T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "AGFA HealthCare stellt die klinische Aufmerksamkeit bei Enterprise Imaging auf der RSNA 2026 in den Mittelpunkt - PresseBox",
-      "summary_de": "AGFA HealthCare stellt die klinische Aufmerksamkeit bei Enterprise Imaging auf der RSNA 2026 in den Mittelpunkt &nbsp;&nbsp; PresseBox",
+      "title": "AGFA HealthCare stellt die klinische Aufmerksamkeit bei Enterprise Imaging auf der RSNA 2026 in den Mittelpunkt - pressebox.de",
+      "summary_de": "AGFA HealthCare stellt die klinische Aufmerksamkeit bei Enterprise Imaging auf der RSNA 2026 in den Mittelpunkt &nbsp;&nbsp; pressebox.de",
       "source_name": "\"site:pressebox.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPQ244M0c2Q2tmNmdFMDliN2lWSWJRa0Z0dHgxNm4zUGc3akQ2UDFpa2NyV19UV2tHeWM1Nm1BWHZjRUU1bC0ta3JpUFBUeHhrUXQtM1YwZFJTZ2QtTUhZYnZUX2thZlgxQVRKd2VEUjF5b1BlakluVHlDa1FUUTExdkMxYWVleUtWODF3aE5NdklYR0hDMGpWSGNvTTFpalU2MHFfdzhKcWVLUkU1RWZ5eVFFaldkbXRUaUNob1UwcVJpSEVocWVfRnJXaEs1SmZJcmdjQmRyU2FtTEdyZlIyMVo1bk1zUkYwekVqSFFFUXVEYUZZc2MzdVlLQUIweS03bTE3dFRQOUY2aHA2SjlXS21hS0FWdG01TTBXYW54M04zZGVINDJmazhWYTI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-14T15:36:00+00:00",
@@ -1735,8 +1558,8 @@
       "type": "News"
     },
     {
-      "title": "(S+) Mentale Gesundheit: Warum mit Führungskräften ganze Organisationen ausbrennen können - Spiegel",
-      "summary_de": "(S+) Mentale Gesundheit: Warum mit Führungskräften ganze Organisationen ausbrennen können &nbsp;&nbsp; Spiegel",
+      "title": "(S+) Mentale Gesundheit: Warum mit Führungskräften ganze Organisationen ausbrennen können - spiegel.de",
+      "summary_de": "(S+) Mentale Gesundheit: Warum mit Führungskräften ganze Organisationen ausbrennen können &nbsp;&nbsp; spiegel.de",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSE4tM2NvY0NtNlZUcHk5VWZ2ZjBSR0lTRHRISTlWTnA1akZCSm0tLU55aG0xNFFTZlMxTm1pWnBXSXdrWlRmOExqWHRJa3g2d1FLU3J0Tm4tZVJKcm1jUkFWRzFXMHBkYThQWkNMU0dmTTBpbjFpMkoxYVNBZ0FzUTR4VkdLcjA5bjNlZTVzYmVMaVJRTnJZRF9NSDJjM01lMm1aY2xvLW5UYWhnQTVpNzZhQ0tJX0NQa3NsbHRwUm1RQUJ5MFY0eVl3d2VnR1Z0OXNZZFVuTTRZSXJMZW5nMDJHa3Jaa2FaMG1YV3Z3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-14T07:00:00+00:00",
@@ -1755,8 +1578,8 @@
       "type": "News"
     },
     {
-      "title": "YouTuberin, Podcasterin, Schauspielerin: Fokus auf Gesundheit – Influencerin Julia Beautx kündigt Auszeit an - Spiegel",
-      "summary_de": "YouTuberin, Podcasterin, Schauspielerin: Fokus auf Gesundheit – Influencerin Julia Beautx kündigt Auszeit an &nbsp;&nbsp; Spiegel",
+      "title": "YouTuberin, Podcasterin, Schauspielerin: Fokus auf Gesundheit – Influencerin Julia Beautx kündigt Auszeit an - spiegel.de",
+      "summary_de": "YouTuberin, Podcasterin, Schauspielerin: Fokus auf Gesundheit – Influencerin Julia Beautx kündigt Auszeit an &nbsp;&nbsp; spiegel.de",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTVUxQ3NYX0w1TllQajd5c3NDeGdySW5WUGdFUjF6bmNyNGx1Zk15Zk5kaDc0VWNXeFZtMjhDQnRDbGNGMUF0dW9ScG5iU29GRmdyVG9ERVFDOElVYmRwRU9PdGZmY2RpV0NkWXB0YnRIb24tVWZEMHRkcEpJa2lTdFV2d0s5dVQwdUZYTTYzRGRRZm1CWUhVRUFUeTBIM1JicllraXlNZ0lSNkdpV2ppV3AtNnBBeEJSNGEwTkNfemN5bEd4MnhLOXJLY3prWkdaQ1pv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-12T07:00:00+00:00",
@@ -1771,6 +1594,16 @@
       "source_url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-veterinary-medicinal-products-cvmp-8-10-september-2026",
       "published_at": "2026-09-11T11:00:00+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Radiologie in Großburgwedel erweitert Angebot um modernes MRT - KRH Klinikum Region Hannover",
+      "summary_de": "Radiologie in Großburgwedel erweitert Angebot um modernes MRT &nbsp;&nbsp; KRH Klinikum Region Hannover",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd0dJNFhNcHRUYjQtQUJ4Z2dSSU93V0NTQnEtbVB5dVNqTmtzR0pndkV6ZXI5d2NLQjZFZllGdkR6ZzJRUU11RlBESzZ3SmxidXZhOXcyTDZsU0JBcFJMYWs5aFI5S1psTEluVkh6U3RiSURha0VpVG11NlNXM0VaS2RmRzFXRDl5OWt2bVcySFBkX2R3d1lOX3VzT2NsQmJfR05Kd0dCVDRtSjVJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-11T09:01:02+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1953,8 +1786,21 @@
       "type": "News"
     },
     {
-      "title": "Schwergewicht am Haken: Vier Tonnen schweres MRT schwebt per Kran in Ottobrunner Radiologie - merkur.de",
-      "summary_de": "Schwergewicht am Haken: Vier Tonnen schweres MRT schwebt per Kran in Ottobrunner Radiologie &nbsp;&nbsp; merkur.de",
+      "title": "Meldung: „Gute Prävention wirkt“",
+      "summary_de": "Weniger Krankenhausbetten, mehr Prävention, passgenaue Versorgung am richtigen Ort – so skizziert Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, drei wesentliche Bereiche des Gesundheitswesens, die dringend Reformen brauchen. Im Podcast „Lebensretter“ der Björn Steiger Stiftung sagte er: „Wir haben es ein bisschen verschlafen, das System moderner aufzustellen.\"",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2304320.jsp",
+      "published_at": "2026-09-04T07:45:16+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Schwergewicht am Haken: Vier Tonnen schweres MRT schwebt per Kran in Ottobrunner Radiologie - Merkur",
+      "summary_de": "Schwergewicht am Haken: Vier Tonnen schweres MRT schwebt per Kran in Ottobrunner Radiologie &nbsp;&nbsp; Merkur",
       "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdjBEMFJ6VU1PWktKSmhjTXc3Zk9ZQ2N6MnowcFBkbVczdkFzRUdEMjRpYUlfTEpyZUhtTkJ4dnF6aDZWNExCcFVaQUZvTWFVcWxFdmJpaUZhWUx0YjAyS2RLeWpibEh5SVRQWU5HMUNyb3pURU1nc25Zc2tlQjZWUXBpUkR1TEtWTTlraFVvZkpVYW9od3JhSWoxWTFjMXRjalZvN1dvckdkeFBfYlh2eXJKUVdDcGZVRFZTMUJpX25QZnNEU0l5Z25uU2Rfa0tUQkRFRUswZlljdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-04T07:00:00+00:00",
@@ -1970,6 +1816,18 @@
       "published_at": "2026-09-03T10:48:00+00:00",
       "category": "Gesundheitspolitik",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Meldung: Das Kostenproblem ist gewaltig",
+      "summary_de": "„Nur wenn alle bereits beschlossenen Sparmaßnahmen voll durchgezogen werden, kann die im nächsten Jahr bei der gesetzlichen Krankenversicherung klaffende 18-Milliarden-Finanzlücke geschlossen werden. Es ist kein Millimeter Spielraum“, so Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2303680.jsp",
+      "published_at": "2026-09-03T08:57:25+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -2033,6 +1891,32 @@
       "type": "News"
     },
     {
+      "title": "Pressemitteilung: Alarmstufe Rot in der Pflege!",
+      "summary_de": "„Die Pflege ist akut in Not. Es herrscht Alarmstufe Rot. Die Ausgaben steigen fast dreimal stärker als die Einnahmen, die Dramatik ist offensichtlich. In diesem Jahr wird die Pflegeversicherung ein Defizit von 4,4 Milliarden Euro machen\", konstatiert Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes, im Rahmen der heute stattfindenen Pressekonferenz des GKV-Spitzenverbandes.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2302400.jsp",
+      "published_at": "2026-08-31T07:33:41+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "gemeinsame Pressemitteilung: Letzter Baustein für neue Form der Basisversorgung – Start ab Januar 2027",
+      "summary_de": "Eine neue Form der wohnortnahen medizinischen Versorgung kann starten: Der GKV-Spitzenverband, die Deutsche Krankenhausgesellschaft und der Verband der Privaten Krankenversicherung haben sich darauf geeinigt, wie die Leistungen der geplanten sektorenübergreifenden Versorgungseinrichtungen vergütet werden.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2301760.jsp",
+      "published_at": "2026-08-28T12:09:35+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "NHS App Management Information - July 2026",
       "summary_de": "This publication provides information on the number of users and usage of the NHS App, and of features available through it. It aims to provide an open and accessible data source to give insight into how the public are using the NHS App, and how usage changes over time.Data are included for the following measures at ICB and national levels:- …",
       "source_name": "Publication Feed",
@@ -2070,6 +1954,19 @@
       "published_at": "2026-08-27T08:40:25+00:00",
       "category": "Europa",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pressemitteilung: Mehr Digitalisierung für eine zukunftsfeste Pflege",
+      "summary_de": "Die Herausforderungen in der Pflege sind immens und werden in den kommenden Jahren weiter wachsen. Der Engpass von finanziellen und personellen Ressourcen erfordert neue Wege, um den Versicherten in der sozialen Pflegeversicherung weiterhin verlässlich eine gute pflegerische Versorgung zu ermöglichen. Die Digitalisierung kann dabei helfen, sofern ihre Möglichkeiten konsequent genutzt werden. Der Verwaltungsrat des GKV-Spitzenverbandes hat dazu auf seiner heutigen …",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2301156.jsp",
+      "published_at": "2026-08-27T08:38:45+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Versorgung",
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
@@ -2193,6 +2090,18 @@
       "type": "News"
     },
     {
+      "title": "Meldung: Krankenhäuser erhalten mehr Geld",
+      "summary_de": "„Die Krankenhäuser sind innerhalb und außerhalb des Gesundheitswesens die einzige mir bekannte Branche, die bei Mehreinnahmen von 5,5 Prozent von Kürzungen spricht“, sagte Stefanie Stoff-Ahnis, stellvertretende Vorstandsvorsitzende des GKV-Spitzenverbandes, im Gespräch mit der Rheinischen Post.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2300516.jsp",
+      "published_at": "2026-08-24T08:07:50+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
+      "type": "News"
+    },
+    {
       "title": "Gesundheitspolitik: Roboter gegen Einsamkeit: Köpping lobt Südkorea - DIE ZEIT",
       "summary_de": "Gesundheitspolitik: Roboter gegen Einsamkeit: Köpping lobt Südkorea &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
@@ -2203,8 +2112,8 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik - Spiegel",
-      "summary_de": "Gesundheitspolitik &nbsp;&nbsp; Spiegel",
+      "title": "Gesundheitspolitik - spiegel.de",
+      "summary_de": "Gesundheitspolitik &nbsp;&nbsp; spiegel.de",
       "source_name": "\"site:spiegel.de \"Gesundheitspolitik\"\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXSnVSelA3c21DdllTaFZVT2Voa2d1bU05eG8xbWxmTGU4a0JYZFdVQW95N25lUUpXNkNPM2ZmZm4yd18yN2FjdEQ4bXdMRFp1dHZQaVVGR29GUUQtS2lXX1Fn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-08-23T00:53:39+00:00",
@@ -2230,6 +2139,18 @@
       "published_at": "2026-08-20T12:40:19+00:00",
       "category": "Europa",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Pressemitteilung: Bessere Prävention dank Früherkennung",
+      "summary_de": "Mit dem heutigen Beschluss des Gemeinsamen Bundesausschusses haben alle gesetzlich versicherten Kinder im Alter von 9 – 10 Jahren Anspruch auf eine zusätzliche Früherkennungsuntersuchung. Außerdem wurde die bestehende Jugendgesundheitsuntersuchung (J1) überarbeitet, die Ergebnisse werden künftig auch im Kinderuntersuchungsheft dokumentiert.",
+      "source_name": "GKV-SV Presseinformationen",
+      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2299712.jsp",
+      "published_at": "2026-08-20T09:50:10+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [
+        "Wirtschaft"
+      ],
       "type": "News"
     },
     {
