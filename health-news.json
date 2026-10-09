@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-10-08T18:15:35.428050+00:00",
+  "generated_at": "2026-10-09T00:54:27.559093+00:00",
   "window_days": 42,
-  "count": 307,
+  "count": 310,
   "items": [
+    {
+      "title": "Pharmaceutical industry information and promotional strategies aimed at prescribers",
+      "summary_de": "Pharmaceutical industry information and promotional strategies aimed at prescribers",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013423.pub3",
+      "published_at": "2026-10-09T00:01:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
     {
       "title": "Soziales - Bundestag will Monitoring von Bluttests bei Schwangeren - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Soziales - Bundestag will Monitoring von Bluttests bei Schwangeren - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPX2Fhd2tvNVFsSFlkTEdGZGVxejFnd2t4bmlqcWRXNk5nc1NOcWphZDBfaUlQckpSTlB3S2daZG9VeWdGeFFmd3J1ZGJydzJFTjNxTmNzRUN6eER5MV92M3VTbjVUQVpsQ09rOHEzanA5Z2ZrMW5OMmp0SU5nOWVLTm8yQjhXWE5VT1VYZ0dTeUpLQkRUY1l4YWhValBPZmVwYTJ3UFBrUlowVnBjMW9nVTJyQi1WSXlHY1AxYnM0NTEtVDNPZ2xVMjNScDc2ZTM3MzUtLWl4eDZscVZSY0lNNXVlSUxLMm11?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-08T17:41:38+00:00",
+      "published_at": "2026-10-08T18:12:49+00:00",
       "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
@@ -20,16 +30,6 @@
       "source_url": "https://www.gov.uk/guidance/find-product-information-about-medicines",
       "published_at": "2026-10-08T17:09:36+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Rheinland-Pfalz: Landarztquote in RLP: Traumstudium Medizin - aber um welchen Preis? - tagesschau.de",
-      "summary_de": "Rheinland-Pfalz: Landarztquote in RLP: Traumstudium Medizin - aber um welchen Preis? &nbsp;&nbsp; tagesschau.de",
-      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTVBmV05zZTRBUVNvTWR0N2FBaWxITzlYUVk5a0hqTkxRZ2RtNGJFc0ZBN3VHSVZZd0pCVVNTNFowZVR4TWRWakNMSGJTNDRZbFlXOHUwX0l5MjhBSnZzQ21VQ1F2czVOcG5JRFV4ZmsxV25HMXktdDRxM2hSWjlUOGg4a3dMUjlFa1pUSXNzakhRR0dzZ2haYThrUHJvTmpWTDB0SGtqSk80SHMxay1kLThoaHBJSHZVWTBZUjh6aVR1cVlmN1gzeUVmWFc4UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-08T16:16:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -50,6 +50,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/naegel-und-haare-in-mitleidenschaft-169072/",
       "published_at": "2026-10-08T16:00:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Kooperation mit Krankenhaus gescheitert: 1500 Patienten verlieren Radiologiepraxis - Aachener Zeitung",
+      "summary_de": "Kooperation mit Krankenhaus gescheitert: 1500 Patienten verlieren Radiologiepraxis &nbsp;&nbsp; Aachener Zeitung",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOY1F5Z1BtU0wzOUMza0I0cGIwSWlNMEFKSERxRFI2RWJZTDVpOEYtUFcyRGxNVHBSVUJFeHowU1dvR0RBRjFOaklTV1JTRDJiX1JVRm1FNlVldjlteURJU3RrazZVTWVteHVOMm9zRV9WNXFoTGRVeUg1Sl9DNzF1OHhRaWVUOTlmcUxUMElyak16SXBKX2pTLWM0aDE0SE05Qmd0VEhLSTVxZlZySmExSXBOZEhfdWQxQWFNZlhnQm5SbzJZR016cy1rZjlCVnZad2cyRTFYa3p0UUdTZXBEOW1YdlA0Z0N5ZkZmZVdjQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-08T16:00:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -76,12 +86,12 @@
       "type": "News"
     },
     {
-      "title": "Kooperation mit Krankenhaus gescheitert: 1500 Patienten verlieren Radiologiepraxis - Aachener Zeitung",
-      "summary_de": "Kooperation mit Krankenhaus gescheitert: 1500 Patienten verlieren Radiologiepraxis &nbsp;&nbsp; Aachener Zeitung",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOY1F5Z1BtU0wzOUMza0I0cGIwSWlNMEFKSERxRFI2RWJZTDVpOEYtUFcyRGxNVHBSVUJFeHowU1dvR0RBRjFOaklTV1JTRDJiX1JVRm1FNlVldjlteURJU3RrazZVTWVteHVOMm9zRV9WNXFoTGRVeUg1Sl9DNzF1OHhRaWVUOTlmcUxUMElyak16SXBKX2pTLWM0aDE0SE05Qmd0VEhLSTVxZlZySmExSXBOZEhfdWQxQWFNZlhnQm5SbzJZR016cy1rZjlCVnZad2cyRTFYa3p0UUdTZXBEOW1YdlA0Z0N5ZkZmZVdjQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-08T14:35:23+00:00",
-      "category": "Radiologie",
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Erstmeldung Arzneimittel: Cotrim-ratiopharm 400 mg/5 ml + 80 mg/5 ml Konzentrat zur Herstellung einer Infusionsl&#246;sung pU: ratiopharm GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-10-08T14:42:14+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -136,22 +146,22 @@
       "type": "News"
     },
     {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: NexoBrid pU: MediWound Germany GmbH",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-10-08T13:48:36+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Guidance: Pneumococcal Vaccine Factsheet – Information for Patients, Parents and Carers",
       "summary_de": "Patient factsheet providing information on pneumococcal disease and pneumococcal vaccination.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
       "source_url": "https://www.gov.uk/government/publications/pneumococcal-vaccine-factsheet-information-for-patients-parents-and-carers--2",
       "published_at": "2026-10-08T13:47:55+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Reuls Gesundheit - tagesschau.de",
+      "summary_de": "Reuls Gesundheit &nbsp;&nbsp; tagesschau.de",
+      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcXVjXy1sX2l6dTJtLUFMZU9ObC1aMU9CMnIyUXAwSmdPaVJBanJvdWZHYXVqb29KbU82TnRNMWJQYkR0ZWZZLWxtUGJ4ZmljNERHSjFxY3N4aVhxbXhQWmw3QW9laUR1RDI1WURtdndPa3RUT3Q1aUNRMG1ISFZjUGJYZDZxWjFqQzBHWElsVWlsM0N0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-08T13:39:32+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -171,16 +181,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTkw3N0tueUl4OEtncHdqcGxMb1BqY2wzcEdqdGY4ZTRrQmt5VVBlRzVpSEVDMlpycE5uNVZMXzhid0xZOEkxejNTSHowWGE1ZU9EQzcyU2hLVHFrSWFJY1d6b21qeTB3cktJeTI2S3VfSFZPRWVQUzBpZ2hVbXB5b1dmTDFvb1lqcHk2TXhTZWJOc1JKS0JtajdMQ1JZbjMxY042eVNHVklibEVBem1DTEotdFRtRHN0OFB0MVdOVFEwWjRtTjZLZ1hYMU5xdEF5QXRJeU1oSzBEM25uR2VQdUtLcHhJbGxVcGh2VElkNE1vVm1FT3d0Umhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-10-08T13:22:50+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Abrechnungsbetrug - Bewährungsstrafe für Arzt und Ehefrau - Panorama - SZ.de - SZ.de",
-      "summary_de": "Abrechnungsbetrug - Bewährungsstrafe für Arzt und Ehefrau - Panorama - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOamNZeEZJQnJzRFVLWDFNNUdreFBIZUJIRE5Vb0hLYWZrejBZQWZHU3EzajMwV3RjU09QZDBkLTNsaVVCV0xCczJZN2gtclM0U2k2UjlFZFdCOW9JNkd1aWo5cUx6ZDFzMXdoRzhBT2hncDM0ekdGQzBNem1vM3padWFxckxERUJfWjJ3ckdzMWplRkQ3Z0o4YS1RWkJPY0JrUmt0ZXIxQkVwbmV3dXZ4Sm1QTnNoSGN5aHRsRVRtM1I3dUFTT1B1dFRSUzcwNzJGN28tbi0zRnhxVDdP?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-08T13:18:55+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -460,16 +460,6 @@
       "type": "News"
     },
     {
-      "title": "Musste in Krankenhaus - Travis Barker wegen Taubheit am Arm operiert - Panorama - SZ.de - SZ.de",
-      "summary_de": "Musste in Krankenhaus - Travis Barker wegen Taubheit am Arm operiert - Panorama - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaDl4SjFpcjNaWU9BSFRlQ292NS1xd2VBN2Z5WE9la19IaWZQeTFCZ09EenJVbk5hZGFOUUp3Nzc5ZEpaSDhGZjNReHRUNGYzSmFWalhES1FLaF9HVE5DRGVxMmZUT2F5SlA4N0NFM2h4WWhVNUhLQThMVHRaTVVDMER1U3oyUE12Mmk4MWcwdmxXY196LW1wSjZkQzNlei1tbHBvTDV4bjdieFhlelpXR3dhMmJRdzlyc2dOUkVrMGpyMlVhVkdPMHRPX2x2ZXhCRjMyZm92MmJkQ3ZwQVQyc3Y2WU5LWEsz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-08T06:47:31+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Infektionsrisiko: Toilette – Achtung Aerosolschleuder",
       "summary_de": "Viel sp&uuml;len ist nicht hygienischer. Im Gegenteil: Je mehr Wasser im Klo herumwirbelt, desto st&auml;rker verteilen sich feine Partikel in der Badezimmerluft. Wer Pech hat, f&auml;ngt sich &uuml;ber diese Aerosole Durchfall oder Harnwegsinfekte ein.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -502,6 +492,16 @@
       "type": "News"
     },
     {
+      "title": "Spanische Rentnerin Maricarmen in Krankenhaus gestorben - tagesschau.de",
+      "summary_de": "Spanische Rentnerin Maricarmen in Krankenhaus gestorben &nbsp;&nbsp; tagesschau.de",
+      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12TGpMSjNIUHYwc2RjN2hiM3B2UU5IYlJPWm9TdFZ1eV9fMU1SUDMzZE9TbEdEQW1wZUJQMkhWRmtDSGx4OWQyWGhrYUs5akpQUFlqdGZaXzgzWVg2MWNvUkIxajVlajVTTWh3LTFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-08T03:13:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Tod einer Frau - Russische Biowaffe? Trump geht nicht davon aus - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Tod einer Frau - Russische Biowaffe? Trump geht nicht davon aus - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -522,8 +522,8 @@
       "type": "News"
     },
     {
-      "title": "Lungenpest-Verdacht in Russland WHO verlangt Informationen von Russland über mögliche Pest-Infektion - DIE ZEIT",
-      "summary_de": "Lungenpest-Verdacht in Russland WHO verlangt Informationen von Russland über mögliche Pest-Infektion &nbsp;&nbsp; DIE ZEIT",
+      "title": "Lungenpest-Verdacht in Russland: WHO verlangt Informationen von Russland über mögliche Pest-Infektion - DIE ZEIT",
+      "summary_de": "Lungenpest-Verdacht in Russland: WHO verlangt Informationen von Russland über mögliche Pest-Infektion &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNellTcDhfQzRESzU5azF1ZWlSQWc3M25GMnh3UGVpb3VaWGxaLV9lZHZBNnhoazEweTlDbmh6cnYtMUlJSUlkbWVWVjZCb2h0RnBveC1vazVOMDhIVVBoNUVOWTBrWU9nU2hnc2NWRHV4Yy1xT2hmWEszUmFKUUc5NGdNOUstSFBlRmtGRA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-10-07T17:26:12+00:00",
@@ -664,6 +664,16 @@
       "type": "News"
     },
     {
+      "title": "Versehentlich Cannabis konsumiert: Mutter bringt Zweijährige ins Krankenhaus - tagesschau.de",
+      "summary_de": "Versehentlich Cannabis konsumiert: Mutter bringt Zweijährige ins Krankenhaus &nbsp;&nbsp; tagesschau.de",
+      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVHByQzJWR3FaOXdHTW04ME5kaVZPbFlIREE4X3h3UEJEVFZ3OXhRQjhpMnVrbUFPaGRXVW9YQXAwZlBlT0x6M0JHQ3RlOHc4dnhUM01RSVJ0Z01hMWNiYmpRLXRzbG5sS0ItME9lOUlxeGxfWE1pSFVoMzNpQ2l4cjhtOTFtd3EyTGZjWG5qQ2gtNHRabmw0UmdxRFV6YzE3SVdITHN6am8yZzJCcEhTeVY5WWszMkZPQ1VldmJOV0RPcDgzVFgzX2dXZjlqNENtamFRRVBR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-07T13:55:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Kaufmännische Krankenkasse: Größter Schaden durch Betrugsfälle im Apothekenbereich",
       "summary_de": "Im Jahr 2025 verursachten Betrugsf&auml;lle im Zusammenhang mit Apotheken den gr&ouml;&szlig;ten Schaden bei der&nbsp;KKH Kaufm&auml;nnischen Krankenkasse KKH: Die Summe bel&auml;uft sich auf mehr als 875.000 Euro.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -680,16 +690,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/erste-regulaere-behandlung-mit-genschere-in-deutschland-169016/",
       "published_at": "2026-10-07T13:25:50+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Oberarzt (m/w/d) Nuklearmedizin - ärztestellen",
-      "summary_de": "Oberarzt (m/w/d) Nuklearmedizin &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYjZRTWRRM2NDY19CaER6UlA4Wm1lR3NBVnJySkRLRUIzRlJuUUN0OTQ0a1RRcGU0V1RNckdEUHpIR2RIaWNDTWItZ3dFTzY3MXY5MzhjNm11eGswaVE4V3o4QUlKYkxsUHo2cnl0eGYyY3BjeEJNSzVqWExvRzZuNUxIZGxkam9oem1HU2taNVY4UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-07T13:13:15+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1413,26 +1413,6 @@
       "type": "News"
     },
     {
-      "title": "Medizin-Nobelpreis geht an zwei Deutsche - FAZ",
-      "summary_de": "Medizin-Nobelpreis geht an zwei Deutsche &nbsp;&nbsp; FAZ",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV1g4OWdUd2ZWRHFVV3RZc0wyZ1pHNmVka1B5M3NlbHJNZFE0X3VPcmFOVUJ1Z055NktSam14NFRXeVJ0emlnaXIxZ28xUUVxQmFrb3JrV2pwMWh5ZEt3enc4a2E3UEJTQkpiLTUtSWNsM1B3a2VVbnZwUFB2ZGFyeXJTVEY5aHhaRnNrSk14QnJHeXVYZm9VS2QtWmY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-05T02:31:39+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Lecktuch: Wie es vor sexuell übertragbaren Krankheiten schützt - DAK-Gesundheit",
-      "summary_de": "Lecktuch: Wie es vor sexuell übertragbaren Krankheiten schützt &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOXzh5Z0w5RVpMbXJNUWlHVzRtY0NRak1meTJKN2pxWUI5RnQ1cHlvVUh1VWJvR1N5TFJnQnFYM09kaUpvNFhydjlGck1JakdvNHFDVWFNNWVMQms4NXQzbHRZZmlyakpCdTF1X3AydFQyb1VqXzFTSS0zdlUyY1JORVRrNVRPS2NsbWVfWkxn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-04T22:31:15+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "\"Mentale Gesundheit gefährdet\": Melsungen-Star Johannes Golla erklärt Wechselwunsch - tagesschau.de",
       "summary_de": "\"Mentale Gesundheit gefährdet\": Melsungen-Star Johannes Golla erklärt Wechselwunsch &nbsp;&nbsp; tagesschau.de",
       "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
@@ -1469,6 +1449,16 @@
       "source_url": "https://www.diagnosticimaging.com/view/diagnostic-imaging-weekly-scan-september-27-october-3",
       "published_at": "2026-10-04T12:49:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit: Weniger Zecken-Erkrankungen in Sachsen-Anhalt erfasst - DIE ZEIT",
+      "summary_de": "Gesundheit: Weniger Zecken-Erkrankungen in Sachsen-Anhalt erfasst &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRW1KdjNsMjU0NTRXRVlNNFRocDY5bHp4R0FjZjVlendzX2lXNUpxLVZ3Rlk5X1NndFJSSTQ0a01STzhXbXBtTGJMUkR3MTBHNUZhb3Nxck90emhYUzlUSjZFRnNMMDB5VnZ6dlZ4VTllTG1pcXVBNXRrSndER0o0UXpVMlVYenZtWmJXXzhZaUtFdkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-03T14:42:50+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1575,6 +1565,16 @@
       "type": "News"
     },
     {
+      "title": "Gesundheit - Sindbis-Fieber in Deutschland - was man dazu wissen muss - Wissen - SZ.de - SZ.de",
+      "summary_de": "Gesundheit - Sindbis-Fieber in Deutschland - was man dazu wissen muss - Wissen - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeTV2aDVaanpPREJDbXlVRVItME1yc2lVV3Jmdm1PUkxzTzI2aWRYQ18yd29INFRoUHo4Mm5zMWtGNFhLTHRSczhtc285M2RvM3p0UkUyWEpHVlNXRTlHZXlvRVdDdnZOM01rdjN1RTJEOWlMWnVJZUVMSThhdDIyVTIxaHlYd3YtdE9KQU5saWlJT0JUSkxjdXhqYVh0am1pLTRsNW1BeXdnaldkeTdRU3hzLTczbGZTak02NWZuSTg1WEtXMENkX2JXaWY2MDRmaWhwOEh3d1dqalhRenh0Y3hWQ3E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-02T14:13:17+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Decision: Medical devices given exceptional use authorisations",
       "summary_de": "List of manufacturers and their medical devices granted an exemption by MHRA. The list also includes manufacturers whose exemption expired or was cancelled.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1655,6 +1655,16 @@
       "type": "News"
     },
     {
+      "title": "Die Vorhaut: Aufbau, Funktion und häufige Probleme - DAK-Gesundheit",
+      "summary_de": "Die Vorhaut: Aufbau, Funktion und häufige Probleme &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOanRRVFRZQll4Ty12WDIzRWozaXJsbDFmcW9scmFKTVNsdzV0OTduTzlmY3ZrbFZLR0VqOXhQcTBYWDdCeXdaYWpHaV9VbVo5TDNkNzVyTlcxTXJ0OHlUbkdiTVl6MEpYSHF6dXJxcEZLSnBJbzlPWnZFSG5td0lNcWVCb0dobTB4RXZIM3NUQmdYRklJcnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-01T20:29:14+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Inkontinenz beim Mann: Ursachen erkennen und Beschwerden wirksam behandeln - DAK-Gesundheit",
       "summary_de": "Inkontinenz beim Mann: Ursachen erkennen und Beschwerden wirksam behandeln &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
@@ -1680,6 +1690,16 @@
       "source_name": "\"site:dak.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdDZieC14a3pFTGFCTWZlbUlROFBucUpxR2QtbWdob3g3OHh6OW0zc1NRVHk1elFxWGYtM0lZSXNRTkNTN1RzdXNjQXJMX3RLU2pDMGRHNE9ZOUViREJtY1lKRldpYmRBblR0TUVtUF9nd2hmNXJMY1JScnNYVVRONVltam1xUGJnTi1QaTROQ29wMV9YdFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-10-01T18:45:06+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Schmerzen am Penis: Was tun, wenn es untenrum juckt und zwickt? - DAK-Gesundheit",
+      "summary_de": "Schmerzen am Penis: Was tun, wenn es untenrum juckt und zwickt? &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZUtxdk9GbXJjMVl2V3RNT3ZsN2dxN1JKNzBqb2Ywc2hKMVRCU3hhUG1xMk5LNDBmUXhXNm9NMzg2VGtGWE1fd2t6Y3FLMDV0dmRmdVl3ZzJ5d2JGWnNER2IwQW1PQlRLUkNoWlQxRURkTm5xX1dQM1pVU0NnSXJITzR1bGJkdUItRnlIVzk4c2owbklOVzNjQmpYeXhJUGZlb2k4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-01T17:55:54+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1765,16 +1785,6 @@
       "type": "News"
     },
     {
-      "title": "Zahl der Auszubildenden in Gesundheit und Pflege steigt - tagesschau.de",
-      "summary_de": "Zahl der Auszubildenden in Gesundheit und Pflege steigt &nbsp;&nbsp; tagesschau.de",
-      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qZE00enNoa0ozeTRrWndUSkxsbloyeE5iU2tWTVVvdzNRYldXaW04bHJFRTE2elVqZjJfVWd6c0Q4aDRLNTVSWFIxWDc3QV9BcjVqU3hNMHVYM3JlRENN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-01T07:29:22+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Was muss ich beim Foto für die Gesundheitskarte beachten? - DAK-Gesundheit",
       "summary_de": "Was muss ich beim Foto für die Gesundheitskarte beachten? &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
@@ -1805,20 +1815,20 @@
       "type": "News"
     },
     {
-      "title": "Was sind toxische Beziehungen? - DAK-Gesundheit",
-      "summary_de": "Was sind toxische Beziehungen? &nbsp;&nbsp; DAK-Gesundheit",
+      "title": "Hodenmythen: Was schadet der Fruchtbarkeit? - DAK-Gesundheit",
+      "summary_de": "Hodenmythen: Was schadet der Fruchtbarkeit? &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeXNxSFR0YWN4VHRZX1gtR3pTYXBSQzBjeGRDbDAyTklBcDdhODRsZmp5N05DcWRtVExZcEpQUXRPQnhKX1BHOVlNYlQ1Ym9jdHNGN0swS21VS3JMdnVXZ29LUEYzQjJRUW5RWTBoSnZNaVFVclZDYk1ZbDNFLTl2UEN5YWlRb01jOUNCYUJRVG50Y19kemlsUkIyb2dOZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORG93cnVlX01SNzZJTDA5WXg0RW1QTVJaUXJXMVc4MEVFODhzSm1YTkxESENqNE1tYmwxWFRNMkdhWnB5UFJHM2RxWjVQZlhTRnVsUnFjVTFGUWloakk4WEdxWEdEZVVJU3F2cFpZTjg1bUp4aEVQVDJLb0tpLW5mRnU1ZlZLY1lZYU4wTXhHY2ZlS0tpeUZXb3ln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-10-01T07:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Sperma & Lusttropfen - DAK-Gesundheit",
-      "summary_de": "Sperma & Lusttropfen &nbsp;&nbsp; DAK-Gesundheit",
+      "title": "Toxisches Schocksyndrom (TSS) - DAK-Gesundheit",
+      "summary_de": "Toxisches Schocksyndrom (TSS) &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT0NJa2hneWRKSFJ3ZFFfdkxZZ2wtN1Qtd3FvYXpvYWF0bWw3cklCNXlBbWRzemU5d0ljbmY2c2tHMHpOZWZBRzhnRV9sckMxUlRYcXZpS2dyblBoVnczODBBZHBHWnhmZzVEWS1jV3hWY2s1cGN5RXRXNFBBa1ctcTk1LTc2M0tpMjZqbjdJNG8zbkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ3duRmRYQTgwdnhMZ3ZEM0Eta25pN1V0MkRNMGRlcXg4SVRXQmdfNnNxYnpNWlJlVnJ0MVItR3FsSi12elJUZjFCTFZzVzA0dE5FTXhLcWxXb0drQ2JjTHJmaFBvV0poS2F6UnBUT0k1VV9uVGhENmxud05OLWUyb1VRclBobDdwOWVHUWxkM2JnRUh5aWEwalJqUUhWVUZlLU5YMmxOUGdJUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-10-01T07:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -1931,6 +1941,16 @@
       "type": "News"
     },
     {
+      "title": "Oberarzt (m/w/d) für Nuklearmedizin oder Doppelfacharzt (m/w/d) für Nuklearmedizin/Radiologie - ärztestellen",
+      "summary_de": "Oberarzt (m/w/d) für Nuklearmedizin oder Doppelfacharzt (m/w/d) für Nuklearmedizin/Radiologie &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQktld00yU0VYU0NIeDczX0VoREZDdnhvU1gxRFJNaEVVcW9meDk2TjNxSkZpX0laeFFIMFFGVHh4cm4wSjVWOWdRa0VTd1h6NkJGMlNabkp1WTdUVzBvSjhwN1dCVnNyeDJuNnNNamYzTjEycVRHbmZsUG9BcXc0Z2NQQzlqZ3FQckd5U1Z5QlRCbDh2RDl0ajZlX2tVMWR3Vkl0WGpsNWoxYVVsSXhFOEZkVTdSSkxzVFR1TmttMGRzU21hVHRETWlhVWFYT3BuaUZIZFA2bw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-30T07:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Systemic azoles for asthma with fungal sensitisation",
       "summary_de": "Systemic azoles for asthma with fungal sensitisation",
       "source_name": "Cochrane Library RSS feed.",
@@ -2009,6 +2029,16 @@
       "source_url": "https://www.diagnosticimaging.com/view/top-five-radiology-video-interviews-september-2026",
       "published_at": "2026-09-29T09:50:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Nachhaltigkeit braucht Menschen, die ins Handeln kommen - Techniker Krankenkasse",
+      "summary_de": "Nachhaltigkeit braucht Menschen, die ins Handeln kommen &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS0JmLVhUUTdxQmNST2o5RDN1WXdFLVYyRC1SU0FMdWt2Rzd0T2FQRnFnY1htNlJjQ0pINnZHVXZJUHI4eHY1T3hROFlTWFpiN0Z5b0h6aEJEX0xFaHhhc3VnSVUtV0wyejViNFNkTmUtb1lZa3Bqa29OdTJ5WmtTcGcwS2I2WDFHZTNuTms1SmZnd2h2Ty1Bdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-29T09:19:56+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2178,6 +2208,16 @@
       "type": "News"
     },
     {
+      "title": "Periodenprodukte: Was schützt zuverlässig? - DAK-Gesundheit",
+      "summary_de": "Periodenprodukte: Was schützt zuverlässig? &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYUQwZkdBNHFlQy1uWWcyaHJ2bnMyVjZZV3dwNkpVbHd2bmZnNG15SXNVVzlGT0JiQ2dqeTlGb3h6UzV1Z2VtbG9ENEhuZG5LenB4dFVuYkdlT25HQUFieDhrdlh3TWk5c291Q2JscGw3bFd0bmpTQlI2bGxIbkg1cDduQnUyVTZGSjVsMlM0a1dQVlg2U0N5NEg4eGw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-25T09:13:29+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Orgasmus-Ratgeber - DAK-Gesundheit",
       "summary_de": "Orgasmus-Ratgeber &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
@@ -2208,11 +2248,11 @@
       "type": "News"
     },
     {
-      "title": "Trockener Orgasmus: Was ist das? - DAK-Gesundheit",
-      "summary_de": "Trockener Orgasmus: Was ist das? &nbsp;&nbsp; DAK-Gesundheit",
+      "title": "Kondome: Tipps zur Anwendung und Infos zur Sicherheit - DAK-Gesundheit",
+      "summary_de": "Kondome: Tipps zur Anwendung und Infos zur Sicherheit &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdUxFSnVKYjU0VXZfSlZPMXhSaUlEeGlVUEtJRS1BekxqZkdHSE0ydUlLRFZGMW4zNGlFVHRKVDVlaWI2REtULXhqWUM4Q3BKeXVXWkNGdkNZRXhxSFVoanhrSm50WHdrWXNwalVlOVpmVjhpNnZ4MXBxVEdrdUtmX054RGJlbGJ3ZlY5NnQtcnJtUVR4UTlPT292MEpSOWQyMFNnSw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-25T08:49:07+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWV9Pa0dHM05LOFBjYWZjRzVhZVVWMU00WDdYVmdydVpadGdIVXVwSFJ5WWpwWnJZZ3hMM2ZHbW1zRWhqNEhqVVFCS2Mxc0Mtc1drVUdLUGJySzdGOThCdUhRNl9TZmxaV191RG5zaVBpVVgwaUgyUmt0cmxXaEJqTGd3dVRsT3gzMHdWOQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-25T08:34:30+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -2729,16 +2769,6 @@
       "type": "Studie"
     },
     {
-      "title": "Lower‐limb neuromuscular electrical stimulation (NMES) for adults with kidney failure undergoing dialysis",
-      "summary_de": "Lower‐limb neuromuscular electrical stimulation (NMES) for adults with kidney failure undergoing dialysis",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016155.pub2",
-      "published_at": "2026-09-18T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
       "title": "Gesundheit - Spiegel",
       "summary_de": "Gesundheit &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
@@ -2983,8 +3013,8 @@
       "type": "News"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-08T07:00:00+00:00",
