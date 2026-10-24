@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-24T20:02:02.661074+00:00",
+  "generated_at": "2026-10-24T22:48:02.586809+00:00",
   "window_days": 42,
-  "count": 314,
+  "count": 313,
   "items": [
     {
       "title": "Fußball-Bundesliga: FCA-Profi Brackelmann in der Klinik: «Er hat Kopfschmerzen» - DIE ZEIT",
@@ -730,16 +730,6 @@
       "type": "News"
     },
     {
-      "title": "Aussteuerung von Krankengeld - was Arbeitgeber wissen müssen | Die Techniker - Firmenkunden - Techniker Krankenkasse",
-      "summary_de": "Aussteuerung von Krankengeld - was Arbeitgeber wissen müssen | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdkNZbTk3RzZDdFJqOU5RYzdJbmlFM3dOOEFhNFRmYmczZ0g4T3RNY3NDbTlJMUltaWNIaGhiMGpDRFVGZldSdUpzSG9pRVlCcGdRU25DajBIN3FmQnhtVkFwTTFWVjRzN3pob2haaVM3RXktR1ozalpwZVNfdXJBLTRDek5zQmVTdTFiLXF5dUZha2FoRnBEeHRvR2xlcC02M1lSZWE3eXdTWXBjRTA2VDdmWWF2SnNlcG4zaHhoaGUwT3AtZkFoMUJ3U25WM0oyb3FLS1k3dVVaWVpQd3FiMzZIaWZyV09qLUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-22T14:31:12+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Alzheimer-Demenz: Weniger kognitiver Abbau ab dieser Schrittzahl",
       "summary_de": "Laut einer Beobachtungsstudie k&ouml;nnte ein Bruchteil der oft zitierten 10.000 Schritte am Tag ausreichen, um die Hirngesundheit von Menschen mit ersten Demenzanzeichen zu verbessern.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -966,6 +956,16 @@
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2026/gedig-datengestuetzte-frueherkennung-ausbauen.html?pk_campaign=rss",
       "published_at": "2026-10-22T08:19:00+00:00",
       "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit und Medizin - Aktuelle News und Hintergründe - SZ.de",
+      "summary_de": "Gesundheit und Medizin - Aktuelle News und Hintergründe &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yaU5PQ0tXbDRnNzFXV0xseERZZldsZHg4dlo0ZnNWX2ZuTXJuOUNmZS1lem10bS1IblJSYU9jTF9wbnhYSUpvUElEMHZJSkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-22T07:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1412,12 +1412,32 @@
       "type": "News"
     },
     {
+      "title": "Pharma: Sanofi-Chefin Garijo – „Es ist logisch, hier zu investieren“ - Handelsblatt",
+      "summary_de": "Pharma: Sanofi-Chefin Garijo – „Es ist logisch, hier zu investieren“ &nbsp;&nbsp; Handelsblatt",
+      "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQnFuckFnX0t3dFZjYXUwNk5LU0YxWGpUbWdEcXY3X2xMT0xyUGtiQzlKTFlvWHRWQkJQYTc3S1BTMmxYZnY4eVJreVpMeVJKOXo5ZTNfaG94cXN2Z3JMMDBHaUxHTXBHRlVUdjFfYVpJQjJYdnVUN1UzVHF0U243c2ZZaFdJcGZ3MThUc0dJLTYxZ0g1X0FnZjFGeXg2a3FoOEgyVndQb0RiUXpjOHdlYUZNMEtvTU50c3RPRjNpNjNKWFZPamV1UUdzSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-20T14:36:11+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Fachärztin/-arzt für Radiologie mit Schwerpunkt interventionelle Radiologie (OA oder OAmbF) 80-100% - ärztestellen",
       "summary_de": "Fachärztin/-arzt für Radiologie mit Schwerpunkt interventionelle Radiologie (OA oder OAmbF) 80-100% &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcVJZX1QwWWNrU1JTUWhSck9lc1R1aDUzaHlHdzJQQ09wdUR2Q0hEODd0eDF2YnpfeS1oMGRKZHBOLWMtTERvaVpCWmpfd1BjSGtvd2dhQXJjM0xVRklZSDFINTdONW94X0FvekljbmtWdzBvd0k0V1A2WGhOUDhpb09BcGZ0cDZabjNiVVlKbkszZ2Ffb3ZtTmhVSFJvV0JBVlZwdzRia0FnRjIwM3poUFFHTnhEYTdtdHJNWGlWdG1Zdmc3U0hvTFFjalR5bWRjQ3FCaEhqRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-10-20T14:00:18+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Psychologie & Gesundheit: Bücher kaufen - SPIEGEL Shop",
+      "summary_de": "Psychologie & Gesundheit: Bücher kaufen &nbsp;&nbsp; SPIEGEL Shop",
+      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBldnBkMXJfb3U5a0E2Z1ZVVGQ5RnFZSlNKVUFhZ0FITnhYYmlXOWE5QnZNdHZDU0ZYX2lPdzJWanpzNUMxLWM2LVJWVktibTAyalBHVTktU21iVjEyd0ZkdGZJeHhTaTFhVnE0MXZfLUN4cTRsR3R0V09Zdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-20T13:34:11+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1556,16 +1576,6 @@
       "type": "News"
     },
     {
-      "title": "Rückenwirbel-Fraktur bei Osteoporose: Neue Leitlinie bringt Klarheit - healthcare-in-europe.com",
-      "summary_de": "Rückenwirbel-Fraktur bei Osteoporose: Neue Leitlinie bringt Klarheit &nbsp;&nbsp; healthcare-in-europe.com",
-      "source_name": "\"site:healthcare-in-europe.com radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVDhBV1pfVmhRdTk3c29QeHNramVKZHVEZkJBTXA5UzBkZFpQZE1FdnRHUlJHLVF3bDlGbENuTXJZSVZVZDNfWThJdlJCS0VMak5vTWdjb3FvUTFmdGw2ZmR6VTJNWVJVeHhWR0tmeUUxUlRyLS13ZXd1ZHYycDBxcEwxQzN5Sl9OeGZDUmplMEJYejA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-19T13:21:55+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Nie Medizin studiert: Falscher Schönheitsarzt gesteht vor Gericht - FAZ",
       "summary_de": "Nie Medizin studiert: Falscher Schönheitsarzt gesteht vor Gericht &nbsp;&nbsp; FAZ",
       "source_name": "\"site:faz.net medizin\" - Google News",
@@ -1605,6 +1615,16 @@
       "tags": [
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit Jobs in Solingen - RP Online",
+      "summary_de": "Gesundheit Jobs in Solingen &nbsp;&nbsp; RP Online",
+      "source_name": "\"site:rp-online.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KWi1DSnpyN2t3S0U1aXJ2WUM5LUEwQTJNNnlMcFZLTk4zYnVWdUhDNERxWU51bU1VWXdOcDkxcVk1cFcxQnVqc3N5RHRVQXJkbDlOSWMzVHhqb2YzM2E0UGtDM2w0OWpHVjFtWEVJMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-19T08:45:53+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
@@ -1758,16 +1778,6 @@
       "type": "News"
     },
     {
-      "title": "Duales Studium BWL-Gesundheitsmanagement inkl. Ausbild. zum/zur Sozialvers.fachangestellten (m/w/d) - DAK-Gesundheit",
-      "summary_de": "Duales Studium BWL-Gesundheitsmanagement inkl. Ausbild. zum/zur Sozialvers.fachangestellten (m/w/d) &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPR0tfMm95b2VuallTU05xYjhqYnBtN1lodklJVHJ2bFc5WDBlQWh6TnlkcUo5NXNSbEJYbGNKRDBmRlNfUlZnYnZyN0l0VlpKSlhBZzJBSEVFeUlLNFVYaUs0Vm5ERkg0aWVBUDRJbkUtU2tHUWl4a2d1Z0dRQ3VQZzBDemh3X24tY091eG5yNGwtcmV0N2FnbGxsOUZ5WExGai1FZEFQb3c4NzVyYjNTLXJpcUV0WUo4eUI1a2NpeV9mV2x0Z3VQWDJ1RjNodGctM0t4WGFQLTBxWjl2T0kyckR1bVNXQU1yQXlIcnVScDI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-16T01:59:35+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Statins for adults with a first episode of venous thromboembolic disease",
       "summary_de": "Statins for adults with a first episode of venous thromboembolic disease",
       "source_name": "Cochrane Library RSS feed.",
@@ -1904,6 +1914,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVi1BWnNFcEk3V1h6cUoyNDhTNkNScnZwWVNSR3BrYUU4ekt6R3I2QldCcU1oTnYydlprVmNyaWY2S0RnX1VmMDRBRnNJbjVxUFpoeVFlV001TUhmdWJ1b2FYMzFBYm5SMVBxUElUOXZkMk03VTlFVGJiNkVFVEl6aU40V2hBcVhKdXJhNzBGVVpPZTdCcTBDbzBwaWtROTBGWHF4RWxKTDVQdnRRVVlxakk1WkRjaFNmaDVZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-10-15T11:20:39+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Duales Studium BWL-Gesundheitsmanagement inkl. Ausbild. zum/zur Sozialvers.fachangestellten (m/w/d) - DAK-Gesundheit",
+      "summary_de": "Duales Studium BWL-Gesundheitsmanagement inkl. Ausbild. zum/zur Sozialvers.fachangestellten (m/w/d) &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObWtKVEkwVzJmaGd4SG9wOERrM25zQm5vdFhkVG43eldRX002Tmw4WEUwcnZFbkUwX1RwSFRURl9KenQxendCUzc3Y3ctTHZzd1IzYlpweWZmdThnUmNRQ0VYd1psNXJlcHhHM1p2bGZsNktnd2gyV2U2QmJTVDRFLVl6RDEtenhxR284UEtiUkM4amFwaC1PYjBMbzNrMzZHMlJGc2ZreWN0bzNqZldESllNZzR0WF9feElPSjVZM3c4dTdycjV6dzFpNkdDYjRKSFZvd3otMjJpUWU3STdGX3JiRFBqTk9MLS02Sg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-15T11:06:49+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2078,16 +2098,6 @@
       "type": "News"
     },
     {
-      "title": "Pflegereform 2027 im Überblick - das ist geplant - Die Techniker - Techniker Krankenkasse",
-      "summary_de": "Pflegereform 2027 im Überblick - das ist geplant - Die Techniker &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN1g3TG1NZnZrMVZNMElkNzBuX0ZCWnF6aE1RYTNDSWRBU0g1Ym1QVzRZbDZHTmt6UV9YMFVRZndhYlFMZWR4ZDRLWi1rcnJnRUVrLWh4aGZUckdGTzNhT0VHQzJTUURhT25waU1GNVNoY3J0Um9SRGtDSDNTdjM1VlY1eExXbDJ5cXRGbHpDRlBJdTZSNjRPWm5sUUtQUVhzRWlrOTZsNVkxMV84YkpLQzdaN3huZVhnQVZQWWdhNkg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-14T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -2114,16 +2124,6 @@
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2026/zuckersteuer-zur-staerkung-von-praevention.html?pk_campaign=rss",
       "published_at": "2026-10-13T10:14:00+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Assistenzarzt / Arzt (w/d/m) in Weiterbildung für Radiologie - ärztestellen",
-      "summary_de": "Assistenzarzt / Arzt (w/d/m) in Weiterbildung für Radiologie &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSFp3a1lnV2NTMTJXNnlkMDh2bDN5SllSVEp0amZGdEVwUzdzYmhtcm56Q2czZ0t2aG1GQ2lVM0JZUGdIUGd0X1FUVFFqOHpnR0ZvaGhoNW05d3cwbTVoUWVGdER6bmt1TWR5U21sVUJmQk96QkFvM3RrM21QN0d5QzNUbzhjNTVkNUxva0FQWlNnR3o5eHo3enloMk5Wa1FCWnVYOFltZWxLOUFUMHJ6QkpPdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-13T07:00:00+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -2224,6 +2224,16 @@
       "source_url": "https://www.diagnosticimaging.com/view/diagnostic-imaging-weekly-scan-october-4-october-10",
       "published_at": "2026-10-11T10:22:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "(S+) Mentale Gesundheit und Urlaub: Wie verreist man mit Angststörungen und Panikattacken? - Spiegel",
+      "summary_de": "(S+) Mentale Gesundheit und Urlaub: Wie verreist man mit Angststörungen und Panikattacken? &nbsp;&nbsp; Spiegel",
+      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbHZoWjZBSUl4RS1SNXRmSlhuOTNrbDJTbHdVd0c3TWVxVk1VVkdQdFdldEZzbUI5TXhyYVNMek9EMXZCNzQ0M2wxUW1Kb2d2ejF0UGRBRXlvcFRKMFdDUldLeS11VG5kampaU3hYbGk0QXJmdGJVYjlMaDluZWxTcG1PcjV6SzNPMTFBSjFVcmd1MlNQWVl0UDVFRGhwd1RPYjY1akY2QkJiNjFRQjAtYzZVOGdKanFWWGRJd082REY4dDhZMFdnS3EtYjhQNGgxd2VHcHQ3WlllR2JJdWVid3laWFZzeHM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-10T07:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2376,8 +2386,8 @@
       "type": "Studie"
     },
     {
-      "title": "Vertretungsprofessur (W2) für Public Health – Umwelt und Gesundheit - ZEIT Stellenmarkt",
-      "summary_de": "Vertretungsprofessur (W2) für Public Health – Umwelt und Gesundheit &nbsp;&nbsp; ZEIT Stellenmarkt",
+      "title": "Vertretungsprofessur (W2) für Public Health - Umwelt und Gesundheit - Hochschule Bochum - ZEIT Stellenmarkt",
+      "summary_de": "Vertretungsprofessur (W2) für Public Health - Umwelt und Gesundheit - Hochschule Bochum &nbsp;&nbsp; ZEIT Stellenmarkt",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ29FREp3R2V2d0NOM2tPTlNia0kwaHM2N3VHbWFMVl9Ianc5OUt4V01CWXNWSTU0eFlvcTBBYlQzbnE3UEZKcUdKU055TVVqazRTVV9Tc0dfMmtiV0RxNFowVjNvZ2pieVRwTlEteFdtMXV5RWFYNGdGRHFxMWVkdkNraTZHTFpjbFdXRWtaS3JTV1BURE9pZ3czZ0lfekx4QjIzYkRkQXFJZWwxOVI3TGU0eFpnazRVV3FDWG9pVnA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-10-08T14:01:50+00:00",
@@ -2977,16 +2987,6 @@
       "type": "News"
     },
     {
-      "title": "(S+) Gesundheit: Warum gesetzlich Versicherte so lange auf den Facharzt warten - Spiegel",
-      "summary_de": "(S+) Gesundheit: Warum gesetzlich Versicherte so lange auf den Facharzt warten &nbsp;&nbsp; Spiegel",
-      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdkttTDhyX3lpbm1tZnNNdEU1X3ZMSFF5ZUhOZC1LLUVYaVB0QVBtWmM0UlpOdXFPYUkyN2VSSnJXejV4NEJ0TGFRaWxZQVd5ZGROemVESnhEN3NFejFWNnl3STNnaEVybHFFUHBySEIybVg1WG81cHhydXMxanRVMEtZTzc2Y19OLVdta2NwS2hpcUhJbmtuS1lYdVBwR1ZwVVpTMUx1QzdVbmR6LTdwNWFwNGluMmxmT0ZnRUtMS2JLOVBYUnRfZVU4V0F3bmJob2dNUmk5REp4QmRnMnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-23T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "[MI] Rapid Cancer Registration Data",
       "summary_de": "Rapid Cancer Registration Data (RCRD) provides a quick, indicative source of cancer data. It is provided to support the planning and provision of cancer services. The data is based on a rapid processing of cancer registration data sources, in particular on Cancer Outcomes and Services Dataset (COSD) information. In comparison, National Cancer Registration Data (NCRD) relies on additional data sources, …",
       "source_name": "Publication Feed",
@@ -3036,16 +3036,6 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-medicines-and-pregnancy-registry/antiepileptic-use-in-females-aged-0-to-54-in-england-april-2018-to-march-2026",
       "published_at": "2026-09-21T16:23:54+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "TK-Bonusprogramm: Vorteile sichern durch Fitness und Vorsorge - Techniker Krankenkasse",
-      "summary_de": "TK-Bonusprogramm: Vorteile sichern durch Fitness und Vorsorge &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkF2V1dGdGNQNGVoQmlQZW84TFBKMmc0cmlvNWpqZVRkVkRRYjB3OUFyYU12UjNtLTNFbVBKZzU1U2puS3A5N2dHVlU3cXgtUms5U0c2aTBuOVRVNGx6NlRaNmFMakx6UUlkdHV1ekRGUXFoOVFsTEdIZHhZVVZHQ1AxUDFwQnhCY2VVenE1d1gxanUzOUN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-21T16:04:15+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -3108,6 +3098,16 @@
       "source_name": "\"site:dak.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdks1WTd1SGd1Q2JvUmpvLUFBckxqWWdhQ0dTRFlGY0twMlBocXFxdEVYMC1aNDZDUjdhb29ackhXQnVqbXc3Ti1WR0gzNENzMDRmRjhRVTBiNUxGUUhoVmpvd1kxQ1JDRHEzV25mZlgxZFdNajRMd2QtSWhYTFR1VFNXUmlvZVVNR3JiR1l5blFfWU03RUtlR1NxeW1mcGlSWHEyOUt2NEx3QllEdmp5dDJKd1NlQ3lidVZSaEhXTEFoRko4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-17T20:11:59+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit - Spiegel",
+      "summary_de": "Gesundheit &nbsp;&nbsp; Spiegel",
+      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94UG1YbjhqdnhBZW9GNGZkNmtHZTdQd1JXZjl5N3dmNkVMd2l1aGtpZU5laGF1TWRWUHVwU2FkNHRYOHMwLXZwSU5kM1h1UlJv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-17T19:13:21+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -3183,16 +3183,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdEc0ZF9QRG13bTFwRk5QZjVscTVWY2lZVDN2bzZxaENHdHdMX0l0RTBZZW9hOFFBVkNmQWdKeXFlLUdRbE5TbTlzMnZiLVJIRlFxaVV6ZWk4R0Zzek9tQnYzSVVkM1BlanBtM3hvNUVWd0EwV2lBRk5zYzZROHNSN2o1bEZGSHJzZHplejhoc1pJbE8xR05N?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-15T07:00:00+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Ausbildung zum/zur Sozialversicherungsfachangestellten (m/w/d) in Böblingen-Sindelfingen - DAK-Gesundheit",
-      "summary_de": "Ausbildung zum/zur Sozialversicherungsfachangestellten (m/w/d) in Böblingen-Sindelfingen &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNR001VWdOZlRZMV91MkFmMkY5Y21ERU1vLUk5MGpDYnRlZ1FxSTMyZW5idVh3Y3VGbmZURGFZSnJxRFYzNlg5aDZCV3luSU1mRXhoMzBpWmRJTDdGMGktc3o4VVhPUzZ4Y0YtNkZXWko1ZldOZG51VFZMazJzUVppUWI4Sm9aVXJxYmVZMnRLMTEtSUQ2LXZ4VjRreVQ0Y25JTFlDR1FyaDBzTFp1YVdSSm1nT3oyVmVTZ2NOWkx6YVkyZ3RYVjJkaGhoLUQ0SU9ubnl2VkRLXzRlWlg3WXNoMEhWYW5RWUFJLVVJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-14T12:52:44+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
