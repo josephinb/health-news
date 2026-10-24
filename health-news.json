@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-10-24T02:47:10.621325+00:00",
+  "generated_at": "2026-10-24T07:47:27.788759+00:00",
   "window_days": 42,
-  "count": 311,
+  "count": 312,
   "items": [
+    {
+      "title": "PZ Briefing: Die Top-News der Woche",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-der-woche-171397/",
+      "published_at": "2026-10-24T07:00:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Prostatakrebs per MRT: NICE empfiehlt fünf KI-Systeme für den NHS - ad-hoc-news.de",
+      "summary_de": "Prostatakrebs per MRT: NICE empfiehlt fünf KI-Systeme für den NHS &nbsp;&nbsp; ad-hoc-news.de",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWhLUENubmdKS3BScnVZY1cwNWNHZktXWlhVUEdqTzdGc0p0by1nMlFMQ1c1Zy1vcEU5cTBCMUZHLUVla1BOZENxQ0c5SHpLeEJDSDFfWjJKWkpyeGJaRnRvR1J6R1QxRnVPMlZqOEl3Z3poWnM1Um1ydHFtcVZWdEg2MWs3M0NPZmdBNUpqcElYUG1NWV83LTZkQlNQQUlHU2tHVERwZGsyb2dETUdER2J4YVZTUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-24T04:21:46+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Alkoholkonsum - Umfrage: Alkoholverzicht muss oft begründet werden - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Alkoholkonsum - Umfrage: Alkoholverzicht muss oft begründet werden - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
@@ -14,11 +34,53 @@
       "type": "News"
     },
     {
+      "title": "DBT performance improves with patient age",
+      "summary_de": "DBT led to higher cancer detection rates and lower abnormal interpretation rates in older women in a study over 93,000 women.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/breast/article/15838349/dbt-performance-improves-with-patient-age",
+      "published_at": "2026-10-23T19:57:01+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Week in Review: EANM 2026 | FAPI-PET for HCC | Women’s Imaging MinnieCast",
+      "summary_de": "Our coverage of EANM 2026 and the return of our Women's Imaging MinnieCast take center stage this week.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/15838357/week-in-review-eanm-2026-fapipet-for-hcc-womens-imaging-minniecast",
+      "published_at": "2026-10-23T19:50:50+00:00",
+      "category": "Studie",
+      "tags": [
+        "Radiologie"
+      ],
+      "type": "Studie"
+    },
+    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
       "source_url": "https://www.diagnosticimaging.com/view/study-pcct-higher-image-quality-reduced-radiation-dosing-eid-ct-obese-patients",
       "published_at": "2026-10-23T18:58:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "AI fails to compensate for night-shift fatigue among residents",
+      "summary_de": "Evidence that AI can offset fatigue-related performance loss remains limited.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15838345/ai-fails-to-compensate-for-nightshift-fatigue-among-residents",
+      "published_at": "2026-10-23T18:56:51+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Trainee-led informed consent talks with patients often insufficient",
+      "summary_de": "Results from a study suggest that more attention to the consent process in radiology training may be needed.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/practice-management/article/15838323/traineeled-informed-consent-talks-with-patients-often-insufficient",
+      "published_at": "2026-10-23T17:44:03+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -104,6 +166,26 @@
         "Europa"
       ],
       "type": "Studie"
+    },
+    {
+      "title": "Dresdner Kinderhilfe: Wie Moritz das MRT ohne Spritze geschafft hat - DNN - Dresdner Neueste Nachrichten",
+      "summary_de": "Dresdner Kinderhilfe: Wie Moritz das MRT ohne Spritze geschafft hat &nbsp;&nbsp; DNN - Dresdner Neueste Nachrichten",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOS11NVFEemt1cWowZ0VqQ0xwdEt2N1lqMEZLM2RTc3V4b2kybkN3Tzhqck1RQzVJWWFCaVFuVHhZLWVydFFWNDZDVjBKNWZZeE1RdmhNamE1SmRZSmdfWjBLWXFrTEwyMEdybHZsdkQtV0VPaGU3VzBvTzhhemVWZE1vZnpSMkZndzhFWXF6aWtWUElMcjdpaFp5VXJ1NVFTZDZIcUtPU3pNdm9NVXI0UDJOVUdGd0RCUTBZS3kzRXdTRmpaLVUzUWZ0TF90NEVrSmxR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-23T15:20:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "High CAC scores nearly doubles 30-year mortality in young adults",
+      "summary_de": "Among 12,847 participants, 1,703 (13.3%) had CAC scores above the 90th percentile.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/15838280/high-cac-scores-nearly-doubles-30year-mortality-in-young-adults",
+      "published_at": "2026-10-23T15:01:09+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
     },
     {
       "title": "Nach 34 Jahren: Bekannter Arzt hört auf – die Kinder übernehmen - Westfalen-Blatt",
@@ -608,20 +690,20 @@
       "type": "News"
     },
     {
-      "title": "Pharmaziestudium: 5 Tipps für effektives Lernen",
-      "summary_de": "Das Wintersemester ist gestartet und damit r&uuml;cken die n&auml;chsten Kolloquien und Klausuren wieder n&auml;her. Die PZ hat f&uuml;nf Methoden zusammengestellt, die beim Lernen unterst&uuml;tzen k&ouml;nnen und sich teilweise auch kombinieren lassen.",
+      "title": "Krisenvorsorge: KBV rät: Setzen Sie auf Apotheken",
+      "summary_de": "Die Gesundheitsberufe m&uuml;ssen sich auf Krisen- und Katastrophenf&auml;lle vorbereiten. Wie Praxisteams&nbsp; in solchen Situationen handeln und wie sie sich vorbereiten k&ouml;nnen, hat die Kassen&auml;rztliche Bundesvereinigung (KBV) in einer Brosch&uuml;re zusammengestellt. Apotheken sind zentrale Partner.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/5-tipps-fuer-effektives-lernen-171339/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/kbv-raet-setzen-sie-auf-apotheken-171337/",
       "published_at": "2026-10-22T14:00:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Krisenvorsorge: KBV rät: Setzen Sie auf Apotheken",
-      "summary_de": "Die Gesundheitsberufe m&uuml;ssen sich auf Krisen- und Katastrophenf&auml;lle vorbereiten. Wie Praxisteams&nbsp; in solchen Situationen handeln und wie sie sich vorbereiten k&ouml;nnen, hat die Kassen&auml;rztliche Bundesvereinigung (KBV) in einer Brosch&uuml;re zusammengestellt. Apotheken sind zentrale Partner.",
+      "title": "Pharmaziestudium: 5 Tipps für effektives Lernen",
+      "summary_de": "Das Wintersemester ist gestartet und damit r&uuml;cken die n&auml;chsten Kolloquien und Klausuren wieder n&auml;her. Die PZ hat f&uuml;nf Methoden zusammengestellt, die beim Lernen unterst&uuml;tzen k&ouml;nnen und sich teilweise auch kombinieren lassen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/kbv-raet-setzen-sie-auf-apotheken-171337/",
+      "source_url": "https://www.pharmazeutische-zeitung.de/5-tipps-fuer-effektives-lernen-171339/",
       "published_at": "2026-10-22T14:00:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
@@ -664,16 +746,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/roche-chef-kritisiert-pharmapolitik-171334/",
       "published_at": "2026-10-22T12:40:42+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "BfArM-Portal: Hersteller können Befreiung von Zusatzabschlag beantragen",
-      "summary_de": "Mit einem zus&auml;tzlichen Abschlag f&uuml;r die Pharmahersteller will die Bundesregierung die Kassen entlasten. Unternehmen k&ouml;nnen sich aber befreien lassen. Daf&uuml;r hat das Bundesinstitut f&uuml;r Arzneimittel und Medizinprodukte (BfArM) jetzt ein Portal freigeschaltet.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/hersteller-koennen-befreiung-von-zusatzabschlag-beantragen-171330/",
-      "published_at": "2026-10-22T12:30:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -1170,36 +1242,6 @@
       "type": "News"
     },
     {
-      "title": "AuntMinnie.com Women's Imaging Insider",
-      "summary_de": "New research on breast cancer risk prediction and organizations tackling screening myths are featured in this edition.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15838029/auntminniecom-womens-imaging-insider",
-      "published_at": "2026-10-20T20:28:05+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Kaiser score outperforms MRI BI-RADS for inconclusive breast findings",
-      "summary_de": "null",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/15838022/kaiser-score-outperforms-mri-birads-for-inconclusive-breast-findings",
-      "published_at": "2026-10-20T20:00:53+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "FAPI-PET detects more HCC lesions than FDG-PET",
-      "summary_de": "Relative to F-18 FDG, F-18 FAPI-PET/CT produced staging changes in 19 of 32 patients undergoing initial staging, including six...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/15838017/fapipet-detects-more-hcc-lesions-than-fdgpet",
-      "published_at": "2026-10-20T19:42:38+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Tödlicher Virus - Nigeria bestätigt ersten Ebola-Fall - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Tödlicher Virus - Nigeria bestätigt ersten Ebola-Fall - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -1359,26 +1401,6 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPLW9IeEc5U2RwdnpiS0VpeUxoN2RYa1VLUnE5aUtrS1VzdV9CZmhJdFRoZ2pxUExxWWl5dWN0cHY1WlJ3WVNVOGR5b2ZEbUgxWUk2Ml9XOWNJRk9QaDZHUjROSk5hdnlnSVZQdUw0MVo0LXB4OGFwM0ZNd183VG5sNE9ldkNjS1dra0R3cXZ0N28wSm9OYkstdjhKSy04SzFIczZtOTUwcWJBOW04UzFKS3F6azNMZXFSblVnRDNsQUs3Y2lGUkhQOHBQTjJNNGNFTWJSYlVIaEpzVzNCVkRNRHZHbnI4RFNNdXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-10-20T03:00:17+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Bringing the procedure to the patient: Fusion and point-of-care procedural imaging",
-      "summary_de": "Moving a critically ill patient to interventional radiology and back can take well over an hour. It's worth asking who pays for...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/partner-content/article/15837703/bringing-the-procedure-to-the-patient-fusion-and-pointofcare-procedural-imaging",
-      "published_at": "2026-10-20T03:00:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Fluoroscopy safety: Not just for patients, but also for practitioners",
-      "summary_de": "Protecting access to image-guided treatments means protecting the teams that provide it.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/senl/article/15837521/fluoroscopy-safety-not-just-for-patients-but-also-for-practitioners",
-      "published_at": "2026-10-20T03:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1626,16 +1648,6 @@
       "type": "News"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-16T14:40:54+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Register medical devices to place on the market",
       "summary_de": "How to register your medical devices with the MHRA for the markets in Great Britain and Northern Ireland.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1656,16 +1668,6 @@
       "type": "News"
     },
     {
-      "title": "Diacura in Coburg: Wie wirkt sich der Hackerangriff auf MRT-Termine aus? - Neue Presse Coburg",
-      "summary_de": "Diacura in Coburg: Wie wirkt sich der Hackerangriff auf MRT-Termine aus? &nbsp;&nbsp; Neue Presse Coburg",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOGJxRkh0dDRfQXhEZVJmZlhUcjN2VV9USU91N210eTExeUpXdm1IOTRwOHlpWXRoWlhvSzN2X3Q2bmo5bHNQb3VRTWw5bHM0VG9SRWZiTHpVejlBYnhvY0FYZUNFTnZuTTJ3LWFUN3JfU3JUWXBaeC1VUVBEZFBiMHJxemViOHZaZGhLTm1kRTNqVDdkVGdvZ0ZoOHB0Zlo1NTZySXMxVHB6VFJCMUlaXzdNVTcwRGpkX2IzNC1LWEh3V1AteDR4eTlmcHgwN29KXzMwWHJ6U0M3cDBK?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-16T12:45:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Ausbildung Kaufleute im Gesundheitswesen - Fachzentrum Mitgliedschaft & Beitrag (m/w/d) in Hannover - DAK-Gesundheit",
       "summary_de": "Ausbildung Kaufleute im Gesundheitswesen - Fachzentrum Mitgliedschaft & Beitrag (m/w/d) in Hannover &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
@@ -1682,6 +1684,26 @@
       "source_url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2026",
       "published_at": "2026-10-16T10:00:00+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-16T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Diacura in Coburg: Wie wirkt sich der Hackerangriff auf MRT-Termine aus? - Neue Presse Coburg",
+      "summary_de": "Diacura in Coburg: Wie wirkt sich der Hackerangriff auf MRT-Termine aus? &nbsp;&nbsp; Neue Presse Coburg",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOGJxRkh0dDRfQXhEZVJmZlhUcjN2VV9USU91N210eTExeUpXdm1IOTRwOHlpWXRoWlhvSzN2X3Q2bmo5bHNQb3VRTWw5bHM0VG9SRWZiTHpVejlBYnhvY0FYZUNFTnZuTTJ3LWFUN3JfU3JUWXBaeC1VUVBEZFBiMHJxemViOHZaZGhLTm1kRTNqVDdkVGdvZ0ZoOHB0Zlo1NTZySXMxVHB6VFJCMUlaXzdNVTcwRGpkX2IzNC1LWEh3V1AteDR4eTlmcHgwN29KXzMwWHJ6U0M3cDBK?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-16T07:00:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1746,6 +1768,16 @@
       "type": "News"
     },
     {
+      "title": "Ausbildung zur/zum Sozialversicherungsfachangestellten (m/w/d) - in Offenburg - DAK-Gesundheit",
+      "summary_de": "Ausbildung zur/zum Sozialversicherungsfachangestellten (m/w/d) - in Offenburg &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZjM5UjdXZnNUeTlFWDZmQXJDTkFKeFloM3BEZm9COFQza2tlN0N4R3E1MkJYd2VNNXlsNTRLNzVob2tsc1gtUGNYR0VVSU12bjVNcDVnX2xBU1VUd3NfQTBYSC1ZU25uNVdFbDQwQlk0Q3hGWHhsYUV6R0FCRmp2SHRRVTlnbmpqZkpFZnNpRU1VcFI3a2ZJZUFRSy14VzFVNVhfQmx6Z1FtZ1AzUTVRYVpyLWtva24wb1lOMmRlVXduWnJFR0RPOXZxVjc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-15T16:36:46+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Statistics on people with a learning disability and autistic people in mental health hospitals, AT: September 2026, MHSDS: August 2026",
       "summary_de": "Latest monthly statistics on people with a learning disability and autistic people in inpatient services from the Assuring Transformation (AT) collection and Mental Health Services Data Set (MHSDS).Data on inpatients with learning disabilities and/or autism are being collected both within the AT collection and MHSDS. There are differences in the inpatient figures between the AT and MHSDS data sets and …",
       "source_name": "Publication Feed",
@@ -1801,26 +1833,6 @@
       "source_name": "\"site:dak.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDBNeXBxN0ZLMFVxZTgyUlZ1SlRQTzFvWGFIaC1PcTlwMG5YTjdaS1JfaUNrYWVnOWhiTnlwOElhNlVlZ0RLRlVFZnJlb0k2SE9pczE4M1A0aFJkYnRZeVlWdDJ6aDAxak8tamhSSE1tZ0FDSUhvS2cxY1BPWTRPS2NtZTMtRUFJUjhuSWd2UlA2Y2lDS1RETm94dmtMTzlVZ3RTTG9FN3h6R2RLQU0tR0ZqWE01TWpxQVl0SVBnT1lFMHl3aElaUnRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-10-15T15:49:04+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Enthaltsamkeit – was ist dran an der #NoFap-Survival Challenge? - DAK-Gesundheit",
-      "summary_de": "Enthaltsamkeit – was ist dran an der #NoFap-Survival Challenge? &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaDJHdXp5VkpaZlJncXlmamJVNXlfUFBiX19LRklxTlkwaUFqaDV1djBHc3RSMVI0ajhVYUR0ZWkwVG9qVVVVR2dWZVVMZ3o1MFdxSkh4TE5tMllDeTZhOVVDRWNSV0J5ckp1RW1nM21JQ1ptQlFEN2VhcDZGdXBDM09hYk5XY1RBOGN3Y1FQbFpzbTU1WmxDbXoxNHdfSnoxT2hv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-15T14:42:40+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Sexuelle Belästigung: Deine Grenzen sind entscheidend - DAK-Gesundheit",
-      "summary_de": "Sexuelle Belästigung: Deine Grenzen sind entscheidend &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTmV6ZmxuZEdKSTV6dEVoaHQtYV9FTXlac29NMGhoNGZaS3EwX2tVbHgzMVlRRklKWXZkZWhkam1ncHFCZ3V6TW9KVWNIUlc4M2E3ek1RNmpOVnhzTHU4a2MzSGtfNWVpanNNLW0tMG5ILTdKdGhxQjB0aUxjYTVxRllKTWZsZFhtQ050UTFpUFhiNjZQYmVFZS1ybExRMjBZUkFRQlZYVkpPSE0taFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-15T14:42:30+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1941,16 +1953,6 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Linnemann: Zusatzbeitrag kann 2027 stabil bleiben - DIE ZEIT",
-      "summary_de": "Gesundheit: Linnemann: Zusatzbeitrag kann 2027 stabil bleiben &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRVdjaHBYRlNfbTh6T3ZGRzhydnVnMHFBRlBvNjBKeHdzUS1wdTNhNEJwTHBXTG01Zi1oQzdUV0Fic0Y4RlRFLUlpWG1hQmZJUmNFUm93X0xIanM4YW9BZ1JsbFVJamxBU2xTNWRWcFdzVlFsVXljanJ3SGt2NjMwV2dteUpGeVl4SFdYaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-14T18:02:57+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Elsner: BStabG zeigt Wirkung. Stabilität steht aber auf wackligen Füßen",
       "summary_de": "Die Prognose des GKV-Schätzerkreises zeigt: Das Beitragssatzstabilisierungsgesetz (BStabG) sorgt 2027 für weitgehend stabile Beitragssätze. Der vdek begrüßt diese Entwicklung, warnt aber vor neuen Belastungen - etwa durch den geplanten Pharmabonus - und fordert weitere Strukturreformen.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -2036,12 +2038,12 @@
       "type": "News"
     },
     {
-      "title": "Statement von Dr. Jens Baas zur Finanzprognose in der GKV | Die Techniker - Presse & Politik - Techniker Krankenkasse",
-      "summary_de": "Statement von Dr. Jens Baas zur Finanzprognose in der GKV | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMUczWXhSYlFramdiX1dhMnJsclV4MmVWVzZ5Z0d1TEpVdC02SGFCTjVIeEhBeXhyX0NjcDhGZVZ3UlZGYmxfUUpHcUE0dVY4SzhMTUZqOFFmOVM1VVZ0b3NWX2Z6bkVtR3NGNWFMd2tPc0JpR2xMZXdKM3Yxa2JqaW5mbEhJRGh1QlV6XzU1X2VqTHRKY0hNSHFJUTBDQjh2UE9KQ212WEg5QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "title": "Gesundheit: Linnemann: Zusatzbeitrag kann 2027 stabil bleiben - DIE ZEIT",
+      "summary_de": "Gesundheit: Linnemann: Zusatzbeitrag kann 2027 stabil bleiben &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRVdjaHBYRlNfbTh6T3ZGRzhydnVnMHFBRlBvNjBKeHdzUS1wdTNhNEJwTHBXTG01Zi1oQzdUV0Fic0Y4RlRFLUlpWG1hQmZJUmNFUm93X0xIanM4YW9BZ1JsbFVJamxBU2xTNWRWcFdzVlFsVXljanJ3SGt2NjMwV2dteUpGeVl4SFdYaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-10-14T07:00:00+00:00",
-      "category": "Gesundheitspolitik",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2511,6 +2513,16 @@
       "type": "News"
     },
     {
+      "title": "(S+) Mentale Gesundheit: Wie ein Psychiater erschöpften Führungskräften vorbeugt - Spiegel",
+      "summary_de": "(S+) Mentale Gesundheit: Wie ein Psychiater erschöpften Führungskräften vorbeugt &nbsp;&nbsp; Spiegel",
+      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeHJvbk44VDdoYW9PRmZHNE9DRG9HdkVoeURIUlczWFhMYU1WZFRFOFdXY0xmNkNRVVBDWG1sb0xvcXdXR0M0LXlKSW5fQnJ5eENUUURPamU2VGZUYUJVTlpIM0hSSmlhR1NGd2ZydDh2dERKS1R6UWwwdHNMUDI5M2RaSlgtWlN1am55a2o5M0xNeC1USUx4UUJWODBGbU1kT1hoQzk2aTdwTDhNZXU5U0dueHRtd0lSNWI0dTZVRURKZWRGRFpHNGhVSjBFcGRGU0JDSXVIVjJoTm9KUm8xUE9n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-05T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 28 September - 1 October",
       "summary_de": "At its monthly meeting, EMA’s safety committee (PRAC) carried out its broad range of responsibilities to manage the safety of medicines, including the assessment of&nbsp;safety…, Agenda Agenda of the PRAC meeting 28 September - 1 October 2026Draft Reference Number: EMA/PRAC/204838/2026…, PRAC statistics: October 2026 Monthly figures for PRAC outcomes based on the draft agenda. © European Medicines Agency, PRAC statistics:…, …",
       "source_name": "News and press releases",
@@ -2707,22 +2719,22 @@
       "type": "Studie"
     },
     {
+      "title": "Was macht die Urologie bei Frauen? Untersuchungen & Tipps - DAK-Gesundheit",
+      "summary_de": "Was macht die Urologie bei Frauen? Untersuchungen & Tipps &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc3MzeFhCVHlWUTJYS0p1SS1Fa1dMV0dRQ0h4MzNJVE12OXYyazdUMUx0b2ZzdUQ0WlFtSHBLeUtoTmQ5LThWVmZDX1BiV2Q1OEpQR1JOUG1aVGM5UmQxc2NER1R6aUpkT1B5Uk9MWExOc0wxSzlNOENQSF9WOU96MDZMRkx6TVc0Vmg1UVZNa3pJdUlfa1BWSnJqU2Y3dy1ueHhzWjlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-29T13:52:42+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Save the date! EFSA’s “Safe Food, One Future Conference” 2027",
       "summary_de": "Since 2002, EFSA has served as the trusted provider of independent scientific advice and risk assessment, ensuring safety across the EU food chain. Over the past 25 years, food systems have faced many challenges - from climate change and zoonotic diseases to antimicrobial resistance and emerging risks - and EFSA, together with partners and stakeholders across Europe and the world, …",
       "source_name": "EFSA | News",
       "source_url": "https://www.efsa.europa.eu/en/news/save-date-efsas-safe-food-one-future-conference-2027",
       "published_at": "2026-09-29T12:30:57+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Medizin Jobs in Hilden - RP Online",
-      "summary_de": "Medizin Jobs in Hilden &nbsp;&nbsp; RP Online",
-      "source_name": "\"site:rp-online.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LVzdUWVdPejRSRlduQXFkRUQ0cnl6VlRrNTBUWVF4RlNRLTZYanpuSVh3UzNLYWRROHFNTjZsT1dzanY1SWQycmNVdXBRZGF1bGNDOEd2aHdkZ0dtQUtLNWRaRlp5TkFS?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-29T10:02:03+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
