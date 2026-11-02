@@ -1,14 +1,96 @@
 {
-  "generated_at": "2026-11-02T00:05:18.378496+00:00",
+  "generated_at": "2026-11-02T10:23:36.274374+00:00",
   "window_days": 42,
-  "count": 301,
+  "count": 257,
   "items": [
     {
-      "title": "„90 Prozent der Patienten brauchen kein Krankenhaus“ - Kleine Zeitung",
-      "summary_de": "„90 Prozent der Patienten brauchen kein Krankenhaus“ &nbsp;&nbsp; Kleine Zeitung",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdHZpeGtJLWhjRmZfaUVKNjIxdkhsaW1Mb05Tdngxb3lvWjRReHFPSEJsWXE2cWY1Y0FGWENoakxPNnpWMmExbUtCOHdBRXptT2RCQjZQc1NoQ3lYeEk4VE1WaU0wdnRIeVJuMHhaRDBBNW9qbXB2dS1sV19Sa2xzX3UyLUMtVnY1LXNqNlRqZTZaRURJNXNLU2gwZmM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-11-01T15:00:00+00:00",
+      "title": "Infektionsforschung: Wie Listerien das Immunsystem austricksen",
+      "summary_de": "Forschende aus den USA haben einen Mechanismus entdeckt, mit dem das Bakterium Listeria monocytogenes seine Ausbreitung zwischen Wirtszellen f&ouml;rdert. Es nutzt ein k&ouml;rpereigenes Enzym, um die Immunabwehr zu umgehen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/wie-listerien-das-immunsystem-austricksen-171594/",
+      "published_at": "2026-11-02T09:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "MHRA launches patient safety essay competition for MedSafetyWeek",
+      "summary_de": "The MHRA reminds patients, parents, carers and healthcare professionals to report suspected side effects through the Yellow Card scheme for MedSafetyWeek 2026.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/news/mhra-launches-patient-safety-essay-competition-for-medsafetyweek",
+      "published_at": "2026-11-02T09:14:33+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Arzneimittelinnovationen: Konkurrenz aus China belebt den Markt",
+      "summary_de": "Chinesische Unternehmen holen bei der Entwicklung neuer Medikamente rasant auf. Shashank Deshpande, Vorstandschef von Boehringer Ingelheim, sieht darin auch einen Ansporn f&uuml;r Europa.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/konkurrenz-aus-china-belebt-den-markt-171598/",
+      "published_at": "2026-11-02T08:15:08+00:00",
+      "category": "Wirtschaft",
+      "tags": [
+        "Europa"
+      ],
+      "type": "News"
+    },
+    {
+      "title": "Fälschungsschutzsystem: Securpharm-Abschlag steigt 2027",
+      "summary_de": "Die Kosten f&uuml;r das F&auml;lschungsschutzsystem Securpharm steigen zum Jahreswechsel um 65 Cent. Der neue Abschlag betr&auml;gt 13,55 Euro pro Monat. Die NGDA begr&uuml;ndet dies mit steigenden Kosten und neuen Leistungen, FA-Chefin Daniela H&auml;nel ist dennoch erz&uuml;rnt.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/securpharm-abschlag-steigt-2027-171596/",
+      "published_at": "2026-11-02T08:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: Claversal Micropellets 1,5 g pU: Recordati Pharma GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-11-02T06:11:53+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Studie: Was glückliche Menschen anders machen",
+      "summary_de": "F&uuml;r langfristiges Wohlbefinden sind Beziehungen wichtiger als Geld, Status oder &auml;u&szlig;ere Umst&auml;nde. Das hat eine Studie der weltweit renommiertesten Gl&uuml;cksforschenden ergeben. Ihre Tipps haben sie zusammengefasst.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/was-glueckliche-menschen-anders-machen-171475/",
+      "published_at": "2026-11-02T06:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Mentale Gesundheit: Trainerlegende Hitzfeld über Burn-out: «Ich war am Boden» - DIE ZEIT",
+      "summary_de": "Mentale Gesundheit: Trainerlegende Hitzfeld über Burn-out: «Ich war am Boden» &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd3FaSW91QmxHMGxsV2xyY0FxLXRoeENjUGNQQkhYcWVQeDVreHRYTGhkOEZKYkE4aDItcmNoanJjZ1NsQm1DYU1SOHZJb0JVZVZCdnIzTzJaQzVJenNvcTg2ZndTcHN4OGV1djBWeE5MaTJLbVJiQzJjeFM5U1ZPamN1Y25zTzVFbktsUFpVU0VOVWJVM1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-02T04:33:04+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Mentale Gesundheit - Trainerlegende Hitzfeld über Burn-out: „Ich war am Boden“ - Bayern - SZ.de - SZ.de",
+      "summary_de": "Mentale Gesundheit - Trainerlegende Hitzfeld über Burn-out: „Ich war am Boden“ - Bayern - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQY1VDbDlnTjlvR0FhVmZCd3BDVGc5VHgyWVFuTVhEUlZzQzExbHBwUmpMT3hvVlg0YVNkRmxLVTkwbUpVZlV3bDl5eFZ5aXRnYy04VFFJWGNYMVpkS294NjIxZGxFQVVtaG1aRk14RTgxR09CX19iUEdWdFZLaUFOcGtkMHRIV0NKNE9JZFBReFM2UmVPREVTWXk1Z1lONDJsZlZnRHlwcXN3MTRJMUY5SFR3dDF0dWRIODBNZTRqQXZCNkNrenE2RjZCNmo5OGprVVBBNE9RdWp5V3ZRTmg0bjV2V01NbkJBOGROOUVndWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-02T04:33:04+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gesundheit: Barmer: Viele Hessen müssen ohne Not ins Krankenhaus - DIE ZEIT",
+      "summary_de": "Gesundheit: Barmer: Viele Hessen müssen ohne Not ins Krankenhaus &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaUNRdElha3V2c3l2UnNQQV9ENE1OeHA1MzFyZjUwYVcyUFQ3UGVnaFd3ZmE5UTYxN1l4QlVwS2pDU29KZXdNVkZZZnpFQzBrSFlzNDQxaW9mUXB6Tm04bFlSaVV4RjVTZVhwRGtKLXNMaE91cXhZQ2NzVVM1a2VPR1h5YWFvUjQ1Sm9MZXlSNmFOZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-02T03:00:10+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -40,16 +122,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/sekundaerpraevention-auf-vielen-ebenen-171583/",
       "published_at": "2026-11-01T07:00:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Oberarzt (m/w/d) für Psychosomatische Medizin oder Psychiatrie und Psychotherapie, Dr. Becker Burg-Klinik - Stellenmarkt FAZ",
-      "summary_de": "Oberarzt (m/w/d) für Psychosomatische Medizin oder Psychiatrie und Psychotherapie, Dr. Becker Burg-Klinik &nbsp;&nbsp; Stellenmarkt FAZ",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZmpUVkdKQkdaVW9vZEZXUHBqZHFMMjBXYTcyaGJyQXpvMG9KTl9XQXZQS25ZSXlWZzhPcWNDZzI1cGNCSGcwaS1UanczTGtOaWZWeFVnX2xLWVk4azVNMEIyTGthc0NVV3ZXdF8zSTNjS2JzbXI2UnVOQ3BKWDBGaXlXc3VzT0dDNURwTk9Hd293bmNPR1NVVTB0SWFFaUJrajZMMXMwOEdyUXdCWDYzX1pGLXRSd1dMcThTZ0E0dko1Yk1VeFFXSUMyWm54T2xReFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-11-01T06:49:57+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -194,16 +266,6 @@
       "type": "News"
     },
     {
-      "title": "Facharzt/Fachärztin (m/w/d) als medizinische Leitung im Geschäftsbereich Gesundheit, Landkreis Helmstedt - SZ-Stellenmarkt",
-      "summary_de": "Facharzt/Fachärztin (m/w/d) als medizinische Leitung im Geschäftsbereich Gesundheit, Landkreis Helmstedt &nbsp;&nbsp; SZ-Stellenmarkt",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbHJKQWJMQkt6d0Q4SV8wUFFHSW0zVXdSSV9zRUxxWTI5WEpkUW5PeGJER1V3VGYyRHRfeWdEcGJsRW40STJzQ1RRN05YNWFnbTZFTFFWRFp5Z1Z1emVwWFhjeUVPRkxyU01yUHAxQUhDVGZSMldLMk10eEY1R0lTQnFtWFQ4cUFxbEgxcTJCcklHRlNwbDlXSkM4OU5pUlBJaDF5Zm40U3dqUC1wNnRBbENVWFFZMVRBaGVxVVliWHdrYnE1MkU0U1lSZGg5WTRVSG0wSXh0NkJlSkJLQWtuRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-30T16:13:46+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "WIP-Analyse: Wäre ein Comeback der Praxisgebühr sinnvoll?",
       "summary_de": "Die von 2004 bis 2012 erhobene Praxisgeb&uuml;hr gilt nicht als Erfolg. Doch laut einer neuen Analyse des WIP k&ouml;nnte eine neue Geb&uuml;hr zur Steuerung der Patienten und zur Stabilisierung der Krankenkassen hilfreich sein. Es gibt jedoch wichtige Einschr&auml;nkungen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -220,16 +282,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdEJuUllBSEJSenlQVm40YVpZT0psODQ2TjdCUTM2cVpvXzU5Rkk2bFBqQ0xxYi1sZXlhUEd5NUl6Ujk5Q21mU2lzbFVfYzdNUU8yVEd6YnAwRTlZYzZMRHl5Q1lRNUlDbXVPZmpnTWppaVlmYXY0UmRSZnpmNS11MVJ6YU1VSDhUc1I5dzR6TS1ucDN5c0VLWWFIb2NheldIa0hOS1AwUFJWX2xnb21vY2FDQV9kSlk0TjZoaUJWZ0VkY3cyUUZvcU1ndnJtNlN6VmcyNThNS2NTeHJaeG40c01TTDc0djB5MVR1Ng?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-10-30T15:38:00+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: QUADRAMET pU: CIS bio international",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-10-30T15:17:57+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -280,26 +332,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/politiker-erleben-das-potenzial-der-apotheke-171591/",
       "published_at": "2026-10-30T14:00:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Facharzt (m/w/d) für Innere Medizin / Allgemeinmedizin, Bezirkskliniken Schwaben - Stellenmarkt FAZ",
-      "summary_de": "Facharzt (m/w/d) für Innere Medizin / Allgemeinmedizin, Bezirkskliniken Schwaben &nbsp;&nbsp; Stellenmarkt FAZ",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY0dnaFA5ZjAtUkQ3N01yTjZLR3RHa3VIanRtNHNWUUtld3hxaUI2Xzl4d3hQTllCbGo1UjluZ2NfMXR6X3ZYRDFqWTZLZjhXSTZpUjNCTmt1LTJCNWVEbzQ0N0o3cmxzOUlMVFB6SzJONTgtY2szbzdneUZyVUtGVFJUY1hIbXJjWXBwVVpOa00teEdJR0czR3VRQy1Sa3hUUkIzSWZBRjF3b0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-30T13:43:02+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Facharzt/Fachärztin (m/w/d) als medizinische Leitung im Geschäftsbereich Gesundheit, Landkreis Helmstedt - Stellenmarkt FAZ",
-      "summary_de": "Facharzt/Fachärztin (m/w/d) als medizinische Leitung im Geschäftsbereich Gesundheit, Landkreis Helmstedt &nbsp;&nbsp; Stellenmarkt FAZ",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYUhZekJYcjV6RkxLQlJsT2VSV1R6SnN6cG9oNkZBdDRMR2JCQ0ZwZ05DeU5YdnRvSUJxeVk0QWVaUTl2NlgtT1drNE0taWFrN00tRHJLLXRMaUVwZm5lWm9ZUDlHam5Oa0pRd0loYTh4bkkyb0MzeEVkbGZtbWxBbWpfbkMzSWVWUGJzWlBsWnE4R19GRE9CdUZhVGdTZjRzZWpTbzZhcGpGYU8wQ0lLeXRCcTV1Q1M1YmM2MXNHSlQ3YjZfTHp4VDJXOGw2WEpsWHRPNTJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-30T13:43:01+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -556,16 +588,6 @@
       "type": "News"
     },
     {
-      "title": "Stationsleitung (m/w/d) Pflege Teutoburger-Wald-Klinik, Medizinisches Zentrum für Gesundheit Bad Lippspringe GmbH - SZ-Stellenmarkt",
-      "summary_de": "Stationsleitung (m/w/d) Pflege Teutoburger-Wald-Klinik, Medizinisches Zentrum für Gesundheit Bad Lippspringe GmbH &nbsp;&nbsp; SZ-Stellenmarkt",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQlZzREozMTk2UG9oYmF6cFBuMGl3b3l4Ykg4ZXBMZzB6VFY1UW5PM3lZaXdyUTllOUhodFJvbUVIWEdZM1VhYTZQV09GQ3VoXzBKS09mcWxHb29EOTRPVG10bkxWX21YZnBjZEtUWF92UGg0SVpBc1Z4ZHdrY196UjlCM3ZjY2lKRFNyS3JxN0RuOHZMbnJwVWhQNlE5NUZ2dU9sa0pTdDFsbUNHMkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-29T16:12:20+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Hohe Dunkelziffer: Zahl der Ebolaerkrankungen könnte zwei- bis dreimal größer sein",
       "summary_de": "Die Dynamik des aktuellen Ebolaausbruchs in Zentralafrika alarmiert Experten. Inzwischen wurden mehr als 10.000 Infektionen und knapp 5000 Todesf&auml;lle best&auml;tigt. Die eigentlichen Zahlen k&ouml;nnten noch zwei- bis dreimal h&ouml;her liegen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -586,12 +608,12 @@
       "type": "News"
     },
     {
-      "title": "Fachkraft für Arbeitssicherheit (Bachelor im Ingenieurwesen) oder Gewerbeaufsichtsbeamte / Gewerbeaufsichtsbeamter (m/w/d), Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit - SZ-Stellenmarkt",
-      "summary_de": "Fachkraft für Arbeitssicherheit (Bachelor im Ingenieurwesen) oder Gewerbeaufsichtsbeamte / Gewerbeaufsichtsbeamter (m/w/d), Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit &nbsp;&nbsp; SZ-Stellenmarkt",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRjNxUVd4N3p3dUxuSkdGc3NxNFJvUTRveUtYaU5ZVGVPb0FMdGk5ME5lWVNyeGx0amZkZTJYXzBjRlRFQ3VEaWhaS3NlTVpjMlhEc0xsSjhMZXFfU0FrRTl3WUFDMVRDTGdVUDZ3UDVGa0FXX2x2RFpZRlZOSmdYNm9GNlNuRkRRckhmVERfdnZXWjZHb3BtbGFXc3ROcHE4TzgyV1g0YmpSbDUtUUhqMExSWmlWX1ZYWVQxSmg2YXNSWGNRVFN5eVR3MmI4a0pZb0NUVjZIUy1mVlk4NGszSW5yMjBwOFh2bkY5MDl6aS12UjVFLU9ENWVJZUVFaF9oSjlzWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-29T15:13:19+00:00",
-      "category": "News",
+      "title": "Neue Analyse: Weltweit steigende Schlaganfallzahlen",
+      "summary_de": "Weltweit sinken die altersstandardisierten Schlaganfallraten, dennoch steigt die absolute Zahl der Betroffenen. Das zeigt ein aktueller Bericht, auf den heute zum Welt-Schlaganfall-Tag aufmerksam gemacht wird.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/weltweit-steigende-schlaganfallzahlen-171567/",
+      "published_at": "2026-10-29T15:00:00+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -602,16 +624,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-29102026-171565/",
       "published_at": "2026-10-29T15:00:00+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Neue Analyse: Weltweit steigende Schlaganfallzahlen",
-      "summary_de": "Weltweit sinken die altersstandardisierten Schlaganfallraten, dennoch steigt die absolute Zahl der Betroffenen. Das zeigt ein aktueller Bericht, auf den heute zum Welt-Schlaganfall-Tag aufmerksam gemacht wird.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/weltweit-steigende-schlaganfallzahlen-171567/",
-      "published_at": "2026-10-29T15:00:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -666,18 +678,8 @@
       "type": "News"
     },
     {
-      "title": "Ärztliches Dispensierrecht: ABDA appelliert an Länder",
-      "summary_de": "Mit der Notfallreform soll &Auml;rztinnen und &Auml;rzten ein beschr&auml;nktes Dispensierrecht einger&auml;umt werden. Die ABDA bekr&auml;ftigt ihr striktes Nein zu den Pl&auml;nen und warnt vor einer Schw&auml;chung der Arzneimittelsicherheit. Auch die Apothekenkooperationen setzen auf eine alternative L&ouml;sung.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/abda-appelliert-an-laender-171564/",
-      "published_at": "2026-10-29T13:30:43+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-10-29T13:24:00+00:00",
@@ -692,36 +694,6 @@
       "source_url": "https://www.ema.europa.eu/en/news/ema-closed-all-souls-day-2-november",
       "published_at": "2026-10-29T12:30:00+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Mausstudie: Implantat senkt Blutzucker durch Elektrokatalyse",
-      "summary_de": "Ein Forscherteam aus Z&uuml;rich hat ein implantierbares elektronisches System entwickelt, das mithilfe von Elektrokatalyse den Blutzucker senken kann. Bei M&auml;usen war die Methode erfolgreich.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/implantat-senkt-blutzucker-durch-elektrokatalyse-171524/",
-      "published_at": "2026-10-29T12:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "LAV Niedersachsen: Kein Platz für Ausgrenzung und Hass",
-      "summary_de": "Der LAV Niedersachsen hat sich deutlich gegen Extremismus und Menschenfeindlichkeit positioniert. Der Verband kn&uuml;pft damit an eine Resolution an, die im September vom Deutschen Apothekertag verabschiedet wurde.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/kein-platz-fuer-ausgrenzung-und-hass-171557/",
-      "published_at": "2026-10-29T11:45:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Titelthema Koronarsyndrom: Die neue Ausgabe der PZ jetzt als E-Paper lesen",
-      "summary_de": "Die Pharmazeutische Zeitung gibt es auch als vollwertiges E-Paper: unkompliziert, immer p&uuml;nktlich und im Rahmen des Print-Abonnements enthalten. Die neue Ausgabe ist heute erschienen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/die-neue-ausgabe-der-pz-jetzt-als-e-paper-lesen-171544/",
-      "published_at": "2026-10-29T11:30:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -836,6 +808,16 @@
       "type": "News"
     },
     {
+      "title": "Facharzt Nuklearmedizin oder Doppelfacharzt Nuklearmedizin & Radiologie (m/w/d) – Schwerpunkt PET-CT - ärztestellen",
+      "summary_de": "Facharzt Nuklearmedizin oder Doppelfacharzt Nuklearmedizin & Radiologie (m/w/d) – Schwerpunkt PET-CT &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc0E1OWlQNGQzOGNGYTYzZmE1LUptNWgwblRfM2VCdjBVbGkzYW9mbFhieXNBV2Y4UWVmTjdpemVqZ2ZlUGZ2LWV0b3E1VnBFdmRKSG0tZGxyZEo1OWhSS1hWRmw3Ymd3T1JDV3hiaURLYW5BeEhMRVRpR21vSGdBdXl0eFYwWmZtODFrWGhtZnJMMzdNS3U0VkJVZ3ZzQkRhQTQ3VF84N2pFQ28tdXp6QjZxcnk5cHRTNWFYNGdVZ1MxdG9UTnNNd2xoM1l3Slpqb0Y2d3NEMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-29T07:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -916,26 +898,6 @@
       "type": "News"
     },
     {
-      "title": "TK-Gesundheitskurssuche - Techniker Krankenkasse",
-      "summary_de": "TK-Gesundheitskurssuche &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYlFoaEtYdmVtbVR3UzV3SndGOHJ1M1Y4OHFNTDAwd05IR1dTZkJ3dlpYSUVHMTQ3QU8tcmNMSE5aek1VTGtBMmUzZXQxTnhvSGM3Mk05ZldCclVtZ1JlTExiUl9ocUNyYnRNUTMxZDBac0hwMGpXTXQwa2RKQ0JXbl9wQm5malV0eEZkSTFVcGsxQmw4NmVBWGlTU2o?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-28T12:49:17+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "So können Sie die TK-Gesundheitsdividende nutzen - Techniker Krankenkasse",
-      "summary_de": "So können Sie die TK-Gesundheitsdividende nutzen &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQU2xnWWhZZzRqR25DalNVOFFGVEtDM3Q5OUc3V1pBTkZQcGU0bTlPWkNyT1g3WUl2akdkcEd4N2VGUlo3a21IZzMxNm5vODhXdGt2Y1pKbnFwUU50YjVlOUdpNTlXRVR5SkxGSjZfcjRSZVlQZnA2Zm5wY3pGcXptbkdUWWx1TnNneHlLOU5BQTVZUFNkRHhwaXB5Z01HWjA0OW5rYXBnNFRFREI5OEtGeHhIUF9RWmk4bUxVYTZKRGNLVmp5a3VXQk1keVA1S1Zocmo4RmtDcWstZUJ1ZkhHUGl0RjV6R2FVb0ROLW1feUZzQnpCaERaU2V3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-28T12:42:07+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Krankenkasse: Zahl der Grippefälle bei Berufstätigen auf Höchststand – News - Deutsches Ärzteblatt",
       "summary_de": "Krankenkasse: Zahl der Grippefälle bei Berufstätigen auf Höchststand – News &nbsp;&nbsp; Deutsches Ärzteblatt",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
@@ -966,16 +928,6 @@
       "type": "News"
     },
     {
-      "title": "„Kulturverein“ aus Jahrsdorf gewinnt Landeswettbewerb für ein gesundes Miteinander in Schleswig-Holstein - DAK-Gesundheit",
-      "summary_de": "„Kulturverein“ aus Jahrsdorf gewinnt Landeswettbewerb für ein gesundes Miteinander in Schleswig-Holstein &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPQkRVckVIaTc2Y1FYdl84d0pOcTBOVy1PT2JGeDhPVUpqaWl2Y1pNcVkzUmRSbjV3YUVnS2hYVFl4NHFZVnlMbUpIV2ZBOTA2NUw5YXNZeFgyTnpweVlTQmZJNTV2NG9ERWdWUEVFd0JicUZHQWRrWVZLMkdLbGpVU05xT09ZUDU1aHFiWGVSOHE3d3RJMkxBV0pKNmNwblRMTVFwWTFvZmNSMEhodXhLRWZfSjhfOFA1dGkwT20yMS1YanoxdWZqZjlZT3lhQ1Jzd0k3c280Sk1oZkRkZkJYcHBCR0NoemtrMURmWUotRUpoeDhoWW9XV2M4WHFyUDRMVVo1Q19Ea2VIVmM5NzZKZUNOS0ptSW05TU9wczhGb2VjT3k0RVJVTnJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-28T10:10:13+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Mit der ePA-App schneller zum richtigen Arzttermin: vdek fordert klaren Kurs beim digitalen Versorgungseinstieg",
       "summary_de": "Mit dem GeDIG will die Bundesregierung den digitalen Versorgungseinstieg einführen. Der vdek begrüßt die geplante Steuerung über die ePA-App der Krankenkassen und warnt vor einem digitalen Irrgarten durch parallele Apps und Portale, die Versicherte verunsichern und Doppelstrukturen schaffen.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -998,32 +950,22 @@
       "type": "News"
     },
     {
-      "title": "Vortrag in Viersen: Krankenhaus informiert über Stress und Schmerzen - RP Online",
-      "summary_de": "Vortrag in Viersen: Krankenhaus informiert über Stress und Schmerzen &nbsp;&nbsp; RP Online",
-      "source_name": "\"site:rp-online.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWXVDbmlzTGY1MjhJOE9wWmdhcDVUS2doSjUzNEhHbzFfU1FOS25ydEhiZWdNT1BrZVNWWU95Y2xaNUdhdWFsYXFYRWRDU0xlcGkzaXJkdlpTX0RieUNFblpXMmE2YWgzbFhWeTBXNk5aODFybDJJdGw4dGdQNWdjVmJ4R1lCMlN2dEVfYmk2elZOanZCdWxXanBtWUZZNVpzVzdoVFdLckt4dWthZGJ0Q3hR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-28T08:38:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit, die im Arbeitsalltag ankommt - SZ.de",
-      "summary_de": "Gesundheit, die im Arbeitsalltag ankommt &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzMDZEQ0k1ZnZtTEZ4R0Y2RjJ0UWJ2MWpGSFJmeTV3TEhTZ3lYUzBLTDBUM3E2NHNaREg0SmNzMmhhY3lZdWhwMHRyWEN0Um0taFhMbm5nVVFGT3pmcnFfV2Y4NFNfclROSEJldndXQmw4NEc3OTV3bk5jXzg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-28T07:10:47+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Primärversorgungssystem: Der TK-Vorschlag „digital vor ambulant vor stationär“ | Die Techniker - Presse & Politik - Techniker Krankenkasse",
       "summary_de": "Primärversorgungssystem: Der TK-Vorschlag „digital vor ambulant vor stationär“ | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbVM5OWJxc1ZVbmdfaUIyaEplSWozSDU3MkVEbTdTU0NnTHZ5WmFIbWhQYU1sZVpra2RVakNUT3pOTmtubFRSUE5aWHZMQlFGbkVHYTYtR0FXSWh3ZzNuRXZQQkQ5ZXRiZ2xjbG9hQXZEa2V5VHp6eXZBZUIyd24zV3ZObjA3cTJqQ1RjVFk1dmNYUGdTbnluaU02SWxyRlJrZGxGeGtTV3hQXzUtVTJPNVNVaXFDYkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-10-28T07:00:00+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Krebsfrüherkennung: Was der Ultraschall in der Vorsorge leisten kann - AerzteZeitung.de",
+      "summary_de": "Krebsfrüherkennung: Was der Ultraschall in der Vorsorge leisten kann &nbsp;&nbsp; AerzteZeitung.de",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQWNCVVRNU1RNb0ttd2hPYnc0MWN3M2xiTVk1NlBLTE5UOUdnR0pJNjR2ckN5ZG1OQ1FBQ2ZTV3p4dmNrdlMzZ19Makx1QWstYVFzQTdSM1B2ZlE1LUM4S3FzdmtZdDFYRnRraWdrUHU2bHNKemxBVTFMaGEydWpuMnlRZ0ZlSGZvV29iNUd4RzgwZnN4NXpPTndOREJ2VFJkTWM2VG9HWW9OTjB0bFFjanBwOWg2V3FC?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-28T06:12:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1088,48 +1030,8 @@
       "type": "News"
     },
     {
-      "title": "Was tun bei Sonnenstich? Symptome, Behandlung und Tipps zur Vermeidung - DAK-Gesundheit",
-      "summary_de": "Was tun bei Sonnenstich? Symptome, Behandlung und Tipps zur Vermeidung &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMDByWkJQbFhKWnd1Y3R4TGlCYUdlM2U4Q2pnWnFVcW04UnVYQ0JyZ2JURFgwQmd6WEt4cTd0Q0diYUswOURBdUg5QURNTmRHNzBwV0xLcU1BMzVsTDE2MXZCZU9GRnk4V2lCNThGMGNHZGtMQ2hQRnUtZGJnYS1TLWlod3ZxMzFiT2xnaFE3SHAzc3BpZGk5YjhleWJ5UzQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-27T17:24:12+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Feigwarzen: Äußerst anhänglich - DAK-Gesundheit",
-      "summary_de": "Feigwarzen: Äußerst anhänglich &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVnVNNHFFS2ZaTTRhejQ2WEJicEZJeTVSelotWDF1djY4TGhPSF95WWtmS2VSc3hRRTBPOEZEWEVjaTVVT19kakVOWVdjU2pibVFlX3M2VkRjSDMxTDBWZnpfeVJTSF9nMkZHU1dVdmtWNGxpX0JCT0ZNUjFPZzBDekR3cWVyQjc3MllEcTR3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-27T17:08:11+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "DAK ePA-App – der Schlüssel zu Ihrer ePA - DAK-Gesundheit",
-      "summary_de": "DAK ePA-App – der Schlüssel zu Ihrer ePA &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeFhiM1QtSVVWODYzUTNhcmtKckNNYWVZV2s3TUVLQThTNmJOYnZCZnh5UlhYRTVycXUtME01dnVybndaaVhSQXFPU1NQSDJWeFRUSy1KRTFrUXl3dlVibXRzbWtLNkNwbHh5MVFOLV94eE1SLXYtZF9MZmRxVzR2MkhqQmZGNmRHYjFwb3JaMGxSTjVobVFrQ2xoVllpd0xXQzhiV3Bn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-27T16:13:48+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit: Bildungsurlaub wird immer beliebter - DIE ZEIT",
-      "summary_de": "Gesundheit: Bildungsurlaub wird immer beliebter &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oaVNrTTdoeUpxTC0wNGNXSE0yU0dCRmZBX3ZTNWtQVm93cXNtNmU0WnFqZGV3bi05QzFmZlNPa3Z1aEFJejczZ3FQQVZ5TUFFejczZlVRQjNVOFVRVDZrM1dObkhnQ0tYelJRM3k4YXlyd1VLRURFMkRMSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-27T15:25:42+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit verstehen: Gesundheitsmagazin - BARMER",
-      "summary_de": "Gesundheit verstehen: Gesundheitsmagazin &nbsp;&nbsp; BARMER",
+      "title": "Gesundheit verstehen: Gesundheitsmagazin - Barmer",
+      "summary_de": "Gesundheit verstehen: Gesundheitsmagazin &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JOVpiSlhFZlc3ck02NGdLdHIwSFZIRXNZWHRLTER3MFNsSTU2dmppOWtvTDhtMjZkWFE0dnowcERkcEViTF9nbGZLV0h2b09mVDcxUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-10-27T14:17:00+00:00",
@@ -1220,16 +1122,6 @@
       "type": "News"
     },
     {
-      "title": "Notfallreform dringend erforderlich | Die Techniker - Presse & Politik - Techniker Krankenkasse",
-      "summary_de": "Notfallreform dringend erforderlich | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeWJkWE1ZVEh5ajBsUFJlbG5aclBQV2l0bmE5ZnFHT3A1UzBWaE4tQzh3MFkxTWpHby1qNW1SV2FrRkx2YVEzSk15R3FfY1FxRlJ5SlJGU1ZHdldDU01mX0pQTHZNODl0cEtadkpXUmlMbW4wSUJoWGlkZHBWZkZucllZcnU2N2JLNDVfZndtX0sxd0RCZWtIN2l0YjR6X0N0UXBMdmhTNHZGdVByNHp4MFdUSERrR01UTnZ0YXFR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-27T11:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -1240,8 +1132,8 @@
       "type": "News"
     },
     {
-      "title": "Ihre Krankenkasse: Für alle gut, für jeden anders | BARMER - BARMER",
-      "summary_de": "Ihre Krankenkasse: Für alle gut, für jeden anders | BARMER &nbsp;&nbsp; BARMER",
+      "title": "Ihre Krankenkasse: Für alle gut, für jeden anders | BARMER - Barmer",
+      "summary_de": "Ihre Krankenkasse: Für alle gut, für jeden anders | BARMER &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-10-27T09:17:04+00:00",
@@ -1342,16 +1234,6 @@
       "type": "News"
     },
     {
-      "title": "Gefährliche Viruserkrankung - Ebola-Patientin von Nigeria in die Schweiz evakuiert - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Gefährliche Viruserkrankung - Ebola-Patientin von Nigeria in die Schweiz evakuiert - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZF9fR0FOUFI4ems0SnJ0clJ5UjlTQnR2SzEwUWw1Rk1oOFhUWmxDMXp4MWxack5jbS1WRHJzcy1fd1lKYzFIVk05OHNma2RFcUFpN0RHQmd4OG1UQzg5RmtuTXNHZVdSNXZIdWNwQ3pwbmVKVGNTekZuek9PLWtaX2VETVhfRlhKWjRWcFMzeXFyZ2o3cE16NUNCMDdySEh5ZTlDQVNjU2VCakFfU0NZSUFnb1loUHJWTGNjUWxEWTQwNGtSWHB2WGRSUnVuemdpQjl3N3JKZndvYUliWHd0SXlUVVhBTWpyeXJENUt0eVFQbkU5MlpFVXMzTnNabXM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-26T17:34:09+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Provisional Accident and Emergency Quality Indicators for England, August 2026, by provider",
       "summary_de": "Provisional Accident and Emergency Quality Indicators for England, August 2026, by providerThis publication contains statistics for total time in A&amp;E, time to assessment, time to treatment, attendances where patients left before treatment, and unplanned reattendances within 7 days. It also compares data coverage in ECDS to the emergency monthly situation report (MSitAE) published separately by NHS England. Each report contains …",
       "source_name": "Publication Feed",
@@ -1422,16 +1304,6 @@
       "type": "News"
     },
     {
-      "title": "Food Noise: Von der Erfindung einer Krankheit – und wer davon profitiert - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Food Noise: Von der Erfindung einer Krankheit – und wer davon profitiert - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOFU3VnlpWlFNWHFoNEE1aWF0cl9hcURDWjNBb1VGR2RwU205QzVuUE5uemNCY3Byc1lNdmNFbWlGQ1k3TXpoMGlVbEZMNmZCRm92SktPb1hUWlN5ZnRMMHBOd202VWF5RWQ5T3JYX0xYVk4teERCdVMzWHFnbktnOFh2QWVfUEluVWRISE5kMmxNaWpDbTBhWnV5VEdfanBWQ3czXzFTNUxoY0FpdHhJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-26T11:57:04+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Fachärztin/-arzt für Radiologie mit Schwerpunkt interventionelle Radiologie (OA oder OAmbF) 80-100% - ärztestellen",
       "summary_de": "Fachärztin/-arzt für Radiologie mit Schwerpunkt interventionelle Radiologie (OA oder OAmbF) 80-100% &nbsp;&nbsp; ärztestellen",
       "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
@@ -1452,26 +1324,6 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Kliniken in Bremen sollen 500 Stellen abbauen - DIE ZEIT",
-      "summary_de": "Gesundheit: Kliniken in Bremen sollen 500 Stellen abbauen &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVDJ4WHgzeHk1dFBzZkQ0RDJ5RXZ1YXRUOUNINDJsUjlHLTVmVktlOHBwalJXM3M2VlpnampkQ0tOUFY2eUt5Vno0OXMzdF92ZkVlM1lQZTM5RGlWUGtxSDk5Xy1CMHBSTGpjYkhOQ194YnBjT284ZDhfSGctcUpDZ1VreW1nSWNo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-26T09:42:25+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit: Wilke: Mehr Zusammenarbeit mit Polen bei Medizinversorgung - DIE ZEIT",
-      "summary_de": "Gesundheit: Wilke: Mehr Zusammenarbeit mit Polen bei Medizinversorgung &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTThzSmRGMGdUeGhKT1plQlFGMnF0OXNlLTQ5TmNObnFmQmZONDV6cWZzYng4bGpZdm9YY004dGNOQ3JTVkhaRVN0OXJwOGFzWUFXS1NCc1h5djV2SFdhUGNnVl9sdGJ0MHZjTXB4UVhqa2lITDlXbEVWdzFKS0NyRXhrNkp4ZEt6RlQ0VHBjaWZ0MldfSGdqMQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-26T08:45:03+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Pressemitteilung: Gute Versorgung statt wirkungsloser Extrahonorare",
       "summary_de": "„Derzeit hört man immer wieder, dass es angeblich weniger Arzttermine geben müsse, weil Arzttermine schlechter bezahlt werden würden. Das ist nicht richtig und ein Affront gegenüber 75 Millionen gesetzlich Versicherten und deren Arbeitgebern, die über ihre Krankenkassenbeiträge die Honorare der niedergelassenen Ärztinnen und Ärzte finanzieren. Damit werden Menschen verunsichert, die auf medizinische Hilfe angewiesen sind\", erklärt Stefanie Stoff-Ahnis, stellvertretende Vorstandsvorsitzende …",
       "source_name": "GKV-SV Presseinformationen",
@@ -1482,46 +1334,6 @@
         "Versorgung",
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "SUP-Yoga: Entspannung auf dem Wasser - DAK-Gesundheit",
-      "summary_de": "SUP-Yoga: Entspannung auf dem Wasser &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yM3FNZDhMSFhHSkZUWnpqMHcyYldGdFpQR2s5ZGdYY29PaE5JbTRsVWRDNDA5R0NMdkNudFRWN1g4WFRKLURkVkVGa2RkVnFnTVlwTzRGaEFFNDFiZ3BEbFJ2N3NnbEdHbU5uX0NfaEJIRlJvSXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-26T07:56:53+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Nachbrenneffekt nach dem Sport: Gibt es ihn? - DAK-Gesundheit",
-      "summary_de": "Nachbrenneffekt nach dem Sport: Gibt es ihn? &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0lMWnBkaWlQMjJ5ZEFfaXNVc05wbGZrRUROOFQ4ZWQwTjVTeE9RV2ZtUS0zNndKekl3RG5rQXUtMG5kbGRKemZ2SlkyUGowM2U2UnpvUEU4eGtENkxPSE1jODJNODhucmIxYk05dnhtM3RoWjhTdWtoV0UzMW9PbVZYUDB0d29CMXVhWk5pVEd5a2otZHFlMThneFJ5UUtXdjVwWmlPMnVPVmtWSXNMSA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-26T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Nach Kompanys Zusammenbruch: Schuster: Trainer achten oft zu wenig auf ihre Gesundheit - DIE ZEIT",
-      "summary_de": "Nach Kompanys Zusammenbruch: Schuster: Trainer achten oft zu wenig auf ihre Gesundheit &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaDVRSjhhNkhCdmZsVmFNSl9kOEpGZms5OF84RXRUNTZSSXRVRVdCbWdxVDZDUUstRFBTY2NaSGxuTXNSVk0yTkFJTHJkN1duUzBLSGhsZ1NOdTBXM0NXbHZoQ1FlMzdxaVp0TlNxVy1Lek5qWkRWcVdMN3ZhS0Jnb3pCSEhIREVHWG53Qy1mcTRDNmFWS1hJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-26T03:45:04+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Nach Kompanys Zusammenbruch - Schuster: Trainer achten oft zu wenig auf ihre Gesundheit - Bayern - SZ.de - SZ.de",
-      "summary_de": "Nach Kompanys Zusammenbruch - Schuster: Trainer achten oft zu wenig auf ihre Gesundheit - Bayern - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNQ05RTHdmZ3I5WENtc1N1TzEyN3RORUlrc0NOVDdkYTg1ekttR29QbGFwVDhva1YtaE40NHVTRWlhX2dhUFp2bHF3QjdrZHB4em5pM1ZabjJBSWpxRlNaR2Y2Y1dHM21JaTROeWhJZTM0bHZtams1WHNRVzFzczhNRlF6TEFHOWZDcFJxQkVpNUxTNnhDWVFSTzd2Tmhpal83RW9xNVRsdnB3ZzJqVzZPdE5WZVFYenZDdmtyNEszOG5NQmRFdkNGeVRBSjEzZ1BGdVlmQV9VcmNONzlzbm1tbFZoUFRvTENRbjFaZjFXa19wRk41cmRLLTlSeVI1QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-26T03:45:04+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
@@ -1571,16 +1383,6 @@
       "source_url": "https://www.diagnosticimaging.com/view/study-pcct-higher-image-quality-reduced-radiation-dosing-eid-ct-obese-patients",
       "published_at": "2026-10-23T18:58:00+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Bayern-Trainer: Vincent Kompany in Klinik gebracht - Spiegel",
-      "summary_de": "Bayern-Trainer: Vincent Kompany in Klinik gebracht &nbsp;&nbsp; Spiegel",
-      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTDVTd2RpQnhmRF9wQWlwOVJrN01rWlhlSTYwREZaVmZseFRHemxGSTJJR0M2RWxBNVpHTDEwYWgwWTZ2djNMRGFoWUF1RlJmYS11RUg0elVtZjhMZzl2SFNHZlBjdlVjUDl2OFpwSExYTEJkVzhtWDFfbjlvWW9rTXNJUlY1VVpRblAxc3E2UUdrNzdFcWZ3Tm9faVl5NE5Kdl8zNmE2WFRtWlhrSXRQemVaTHRuUS11X2dtODlHb0h6eV9X?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-23T15:55:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1859,16 +1661,6 @@
       "type": "News"
     },
     {
-      "title": "Ernährung für den Muskelaufbau: Was unsere Lebensmittel leisten - DAK-Gesundheit",
-      "summary_de": "Ernährung für den Muskelaufbau: Was unsere Lebensmittel leisten &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcE5SOHJRTFM1RHJRYmpNcjB6Vkx1cnV4Nm9sNkxMVW01czFRcnF4Qlh2cE94N2hnNlk1bVJlVEdJU0hZdUllV0RRdzNNLTdDQWUySjV5bnFGM0ZUb1l5RkExaDhjZUU3OEZUMkVNUFQxczRoMmlNcnJOZ3N0dkt5dXpCWkk2Sm5tQkx5aExOMWV2OGNvdkhjRWl5QTVoamdSdHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-21T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Antibiotic therapy for pelvic inflammatory disease: a network meta‐analysis",
       "summary_de": "Antibiotic therapy for pelvic inflammatory disease: a network meta‐analysis",
       "source_name": "Cochrane Library RSS feed.",
@@ -1915,16 +1707,6 @@
       "source_url": "https://www.diagnosticimaging.com/view/mri-based-ai-impact-reducing-unnecessary-prostate-biopsies-",
       "published_at": "2026-10-20T22:56:00+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Decision: Parallel import licences granted in 2026",
-      "summary_de": "Parallel import licences granted in 2026.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/parallel-import-licences-granted-in-2026",
-      "published_at": "2026-10-20T15:58:47+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -2011,6 +1793,16 @@
       "type": "News"
     },
     {
+      "title": "Künstliche Intelligenz und mentale Gesundheit: Wenn die KI zur Freundin wird - Spiegel",
+      "summary_de": "Künstliche Intelligenz und mentale Gesundheit: Wenn die KI zur Freundin wird &nbsp;&nbsp; Spiegel",
+      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaVpKQ1FrQko5Rmw2SUJwOTU3b0E1NERPOS1oSWRjdGhmLTN5bzlpWjAzOW8xcWxSb3o3XzZHNnFSRFVQWGtJRHNYeU1mQ08zakRGV0ZabEljeHZ4X3pwMGZsQ3NnNExmX2dvNW40bGhNV3RNMTFBZ0xqOV9ScExCU2tuVTJWZF9uQ1ZxeTFtZGdrSkhGVll4bm9nU2F3TW1rOVBMcWZEeWZWa3F1X0lwR2l6YlZMUGgxWEEtS2ZvU0tXaUU1UzhldVYtRkVrMVZhZjUzTzNmX0VXVWM0VkNpRmxVTzc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-17T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Krankenkassenreform: Die private Krankenkasse? Abschaffen! Und die gesetzliche? Die auch - DIE ZEIT",
       "summary_de": "Krankenkassenreform: Die private Krankenkasse? Abschaffen! Und die gesetzliche? Die auch &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
@@ -2061,6 +1853,16 @@
       "type": "News"
     },
     {
+      "title": "Duales Studium BWL-Gesundheitsmanagement inkl. Ausbild. zum/zur Sozialvers.fachangestellten (m/w/d) - DAK-Gesundheit",
+      "summary_de": "Duales Studium BWL-Gesundheitsmanagement inkl. Ausbild. zum/zur Sozialvers.fachangestellten (m/w/d) &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPR0tfMm95b2VuallTU05xYjhqYnBtN1lodklJVHJ2bFc5WDBlQWh6TnlkcUo5NXNSbEJYbGNKRDBmRlNfUlZnYnZyN0l0VlpKSlhBZzJBSEVFeUlLNFVYaUs0Vm5ERkg0aWVBUDRJbkUtU2tHUWl4a2d1Z0dRQ3VQZzBDemh3X24tY091eG5yNGwtcmV0N2FnbGxsOUZ5WExGai1FZEFQb3c4NzVyYjNTLXJpcUV0WUo4eUI1a2NpeV9mV2x0Z3VQWDJ1RjNodGctM0t4WGFQLTBxWjl2T0kyckR1bVNXQU1yQXlIcnVScDI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-16T01:59:35+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Statins for adults with a first episode of venous thromboembolic disease",
       "summary_de": "Statins for adults with a first episode of venous thromboembolic disease",
       "source_name": "Cochrane Library RSS feed.",
@@ -2081,21 +1883,21 @@
       "type": "Studie"
     },
     {
-      "title": "Hochschule für Soziale Arbeit FHNW, Institut Soziale Arbeit und Gesundheit - ZEIT Stellenmarkt",
-      "summary_de": "Hochschule für Soziale Arbeit FHNW, Institut Soziale Arbeit und Gesundheit &nbsp;&nbsp; ZEIT Stellenmarkt",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSUZ5MnhKNGVOMDV0VWtfLTFKS2Nhb1RYeVVIWnJvd1JyeUpJOVF5ZlhwVHRrdnlWdGtpbW1ZTFc1WVdlZHp1YXFoalV4d1pfajJlTWxBalBtaE5sa251LUNCOGRERXZCSGhOUXNWQlN2TjV0ZkhKQnF0a3dQNjMwQ0pFWnJGZ3RBYkUyT3NOQ2VCTzZ6Rm8zbnRFemNxakdnMWV1b1NybXRyVE5ObjRTNVhGNmk3ZEFfcl9SWm9ycXdzUFEtRmpaSlM0SE1IbGRhdjZQYXU1eW94c2lYZTNYYi1nVV8zTndGYTlMd1o0eEo3VFByN2NVYWZDWmNvQ3FSUGdV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-15T22:00:58+00:00",
+      "title": "Ausbildung Kaufleute im Gesundheitswesen - Fachzentrum Mitgliedschaft & Beitrag(m/w/d) Ludwigshafen - DAK-Gesundheit",
+      "summary_de": "Ausbildung Kaufleute im Gesundheitswesen - Fachzentrum Mitgliedschaft & Beitrag(m/w/d) Ludwigshafen &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcHZrSWhsMDJ3NFRZZ2hjVF90VlVHbjB3eHdRZ2tjdkNtZjJjRDVXTWFqTWlLamNaNFZJU1J4bTRRNTlBWXlHeERobnNIVGlwb1lUWFhYQlZiMjU5SFRlNEVvSUVucExxOHpBRXpVWWttVk9tN3JjMTdpRVN0ZUV5MnJXMkxEWG96bEZYaEpMLXA0d2xHVF9KZF9sUjdOd3pnZWVfLUNuekxhTTNMY2FXZ1dNRlAwbVNjdmxVdkNiOWVpR0xpVmh6U1NsYTlEYmxyWE9GUThoaHNVcTFjNkN4WGRRS2VhRXRYaU5ZenZqaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-15T22:39:30+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Urologe Volker Wittkamp über Aufklärung und Sexualität in den Medien - DAK-Gesundheit",
-      "summary_de": "Urologe Volker Wittkamp über Aufklärung und Sexualität in den Medien &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWWw4OHpYMjVsNHVTcS1iRE4yemtJaWdVZUtyT1cxSlpfLVFtRmdHVTVFOG1RQmxHMTBsaWpjdWwyMGdQdHpLbEhJSm9JX202MG9ZY1JMS01DRUplNWZReU1MR3NCM0o1Uzd5ZGVDYXU0LXNPY1BIVFZrR25qUVNtd3p4TU15SVJ3WkJ6UGZZY3RyQjZLa2ZVYkJyZ2JpZ2xhVmlWLWhMVGpfZHhhcWlIeFN3QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-15T17:36:07+00:00",
+      "title": "Hochschule für Soziale Arbeit FHNW, Institut Soziale Arbeit und Gesundheit - ZEIT Stellenmarkt",
+      "summary_de": "Hochschule für Soziale Arbeit FHNW, Institut Soziale Arbeit und Gesundheit &nbsp;&nbsp; ZEIT Stellenmarkt",
+      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSUZ5MnhKNGVOMDV0VWtfLTFKS2Nhb1RYeVVIWnJvd1JyeUpJOVF5ZlhwVHRrdnlWdGtpbW1ZTFc1WVdlZHp1YXFoalV4d1pfajJlTWxBalBtaE5sa251LUNCOGRERXZCSGhOUXNWQlN2TjV0ZkhKQnF0a3dQNjMwQ0pFWnJGZ3RBYkUyT3NOQ2VCTzZ6Rm8zbnRFemNxakdnMWV1b1NybXRyVE5ObjRTNVhGNmk3ZEFfcl9SWm9ycXdzUFEtRmpaSlM0SE1IbGRhdjZQYXU1eW94c2lYZTNYYi1nVV8zTndGYTlMd1o0eEo3VFByN2NVYWZDWmNvQ3FSUGdV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-15T22:00:58+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -2151,26 +1953,6 @@
       "type": "News"
     },
     {
-      "title": "Getreideunverträglichkeiten: Glutenunverträglichkeit, Weizenallergie und Weizensensitivität - DAK-Gesundheit",
-      "summary_de": "Getreideunverträglichkeiten: Glutenunverträglichkeit, Weizenallergie und Weizensensitivität &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVl92YlhRdGs2TEdoQUJQakNDS1AtSTM4SU51OWxJTnRlTkxEd0FWcGExMWxlX2tEeEhyVG5GdmI4bkx3SkFSUURpSlZuLWM1N0J2LTBmNVdCWjhLemxHdHJKMVFETU1mWmswZU5OTjBHNV95UWFkVG12WDBsaFEwNEdzQ0JLMEcxM2dLazdrYkNoUk5RNTV0VW9TOTNmeU8wYWh2OVQzREdwRmxYZ3RIZTVhZ2hod25yTDBnQ1p4aXl2dw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-15T14:57:08+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Zöliakie und Gluten - DAK-Gesundheit",
-      "summary_de": "Zöliakie und Gluten &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUnB5R1oteDlybjR4SmRrZGtXYmNiTS1NSVdJSGVYYnF0OHVUbWw2V0g3WFNaaTc2MFNrZWJGcVpFYXIyY3VDUHBWNEgza0lwUTdtS1JzUFN4RXowQTVzODV5LXVPbFQ1U2huamVqQm1WNHNEX0RrbFRPUGIzc1ZxeGZDc21TSElVR1lVSWxQVTBOa2Q2a2RhNHVIV1lFSWpJZm1uUTVnbVpycmxiZEFj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-15T14:22:30+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "EMA recommends authorisation of Rasonque for metastatic pancreatic cancer",
       "summary_de": "EMA’s human medicines committee (CHMP) has recommended granting a marketing authorisation in the European Union for Rasonque (daraxonrasib), an oral treatment for adults with…",
       "source_name": "News and press releases",
@@ -2194,16 +1976,6 @@
       "type": "News"
     },
     {
-      "title": "Sexuelle Aufklärung - DAK-Gesundheit",
-      "summary_de": "Sexuelle Aufklärung &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeElWc3V5aGNYS05oN0ROQlJNTjVqeFZ5emI2aDN3TmFjZldJX1BabV9wSzZIOFNFbjlWbTZhbHc0Z3lRNEF3bGdBelF4cV9NdmktYXJfMFJ0SE5UbGtyZmo3a3p2RUVXUm4tc0xKLWZRRldLcGxHMmdTV0lZNWEzZ0Y1UldGTXRIQXZlSmNmQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-15T09:49:11+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Patients Registered at a GP Practice, October 2026",
       "summary_de": "Data for this publication are extracted each month as a snapshot in time from the Primary Care Registration database within the PDS (Personal Demographics Service) system. This release is an accurate snapshot as at 1 October 2026.Figures are reported by gender and single year of age (SYOA) and five-year age bands (up to age 95+) at GP Practice, Primary Care …",
       "source_name": "Publication Feed",
@@ -2214,31 +1986,11 @@
       "type": "News"
     },
     {
-      "title": "Hausmittel gegen Übelkeit: Tipps & Maßnahmen - DAK-Gesundheit",
-      "summary_de": "Hausmittel gegen Übelkeit: Tipps & Maßnahmen &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbUFyYjNDQWRQZmthb3E1RmtXZmdzRENpejhxZERhRWJiSlJkLVdwYnltMm53M1h4UjF6R1o1ZDI3NGFDVld2UWpPeVVlaXB4XzJ0WE1ySGVGdjlGSEpicDlHWnJvVTh5Q1ZoN2RnTDEwMGZyM0RkVEJWLVRaNHJ6LVVuLXFmckV0UmFKQUZ0dzZhYzFCa1lkUVNsakF4ejVC?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-15T07:56:53+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Notfallreform: Bessere Hilfe im Ernstfall",
       "summary_de": "Der Bundestag hat die Reform der Notfallversorgung beschlossen. Der vdek begrüßt vor allem die Vernetzung von 112 und 116117 mit einheitlicher Ersteinschätzung und fordert von den Ländern effizientere Leitstellenstrukturen, um Qualität und Wirtschaftlichkeit im Rettungsdienst zu stärken.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
       "source_url": "https://www.vdek.com/presse/pressemitteilungen/2026/notfallreform-gesetz-fuer-bessere-versorgung-im-medizinischen-notfall.html?pk_campaign=rss",
       "published_at": "2026-10-15T07:29:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "GBA-Beschluss: Mammografie-Screening demnächst ab 45 Jahren - Pharmazeutische Zeitung",
-      "summary_de": "GBA-Beschluss: Mammografie-Screening demnächst ab 45 Jahren &nbsp;&nbsp; Pharmazeutische Zeitung",
-      "source_name": "\"site:pharmazeutische-zeitung.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSl80R1FXQ0Myb2l6Nm9lYzB3WWNZLXRjblI5SWIxSWpxR1lZMnd2MFNSSzBvQmdBM1YzTXpGUmhKNGtQcGUtS2p1VWxzajgxNFhZZEkyN1UwbFlwNDdrWklTXzM1R2l4d3NjTkVkU3FsNXFrTFVXV1oxSHpwNUJib3Q2OTI4WkZfcGxXM1oxN08yZXhQdTdZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-15T07:00:00+00:00",
       "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
@@ -2288,16 +2040,6 @@
       "type": "News"
     },
     {
-      "title": "Schielen bei Babys und Kindern - DAK-Gesundheit",
-      "summary_de": "Schielen bei Babys und Kindern &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONlREYzRnMDRTdWZmaWNOaWsxZThWcjJ2SkFzTF9XQ1AtdnotOElHMzF4RjE0bjBBQlNEYlJrdUZmSGdVYWc1cnAyOUhZLVgyZUpHRlUtY2QzSlRmbTBVcWp6RlhrQm44cFY5dzZCT0FUaVFxSXNEWWdsUDl5ODVhbjRQSS1hM1dwTDhsNWdfbE44cFpk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-14T14:05:57+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "[MI] GP Contract Services - England, 2026-27",
       "summary_de": "The GP Contract Services publication provides data relating to the delivery of primary care services across England, agreed within the GP contract(s) between NHS England and the British Medical Association's (BMA) General Practitioners Committee (GPC). These data are primarily used for payment and management information purposes as well as for wider usage to help support commissioning, planning and policy decisions. …",
       "source_name": "Publication Feed",
@@ -2337,16 +2079,6 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-network-contract-des/england-september-2026",
       "published_at": "2026-10-14T08:21:22+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Pflegereform 2027 im Überblick - das ist geplant - Die Techniker - Techniker Krankenkasse",
-      "summary_de": "Pflegereform 2027 im Überblick - das ist geplant - Die Techniker &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN1g3TG1NZnZrMVZNMElkNzBuX0ZCWnF6aE1RYTNDSWRBU0g1Ym1QVzRZbDZHTmt6UV9YMFVRZndhYlFMZWR4ZDRLWi1rcnJnRUVrLWh4aGZUckdGTzNhT0VHQzJTUURhT25waU1GNVNoY3J0Um9SRGtDSDNTdjM1VlY1eExXbDJ5cXRGbHpDRlBJdTZSNjRPWm5sUUtQUVhzRWlrOTZsNVkxMV84YkpLQzdaN3huZVhnQVZQWWdhNkg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-14T07:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2411,16 +2143,6 @@
       "type": "News"
     },
     {
-      "title": "Interview erste Hilfe für Babys - DAK-Gesundheit",
-      "summary_de": "Interview erste Hilfe für Babys &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLWpYdGJfQlVjdks5OWtud1J3ejBBWklWZVRfNTVOOFpUTWQ3S1dpY1l4Y2lHXzh2VjZ3djMwVjZCb3BZUDBHX1ZRdUYxWXZISG5ZWnJMdkRzWXZVVGhRcTQteWlkTGh3WE0xb1JsM25WNEtzWml5UnlOejBnSnJVVWxfempzclZDRmtUejJTVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-09T22:53:10+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Meeting highlights from the Committee for Veterinary Medicinal Products (CVMP) 6-8 October 2026",
       "summary_de": "CVMP opinions on veterinary medicinal productsThe Committee adopted a positive opinion, in exceptional circumstances, for a marketing authorisation for Bovilis Lumpyvax&nbsp;(lumpy…",
       "source_name": "News and press releases",
@@ -2461,16 +2183,6 @@
         "Versorgung",
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Ureaplasmen: Symptome, Behandlung und Risiken einfach erklärt - DAK-Gesundheit",
-      "summary_de": "Ureaplasmen: Symptome, Behandlung und Risiken einfach erklärt &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUFNSnUwYmJ6blV4Ri0tNklncXlsNzRkdUlhb1VkREI1SzhnVFdtVlhZd0gtYTBKemtqMDNwUnpHNWRlbTlnLVhoeXVJUi1VWUJxSXB2WlFlMU9IaUFlTEhMSUJpM1J6NUt3eEFCZ3E2WlJOOExkVjVFYmtLTHVNN3UxS1FlRVZveEdjMHZjWDBEbFduZ0JxU0xwQ2U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-09T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
@@ -2582,16 +2294,6 @@
       "type": "News"
     },
     {
-      "title": "Brainfood: Nährstoffreiche Lebensmittel fürs Gehirn - DAK-Gesundheit",
-      "summary_de": "Brainfood: Nährstoffreiche Lebensmittel fürs Gehirn &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNelZ4N0Q0OFc5ajdzSjRLdWRDRDNmZkJNT255UDlpMmZ0ZEVlTXZRN2Q3LWp1QTJPSnBJaVBadlZCaUgxd3c1eE1OZWVBZzdqaGdZLVZWMU03X0htYncxTDVQM2hPaXE3M2ZhU3N5eWRjWTdhWlh0NlF3V2h2dTVzRC1YSjFXcmN0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-05T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "(S+) Mentale Gesundheit: Wie ein Psychiater erschöpften Führungskräften vorbeugt - Spiegel",
       "summary_de": "(S+) Mentale Gesundheit: Wie ein Psychiater erschöpften Führungskräften vorbeugt &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
@@ -2618,16 +2320,6 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-snomed-code-usage-in-primary-care/2025-26",
       "published_at": "2026-10-02T08:10:15+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Penis und Hoden - DAK-Gesundheit",
-      "summary_de": "Penis und Hoden &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd0pGWGlJeE1mRnRGaFVoSUJVMHUyUUZ0Ni04WHpMU3BBRlgxZFVsd0lTYTc2ZG1UeEVTQVBBSW9tUWswN2RHM2RjVmxvMG10eVlKSVA1LWVTZlNFcnZ0N3NHaFRQalNXdXo1TDh2TkVDWXhudnMybVNId2FPUVdjaUlxdkFjWFh6S2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-01T12:56:46+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2682,116 +2374,6 @@
       "type": "News"
     },
     {
-      "title": "Neugeborenen-Hörscreening - DAK-Gesundheit",
-      "summary_de": "Neugeborenen-Hörscreening &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZm94dTVPcVRnQ2tTUHhWR3JDLU9iOF9vUE9XcWJJclhwc1luTml4bjFYdTZFQzJkN0oxaFJ6MHk0RExkejMxVU8teTZtOHBvbUtvQW9lb1Nlby1JdlRHaGEyN1V4d0pUWUFVdVo3WG5kMlZqNVVOci1LRjB0Q3NQd0VZRHNUX3NlVXFLVWtxZWRuSG1sZDR0RVNvVldoRC1obll5aW5WWXdEZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-01T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "HPV-Impfung für Kinder und Erwachsene - DAK-Gesundheit",
-      "summary_de": "HPV-Impfung für Kinder und Erwachsene &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc21iZHlwdlZBbTZvSzNxR2RtWUJnSWdDN21pTmRxdy1yOUtDLVVfcmN2c2ViV0drb19UUkFRMUJTTkRmdkdOYW1jZHdwdENDTTVKdjIzNTEyeU9HYzctVG1NZktsLWltWXRIVnpac2JEMDNJTnhhVzh2UDZEX2pBQ3BpaE9LZlUydmpvSTViaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-01T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Piriformis-Syndrom: Das hilft gegen den brennenden Schmerz im Gesäß - DAK-Gesundheit",
-      "summary_de": "Piriformis-Syndrom: Das hilft gegen den brennenden Schmerz im Gesäß &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdE11MHI2UHJWT1ktTFdoUk11TXdzeXBBRDVhQ0tXNDlwbFFCLW9YVUx3SmZacDZDLWxZS0tBeGFJdmxzbFFiRmdRc0FzYndmSzZ2QVJEYzZXbk1ySG45S0xHdEJIejA3aUxWandidU82b3Rob1paTXgyLURoY2FTQ0g3bk1yeXlTZ2ZmbFc2amFjYkg0OUJ5WVgzWDY4bm5UX2dRdTNUUlNWX19FOWxJVw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-01T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Wie viel Schlaf braucht man? Tabelle & Tipps - DAK-Gesundheit",
-      "summary_de": "Wie viel Schlaf braucht man? Tabelle & Tipps &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQby1CTEtxTW1FbFJRTUVWQlRrU3pWYzA0NWc0dlRTNEVSNmFsZXFjbWNBWHM1MHFOUklZbmdtMjd6VjlUMG11eV9FLThMZnFzOWlmMUp2TERodjRxOHpNSGg3U2tBMnh3RXBBZlp1VjFPVF8xRy1Cd05QV3c0WWMxRHJiVDRvb3U0UnVBT1pzZGlMX2R6UU1tQ0kzbHk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-01T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Darmkrebsvorsorge: Krebstumore im Frühstadium erkennen - DAK-Gesundheit",
-      "summary_de": "Darmkrebsvorsorge: Krebstumore im Frühstadium erkennen &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNk1seXdPbDZyMl9vaHpvOWRKaVRCNENVNEZ5Y05VTU1JUmRPa0d5cnlGUDB1eUZORVNIWWUzYUVvbUMyM2xWRzRJa215cmFrNGg2REVybE1rSGowZG9jUFdWOU9nUF9teEY0OVp3bm9wRWoyUXZ6dUZTMlNvZXpVc1ctNFlhZ2dqbW9yLVBIWmJ3YVA1dnFZbl9vb1Y?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-01T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Wie hoch ist die Belastungsgrenze für chronisch Kranke, die sich von einer Zuzahlung befreien lassen möchten? - DAK-Gesundheit",
-      "summary_de": "Wie hoch ist die Belastungsgrenze für chronisch Kranke, die sich von einer Zuzahlung befreien lassen möchten? &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWjBMZnp0clNtQVNncDJDYmV5WjF5STdhUEtwdDQ3dXNnUHVGV2ZEQ2hDNVY0SUJVQUdkVzJzeDM1TFpaZWwwQW9iR2U3XzlpV1JpdnlMN3J0dldHd25YcVNMX3NfQUJiU3p3VVRISmVfMGU3M2EyVWd2R3NEM0M3QlJETVJUejRmbmZfRENwT0tVeS15UjZ0RXZIa19wS3lMV3l0eHZ1QTdVYk51Q2VSN3NGRWc1Um15eXJpV2JvdWxaQnNTZzdFdUJRa3Y?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-01T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Welche Kosten übernimmt die DAK-Pflegekasse für die Verhinderungspflege? - DAK-Gesundheit",
-      "summary_de": "Welche Kosten übernimmt die DAK-Pflegekasse für die Verhinderungspflege? &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZWVXSDQ4QzJLUmF5Q2p6WTNYMUY2UGRBS1RkdHZxRnNDaW9TT2JGbFhZdEE0ZENJZGp3dGFOaW5KQ0tNYmRhbGFYZ2J0MTd0YWNlY2N3a1JOaEJKRmI2dWxVU18yY3VQbWhpbUNRNXQ4T2RydVhITHpXdXZWX0lOb1pTU043WGc1bnpfMG9OMGg1cHJOaW5ubHNQc3BENDROdmxXaXBqY1puenpFb3ZkWVJZQ1Fxd1RhbGJIZGlmWGVtZUtLLUV4ZGJCaWZnUi0wQkYyeThn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-01T07:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Kann ich auch ohne Gesundheitskarte zum Arzt? - DAK-Gesundheit",
-      "summary_de": "Kann ich auch ohne Gesundheitskarte zum Arzt? &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVFUxWTdFTlNlWDRjZWMxc19vQ0l6VkdGODM0M0lCU2JMTzR4NnZLZ3lETVI0c0taLXpXeTZwdEFoSXVGYmg2Z3RUdUxhdFUyM0I4MFFNVEFTSExIOHR3djBtNkdEZWlobkVMRVdiU2d5ZEZ2N1RVTGR6bjJCckpXSWVHeWh0cGprOHZEM1ppSXdoVU1EVzJLeXB5VGN3QmNHMFpqczdUb1JiMm9FME9pUG9GTWJGN0pM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-01T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Kuren in DAK-Vertragsfachkliniken - DAK-Gesundheit",
-      "summary_de": "Kuren in DAK-Vertragsfachkliniken &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOejcyeVI2d3JSd1NrREhRUWJsbk1WQWI3WmVkVTRRVXlYZHpJTGk1aDVHMTctNVpQMEdTMURsWXMydG1vUUcyeHpnaG5tQlJ4UnF1MXpjOXFfakE5M1ZFTWg5ZHBpSXhjTk4yWDVINFVWRjJnYmZiTFFrTDEzTjF0YjJTdnE0aC03ZEY3ZUdpMTNEZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-01T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Capoeira – Tanzen trifft Kampfkunst - DAK-Gesundheit",
-      "summary_de": "Capoeira – Tanzen trifft Kampfkunst &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTGYwd2Z4dkFxWTd2V0hWc1lYNmFrclNhczg3MGcwQ21sajlzOGF1eml1S1l1U0NMQ19qeWduMFY4TEhBVXNmdjNRcG1KcDB1SFA3N0dYWVduWU9jNVFrOXN4OXFFZWk1YXMxOUU3RUtlLTBWTWlQOXB1M09xUmtYNVRxeEYwWnBQSDNxZlJfejNDVnFTQ0pMNUZTU1JZWWJFd0l4WmVR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-01T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Pflegeversicherung im Überblick - DAK-Gesundheit",
-      "summary_de": "Pflegeversicherung im Überblick &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaWd0Q2w0elQ2ZmNFQTMxQmNQWVNOTTZGcTNLcVEyTmxpT1pPZG55a1VaUWlPWFpFaWNYRFNta180Wm05YWFIRlB6V3gtX3otMGQxQTFwVlJLLVdNam9rV0lmVGZ1R1dVZ0ZZeFh0T0d3cUZxLURrZkItT2xMWTFqOEtPT0w1dw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-01T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Pressemitteilung: Löhne in der Pflege steigen bundesweit durchschnittlich um 3,4 Prozent",
       "summary_de": "Die Durchschnittslöhne in der Pflege steigen in diesem Jahr weiter an. Nach Berechnungen des GKV-Spitzenverbandes sind die bundesweiten Stundenlöhne in der Langzeitpflege gegenüber dem Vorjahr um 3,4 Prozent auf 24,50 Euro gestiegen. Die Entwicklung variiert je nach Bundesland: Während im Saarland und in Rheinland-Pfalz der Anstieg bei 2,7 und 2,8 Prozent lag, stiegen die Löhne in Thüringen und Mecklenburg-Vorpommern um …",
       "source_name": "GKV-SV Presseinformationen",
@@ -2838,16 +2420,6 @@
       "type": "News"
     },
     {
-      "title": "Zyste am Eierstock (Ovarialzysten) - DAK-Gesundheit",
-      "summary_de": "Zyste am Eierstock (Ovarialzysten) &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMVF4b0FXdURPQ2FuT0xHUndFSERPLU45UUUyRFI4WXJyN1AxekJ6UkwtcnQ3OE9VWUoyZUlkdm1PNFBjelFhSWxpcEJsT3RxUDJXOENSVlUzeXJyRHFoeTVhZ1VrLVBnRWVhZVlIX1VVU0lWWnkwNFRuQVhoZ1dhWGVaaTFfbXFXRkVkTUNmbUtDUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-29T11:50:04+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Pressemitteilung: Ausnahmen bei Herstellerabschlägen gefährden GKV-Sparziel",
       "summary_de": "Heute wurden die Empfehlungen des Fachgremiums Standortklausel für Pharmaunternehmen an das Bundesministerium für Gesundheit und das Bundesministerium für Wirtschaft und Energie übergeben. Die Vorschläge in der nun vorliegenden Form könnten die gesetzliche Krankenversicherung (GKV) nach Einschätzung des GKV-Spitzenverbandes mit 1,3 Milliarden Euro belasten.",
       "source_name": "GKV-SV Presseinformationen",
@@ -2857,16 +2429,6 @@
       "tags": [
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Intimbehaarung: Alles, was du wissen musst - DAK-Gesundheit",
-      "summary_de": "Intimbehaarung: Alles, was du wissen musst &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc3otWm1paldqVTdtV2VpaklIZmdTVjA4S3p2WmNYQzJqMG9LdWJNMDRqbmNsbTlxcjJiQjdQZGNVdWxhQ3kyamFDZktwaEhkT1NCYkE4N3k3bzgzMGF6MDk1ZC1VVFZRd1NFcjdjUEhWOVhhQ2lhSloxNW8wN0habVR5V2R5ZDBiWVA4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-28T10:57:44+00:00",
-      "category": "News",
-      "tags": [],
       "type": "News"
     },
     {
@@ -2883,12 +2445,32 @@
       "type": "News"
     },
     {
+      "title": "Ausbildung Kaufleute im Gesundheitswesen - Fachzentrum Arzt (m/w/d) in Braunschweig - DAK-Gesundheit",
+      "summary_de": "Ausbildung Kaufleute im Gesundheitswesen - Fachzentrum Arzt (m/w/d) in Braunschweig &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWGE1NlF2ZHJ4Z0VhUDE3ZEwxaTFhUEVBR1VsN1hWMDVNUUtHY291UDQyWjFPSEVhZXBIN0VmZUNYR1JWZGRPRWhYcWlzQzFhaUdZYmRFMFo2SkNYOXF5WWdfSm92azlsYnR2OW0xWTRscVF1OW5CUVg4QXlHVVdvM1JXRWtSTUlkeFZ5c2RRLTlOM2FfNmJsYmlqdkc3U2h0OUJzZ2VWUFhqSV9qeE0ya1VQYWRCVUxvdENDaUxlNWE3VzdvSHgwSHZSUHh3TVV6Tm1KLW95NFA2Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-26T01:46:07+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "NHS Talking Therapies, for anxiety and depression, Annual reports, 2025-26",
       "summary_de": "This statistical release is the annual report on the NHS Talking Therapies programme from 1st April 2025 to 31st March 2026. NHS Talking Therapies is run by the NHS in England and offers NICE-approved therapies for treating people with anxiety or depression.The publication contains analyses on activity, waiting times and outcomes such as recovery in 2025-26. In addition, the report …",
       "source_name": "Publication Feed",
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-talking-therapies-for-anxiety-and-depression-annual-reports/2025-26",
       "published_at": "2026-09-25T18:32:23+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "FEHLVERHALTEN - DAK-Gesundheit",
+      "summary_de": "FEHLVERHALTEN &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSnNUMHJMM09kR1p1OUYtTlpnNnhZRVFrc3FhMk9vakJWbUZQVFNVYTlfeUdTQjBYN1o3UEY4aURXcjk1eEowdzJzNHdHdGxsczB3bzFQU1d1UlhybVRiaGJQTmhHd1I3a0NMV1BpQ0dKZndnR20xU2NJNXZ3aHY3bDlCZm9qT3Q2Tkl6WjVkN015c0NzZGR6WW5qVGtyN3ZFaUFXSEo4aXJaTjgyQWN6cGxqaUVONVFqU2FhS25faE92d1hHYzZSZjNHZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-24T23:57:24+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2993,6 +2575,16 @@
       "type": "News"
     },
     {
+      "title": "Ausbildung Kaufleute im Gesundheitswesen (m/w/d) in Wetzlar - DAK-Gesundheit",
+      "summary_de": "Ausbildung Kaufleute im Gesundheitswesen (m/w/d) in Wetzlar &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVm1ZVnpBVzlCYy14cDl0aGJMNkNjbUVnTVdHNm05MlgxRTZRWmV6dTRIRjhNeGVHWjNnU2EzV3Btd09aa2FpRjhCSlVvdnpQUDByVy0xR1k4dy14QTE5bko1ZEp5TklUZV9FNWlWRTc5b1dGY3BkbFA4U3BsUXU1ODc2U0hiSzF5ekM3UGJ3WEVHRk9LQUpXLXJ1dW9qbnM5enBlUE5yaTlDMVBseTltRjdMWXZHdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-23T15:25:25+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Pressemitteilung: Honoraranstieg in der ambulanten Versorgung für das Jahr 2027 um 2,2 Prozent",
       "summary_de": "Heute hat der Bewertungsausschuss, bestehend aus jeweils drei Vertreterinnen und Vertretern der Kassenärztlichen Bundesvereinigung (KBV) und des GKV-Spitzenverbandes, in den jährlichen Finanzierungsverhandlungen eine Erhöhung des Orientierungswertes um 2,2 Prozent beschlossen. Der Orientierungswert bestimmt den Preis für ärztliche und psychotherapeutische Leistungen.",
       "source_name": "GKV-SV Presseinformationen",
@@ -3029,45 +2621,12 @@
       "type": "News"
     },
     {
-      "title": "TK-Bonusprogramm: Vorteile sichern durch Fitness und Vorsorge - Techniker Krankenkasse",
-      "summary_de": "TK-Bonusprogramm: Vorteile sichern durch Fitness und Vorsorge &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkF2V1dGdGNQNGVoQmlQZW84TFBKMmc0cmlvNWpqZVRkVkRRYjB3OUFyYU12UjNtLTNFbVBKZzU1U2puS3A5N2dHVlU3cXgtUms5U0c2aTBuOVRVNGx6NlRaNmFMakx6UUlkdHV1ekRGUXFoOVFsTEdIZHhZVVZHQ1AxUDFwQnhCY2VVenE1d1gxanUzOUN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-21T16:04:15+00:00",
+      "title": "Ausbildung zum/zur Sozialversicherungsfachangestellten (m/w/d) in Braunschweig - DAK-Gesundheit",
+      "summary_de": "Ausbildung zum/zur Sozialversicherungsfachangestellten (m/w/d) in Braunschweig &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVkhjbElGREZLQkN6ZWFfU25iOWFLVUh0VllBZVhWWnlIZk9VZ0xvLVhwNzhteXNtYlFrSGVrMWZVNGFrS0dfQkVEMjBQSjVmR3B6Tk80ajlzbXlvaF81WnV2UkZ5U3hxTWJBYnMwODIwOEwxeU9TT2djTXZWVFd4ZklHY3RCVloyVVBPcmh1dUhHR3AwMVlDb3A2cnowMDlDeEhMdno3RWZqYnhtU29yNzk0aVZGVnlCOG9KWmdhYWhIajNqbm9MQzJOYk9YZFpWX2FFLQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-21T20:04:53+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Pressemitteilung: Gute Versorgung braucht umfassende Qualitätssicherung",
-      "summary_de": "Wer sich im Krankenhaus behandeln lässt, muss auf hohe Qualitätsstandards vertrauen können. Sie verringern zum Beispiel Komplikationen und sind die Grundlage dafür, dass sich der Gesundheitszustand einer Patientin oder eines Patienten nach einem Eingriff möglichst schnell verbessern kann.",
-      "source_name": "GKV-SV Presseinformationen",
-      "source_url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2310438.jsp",
-      "published_at": "2026-09-21T08:27:03+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Versorgung",
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheitspolitik: Krankenhausreform: Erste Regionalkonferenz in Lübeck - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Krankenhausreform: Erste Regionalkonferenz in Lübeck &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYU5ka2NWNVhQRGtMTUdRYm1LV0F4VDQtWVVJcTRuWUNITktYeVRaek5hQURpeWRCb0ViZmlOOU8zZDZucl9Cb3UwRy1EMS1ranIyaUJmMzZlOG83dnhRc3haaHkyWVg2TUJJel9NMW5TQmQ2ZGlKMkxQX1lnYzRQRDFPZ1kzR3dHV0ZoYXdUQTJGQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-21T07:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheitspolitik: Merz sieht Gerechtigkeitsproblem im dualen Krankenkassensystem - DIE ZEIT",
-      "summary_de": "Gesundheitspolitik: Merz sieht Gerechtigkeitsproblem im dualen Krankenkassensystem &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZFFGdXBUQW1QMGI1YmZxQ2pRZTI5X3pUWjJuRU9XRkoxVF9iYUw2WmlyOUh6eno0enVRQ1JXZDMyOVRaUlppNjBmeVV3UUJLWVFhelNQejRlREZTRDFWVEZFT2t5OTBKNmtFeWhhUUluUDV3QnVyR21DRDZsWU5ESnpvVEFVRHNZNUFVcUprZGlVUTI0a2xvQ25fNEs1VWk2d1M3Q1RkVEY1Qk5CS1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-21T07:00:00+00:00",
-      "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
     }
