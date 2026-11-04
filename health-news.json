@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-11-03T20:43:07.297037+00:00",
+  "generated_at": "2026-11-04T00:58:58.304336+00:00",
   "window_days": 42,
-  "count": 241,
+  "count": 269,
   "items": [
+    {
+      "title": "Immuno-PET/CT detects myeloma missed by FDG-PET/CT",
+      "summary_de": "Standard FDG PET/CT misses active multiple myeloma in 30% to 50% of patients with biopsy-proven disease.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/molecular-imaging/article/16424170/immunopetct-detects-myeloma-missed-by-fdgpetct",
+      "published_at": "2026-11-03T21:56:15+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
@@ -10,6 +20,36 @@
       "source_url": "https://www.diagnosticimaging.com/view/interventional-radiology-emerging-concepts-ablation-histotripsy-interventional-oncology",
       "published_at": "2026-11-03T19:36:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "'ExRad' data shows wide variations in CT radiation dose",
+      "summary_de": "The wide variation in performance, both across and within facilities, indicates substantial opportunities for improvement.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/16350757/exrad-data-shows-wide-variations-in-ct-radiation-dose",
+      "published_at": "2026-11-03T18:27:34+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "CEM improves margin extent measurement, falls short of primary outcome",
+      "summary_de": "CEM did not meet the primary trial end point of a 10% treatment change, though CEM findings helped optimize treatment decisions...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/16349455/cem-improves-margin-extent-measurement-falls-short-of-primary-outcome",
+      "published_at": "2026-11-03T18:18:47+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Hartmannbund: Fehlverhalten in der Medizin mit neuen Arbeitsstrukturen bekämpfen – News - Deutsches Ärzteblatt",
+      "summary_de": "Hartmannbund: Fehlverhalten in der Medizin mit neuen Arbeitsstrukturen bekämpfen – News &nbsp;&nbsp; Deutsches Ärzteblatt",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQWVwVVd0eS1EakhvWW5iUnpJZG1JLVJDcjRqdU51ck1uTGd5alhmbFlGUDZ1cU1Ha184S3lMTUxBVTliU3p5VGk3M1dvNl9jVk1Ja0xTVDhyaTQ0ZF91Rzdrb3V2aHNpbzRSVlQxZnpHMmFlaEpyNkZIamRQRXhsMEhWR2xveW9GZklwZDNWWXQzbFBTLXhqcnpRU2xDdEtpSWEtQkZBSUhITldZTVphRTZ4RVc1QmJ5bThfc3FkVVRtZjRmdC1uRGJ3TThfNkpjMm9EQm9JRGxRS3p0NWlwS1RR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-03T17:02:01+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -24,12 +64,12 @@
       "type": "News"
     },
     {
-      "title": "Hartmannbund: Fehlverhalten in der Medizin mit neuen Arbeitsstrukturen bekämpfen – News - Deutsches Ärzteblatt",
-      "summary_de": "Hartmannbund: Fehlverhalten in der Medizin mit neuen Arbeitsstrukturen bekämpfen – News &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQWVwVVd0eS1EakhvWW5iUnpJZG1JLVJDcjRqdU51ck1uTGd5alhmbFlGUDZ1cU1Ha184S3lMTUxBVTliU3p5VGk3M1dvNl9jVk1Ja0xTVDhyaTQ0ZF91Rzdrb3V2aHNpbzRSVlQxZnpHMmFlaEpyNkZIamRQRXhsMEhWR2xveW9GZklwZDNWWXQzbFBTLXhqcnpRU2xDdEtpSWEtQkZBSUhITldZTVphRTZ4RVc1QmJ5bThfc3FkVVRtZjRmdC1uRGJ3TThfNkpjMm9EQm9JRGxRS3p0NWlwS1RR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-11-03T16:58:20+00:00",
-      "category": "News",
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Endemeldung Arzneimittel: IQYMUNE pU: Laboratoire Francais du Fractionnement et des Biotechnologies",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-11-03T16:25:00+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -134,6 +174,16 @@
       "type": "News"
     },
     {
+      "title": "Fachärztin/-arzt für Radiologie Doppelfachärztin/-arzt für Radiologie und Nuklearmedizin (m/w/d) - ärztestellen",
+      "summary_de": "Fachärztin/-arzt für Radiologie Doppelfachärztin/-arzt für Radiologie und Nuklearmedizin (m/w/d) &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQVVNbnE1NXhacWJxM2hKMl9UQWxvbUFpVy0tZDZ1R0lTTU0zaXE3Y0dEVGgyRlA1ZFVtMlZKRXR6WEdyTE5rTWM4aUlrVkZEZjdXSTlYY1NyeENpcUNqLXlvaENfR1JFb2Y5TGdOSFR1YThWNThGMnJteldDTFFnT2RISXg2cVBsS19YSEwwZDc1VndrWDNDNW1mTFdrZjNJNkdqTW5VaDVxWVJIbUdvRzBHSTFVZnpEVm5QYWd6RU9ZYm4wUDJFOG1nYWxjbGJtSXg2dThB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-03T14:01:13+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Pharma: Biontech mal wieder mit Plus - Gründer-Ehepaar vor Abschied - DIE ZEIT",
       "summary_de": "Pharma: Biontech mal wieder mit Plus - Gründer-Ehepaar vor Abschied &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
@@ -144,32 +194,12 @@
       "type": "News"
     },
     {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: Xarelto 1 mg/ml Granulat zur Herstellung einer Suspension zum Einnehmen pU: Bayer Aktiengesellschaft",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-11-03T13:13:14+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Einkaufskonditionen: Skonto lohnt sich nicht (meistens)",
       "summary_de": "Apotheken k&ouml;nnen seit der &raquo;Skonto-Freigabe&laquo; wieder etwas freier &uuml;ber ihre Einkaufskonditionen verhandeln. Sie sollten aber sehr genau rechnen, auf welche Angebote sie sich einlassen, denn die &raquo;Skonto-Formel&laquo; f&uuml;hrt h&auml;ufig zu ern&uuml;chternden Ergebnissen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/skonto-lohnt-sich-nicht-meistens-171654/",
       "published_at": "2026-11-03T13:05:33+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Russland bombardiert Krankenhaus in Charkiw - tagesschau.de",
-      "summary_de": "Krieg gegen die Ukraine: Russland bombardiert Krankenhaus in Charkiw &nbsp;&nbsp; tagesschau.de",
-      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbWNKUURRc2RfalRVTjVJZ0ltNWw3cmkySkFBOUxRQ0piN2s4ZUJSeDRVVHdEcUNDYmQ2Sm50MThFa0xUMmZiN2NhSUszdm40cjM5Q09SOUtSRGFoQWtsRV9MeGZYalI2eEFackhjVENvSEJEX0ktcWlnY00xWmVHaV9n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-11-03T12:16:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -338,6 +368,16 @@
       "type": "News"
     },
     {
+      "title": "Aids: US-Behörde genehmigt weiteres Medikament gegen HIV-Infektion - DIE ZEIT",
+      "summary_de": "Aids: US-Behörde genehmigt weiteres Medikament gegen HIV-Infektion &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPamZlUVVIQ1FMclhLQ09fVHdhUkItMzJ0TkEwakVvLTBMc3UyTG4wWUZlNFJiUUVfWkFpMlgxVUppX29KY0toZVVQVlVWWlV3M1VHS3R0Mm0yM1EzSlB2Y00yUkF1aUViZnZSeGE5dUZQS3QxMktZdEJZSnZLcmNHM3BwNWpSM3lNUU5rZmxVeDk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-02T21:53:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Protein für Kinder: Warum zu viel Eiweiß Säuglingen und Kleinkindern schadet - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Protein für Kinder: Warum zu viel Eiweiß Säuglingen und Kleinkindern schadet - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -358,11 +398,11 @@
       "type": "News"
     },
     {
-      "title": "Nordrhein-Westfalen: Vorsorge im \"Movember\": Nehmen Männer ihre Gesundheit nicht ernst genug? - tagesschau.de",
-      "summary_de": "Nordrhein-Westfalen: Vorsorge im \"Movember\": Nehmen Männer ihre Gesundheit nicht ernst genug? &nbsp;&nbsp; tagesschau.de",
-      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaTVGTHRpbngtWHFaT0QySmtCVVRKWmh5Ym9JaWF1eXhjbVBiM0JBRVZsS04zTWxleXNaZXJHYUFFZk0yNmQ4WHYzUVFXZExqXy1LU1lwRS0xQUJKZXpsZ2EtTTEteFJwQTMyOW9LekV6VmJ3bnZ6dnlraFROTTljbGotblJ5bXF2dEg1SzFXREM5eTNNNjZaY285LXgxTDBscTdVUHFmV3NKa0dKRnVfQUJiTjZGbHhSelcxQU5PcldFZlI3VE5idi0yXy1ORWxldExDM3oxUkNlNGs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-11-02T17:02:00+00:00",
+      "title": "Selfcare bedeutet, sich selbst ernst zu nehmen - Techniker Krankenkasse",
+      "summary_de": "Selfcare bedeutet, sich selbst ernst zu nehmen &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12Sl92bXV3dXRNaWNoT3E0UnB4Zk1NemdxT2hFM1hRdFptZG5oQUhKbUtFZEJZYmxTUmZRWFBlUG1tejdfa3libVZxMTNBcE5ScloyUzk2X2NaZDduN2hMZGhoby0tMWo0RFpZU0tSWjNBdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-02T19:26:59+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -548,16 +588,6 @@
       "type": "News"
     },
     {
-      "title": "W2-Professur „Elektrische Antriebe und Leistungselektronik“ - Hochschule Aalen - Technik, Wirtschaft und Gesundheit - ZEIT Stellenmarkt",
-      "summary_de": "W2-Professur „Elektrische Antriebe und Leistungselektronik“ - Hochschule Aalen - Technik, Wirtschaft und Gesundheit &nbsp;&nbsp; ZEIT Stellenmarkt",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdXozOVBlS1J2aTZ0bE0wRlpEMmFUSlJYYlIxNmRjNFNXX0ZHcmZITC1mdDFoY2JwOFU2VEhQUjZfQnZuSnVqNlZFR0k2S2lYazhCVFZmSzhhYm13RW8zSm5abk5GY0dMUF9mQjUwbHVDODBKNWNPNktVMnR2eEdQNzRJaVFlRzRHeFFrVmY3TzBPTlIySjFYRm5GUHJfdnF4ZUt2UDJ3ZGRXWUtETVU5WVIxV2xKVHZGclBiQ2xId1A3bkFobnNuS3A3cVdXOEY5a0VMazRsWU4tZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-11-02T08:37:24+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Boehringer Ingelheim: Konkurrenz aus China belebt den Markt",
       "summary_de": "Chinesische Unternehmen holen bei der Entwicklung neuer Medikamente rasant auf. Shashank Deshpande, Vorstandschef von Boehringer Ingelheim, sieht darin auch einen Ansporn f&uuml;r Europa.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -600,11 +630,11 @@
       "type": "News"
     },
     {
-      "title": "„90 Prozent der Patienten brauchen kein Krankenhaus“ - Kleine Zeitung",
-      "summary_de": "„90 Prozent der Patienten brauchen kein Krankenhaus“ &nbsp;&nbsp; Kleine Zeitung",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdHZpeGtJLWhjRmZfaUVKNjIxdkhsaW1Mb05Tdngxb3lvWjRReHFPSEJsWXE2cWY1Y0FGWENoakxPNnpWMmExbUtCOHdBRXptT2RCQjZQc1NoQ3lYeEk4VE1WaU0wdnRIeVJuMHhaRDBBNW9qbXB2dS1sV19Sa2xzX3UyLUMtVnY1LXNqNlRqZTZaRURJNXNLU2gwZmM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-11-01T15:00:00+00:00",
+      "title": "4Einschlaf-Techniken für heute Nacht - Techniker Krankenkasse",
+      "summary_de": "4Einschlaf-Techniken für heute Nacht &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU2RDdmRvOUQ2c0xia1J1T1RPa3FQZmhJeXp1TE1iWG9wc1lFVk5ucmFGUVVZYllVdnFnaEFCWC1FOThBbE1NaHJvendKaEZCcEtpSi1lVFVFcG5TVmRldTdYalBCMmVsNnZCV3Z0LXpOeFZ3aDJOalNGUlYzSmY3VA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-01T23:00:00+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -636,16 +666,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZmpUVkdKQkdaVW9vZEZXUHBqZHFMMjBXYTcyaGJyQXpvMG9KTl9XQXZQS25ZSXlWZzhPcWNDZzI1cGNCSGcwaS1UanczTGtOaWZWeFVnX2xLWVk4azVNMEIyTGthc0NVV3ZXdF8zSTNjS2JzbXI2UnVOQ3BKWDBGaXlXc3VzT0dDNURwTk9Hd293bmNPR1NVVTB0SWFFaUJrajZMMXMwOEdyUXdCWDYzX1pGLXRSd1dMcThTZ0E0dko1Yk1VeFFXSUMyWm54T2xReFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-11-01T06:49:57+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "1,1 Millionen Euro für ein MRT – was das neue Gerät in Nienburg kann - DIE HARKE",
-      "summary_de": "1,1 Millionen Euro für ein MRT – was das neue Gerät in Nienburg kann &nbsp;&nbsp; DIE HARKE",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTjViMU5tZWlUUVRwblIzM095aGg3aFlmc0VHemdwb0lwY0pTWlVxVnBYczFnVVd5QWM3a241RVRQOWdYOFRGX2k2MFpCbE5GQkloX09qdVBqeFBiTTdWTEt6ek85OWtQMms2b2kteTRHNjNrc19zUmNxbFZZNVp0Rm54eTVqc2FlSDBxcnA2ekI2NzB6Nm5FbXFjVkt5VF9qRWotYjhLcmxELXREbzBVdkliakxXd1RXdzk0Q1RhTFZnSERiZ2xYRk5pQ2NXOFhUNDhLdEdlWDMzWVF5QVo5Vjk1VzdfajA10gGEAkFVX3lxTE9xUjZ4dnl2U3NIVFVBSHRYYW51azNIN1E2bUh3LVZlQWhNZHd2emYtN3ZVMGJkMGp5MlVRWUJZVlNkTGI4Q3YzTDh1OHRrRnpIV3hYMjA2Mm1wMnZWRVdfSWhtS2tRZ3d4WGpiMzhuSFVEa0JBcUM3aFdMNk5kUDh1QlJkYlVGejVRQVYxOUpYbmRPaHBMT1VaQ21ITng2OGZaaFFyUmpFMzFUUWktYVdzS2hiUVo1aF9ZblNsdTJRUXdZbUxVMS1oSHpId2JYQmdLWjVlXzNBUXMxbFdWcFNveHFWaU5aMlloWjhidGdvc1lhVGw4dHdxQ3hpVjNvai0wNGpT?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-31T18:16:56+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -770,6 +790,16 @@
       "type": "News"
     },
     {
+      "title": "(S+) Gesundheitssystem: Warum ich in der Schweiz schneller zum Arzt komme als in Deutschland - Spiegel",
+      "summary_de": "(S+) Gesundheitssystem: Warum ich in der Schweiz schneller zum Arzt komme als in Deutschland &nbsp;&nbsp; Spiegel",
+      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdEJuUllBSEJSenlQVm40YVpZT0psODQ2TjdCUTM2cVpvXzU5Rkk2bFBqQ0xxYi1sZXlhUEd5NUl6Ujk5Q21mU2lzbFVfYzdNUU8yVEd6YnAwRTlZYzZMRHl5Q1lRNUlDbXVPZmpnTWppaVlmYXY0UmRSZnpmNS11MVJ6YU1VSDhUc1I5dzR6TS1ucDN5c0VLWWFIb2NheldIa0hOS1AwUFJWX2xnb21vY2FDQV9kSlk0TjZoaUJWZ0VkY3cyUUZvcU1ndnJtNlN6VmcyNThNS2NTeHJaeG40c01TTDc0djB5MVR1Ng?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-30T15:38:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Triheptanoin (Dojolvi) approved to treat adults and children with a group of rare inherited disorders",
       "summary_de": "MHRA approves triheptanoin to treat adult and paediatric patients with a group of rare inherited disorders.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -872,6 +902,26 @@
       "type": "News"
     },
     {
+      "title": "Das Magazin - Kundenmagazin für TK-Versicherte (+PDFs) - Techniker Krankenkasse",
+      "summary_de": "Das Magazin - Kundenmagazin für TK-Versicherte (+PDFs) &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV2JyR3d2Mm1kdzRxemliRDRtbFZvSjQ5eUxtYjh2TXNPeU1xcElaZXlXaU9pT1QtRmhnSy1mZ3lTeVZjY1AzSFJoejFwNmc3TDFvb25yUmRDaVdJVlJTRkM5ek10djQwQmZ2NEF5Z3JCSDVIb2w0a3phdVhoWGhRUEh6S1Y1UXN5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-30T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Living evidence map of the global climate and health literature",
+      "summary_de": "Living evidence map of the global climate and health literature",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016408",
+      "published_at": "2026-10-30T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "Fluciclovine PET detects disease in half of PSMA-negative patients",
       "summary_de": "The findings support a complementary role for F-18 fluciclovine PET in carefully selected patients.",
       "source_name": "AuntMinnie",
@@ -887,16 +937,6 @@
       "source_name": "Diagnostic Imaging articles",
       "source_url": "https://www.diagnosticimaging.com/view/reading-room-podcast-emerging-research-current-perspectives-on-ct-radiation-dosing-part-2",
       "published_at": "2026-10-29T20:20:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "5 institutions command 38% of NIH radiology research funding",
-      "summary_de": "null",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/article/16050495/5-institutions-command-38-of-nih-radiology-research-funding",
-      "published_at": "2026-10-29T17:59:37+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -1062,12 +1102,12 @@
       "type": "News"
     },
     {
-      "title": "Was ist eine Hirnhautreizung? Die Symptome sind beunruhigend: Vincent Kompany hat Krankenhaus verlassen - FAZ",
-      "summary_de": "Was ist eine Hirnhautreizung? Die Symptome sind beunruhigend: Vincent Kompany hat Krankenhaus verlassen &nbsp;&nbsp; FAZ",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOa0ZuY3UyN1FsbzgxMmFuWVctenUzNG9Vd1pQUl9xME9kb3Qxc0psQzZPS2xTeUhlVE9YVjVycHJCNGlaMkRmU2o0T050RlZNVTRKaFlHYmVxQ0lxa3FwSUlma09aVjJ6YkpyMUVEWktzVm9waHpxd1hCcmJmS0NQTElXajZuOWU5dVFfV2ZwdnN5UGdKV01ySVo2NFZPN25oSGFwQ0R6Zk04MGNweDdRODBmcW9GYXdkSlpCcW9XdWstY3EzUDJNWU9GWkowTHFUTEhvTk9ISlRxdm1FUVZWQ0t4TTR5U0RjMWNRREVxeFVzRWZqeXR3aWFIdDE3ZU1ERmFhYWN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-29T09:15:49+00:00",
-      "category": "News",
+      "title": "Facharzt Nuklearmedizin oder Doppelfacharzt Nuklearmedizin & Radiologie (m/w/d) – Schwerpunkt PET-CT - ärztestellen",
+      "summary_de": "Facharzt Nuklearmedizin oder Doppelfacharzt Nuklearmedizin & Radiologie (m/w/d) – Schwerpunkt PET-CT &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc0E1OWlQNGQzOGNGYTYzZmE1LUptNWgwblRfM2VCdjBVbGkzYW9mbFhieXNBV2Y4UWVmTjdpemVqZ2ZlUGZ2LWV0b3E1VnBFdmRKSG0tZGxyZEo1OWhSS1hWRmw3Ymd3T1JDV3hiaURLYW5BeEhMRVRpR21vSGdBdXl0eFYwWmZtODFrWGhtZnJMMzdNS3U0VkJVZ3ZzQkRhQTQ3VF84N2pFQ28tdXp6QjZxcnk5cHRTNWFYNGdVZ1MxdG9UTnNNd2xoM1l3Slpqb0Y2d3NEMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-29T07:00:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1082,24 +1122,24 @@
       "type": "News"
     },
     {
-      "title": "MRI, PET reveal distinct brain changes in loneliness and social isolation",
-      "summary_de": "Prior studies frequently have used the terms interchangeably and applied measures designed for one construct when investigating...",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/16050355/mri-pet-reveal-distinct-brain-changes-in-loneliness-and-social-isolation",
-      "published_at": "2026-10-28T20:24:40+00:00",
-      "category": "News",
+      "title": "Levodopa or dopamine agonists for enhancing motor function after stroke",
+      "summary_de": "Levodopa or dopamine agonists for enhancing motor function after stroke",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013416.pub2",
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "category": "Studie",
       "tags": [],
-      "type": "News"
+      "type": "Studie"
     },
     {
-      "title": "SIIM-CAIMI program chairs talk medical imaging AI's evolution",
-      "summary_de": "SIIM-CAIMI's program chairs share their thoughts on the increasing use of AI tools such as large language models in practice.",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/16050286/siimcaimi-program-chairs-talk-medical-imaging-ais-evolution",
-      "published_at": "2026-10-28T18:25:00+00:00",
-      "category": "Radiologie",
+      "title": "Maternity versus non‐maternity healthcare settings for the diagnosis of gestational diabetes or diabetes in pregnancy",
+      "summary_de": "Maternity versus non‐maternity healthcare settings for the diagnosis of gestational diabetes or diabetes in pregnancy",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016295",
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "category": "Studie",
       "tags": [],
-      "type": "News"
+      "type": "Studie"
     },
     {
       "title": "Diagnostic Imaging articles: Update",
@@ -1128,6 +1168,26 @@
       "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-19-to-23-october-2026",
       "published_at": "2026-10-28T13:23:46+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "TK-Gesundheitskurssuche - Techniker Krankenkasse",
+      "summary_de": "TK-Gesundheitskurssuche &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYlFoaEtYdmVtbVR3UzV3SndGOHJ1M1Y4OHFNTDAwd05IR1dTZkJ3dlpYSUVHMTQ3QU8tcmNMSE5aek1VTGtBMmUzZXQxTnhvSGM3Mk05ZldCclVtZ1JlTExiUl9ocUNyYnRNUTMxZDBac0hwMGpXTXQwa2RKQ0JXbl9wQm5malV0eEZkSTFVcGsxQmw4NmVBWGlTU2o?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-28T12:49:17+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "So können Sie die TK-Gesundheitsdividende nutzen - Techniker Krankenkasse",
+      "summary_de": "So können Sie die TK-Gesundheitsdividende nutzen &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQU2xnWWhZZzRqR25DalNVOFFGVEtDM3Q5OUc3V1pBTkZQcGU0bTlPWkNyT1g3WUl2akdkcEd4N2VGUlo3a21IZzMxNm5vODhXdGt2Y1pKbnFwUU50YjVlOUdpNTlXRVR5SkxGSjZfcjRSZVlQZnA2Zm5wY3pGcXptbkdUWWx1TnNneHlLOU5BQTVZUFNkRHhwaXB5Z01HWjA0OW5rYXBnNFRFREI5OEtGeHhIUF9RWmk4bUxVYTZKRGNLVmp5a3VXQk1keVA1S1Zocmo4RmtDcWstZUJ1ZkhHUGl0RjV6R2FVb0ROLW1feUZzQnpCaERaU2V3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-28T12:42:07+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1184,16 +1244,6 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit, die im Arbeitsalltag ankommt - SZ.de",
-      "summary_de": "Gesundheit, die im Arbeitsalltag ankommt &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzMDZEQ0k1ZnZtTEZ4R0Y2RjJ0UWJ2MWpGSFJmeTV3TEhTZ3lYUzBLTDBUM3E2NHNaREg0SmNzMmhhY3lZdWhwMHRyWEN0Um0taFhMbm5nVVFGT3pmcnFfV2Y4NFNfclROSEJldndXQmw4NEc3OTV3bk5jXzg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-28T07:10:47+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Primärversorgungssystem: Der TK-Vorschlag „digital vor ambulant vor stationär“ | Die Techniker - Presse & Politik - Techniker Krankenkasse",
       "summary_de": "Primärversorgungssystem: Der TK-Vorschlag „digital vor ambulant vor stationär“ | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
@@ -1224,22 +1274,22 @@
       "type": "News"
     },
     {
+      "title": "Ergonomic interventions for treating work‐related complaints of the arm, neck or shoulder in adults",
+      "summary_de": "Ergonomic interventions for treating work‐related complaints of the arm, neck or shoulder in adults",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014644.pub2",
+      "published_at": "2026-10-28T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "Access, new active substance and biosimilar work sharing initiatives",
       "summary_de": "Information on applying for New Active Substance Work Sharing Initiative (NASWSI) and Biosimilar Work Sharing Initiative (BSWSI) assessments and list of approved products.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
       "source_url": "https://www.gov.uk/guidance/access-new-active-substance-nas-work-sharing-initiative",
       "published_at": "2026-10-27T17:57:40+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit verstehen: Gesundheitsmagazin - BARMER",
-      "summary_de": "Gesundheit verstehen: Gesundheitsmagazin &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JOVpiSlhFZlc3ck02NGdLdHIwSFZIRXNZWHRLTER3MFNsSTU2dmppOWtvTDhtMjZkWFE0dnowcERkcEViTF9nbGZLV0h2b09mVDcxUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-27T14:17:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1296,8 +1346,8 @@
       "type": "News"
     },
     {
-      "title": "Ihre Krankenkasse: Für alle gut, für jeden anders | BARMER - BARMER",
-      "summary_de": "Ihre Krankenkasse: Für alle gut, für jeden anders | BARMER &nbsp;&nbsp; BARMER",
+      "title": "Ihre Krankenkasse: Für alle gut, für jeden anders | BARMER - Barmer",
+      "summary_de": "Ihre Krankenkasse: Für alle gut, für jeden anders | BARMER &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-10-27T09:17:04+00:00",
@@ -1328,14 +1378,44 @@
       "type": "News"
     },
     {
-      "title": "Krankenhaus Forst: So verbessert neues MRT-Gerät das Angebot der Lausitz Klinik - MOZ.de",
-      "summary_de": "Krankenhaus Forst: So verbessert neues MRT-Gerät das Angebot der Lausitz Klinik &nbsp;&nbsp; MOZ.de",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTWdVemFJYk5oTnFSdVVSSWxlU29VVm50dnlTMUpKZzZzNkZncVcyYkJnMngtaWZzdzUtU3dyYmVfUEJBNWNWY010TFNfVEhlX1JQUEdSRkI5eUVFWVd2b2w5ei1reFg2NUZrbEd3VjE2NW5BcVh1RkNmTDB1WDRwTE5Qdkg4VUJJYlJXYmJXMllKZDd0emNiR2dzNm1JSEpDb2dMQnMxZ0xaU29YbXd2ODloU2xwcVBrYTB5VUlFYnRaOU95ZnNaYV82Wmh1a3dqanc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-27T03:00:00+00:00",
-      "category": "Radiologie",
+      "title": "Embolization of the middle meningeal artery for non‐acute subdural hematoma",
+      "summary_de": "Embolization of the middle meningeal artery for non‐acute subdural hematoma",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016407",
+      "published_at": "2026-10-27T00:00:00+00:00",
+      "category": "Studie",
       "tags": [],
-      "type": "News"
+      "type": "Studie"
+    },
+    {
+      "title": "Associating liver partition and portal vein ligation for staged hepatectomy procedure versus conventional two‐stage hepatectomy for colorectal liver metastasis",
+      "summary_de": "Associating liver partition and portal vein ligation for staged hepatectomy procedure versus conventional two‐stage hepatectomy for colorectal liver metastasis",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014608.pub2",
+      "published_at": "2026-10-27T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Models and components of investigation and bereavement care after sudden and unexpected child death: a scoping review",
+      "summary_de": "Models and components of investigation and bereavement care after sudden and unexpected child death: a scoping review",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016404",
+      "published_at": "2026-10-27T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Air versus supplemental oxygen for resuscitation of term or late preterm infants at birth",
+      "summary_de": "Air versus supplemental oxygen for resuscitation of term or late preterm infants at birth",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014781.pub2",
+      "published_at": "2026-10-27T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "Diagnostic Imaging articles: Update",
@@ -1378,9 +1458,19 @@
       "type": "News"
     },
     {
+      "title": "Entlastungsbetrag in der Pflege - Techniker Krankenkasse",
+      "summary_de": "Entlastungsbetrag in der Pflege &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRVVwNlEtYTltdDU4dkppeTg5V0tFX0ZHNk5mbmZsTTZLamU4bTM0UWg2cmFtVmU5TU1oTDktOXd0blQ0NElwZFl5WlB3dVFSbjZ6TU04cmc2TkJ2aXNQXzRRaGdSNDlXN1dyY09mQ1dockZnNU0wSDN3NEJ3d0U0LUFXRXNqZk8wa3NrWk1aWFZoYVNFalU1TFk4dlE1VVEwR3F1WXUxaERSSVdraDZ5Y3dIUW83cEphTmhYTTNHSDdwcV9jTGs4R0g4S2tjVHhfLVV5cDl0X2pOZnNtVUxLZWpDTGdrNDRucVYzOUR0QVBFb1U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-26T15:06:32+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Medizin in Radevormwald: Radiologie am Sana Krankenhaus wird modernisiert - RP Online",
       "summary_de": "Medizin in Radevormwald: Radiologie am Sana Krankenhaus wird modernisiert &nbsp;&nbsp; RP Online",
-      "source_name": "\"site:rp-online.de radiologie\" - Google News",
+      "source_name": "\"radiologie\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZlhrZW8xS1RQUDBaVF8zcmJNbVBsOHhiYkVfUEZQME5LeU9fcVh6eGNTUnBlMVdZbnFFVWsxWWpXVl9aSUtfZHhRMjVyRTVoX2FnRk1tTVo2M084WkN5NlFrLXAxM3NtY2h4SG1vUERaWXNrNERadnJZdWt4c2h2Tms2NkNqa25XVGs0UjlIb05SdjBiaWpWTVVxVzBjY2s2c1VlbVg5SUpwX2VwdFRKWFBZckhfNi1WVFNna0NJRUM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-10-26T14:45:00+00:00",
       "category": "Radiologie",
@@ -1418,12 +1508,32 @@
       "type": "News"
     },
     {
+      "title": "Fachärztin/-arzt für Radiologie mit Schwerpunkt interventionelle Radiologie (OA oder OAmbF) 80-100% - ärztestellen",
+      "summary_de": "Fachärztin/-arzt für Radiologie mit Schwerpunkt interventionelle Radiologie (OA oder OAmbF) 80-100% &nbsp;&nbsp; ärztestellen",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTHJpTUFLdTdGUm5NMmkxeFV5S294Q3pwU1R4TGxDekVjbFI2aEs5YUUzbjFoNzctc3k0T2Vudi03S0lLTmlZTG4xSTdFZGVYUVJQemxfTFJNZ2IyLTNwY3V6a0NpS2ZxSjNZRU1yLVVLR1hsek1XdTJyREpMUWM5MFMzTENSSUpIX1RLTko4Zi1teURZbVVjYzljNUktZjFMdVdEQXc0TjBncERHOVZzSHBsazNkci1fLTctTjA3UWlSSklhQzdqMElGVWlhUWNtV0JrTWd3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-26T11:27:03+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Class 2 Medicines Recall: Xeal Pharma, Clopidogrel Oral Liquids (all strengths), EL(26)A/43",
       "summary_de": "Xeal Pharma have informed MHRA that all strengths of their Clopidogrel Oral Suspension and Clopidogrel Oral Solution products contain less than the labelled amount of clopidogrel.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
       "source_url": "https://www.gov.uk/drug-device-alerts/class-2-medicines-recall-xeal-pharma-clopidogrel-oral-liquids-all-strengths-el-26-a-slash-43",
       "published_at": "2026-10-26T11:00:01+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Radiologie in Meschede: Was sich für Patienten am Walburga-Krankenhaus ändert - WP | Westfalenpost",
+      "summary_de": "Radiologie in Meschede: Was sich für Patienten am Walburga-Krankenhaus ändert &nbsp;&nbsp; WP | Westfalenpost",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZVRSWGtGS2VmNVdOMEw4aktCY1pGaVFFT1BvNm5YVlZ6YU5NXzI2eURMSjFfUGVDQUdYdFhUR0JhWFFvMlVpT014QjNWZzBfbXFVZkFhT3VncGtDZU15LUJVd2lsZGtNN0hVbWdKT01aVTU2My1HMUR0VHcyMTZvZklWOVpMX1N5cnhZUWJHYmszVkRXWXdFRU1SN0ZVR2gtdndMUXdGenh2QVRmbG5GQ3hTNnEwM2RTak1FQ1BtMWVtUTVJOFgwbDZSdmxDekk3Mi1BaGV6VkZhVnVsdEJjZ0pOWHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-26T10:09:17+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1439,6 +1549,16 @@
         "Wirtschaft"
       ],
       "type": "News"
+    },
+    {
+      "title": "Music‐based interventions for people with kidney failure undergoing haemodialysis",
+      "summary_de": "Music‐based interventions for people with kidney failure undergoing haemodialysis",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016139.pub2",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "Gesundheitspolitik: Hausärzte warnen Merz vor Personalnot bei Notfallreform - DIE ZEIT",
@@ -1543,6 +1663,16 @@
       "type": "News"
     },
     {
+      "title": "BARMER Krankenkasse in Amberg - Barmer",
+      "summary_de": "BARMER Krankenkasse in Amberg &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQUc5MDNHNC01T1RnNGd2WVlHMzR5TW42X1lXdWxhdS1BSTlrVkptd3pWMTRDQjZnUlBtV053dGE5d29CRGI2UW9OMjdUeTZubjBvTEdZTlkxd25KQlRUTm5RazFSbTVya1A4UGVHOG1YcUZnaDE1TnRIU3AtQVBwc0k4bGdYN1BFY3NERnVqOC1EMEZRNlVickk4TlB4dndEN1g1QnBmQ0lwNW8zTjd1TUN0TnBsWGM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-23T11:42:25+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "MHRA approves new oral treatment for moderate to severe plaque psoriasis",
       "summary_de": "MHRA approves new oral treatment for moderate to severe plaque psoriasis",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1560,6 +1690,38 @@
       "published_at": "2026-10-23T09:41:01+00:00",
       "category": "Europa",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Radiologie-KI erkennt Pankreaskrebs besser - MMW - Fortschritte der Medizin - Springer Nature Link",
+      "summary_de": "Radiologie-KI erkennt Pankreaskrebs besser - MMW - Fortschritte der Medizin &nbsp;&nbsp; Springer Nature Link",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54ZmhsQ29wY3VXb1JKVGNNbGJDck1pVlVGODFfZ1Jfb2RhNWVCZ0hGOF9uRC1ZSm16Y29KX25mWktVQXE1VWVtZ1ZyV1R6RHFjWTd3ZDFJcWFuUlhJbmZFZWRMSHhYdlVsWjdZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-23T07:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Nach 34 Jahren: Bekannter Arzt hört auf – die Kinder übernehmen - Westfalen-Blatt",
+      "summary_de": "Nach 34 Jahren: Bekannter Arzt hört auf – die Kinder übernehmen &nbsp;&nbsp; Westfalen-Blatt",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbkZpV1gtalU5amtISUVKN3lqNG9oQlkyN3BodEtwLVMwLTZZbFIzZ29XaEMtLWNfcmYyTkxTLU03clVxQjhHQXZ1Ymt6dzE3T05UT3FjRUJHNFhJaE5wVFJmQ3hVWE1NMzM1QXFjbEZFRW0xMW85UFZNUmJ2R1VOVDhXZzJ3b2gyZmxGV2FPUUJRVm43dEUwc3pNRFplZDlqYjJDUGp5X1FkaWhnOGt1eHRBeXVRNWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-23T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Vier Abschlussklassen bestehen ihr Examen - Nachwuchs für Pflege, Radiologie, Labor und Physiotherapiee - Kreiszeitung Wochenblatt",
+      "summary_de": "Vier Abschlussklassen bestehen ihr Examen - Nachwuchs für Pflege, Radiologie, Labor und Physiotherapiee &nbsp;&nbsp; Kreiszeitung Wochenblatt",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdUJEdzI1RXk5Y2Y4UG9TY2xobjBJUUMzcVNPeVhiRm03bllyWXFsMkMybU9LU01vbVl3SVNpbFQwcUV1SFRXODd3ekhWeHZKWnhMM0ZrUFpDWTVpV2N3T0ZUWDRSeUpqcWFEakF3clJsRFFob1N1dUZrVW9udlBacURRaVJldk9WcURmYUQ1WVhrOWFJN0Jmc1FQQUd0Q2hUNTI5a1BSTWdYOEdkR3JDall5TWpRakIzZTZLUVd1N2g2VXhZZ1JSMllMX2hyV1ZHT0xET21VSzRFSFhmejZyOXJ1ZkxQUWVkdkJ0cnMtTk1xc3gwX3NMeGRfOHZQQkp0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-23T07:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [
+        "Versorgung"
+      ],
       "type": "News"
     },
     {
@@ -1683,6 +1845,16 @@
       "type": "News"
     },
     {
+      "title": "Smoking cessation interventions in adults with attention deficit hyperactivity disorder (ADHD) or autism spectrum disorder (ASD)",
+      "summary_de": "Smoking cessation interventions in adults with attention deficit hyperactivity disorder (ADHD) or autism spectrum disorder (ASD)",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016400",
+      "published_at": "2026-10-22T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -1735,14 +1907,44 @@
       "type": "News"
     },
     {
-      "title": "Stressbewältigung: Entspannter durch Meditation und Achtsamkeit - DAK-Gesundheit",
-      "summary_de": "Stressbewältigung: Entspannter durch Meditation und Achtsamkeit &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVy1uVmNuenNDVjFpMGh3Y0ZjamJvMFFULTRFUm1Mb0NRaWs2dnlzajAyazVESkgwdmgtMFFNX3loV0JKNXlqOHZuLUpzSmNmLW9Wc0JrWko1SHdnaVNKT3c0clVqaUc4aDVwNmlZNGp2NVd4SzNFdW5fY1ZqQjJoMUtncU1oRkoxWVpQeUtxcUszM3lZWFdNdFZn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-21T05:00:44+00:00",
-      "category": "News",
+      "title": "Antibiotic therapy for pelvic inflammatory disease: a network meta‐analysis",
+      "summary_de": "Antibiotic therapy for pelvic inflammatory disease: a network meta‐analysis",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016401",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "category": "Studie",
       "tags": [],
-      "type": "News"
+      "type": "Studie"
+    },
+    {
+      "title": "Thermal stability and storage of adrenaline",
+      "summary_de": "Thermal stability and storage of adrenaline",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016409",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Enhanced Recovery After Surgery (ERAS) pathways versus conventional perioperative care for colorectal resection",
+      "summary_de": "Enhanced Recovery After Surgery (ERAS) pathways versus conventional perioperative care for colorectal resection",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016406",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "The role of allogeneic hematopoietic stem cell transplantation in adults with mature T‐cell lymphomas",
+      "summary_de": "The role of allogeneic hematopoietic stem cell transplantation in adults with mature T‐cell lymphomas",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014672.pub2",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "Diagnostic Imaging articles: Update",
@@ -1807,16 +2009,6 @@
       "type": "News"
     },
     {
-      "title": "Künstliche Intelligenz und mentale Gesundheit: Wenn die KI zur Freundin wird - Spiegel",
-      "summary_de": "Künstliche Intelligenz und mentale Gesundheit: Wenn die KI zur Freundin wird &nbsp;&nbsp; Spiegel",
-      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaVpKQ1FrQko5Rmw2SUJwOTU3b0E1NERPOS1oSWRjdGhmLTN5bzlpWjAzOW8xcWxSb3o3XzZHNnFSRFVQWGtJRHNYeU1mQ08zakRGV0ZabEljeHZ4X3pwMGZsQ3NnNExmX2dvNW40bGhNV3RNMTFBZ0xqOV9ScExCU2tuVTJWZF9uQ1ZxeTFtZGdrSkhGVll4bm9nU2F3TW1rOVBMcWZEeWZWa3F1X0lwR2l6YlZMUGgxWEEtS2ZvU0tXaUU1UzhldVYtRkVrMVZhZjUzTzNmX0VXVWM0VkNpRmxVTzc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-17T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Krankenkassenreform: Die private Krankenkasse? Abschaffen! Und die gesetzliche? Die auch - DIE ZEIT",
       "summary_de": "Krankenkassenreform: Die private Krankenkasse? Abschaffen! Und die gesetzliche? Die auch &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"gesetzliche Krankenversicherung\"\" - Google News",
@@ -1867,21 +2059,31 @@
       "type": "News"
     },
     {
+      "title": "Statins for adults with a first episode of venous thromboembolic disease",
+      "summary_de": "Statins for adults with a first episode of venous thromboembolic disease",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016403",
+      "published_at": "2026-10-16T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Exercise therapy for temporomandibular disorders",
+      "summary_de": "Exercise therapy for temporomandibular disorders",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016402",
+      "published_at": "2026-10-16T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "Ausbildung Kaufleute im Gesundheitswesen - Fachzentrum Mitgliedschaft & Beitrag(m/w/d) Ludwigshafen - DAK-Gesundheit",
       "summary_de": "Ausbildung Kaufleute im Gesundheitswesen - Fachzentrum Mitgliedschaft & Beitrag(m/w/d) Ludwigshafen &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcHZrSWhsMDJ3NFRZZ2hjVF90VlVHbjB3eHdRZ2tjdkNtZjJjRDVXTWFqTWlLamNaNFZJU1J4bTRRNTlBWXlHeERobnNIVGlwb1lUWFhYQlZiMjU5SFRlNEVvSUVucExxOHpBRXpVWWttVk9tN3JjMTdpRVN0ZUV5MnJXMkxEWG96bEZYaEpMLXA0d2xHVF9KZF9sUjdOd3pnZWVfLUNuekxhTTNMY2FXZ1dNRlAwbVNjdmxVdkNiOWVpR0xpVmh6U1NsYTlEYmxyWE9GUThoaHNVcTFjNkN4WGRRS2VhRXRYaU5ZenZqaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-10-15T22:39:30+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Hochschule für Soziale Arbeit FHNW, Institut Soziale Arbeit und Gesundheit - ZEIT Stellenmarkt",
-      "summary_de": "Hochschule für Soziale Arbeit FHNW, Institut Soziale Arbeit und Gesundheit &nbsp;&nbsp; ZEIT Stellenmarkt",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSUZ5MnhKNGVOMDV0VWtfLTFKS2Nhb1RYeVVIWnJvd1JyeUpJOVF5ZlhwVHRrdnlWdGtpbW1ZTFc1WVdlZHp1YXFoalV4d1pfajJlTWxBalBtaE5sa251LUNCOGRERXZCSGhOUXNWQlN2TjV0ZkhKQnF0a3dQNjMwQ0pFWnJGZ3RBYkUyT3NOQ2VCTzZ6Rm8zbnRFemNxakdnMWV1b1NybXRyVE5ObjRTNVhGNmk3ZEFfcl9SWm9ycXdzUFEtRmpaSlM0SE1IbGRhdjZQYXU1eW94c2lYZTNYYi1nVV8zTndGYTlMd1o0eEo3VFByN2NVYWZDWmNvQ3FSUGdV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-15T22:00:58+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1980,16 +2182,6 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit - Spiegel",
-      "summary_de": "Gesundheit &nbsp;&nbsp; Spiegel",
-      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BQnJZWVdWT2ZsYTRpS2lXN0VlYmxKYnJwSTdUTlg4OFpsVG5nWmhLYVZrc2h3Qjc3UmVuQVQ2TU8yNmNnaFpPOEJOb1RqWFVr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-15T06:22:31+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Pressemitteilung: GKV-Finanzen vorerst in ruhigerem Fahrwasser, nachhaltige Reformen müssen folgen",
       "summary_de": "„Mit dem Ergebnis der gestrigen Schätzung eines rechnerisch ausgabendeckenden durchschnittlichen Zusatzbeitragssatzes in Höhe von 2,9 Prozent im nächsten Jahr deutet sich an, dass das mit dem Beitragssatzstabilisierungsgesetz verfolgte Ziel stabiler GKV-Finanzen für das nächste Jahr erreicht wird. Das ist für sich genommen ein gutes Signal für unsere 75 Mio. gesetzlich Versicherten und deren Arbeitgebende“, erklärt Oliver Blatt anlässlich der Bekanntgabe …",
       "source_name": "GKV-SV Presseinformationen",
@@ -2000,6 +2192,26 @@
         "Wirtschaft"
       ],
       "type": "News"
+    },
+    {
+      "title": "Competing values, conflicting views: evidence and debate in Alzheimer's disease",
+      "summary_de": "Competing values, conflicting views: evidence and debate in Alzheimer's disease",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.ED000180",
+      "published_at": "2026-10-15T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Letter to the editor: Amyloid‐beta‐targeting monoclonal antibodies for people with mild cognitive impairment or mild dementia due to Alzheimer's disease",
+      "summary_de": "Letter to the editor: Amyloid‐beta‐targeting monoclonal antibodies for people with mild cognitive impairment or mild dementia due to Alzheimer's disease",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.ED000182",
+      "published_at": "2026-10-15T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "Elsner: BStabG zeigt Wirkung. Stabilität steht aber auf wackligen Füßen",
@@ -2055,6 +2267,76 @@
       "category": "Europa",
       "tags": [],
       "type": "News"
+    },
+    {
+      "title": "Pflegereform 2027 im Überblick - das ist geplant - Die Techniker - Techniker Krankenkasse",
+      "summary_de": "Pflegereform 2027 im Überblick - das ist geplant - Die Techniker &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN1g3TG1NZnZrMVZNMElkNzBuX0ZCWnF6aE1RYTNDSWRBU0g1Ym1QVzRZbDZHTmt6UV9YMFVRZndhYlFMZWR4ZDRLWi1rcnJnRUVrLWh4aGZUckdGTzNhT0VHQzJTUURhT25waU1GNVNoY3J0Um9SRGtDSDNTdjM1VlY1eExXbDJ5cXRGbHpDRlBJdTZSNjRPWm5sUUtQUVhzRWlrOTZsNVkxMV84YkpLQzdaN3huZVhnQVZQWWdhNkg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-14T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Perger Radiologen setzen auf moderne MRT-Technik - Oberösterreichische Nachrichten",
+      "summary_de": "Perger Radiologen setzen auf moderne MRT-Technik &nbsp;&nbsp; Oberösterreichische Nachrichten",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWGU4TU1WbEx1b0d2SVlzMFh2R2tLRFpiYmJ0M1NsbEF0QVNVN2k5el84anJUUmV5bWVxQmVRWGd3cU1xQUJoYVVpbnRJYXF6M2Z0dFNjZnNZNjJuMHhQd1JBVkh5c2ZTeUxPckhkM09RYUI0VEdNXzNzaDFMajE0SHZ4b3BoTVY4eU9xaVhyQjk4cFVUZU5kZ2hDQjgxRTMzVDNwVTRKR2MybUwxXzduc29SSE9UUzNKcnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-13T07:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Medical cannabis for the treatment of insomnia",
+      "summary_de": "Medical cannabis for the treatment of insomnia",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016216.pub2",
+      "published_at": "2026-10-13T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Haemodiafiltration, haemofiltration and haemodialysis for adults with kidney failure",
+      "summary_de": "Haemodiafiltration, haemofiltration and haemodialysis for adults with kidney failure",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006258.pub3",
+      "published_at": "2026-10-13T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Blood pressure targets in adults with hypertension",
+      "summary_de": "Blood pressure targets in adults with hypertension",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016397",
+      "published_at": "2026-10-12T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Home visits following hospital discharge for families with preterm and low‐birthweight infants",
+      "summary_de": "Home visits following hospital discharge for families with preterm and low‐birthweight infants",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016389",
+      "published_at": "2026-10-12T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Education and training interventions for healthcare workers to prevent sexual harassment",
+      "summary_de": "Education and training interventions for healthcare workers to prevent sexual harassment",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016096.pub2",
+      "published_at": "2026-10-12T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
     },
     {
       "title": "Gesundheitspolitik: Zahl der jüngeren Pflegebedürftigen im Norden steigt - DIE ZEIT",
@@ -2123,6 +2405,16 @@
       "type": "News"
     },
     {
+      "title": "Near point‐of‐care nucleic acid amplification tests (NPOC‐NAATs) using respiratory specimens for detection of pulmonary tuberculosis",
+      "summary_de": "Near point‐of‐care nucleic acid amplification tests (NPOC‐NAATs) using respiratory specimens for detection of pulmonary tuberculosis",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016396",
+      "published_at": "2026-10-09T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "Clinical trial applications advice pilot becomes permanent",
       "summary_de": "The Accelerating Clinical Trials in the EU (ACT EU) advice pilot, which helps sponsors prepare clinical trial applications, will become a permanent initiative from January 2027.…",
       "source_name": "News and press releases",
@@ -2141,16 +2433,6 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/shmi/2026-10",
       "published_at": "2026-10-08T08:31:14+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Vertretungsprofessur (W2) für Public Health - Umwelt und Gesundheit - Hochschule Bochum - ZEIT Stellenmarkt",
-      "summary_de": "Vertretungsprofessur (W2) für Public Health - Umwelt und Gesundheit - Hochschule Bochum &nbsp;&nbsp; ZEIT Stellenmarkt",
-      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ29FREp3R2V2d0NOM2tPTlNia0kwaHM2N3VHbWFMVl9Ianc5OUt4V01CWXNWSTU0eFlvcTBBYlQzbnE3UEZKcUdKU055TVVqazRTVV9Tc0dfMmtiV0RxNFowVjNvZ2pieVRwTlEteFdtMXV5RWFYNGdGRHFxMWVkdkNraTZHTFpjbFdXRWtaS3JTV1BURE9pZ3czZ0lfekx4QjIzYkRkQXFJZWwxOVI3TGU0eFpnazRVV3FDWG9pVnA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-08T07:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2329,6 +2611,16 @@
       "type": "News"
     },
     {
+      "title": "Millionen aus der Radiologie: Wir brauchen eine Potsdamer Krankenhaus-TV-Serie - Tagesspiegel",
+      "summary_de": "Millionen aus der Radiologie: Wir brauchen eine Potsdamer Krankenhaus-TV-Serie &nbsp;&nbsp; Tagesspiegel",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLUdNdWY3amVzRFR3Z3NxV0U5YWJkUUpwTFJ3Z042emktVW1zQXJjZUU2eW5ZcTJwWF9RX05LVFY2U0I1OUZYYmY4TmJUSGROYXUzaUlhYWdaT3I3aFEzYVh1RkFWME5UODhPclBwV18zUjZ0TElqQXYwblEzNTRQLW1OUnJzS3I1Tl9RenB1MVZFZ2dmRndWVW9obHVrYnA0dDNqOF9hU29UdEJ2bEVDNHh3R3otWnBuYmI3Uk41VDZUUVFEOVo3OHZYbWhlQmZWQUVIOWpFNE8wUE5R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-28T07:00:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Ausbildung Kaufleute im Gesundheitswesen - Fachzentrum Arzt (m/w/d) in Braunschweig - DAK-Gesundheit",
       "summary_de": "Ausbildung Kaufleute im Gesundheitswesen - Fachzentrum Arzt (m/w/d) in Braunschweig &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
@@ -2355,16 +2647,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSnNUMHJMM09kR1p1OUYtTlpnNnhZRVFrc3FhMk9vakJWbUZQVFNVYTlfeUdTQjBYN1o3UEY4aURXcjk1eEowdzJzNHdHdGxsczB3bzFQU1d1UlhybVRiaGJQTmhHd1I3a0NMV1BpQ0dKZndnR20xU2NJNXZ3aHY3bDlCZm9qT3Q2Tkl6WjVkN015c0NzZGR6WW5qVGtyN3ZFaUFXSEo4aXJaTjgyQWN6cGxqaUVONVFqU2FhS25faE92d1hHYzZSZjNHZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-09-24T23:57:24+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Facharzt für Nuklearmedizin oder Doppelfacharzt Radiologie/Nuklearmedizin (m/w/d) - ärztestellen",
-      "summary_de": "Facharzt für Nuklearmedizin oder Doppelfacharzt Radiologie/Nuklearmedizin (m/w/d) &nbsp;&nbsp; ärztestellen",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd2FFZm1GUWVEazdnNDZlQ1hTbDF6cWxxNG5WQVllTEExWUdTTUV1NTJRUE1JYUhPWkxlMmJDeXIwbHA3cEJPcDJEbFFwajJ2REdTLWlSOWF1SFR4cEQwLUZjWkFQWlRJQXJRVWVCYnJUNV9FT3hQd0lrWjdqTW9nQm1fNzRHNmd5V1Bab1VDeFhVZ1laN0xMYnd1cGxhdVF2U2lLS09jTDBHdWNrWnEzTi13OEZ3NmQ2Um42Yk9VbEtvU3U2VjlKR0ZTTzAwRlgwdGN0aFJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-09-24T22:03:22+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
