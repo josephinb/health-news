@@ -1,8 +1,228 @@
 {
-  "generated_at": "2026-11-06T10:12:57.747109+00:00",
+  "generated_at": "2026-11-06T18:43:56.084633+00:00",
   "window_days": 42,
-  "count": 259,
+  "count": 265,
   "items": [
+    {
+      "title": "Das sollten Sie als Patient über KI in der Medizin wissen - FAZ",
+      "summary_de": "Das sollten Sie als Patient über KI in der Medizin wissen &nbsp;&nbsp; FAZ",
+      "source_name": "\"site:faz.net medizin\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNenlUdW1WV0QtaUNyZ1dCSTJLc2hRTjlSUXZYTmNaNklxdkZZMnBFRWJ1ck5ucXZzMzU2aWlpZmVHV0NPNmk4d19iLXJuejYzTjBLWTkyWW5aSW4zT0JvYzlNSlROalNLaHdmVGlEUm5DOGwyMjdialE5Z1kxZENuWlRfU29KVF8xTXg5WDJKU2VvLUNwRGhWczhyeVpRZ2N5TFIta2pJZDlycEluM2lQbVAwZWdERUFPZXpySzZGb1o4OEpvSkJWV2ZJSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-06T18:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Klinik-Affäre: Immunität schützt Steffen Krach vor Ermittlungen - tagesschau.de",
+      "summary_de": "Klinik-Affäre: Immunität schützt Steffen Krach vor Ermittlungen &nbsp;&nbsp; tagesschau.de",
+      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYlcybWZiNlZOU1B4UFVnakZ4QXFXRE1oZmZTWkxqdkRNV0tVMDFwMHdzc0NqOEhNUnhvUkZlMk5VUy10Y2U2XzRDZkQ5VnZMZXg3TmpleGUzSm15dmRyakw3U0NWLUlwUUVMQUlDVkpkbHFXc3NUZ2J6M3R3V2VnTlNGQmlzR09NYzhCdGY0SGhTcERSNWtqY2Fnb0F1NVM3bThncUZnc2J3UEs5SWt0cmZzamFEZnZmR2lEMlZiTlpiNGlQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-06T17:30:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Decision: Medical devices given exceptional use authorisations",
+      "summary_de": "List of manufacturers and their medical devices granted an exemption by MHRA. The list also includes manufacturers whose exemption expired or was cancelled.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations",
+      "published_at": "2026-11-06T17:15:46+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Umweltreize bei Migräne: Zu hell, zu laut, zu intensiv",
+      "summary_de": "W&auml;hrend eines Migr&auml;neanfalls sind viele Patienten &uuml;berempfindlich f&uuml;r Licht, L&auml;rm und Ger&uuml;che. Ist die Hypersensibilit&auml;t dabei Ausl&ouml;ser oder Folgeerscheinung der Migr&auml;ne? Beim Schmerzkongress gab es Antworten von einer Expertin.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/zu-hell-zu-laut-zu-intensiv-171763/",
+      "published_at": "2026-11-06T17:00:00+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Diagnostic Imaging articles: Update",
+      "summary_de": "",
+      "source_name": "Diagnostic Imaging articles",
+      "source_url": "https://www.diagnosticimaging.com/view/next-generation-breast-imaging-platform-unveiled-rsna",
+      "published_at": "2026-11-06T16:52:00+00:00",
+      "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "GKV-Spargesetz: Homöopathie-Verträge des DAV werden beendet",
+      "summary_de": "Mit dem GKV-Spargesetz d&uuml;rfen&nbsp;hom&ouml;opathische Arzneimittel nicht mehr von den Krankenkassen erstattet werden. Der Deutsche Apothekerverband meldet jetzt, dass die bisher geltenden&nbsp;Hom&ouml;opathie-Vertr&auml;ge zum Jahreswechsel enden.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/homoeopathie-vertraege-des-dav-werden-beendet-171764/",
+      "published_at": "2026-11-06T15:20:10+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Abwehrmechanismus entdeckt: Körpereigenes Protein bremst Ebolavirus",
+      "summary_de": "Ein Forschungsteam des Universit&auml;tsklinikums T&uuml;bingen hat einen bislang unbekannten Schutzmechanismus menschlicher Zellen gegen das Ebolavirus entdeckt. Dreh- und Angelpunkt ist dabei das Zellprotein CD81.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/koerpereigenes-protein-bremst-ebolavirus-171753/",
+      "published_at": "2026-11-06T15:20:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Soziale Medien: EU: TikTok gefährdet mentale Gesundheit - Strafe droht - DIE ZEIT",
+      "summary_de": "Soziale Medien: EU: TikTok gefährdet mentale Gesundheit - Strafe droht &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVjNJSGZuVjN4ODBTaGM0NGduSzBNdG0xOXZiMFBrN0ZvUXk3SlU0N0U3YzdRZ1hDdjlVaWZ4dXJPNzF2YlF5TXAtRkQxLTN2QnlaUGdWWFdlRHQ5UEQ4RC12TE1JSGVQSGJXeUg0cHh1bE1CNHZyYVBSM3ZSZzhac2VHUUZabGs2TUxJYWlERFJXQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-06T15:13:38+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Soziale Medien - EU: TikTok gefährdet mentale Gesundheit - Strafe droht - Politik - SZ.de - SZ.de",
+      "summary_de": "Soziale Medien - EU: TikTok gefährdet mentale Gesundheit - Strafe droht - Politik - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeTdnWExhOG1hRFZhQzRYcFJVSEtrM1V0cF9wZ0VvaGtzUnk4eG9WaUFIRXJpU2cwajJMYm1fdU82VkdVbnhLREEybVoyWDItaHJkZXRTMG1xb2xpc0tKVFQ0TDJnaGlHYzhlY1gyQ24xbWFJTk1Fc0tZNzU0NXBHN3Y3ajRJSTR6TGJVZXo0V2V4bDVwbWxTVHgyWXctdVBJUWlXN01FYnZWc0UyYWNER010MDNEcndJM2QzeEl5Vll0ZTloQlEzeFp4bU9FYlN1bVlhYXVic0E0dDFRSk52U1BLT1IzQWZC?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-06T15:13:38+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Erstmeldung Arzneimittel: Methofill 10 mg Injektionsl&#246;sung im Fertiginjektor pU: Accord Healthcare B.V.",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-11-06T14:53:45+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Guidance: International Recognition Procedure",
+      "summary_de": "How to use the procedure for medicines licensing applications.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/international-recognition-procedure",
+      "published_at": "2026-11-06T14:30:35+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Chronisch-entzündliche Darmerkrankungen: Antikörper als Entzündungstreiber",
+      "summary_de": "Antik&ouml;rper, die das entz&uuml;ndungsd&auml;mpfende Zytokin IL-10 hemmen, k&ouml;nnten eine Ursache f&uuml;r entz&uuml;ndliche Darmerkrankungen sein. Das legen Untersuchungen von Forschenden aus Oxford nahe.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/antikoerper-als-entzuendungstreiber-171762/",
+      "published_at": "2026-11-06T14:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "PZ Briefing: Die Top-News vom 6.11.2026",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-6112026-171755/",
+      "published_at": "2026-11-06T14:00:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Decision: Orphan registered medicinal products",
+      "summary_de": "A list of authorised orphan medicinal products registered by the UK licensing authority.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/orphan-registered-medicinal-products",
+      "published_at": "2026-11-06T13:55:29+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Engpässe bei Grippeimpfstoffen?: PEI begann spät mit der Chargenprüfung",
+      "summary_de": "Im Augenblick beschweren sich viele Apothekerinnen und Apotheker &uuml;ber Lieferprobleme von Grippeimpfstoffen wie Efluelda. Laut dem Paul-Ehrlich-Institut ist die Versorgung mit Impfstoffen aktuell sichergestellt, allerdings habe die Pr&uuml;fung der Chargen ungew&ouml;hnlich sp&auml;t begonnen.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/pei-begann-spaet-mit-der-chargenpruefung-171752/",
+      "published_at": "2026-11-06T13:30:00+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "EU: TikTok gefährdet mentale Gesundheit seiner Nutzer - Panorama - SZ.de - SZ.de",
+      "summary_de": "EU: TikTok gefährdet mentale Gesundheit seiner Nutzer - Panorama - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdjh0Q2VKSnVNMXlDejA0Nkk2WjI5RTN0WnRaZmMtcGh5T0Q1dXJ0VU1FaHNVTlhGM2YxU3NRSzh6a2Y4NmhISHZvRThXUG5yTWk5T1R4UEl1SjZYUzhNRUZ3alF6UlpoeVJpQzIzVUIzd0VlcG94bEs3NFVMTmJzU1dTQnZTRzV3NFRkenVVUkRCVzh1RDJfcXZhTUZwalppSXc0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-06T13:21:13+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Meeting highlights from the Committee for Veterinary Medicinal Products (CVMP) 3-5 November 2026",
+      "summary_de": "CVMP opinions on veterinary medicinal products&nbsp;Further to the re-examination of the opinion adopted by the Committee during its June 2026 meeting, the&nbsp;Committee adopted a…",
+      "source_name": "News and press releases",
+      "source_url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-veterinary-medicinal-products-cvmp-3-5-november-2026",
+      "published_at": "2026-11-06T13:20:00+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Standard: Periods of Data and Market Exclusivity for UK Reference Medicinal Products",
+      "summary_de": "UK reference medicinal products authorised in the period 2014 – 2021 and their associated dates of expiry of data protection, marketing exclusivity.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/periods-of-data-and-market-exclusivity-for-uk-reference-medicinal-products",
+      "published_at": "2026-11-06T13:00:08+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Immunmodulation: Antibiotikum hilft Schlaganfall-Patienten",
+      "summary_de": "Ein Schlaganfall kann das Immunsystem dauerhaft ver&auml;ndern und eine chronische Entz&uuml;ndung nach sich ziehen. Wie sich das auf die Regeneration und m&ouml;gliche Folgeerkrankungen auswirkt und was das Antibiotikum Minocyclin damit zu tun hat, erkl&auml;rte ein Neurologe k&uuml;rzlich bei einer Pressekonferenz.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/antibiotikum-hilft-schlaganfall-patienten-171722/",
+      "published_at": "2026-11-06T12:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Tiktok droht Strafe wegen Gefährdung mentaler Gesundheit - Medien - SZ.de - SZ.de",
+      "summary_de": "Tiktok droht Strafe wegen Gefährdung mentaler Gesundheit - Medien - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYmRDTDdtajhLQ2hfcGlwYTBuU0c3bEpUNnhsUmRGSWliWndNVmptZFJobkVZQi1VMWQyckF6R0tncjlVbTNjdWxWUUpiTTcxWTluWE96ZmoyRHI4cWlwLVZzQkNkWDB0OHZHbTRmLWFOWjBrb1dmREtMZDBlaHpMTVJrLVlLVXVPNTg5ejNqcjN1MHdrRWZWNGpYcWJrOUQxeXhWQ3lKcG1Sb19GSGVaV3N3ZHZfRDRfWlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-06T11:48:02+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Europäische Union - EU: TikTok gefährdet mentale Gesundheit - Strafe droht - Politik - SZ.de - SZ.de",
+      "summary_de": "Europäische Union - EU: TikTok gefährdet mentale Gesundheit - Strafe droht - Politik - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTmlCakhlX2l6SWNpUGgxOHBKT3cxOHNvbDBKS3p0QzRNeUpzOEd3ZVVqdUxGSFNhdmJvN29oc1BMeERxUkNTd2hmLTRVRk5hSGE1OGdmZ3ZkcWlCMmx5T2x6Z1Fib2VGS3pSSnU1MEZpN1FSWFBSYVpPeW4zdkFsaHFVS3BseHl3ckhLTWI3ZjFtenFWNUh2U1hUVHZoNEZodFoySmFaeWwtLV9DcDA0SWpobHBQUl8wVnY0dXEzYUFLUEtCcnJzbHNfaGtfd25SSGtzSnowUzVpeFJQbnQtT2lrWnhrNkh2NDhkeQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-06T11:00:21+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Mental Health Services Monthly Statistics, Performance August 2026",
+      "summary_de": "This publication provides the timeliest picture available of people using NHS funded secondary mental health, learning disabilities and autism services in England, excluding those who are solely in contact with Talking Therapies. This information will be of use to people needing access to information quickly for operational decision making and other purposes. More detailed information on the quality and completeness …",
+      "source_name": "Publication Feed",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mental-health-services-monthly-statistics/performance-august-2026",
+      "published_at": "2026-11-06T10:08:59+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Clinical trials for medicines: Good clinical practice inspections",
       "summary_de": "Information relating to good clinical practice (GCP) inspections.",
@@ -14,12 +234,12 @@
       "type": "News"
     },
     {
-      "title": "Guidance: Guidance on bringing software as a medical device to market",
-      "summary_de": "Overview of the key regulatory steps and guidance to consider when bringing software as a medical device (SaMD) to market in Great Britain and Northern Ireland.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/guidance-on-bringing-software-as-a-medical-device-to-market",
-      "published_at": "2026-11-06T09:09:02+00:00",
-      "category": "Europa",
+      "title": "Telefonbefragung : Fast jeder Zweite schläft nicht wie empfohlen",
+      "summary_de": "In Deutschland schl&auml;ft fast die H&auml;lfte der Erwachsenen weniger oder mehr als empfohlen, meldet das Robert-Koch-Institut (RKI). Das geht aus Daten einer Telefonbefragung hervor.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/fast-jeder-zweite-schlaeft-nicht-wie-empfohlen-171727/",
+      "published_at": "2026-11-06T09:30:00+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -74,6 +294,26 @@
       "type": "News"
     },
     {
+      "title": "Personal | Klinik für Plastische, Ästhetische und Handchirurgie | DIAK Klinikum Landkreis Schwäbisch Hall in 74523 Schwäbisch Hall - HEK",
+      "summary_de": "Personal | Klinik für Plastische, Ästhetische und Handchirurgie | DIAK Klinikum Landkreis Schwäbisch Hall in 74523 Schwäbisch Hall &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQamFnN05maHRTbExHNjM0azVWYkVwNzJUY2htQVJyZk1rTm8zTV96dXVNaE03a1NwM3ZDOG1OSG9OY2RDUEFyUWVfXzVXbWR1ZDlLTlgxQkJpdEV3ejZLNDBIUFFNbFUtLUZxT2RzdTg2eEZZVnRuQWFoR0t5UFY3LWtZVXVXeE1kSTJEUlM0cklhTVlJQ0k2eTZrZTg1MHFiYm5KSjFvVWJFdzRlQWVBclo5YjlTU3p3QW93U25YVzRkX2J1dmhXRkFfLTBnTk5oOFNuSGJmOUU2ZEljZG8takxZSjFkb2FVazR3UE1PQmZuTUhZRjViTWFfU2RpZld1LWhOOHlBTmFfUEFZY1piaG9hMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-06T05:08:33+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Chest physiotherapy for pneumonia in children",
+      "summary_de": "Chest physiotherapy for pneumonia in children",
+      "source_name": "Cochrane Library RSS feed.",
+      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010277.pub4",
+      "published_at": "2026-11-06T00:00:00+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
       "title": "Radiology Workspace: boost productivity and elevate clinical outcomes",
       "summary_de": "The future of radiology: unified workflows, AI automation, and transformed clinical communication",
       "source_name": "AuntMinnie",
@@ -124,28 +364,6 @@
       "type": "News"
     },
     {
-      "title": "Mitarbeiterin (m/w/d) am MRT - gerne auch Quereinsteiger, Kernspinzentrum Europa Passage - SZ-Stellenmarkt",
-      "summary_de": "Mitarbeiterin (m/w/d) am MRT - gerne auch Quereinsteiger, Kernspinzentrum Europa Passage &nbsp;&nbsp; SZ-Stellenmarkt",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEVfZi1uZUwtMVpWSHRIb1E4RDFNTGQ2SGZhSWRXcUlYdVBOOGpYalk3ZWdFV1lYTWlMUHZYOWpyWmxKX3dNVTBIZXN0WVBjVEtlYnM1NmxKTFZmdXZTdi1tb19GZWxDYTlGNEU4UGFQbG5jblVZeUViMUVMQ2wxbUpTNnBIR1JCZlVHSG13ZzVuNzAxakRtbE5lSTRZc016eFhpdkZCbnlLYXlRQ3dDemtrMG50LWs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-11-05T17:20:05+00:00",
-      "category": "Radiologie",
-      "tags": [
-        "Europa"
-      ],
-      "type": "News"
-    },
-    {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: Spironolacton Accord 50 mg Filmtabletten pU: Accord Healthcare B.V.",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-11-05T17:12:57+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "DGN-Kongress: Ärztepräsident wettert gegen Apotheken",
       "summary_de": "Mehr Impfungen und Pr&auml;ventionsma&szlig;nahmen in Apotheken &ndash; die verfasste &Auml;rzteschaft tut sich offenbar noch immer schwer damit. Berlins &Auml;rztekammerpr&auml;sident Peter Bobbert polterte beim DGN-Kongress ungewohnt heftig gegen die pharmazeutischen Kollegen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -162,26 +380,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/trauerfall-im-apothekenteam-und-jetzt-171635/",
       "published_at": "2026-11-05T17:00:00+00:00",
       "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Decision: Medical devices given exceptional use authorisations",
-      "summary_de": "List of manufacturers and their medical devices granted an exemption by MHRA. The list also includes manufacturers whose exemption expired or was cancelled.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations",
-      "published_at": "2026-11-05T16:50:33+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Decision: Orphan registered medicinal products",
-      "summary_de": "A list of authorised orphan medicinal products registered by the UK licensing authority.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/publications/orphan-registered-medicinal-products",
-      "published_at": "2026-11-05T16:24:58+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -368,16 +566,6 @@
       "type": "News"
     },
     {
-      "title": "Landgericht Bielefeld - Heim-Prozess: Arzt-Verteidiger fordert Prüfung der Vorwürfe - Panorama - SZ.de - SZ.de",
-      "summary_de": "Landgericht Bielefeld - Heim-Prozess: Arzt-Verteidiger fordert Prüfung der Vorwürfe - Panorama - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV0diOGtzci0yMnlMaDRfM2ExZy16N2ZneWpWN08tQlZiTzBUUk4zUGhUcDNEUTlCOHo5dDZpb3U4bjBzMHRmLVN1Q1FZakoxQ1FZQzVBcG04TjRkSXo1Yk1zLU5Mb3dwUEVybGZnNy1BelphTWRGVnJwbmxlNDEzaElBaElXQk1pX1BzWml3a0FSaW5rVVJZbEtqRU9MT3RpZV9TM1pJUmJURWtjX0hzUWljX1hKN2M1YnJDZXhYR3IzMmhjOVg0VmdlWGxCcjRnejFicW90MFNPZUwtME96VUQweHU1V3ZPUWZLakRYRVFxWm1iVkdGVGlxTUZrQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-11-05T12:01:54+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Duvyzat®▼ (givinostat): interim advice on risk mitigation measures following reports of deaths in patients while taking givinostat",
       "summary_de": "There have been several reports internationally of deaths in patients with Duchenne muscular dystrophy (DMD) while being treated with Duvyzat® (givinostat). Following a review of these cases and associated evidence, the MHRA has proposed updates to the product information.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -496,16 +684,6 @@
       "source_url": "https://www.gov.uk/government/publications/mhra-nice-real-world-evidence-scientific-dialogue",
       "published_at": "2026-11-05T09:30:06+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Dr. med. Prerana Agarwal wird neue Leiterin der Radiologie und Nuklearmedizin LUKS am Standort Sursee - Luzerner Kantonsspital",
-      "summary_de": "Dr. med. Prerana Agarwal wird neue Leiterin der Radiologie und Nuklearmedizin LUKS am Standort Sursee &nbsp;&nbsp; Luzerner Kantonsspital",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb05IckNRWEhEQ1dmWDJvX0hObHRwUFVlUXZCTmFNcERPUkRDazVkU21Wb1puTm92NnFrZ3VoYXFLWE00cXl4NTdIdjdEMEd2aTNBVHNqSHB1RVlOOTBFaEZ2OFhVdS0xdnZha2xsQ3pVUGx6Wkg2MVYzTENLSThSNXNDaXlSTzdWN1VBYWtmZjBBZEdKMjQzTXc2aUpCcmVmS0tzQUxXbHd4U09DOUZVazNfMjN2YUZ1MGVSMGhFbDR3LURBdjFZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-11-05T09:05:55+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -708,16 +886,6 @@
       "type": "News"
     },
     {
-      "title": "Alzheimer-Pathologie: Wie Herpesviren Immunzellen im Gehirn verändern",
-      "summary_de": "Eine HSV-1-Infektion programmiert im Gehirn r&auml;umlich begrenzt die Immunzellen des ZNS um, die sogenannte Mikroglia. Dies k&ouml;nnte ein Mechanismus sein, der den vermuteten Zusammenhang von Infektionen und der Alzheimer-Pathologie erkl&auml;rt.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/wie-herpesviren-immunzellen-im-gehirn-veraendern-171698/",
-      "published_at": "2026-11-04T17:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -758,26 +926,6 @@
       "type": "News"
     },
     {
-      "title": "Berufseinstieg in der Pflege - Weg für neue Ausbildung zur Pflegefachassistenz freigemacht - Politik - SZ.de - SZ.de",
-      "summary_de": "Berufseinstieg in der Pflege - Weg für neue Ausbildung zur Pflegefachassistenz freigemacht - Politik - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOTV9WS0xiM0FOS2MzVDdRaVZCd0ZZYTNLc0s0Yk1kOE1VakZES3M4UEdMUzhLOEFlY1owRUZmLS1xN1Z6bkpDZllWcnVPUzdpWHRTZk9YOVcxUjNXUzFWZTViVWxxZHJ2TzZyMndOVVJYNnlreW15dUs5Z3NLQUZZNUZ1cU1Ka19qaWFReVFlc1NudjM4cUF1VGJ0QWJmcnNOdlVkREFjbDlHdzNtRDkzZ181Skt0UWpKS0g2WC16MmlJRi1BMXVDVWhFRzlCYVBQeFMzS2NKQm5sRW15YU9zcVRQQU1ZZEZmay12NV9UV3VZbHNDTXl0VC1RU1l1RE9aWFY0U3Rn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-11-04T16:34:00+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Impfen in Apotheken: Rationale Gespräche und Übung",
-      "summary_de": "Ina Lucas, Apothekerin und ABDA-Vizepr&auml;sidentin, betonte, dass manche Gruppen beim Thema Impfen zwar laut werden, im Ernstfall jedoch Gespr&auml;che auf rationaler Ebene gef&uuml;hrt werden.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/rationale-gespraeche-und-uebung-171696/",
-      "published_at": "2026-11-04T16:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "MHRA guidance on its assessment of non-clinical data generated outside OECD system",
       "summary_de": "MHRA issues new guidance on its approach to clinical trial applications that rely on non-clinical safety data generated outside the OECD Mutual Acceptance of Data system.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -800,69 +948,6 @@
         "Europa"
       ],
       "type": "Studie"
-    },
-    {
-      "title": "Noweda-Gutachten: »Apotheken als Teil der krisenrelevanten Infrastruktur«",
-      "summary_de": "Die Apothekergenossenschaft Noweda hat dem Parlamentarischen Staatssekret&auml;r im Bundesgesundheitsministerium, Georg Kippels (CDU), ein Gutachten zur Rolle der Apotheken in Krisen- und Katastrophensituationen &uuml;bergeben.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/apotheken-als-teil-der-krisenrelevanten-infrastruktur-171693/",
-      "published_at": "2026-11-04T15:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "PZ Briefing: Die Top-News vom 4.11.2026",
-      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-4112026-171694/",
-      "published_at": "2026-11-04T15:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Alzheimer-Antikörper: Erfahrungen nach einem Jahr in der Anwendung",
-      "summary_de": "Seit gut einem Jahr k&ouml;nnen sich bestimmte Patientinnen und Patienten in Deutschland mit den Alzheimer-Medikamenten Lecanemab und Donanemab behandeln lassen. Was hat sich seitdem getan?",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/erfahrungen-nach-einem-jahr-in-der-anwendung-171690/",
-      "published_at": "2026-11-04T14:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Bundestag: Gaslighting statt Diagnosen",
-      "summary_de": "Der Gender Health Gap endet nicht bei der vergleichsweise schlechteren Versorgung der Frauen &ndash; er und seine direkten und indirekten Folgen kosten auch Geld. Beim parlamentarischen Fr&uuml;hst&uuml;ck&nbsp;&raquo;Gender Health Gap: Wenn Evidenzl&uuml;cken teuer werden&laquo; pr&auml;sentieren Expertinnen Erfahrungsberichte, Forschung und den Stand der Versorgung.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/gaslighting-statt-diagnosen-171688/",
-      "published_at": "2026-11-04T14:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Versorgung",
-        "Wirtschaft"
-      ],
-      "type": "News"
-    },
-    {
-      "title": "Klimaschutz zum Zähneklappern: Kaltduschen spart CO₂ und Krankheitstage",
-      "summary_de": "Kaltes Duschen spart Energie und verbessert das pers&ouml;nliche Wohlbefinden. Eine Untersuchung der Universit&auml;t Basel hat gezeigt, wie sich umweltfreundliches Verhalten und pers&ouml;nliche Vorteile miteinander verbinden lassen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/kaltduschen-spart-co2-und-krankheitstage-171658/",
-      "published_at": "2026-11-04T14:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Merckle Promotionspreis Pharmazie: Drei Forschende ausgezeichnet",
-      "summary_de": "Beim Tag der Pharmazie am 16. Oktober an der Universit&auml;t T&uuml;bingen ist zum 25. Mal der Merckle Promotionspreis Pharmazie verliehen worden. Mit der Auszeichnung werden herausragende Arbeiten aus den pharmazeutischen Wissenschaften gew&uuml;rdigt.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/drei-forschende-ausgezeichnet-171686/",
-      "published_at": "2026-11-04T13:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "RNA-Medizin: Was kommt nach der Corona-Impfung? - tagesschau.de",
@@ -895,16 +980,6 @@
       "type": "News"
     },
     {
-      "title": "Gen Z und Pflege: Wenn Abgrenzung für die mentale Gesundheit nicht mehr funktioniert - SZ.de",
-      "summary_de": "Gen Z und Pflege: Wenn Abgrenzung für die mentale Gesundheit nicht mehr funktioniert &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZVdJd0trU1h0M3BNOVJDZ1dFeWhaSXJvZEY1N0ZSN25SQzFfUHYyNkFMVXVZR1BJQVVCaDVVTWVjYXBOaHc2N05pMUoyQ0FheHVlcERnY1JHVHhlVjhQZmdrUjhwTm9nQzU5MGlKM3VieG1qdlBBeHJFY25paHRjeVZ2eUhCWHA3VnZIQUpuSGRHMWFCdUxoalFnRDIxZU9BN2RtSVhXU09GaHlJLXlNQURLOEJCNExxWXVNMnp5TXRQak92aFlnV2JfU1Rtdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-11-04T10:01:29+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Elsner zum PNOG: Richtiger Schritt zur Stabilisierung, aber unausgewogene Finanzierung",
       "summary_de": "Mit der ersten Lesung des Pflegeneuordnungsgesetzes (PNOG) startet der Bundestag das Reformverfahren für die soziale Pflegeversicherung (SPV). Der vdek begrüßt die kurzfristige Stabilisierung der SPV, kritisiert aber, dass die Einsparungen nicht ausreichen und Bund sowie private Pflegeversicherung weiter zu wenig beitragen.",
       "source_name": "vdek - Verband der Ersatzkassen e. V.",
@@ -914,6 +989,16 @@
       "tags": [
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Ihre Krankenkasse: Für alle gut, für jeden anders | BARMER - Barmer",
+      "summary_de": "Ihre Krankenkasse: Für alle gut, für jeden anders | BARMER &nbsp;&nbsp; Barmer",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-04T09:07:29+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
@@ -963,16 +1048,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTFlJWmcwNzhHWlpGbktnaU9KOXlrdEtuWDREX2p4ci1Pal9JTWp1NjRlamVSZC1PSFptV3otRjFPN2tKRWctVXl6T2xNWnNxbGQ2WWstc2FnQWxfUW1YNktDTFpnb2YtY05aVjlubjVWMmNpOG5ELTJoaVR0SEsxdUlGdURmTEhZdmZqV1d0eHBRcEJSYjNxRFpIMnM5WlppbVRnT1B0ajROV1JZc2F6b1k4M2hiODEwekNTYnhUSTdULTNlcERSamh3aUdSUFpwcjVmQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-11-03T11:05:00+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "KI ergänzt CT: Ohnehin erfasste Werte sagen Überleben nach Eingriff bei Leberzirrhose voraus - Medizinische Fakultät Münster",
-      "summary_de": "KI ergänzt CT: Ohnehin erfasste Werte sagen Überleben nach Eingriff bei Leberzirrhose voraus &nbsp;&nbsp; Medizinische Fakultät Münster",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQN3YyRWdXS3ZWbTdLNDg5NjVURUlRcHJRMkhLRHZKVU1RaEZra1k0QzdMUElYYlFPaTJjQXhOeEoyU3duVHdpbWJ2YVhWMUNld1ZLUkpVdzIxY2lhN2pyVU9RODh1bzVid2ZYeUJvU2h3SnYyeUVaLVVIcWhZOVdYdmhPWnpjb2NZbm96UmRnSTR3ejZ5UGp5aU9nUmlzYm4tNDZ5bzBmRjNNLVA1OS1aTm5aek1XR3lwbnVkaEE2WXl6aEZsTmV0ak1oczVOVW12SS1BdFJQcUljZVZWZ05vTDhJZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-11-03T10:56:53+00:00",
-      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -1059,16 +1134,6 @@
       "type": "News"
     },
     {
-      "title": "MHRA launches patient safety essay competition for MedSafetyWeek",
-      "summary_de": "The MHRA reminds patients, parents, carers and healthcare professionals to report suspected side effects through the Yellow Card scheme for MedSafetyWeek 2026.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/mhra-launches-patient-safety-essay-competition-for-medsafetyweek",
-      "published_at": "2026-11-02T09:14:33+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheitsreform 2026/2027 - Techniker Krankenkasse",
       "summary_de": "Gesundheitsreform 2026/2027 &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
@@ -1085,16 +1150,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU2RDdmRvOUQ2c0xia1J1T1RPa3FQZmhJeXp1TE1iWG9wc1lFVk5ucmFGUVVZYllVdnFnaEFCWC1FOThBbE1NaHJvendKaEZCcEtpSi1lVFVFcG5TVmRldTdYalBCMmVsNnZCV3Z0LXpOeFZ3aDJOalNGUlYzSmY3VA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-11-02T08:00:00+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Entlastungsbetrag in der Pflege - Techniker Krankenkasse",
-      "summary_de": "Entlastungsbetrag in der Pflege &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRVVwNlEtYTltdDU4dkppeTg5V0tFX0ZHNk5mbmZsTTZLamU4bTM0UWg2cmFtVmU5TU1oTDktOXd0blQ0NElwZFl5WlB3dVFSbjZ6TU04cmc2TkJ2aXNQXzRRaGdSNDlXN1dyY09mQ1dockZnNU0wSDN3NEJ3d0U0LUFXRXNqZk8wa3NrWk1aWFZoYVNFalU1TFk4dlE1VVEwR3F1WXUxaERSSVdraDZ5Y3dIUW83cEphTmhYTTNHSDdwcV9jTGs4R0g4S2tjVHhfLVV5cDl0X2pOZnNtVUxLZWpDTGdrNDRucVYzOUR0QVBFb1U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-11-02T08:00:00+00:00",
-      "category": "Versorgung",
       "tags": [],
       "type": "News"
     },
@@ -1149,12 +1204,32 @@
       "type": "News"
     },
     {
+      "title": "Gesundheit - Zahl der Ebola-Toten im Kongo steigt auf mehr als 5.000 - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Gesundheit - Zahl der Ebola-Toten im Kongo steigt auf mehr als 5.000 - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUmt1eGJfX0pESnhXcXFfdWEzZk03c3lBeTZsSURZVlNNeXdNcXZPc3FUc3M5THJ3dmM1R0pJVjdqcWpvT3FqZGp1QkxaSnpaczRMRHpudXNjZ2pYcXg1bnd4UW03eWltRTdOcFRUZmtySThpRmI2ZjdQMFJjd2M1RVZRVllyazNxa2ZjaTRJbjFTNmNtcnFmYUJSazRBMHdUQ2hqUDh2ZVViYV9KLW82S2trUkZjNHJSUzhNU0VSLXNKVWd5eEtqY3JtdFlPSk1NQlI3Vk5Ec0FiMnlZeDBQZlJvaDltVGxRYVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-31T05:07:53+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
       "source_url": "https://www.diagnosticimaging.com/view/key-features-epni-ct-may-more-than-double-mortality-risk-pancreatic-cancer",
       "published_at": "2026-10-30T20:13:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "In Italien protestieren Hunderttausende gegen hohe Preise und für mehr Investitionen in Bildung und Gesundheit - tagesschau.de",
+      "summary_de": "In Italien protestieren Hunderttausende gegen hohe Preise und für mehr Investitionen in Bildung und Gesundheit &nbsp;&nbsp; tagesschau.de",
+      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrNi1zQ01QYWNGYlFmakdqWnQ1UnQ2M3hSUGJsejdHMnBqT0ZLanZIUlpFcjU1aktxWjBxODBBdHZlRDVqaHFrUU5HUEhEOHhFeWZ1bEh3YWtQQnY3Nzd0ZjN3RWg1V3NDckQwNzJyRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-30T19:37:33+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1197,6 +1272,16 @@
       "source_url": "https://www.diagnosticimaging.com/view/top-five-radiology-content-october-2026",
       "published_at": "2026-10-30T09:51:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Das Magazin - Kundenmagazin für TK-Versicherte (+PDFs) - Techniker Krankenkasse",
+      "summary_de": "Das Magazin - Kundenmagazin für TK-Versicherte (+PDFs) &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV2JyR3d2Mm1kdzRxemliRDRtbFZvSjQ5eUxtYjh2TXNPeU1xcElaZXlXaU9pT1QtRmhnSy1mZ3lTeVZjY1AzSFJoejFwNmc3TDFvb25yUmRDaVdJVlJTRkM5ek10djQwQmZ2NEF5Z3JCSDVIb2w0a3phdVhoWGhRUEh6S1Y1UXN5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-30T07:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1321,8 +1406,8 @@
       "type": "News"
     },
     {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - Barmer",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; Barmer",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-10-29T07:00:00+00:00",
@@ -1840,16 +1925,6 @@
       "type": "News"
     },
     {
-      "title": "Diagnostic Imaging articles: Update",
-      "summary_de": "",
-      "source_name": "Diagnostic Imaging articles",
-      "source_url": "https://www.diagnosticimaging.com/view/reading-room-podcast-emerging-concepts-ai-integration-radiology",
-      "published_at": "2026-10-22T00:36:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Smoking cessation interventions in adults with attention deficit hyperactivity disorder (ADHD) or autism spectrum disorder (ASD)",
       "summary_de": "Smoking cessation interventions in adults with attention deficit hyperactivity disorder (ADHD) or autism spectrum disorder (ASD)",
       "source_name": "Cochrane Library RSS feed.",
@@ -1932,12 +2007,12 @@
       "type": "Studie"
     },
     {
-      "title": "Mental Health Services Monthly Statistics, Performance August 2026",
-      "summary_de": "This publication provides the timeliest picture available of people using NHS funded secondary mental health, learning disabilities and autism services in England, excluding those who are solely in contact with Talking Therapies. This information will be of use to people needing access to information quickly for operational decision making and other purposes. More detailed information on the quality and completeness …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mental-health-services-monthly-statistics/performance-august-2026",
-      "published_at": "2026-10-20T14:48:03+00:00",
-      "category": "Europa",
+      "title": "Borderline: Symptome und Therapie der Persönlichkeitsstörung - DAK-Gesundheit",
+      "summary_de": "Borderline: Symptome und Therapie der Persönlichkeitsstörung &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS2RTQ3pFcF90SkV6ODlmeC1Bd2pCM1U1M1djeUdUTm9sZXVQTEYxa0ZBU1FPRFNYenNCTHBVVkY5S3NCUU41eEpiSXNlQXB1aG9PZE1NbVlUM0hwd1ltNTBYSURWeTFtTER0WWZ2UXE1YS1fakxPY1FUYzBwTXg3cmpLZDFlRWZ5UjJsWnVFOXJQb0pCcVRUV25QWVVhWEx6ODBHTE8wa3ZZMk9MRGp6RkZXQVZPSnZYcTZpLXdLclZXdmlCQTctZXpBZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-20T13:20:21+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2261,16 +2336,6 @@
       "type": "Studie"
     },
     {
-      "title": "Education and training interventions for healthcare workers to prevent sexual harassment",
-      "summary_de": "Education and training interventions for healthcare workers to prevent sexual harassment",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016096.pub2",
-      "published_at": "2026-10-12T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
       "title": "Gesundheitspolitik: Zahl der jüngeren Pflegebedürftigen im Norden steigt - DIE ZEIT",
       "summary_de": "Gesundheitspolitik: Zahl der jüngeren Pflegebedürftigen im Norden steigt &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
@@ -2422,16 +2487,6 @@
       "type": "News"
     },
     {
-      "title": "Brainfood: Nährstoffreiche Lebensmittel fürs Gehirn - DAK-Gesundheit",
-      "summary_de": "Brainfood: Nährstoffreiche Lebensmittel fürs Gehirn &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNelZ4N0Q0OFc5ajdzSjRLdWRDRDNmZkJNT255UDlpMmZ0ZEVlTXZRN2Q3LWp1QTJPSnBJaVBadlZCaUgxd3c1eE1OZWVBZzdqaGdZLVZWMU03X0htYncxTDVQM2hPaXE3M2ZhU3N5eWRjWTdhWlh0NlF3V2h2dTVzRC1YSjFXcmN0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-05T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "[MI] SNOMED Code Usage in Primary Care, 2025-26",
       "summary_de": "The following files show the number of times each listed SNOMED code was added to a GP patient record within the period 1 Aug 2025 to 31 July 2026, aggregated at England level. The data is available in .txt and .xlsx formats.Data does not show how many patients had each code added to their record. A patient could have one …",
       "source_name": "Publication Feed",
@@ -2488,6 +2543,26 @@
       "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQjdIODZNOVdaU2liSmZYNFJ4NUR2b0lwVzZfNk4yWmE1RFJsQnQxR29YRkxHUnhiZXN3Nk1LdTcxZktEZ25SS2RLRC1ScmhPMXRCTHBlbzFXV0cyRGdJRjI5Y1ZPYzRZMC1KVnpyVDl0M0JGQ2NDT3docGROdk1sbTN2eUZtX1FtTXdOZTdaNlUyQ0k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-10-01T07:00:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "HPV-Impfung für Kinder und Erwachsene - DAK-Gesundheit",
+      "summary_de": "HPV-Impfung für Kinder und Erwachsene &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc21iZHlwdlZBbTZvSzNxR2RtWUJnSWdDN21pTmRxdy1yOUtDLVVfcmN2c2ViV0drb19UUkFRMUJTTkRmdkdOYW1jZHdwdENDTTVKdjIzNTEyeU9HYzctVG1NZktsLWltWXRIVnpac2JEMDNJTnhhVzh2UDZEX2pBQ3BpaE9LZlUydmpvSTViaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-01T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Was hilft gegen Bauchschmerzen? Hausmittel & Tipps - DAK-Gesundheit",
+      "summary_de": "Was hilft gegen Bauchschmerzen? Hausmittel & Tipps &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYTVnQkRhU3VoOUFDVXU1UzRSUzhVcDFnZ2pxaFJDSVFuUHRIcGVsWEkxVkZJdnd4aGVjOTlaenZkTENTTDJybjNQZ3JFeExhdUlNbUoxTmJ6ZHRYUlphUGZEVE5kM1VfR2VmMWVZaGd4YmE3WGJZdHBmQWtMSFRadWZPY2hLalA5bThMX1lKVTdnbWc1MTQ5RWdIVTdqLUlNazBGb2VuSXN5d0xzMWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-01T07:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -2562,26 +2637,6 @@
       "type": "News"
     },
     {
-      "title": "Einlagen - DAK-Gesundheit",
-      "summary_de": "Einlagen &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OVGxnWkRHYmJyRTh1WDNsSmdYckdjbTVfM2JISV9GNTVmNVpORHdhVGQxbWdudVFfZXNWVWtHejZmekZGSDIxTzdJak5xRWg0eUh4ME85ZHF3N216cHhLNk5PY0NzTHoxQVZ0eg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-01T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Pflegeversicherung im Überblick - DAK-Gesundheit",
-      "summary_de": "Pflegeversicherung im Überblick &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaWd0Q2w0elQ2ZmNFQTMxQmNQWVNOTTZGcTNLcVEyTmxpT1pPZG55a1VaUWlPWFpFaWNYRFNta180Wm05YWFIRlB6V3gtX3otMGQxQTFwVlJLLVdNam9rV0lmVGZ1R1dVZ0ZZeFh0T0d3cUZxLURrZkItT2xMWTFqOEtPT0w1dw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-01T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Pressemitteilung: Löhne in der Pflege steigen bundesweit durchschnittlich um 3,4 Prozent",
       "summary_de": "Die Durchschnittslöhne in der Pflege steigen in diesem Jahr weiter an. Nach Berechnungen des GKV-Spitzenverbandes sind die bundesweiten Stundenlöhne in der Langzeitpflege gegenüber dem Vorjahr um 3,4 Prozent auf 24,50 Euro gestiegen. Die Entwicklung variiert je nach Bundesland: Während im Saarland und in Rheinland-Pfalz der Anstieg bei 2,7 und 2,8 Prozent lag, stiegen die Löhne in Thüringen und Mecklenburg-Vorpommern um …",
       "source_name": "GKV-SV Presseinformationen",
@@ -2640,6 +2695,16 @@
       "type": "News"
     },
     {
+      "title": "Intimbehaarung: Alles, was du wissen musst - DAK-Gesundheit",
+      "summary_de": "Intimbehaarung: Alles, was du wissen musst &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc3otWm1paldqVTdtV2VpaklIZmdTVjA4S3p2WmNYQzJqMG9LdWJNMDRqbmNsbTlxcjJiQjdQZGNVdWxhQ3kyamFDZktwaEhkT1NCYkE4N3k3bzgzMGF6MDk1ZC1VVFZRd1NFcjdjUEhWOVhhQ2lhSloxNW8wN0habVR5V2R5ZDBiWVA4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-28T10:57:44+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Meldung: Die Pflegereform muss jetzt in den Deutschen Bundestag",
       "summary_de": "„In der Pflege herrscht Alarmstufe Rot! Es ist lange bekannt, dass die Pflege bis Ende des Jahres ein Defizit von 4,4 Milliarden Euro anhäufen wird. Ich appelliere daher an die Politik: Es muss jetzt politisch gehandelt werden, denn in wenigen Monaten ist das Geld schlichtweg alle\", so Oliver Blatt zur aktuellen Debatte um die Pflegereform.",
       "source_name": "GKV-SV Presseinformationen",
@@ -2650,16 +2715,6 @@
         "Versorgung",
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "NHS Talking Therapies, for anxiety and depression, Annual reports, 2025-26",
-      "summary_de": "This statistical release is the annual report on the NHS Talking Therapies programme from 1st April 2025 to 31st March 2026. NHS Talking Therapies is run by the NHS in England and offers NICE-approved therapies for treating people with anxiety or depression.The publication contains analyses on activity, waiting times and outcomes such as recovery in 2025-26. In addition, the report …",
-      "source_name": "Publication Feed",
-      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-talking-therapies-for-anxiety-and-depression-annual-reports/2025-26",
-      "published_at": "2026-09-25T18:32:23+00:00",
-      "category": "Europa",
-      "tags": [],
       "type": "News"
     }
   ],
