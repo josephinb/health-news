@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-11-06T01:17:56.816706+00:00",
+  "generated_at": "2026-11-06T10:12:57.747109+00:00",
   "window_days": 42,
-  "count": 263,
+  "count": 259,
   "items": [
+    {
+      "title": "Clinical trials for medicines: Good clinical practice inspections",
+      "summary_de": "Information relating to good clinical practice (GCP) inspections.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/clinical-trials-for-medicines-good-clinical-practice-inspections",
+      "published_at": "2026-11-06T09:52:24+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Guidance: Guidance on bringing software as a medical device to market",
+      "summary_de": "Overview of the key regulatory steps and guidance to consider when bringing software as a medical device (SaMD) to market in Great Britain and Northern Ireland.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/government/publications/guidance-on-bringing-software-as-a-medical-device-to-market",
+      "published_at": "2026-11-06T09:09:02+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Clinical investigations for medical devices",
+      "summary_de": "How to notify the MHRA of your intention to carry out a clinical investigation for medical devices.",
+      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
+      "source_url": "https://www.gov.uk/guidance/notify-mhra-about-a-clinical-investigation-for-a-medical-device",
+      "published_at": "2026-11-06T09:08:51+00:00",
+      "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Starkes Netzwerk: Menschlichkeit kommt aus der Apotheke",
+      "summary_de": "Wo Gesundheit keine Selbstverst&auml;ndlichkeit ist, z&auml;hlt jede Unterst&uuml;tzung. Apotheker ohne Grenzen (AoG) startet ein neues Supporter-Programm f&uuml;r Apotheken, die soziale Verantwortung sichtbar leben m&ouml;chten.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/menschlichkeit-kommt-aus-der-apotheke-171724/",
+      "published_at": "2026-11-06T08:30:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "DRK-Hausnotruf - Wenn ein Knopfdruck das Leben retten kann - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "DRK-Hausnotruf - Wenn ein Knopfdruck das Leben retten kann - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQnhUOExscEVBTVJKRFFRdWRTVjdzMEFNQ2JHY2tQb3VGeXB4aXd0dlV5VnhSazM3UlFmd3ZEZHd3YmlqbFc5WTVGaHZwSjlHZXNmbVVrSUwxUHhOaDFJNmoxa0hkSTVYU0Y0OFFpZGZ1VzFVZnh6QlZCc29uR3dGUHhvbjRBRWVaU0JWU0FwMHZQRmpGQ3hTUVItX1R0Tkp5UlNuTFREeW5sMEN5elcycDNCb1k4MDNHeW1sZWR0d1JDcmFHZzI1em01S0QzeDZxb0xiRF9pbEdQTDA4UkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-06T07:56:26+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Bundesrats-Ausschuss: Länder melden Bedenken gegen Dispensierrecht an",
+      "summary_de": "Der Gesundheitsausschuss des Bundesrats gibt der Notfallreform kein gr&uuml;nes Licht. Vielmehr solle das Plenum am 20. November den Vermittlungsausschuss anrufen, empfehlen die L&auml;nder mehrheitlich. Skeptisch sind sie etwa bei den geplanten Integrierten Notfallzentren (INZ). Auch das Dispensierrecht st&ouml;&szlig;t auf Kritik &ndash; ebenso wie die Hilfsmittelausschreibungen im Schlepptau des Gesetzes.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/laender-melden-bedenken-gegen-dispensierrecht-an-171744/",
+      "published_at": "2026-11-06T07:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Musik im Krankenhaus: Weniger Übelkeit, mehr Energie",
+      "summary_de": "Musik wirkt wie eine stille Helferin im Gesundheitswesen. Nicht nur Patienten profitieren von gezielt eingesetzten Kl&auml;ngen, sondern auch das medizinische Personal. Das belegen zwei Studien.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/weniger-uebelkeit-mehr-energie-171676/",
+      "published_at": "2026-11-06T06:00:00+00:00",
+      "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
     {
       "title": "Radiology Workspace: boost productivity and elevate clinical outcomes",
       "summary_de": "The future of radiology: unified workflows, AI automation, and transformed clinical communication",
@@ -51,6 +121,18 @@
       "published_at": "2026-11-05T18:02:21+00:00",
       "category": "Radiologie",
       "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Mitarbeiterin (m/w/d) am MRT - gerne auch Quereinsteiger, Kernspinzentrum Europa Passage - SZ-Stellenmarkt",
+      "summary_de": "Mitarbeiterin (m/w/d) am MRT - gerne auch Quereinsteiger, Kernspinzentrum Europa Passage &nbsp;&nbsp; SZ-Stellenmarkt",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEVfZi1uZUwtMVpWSHRIb1E4RDFNTGQ2SGZhSWRXcUlYdVBOOGpYalk3ZWdFV1lYTWlMUHZYOWpyWmxKX3dNVTBIZXN0WVBjVEtlYnM1NmxKTFZmdXZTdi1tb19GZWxDYTlGNEU4UGFQbG5jblVZeUViMUVMQ2wxbUpTNnBIR1JCZlVHSG13ZzVuNzAxakRtbE5lSTRZc016eFhpdkZCbnlLYXlRQ3dDemtrMG50LWs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-05T17:20:05+00:00",
+      "category": "Radiologie",
+      "tags": [
+        "Europa"
+      ],
       "type": "News"
     },
     {
@@ -534,16 +616,6 @@
       "type": "News"
     },
     {
-      "title": "Nach Simon wird auch Garfunkel 85 - aber Sorge um Gesundheit - FAZ",
-      "summary_de": "Nach Simon wird auch Garfunkel 85 - aber Sorge um Gesundheit &nbsp;&nbsp; FAZ",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRVR0V19ldGxJS04yTXFRM051aFR4SWtFNlMwVDhkbWRlVXdtMHVRU1BCODR5M3k5YjNRc296S2ZrVWhTV21Kel8tNnV0WVRDaHhrVHJRNUZrUm1Oa3hicS0xNnN3M290Z3VydXk2U21GQ1FSSUJ5eGRzeERIN1ZmLXJ0V2Y0bzk0b3NSUmhTRHJGS1lMRWl3ZkxETTltQmFNSVF6OVJqRnVpUnp3M2k0TENTNGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-11-05T05:02:18+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Promi-Geburtstag: Nach Simon wird auch Garfunkel 85 - aber Sorge um Gesundheit - DIE ZEIT",
       "summary_de": "Promi-Geburtstag: Nach Simon wird auch Garfunkel 85 - aber Sorge um Gesundheit &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
@@ -706,16 +778,6 @@
       "type": "News"
     },
     {
-      "title": "Gesundheitspolitik - Kirchen halten bei Organspende an Einwilligungspflicht fest - Politik - SZ.de - SZ.de",
-      "summary_de": "Gesundheitspolitik - Kirchen halten bei Organspende an Einwilligungspflicht fest - Politik - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUlh2Wk00Y3hHbjI1emhfUlZRbWwtTlJMQnNHM1pwRGx1LTFZS19iMTlidndIcXRjem1lMEhLMl94M1BoMmZ6X3hiMFB6NDdFdDhVcno4b2RDd29oWjBNQlZLUHh6dldlTjB5Y0ZVWVRuS2VDVzdQeTgzamFsRVF0NUkwdExMTk9BSkdJVHBxXzltcUdGSzU3dU92WUx0eGpkbm1mWFNRZ1dUb3ZzZUFLcXM0dXA1TzFLb0lHejUyUWhXWkk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-11-04T15:53:08+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "MHRA guidance on its assessment of non-clinical data generated outside OECD system",
       "summary_de": "MHRA issues new guidance on its approach to clinical trial applications that rely on non-clinical safety data generated outside the OECD Mutual Acceptance of Data system.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -740,16 +802,6 @@
       "type": "Studie"
     },
     {
-      "title": "PZ Briefing: Die Top-News vom 4.11.2026",
-      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-4112026-171694/",
-      "published_at": "2026-11-04T15:00:00+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Noweda-Gutachten: »Apotheken als Teil der krisenrelevanten Infrastruktur«",
       "summary_de": "Die Apothekergenossenschaft Noweda hat dem Parlamentarischen Staatssekret&auml;r im Bundesgesundheitsministerium, Georg Kippels (CDU), ein Gutachten zur Rolle der Apotheken in Krisen- und Katastrophensituationen &uuml;bergeben.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -760,21 +812,21 @@
       "type": "News"
     },
     {
+      "title": "PZ Briefing: Die Top-News vom 4.11.2026",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-4112026-171694/",
+      "published_at": "2026-11-04T15:00:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Alzheimer-Antikörper: Erfahrungen nach einem Jahr in der Anwendung",
       "summary_de": "Seit gut einem Jahr k&ouml;nnen sich bestimmte Patientinnen und Patienten in Deutschland mit den Alzheimer-Medikamenten Lecanemab und Donanemab behandeln lassen. Was hat sich seitdem getan?",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
       "source_url": "https://www.pharmazeutische-zeitung.de/erfahrungen-nach-einem-jahr-in-der-anwendung-171690/",
       "published_at": "2026-11-04T14:30:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Klimaschutz zum Zähneklappern: Kaltduschen spart CO₂ und Krankheitstage",
-      "summary_de": "Kaltes Duschen spart Energie und verbessert das pers&ouml;nliche Wohlbefinden. Eine Untersuchung der Universit&auml;t Basel hat gezeigt, wie sich umweltfreundliches Verhalten und pers&ouml;nliche Vorteile miteinander verbinden lassen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/kaltduschen-spart-co2-und-krankheitstage-171658/",
-      "published_at": "2026-11-04T14:00:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
@@ -793,12 +845,12 @@
       "type": "News"
     },
     {
-      "title": "WIdO-Analyse: Arzneimittelausgaben steigen 2027 um bis zu 2,8 Prozent",
-      "summary_de": "Die Arzneimittelausgaben d&uuml;rften laut dem&nbsp;Wissenschaftlichen Institut der AOK (WIdO) im kommenden Jahr um 2,2 bis 2,8 Prozent steigen. Im Vergleich zu den Vorjahren w&auml;re das ein schwacher Anstieg, der laut dem WIdO aber nur eintritt, wenn das GKV-Spargesetz konsequent umgesetzt wird.",
+      "title": "Klimaschutz zum Zähneklappern: Kaltduschen spart CO₂ und Krankheitstage",
+      "summary_de": "Kaltes Duschen spart Energie und verbessert das pers&ouml;nliche Wohlbefinden. Eine Untersuchung der Universit&auml;t Basel hat gezeigt, wie sich umweltfreundliches Verhalten und pers&ouml;nliche Vorteile miteinander verbinden lassen.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/arzneimittelausgaben-steigen-2027-um-bis-zu-28-prozent-171685/",
-      "published_at": "2026-11-04T13:30:00+00:00",
-      "category": "Gesundheitspolitik",
+      "source_url": "https://www.pharmazeutische-zeitung.de/kaltduschen-spart-co2-und-krankheitstage-171658/",
+      "published_at": "2026-11-04T14:00:00+00:00",
+      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -823,16 +875,6 @@
       "type": "News"
     },
     {
-      "title": "Healthcare Frauen: »Diversität in Führungspositionen ist kein Nice-to-have«",
-      "summary_de": "Warum angesichts des Fachkr&auml;ftemangels qualifizierte Frauen nicht auf dem Weg in F&uuml;hrungspositionen verloren gehen d&uuml;rfen und welche strukturellen Ver&auml;nderungen notwendig sind, wurde heute von Vertreterinnen aus Politik und &Auml;rzteschaft diskutiert.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/diversitaet-in-fuehrungspositionen-ist-kein-nice-to-have-171682/",
-      "published_at": "2026-11-04T13:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Field Safety Notices: 26 to 30 October 2026",
       "summary_de": "List of Field Safety Notices from 26 to 30 October 2026.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -849,16 +891,6 @@
       "source_url": "https://www.gov.uk/government/publications/advertising-investigations-october-2026",
       "published_at": "2026-11-04T12:18:08+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Virale Tipps: Pommes, Cola und kalte Löffel gegen Migräneattacken",
-      "summary_de": "In sozialen Medien kursieren zahlreiche Tipps, wie sich Migr&auml;neanf&auml;lle abschw&auml;chen lassen. Manche Betroffene schw&ouml;ren auf Pommes mit Cola, andere auf kalte L&ouml;ffel auf der Stirn. Ob die Methoden tats&auml;chlich wirksam sind, bewertet eine Expertin.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/pommes-cola-und-kalte-loeffel-gegen-migraeneattacken-171678/",
-      "published_at": "2026-11-04T12:00:00+00:00",
-      "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
@@ -1047,22 +1079,22 @@
       "type": "News"
     },
     {
+      "title": "4Einschlaf-Techniken für heute Nacht - Techniker Krankenkasse",
+      "summary_de": "4Einschlaf-Techniken für heute Nacht &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU2RDdmRvOUQ2c0xia1J1T1RPa3FQZmhJeXp1TE1iWG9wc1lFVk5ucmFGUVVZYllVdnFnaEFCWC1FOThBbE1NaHJvendKaEZCcEtpSi1lVFVFcG5TVmRldTdYalBCMmVsNnZCV3Z0LXpOeFZ3aDJOalNGUlYzSmY3VA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-02T08:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Entlastungsbetrag in der Pflege - Techniker Krankenkasse",
       "summary_de": "Entlastungsbetrag in der Pflege &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRVVwNlEtYTltdDU4dkppeTg5V0tFX0ZHNk5mbmZsTTZLamU4bTM0UWg2cmFtVmU5TU1oTDktOXd0blQ0NElwZFl5WlB3dVFSbjZ6TU04cmc2TkJ2aXNQXzRRaGdSNDlXN1dyY09mQ1dockZnNU0wSDN3NEJ3d0U0LUFXRXNqZk8wa3NrWk1aWFZoYVNFalU1TFk4dlE1VVEwR3F1WXUxaERSSVdraDZ5Y3dIUW83cEphTmhYTTNHSDdwcV9jTGs4R0g4S2tjVHhfLVV5cDl0X2pOZnNtVUxLZWpDTGdrNDRucVYzOUR0QVBFb1U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-11-02T08:00:00+00:00",
       "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Bonuspunktekatalog: Dafür erhalten Sie Bonuspunkte! - DAK-Gesundheit",
-      "summary_de": "Bonuspunktekatalog: Dafür erhalten Sie Bonuspunkte! &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1FMW5YNzhoOWZmTEdGaExSU1MwUURkUGkzX19TbUJCb1lyX2NoVW9TcEtmajh0SWMzMHl6NTZMTEhnQ2M0cHFYbGxZQVZfTjNuYlRlMzRIbjh3dGFuSG5OSk85TlRsUXBkclh2RGlwWFdvUmFLRkFEX242Qng?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-11-02T08:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1107,30 +1139,10 @@
       "type": "News"
     },
     {
-      "title": "Ebola im Kongo - Experten gehen von Dunkelziffer bei Ebola-Toten aus - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Ebola im Kongo - Experten gehen von Dunkelziffer bei Ebola-Toten aus - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUWU0SWtlenBhSFMxdU5BcEdoN05OZ0RCbjMyeW1wWFhtSUJ0OUNjRWh3bldsMWhlcmhHS0hYejA2eXg0dU5CUHpOOGF4WURIUDFRWU9GakoxYjZwRkFHRFg4WTFIcWNJUnRfaDhrRTlYSEk2Z1hVQjNiekY2V0xlN2ZOUnUxQUNFVDVMVmg4OFBpekRvd1o2SWsyQ2F6QUpnNFVxOVdBVU5jcGpZWkxJemEwQy1ibUN1VDAtaWxaZUpfQ1BGY3FCNE51VnRKNWNkVHo0TUtOOEdqV05YV3ZIc2JQMzVYaU1GMWQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-31T10:27:25+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Gesundheit: Zahl der Ebola-Toten im Kongo steigt auf mehr als 5.000 - DIE ZEIT",
       "summary_de": "Gesundheit: Zahl der Ebola-Toten im Kongo steigt auf mehr als 5.000 &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbkFPV3dWaFBCWnZ5ZmNCOU0yaUtHWGpoeWRVX24zVXdJUjNqcFZSTWw0R3V1QkpTeVNpa3lkVWp2dFpyaE9yNHd6bVh1UjZFMGcza0xpUXo5enVGXzZia1pFdmhldDZhSms2RlpWY3lYdFdrVzdOQTZZR0VrWFlSUDlsM2EtLUJXdTZhWThoRVdjOGlqa2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-31T05:07:53+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit - Zahl der Ebola-Toten im Kongo steigt auf mehr als 5.000 - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Gesundheit - Zahl der Ebola-Toten im Kongo steigt auf mehr als 5.000 - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
-      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUmt1eGJfX0pESnhXcXFfdWEzZk03c3lBeTZsSURZVlNNeXdNcXZPc3FUc3M5THJ3dmM1R0pJVjdqcWpvT3FqZGp1QkxaSnpaczRMRHpudXNjZ2pYcXg1bnd4UW03eWltRTdOcFRUZmtySThpRmI2ZjdQMFJjd2M1RVZRVllyazNxa2ZjaTRJbjFTNmNtcnFmYUJSazRBMHdUQ2hqUDh2ZVViYV9KLW82S2trUkZjNHJSUzhNU0VSLXNKVWd5eEtqY3JtdFlPSk1NQlI3Vk5Ec0FiMnlZeDBQZlJvaDltVGxRYVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-10-31T05:07:53+00:00",
       "category": "News",
       "tags": [],
@@ -1147,32 +1159,12 @@
       "type": "News"
     },
     {
-      "title": "In Italien protestieren Hunderttausende gegen hohe Preise und für mehr Investitionen in Bildung und Gesundheit - tagesschau.de",
-      "summary_de": "In Italien protestieren Hunderttausende gegen hohe Preise und für mehr Investitionen in Bildung und Gesundheit &nbsp;&nbsp; tagesschau.de",
-      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrNi1zQ01QYWNGYlFmakdqWnQ1UnQ2M3hSUGJsejdHMnBqT0ZLanZIUlpFcjU1aktxWjBxODBBdHZlRDVqaHFrUU5HUEhEOHhFeWZ1bEh3YWtQQnY3Nzd0ZjN3RWg1V3NDckQwNzJyRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-30T19:37:33+00:00",
+      "title": "(S+) Gesundheitssystem: Warum ich in der Schweiz schneller zum Arzt komme als in Deutschland - Spiegel",
+      "summary_de": "(S+) Gesundheitssystem: Warum ich in der Schweiz schneller zum Arzt komme als in Deutschland &nbsp;&nbsp; Spiegel",
+      "source_name": "\"site:spiegel.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdEJuUllBSEJSenlQVm40YVpZT0psODQ2TjdCUTM2cVpvXzU5Rkk2bFBqQ0xxYi1sZXlhUEd5NUl6Ujk5Q21mU2lzbFVfYzdNUU8yVEd6YnAwRTlZYzZMRHl5Q1lRNUlDbXVPZmpnTWppaVlmYXY0UmRSZnpmNS11MVJ6YU1VSDhUc1I5dzR6TS1ucDN5c0VLWWFIb2NheldIa0hOS1AwUFJWX2xnb21vY2FDQV9kSlk0TjZoaUJWZ0VkY3cyUUZvcU1ndnJtNlN6VmcyNThNS2NTeHJaeG40c01TTDc0djB5MVR1Ng?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-30T15:38:00+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Praktikant Presse- und Öffentlichkeitsarbeit (m/w/d) | Die Techniker - Karriere - Techniker Krankenkasse",
-      "summary_de": "Praktikant Presse- und Öffentlichkeitsarbeit (m/w/d) | Die Techniker - Karriere &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbHdvNlhYamdBRkc4ei1uV29rZDFmZFNoX2VUV2VXR1N5M0pianpiVUk5bWs2THk5Z3czbk0yNDYzZHVVRVRSRnRZSU0zVkRvQTFGNjFZZ19aMW5vYU9XNFRKNXFZa3JXVk52OThwMGw4NEJGQ1lPZnk1S0t5bGszc1NSWUVlaWg2eVU0UkhOMVQxTm5lSWk0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-30T15:22:57+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Triheptanoin (Dojolvi) approved to treat adults and children with a group of rare inherited disorders",
-      "summary_de": "MHRA approves triheptanoin to treat adult and paediatric patients with a group of rare inherited disorders.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/triheptanoin-dojolvi-approved-to-treat-adults-and-children-with-a-group-of-rare-inherited-disorders",
-      "published_at": "2026-10-30T14:55:53+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -1187,16 +1179,6 @@
         "Europa"
       ],
       "type": "Studie"
-    },
-    {
-      "title": "MHRA Safety Roundup: October 2026",
-      "summary_de": "Summary of the latest safety advice for medicines and medical device users",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-october-2026",
-      "published_at": "2026-10-30T10:59:20+00:00",
-      "category": "Europa",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "Durchschnittlich festgelegter Zusatzbeitragssatz für 2027 bleibt stabil – Beitragssatzstabilisierungsgesetz darf nicht weiter aufgeweicht werden",
@@ -1215,16 +1197,6 @@
       "source_url": "https://www.diagnosticimaging.com/view/top-five-radiology-content-october-2026",
       "published_at": "2026-10-30T09:51:00+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "MHRA approves gene-editing treatment for children aged five and over with serious inherited blood disorders",
-      "summary_de": "Children aged five and over with severe sickle-cell disease and transfusion-dependent β-thalassemia, can now be treated with Casgevy (exagamglogene autotemcel), following an extension of its UK authorisation by the MHRA.",
-      "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/mhra-approves-gene-editing-treatment-for-children-aged-five-and-over-with-serious-inherited-blood-disorders",
-      "published_at": "2026-10-30T09:18:29+00:00",
-      "category": "Europa",
       "tags": [],
       "type": "News"
     },
@@ -1255,16 +1227,6 @@
       "source_url": "https://www.diagnosticimaging.com/view/does-photon-counting-ct-offer-bigger-advantages-in-bigger-patients-",
       "published_at": "2026-10-29T14:18:00+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
-      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
-      "source_name": "\"site:barmer.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-29T13:24:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1355,6 +1317,16 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/nhs-staff-earnings-estimates/august-2026",
       "published_at": "2026-10-29T09:31:01+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Meine BARMER: Krankenkasse kann so einfach sein - BARMER",
+      "summary_de": "Meine BARMER: Krankenkasse kann so einfach sein &nbsp;&nbsp; BARMER",
+      "source_name": "\"site:barmer.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-29T07:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1461,16 +1433,6 @@
       "type": "News"
     },
     {
-      "title": "Primärversorgungssystem: Der TK-Vorschlag „digital vor ambulant vor stationär“ | Die Techniker - Presse & Politik - Techniker Krankenkasse",
-      "summary_de": "Primärversorgungssystem: Der TK-Vorschlag „digital vor ambulant vor stationär“ | Die Techniker - Presse & Politik &nbsp;&nbsp; Techniker Krankenkasse",
-      "source_name": "\"site:tk.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbVM5OWJxc1ZVbmdfaUIyaEplSWozSDU3MkVEbTdTU0NnTHZ5WmFIbWhQYU1sZVpra2RVakNUT3pOTmtubFRSUE5aWHZMQlFGbkVHYTYtR0FXSWh3ZzNuRXZQQkQ5ZXRiZ2xjbG9hQXZEa2V5VHp6eXZBZUIyd24zV3ZObjA3cTJqQ1RjVFk1dmNYUGdTbnluaU02SWxyRlJrZGxGeGtTV3hQXzUtVTJPNVNVaXFDYkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-28T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -1489,16 +1451,6 @@
       "category": "Studie",
       "tags": [],
       "type": "Studie"
-    },
-    {
-      "title": "Sonnenbrand: Die Haut richtig schützen - DAK-Gesundheit",
-      "summary_de": "Sonnenbrand: Die Haut richtig schützen &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb1MyaEU3dDVzMnIyRkU2MVZGbWNJMXg0VmZyRVhHbXV4TW11WWpVNVBFVmxrUUplS0p0VHB3eUhHZWRaYTBVdkZVNE5iWVVZeUJraVI1QmtuQWNSOGhPUUVnSGNPTGFxd0hkeExlbHo5NWlXSzQxRE9qWlJuWWhfY0hKSUZodWlWOWpPZ1JxTU0xT05Kd0hQSU5TQ2FaUFppemdwVHNNSjJmcW8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-27T17:24:14+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
     },
     {
       "title": "DAK ePA-App – der Schlüssel zu Ihrer ePA - DAK-Gesundheit",
@@ -2042,6 +1994,16 @@
       "type": "News"
     },
     {
+      "title": "DAK AktivBonus - das beste Bonusprogramm - DAK-Gesundheit",
+      "summary_de": "DAK AktivBonus - das beste Bonusprogramm &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3b3BmMTV5VzBiWUVDTVRuMzhhemgyYmxfLTlKQjVtWlh6TmdjdDNtVnhEbkQ2UXR0QnNRRUNMUjU1b3p1X1BZMk1BcDA1T2o3LWpSTlE0c1hfRlNoUi13aGFlR3FRS3NLblRhSjFLOUNwaWw1YVlR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-16T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "(S+) Warum jetzt auch noch der Papst öffentlich über seine Krankheit spricht - Spiegel",
       "summary_de": "(S+) Warum jetzt auch noch der Papst öffentlich über seine Krankheit spricht &nbsp;&nbsp; Spiegel",
       "source_name": "\"site:spiegel.de gesundheit\" - Google News",
@@ -2550,10 +2512,10 @@
       "type": "News"
     },
     {
-      "title": "Wie hoch ist die Belastungsgrenze für chronisch Kranke, die sich von einer Zuzahlung befreien lassen möchten? - DAK-Gesundheit",
-      "summary_de": "Wie hoch ist die Belastungsgrenze für chronisch Kranke, die sich von einer Zuzahlung befreien lassen möchten? &nbsp;&nbsp; DAK-Gesundheit",
+      "title": "Warum bekomme ich für die professionelle Zahnreinigung keine Bonuspunkte mehr? - DAK-Gesundheit",
+      "summary_de": "Warum bekomme ich für die professionelle Zahnreinigung keine Bonuspunkte mehr? &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWjBMZnp0clNtQVNncDJDYmV5WjF5STdhUEtwdDQ3dXNnUHVGV2ZEQ2hDNVY0SUJVQUdkVzJzeDM1TFpaZWwwQW9iR2U3XzlpV1JpdnlMN3J0dldHd25YcVNMX3NfQUJiU3p3VVRISmVfMGU3M2EyVWd2R3NEM0M3QlJETVJUejRmbmZfRENwT0tVeS15UjZ0RXZIa19wS3lMV3l0eHZ1QTdVYk51Q2VSN3NGRWc1Um15eXJpV2JvdWxaQnNTZzdFdUJRa3Y?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNUhKN1VlbWY2SG1CTDcyczVQczlpMGMwRXE5Nk13cExuSHhNZy1WNHlEOHhYOXM0cGFhVUwzbEp3VjhGbEd0V1VWVzBNSVpiRlQyNnUwUDJkaEdGem0wdTdNR2g4eG5NWE1sV2tTWDFpRkpCYkFPOV9aTzc1ZERhOFpnMzVNUkJFNkNpNTF2ZHNxeE5oYjVCS3lpMzZ5Q1pESmpCWmNDTlVXYWx5MFJYbjUyV2c4dw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-10-01T07:00:00+00:00",
       "category": "News",
       "tags": [],
