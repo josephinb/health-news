@@ -1,15 +1,65 @@
 {
-  "generated_at": "2026-11-07T00:31:54.328573+00:00",
+  "generated_at": "2026-11-07T09:29:11.419994+00:00",
   "window_days": 42,
-  "count": 286,
+  "count": 288,
   "items": [
     {
-      "title": "EU: TikTok gefährdet mentale Gesundheit – News - Deutsches Ärzteblatt",
-      "summary_de": "EU: TikTok gefährdet mentale Gesundheit – News &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaUhhYk1MbjROLWgyOWNQQTdBZG9KRXNsRjdzSGJ1dl9JR1N6bmJ1QkRvMllwMWM2ZVo5eWo0eEdmVVphV3FlSjhEWVU3NVM3UGVuMnRxLW43OGxzNEF1ZWFYLW5yYnhESTZFc3dPRWZyblRLczgxc3JwQmNyNDNDLVBQUGl4X3RFNDN4ZHN5cW4yczFXR3FCWXpib0ptZ3dGZzR1TnNxcldTRlU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-11-06T18:53:05+00:00",
-      "category": "Europa",
+      "title": "PZ Briefing: Die Top-News der Woche",
+      "summary_de": "Das PZ Briefing bringt Sie in wenigen Minuten auf den neuesten Stand &ndash; mit den wichtigsten Nachrichten aus Pharmazie, Medizin und Gesundheitspolitik. Schnell geh&ouml;rt, bestens informiert.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-der-woche-171748/",
+      "published_at": "2026-11-07T08:00:00+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Start-ups: Von Rüstung bis Pharma: Start-ups aus Rheinland-Pfalz - DIE ZEIT",
+      "summary_de": "Start-ups: Von Rüstung bis Pharma: Start-ups aus Rheinland-Pfalz &nbsp;&nbsp; DIE ZEIT",
+      "source_name": "\"site:zeit.de Forschung Gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOajRVUkk1U1VzdE9lbmlBbDlSendWQjkwdGh2cXI1ekx6Qmx5S3pFM2o4OHcyQm1zTXdvck0yS3J3SEt6ZUZqaERyaW41T3JaTkFVYVcyTjcxeXRteGRGa3ZGbk5FNjJYU3BUaVRORVZvZ09DWTdqVWl5RTdudHJQcDZTSnZDcFhiUy1XUXl0eHpJZXM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-07T02:30:22+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Medizin Jobs in Mülheim an der Ruhr - RP Online",
+      "summary_de": "Medizin Jobs in Mülheim an der Ruhr &nbsp;&nbsp; RP Online",
+      "source_name": "\"site:rp-online.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1WkpaTXBpNFB3WXJoZFQyYXNreGZBOVBjcWFWNVBySnVLOEd5a3hmdmxLQXY4a2RhcGQ1ZlNIMnZEVnl5SXNWUkZsX2dTblhWRk5tT2xMLXgybUhTdTNYUHl2MzA5UUhqNU5ldUhvekNIaFpNMmttU3J6bw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-07T02:24:05+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Week in Review: CMS final 2027 rules | Lung cancer brain metastases | New podcasts",
+      "summary_de": "The 2027 Medicare Physician Fee Schedule and 2027 Hospital Outpatient Prospective Payment System final rules took center stage...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/editors-note/article/16424576/week-in-review-cms-final-2027-rules-lung-cancer-brain-metastases-new-podcasts",
+      "published_at": "2026-11-06T21:54:50+00:00",
+      "category": "Studie",
+      "tags": [],
+      "type": "Studie"
+    },
+    {
+      "title": "Gadoxetic acid-enhanced MRI changing understanding of liver diseases",
+      "summary_de": "The contrast agent is changing approaches toward diagnosis of liver diseases, according to data collected over the last 15 years...",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/mri/article/16424565/gadoxetic-acidenhanced-mri-changing-understanding-of-liver-diseases",
+      "published_at": "2026-11-06T21:50:47+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Deep-learning model predicts mortality from CTA scans",
+      "summary_de": "The algorithm completed tissue analysis in 1.35 minutes on average versus 7.2 minutes for expert readers.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/ct/article/16424554/deeplearning-model-predicts-mortality-from-cta-scans",
+      "published_at": "2026-11-06T19:29:57+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -44,6 +94,16 @@
       "type": "News"
     },
     {
+      "title": "Coming Soon - RSNA 2026 Digital XRay Preview",
+      "summary_de": "null",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2026/digital-xray-preview/article/16424534/coming-soon-rsna-2026-digital-xray-preview",
+      "published_at": "2026-11-06T16:55:50+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -54,11 +114,21 @@
       "type": "News"
     },
     {
+      "title": "Screening breast MRI may be considered for high-risk women",
+      "summary_de": "MRI screening found more screen-detected early-stage cancers than mammography.",
+      "source_name": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com/clinical-news/womens-imaging/article/16424514/screening-breast-mri-may-be-considered-for-highrisk-women",
+      "published_at": "2026-11-06T16:12:40+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: Methofill 25 mg Injektionsl&#246;sung im Fertiginjektor pU: Accord Healthcare B.V.",
+      "summary_de": "Typ: &#196;nderungsmeldung Arzneimittel: Methofill 20 mg Injektionsl&#246;sung im Fertiginjektor pU: Accord Healthcare B.V.",
       "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
       "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-11-06T15:25:20+00:00",
+      "published_at": "2026-11-06T15:56:27+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
@@ -184,6 +254,16 @@
       "type": "News"
     },
     {
+      "title": "Arzneimittelbewertung: GBA bezieht erstmals europäische Nutzenbewertung ein – News - Deutsches Ärzteblatt",
+      "summary_de": "Arzneimittelbewertung: GBA bezieht erstmals europäische Nutzenbewertung ein – News &nbsp;&nbsp; Deutsches Ärzteblatt",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSW80V1AwN2RNZnJXLWRISkcwZ3ZoNkRHUmg2ZWFuSjg0clhCcEtHdVg1UGZsT1hNQ2MydkpocWZfVVptQy04WVpyZFN0aW9Pa2ZkczhHdFVubnZUZHQwNThZUXNBSnNnelN3TDJOUVFkQ0FTYzJZS0JQMkIwaHk2ZGpwMjlET2VBRHhpVkdjekcxajBYSTlRbDY1ZjdpeU52THRwOUFOVDJnRWJ5TEFwU1oxV3V1cS10SHNFZXpCcWtGVTVEMlF5RWI2Y29TVVdIZ3JtdE5HNFNlbDg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-06T12:00:12+00:00",
+      "category": "Gesundheitspolitik",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Immunmodulation: Antibiotikum hilft Schlaganfall-Patienten",
       "summary_de": "Ein Schlaganfall kann das Immunsystem dauerhaft ver&auml;ndern und eine chronische Entz&uuml;ndung nach sich ziehen. Wie sich das auf die Regeneration und m&ouml;gliche Folgeerkrankungen auswirkt und was das Antibiotikum Minocyclin damit zu tun hat, erkl&auml;rte ein Neurologe k&uuml;rzlich bei einer Pressekonferenz.",
       "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
@@ -290,6 +370,16 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/weniger-uebelkeit-mehr-energie-171676/",
       "published_at": "2026-11-06T06:00:00+00:00",
       "category": "Wirtschaft",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Personal | Klinik für Plastische, Ästhetische und Handchirurgie | DIAK Klinikum Landkreis Schwäbisch Hall in 74523 Schwäbisch Hall - HEK",
+      "summary_de": "Personal | Klinik für Plastische, Ästhetische und Handchirurgie | DIAK Klinikum Landkreis Schwäbisch Hall in 74523 Schwäbisch Hall &nbsp;&nbsp; HEK",
+      "source_name": "\"site:hek.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQamFnN05maHRTbExHNjM0azVWYkVwNzJUY2htQVJyZk1rTm8zTV96dXVNaE03a1NwM3ZDOG1OSG9OY2RDUEFyUWVfXzVXbWR1ZDlLTlgxQkJpdEV3ejZLNDBIUFFNbFUtLUZxT2RzdTg2eEZZVnRuQWFoR0t5UFY3LWtZVXVXeE1kSTJEUlM0cklhTVlJQ0k2eTZrZTg1MHFiYm5KSjFvVWJFdzRlQWVBclo5YjlTU3p3QW93U25YVzRkX2J1dmhXRkFfLTBnTk5oOFNuSGJmOUU2ZEljZG8takxZSjFkb2FVazR3UE1PQmZuTUhZRjViTWFfU2RpZld1LWhOOHlBTmFfUEFZY1piaG9hMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-06T05:08:33+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -452,16 +542,6 @@
       "source_url": "https://www.pharmazeutische-zeitung.de/die-top-news-vom-5112026-171723/",
       "published_at": "2026-11-05T14:15:10+00:00",
       "category": "Gesundheitspolitik",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Geschlechtsspezifische Unterschiede in der Medizin allgegenwärtig – News - Deutsches Ärzteblatt",
-      "summary_de": "Geschlechtsspezifische Unterschiede in der Medizin allgegenwärtig – News &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTEM1c2NXcnp4aFJaZkpIOHE3Z3VNYXhka0ZfS0NlUzBUTUJBU01LTGhhdWdwOUVINGc2ay1FY2xweWlYYVFHTTBVZzhBNWM0bHNPUkd1bm9UMUdaNm9WMXdjVkRzbEZlcnZEaEdpZmwyU0hEMERISjJFaXFKQlJkN29NTk5SUEJCNi16MkZIQ3IzQWNlYnVSZnJXZEVwRTdvQjZRcEVHemFzY00tTmdOdXE2Y3loYXAyRE1wU2JTdnliOHFla2VqRWh2VVp6QkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-11-05T14:04:49+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -718,16 +798,6 @@
       "type": "News"
     },
     {
-      "title": "\"Bin Sprachrohr für pflegende Angehörige\", Katrin Staffler, CSU, Bevollmächtigte der Regierung für Pflege, zur Pflegereform - tagesschau.de",
-      "summary_de": "\"Bin Sprachrohr für pflegende Angehörige\", Katrin Staffler, CSU, Bevollmächtigte der Regierung für Pflege, zur Pflegereform &nbsp;&nbsp; tagesschau.de",
-      "source_name": "\"site:tagesschau.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmR012YkhKVjB5ZEtuNTVwUjE5bnpSQS0tV2Z3RkJPX0Y0NDJhQjM0c196MHoteVEyajNYYlRFTnZpTXdkclphZXhCSkN0LWthb05jR1FORWIza1Boei1r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-11-05T07:20:01+00:00",
-      "category": "Versorgung",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Pressemitteilung: Pflegereform gerecht gestalten",
       "summary_de": "„Die Reform der Pflege ist dringend notwendig und es ist gut, dass sie jetzt kommt. Ich habe grundsätzlich Verständnis dafür, dass ein Gesetz zur finanziellen Stabilisierung der Pflegeversicherung auch Lasten mit sich bringt – aber die Verteilung dieser Lasten muss gerecht sein und das ist bisher nicht der Fall\", erklärt Oliver Blatt, Vorstandsvorsitzender des GKV-Spitzenverbandes anlässlich der 1. Lesung im …",
       "source_name": "GKV-SV Presseinformationen",
@@ -761,16 +831,6 @@
         "Versorgung",
         "Wirtschaft"
       ],
-      "type": "News"
-    },
-    {
-      "title": "Orexin-Rezeptorantagonist: Nebenwirkungen im Fokus",
-      "summary_de": "Wie empfinden Anwender die Wirkung eines Orexin-Rezeptorantagonisten und welche Nebenwirkungen stehen im Vordergrund? Dieser Frage sind Forschende anhand des Wirkstoffs Lemborexant nachgegangen.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/nebenwirkungen-im-fokus-171689/",
-      "published_at": "2026-11-05T06:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
       "type": "News"
     },
     {
@@ -836,16 +896,6 @@
       "type": "News"
     },
     {
-      "title": "Coming Soon - RSNA 2026 Artificial Intelligence Preview",
-      "summary_de": "null",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16424329/coming-soon-rsna-2026-artificial-intelligence-preview",
-      "published_at": "2026-11-04T20:19:05+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -856,51 +906,11 @@
       "type": "News"
     },
     {
-      "title": "Coming Soon - 2026 RSNA Advanced Visualization Preview",
-      "summary_de": "null",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2026/advanced-visualization-preview/article/16424283/coming-soon-2026-rsna-advanced-visualization-preview",
-      "published_at": "2026-11-04T17:36:59+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
       "source_url": "https://www.diagnosticimaging.com/view/addressing-radiology-workforce-crisis-shift-passive-ai-users-active-ai-creators-have-an-impact-",
       "published_at": "2026-11-04T16:54:00+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Coming Soon - RSNA 2026 Women's Imaging Preview",
-      "summary_de": "null",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2026/womens-imaging-preview/article/16424264/coming-soon-rsna-2026-womens-imaging-preview",
-      "published_at": "2026-11-04T16:52:50+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Coming Soon - RSNA 2026 Ultrasound Preview",
-      "summary_de": "null",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2026/ultrasound-preview/article/16424263/coming-soon-rsna-2026-ultrasound-preview",
-      "published_at": "2026-11-04T16:52:13+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Coming Soon - RSNA 2026 Molecular Imaging Preview",
-      "summary_de": "null",
-      "source_name": "AuntMinnie",
-      "source_url": "https://www.auntminnie.com/resources/conference/rsna/2026/molecular-imaging-preview/article/16424262/coming-soon-rsna-2026-molecular-imaging-preview",
-      "published_at": "2026-11-04T16:51:11+00:00",
       "category": "Radiologie",
       "tags": [],
       "type": "News"
@@ -992,8 +1002,8 @@
       "type": "News"
     },
     {
-      "title": "Ihre Krankenkasse: Für alle gut, für jeden anders | BARMER - Barmer",
-      "summary_de": "Ihre Krankenkasse: Für alle gut, für jeden anders | BARMER &nbsp;&nbsp; Barmer",
+      "title": "Ihre Krankenkasse: Für alle gut, für jeden anders | BARMER - BARMER",
+      "summary_de": "Ihre Krankenkasse: Für alle gut, für jeden anders | BARMER &nbsp;&nbsp; BARMER",
       "source_name": "\"site:barmer.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5tcm9ENWpmNXJxelMxSTdMdnEwT2g2YjZFY3NFYTRORWZMWHRwT2dZYjFWTVFPNFBkOWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-11-04T09:07:29+00:00",
@@ -1084,16 +1094,6 @@
       "type": "News"
     },
     {
-      "title": "MRT-Warteschleife: Diskussion um Ursache - vorarlberg.ORF.at",
-      "summary_de": "MRT-Warteschleife: Diskussion um Ursache &nbsp;&nbsp; vorarlberg.ORF.at",
-      "source_name": "\"radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzb0Y5RlBjU2twN0d3Yk1BLThfUGJzekhNcXMwQzI4b2xtdTN4V2RqU0NoUE95SnJKdV9EVkNKNW15T0ZnX2VKa18xMnBYY0ZUSzM2Xw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-11-03T05:03:07+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -1109,6 +1109,16 @@
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVzYza0I3NzBCTUxGbm9HbzVuMFZLLTVEdkYxWlp4TG1sMWxPUjF4aXY1R3RlUE5leDI2Ui1TZXREUlNodWNiNzlnOXppWEFxY2VZQlNQSmVWQ3FTalFuS2JVWkYxcml5WHZJcl95MVZJdXo0TUtySUdEd0o5UFR5SEFHOGFDakU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-11-02T21:05:07+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Bundesregierung will „Personalreserve Gesundheit“ aufbauen – News - Deutsches Ärzteblatt",
+      "summary_de": "Bundesregierung will „Personalreserve Gesundheit“ aufbauen – News &nbsp;&nbsp; Deutsches Ärzteblatt",
+      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZzJ0OHhlOEVMTjNsbTVCNk9DVjdOdlZUMkZKUXBrbGJZTkVjVzVkREhXZDZBbEt3Y1BVbWpoa3BOOWhxeTByV1g1dUZHb1RoRTNEREEwVDFIRm9sN3lBZ1ROWGRicFJ6YzZTV0ZWQ0x6RlhQWjlZUWtMZmVrRnJJYzZyN1F3XzhCUnM3SFJfSkZsblhpcG4wU1BRNkdna1BzUmZNR0xYbkVNOUR3THc3ZkZLMl9UY2xhUkhVaF84Y2NrdFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-02T16:24:25+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1148,6 +1158,16 @@
       "summary_de": "Lagerungshilfen für Dekubitus online bestellen &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONmxRNXFxVE5GZVJTUWtlZmpaczdyUjBtY1U5WnJFaTZUcEd5dWFwWmZoSGJiTjE5MHQ4bmVEVU42VjhyQ21aVE5aT0NRVnY3MWItY2hLZHV4TXBSclFDVEpKVVZ5Yk1QM0xwLW1rTk5GcDFVWnVYTXJUdkZNMy11cDFjZnY3QV81ejRNakdWWFYyZnluV0NNMDM0OVNDcTA5S0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-02T14:43:56+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Alltagshilfen online bestellen - DAK-Gesundheit",
+      "summary_de": "Alltagshilfen online bestellen &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMjdWN2dYTzFzQ0g4bHpVdWg2QmlPNWdFeEFZZVVFbHA0SEF2RllLa2R0WEtkekV2RUoxMW9ZWVMxT0cwTVZ1U0lsTUFNM2lGNm9TdVRDbDRvdWhtQlB5d0hTcGMxZlZFY1RveU5sb2sxM2xyUzdhRkdXeUMySFU2UzJfNFg5cm1zcTdr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-11-02T14:43:56+00:00",
       "category": "News",
       "tags": [],
@@ -1224,16 +1244,6 @@
       "type": "News"
     },
     {
-      "title": "Medizin Jobs in Mülheim an der Ruhr - RP Online",
-      "summary_de": "Medizin Jobs in Mülheim an der Ruhr &nbsp;&nbsp; RP Online",
-      "source_name": "\"site:rp-online.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1WkpaTXBpNFB3WXJoZFQyYXNreGZBOVBjcWFWNVBySnVLOEd5a3hmdmxLQXY4a2RhcGQ1ZlNIMnZEVnl5SXNWUkZsX2dTblhWRk5tT2xMLXgybUhTdTNYUHl2MzA5UUhqNU5ldUhvekNIaFpNMmttU3J6bw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-11-01T09:02:52+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -1244,21 +1254,11 @@
       "type": "News"
     },
     {
-      "title": "Gesundheit: Zahl der Ebola-Toten im Kongo steigt auf mehr als 5.000 - DIE ZEIT",
-      "summary_de": "Gesundheit: Zahl der Ebola-Toten im Kongo steigt auf mehr als 5.000 &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbkFPV3dWaFBCWnZ5ZmNCOU0yaUtHWGpoeWRVX24zVXdJUjNqcFZSTWw0R3V1QkpTeVNpa3lkVWp2dFpyaE9yNHd6bVh1UjZFMGcza0xpUXo5enVGXzZia1pFdmhldDZhSms2RlpWY3lYdFdrVzdOQTZZR0VrWFlSUDlsM2EtLUJXdTZhWThoRVdjOGlqa2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-31T05:07:53+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Gesundheit - Zahl der Ebola-Toten im Kongo steigt auf mehr als 5.000 - Gesundheit - SZ.de - SZ.de",
-      "summary_de": "Gesundheit - Zahl der Ebola-Toten im Kongo steigt auf mehr als 5.000 - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "title": "Vorsorglicher Rückruf - Deutscher Händler sieht keinen Mangel bei eigenen Kondomen - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Vorsorglicher Rückruf - Deutscher Händler sieht keinen Mangel bei eigenen Kondomen - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUmt1eGJfX0pESnhXcXFfdWEzZk03c3lBeTZsSURZVlNNeXdNcXZPc3FUc3M5THJ3dmM1R0pJVjdqcWpvT3FqZGp1QkxaSnpaczRMRHpudXNjZ2pYcXg1bnd4UW03eWltRTdOcFRUZmtySThpRmI2ZjdQMFJjd2M1RVZRVllyazNxa2ZjaTRJbjFTNmNtcnFmYUJSazRBMHdUQ2hqUDh2ZVViYV9KLW82S2trUkZjNHJSUzhNU0VSLXNKVWd5eEtqY3JtdFlPSk1NQlI3Vk5Ec0FiMnlZeDBQZlJvaDltVGxRYVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-31T05:07:53+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQzVxSTRacG1jd2xyaUJXUlNOa0pMQWwyOUlaOEF4SWZjNjdxbi1fdXdVM0RXV284TGN0Vkh2aTRHNWdCSTIzTTkwbThOdTRqUWx0b2R4QklqR1VIR2lReC1Gd1NBT0R4bGxhSnRyM1ktYnlOTVhQbl80NWFwam1rZUhUeEh0S1ZVYTYzLUpLNnFETFk0UGVUU0JORmZnVHZ1eEEwdnZDZEpIS3lWdnVMd25ROGk2UXlsMkpLTUlZNXBuYmJySEZ6UzZvWEpGdHpLX1ZMRTJDajJmUWpVSm9Gbks3ZVVwVzlZTXI1ZXFORE5aV0R1dlhVa3J6WU9IenhO?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-31T15:02:27+00:00",
       "category": "News",
       "tags": [],
       "type": "News"
@@ -1366,16 +1366,6 @@
       "type": "News"
     },
     {
-      "title": "Magazine - Spezialist:innen aus Gastroenterologie, Chirurgie sowie Radiologie vereinen Diagnostik, Therapie, MRT, Endoskopie und Nachsorge für eine gezielte Behandlung. - RPO - Rheinische Post - RP Online",
-      "summary_de": "Magazine - Spezialist:innen aus Gastroenterologie, Chirurgie sowie Radiologie vereinen Diagnostik, Therapie, MRT, Endoskopie und Nachsorge für eine gezielte Behandlung. - RPO - Rheinische Post &nbsp;&nbsp; RP Online",
-      "source_name": "\"site:rp-online.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxORktRT3pQWGZtM0RpdkZOR2NtSndyR28zRjBtdy1oN3l0dnFZd2ktcVZyeTdQZnZTNk9mcENGeXNVTTI1b0tiQnk4dGpDTmlhVlNSaUkweFd0c21TeS1ocXFwcjlXbFNZUjdxMWowVGJ0bjdzdnQ5MVRRbm1NMnBzb1h3c2wyU1RTbE9BbHdZOGdNUHZuMUdTSnI4ZjZaeG9vQi1zSWw1aDVxdHRGaWlZUzBNMnRhcEZuMDZVSHgyRlJERDlWNXNWTk9jYndSVG15SkJ4enpCLW1DaURGVnR5VGx6VUVSTEd4LTRtRVlSZjZhNTY2X1JiUjNnNDN4WHNvN1VlNnFkWUFRVGpoTGl0Y2szZUQyd2t4cVFJN1c0MVpLSi1BQV96VXFmLXdDSksxRndZLUJKbzVEZHlyR2JRTEhHci0yUWxYZzZVRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-29T10:07:52+00:00",
-      "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "NHS Workforce Statistics - August 2026",
       "summary_de": "This report shows monthly numbers of NHS Hospital and Community Health Services (HCHS) staff. The data is split between staff working in NHS Trusts and other core organisations in England (excluding primary care staff), and staff working in NHS support organisations and central bodies. Data are available as full-time equivalent and headcount and for all months from 30 September 2009 …",
       "source_name": "Publication Feed",
@@ -1442,6 +1432,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SFVmdWpZcmRyZjQ3NWJEc0w3cTBPbzgwXzkzNDlOaF95eGlUNU1QMURvc1QzTlFSdjJoVktOOTM3elR1R1ExdkVfVVdyOG1ua1QzcEstOGlyZXB6YU1meEZFZHRfY2RtYmRXT3YxWllPby1Rb2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-10-29T07:00:00+00:00",
       "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Magazine - Spezialist:innen aus Gastroenterologie, Chirurgie sowie Radiologie vereinen Diagnostik, Therapie, MRT, Endoskopie und Nachsorge für eine gezielte Behandlung. - RPO - Rheinische Post - RP Online",
+      "summary_de": "Magazine - Spezialist:innen aus Gastroenterologie, Chirurgie sowie Radiologie vereinen Diagnostik, Therapie, MRT, Endoskopie und Nachsorge für eine gezielte Behandlung. - RPO - Rheinische Post &nbsp;&nbsp; RP Online",
+      "source_name": "\"site:rp-online.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxORktRT3pQWGZtM0RpdkZOR2NtSndyR28zRjBtdy1oN3l0dnFZd2ktcVZyeTdQZnZTNk9mcENGeXNVTTI1b0tiQnk4dGpDTmlhVlNSaUkweFd0c21TeS1ocXFwcjlXbFNZUjdxMWowVGJ0bjdzdnQ5MVRRbm1NMnBzb1h3c2wyU1RTbE9BbHdZOGdNUHZuMUdTSnI4ZjZaeG9vQi1zSWw1aDVxdHRGaWlZUzBNMnRhcEZuMDZVSHgyRlJERDlWNXNWTk9jYndSVG15SkJ4enpCLW1DaURGVnR5VGx6VUVSTEd4LTRtRVlSZjZhNTY2X1JiUjNnNDN4WHNvN1VlNnFkWUFRVGpoTGl0Y2szZUQyd2t4cVFJN1c0MVpLSi1BQV96VXFmLXdDSksxRndZLUJKbzVEZHlyR2JRTEhHci0yUWxYZzZVRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-29T07:00:00+00:00",
+      "category": "Radiologie",
       "tags": [],
       "type": "News"
     },
@@ -2085,6 +2085,16 @@
       "type": "News"
     },
     {
+      "title": "Kurzfristige Beschäftigungen und Saisonarbeit | Die Techniker - Firmenkunden - Techniker Krankenkasse",
+      "summary_de": "Kurzfristige Beschäftigungen und Saisonarbeit | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
+      "source_name": "\"site:tk.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNEN6SldQVXBiQjZ6bkt3NzBiblB3TTktdFV1TFR2czREVDJrMHVtZk14VE9ibmVaTW5ZUUtNeFNOa2ZjdUFMTkowRHhkU1dtVHR0SmpJcUFFUkdzYmNvaWRyMjBHVDJwMGlkdWxEemNWMzBIOVlWVE43Ul9Fd25PdXRIU3F5OVp1amJLUU84aEJQZmlzMGVmSDNCb3JnNXpUeDF5VWJkYVdyQ2tmSW9fSDBET0Q2WXc4NHViYXhiTnR5MGo0LUx1ejVtRXFvOGw1cDE2Vk5ObTZvY3A2RGM4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-22T08:03:59+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "TK-Lex: Online-Lexikon für Sozialversicherung, Arbeits- und Steuerrecht | Die Techniker - Firmenkunden - Techniker Krankenkasse",
       "summary_de": "TK-Lex: Online-Lexikon für Sozialversicherung, Arbeits- und Steuerrecht | Die Techniker - Firmenkunden &nbsp;&nbsp; Techniker Krankenkasse",
       "source_name": "\"site:tk.de\" - Google News",
@@ -2506,6 +2516,16 @@
       "type": "News"
     },
     {
+      "title": "Holundersaft: Gesunde Beeren mit großer Wirkung - DAK-Gesundheit",
+      "summary_de": "Holundersaft: Gesunde Beeren mit großer Wirkung &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNkFWQWlxeHNkVENaS2g5NExDbFFocU5UZHVBVEgzNTlJVWN1LThGcWJtajdXNThTUGMxOUNsMllOdThDdjJKQWZJTl9pVWFBTVBoblRBUmpGSE5RSkJmdWlsZncwNHhRbXFsVkdXRnlWMWNOVUczQlgzTmQ1YmxkLUFrRzl1M1BzWnFSbUU3UXd0b2NZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-09T16:39:37+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Meeting highlights from the Committee for Veterinary Medicinal Products (CVMP) 6-8 October 2026",
       "summary_de": "CVMP opinions on veterinary medicinal productsThe Committee adopted a positive opinion, in exceptional circumstances, for a marketing authorisation for Bovilis Lumpyvax&nbsp;(lumpy…",
       "source_name": "News and press releases",
@@ -2546,6 +2566,16 @@
         "Versorgung",
         "Wirtschaft"
       ],
+      "type": "News"
+    },
+    {
+      "title": "Ureaplasmen: Symptome, Behandlung und Risiken einfach erklärt - DAK-Gesundheit",
+      "summary_de": "Ureaplasmen: Symptome, Behandlung und Risiken einfach erklärt &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUFNSnUwYmJ6blV4Ri0tNklncXlsNzRkdUlhb1VkREI1SzhnVFdtVlhZd0gtYTBKemtqMDNwUnpHNWRlbTlnLVhoeXVJUi1VWUJxSXB2WlFlMU9IaUFlTEhMSUJpM1J6NUt3eEFCZ3E2WlJOOExkVjVFYmtLTHVNN3UxS1FlRVZveEdjMHZjWDBEbFduZ0JxU0xwQ2U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-09T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
       "type": "News"
     },
     {
@@ -2647,6 +2677,16 @@
       "type": "News"
     },
     {
+      "title": "Brainfood: Nährstoffreiche Lebensmittel fürs Gehirn - DAK-Gesundheit",
+      "summary_de": "Brainfood: Nährstoffreiche Lebensmittel fürs Gehirn &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNelZ4N0Q0OFc5ajdzSjRLdWRDRDNmZkJNT255UDlpMmZ0ZEVlTXZRN2Q3LWp1QTJPSnBJaVBadlZCaUgxd3c1eE1OZWVBZzdqaGdZLVZWMU03X0htYncxTDVQM2hPaXE3M2ZhU3N5eWRjWTdhWlh0NlF3V2h2dTVzRC1YSjFXcmN0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-10-05T07:00:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "[MI] SNOMED Code Usage in Primary Care, 2025-26",
       "summary_de": "The following files show the number of times each listed SNOMED code was added to a GP patient record within the period 1 Aug 2025 to 31 July 2026, aggregated at England level. The data is available in .txt and .xlsx formats.Data does not show how many patients had each code added to their record. A patient could have one …",
       "source_name": "Publication Feed",
@@ -2697,16 +2737,6 @@
       "type": "News"
     },
     {
-      "title": "Reiseimpfungen: Wir übernehmen die Kosten - DAK-Gesundheit",
-      "summary_de": "Reiseimpfungen: Wir übernehmen die Kosten &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQjdIODZNOVdaU2liSmZYNFJ4NUR2b0lwVzZfNk4yWmE1RFJsQnQxR29YRkxHUnhiZXN3Nk1LdTcxZktEZ25SS2RLRC1ScmhPMXRCTHBlbzFXV0cyRGdJRjI5Y1ZPYzRZMC1KVnpyVDl0M0JGQ2NDT3docGROdk1sbTN2eUZtX1FtTXdOZTdaNlUyQ0k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-01T07:00:00+00:00",
-      "category": "Wirtschaft",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Chlamydienvorsorge: Wir übernehmen die Kosten - DAK-Gesundheit",
       "summary_de": "Chlamydienvorsorge: Wir übernehmen die Kosten &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
@@ -2741,16 +2771,6 @@
       "summary_de": "Immunsystem stärken: Tipps für starke Abwehrkräfte &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLUxBQTgyY0QtcnVvUHB0eDRJY0pEbm8zdXMzZmI3b1AxdlpzMV9KYTlJREZOWWo0Q29mQjVXbW5TXzhncm5EOHlsaWQ2OUNsOFUzVXVSRVFsU2hJOFNRNjVTREpUWGJDSEc3a1I0cmJTZ1llMHYxNWx6MFk5S0hnVVJkODRuV3RONXdrRXBCSXJWazM1UldfYlkxSEtnVFZ1NTUzY19FenNwdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-01T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Was hilft gegen Bauchschmerzen? Hausmittel & Tipps - DAK-Gesundheit",
-      "summary_de": "Was hilft gegen Bauchschmerzen? Hausmittel & Tipps &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYTVnQkRhU3VoOUFDVXU1UzRSUzhVcDFnZ2pxaFJDSVFuUHRIcGVsWEkxVkZJdnd4aGVjOTlaenZkTENTTDJybjNQZ3JFeExhdUlNbUoxTmJ6ZHRYUlphUGZEVE5kM1VfR2VmMWVZaGd4YmE3WGJZdHBmQWtMSFRadWZPY2hLalA5bThMX1lKVTdnbWc1MTQ5RWdIVTdqLUlNazBGb2VuSXN5d0xzMWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-10-01T07:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -2801,16 +2821,6 @@
       "summary_de": "Kann ich auch ohne Gesundheitskarte zum Arzt? &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
       "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVFUxWTdFTlNlWDRjZWMxc19vQ0l6VkdGODM0M0lCU2JMTzR4NnZLZ3lETVI0c0taLXpXeTZwdEFoSXVGYmg2Z3RUdUxhdFUyM0I4MFFNVEFTSExIOHR3djBtNkdEZWlobkVMRVdiU2d5ZEZ2N1RVTGR6bjJCckpXSWVHeWh0cGprOHZEM1ppSXdoVU1EVzJLeXB5VGN3QmNHMFpqczdUb1JiMm9FME9pUG9GTWJGN0pM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-01T07:00:00+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Kuren in DAK-Vertragskliniken - DAK-Gesundheit",
-      "summary_de": "Kuren in DAK-Vertragskliniken &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOejcyeVI2d3JSd1NrREhRUWJsbk1WQWI3WmVkVTRRVXlYZHpJTGk1aDVHMTctNVpQMEdTMURsWXMydG1vUUcyeHpnaG5tQlJ4UnF1MXpjOXFfakE5M1ZFTWg5ZHBpSXhjTk4yWDVINFVWRjJnYmZiTFFrTDEzTjF0YjJTdnE0aC03ZEY3ZUdpMTNEZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-10-01T07:00:00+00:00",
       "category": "News",
       "tags": [],
@@ -2879,6 +2889,16 @@
       "source_url": "https://www.efsa.europa.eu/en/news/save-date-efsas-safe-food-one-future-conference-2027",
       "published_at": "2026-09-29T12:30:57+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Zyste am Eierstock (Ovarialzysten) - DAK-Gesundheit",
+      "summary_de": "Zyste am Eierstock (Ovarialzysten) &nbsp;&nbsp; DAK-Gesundheit",
+      "source_name": "\"site:dak.de\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMVF4b0FXdURPQ2FuT0xHUndFSERPLU45UUUyRFI4WXJyN1AxekJ6UkwtcnQ3OE9VWUoyZUlkdm1PNFBjelFhSWxpcEJsT3RxUDJXOENSVlUzeXJyRHFoeTVhZ1VrLVBnRWVhZVlIX1VVU0lWWnkwNFRuQVhoZ1dhWGVaaTFfbXFXRkVkTUNmbUtDUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-09-29T11:50:04+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
