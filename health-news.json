@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-24T19:50:13.375428+00:00",
+  "generated_at": "2026-11-25T03:53:34.597781+00:00",
   "window_days": 42,
-  "count": 274,
+  "count": 250,
   "items": [
     {
       "title": "Deutsche Arznei nicht für den deutschen Markt: Bayer probt den Medikamenten-Boykott - FAZ",
@@ -114,21 +114,21 @@
       "type": "News"
     },
     {
-      "title": "Ausdaueraktivitäten: Neue WHO-Kriterien verändern die Bewertung",
-      "summary_de": "Nach den im Jahr 2020 aktualisierten WHO-Empfehlungen erf&uuml;llen deutlich mehr Menschen die Vorgaben zur Ausdaueraktivit&auml;t. Ursache ist vor allem eine ver&auml;nderte Bewertung bereits erhobener Bewegungsdaten.",
-      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
-      "source_url": "https://www.pharmazeutische-zeitung.de/neue-who-kriterien-veraendern-die-bewertung-172170/",
-      "published_at": "2026-11-24T15:00:00+00:00",
+      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
+      "summary_de": "Typ: Erstmeldung Arzneimittel: Iloprost Zentiva 20 Mikrogramm/ml L&#246;sung f&#252;r einen Vernebler pU: Zentiva Pharma GmbH",
+      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
+      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
+      "published_at": "2026-11-24T15:00:12+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
     },
     {
-      "title": "Zu einem Lieferengpass gibt es eine neue Mitteilung:",
-      "summary_de": "Typ: Erstmeldung Arzneimittel: Iloprost Zentiva 10 Mikrogramm/ml L&#246;sung f&#252;r einen Vernebler pU: Zentiva Pharma GmbH",
-      "source_name": "RSS-Feed BfArM/PEI(ohne Humanimpfstoffe): Lieferengpassmeldungen",
-      "source_url": "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/faces/public/meldungen.xhtml",
-      "published_at": "2026-11-24T14:55:10+00:00",
+      "title": "Ausdaueraktivitäten: Neue WHO-Kriterien verändern die Bewertung",
+      "summary_de": "Nach den im Jahr 2020 aktualisierten WHO-Empfehlungen erf&uuml;llen deutlich mehr Menschen die Vorgaben zur Ausdaueraktivit&auml;t. Ursache ist vor allem eine ver&auml;nderte Bewertung bereits erhobener Bewegungsdaten.",
+      "source_name": "Pharmazeutische Zeitung online: Nachrichten (RSS)",
+      "source_url": "https://www.pharmazeutische-zeitung.de/neue-who-kriterien-veraendern-die-bewertung-172170/",
+      "published_at": "2026-11-24T15:00:00+00:00",
       "category": "Wirtschaft",
       "tags": [],
       "type": "News"
@@ -140,16 +140,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVHY3UmlIbWhmWVZrVFhFTnVESUVKNUhYZGtyZWNmVDlFWlptakpVb2xrRmpybzRqMzJ6XzVZY3VfMF8zN1ZSdVNmcjdzOU9fS2ZodE1tNkQzeExzYzRfTVlKRlRqTGdkYTFWX2szLS11aXk5N3AxY0FiNjZWVzBLQndYTERJeHpEbFJqbzJFMGc2YjJDVXVqdU53X0ZvY3o4Nnl4aWVnWlpoaFhkRlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-11-24T14:35:17+00:00",
       "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Häusliche Pflege: AOK bemängelt fehlende Qualitätskontrolle bei häuslicher Pflege - DIE ZEIT",
-      "summary_de": "Häusliche Pflege: AOK bemängelt fehlende Qualitätskontrolle bei häuslicher Pflege &nbsp;&nbsp; DIE ZEIT",
-      "source_name": "\"site:zeit.de gesundheit\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUlY4cXp2QjI5SFlYamt2NXhjc05UQ1JsZkdJWUFtYlhsdjdvMEY3RWhuVlJiUHhVNmMxd0lFRzYyMDNMTTNvYzdsNDBKam9FSG90N2JVNE01VlZiY1VRQ3pKWmZ0aVExSWdQTWdMT2c4UnZnMDgxcVhZUllPT2JpNWk3RktJMnhrUTZscGp4Njh5TEdnMkVSM091WG94T2dhc3pyc1haN1c5NWFzSnEtT0IwN0NKN1VNUXpNNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-11-24T14:30:59+00:00",
-      "category": "Versorgung",
       "tags": [],
       "type": "News"
     },
@@ -412,16 +402,6 @@
       "category": "Versorgung",
       "tags": [],
       "type": "News"
-    },
-    {
-      "title": "Hypoglossal nerve stimulation for obstructive sleep apnoea in adults",
-      "summary_de": "Hypoglossal nerve stimulation for obstructive sleep apnoea in adults",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016417",
-      "published_at": "2026-11-24T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
     },
     {
       "title": "TK-Befragung zur Pflegereform | Die Techniker - Presse & Politik - Techniker Krankenkasse",
@@ -788,16 +768,6 @@
       "type": "News"
     },
     {
-      "title": "Brand in Berliner Krankenhaus: 15 Verletzte, eine Person in Lebensgefahr - FAZ",
-      "summary_de": "Brand in Berliner Krankenhaus: 15 Verletzte, eine Person in Lebensgefahr &nbsp;&nbsp; FAZ",
-      "source_name": "\"site:faz.net medizin\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS19rWGVvZ0NoU25DTERJOFQtMG9XWjVsYkdfQ042UU90bU1nMThlME9veHZmNXQyc3EyNHRBRXY1cnEwdkNPb1BMQUJsVWNBR0txSTNYNHphUFJaNzJ5ck96ejVDeENiSlZ6ektHYlJXWXRKYUo3YVhLNHpSamJ4TGNoTThxVmRSNHI1ZlU2eGc0VE1sMTE0LU90UXNZQU41TllQbndSOHRaM3FyQzBHQjNOV0ZzTl80YzAzOGFhUW1mSFhOYkdZUHJRR0Q3X0luRmFNcnVLX18?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-11-23T03:24:38+00:00",
-      "category": "News",
-      "tags": [],
-      "type": "News"
-    },
-    {
       "title": "Umfrage zu Gesundheitsängsten - Mehr Menschen fürchten sich vor Krebs, Demenz und Unfall - Gesundheit - SZ.de - SZ.de",
       "summary_de": "Umfrage zu Gesundheitsängsten - Mehr Menschen fürchten sich vor Krebs, Demenz und Unfall - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
       "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
@@ -806,16 +776,6 @@
       "category": "News",
       "tags": [],
       "type": "News"
-    },
-    {
-      "title": "Pathogen‐reduced platelets for the prevention of bleeding",
-      "summary_de": "Pathogen‐reduced platelets for the prevention of bleeding",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009072.pub4",
-      "published_at": "2026-11-23T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
     },
     {
       "title": "Arzt / Facharzt Radiologie Stellenangebote in Münster - ärztestellen",
@@ -834,16 +794,6 @@
       "source_url": "https://www.diagnosticimaging.com/view/diagnostic-imaging-weekly-scan-november-15-november-21",
       "published_at": "2026-11-22T18:38:00+00:00",
       "category": "Radiologie",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "(S+) Krank durchs Krankenhaus: Bettruhe macht viele ältere Patienten zu Pflegefällen - Spiegel",
-      "summary_de": "(S+) Krank durchs Krankenhaus: Bettruhe macht viele ältere Patienten zu Pflegefällen &nbsp;&nbsp; Spiegel",
-      "source_name": "\"site:spiegel.de \"Gesundheitspolitik\"\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNY3lZdG9naGN2YUtvY1pUNE00VFZCMFJtdmxMX0tOU3BOdXZ0Z1c5bjJpTDZfTFRxa3RGcFZOb2lXR1JBenVkenBIVXFpQnQ3NG1EcWV5b0dsV3ZEakh5X2JPMnYxNEZfczZOWUUtLXVjWkxyelNHT1lfdmo0T0prVlZCZWRoUk5YeWVkczRSSWxycld3TnJGcWF1UktjQlJ4SThkUnlCMWN1ZUNVaF92Nl9VR0tCWU93Mjc1Z0w5VksxS1p6anFuQjRRYlpXLWtFWUp4WWZTQWpTUHFUUkt6TnpORFJuc00tUVJxX0Z3WktjUWdZYVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-11-22T18:21:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -914,6 +864,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTVNONGhZUHNfU01naWZ0ZDRFSUd5azhUUnNKMFI3SVhCYk1qb2VfSHI3UG1hM3oxQ1ZLNER6LUlBMm9DdGxwWE15d1RyWnd1eEFuRV9pV2g5Snl4SUR2T0RidW55Rm8tZUFaRlE2QUhtaDN0NkZ1UEJNZHliN2U2VjFwTzdjN05xQ1VWYU9PdTVIcTYzUjRpejJUMDNZdWtvWW9qY3ZwU2VJZFNtU094cDNETXZvb0NoNnZMRkk5d2NEWko4aUNiX1FldklUWHF3R0Vr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "published_at": "2026-11-21T08:00:00+00:00",
       "category": "Radiologie",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Webseminar Medizin: TAPE ermöglicht bessere Therapie bei Arthrose-Schmerzen - Lausitzer Rundschau",
+      "summary_de": "Webseminar Medizin: TAPE ermöglicht bessere Therapie bei Arthrose-Schmerzen &nbsp;&nbsp; Lausitzer Rundschau",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOHE0SExHSkhwdV9NOFNySjBfbkNTeXpMYnJ1UlBpODhUWU05aUwtM3g1dHZjTlhPNnNMVUItdXl3bEZ5TmVvUHRkMUpZWDNGcEQtc1NTcXdWS2hITm9BcVFMLWYwbUI0b0p3TG1uRTRCaklSRE1VTENlNkdsMTBlY0VvWm0tRmNKSU1BTDFSTFlKZlRWb3VLTW12YTY2ekw3V2RyVmtqVWRBdmstUGJDZDlxU1dIV1ZTYzV6ajdTQmtMb242VzNQUVBhbk9qaFFzN25HNQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-21T06:34:52+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1016,36 +976,6 @@
       "category": "News",
       "tags": [],
       "type": "News"
-    },
-    {
-      "title": "Surgical interventions for adults with low back pain with or without spine‐related leg pain or degenerative lumbar spinal abnormalities: an overview of systematic reviews of randomised controlled trials",
-      "summary_de": "Surgical interventions for adults with low back pain with or without spine‐related leg pain or degenerative lumbar spinal abnormalities: an overview of systematic reviews of randomised controlled trials",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014692",
-      "published_at": "2026-11-20T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "TTR‐stabilising medicines for the treatment of transthyretin amyloid cardiomyopathy",
-      "summary_de": "TTR‐stabilising medicines for the treatment of transthyretin amyloid cardiomyopathy",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016420",
-      "published_at": "2026-11-20T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Neoadjuvant chemotherapy and surgery versus chemoradiotherapy for locally advanced cervical cancer",
-      "summary_de": "Neoadjuvant chemotherapy and surgery versus chemoradiotherapy for locally advanced cervical cancer",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014684.pub2",
-      "published_at": "2026-11-20T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
     },
     {
       "title": "Diagnostic Imaging articles: Update",
@@ -1268,36 +1198,6 @@
       "type": "News"
     },
     {
-      "title": "Curcuma longa (turmeric) or its active ingredients for osteoarthritis",
-      "summary_de": "Curcuma longa (turmeric) or its active ingredients for osteoarthritis",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014683.pub2",
-      "published_at": "2026-11-19T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "World Health Organization non‐laboratory‐based 10‐year cardiovascular disease risk prediction model in adults without established disease",
-      "summary_de": "World Health Organization non‐laboratory‐based 10‐year cardiovascular disease risk prediction model in adults without established disease",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016405",
-      "published_at": "2026-11-19T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Interventions for managing immature permanent teeth with necrotic pulps",
-      "summary_de": "Interventions for managing immature permanent teeth with necrotic pulps",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012709.pub2",
-      "published_at": "2026-11-19T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
       "title": "Antibiotika und Milch: Welche Wirkstoffe vertragen sich nicht? - DAK-Gesundheit",
       "summary_de": "Antibiotika und Milch: Welche Wirkstoffe vertragen sich nicht? &nbsp;&nbsp; DAK-Gesundheit",
       "source_name": "\"site:dak.de\" - Google News",
@@ -1368,6 +1268,16 @@
       "type": "News"
     },
     {
+      "title": "Gesundheitsdaten - KI-Chatbots: Jeder Fünfte missachtet Arztempfehlungen - Gesundheit - SZ.de - SZ.de",
+      "summary_de": "Gesundheitsdaten - KI-Chatbots: Jeder Fünfte missachtet Arztempfehlungen - Gesundheit - SZ.de &nbsp;&nbsp; SZ.de",
+      "source_name": "\"site:sueddeutsche.de gesundheit\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSzdwZXpNVEV5NDUtd0U1bmR5VnRuTGRyWlFMd3JjNWVnMFVDTHJYWHE5Z2Y1SkpWMGFvZEladkF6eVA1VjRmak9qOTZHZEY5eWF2WmVNQU9ZeGNpTzMwaXZJb0NONExncDRJVmhNTHJ0aWlXcE5oMWZ2YS1HektQZmpoNnU1VUxRUzJrV2Y0NnVPcnpjYUhjSzZvYVk5Uko2TWI2TFNFZnJXS3RzemZUdm1yUFVxbDNiZnV6RG8zcnM0aWs3Qm00TWI5dWo3RVhsYUpkMkVobk0xYWI2Sl9QbldhbkJzMFBJakk0LWxJYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-18T10:37:00+00:00",
+      "category": "News",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Guidance: London Region I MHRA Regulatory Sandbox: call for expressions of interest",
       "summary_de": "Expressions of interest are invited from AI-enabled medical device manufacturers and NHS provider organisations interested in participating in the London Region I MHRA Regulatory Sandbox.",
       "source_name": "Medicines and Healthcare products Regulatory Agency - Activity on GOV.UK",
@@ -1398,6 +1308,16 @@
       "type": "News"
     },
     {
+      "title": "„Ich bezweifle stark, dass ein Pflege-Soli rechtmäßig wäre“ - Handelsblatt",
+      "summary_de": "„Ich bezweifle stark, dass ein Pflege-Soli rechtmäßig wäre“ &nbsp;&nbsp; Handelsblatt",
+      "source_name": "\"site:handelsblatt.com \"Gesundheitspolitik\" ODER Gesundheitswirtschaft\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNam1RTHd5bmdiV2tlRmk1TkpxbWl2bmpna29fVzR2a3BtaHNnLUg3MEotUzIxYzZiUk9Sc0k4cHJPak1udFNNMFpaSVhTQVJ6OUJabllPdFJZbHdDOXA1Q2NJcG8yRjlwY3NZam9DMVFUSW5mUm9xMkt0RnJVMUxpQmJZZjJRTmNQRkRNTmtELUhpT05IQ2VCVFpqWW9Nd2lFMm5od1FNRVV6YjhPTURQRG90ZncxVmNqWHl6R01VdU40SnFSdS1nX1YyS250dy1zUzZ4VVNjTG9NUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-18T03:13:48+00:00",
+      "category": "Versorgung",
+      "tags": [],
+      "type": "News"
+    },
+    {
       "title": "Gesundheitspolitik: USA verlieren Status als masernfreies Land - DIE ZEIT",
       "summary_de": "Gesundheitspolitik: USA verlieren Status als masernfreies Land &nbsp;&nbsp; DIE ZEIT",
       "source_name": "\"site:zeit.de \"Gesundheitspolitik\"\" - Google News",
@@ -1416,26 +1336,6 @@
       "category": "Gesundheitspolitik",
       "tags": [],
       "type": "News"
-    },
-    {
-      "title": "Blood‐based tests to screen for multiple cancers in adults",
-      "summary_de": "Blood‐based tests to screen for multiple cancers in adults",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016235",
-      "published_at": "2026-11-18T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Inositol for infertile women with polycystic ovary syndrome",
-      "summary_de": "Inositol for infertile women with polycystic ovary syndrome",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012378.pub3",
-      "published_at": "2026-11-18T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
     },
     {
       "title": "Diagnostic Imaging articles: Update",
@@ -1464,6 +1364,16 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mi-network-contract-des/england-october-2026",
       "published_at": "2026-11-17T11:25:15+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Mehr Krebserkrankungen erkennen bei weniger Arbeit: Künstliche Intelligenz revolutioniert die Medizin - DiePresse.com",
+      "summary_de": "Mehr Krebserkrankungen erkennen bei weniger Arbeit: Künstliche Intelligenz revolutioniert die Medizin &nbsp;&nbsp; DiePresse.com",
+      "source_name": "\"radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQmFabzlDXzlCRWZwNXRPSVppT1pVWEx3dU9oYnZMYnc2dzlqakZCOHZqWmdiOHNmdHFlN1VzTVFXV3FMVnd3bnc2UV9talZ0dHdoRzJtajJZODRWY2VPQTY4UlhaMFZianFLZE1UMzQ5SDktV3o0Tkk1Q1FqbHlhRlRMbng5VWVRSXV6N1h6ckJTenpERGpkTm05VENLTmk1Qm1Z?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-17T10:39:17+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1498,86 +1408,6 @@
         "Wirtschaft"
       ],
       "type": "News"
-    },
-    {
-      "title": "Interventions for women with endometrioma prior to assisted reproductive technology",
-      "summary_de": "Interventions for women with endometrioma prior to assisted reproductive technology",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008571.pub3",
-      "published_at": "2026-11-17T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Medical adhesive‐related skin injuries and medical device‐related pressure injuries in newborns: a scoping review",
-      "summary_de": "Medical adhesive‐related skin injuries and medical device‐related pressure injuries in newborns: a scoping review",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016410",
-      "published_at": "2026-11-17T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Restricting oral fluid and food intake during labour",
-      "summary_de": "Restricting oral fluid and food intake during labour",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016411",
-      "published_at": "2026-11-17T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Gum‐based thickeners for oropharyngeal dysphagia in adults",
-      "summary_de": "Gum‐based thickeners for oropharyngeal dysphagia in adults",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016418",
-      "published_at": "2026-11-17T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Daily iron supplementation for prevention or treatment of iron‐deficiency anaemia in infants, children, and adolescents",
-      "summary_de": "Daily iron supplementation for prevention or treatment of iron‐deficiency anaemia in infants, children, and adolescents",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013227.pub2",
-      "published_at": "2026-11-17T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Pulmonary rehabilitation following exacerbations of chronic obstructive pulmonary disease",
-      "summary_de": "Pulmonary rehabilitation following exacerbations of chronic obstructive pulmonary disease",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005305.pub5",
-      "published_at": "2026-11-17T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Prophylactic granulopoiesis‐stimulating factors for people with solid tumors undergoing cancer treatment",
-      "summary_de": "Prophylactic granulopoiesis‐stimulating factors for people with solid tumors undergoing cancer treatment",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015656.pub2",
-      "published_at": "2026-11-17T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Kangaroo mother care to reduce morbidity and mortality in low birthweight infants",
-      "summary_de": "Kangaroo mother care to reduce morbidity and mortality in low birthweight infants",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002771.pub5",
-      "published_at": "2026-11-17T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
     },
     {
       "title": "Diagnostic Imaging articles: Update",
@@ -1658,16 +1488,6 @@
       "category": "News",
       "tags": [],
       "type": "News"
-    },
-    {
-      "title": "Low‐dose oral misoprostol for induction of labour",
-      "summary_de": "Low‐dose oral misoprostol for induction of labour",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014484.pub2",
-      "published_at": "2026-11-16T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
     },
     {
       "title": "Diagnostic Imaging articles: Update",
@@ -1798,6 +1618,16 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/learning-disabilities-health-check-scheme/england-september-2026/content-copy-2",
       "published_at": "2026-11-12T14:48:19+00:00",
       "category": "Europa",
+      "tags": [],
+      "type": "News"
+    },
+    {
+      "title": "Gendergerechte Medizin: Ganzheitlicher Blick auf Geschlecht und Gesellschaft - Pharmazeutische Zeitung",
+      "summary_de": "Gendergerechte Medizin: Ganzheitlicher Blick auf Geschlecht und Gesellschaft &nbsp;&nbsp; Pharmazeutische Zeitung",
+      "source_name": "\"site:pharmazeutische-zeitung.de radiologie\" - Google News",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQk1mWE15akRtMTM0QlNvZzBGeHp1Nm5WcW5HbVFoWS1DOXoxazBqTmNLTEp1WEx3MUVuTDRGekJVR1A1cEFwenRSb1Rja0s2d2RLVGg1U2V2c2hBcDl6cloyZzcxS2pFeGJMSzVGNHh3dGloRzVkbVU2bnU4U1QwanBGQzhGcEFPVWVOZDZBNjM3a3czZy13c0lCQVlsWk90bjZWT2NTUTV3RjEya1ZTYzJOU3dWeTc2UlR4RzNWNUdpeEFYVGFsWGVRX0JVQ1UtLXVDR0hUYnpzcExyb0Rn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-11-12T14:00:00+00:00",
+      "category": "News",
       "tags": [],
       "type": "News"
     },
@@ -1987,26 +1817,6 @@
       "type": "News"
     },
     {
-      "title": "Poly (ADP‐ribose) polymerase inhibitors (PARPi) for treating advanced epithelial ovarian cancer",
-      "summary_de": "Poly (ADP‐ribose) polymerase inhibitors (PARPi) for treating advanced epithelial ovarian cancer",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007929.pub5",
-      "published_at": "2026-11-11T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
-      "title": "Regimens of vitamin D supplementation for women during pregnancy",
-      "summary_de": "Regimens of vitamin D supplementation for women during pregnancy",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013446.pub2",
-      "published_at": "2026-11-11T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -2017,16 +1827,6 @@
       "type": "News"
     },
     {
-      "title": "Heat stability of essential medicines: the global evidence gap",
-      "summary_de": "Heat stability of essential medicines: the global evidence gap",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.ED000184",
-      "published_at": "2026-11-10T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
       "title": "Diagnostic Imaging articles: Update",
       "summary_de": "",
       "source_name": "Diagnostic Imaging articles",
@@ -2034,18 +1834,6 @@
       "published_at": "2026-11-09T22:41:00+00:00",
       "category": "Radiologie",
       "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Änderung der Vereinbarung von Qualitätssicherungsmaßnahmen nach § 135 Abs. 2 SGB V zur Durchführung von Untersuchungen in der diagnostischen Radiologie und Nuklearmedizin und von Strahlentherapie (Vereinbarung zur Strahlendiagnostik und -th",
-      "summary_de": "Änderung der Vereinbarung von Qualitätssicherungsmaßnahmen nach § 135 Abs. 2 SGB V zur Durchführung von Untersuchungen in der diagnostischen Radiologie und Nuklearmedizin und von Strahlentherapie (Vereinbarung zur Strahlendiagnostik und -th &nbsp;&nbsp; Deutsches Ärzteblatt",
-      "source_name": "\"site:aerzteblatt.de radiologie\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMihARBVV95cUxOX2JEZ1V1ajFCVTVMTDdOOHFKbXdLNG1fSURUQ1NQdUFrRV8zdjlseVlVOWU4MTkzNk13aHpiencxMGd4aGtSdkhpTDh5NFFSZUxiZGE4WmRDdm10UDBFZ0lyMU9ROXpCMXcwVC16RmViTU9kUFBIZVZucXFzLVNxSmYyd1ZlaG41ZGRaMGtpd0dQNGxrblpoNXdyT0lobkZOcndMM3c4bGlLZ203SWt0dVBaZWo4b2lPbFFqSC1GQjZ3UGZZTlZsb2I3d1prZGZyalNWeElfWjFDVTZWOWo1eE1rLWl2MVloUHg2OHFkdU5WTFR3Y1hLQnlrS0wxU3FrbTM0eVpnMnBjaFF4V2otN19iRlhQOHN4OTJiRUlSaW5WQjdzOW1iOFdrQTFrZjV6ZXBLU2tSYm02R09fTGlQMFc5djJLZmtoRW5MVzR2TFlqZW4xWVMwSGtKel80dzdqZktYOTh5dGNhcklmbm56QUZGUXk4V25ZOXZxRmJZTl9weHFuMHM1X01HTDJYUGd6a1pDQkVGZl9rVVBIc0MwMFFwcTFTV2o3YlZkLWhYUzdLRm5uVWtxcWRKM3ZhTXZvdVN5T0gxQmdQQ0JITXNQUUc4R1JsUmx0djZYQXlSSUloUVBLWHpXTHcyZkM0RG53ZkdrSGx3SmZKVFAxckdhX05rdHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-11-09T21:05:44+00:00",
-      "category": "Gesundheitspolitik",
-      "tags": [
-        "Radiologie"
-      ],
       "type": "News"
     },
     {
@@ -2173,16 +1961,6 @@
       "type": "News"
     },
     {
-      "title": "Chest physiotherapy for pneumonia in children",
-      "summary_de": "Chest physiotherapy for pneumonia in children",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010277.pub4",
-      "published_at": "2026-11-06T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
-    },
-    {
       "title": "Access to crisis care via NHS 111 - Mental Health, September 2026",
       "summary_de": "This publication introduces a newly established data collection for demand and call handling data items related to accessing crisis care via the NHS111 'select MH option'. This data will provide important insights into how accessible the crisis care system is helping to identify any gaps or inefficiencies. Additionally, the data will be used to support demand and capacity planning across …",
       "source_name": "Publication Feed",
@@ -2249,16 +2027,6 @@
         "Wirtschaft"
       ],
       "type": "News"
-    },
-    {
-      "title": "Levothyroxine for subclinical hypothyroidism",
-      "summary_de": "Levothyroxine for subclinical hypothyroidism",
-      "source_name": "Cochrane Library RSS feed.",
-      "source_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016414",
-      "published_at": "2026-11-05T00:00:00+00:00",
-      "category": "Studie",
-      "tags": [],
-      "type": "Studie"
     },
     {
       "title": "Elsner zum PNOG: Richtiger Schritt zur Stabilisierung, aber unausgewogene Finanzierung",
@@ -2538,16 +2306,6 @@
       "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/gp-contract-services/2025-26",
       "published_at": "2026-10-23T12:41:32+00:00",
       "category": "Europa",
-      "tags": [],
-      "type": "News"
-    },
-    {
-      "title": "Rückentraining und Rückenschule - DAK-Gesundheit",
-      "summary_de": "Rückentraining und Rückenschule &nbsp;&nbsp; DAK-Gesundheit",
-      "source_name": "\"site:dak.de\" - Google News",
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZVc2M1E0QnUtQzcxamVLSGpjQ0RiWXN1YUVZME5WejFGdFhHMDY5NnI2X0h2VmlJYl9IeVprNHRJejdtVkJkZHlNN2Rsc3JOdDM3d282SGkyUHNuQ1VPbkNITFdfUzF6M0JSMDd1alNOLUY4elg1SlhzVEFHVmd0aWFIRnZUQWhydU5UM2ZrTQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "published_at": "2026-10-23T07:00:00+00:00",
-      "category": "News",
       "tags": [],
       "type": "News"
     },
